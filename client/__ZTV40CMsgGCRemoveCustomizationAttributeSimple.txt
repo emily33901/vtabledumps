@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCRemoveCustomizationAttributeSimple
+// Auto reconstructed from vtable block @ 0x00E3AD80
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCRemoveCustomizationAttributeSimple::~CMsgGCRemoveCustomizationAttributeSimple()
+1	CMsgGCRemoveCustomizationAttributeSimple::~CMsgGCRemoveCustomizationAttributeSimple()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCRemoveCustomizationAttributeSimple::New(void)const
+4	CMsgGCRemoveCustomizationAttributeSimple::Clear(void)
+5	CMsgGCRemoveCustomizationAttributeSimple::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCRemoveCustomizationAttributeSimple::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCRemoveCustomizationAttributeSimple::ByteSize(void)const
+10	CMsgGCRemoveCustomizationAttributeSimple::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCRemoveCustomizationAttributeSimple::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCRemoveCustomizationAttributeSimple::GetCachedSize(void)const
+13	CMsgGCRemoveCustomizationAttributeSimple::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCRemoveCustomizationAttributeSimple::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCRemoveCustomizationAttributeSimple::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCRemoveCustomizationAttributeSimple::GetMetadata(void)const

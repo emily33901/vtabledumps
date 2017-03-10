@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::NameValuePairs::ValueTypeMismatch
+// Auto reconstructed from vtable block @ 0x01015B00
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::NameValuePairs::ValueTypeMismatch::~ValueTypeMismatch()
+1	CryptoPP::NameValuePairs::ValueTypeMismatch::~ValueTypeMismatch()
+2	CryptoPP::Exception::what(void)const

@@ -1,0 +1,23 @@
+// `vtable for'CMsgTFJoinChatChannel
+// Auto reconstructed from vtable block @ 0x00E529E0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFJoinChatChannel::~CMsgTFJoinChatChannel()
+1	CMsgTFJoinChatChannel::~CMsgTFJoinChatChannel()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgTFJoinChatChannel::New(void)const
+4	CMsgTFJoinChatChannel::Clear(void)
+5	CMsgTFJoinChatChannel::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgTFJoinChatChannel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgTFJoinChatChannel::ByteSize(void)const
+10	CMsgTFJoinChatChannel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgTFJoinChatChannel::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgTFJoinChatChannel::GetCachedSize(void)const
+13	CMsgTFJoinChatChannel::CopyFrom(google::protobuf::Message const&)
+14	CMsgTFJoinChatChannel::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgTFJoinChatChannel::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgTFJoinChatChannel::GetMetadata(void)const

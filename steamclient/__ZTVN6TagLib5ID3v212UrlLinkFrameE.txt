@@ -1,0 +1,11 @@
+// `vtable for'TagLib::ID3v2::UrlLinkFrame
+// Auto reconstructed from vtable block @ 0x00EE34A8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ID3v2::UrlLinkFrame::~UrlLinkFrame()
+1	TagLib::ID3v2::UrlLinkFrame::~UrlLinkFrame()
+2	TagLib::ID3v2::UrlLinkFrame::setText(TagLib::String const&)
+3	TagLib::ID3v2::UrlLinkFrame::toString(void)const
+4	TagLib::ID3v2::UrlLinkFrame::parseFields(TagLib::ByteVector const&)
+5	TagLib::ID3v2::UrlLinkFrame::renderFields(void)const
+6	TagLib::ID3v2::UrlLinkFrame::url(void)const
+7	TagLib::ID3v2::UrlLinkFrame::setUrl(TagLib::String const&)

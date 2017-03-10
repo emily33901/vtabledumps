@@ -1,0 +1,6 @@
+// `vtable for'CHTTPRequestHandle
+// Auto reconstructed from vtable block @ 0x00EE6240
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPRequestHandle::~CHTTPRequestHandle()
+1	CHTTPRequestHandle::~CHTTPRequestHandle()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)

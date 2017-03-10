@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUFSUploadFileFinished
+// Auto reconstructed from vtable block @ 0x00EEA5E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSUploadFileFinished::~CMsgClientUFSUploadFileFinished()
+1	CMsgClientUFSUploadFileFinished::~CMsgClientUFSUploadFileFinished()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUFSUploadFileFinished::New(void)const
+4	CMsgClientUFSUploadFileFinished::Clear(void)
+5	CMsgClientUFSUploadFileFinished::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUFSUploadFileFinished::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUFSUploadFileFinished::ByteSize(void)const
+10	CMsgClientUFSUploadFileFinished::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUFSUploadFileFinished::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUFSUploadFileFinished::GetCachedSize(void)const
+13	CMsgClientUFSUploadFileFinished::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUFSUploadFileFinished::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUFSUploadFileFinished::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUFSUploadFileFinished::GetMetadata(void)const

@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgAdjustItemEquippedState>
+// Auto reconstructed from vtable block @ 0x0104F2C0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgAdjustItemEquippedState>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgAdjustItemEquippedState>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgAdjustItemEquippedState>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgAdjustItemEquippedState>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgAdjustItemEquippedState>::InternalFree(google::protobuf::Message *)

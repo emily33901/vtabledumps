@@ -1,0 +1,23 @@
+// `vtable for'CMsgRequestFullScreen
+// Auto reconstructed from vtable block @ 0x00ECD0E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRequestFullScreen::~CMsgRequestFullScreen()
+1	CMsgRequestFullScreen::~CMsgRequestFullScreen()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgRequestFullScreen::New(void)const
+4	CMsgRequestFullScreen::Clear(void)
+5	CMsgRequestFullScreen::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgRequestFullScreen::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgRequestFullScreen::ByteSize(void)const
+10	CMsgRequestFullScreen::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgRequestFullScreen::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgRequestFullScreen::GetCachedSize(void)const
+13	CMsgRequestFullScreen::CopyFrom(google::protobuf::Message const&)
+14	CMsgRequestFullScreen::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgRequestFullScreen::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgRequestFullScreen::GetMetadata(void)const

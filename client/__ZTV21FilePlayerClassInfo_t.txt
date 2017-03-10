@@ -1,0 +1,4 @@
+// `vtable for'FilePlayerClassInfo_t
+// Auto reconstructed from vtable block @ 0x00E42408
+// from "client.dylib", by ida_vtables.idc
+0	FilePlayerClassInfo_t::Parse(KeyValues *,char const*)

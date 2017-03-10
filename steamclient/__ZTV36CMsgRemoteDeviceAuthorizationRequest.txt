@@ -1,0 +1,23 @@
+// `vtable for'CMsgRemoteDeviceAuthorizationRequest
+// Auto reconstructed from vtable block @ 0x00EC9C90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteDeviceAuthorizationRequest::~CMsgRemoteDeviceAuthorizationRequest()
+1	CMsgRemoteDeviceAuthorizationRequest::~CMsgRemoteDeviceAuthorizationRequest()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgRemoteDeviceAuthorizationRequest::New(void)const
+4	CMsgRemoteDeviceAuthorizationRequest::Clear(void)
+5	CMsgRemoteDeviceAuthorizationRequest::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgRemoteDeviceAuthorizationRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgRemoteDeviceAuthorizationRequest::ByteSize(void)const
+10	CMsgRemoteDeviceAuthorizationRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgRemoteDeviceAuthorizationRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgRemoteDeviceAuthorizationRequest::GetCachedSize(void)const
+13	CMsgRemoteDeviceAuthorizationRequest::CopyFrom(google::protobuf::Message const&)
+14	CMsgRemoteDeviceAuthorizationRequest::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgRemoteDeviceAuthorizationRequest::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgRemoteDeviceAuthorizationRequest::GetMetadata(void)const

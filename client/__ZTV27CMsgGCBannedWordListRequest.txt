@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCBannedWordListRequest
+// Auto reconstructed from vtable block @ 0x00E3B020
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCBannedWordListRequest::~CMsgGCBannedWordListRequest()
+1	CMsgGCBannedWordListRequest::~CMsgGCBannedWordListRequest()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCBannedWordListRequest::New(void)const
+4	CMsgGCBannedWordListRequest::Clear(void)
+5	CMsgGCBannedWordListRequest::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCBannedWordListRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCBannedWordListRequest::ByteSize(void)const
+10	CMsgGCBannedWordListRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCBannedWordListRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCBannedWordListRequest::GetCachedSize(void)const
+13	CMsgGCBannedWordListRequest::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCBannedWordListRequest::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCBannedWordListRequest::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCBannedWordListRequest::GetMetadata(void)const

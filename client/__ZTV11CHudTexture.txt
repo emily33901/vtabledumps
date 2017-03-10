@@ -1,0 +1,5 @@
+// `vtable for'CHudTexture
+// Auto reconstructed from vtable block @ 0x00F037E0
+// from "client.dylib", by ida_vtables.idc
+0	CHudTexture::~CHudTexture()
+1	CHudTexture::~CHudTexture()

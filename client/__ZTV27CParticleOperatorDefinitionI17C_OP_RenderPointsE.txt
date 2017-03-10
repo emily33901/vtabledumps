@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_OP_RenderPoints>
+// Auto reconstructed from vtable block @ 0x011460D0
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_OP_RenderPoints>::GetName(void)const
+1	CParticleOperatorDefinition<C_OP_RenderPoints>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_OP_RenderPoints>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_OP_RenderPoints>::GetId(void)const
+4	CParticleOperatorDefinition<C_OP_RenderPoints>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_OP_RenderPoints>::GetClassSize(void)const

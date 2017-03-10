@@ -1,0 +1,11 @@
+// `vtable for'CAnimateSpecificTexture
+// Auto reconstructed from vtable block @ 0x00E997B0
+// from "client.dylib", by ida_vtables.idc
+0	CAnimateSpecificTexture::Init(IMaterial *,KeyValues *)
+1	CAnimateSpecificTexture::OnBind(void *)
+2	CAnimateSpecificTexture::Release(void)
+3	CBaseAnimatedTextureProxy::GetMaterial(void)
+4	CAnimateSpecificTexture::~CAnimateSpecificTexture()
+5	CAnimateSpecificTexture::~CAnimateSpecificTexture()
+6	CAnimateSpecificTexture::GetAnimationStartTime(void *)
+7	CBaseAnimatedTextureProxy::AnimationWrapped(void *)

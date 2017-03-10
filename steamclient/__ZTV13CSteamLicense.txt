@@ -1,0 +1,4 @@
+// `vtable for'CSteamLicense
+// Auto reconstructed from vtable block @ 0x00EF899C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamLicense::Validate(CValidator &,char const*)

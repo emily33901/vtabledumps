@@ -1,0 +1,19 @@
+// `vtable for'CClientEngineTools
+// Auto reconstructed from vtable block @ 0x004EE3F0
+// from "engine.dylib", by ida_vtables.idc
+0	CClientEngineTools::~CClientEngineTools()
+1	CClientEngineTools::~CClientEngineTools()
+2	CClientEngineTools::LevelInitPreEntityAllTools(void)
+3	CClientEngineTools::LevelInitPostEntityAllTools(void)
+4	CClientEngineTools::LevelShutdownPreEntityAllTools(void)
+5	CClientEngineTools::LevelShutdownPostEntityAllTools(void)
+6	CClientEngineTools::PreRenderAllTools(void)
+7	CClientEngineTools::PostRenderAllTools(void)
+8	CClientEngineTools::PostToolMessage(unsigned int,KeyValues *)
+9	CClientEngineTools::AdjustEngineViewport(int &,int &,int &,int &)
+10	CClientEngineTools::SetupEngineView(Vector &,QAngle &,float &)
+11	CClientEngineTools::SetupAudioState(AudioState_t &)
+12	CClientEngineTools::VGui_PreRenderAllTools(int)
+13	CClientEngineTools::VGui_PostRenderAllTools(int)
+14	CClientEngineTools::IsThirdPersonCamera(void)
+15	CClientEngineTools::InToolMode(void)

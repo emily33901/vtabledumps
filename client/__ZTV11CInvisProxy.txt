@@ -1,0 +1,9 @@
+// `vtable for'CInvisProxy
+// Auto reconstructed from vtable block @ 0x00E5E410
+// from "client.dylib", by ida_vtables.idc
+0	CInvisProxy::Init(IMaterial *,KeyValues *)
+1	CInvisProxy::OnBind(void *)
+2	CInvisProxy::Release(void)
+3	CInvisProxy::GetMaterial(void)
+4	CInvisProxy::~CInvisProxy()
+5	CInvisProxy::~CInvisProxy()

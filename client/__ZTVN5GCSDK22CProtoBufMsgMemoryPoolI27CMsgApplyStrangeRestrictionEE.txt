@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeRestriction>
+// Auto reconstructed from vtable block @ 0x010B3740
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeRestriction>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeRestriction>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeRestriction>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeRestriction>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeRestriction>::InternalFree(google::protobuf::Message *)

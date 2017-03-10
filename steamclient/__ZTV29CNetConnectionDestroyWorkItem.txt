@@ -1,0 +1,11 @@
+// `vtable for'CNetConnectionDestroyWorkItem
+// Auto reconstructed from vtable block @ 0x00F2CCC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetConnectionDestroyWorkItem::~CNetConnectionDestroyWorkItem()
+1	CNetConnectionDestroyWorkItem::~CNetConnectionDestroyWorkItem()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CNetConnectionDestroyWorkItem::GetWorkItemName(void)const
+4	CNetConnectionDestroyWorkItem::GetThreadProcessName(void)const
+5	CNetConnectionDestroyWorkItem::ThreadProcess(CWorkThread *)
+6	CNetConnectionDestroyWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

@@ -1,0 +1,23 @@
+// `vtable for'CMsgSetCursor
+// Auto reconstructed from vtable block @ 0x00ECC5A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetCursor::~CMsgSetCursor()
+1	CMsgSetCursor::~CMsgSetCursor()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgSetCursor::New(void)const
+4	CMsgSetCursor::Clear(void)
+5	CMsgSetCursor::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgSetCursor::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgSetCursor::ByteSize(void)const
+10	CMsgSetCursor::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgSetCursor::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgSetCursor::GetCachedSize(void)const
+13	CMsgSetCursor::CopyFrom(google::protobuf::Message const&)
+14	CMsgSetCursor::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgSetCursor::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgSetCursor::GetMetadata(void)const

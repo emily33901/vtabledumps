@@ -1,0 +1,33 @@
+// `vtable for'CHudItemAttributeTracker
+// Auto reconstructed from vtable block @ 0x00F743C0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudItemAttributeTracker
+1	CHudItemAttributeTracker::~CHudItemAttributeTracker()
+2	CHudItemAttributeTracker::~CHudItemAttributeTracker()
+3	CHudItemAttributeTracker::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudItemAttributeTracker::LevelInit(void)
+7	CHudItemAttributeTracker::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudItemAttributeTracker::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudItemAttributeTracker::GetMessageMap(void)
+18	CHudItemAttributeTracker::GetAnimMap(void)
+19	CHudItemAttributeTracker::GetKBMap(void)
+20	CHudItemAttributeTracker::ApplySchemeSettings(vgui::IScheme *)
+21	CHudItemAttributeTracker::PerformLayout(void)
+22	CHudItemAttributeTracker::OnThink(void)
+23	CHudItemAttributeTracker::SOCreated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+24	CHudItemAttributeTracker::PreSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+25	CHudItemAttributeTracker::SOUpdated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+26	CHudItemAttributeTracker::PostSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+27	CHudItemAttributeTracker::SODestroyed(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+28	CHudItemAttributeTracker::SOCacheSubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+29	CHudItemAttributeTracker::SOCacheUnsubscribed(CSteamID const&,GCSDK::ESOCacheEvent)

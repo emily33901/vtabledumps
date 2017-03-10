@@ -1,0 +1,23 @@
+// `vtable for'CMsgTrading_CancelTradeRequest
+// Auto reconstructed from vtable block @ 0x00EEE550
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgTrading_CancelTradeRequest::~CMsgTrading_CancelTradeRequest()
+1	CMsgTrading_CancelTradeRequest::~CMsgTrading_CancelTradeRequest()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgTrading_CancelTradeRequest::New(void)const
+4	CMsgTrading_CancelTradeRequest::Clear(void)
+5	CMsgTrading_CancelTradeRequest::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgTrading_CancelTradeRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgTrading_CancelTradeRequest::ByteSize(void)const
+10	CMsgTrading_CancelTradeRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgTrading_CancelTradeRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgTrading_CancelTradeRequest::GetCachedSize(void)const
+13	CMsgTrading_CancelTradeRequest::CopyFrom(google::protobuf::Message const&)
+14	CMsgTrading_CancelTradeRequest::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgTrading_CancelTradeRequest::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgTrading_CancelTradeRequest::GetMetadata(void)const

@@ -1,0 +1,20 @@
+// `vtable for'CNetworkStringTable
+// Auto reconstructed from vtable block @ 0x004E9140
+// from "engine.dylib", by ida_vtables.idc
+0	CNetworkStringTable::~CNetworkStringTable()
+1	CNetworkStringTable::~CNetworkStringTable()
+2	CNetworkStringTable::GetTableName(void)const
+3	CNetworkStringTable::GetTableId(void)const
+4	CNetworkStringTable::GetNumStrings(void)const
+5	CNetworkStringTable::GetMaxStrings(void)const
+6	CNetworkStringTable::GetEntryBits(void)const
+7	CNetworkStringTable::SetTick(int)
+8	CNetworkStringTable::ChangedSinceTick(int)const
+9	CNetworkStringTable::AddString(bool,char const*,int,void const*)
+10	CNetworkStringTable::GetString(int)
+11	CNetworkStringTable::SetStringUserData(int,int,void const*)
+12	CNetworkStringTable::GetStringUserData(int,int *)
+13	CNetworkStringTable::FindStringIndex(char const*)
+14	CNetworkStringTable::SetStringChangedCallback(void *,void (*)(void *,INetworkStringTable *,int,char const*,void const*))
+15	CNetworkStringTable::Dump(void)
+16	CNetworkStringTable::Lock(bool)

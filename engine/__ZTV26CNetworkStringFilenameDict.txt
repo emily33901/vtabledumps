@@ -1,0 +1,13 @@
+// `vtable for'CNetworkStringFilenameDict
+// Auto reconstructed from vtable block @ 0x005280E0
+// from "engine.dylib", by ida_vtables.idc
+0	CNetworkStringFilenameDict::~CNetworkStringFilenameDict()
+1	CNetworkStringFilenameDict::~CNetworkStringFilenameDict()
+2	CNetworkStringFilenameDict::Count(void)
+3	CNetworkStringFilenameDict::Purge(void)
+4	CNetworkStringFilenameDict::String(int)
+5	CNetworkStringFilenameDict::IsValidIndex(int)
+6	CNetworkStringFilenameDict::Insert(char const*)
+7	CNetworkStringFilenameDict::Find(char const*)
+8	CNetworkStringFilenameDict::Element(int)
+9	CNetworkStringFilenameDict::Element(int)const

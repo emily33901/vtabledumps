@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionZoom
+// Auto reconstructed from vtable block @ 0x004C8C70
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionZoom::~CDemoActionZoom()
+1	CDemoActionZoom::~CDemoActionZoom()
+2	CDemoActionZoom::Init(KeyValues *)
+3	CDemoActionZoom::Update(DemoActionTimingContext const&)
+4	CDemoActionZoom::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionZoom::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

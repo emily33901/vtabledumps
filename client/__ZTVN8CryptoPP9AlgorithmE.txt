@@ -1,0 +1,7 @@
+// `vtable for'CryptoPP::Algorithm
+// Auto reconstructed from vtable block @ 0x010170C0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::Algorithm::~Algorithm()
+1	CryptoPP::Algorithm::~Algorithm()
+2	CryptoPP::Clonable::Clone(void)const
+3	CryptoPP::Algorithm::AlgorithmName(void)const

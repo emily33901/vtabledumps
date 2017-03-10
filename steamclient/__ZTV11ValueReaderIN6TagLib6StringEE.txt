@@ -1,0 +1,7 @@
+// `vtable for'ValueReader<TagLib::String>
+// Auto reconstructed from vtable block @ 0x00F2633C
+// from "steamclient.dylib", by ida_vtables.idc
+0	ValueReader<TagLib::String>::~ValueReader()
+1	ValueReader<TagLib::String>::~ValueReader()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual

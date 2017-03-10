@@ -1,0 +1,30 @@
+// `vtable for'CSpectatorTargetID
+// Auto reconstructed from vtable block @ 0x00FA3050
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CSpectatorTargetID
+1	CSpectatorTargetID::~CSpectatorTargetID()
+2	CSpectatorTargetID::~CSpectatorTargetID()
+3	CTargetID::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CTargetID::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CTargetID::LevelShutdown(void)
+8	CTargetID::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CSpectatorTargetID::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CTargetID::GetRenderGroupPriority(void)
+17	CSpectatorTargetID::GetMessageMap(void)
+18	CSpectatorTargetID::GetAnimMap(void)
+19	CSpectatorTargetID::GetKBMap(void)
+20	CSpectatorTargetID::PerformLayout(void)
+21	CTargetID::ApplySettings(KeyValues *)
+22	CSpectatorTargetID::ApplySchemeSettings(vgui::IScheme *)
+23	CSpectatorTargetID::CalculateTargetIndex(C_TFPlayer *)
+24	CTargetID::GetPrepend(void)
+25	CSpectatorTargetID::DrawHealthIcon(void)
+26	CTargetID::GetTargetForSteamAvatar(C_TFPlayer *)

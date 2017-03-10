@@ -1,0 +1,9 @@
+// `vtable for'CSetPrngEntropyWorkItem
+// Auto reconstructed from vtable block @ 0x00F01C80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSetPrngEntropyWorkItem::~CSetPrngEntropyWorkItem()
+1	CSetPrngEntropyWorkItem::~CSetPrngEntropyWorkItem()
+2	CSetPrngEntropyWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

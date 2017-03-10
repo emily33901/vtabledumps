@@ -1,0 +1,11 @@
+// `vtable for'VoiceRecord_OpenAL
+// Auto reconstructed from vtable block @ 0x00ECB0C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	VoiceRecord_OpenAL::~VoiceRecord_OpenAL()
+1	VoiceRecord_OpenAL::~VoiceRecord_OpenAL()
+2	VoiceRecord_OpenAL::Release(void)
+3	VoiceRecord_OpenAL::RecordStart(void)
+4	VoiceRecord_OpenAL::RecordStop(void)
+5	VoiceRecord_OpenAL::Idle(void)
+6	VoiceRecord_OpenAL::GetRecordedData(short *,int,unsigned int *)
+7	VoiceRecord_OpenAL::Init(int)

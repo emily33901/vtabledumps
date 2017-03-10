@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgTFFreeTrialChooseMostHelpfulFriend>
+// Auto reconstructed from vtable block @ 0x010E02B0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgTFFreeTrialChooseMostHelpfulFriend>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgTFFreeTrialChooseMostHelpfulFriend>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgTFFreeTrialChooseMostHelpfulFriend>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgTFFreeTrialChooseMostHelpfulFriend>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgTFFreeTrialChooseMostHelpfulFriend>::InternalFree(google::protobuf::Message *)

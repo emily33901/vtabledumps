@@ -1,0 +1,9 @@
+// `vtable for'CChildOperatorDefinition
+// Auto reconstructed from vtable block @ 0x0114A150
+// from "client.dylib", by ida_vtables.idc
+0	CChildOperatorDefinition::GetName(void)const
+1	CChildOperatorDefinition::CreateInstance(UniqueId_t const&)const
+2	CChildOperatorDefinition::GetUnpackStructure(void)const
+3	CChildOperatorDefinition::GetId(void)const
+4	CChildOperatorDefinition::IsObsolete(void)const
+5	CChildOperatorDefinition::GetClassSize(void)const

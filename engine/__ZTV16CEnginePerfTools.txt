@@ -1,0 +1,7 @@
+// `vtable for'CEnginePerfTools
+// Auto reconstructed from vtable block @ 0x004EA450
+// from "engine.dylib", by ida_vtables.idc
+0	CEnginePerfTools::Init(void)
+1	CEnginePerfTools::Shutdown(void)
+2	CEnginePerfTools::InstallPerformanceToolsUI(vgui::Panel *)
+3	CEnginePerfTools::ShouldPause(void)const

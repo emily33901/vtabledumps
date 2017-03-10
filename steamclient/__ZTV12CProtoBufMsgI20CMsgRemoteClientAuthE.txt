@@ -1,0 +1,64 @@
+// `vtable for'CProtoBufMsg<CMsgRemoteClientAuth>
+// Auto reconstructed from vtable block @ 0x00F10590
+// from "steamclient.dylib", by ida_vtables.idc
+0	CProtoBufMsg<CMsgRemoteClientAuth>::~CProtoBufMsg()
+1	CProtoBufMsg<CMsgRemoteClientAuth>::~CProtoBufMsg()
+2	__MsgProtoBufInternal::CProtoBufMsgBase::BAsyncSend(unsigned int)const
+3	__MsgProtoBufInternal::CProtoBufMsgBase::BAsyncSendDatagram(unsigned int)const
+4	__MsgProtoBufInternal::CProtoBufMsgBase::BAsyncSend(IProtoBufMsg::IProtoBufSendHandler &)const
+5	__MsgProtoBufInternal::CProtoBufMsgBase::BAsyncSendDatagram(IProtoBufMsg::IProtoBufSendHandler &)const
+6	__MsgProtoBufInternal::CProtoBufMsgBase::GetJobIDTarget(void)const
+7	__MsgProtoBufInternal::CProtoBufMsgBase::GetJobIDSource(void)const
+8	__MsgProtoBufInternal::CProtoBufMsgBase::SetJobIDTarget(unsigned long long)
+9	__MsgProtoBufInternal::CProtoBufMsgBase::SetJobIDSource(unsigned long long)
+10	CProtoBufMsg<CMsgRemoteClientAuth>::InitFromPacket(IMsgNetPacket *)
+11	__MsgProtoBufInternal::CProtoBufMsgBase::GetEMsg(void)const
+12	__MsgProtoBufInternal::CProtoBufMsgBase::SetEMsg(EMsg)
+13	__MsgProtoBufInternal::CProtoBufMsgBase::SetSessionID(int)
+14	__MsgProtoBufInternal::CProtoBufMsgBase::GetSessionID(void)const
+15	__MsgProtoBufInternal::CProtoBufMsgBase::GetSteamIDUint64(void)const
+16	__MsgProtoBufInternal::CProtoBufMsgBase::BHasSteamIDUint64(void)const
+17	__MsgProtoBufInternal::CProtoBufMsgBase::SetSteamIDUint64(unsigned long long)
+18	__MsgProtoBufInternal::CProtoBufMsgBase::GetHConnection(void)const
+19	__MsgProtoBufInternal::CProtoBufMsgBase::SerializeGetSize(void)const
+20	__MsgProtoBufInternal::CProtoBufMsgBase::SerializeWriteBytes(void *,unsigned int)const
+21	__MsgProtoBufInternal::CProtoBufMsgBase::Serialize(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> *)const
+22	__MsgProtoBufInternal::CProtoBufMsgBase::GetTargetJobName(void)const
+23	__MsgProtoBufInternal::CProtoBufMsgBase::SetTargetJobName(char const*)
+24	__MsgProtoBufInternal::CProtoBufMsgBase::GetRoutingAppID(void)const
+25	__MsgProtoBufInternal::CProtoBufMsgBase::BHasRoutingAppID(void)const
+26	__MsgProtoBufInternal::CProtoBufMsgBase::SetRoutingAppID(unsigned int)
+27	__MsgProtoBufInternal::CProtoBufMsgBase::GetEResult(void)const
+28	__MsgProtoBufInternal::CProtoBufMsgBase::SetEResult(EResult)
+29	__MsgProtoBufInternal::CProtoBufMsgBase::GetErrorMessage(void)const
+30	__MsgProtoBufInternal::CProtoBufMsgBase::SetErrorMessage(char const*)
+31	__MsgProtoBufInternal::CProtoBufMsgBase::AppendErrorMessage(char const*)
+32	__MsgProtoBufInternal::CProtoBufMsgBase::GetProtoBufHeader(void)const
+33	__MsgProtoBufInternal::CProtoBufMsgBase::GetProtoBufBody(void)const
+34	__MsgProtoBufInternal::CProtoBufMsgBase::GetIP(void)const
+35	__MsgProtoBufInternal::CProtoBufMsgBase::SetIP(unsigned int)
+36	__MsgProtoBufInternal::CProtoBufMsgBase::GetAuthAccountFlags(void)const
+37	__MsgProtoBufInternal::CProtoBufMsgBase::SetAuthAccountFlags(unsigned int)
+38	__MsgProtoBufInternal::CProtoBufMsgBase::GetTransportError(void)const
+39	__MsgProtoBufInternal::CProtoBufMsgBase::SetTransportError(ETransportError)
+40	__MsgProtoBufInternal::CProtoBufMsgBase::BHasMessageID(void)const
+41	__MsgProtoBufInternal::CProtoBufMsgBase::GetMessageID(void)const
+42	__MsgProtoBufInternal::CProtoBufMsgBase::SetMessageID(unsigned long long)
+43	__MsgProtoBufInternal::CProtoBufMsgBase::BIsValid(void)const
+44	__MsgProtoBufInternal::CProtoBufMsgBase::GetPublisherGroupID(void)const
+45	__MsgProtoBufInternal::CProtoBufMsgBase::SetPublisherGroupID(unsigned int)
+46	__MsgProtoBufInternal::CProtoBufMsgBase::SetSysID(SysID_t const&)
+47	__MsgProtoBufInternal::CProtoBufMsgBase::GetSysID(void)const
+48	__MsgProtoBufInternal::CProtoBufMsgBase::BHasMsgTraceTag(void)
+49	__MsgProtoBufInternal::CProtoBufMsgBase::SetMsgTraceTag(unsigned long long)
+50	__MsgProtoBufInternal::CProtoBufMsgBase::GetMsgTraceTag(void)const
+51	__MsgProtoBufInternal::CProtoBufMsgBase::GetTokenSource(void)const
+52	__MsgProtoBufInternal::CProtoBufMsgBase::SetTokenSource(EWGTokenSource)
+53	__MsgProtoBufInternal::CProtoBufMsgBase::BIsAdminSpoofingUser(void)const
+54	__MsgProtoBufInternal::CProtoBufMsgBase::SetIsAdminSpoofingUser(bool)
+55	__MsgProtoBufInternal::CProtoBufMsgBase::BHasSeqNum(void)const
+56	__MsgProtoBufInternal::CProtoBufMsgBase::SetSeqNum(int)
+57	__MsgProtoBufInternal::CProtoBufMsgBase::GetSeqNum(void)const
+58	__MsgProtoBufInternal::CProtoBufMsgBase::SetWebApiKeyID(unsigned int)
+59	__MsgProtoBufInternal::CProtoBufMsgBase::BIsFromExternalSource(void)const
+60	__MsgProtoBufInternal::CProtoBufMsgBase::SetIsFromExternalSource(bool)

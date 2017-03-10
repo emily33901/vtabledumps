@@ -1,0 +1,4 @@
+// `vtable for'CEnumerationFilter
+// Auto reconstructed from vtable block @ 0x00526138
+// from "engine.dylib", by ida_vtables.idc
+0	CEnumerationFilter::EnumElement(IHandleEntity *)

@@ -1,0 +1,23 @@
+// `vtable for'CCloud_ExternalStorageTransferReport_Notification
+// Auto reconstructed from vtable block @ 0x00EC2370
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCloud_ExternalStorageTransferReport_Notification::~CCloud_ExternalStorageTransferReport_Notification()
+1	CCloud_ExternalStorageTransferReport_Notification::~CCloud_ExternalStorageTransferReport_Notification()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CCloud_ExternalStorageTransferReport_Notification::New(void)const
+4	CCloud_ExternalStorageTransferReport_Notification::Clear(void)
+5	CCloud_ExternalStorageTransferReport_Notification::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CCloud_ExternalStorageTransferReport_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CCloud_ExternalStorageTransferReport_Notification::ByteSize(void)const
+10	CCloud_ExternalStorageTransferReport_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CCloud_ExternalStorageTransferReport_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CCloud_ExternalStorageTransferReport_Notification::GetCachedSize(void)const
+13	CCloud_ExternalStorageTransferReport_Notification::CopyFrom(google::protobuf::Message const&)
+14	CCloud_ExternalStorageTransferReport_Notification::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CCloud_ExternalStorageTransferReport_Notification::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CCloud_ExternalStorageTransferReport_Notification::GetMetadata(void)const

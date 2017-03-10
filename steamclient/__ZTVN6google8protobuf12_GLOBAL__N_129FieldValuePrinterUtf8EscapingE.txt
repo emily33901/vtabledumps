@@ -1,0 +1,18 @@
+// `vtable for'google::protobuf::`anonymous namespace'::FieldValuePrinterUtf8Escaping
+// Auto reconstructed from vtable block @ 0x00ED6008
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::`anonymous namespace'::FieldValuePrinterUtf8Escaping::~FieldValuePrinterUtf8Escaping()
+1	google::protobuf::`anonymous namespace'::FieldValuePrinterUtf8Escaping::~FieldValuePrinterUtf8Escaping()
+2	google::protobuf::TextFormat::FieldValuePrinter::PrintBool(bool)const
+3	google::protobuf::TextFormat::FieldValuePrinter::PrintInt32(int)const
+4	google::protobuf::TextFormat::FieldValuePrinter::PrintUInt32(unsigned int)const
+5	google::protobuf::TextFormat::FieldValuePrinter::PrintInt64(long long)const
+6	google::protobuf::TextFormat::FieldValuePrinter::PrintUInt64(unsigned long long)const
+7	google::protobuf::TextFormat::FieldValuePrinter::PrintFloat(float)const
+8	google::protobuf::TextFormat::FieldValuePrinter::PrintDouble(double)const
+9	google::protobuf::`anonymous namespace'::FieldValuePrinterUtf8Escaping::PrintString(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)const
+10	google::protobuf::`anonymous namespace'::FieldValuePrinterUtf8Escaping::PrintBytes(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)const
+11	google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)const
+12	google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&,google::protobuf::Reflection const*,google::protobuf::FieldDescriptor const*)const
+13	google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&,int,int,bool)const
+14	google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&,int,int,bool)const

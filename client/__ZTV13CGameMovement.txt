@@ -1,0 +1,59 @@
+// `vtable for'CGameMovement
+// Auto reconstructed from vtable block @ 0x00E41820
+// from "client.dylib", by ida_vtables.idc
+0	CGameMovement::~CGameMovement()
+1	CGameMovement::~CGameMovement()
+2	CGameMovement::ProcessMovement(C_BasePlayer *,CMoveData *)
+3	CGameMovement::StartTrackPredictionErrors(C_BasePlayer *)
+4	CGameMovement::FinishTrackPredictionErrors(C_BasePlayer *)
+5	CGameMovement::DiffPrint(char const*,...)
+6	CGameMovement::GetPlayerMins(bool)const
+7	CGameMovement::GetPlayerMaxs(bool)const
+8	CGameMovement::GetPlayerViewOffset(bool)const
+9	CGameMovement::TracePlayerBBox(Vector const&,Vector const&,unsigned int,int,CGameTrace &)
+10	CGameMovement::TryTouchGround(Vector const&,Vector const&,Vector const&,Vector const&,unsigned int,int,CGameTrace &)
+11	CGameMovement::PlayerSolidMask(bool)
+12	CGameMovement::PlayerMove(void)
+13	CGameMovement::CalcRoll(QAngle const&,Vector const&,float,float)
+14	CGameMovement::DecayPunchAngle(void)
+15	CGameMovement::CheckWaterJump(void)
+16	CGameMovement::WaterMove(void)
+17	CGameMovement::AirAccelerate(Vector &,float,float)
+18	CGameMovement::AirMove(void)
+19	CGameMovement::GetAirSpeedCap(void)
+20	CGameMovement::CanAccelerate(void)
+21	CGameMovement::Accelerate(Vector &,float,float)
+22	CGameMovement::WalkMove(void)
+23	CGameMovement::FullWalkMove(void)
+24	CGameMovement::OnJump(float)
+25	CGameMovement::OnLand(float)
+26	CGameMovement::OnTryPlayerMoveCollision(CGameTrace &)
+27	CGameMovement::GetPlayerMins(void)const
+28	CGameMovement::GetPlayerMaxs(void)const
+29	CGameMovement::GetCheckInterval(CGameMovement::IntervalType_t)
+30	CGameMovement::CheckJumpButton(void)
+31	CGameMovement::FullTossMove(void)
+32	CGameMovement::FullLadderMove(void)
+33	CGameMovement::TryPlayerMove(Vector *,CGameTrace *)
+34	CGameMovement::LadderMove(void)
+35	CGameMovement::OnLadder(CGameTrace &)
+36	CGameMovement::LadderDistance(void)const
+37	CGameMovement::LadderMask(void)const
+38	CGameMovement::ClimbSpeed(void)const
+39	CGameMovement::LadderLateralMultiplier(void)const
+40	CGameMovement::CheckStuck(void)
+41	CGameMovement::CheckWater(void)
+42	CGameMovement::CategorizePosition(void)
+43	CGameMovement::CheckParameters(void)
+44	CGameMovement::ReduceTimers(void)
+45	CGameMovement::CheckFalling(void)
+46	CGameMovement::PlayerRoughLandingEffects(float)
+47	CGameMovement::Duck(void)
+48	CGameMovement::HandleDuckingSpeedCrop(void)
+49	CGameMovement::FinishUnDuck(void)
+50	CGameMovement::FinishDuck(void)
+51	CGameMovement::CanUnduck(void)
+52	CGameMovement::TestPlayerPosition(Vector const&,int,CGameTrace &)
+53	CGameMovement::SetGroundEntity(CGameTrace *)
+54	CGameMovement::StepMove(Vector &,CGameTrace &)
+55	CGameMovement::GameHasLadders(void)const

@@ -1,0 +1,27 @@
+// `vtable for'CHudControlPointIcons
+// Auto reconstructed from vtable block @ 0x00F0B030
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudControlPointIcons
+1	CHudControlPointIcons::~CHudControlPointIcons()
+2	CHudControlPointIcons::~CHudControlPointIcons()
+3	CHudControlPointIcons::FireGameEvent(IGameEvent *)
+4	CHudControlPointIcons::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudControlPointIcons::LevelShutdown(void)
+8	CHudControlPointIcons::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudControlPointIcons::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudControlPointIcons::GetMessageMap(void)
+18	CHudControlPointIcons::GetAnimMap(void)
+19	CHudControlPointIcons::GetKBMap(void)
+20	CHudControlPointIcons::ApplySchemeSettings(vgui::IScheme *)
+21	CHudControlPointIcons::PerformLayout(void)
+22	CHudControlPointIcons::Paint(void)
+23	CHudControlPointIcons::IsVisible(void)

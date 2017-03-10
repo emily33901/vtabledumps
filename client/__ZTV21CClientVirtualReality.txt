@@ -1,0 +1,11 @@
+// `vtable for'CClientVirtualReality
+// Auto reconstructed from vtable block @ 0x00E9A0A0
+// from "client.dylib", by ida_vtables.idc
+0	CClientVirtualReality::Connect(void * (*)(char const*,int *))
+1	CClientVirtualReality::Disconnect(void)
+2	CClientVirtualReality::QueryInterface(char const*)
+3	CClientVirtualReality::Init(void)
+4	CClientVirtualReality::Shutdown(void)
+5	CClientVirtualReality::~CClientVirtualReality()
+6	CClientVirtualReality::~CClientVirtualReality()
+7	CClientVirtualReality::DrawMainMenu(void)

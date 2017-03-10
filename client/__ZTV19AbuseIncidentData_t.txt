@@ -1,0 +1,6 @@
+// `vtable for'AbuseIncidentData_t
+// Auto reconstructed from vtable block @ 0x00E32E50
+// from "client.dylib", by ida_vtables.idc
+0	AbuseIncidentData_t::~AbuseIncidentData_t()
+1	AbuseIncidentData_t::~AbuseIncidentData_t()
+2	AbuseIncidentData_t::Poll(void)

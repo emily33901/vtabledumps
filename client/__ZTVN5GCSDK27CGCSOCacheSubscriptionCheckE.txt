@@ -1,0 +1,11 @@
+// `vtable for'GCSDK::CGCSOCacheSubscriptionCheck
+// Auto reconstructed from vtable block @ 0x0114A640
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCSOCacheSubscriptionCheck::~CGCSOCacheSubscriptionCheck()
+1	GCSDK::CGCSOCacheSubscriptionCheck::~CGCSOCacheSubscriptionCheck()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCSOCacheSubscriptionCheck::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

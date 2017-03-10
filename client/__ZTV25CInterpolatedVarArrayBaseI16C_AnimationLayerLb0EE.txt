@@ -1,0 +1,33 @@
+// `vtable for'CInterpolatedVarArrayBase<C_AnimationLayer,false>
+// Auto reconstructed from vtable block @ 0x0108DB70
+// from "client.dylib", by ida_vtables.idc
+0	CInterpolatedVarArrayBase<C_AnimationLayer,false>::~CInterpolatedVarArrayBase()
+1	CInterpolatedVarArrayBase<C_AnimationLayer,false>::~CInterpolatedVarArrayBase()
+2	CInterpolatedVarArrayBase<C_AnimationLayer,false>::Setup(void *,int)
+3	CInterpolatedVarArrayBase<C_AnimationLayer,false>::SetInterpolationAmount(float)
+4	CInterpolatedVarArrayBase<C_AnimationLayer,false>::NoteLastNetworkedValue(void)
+5	CInterpolatedVarArrayBase<C_AnimationLayer,false>::NoteChanged(float,bool)
+6	CInterpolatedVarArrayBase<C_AnimationLayer,false>::Reset(void)
+7	CInterpolatedVarArrayBase<C_AnimationLayer,false>::Interpolate(float)
+8	CInterpolatedVarArrayBase<C_AnimationLayer,false>::GetType(void)const
+9	CInterpolatedVarArrayBase<C_AnimationLayer,false>::RestoreToLastNetworked(void)
+10	CInterpolatedVarArrayBase<C_AnimationLayer,false>::Copy(IInterpolatedVar *)
+11	CInterpolatedVarArrayBase<C_AnimationLayer,false>::GetDebugName(void)
+12	CInterpolatedVarArrayBase<C_AnimationLayer,false>::SetDebugName(char const*)
+13	CInterpolatedVarArrayBase<C_AnimationLayer,false>::SetDebug(bool)
+14	aC_baseanima_18
+15	aC_baseanima_19
+16	aC_baseanima_20
+17	aC_baseanima_21
+18	aC_baseanima_22
+19	aC_baseanima_23
+20	aC_baseanima_24
+21	aC_baseanima_25
+22	aC_baseanima_26
+23	aC_baseanima_27
+24	aC_baseanima_28
+25	aC_baseanima_29
+26	aC_baseanima_30
+27	aC_baseanima_31
+28	aC_baseanima_32
+29	DT_BaseAnimatingOverlay::g_RecvTable

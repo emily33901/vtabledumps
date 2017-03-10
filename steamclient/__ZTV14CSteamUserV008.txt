@@ -1,0 +1,10 @@
+// `vtable for'CSteamUserV008
+// Auto reconstructed from vtable block @ 0x00F0AE30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV008::GetHSteamUser(void)
+1	CSteamUserV008::BLoggedOn(void)
+2	CSteamUserV008::GetSteamID(void)
+3	CSteamUserV008::InitiateGameConnection(void *,int,CSteamID,CGameID,unsigned int,unsigned short,bool,void *,int)
+4	CSteamUserV008::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV008::TrackAppUsageEvent(CGameID,int,char const*)
+6	CSteamUserV008::RefreshSteam2Login(void)

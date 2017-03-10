@@ -1,0 +1,23 @@
+// `vtable for'CMsgGetZoom
+// Auto reconstructed from vtable block @ 0x00ECC9C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGetZoom::~CMsgGetZoom()
+1	CMsgGetZoom::~CMsgGetZoom()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGetZoom::New(void)const
+4	CMsgGetZoom::Clear(void)
+5	CMsgGetZoom::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGetZoom::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGetZoom::ByteSize(void)const
+10	CMsgGetZoom::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGetZoom::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGetZoom::GetCachedSize(void)const
+13	CMsgGetZoom::CopyFrom(google::protobuf::Message const&)
+14	CMsgGetZoom::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGetZoom::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGetZoom::GetMetadata(void)const

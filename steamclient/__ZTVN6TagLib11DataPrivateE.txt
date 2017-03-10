@@ -1,0 +1,5 @@
+// `vtable for'TagLib::DataPrivate
+// Auto reconstructed from vtable block @ 0x00F2612C
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::DataPrivate::~DataPrivate()
+1	TagLib::DataPrivate::~DataPrivate()

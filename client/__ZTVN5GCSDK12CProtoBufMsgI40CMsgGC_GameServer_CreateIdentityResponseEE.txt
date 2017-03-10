@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGC_GameServer_CreateIdentityResponse>
+// Auto reconstructed from vtable block @ 0x010E8C80
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGC_GameServer_CreateIdentityResponse>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGC_GameServer_CreateIdentityResponse>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGC_GameServer_CreateIdentityResponse>::GetGenericBody(void)const

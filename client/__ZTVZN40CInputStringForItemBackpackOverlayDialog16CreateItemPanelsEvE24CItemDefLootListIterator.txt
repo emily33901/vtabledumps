@@ -1,0 +1,6 @@
+// `vtable for'CInputStringForItemBackpackOverlayDialog::CreateItemPanels(void)::CItemDefLootListIterator
+// Auto reconstructed from vtable block @ 0x00FB9C20
+// from "client.dylib", by ida_vtables.idc
+0	CInputStringForItemBackpackOverlayDialog::CreateItemPanels(void)::CItemDefLootListIterator::~CItemDefLootListIterator()
+1	CInputStringForItemBackpackOverlayDialog::CreateItemPanels(void)::CItemDefLootListIterator::~CItemDefLootListIterator()
+2	CInputStringForItemBackpackOverlayDialog::CreateItemPanels(void)::CItemDefLootListIterator::OnIterate(unsigned short)

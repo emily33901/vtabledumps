@@ -1,0 +1,8 @@
+// `vtable for'CClientUnifiedMessages
+// Auto reconstructed from vtable block @ 0x00ECF850
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientUnifiedMessages::SendMethod(char const*,void const*,unsigned int,unsigned long long)
+1	CClientUnifiedMessages::GetMethodResponseInfo(unsigned long long,unsigned int *,EResult *)
+2	CClientUnifiedMessages::GetMethodResponseData(unsigned long long,void *,unsigned int,bool)
+3	CClientUnifiedMessages::ReleaseMethod(unsigned long long)
+4	CClientUnifiedMessages::SendNotification(char const*,void const*,unsigned int)

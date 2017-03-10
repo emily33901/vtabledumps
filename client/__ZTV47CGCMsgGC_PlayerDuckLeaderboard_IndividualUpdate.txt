@@ -1,0 +1,23 @@
+// `vtable for'CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate
+// Auto reconstructed from vtable block @ 0x00E53A60
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::~CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate()
+1	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::~CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::New(void)const
+4	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::Clear(void)
+5	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::ByteSize(void)const
+10	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::GetCachedSize(void)const
+13	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::CopyFrom(google::protobuf::Message const&)
+14	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::GetMetadata(void)const

@@ -1,0 +1,30 @@
+// `vtable for'CryptoPP::EuclideanDomainOf<CryptoPP::Integer>
+// Auto reconstructed from vtable block @ 0x01016FE0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::~EuclideanDomainOf()
+1	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::~EuclideanDomainOf()
+2	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Equal(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+3	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Identity(void)const
+4	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Add(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+5	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Inverse(CryptoPP::Integer const&)const
+6	CryptoPP::AbstractGroup<CryptoPP::Integer>::InversionIsFast(void)const
+7	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Double(CryptoPP::Integer const&)const
+8	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Subtract(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+9	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Accumulate(CryptoPP::Integer&,CryptoPP::Integer const&)const
+10	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Reduce(CryptoPP::Integer&,CryptoPP::Integer const&)const
+11	CryptoPP::AbstractGroup<CryptoPP::Integer>::ScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+12	CryptoPP::AbstractGroup<CryptoPP::Integer>::CascadeScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+13	CryptoPP::AbstractGroup<CryptoPP::Integer>::SimultaneousMultiply(CryptoPP::Integer*,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const
+14	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::IsUnit(CryptoPP::Integer const&)const
+15	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::MultiplicativeIdentity(void)const
+16	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Multiply(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+17	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::MultiplicativeInverse(CryptoPP::Integer const&)const
+18	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Square(CryptoPP::Integer const&)const
+19	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Divide(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+20	CryptoPP::AbstractRing<CryptoPP::Integer>::Exponentiate(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+21	CryptoPP::AbstractRing<CryptoPP::Integer>::CascadeExponentiate(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+22	CryptoPP::AbstractRing<CryptoPP::Integer>::SimultaneousExponentiate(CryptoPP::Integer*,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const
+23	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroup(void)const
+24	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::DivisionAlgorithm(CryptoPP::Integer&,CryptoPP::Integer&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+25	CryptoPP::EuclideanDomainOf<CryptoPP::Integer>::Mod(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+26	CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>::Gcd(CryptoPP::Integer const&,CryptoPP::Integer const&)const

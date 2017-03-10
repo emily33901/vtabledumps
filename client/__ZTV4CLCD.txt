@@ -1,0 +1,5 @@
+// `vtable for'CLCD
+// Auto reconstructed from vtable block @ 0x00F0FBE0
+// from "client.dylib", by ida_vtables.idc
+0	CLCD::SetGlobalStat(char const*,char const*)
+1	CLCD::AddChatLine(char const*)

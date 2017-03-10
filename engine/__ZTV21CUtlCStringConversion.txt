@@ -1,0 +1,4 @@
+// `vtable for'CUtlCStringConversion
+// Auto reconstructed from vtable block @ 0x0051D3D8
+// from "engine.dylib", by ida_vtables.idc
+0	CUtlCStringConversion::FindConversion(char const*,int *)

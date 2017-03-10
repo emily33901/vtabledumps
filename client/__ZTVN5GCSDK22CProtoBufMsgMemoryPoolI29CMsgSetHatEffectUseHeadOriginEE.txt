@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgSetHatEffectUseHeadOrigin>
+// Auto reconstructed from vtable block @ 0x01115CC0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgSetHatEffectUseHeadOrigin>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgSetHatEffectUseHeadOrigin>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgSetHatEffectUseHeadOrigin>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgSetHatEffectUseHeadOrigin>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgSetHatEffectUseHeadOrigin>::InternalFree(google::protobuf::Message *)

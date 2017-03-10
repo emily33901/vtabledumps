@@ -1,0 +1,24 @@
+// `vtable for'CTFHudPlayerStatus
+// Auto reconstructed from vtable block @ 0x00F97890
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CTFHudPlayerStatus
+1	CTFHudPlayerStatus::~CTFHudPlayerStatus()
+2	CTFHudPlayerStatus::~CTFHudPlayerStatus()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CTFHudPlayerStatus::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CTFHudPlayerStatus::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CTFHudPlayerStatus::GetMessageMap(void)
+18	CTFHudPlayerStatus::GetAnimMap(void)
+19	CTFHudPlayerStatus::GetKBMap(void)
+20	CTFHudPlayerStatus::ApplySchemeSettings(vgui::IScheme *)

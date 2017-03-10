@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientStat2_StatDetail
+// Auto reconstructed from vtable block @ 0x00EE8BA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientStat2_StatDetail::~CMsgClientStat2_StatDetail()
+1	CMsgClientStat2_StatDetail::~CMsgClientStat2_StatDetail()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientStat2_StatDetail::New(void)const
+4	CMsgClientStat2_StatDetail::Clear(void)
+5	CMsgClientStat2_StatDetail::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientStat2_StatDetail::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientStat2_StatDetail::ByteSize(void)const
+10	CMsgClientStat2_StatDetail::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientStat2_StatDetail::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientStat2_StatDetail::GetCachedSize(void)const
+13	CMsgClientStat2_StatDetail::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientStat2_StatDetail::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientStat2_StatDetail::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientStat2_StatDetail::GetMetadata(void)const

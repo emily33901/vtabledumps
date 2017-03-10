@@ -1,0 +1,5 @@
+// `vtable for'TagLib::List<TagLib::FileRef::FileTypeResolver const*>
+// Auto reconstructed from vtable block @ 0x00F25EFC
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::List<TagLib::FileRef::FileTypeResolver const*>::~List()
+1	TagLib::List<TagLib::FileRef::FileTypeResolver const*>::~List()

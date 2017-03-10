@@ -1,0 +1,11 @@
+// `vtable for'CAnimatedTextureProxy
+// Auto reconstructed from vtable block @ 0x00E99770
+// from "client.dylib", by ida_vtables.idc
+0	CBaseAnimatedTextureProxy::Init(IMaterial *,KeyValues *)
+1	CBaseAnimatedTextureProxy::OnBind(void *)
+2	CBaseAnimatedTextureProxy::Release(void)
+3	CBaseAnimatedTextureProxy::GetMaterial(void)
+4	CAnimatedTextureProxy::~CAnimatedTextureProxy()
+5	CAnimatedTextureProxy::~CAnimatedTextureProxy()
+6	CAnimatedTextureProxy::GetAnimationStartTime(void *)
+7	CBaseAnimatedTextureProxy::AnimationWrapped(void *)

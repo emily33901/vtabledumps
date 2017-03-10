@@ -1,0 +1,15 @@
+// `vtable for'CEconTool_Xifier
+// Auto reconstructed from vtable block @ 0x00E3EF50
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_Xifier::~CEconTool_Xifier()
+1	CEconTool_Xifier::~CEconTool_Xifier()
+2	CEconTool_Xifier::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+3	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+4	IEconTool::RequiresToolEscrowPeriod(void)const
+5	IEconTool::BFinishInitialization(void)
+6	IEconTool::CanBeUsedNow(IEconItemInterface const*)const
+7	IEconTool::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+8	CEconTool_Xifier::ShouldDisplayAsUseableOnItemsInArmory(void)const
+9	IEconTool::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+10	CEconTool_Xifier::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+11	IEconTool::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const

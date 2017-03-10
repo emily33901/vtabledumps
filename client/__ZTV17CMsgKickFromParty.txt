@@ -1,0 +1,23 @@
+// `vtable for'CMsgKickFromParty
+// Auto reconstructed from vtable block @ 0x00E39B20
+// from "client.dylib", by ida_vtables.idc
+0	CMsgKickFromParty::~CMsgKickFromParty()
+1	CMsgKickFromParty::~CMsgKickFromParty()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgKickFromParty::New(void)const
+4	CMsgKickFromParty::Clear(void)
+5	CMsgKickFromParty::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgKickFromParty::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgKickFromParty::ByteSize(void)const
+10	CMsgKickFromParty::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgKickFromParty::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgKickFromParty::GetCachedSize(void)const
+13	CMsgKickFromParty::CopyFrom(google::protobuf::Message const&)
+14	CMsgKickFromParty::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgKickFromParty::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgKickFromParty::GetMetadata(void)const

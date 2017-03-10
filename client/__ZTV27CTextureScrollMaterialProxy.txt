@@ -1,0 +1,9 @@
+// `vtable for'CTextureScrollMaterialProxy
+// Auto reconstructed from vtable block @ 0x00F333F0
+// from "client.dylib", by ida_vtables.idc
+0	CTextureScrollMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CTextureScrollMaterialProxy::OnBind(void *)
+2	CTextureScrollMaterialProxy::Release(void)
+3	CTextureScrollMaterialProxy::GetMaterial(void)
+4	CTextureScrollMaterialProxy::~CTextureScrollMaterialProxy()
+5	CTextureScrollMaterialProxy::~CTextureScrollMaterialProxy()

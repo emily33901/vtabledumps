@@ -1,0 +1,5 @@
+// `vtable for'CCopyableUtlVector<econ_store_entry_t::CategoryTag_t,CUtlMemory<econ_store_entry_t::CategoryTag_t,int>>
+// Auto reconstructed from vtable block @ 0x01053870
+// from "client.dylib", by ida_vtables.idc
+0	CCopyableUtlVector<econ_store_entry_t::CategoryTag_t,CUtlMemory<econ_store_entry_t::CategoryTag_t,int>>::~CCopyableUtlVector()
+1	CCopyableUtlVector<econ_store_entry_t::CategoryTag_t,CUtlMemory<econ_store_entry_t::CategoryTag_t,int>>::~CCopyableUtlVector()

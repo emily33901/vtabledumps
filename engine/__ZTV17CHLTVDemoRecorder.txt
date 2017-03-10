@@ -1,0 +1,20 @@
+// `vtable for'CHLTVDemoRecorder
+// Auto reconstructed from vtable block @ 0x004E85C0
+// from "engine.dylib", by ida_vtables.idc
+0	CHLTVDemoRecorder::GetDemoFile(void)
+1	CHLTVDemoRecorder::GetRecordingTick(void)
+2	CHLTVDemoRecorder::StartRecording(char const*,bool)
+3	CHLTVDemoRecorder::SetSignonState(int)
+4	CHLTVDemoRecorder::IsRecording(void)
+5	CHLTVDemoRecorder::PauseRecording(void)
+6	CHLTVDemoRecorder::ResumeRecording(void)
+7	CHLTVDemoRecorder::StopRecording(void)
+8	CHLTVDemoRecorder::RecordCommand(char const*)
+9	CHLTVDemoRecorder::RecordUserInput(int)
+10	CHLTVDemoRecorder::RecordMessages(bf_read &,int)
+11	CHLTVDemoRecorder::RecordPacket(void)
+12	CHLTVDemoRecorder::RecordServerClasses(ServerClass *)
+13	CHLTVDemoRecorder::RecordStringTables(void)
+14	CHLTVDemoRecorder::ResetDemoInterpolation(void)
+15	CHLTVDemoRecorder::~CHLTVDemoRecorder()
+16	CHLTVDemoRecorder::~CHLTVDemoRecorder()

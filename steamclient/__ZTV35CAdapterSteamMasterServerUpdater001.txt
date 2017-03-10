@@ -1,0 +1,17 @@
+// `vtable for'CAdapterSteamMasterServerUpdater001
+// Auto reconstructed from vtable block @ 0x00F06560
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMasterServerUpdater001::SetActive(bool)
+1	CAdapterSteamMasterServerUpdater001::SetHeartbeatInterval(int)
+2	CAdapterSteamMasterServerUpdater001::HandleIncomingPacket(void const*,int,unsigned int,unsigned short)
+3	CAdapterSteamMasterServerUpdater001::GetNextOutgoingPacket(void *,int,unsigned int *,unsigned short *)
+4	CAdapterSteamMasterServerUpdater001::SetBasicServerData(unsigned short,bool,char const*,char const*,unsigned short,bool,char const*)
+5	CAdapterSteamMasterServerUpdater001::ClearAllKeyValues(void)
+6	CAdapterSteamMasterServerUpdater001::SetKeyValue(char const*,char const*)
+7	CAdapterSteamMasterServerUpdater001::NotifyShutdown(void)
+8	CAdapterSteamMasterServerUpdater001::WasRestartRequested(void)
+9	CAdapterSteamMasterServerUpdater001::ForceHeartbeat(void)
+10	CAdapterSteamMasterServerUpdater001::AddMasterServer(char const*)
+11	CAdapterSteamMasterServerUpdater001::RemoveMasterServer(char const*)
+12	CAdapterSteamMasterServerUpdater001::GetNumMasterServers(void)
+13	CAdapterSteamMasterServerUpdater001::GetMasterServerAddress(int,char *,int)

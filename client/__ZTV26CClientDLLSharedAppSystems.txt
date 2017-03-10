@@ -1,0 +1,6 @@
+// `vtable for'CClientDLLSharedAppSystems
+// Auto reconstructed from vtable block @ 0x0108AAB0
+// from "client.dylib", by ida_vtables.idc
+0	CClientDLLSharedAppSystems::Count(void)
+1	CClientDLLSharedAppSystems::GetDllName(int)
+2	CClientDLLSharedAppSystems::GetInterfaceName(int)

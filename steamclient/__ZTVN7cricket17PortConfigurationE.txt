@@ -1,0 +1,5 @@
+// `vtable for'cricket::PortConfiguration
+// Auto reconstructed from vtable block @ 0x00F1F258
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::PortConfiguration::~PortConfiguration()
+1	cricket::PortConfiguration::~PortConfiguration()

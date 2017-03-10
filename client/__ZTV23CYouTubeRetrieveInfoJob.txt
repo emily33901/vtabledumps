@@ -1,0 +1,12 @@
+// `vtable for'CYouTubeRetrieveInfoJob
+// Auto reconstructed from vtable block @ 0x0104A650
+// from "client.dylib", by ida_vtables.idc
+0	CRefCounted1<IRefCounted,CRefCountServiceBase<true,CRefMT>>::AddRef(void)
+1	CRefCounted1<IRefCounted,CRefCountServiceBase<true,CRefMT>>::Release(void)
+2	CYouTubeRetrieveInfoJob::~CYouTubeRetrieveInfoJob()
+3	CYouTubeRetrieveInfoJob::~CYouTubeRetrieveInfoJob()
+4	CJob::Describe(void)
+5	CJob::SetDescription(char const*)
+6	CYouTubeRetrieveInfoJob::DoExecute(void)
+7	CJob::DoAbort(bool)
+8	CJob::DoCleanup(void)

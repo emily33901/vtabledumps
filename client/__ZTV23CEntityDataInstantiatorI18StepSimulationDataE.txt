@@ -1,0 +1,8 @@
+// `vtable for'CEntityDataInstantiator<StepSimulationData>
+// Auto reconstructed from vtable block @ 0x01054F30
+// from "client.dylib", by ida_vtables.idc
+0	CEntityDataInstantiator<StepSimulationData>::~CEntityDataInstantiator()
+1	CEntityDataInstantiator<StepSimulationData>::~CEntityDataInstantiator()
+2	CEntityDataInstantiator<StepSimulationData>::GetDataObject(C_BaseEntity const*)
+3	CEntityDataInstantiator<StepSimulationData>::CreateDataObject(C_BaseEntity const*)
+4	CEntityDataInstantiator<StepSimulationData>::DestroyDataObject(C_BaseEntity const*)

@@ -1,0 +1,25 @@
+// `vtable for'CTFHudMannVsMachineStatus
+// Auto reconstructed from vtable block @ 0x00F7C750
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CTFHudMannVsMachineStatus
+1	CTFHudMannVsMachineStatus::~CTFHudMannVsMachineStatus()
+2	CTFHudMannVsMachineStatus::~CTFHudMannVsMachineStatus()
+3	CTFHudMannVsMachineStatus::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CTFHudMannVsMachineStatus::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CTFHudMannVsMachineStatus::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CTFHudMannVsMachineStatus::GetMessageMap(void)
+18	CTFHudMannVsMachineStatus::GetAnimMap(void)
+19	CTFHudMannVsMachineStatus::GetKBMap(void)
+20	CTFHudMannVsMachineStatus::ApplySchemeSettings(vgui::IScheme *)
+21	CTFHudMannVsMachineStatus::OnTick(void)

@@ -1,0 +1,6 @@
+// `vtable for'CCallResult<CFilePublishDialog,SubmitItemUpdateResult_t>
+// Auto reconstructed from vtable block @ 0x01046300
+// from "client.dylib", by ida_vtables.idc
+0	CCallResult<CFilePublishDialog,SubmitItemUpdateResult_t>::Run(void *)
+1	CCallResult<CFilePublishDialog,SubmitItemUpdateResult_t>::Run(void *,bool,unsigned long long)
+2	CCallResult<CFilePublishDialog,SubmitItemUpdateResult_t>::GetCallbackSizeBytes(void)

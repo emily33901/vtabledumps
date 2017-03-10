@@ -1,0 +1,15 @@
+// `vtable for'CRotationManipulator
+// Auto reconstructed from vtable block @ 0x01043A10
+// from "client.dylib", by ida_vtables.idc
+0	CRotationManipulator::~CRotationManipulator()
+1	CRotationManipulator::~CRotationManipulator()
+2	CBaseManipulator::OnBeginManipulation(void)
+3	CBaseManipulator::OnAcceptManipulation(void)
+4	CBaseManipulator::OnCancelManipulation(void)
+5	CBaseManipulator::OnTick(void)
+6	CRotationManipulator::OnCursorMoved(int,int)
+7	CRotationManipulator::OnMousePressed(ButtonCode_t,int,int)
+8	CBaseManipulator::OnMouseReleased(ButtonCode_t,int,int)
+9	CBaseManipulator::OnMouseWheeled(int)
+10	CBaseManipulator::SetViewportSize(int,int)
+11	CRotationManipulator::UpdateTransform(void)

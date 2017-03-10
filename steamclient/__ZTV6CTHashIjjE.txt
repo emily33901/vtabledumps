@@ -1,0 +1,4 @@
+// `vtable for'CTHash<unsigned int,unsigned int>
+// Auto reconstructed from vtable block @ 0x00F2D334
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTHash<unsigned int,unsigned int>::Validate(CValidator &,char const*)

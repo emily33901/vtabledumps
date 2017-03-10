@@ -1,0 +1,78 @@
+// `vtable for'CStaticProp
+// Auto reconstructed from vtable block @ 0x004ED7D0
+// from "engine.dylib", by ida_vtables.idc
+0	CStaticProp::~CStaticProp()
+1	CStaticProp::~CStaticProp()
+2	CStaticProp::SetRefEHandle(CBaseHandle const&)
+3	CStaticProp::GetRefEHandle(void)const
+4	CStaticProp::GetCollideable(void)
+5	CStaticProp::GetClientNetworkable(void)
+6	CStaticProp::GetClientRenderable(void)
+7	CStaticProp::GetIClientEntity(void)
+8	CStaticProp::GetBaseEntity(void)
+9	CStaticProp::GetClientThinkable(void)
+10	CStaticProp::GetIClientUnknown(void)
+11	CStaticProp::OBBMinsPreScaled(void)const
+12	CStaticProp::OBBMaxsPreScaled(void)const
+13	CStaticProp::OBBMins(void)const
+14	CStaticProp::OBBMaxs(void)const
+15	CStaticProp::TestCollision(Ray_t const&,unsigned int,CGameTrace &)
+16	CStaticProp::TestHitboxes(Ray_t const&,unsigned int,CGameTrace &)
+17	CStaticProp::GetCollisionModelIndex(void)
+18	CStaticProp::GetCollisionModel(void)
+19	CStaticProp::GetCollisionOrigin(void)const
+20	CStaticProp::GetCollisionAngles(void)const
+21	CStaticProp::CollisionToWorldTransform(void)const
+22	CStaticProp::GetSolid(void)const
+23	CStaticProp::GetSolidFlags(void)const
+24	CStaticProp::GetEntityHandle(void)
+25	CStaticProp::GetCollisionGroup(void)const
+26	CStaticProp::WorldSpaceTriggerBounds(Vector *,Vector *)const
+27	CStaticProp::WorldSpaceSurroundingBounds(Vector *,Vector *)
+28	CStaticProp::ShouldTouchTrigger(int)const
+29	CStaticProp::GetRootParentToWorldTransform(void)const
+30	CStaticProp::GetBody(void)
+31	CStaticProp::GetSkin(void)
+32	CStaticProp::GetRenderOrigin(void)
+33	CStaticProp::GetRenderAngles(void)
+34	CStaticProp::ShouldDraw(void)
+35	CStaticProp::IsTransparent(void)
+36	CStaticProp::IsTwoPass(void)
+37	CStaticProp::OnThreadedDrawSetup(void)
+38	CStaticProp::GetModel(void)const
+39	CStaticProp::DrawModel(int)
+40	CStaticProp::ComputeFxBlend(void)
+41	CStaticProp::GetFxBlend(void)
+42	CStaticProp::GetColorModulation(float *)
+43	CStaticProp::LODTest(void)
+44	CStaticProp::SetupBones(matrix3x4_t *,int,int,float)
+45	CStaticProp::SetupWeights(matrix3x4_t const*,int,float *,float *)
+46	CStaticProp::UsesFlexDelayedWeights(void)
+47	CStaticProp::DoAnimationEvents(void)
+48	CStaticProp::GetPVSNotifyInterface(void)
+49	CStaticProp::GetRenderBounds(Vector &,Vector &)
+50	CStaticProp::GetRenderBoundsWorldspace(Vector &,Vector &)
+51	CStaticProp::ShouldCacheRenderInfo(void)
+52	CStaticProp::ShouldReceiveProjectedTextures(int)
+53	CStaticProp::GetShadowCastDistance(float *,ShadowType_t)const
+54	CStaticProp::GetShadowCastDirection(Vector *,ShadowType_t)const
+55	CStaticProp::UsesPowerOfTwoFrameBufferTexture(void)
+56	CStaticProp::UsesFullFrameBufferTexture(void)
+57	CStaticProp::GetShadowHandle(void)const
+58	CStaticProp::RenderHandle(void)
+59	CStaticProp::RecordToolMessage(void)
+60	CStaticProp::GetShadowRenderBounds(Vector &,Vector &,ShadowType_t)
+61	CStaticProp::IsShadowDirty(void)
+62	CStaticProp::MarkShadowDirty(bool)
+63	CStaticProp::GetShadowParent(void)
+64	CStaticProp::FirstShadowChild(void)
+65	CStaticProp::NextShadowPeer(void)
+66	CStaticProp::ShadowCastType(void)
+67	CStaticProp::CreateModelInstance(void)
+68	CStaticProp::GetModelInstance(void)
+69	CStaticProp::LookupAttachment(char const*)
+70	CStaticProp::GetAttachment(int,Vector &,QAngle &)
+71	CStaticProp::GetAttachment(int,matrix3x4_t &)
+72	CStaticProp::IgnoresZBuffer(void)const
+73	CStaticProp::GetRenderClipPlane(void)
+74	CStaticProp::RenderableToWorldTransform(void)

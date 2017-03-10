@@ -1,0 +1,15 @@
+// `vtable for'CVoxelTree
+// Auto reconstructed from vtable block @ 0x004ED6D0
+// from "engine.dylib", by ida_vtables.idc
+0	CVoxelTree::~CVoxelTree()
+1	CVoxelTree::~CVoxelTree()
+2	CVoxelTree::Init(CSpatialPartition *,int,Vector const&,Vector const&)
+3	CVoxelTree::ElementMoved(unsigned short,Vector const&,Vector const&)
+4	CVoxelTree::EnumerateElementsInBox(int,Vector const&,Vector const&,bool,IPartitionEnumerator *)
+5	CVoxelTree::EnumerateElementsInSphere(int,Vector const&,float,bool,IPartitionEnumerator *)
+6	CVoxelTree::EnumerateElementsAlongRay(int,Ray_t const&,bool,IPartitionEnumerator *)
+7	CVoxelTree::EnumerateElementsAtPoint(int,Vector const&,bool,IPartitionEnumerator *)
+8	CVoxelTree::RenderAllObjectsInTree(float)
+9	CVoxelTree::RenderObjectsInPlayerLeafs(Vector const&,Vector const&,float)
+10	CVoxelTree::ReportStats(char const*)
+11	CVoxelTree::DrawDebugOverlays(void)

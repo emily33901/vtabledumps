@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientOfflineMessageNotification
+// Auto reconstructed from vtable block @ 0x00EEFAB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientOfflineMessageNotification::~CMsgClientOfflineMessageNotification()
+1	CMsgClientOfflineMessageNotification::~CMsgClientOfflineMessageNotification()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientOfflineMessageNotification::New(void)const
+4	CMsgClientOfflineMessageNotification::Clear(void)
+5	CMsgClientOfflineMessageNotification::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientOfflineMessageNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientOfflineMessageNotification::ByteSize(void)const
+10	CMsgClientOfflineMessageNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientOfflineMessageNotification::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientOfflineMessageNotification::GetCachedSize(void)const
+13	CMsgClientOfflineMessageNotification::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientOfflineMessageNotification::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientOfflineMessageNotification::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientOfflineMessageNotification::GetMetadata(void)const

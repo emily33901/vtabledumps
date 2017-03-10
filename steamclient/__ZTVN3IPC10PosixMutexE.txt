@@ -1,0 +1,10 @@
+// `vtable for'IPC::PosixMutex
+// Auto reconstructed from vtable block @ 0x00EF3000
+// from "steamclient.dylib", by ida_vtables.idc
+0	IPC::PosixMutex::Wait(unsigned int)
+1	IPC::PosixMutex::Destroy(void)
+2	IPC::PosixMutex::~PosixMutex()
+3	IPC::PosixMutex::~PosixMutex()
+4	IPC::ISyncObject::GetOpaque(void)
+5	IPC::ISyncObject::Validate(CValidator &,char const*)
+6	IPC::PosixMutex::Release(void)

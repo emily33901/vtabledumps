@@ -1,0 +1,4 @@
+// `vtable for'CBrushConvexInfo
+// Auto reconstructed from vtable block @ 0x005261A4
+// from "engine.dylib", by ida_vtables.idc
+0	CBrushConvexInfo::GetContents(int)

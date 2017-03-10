@@ -1,0 +1,11 @@
+// `vtable for'CGCCoaching_AlreadyRatedCoach
+// Auto reconstructed from vtable block @ 0x010E4AC0
+// from "client.dylib", by ida_vtables.idc
+0	CGCCoaching_AlreadyRatedCoach::~CGCCoaching_AlreadyRatedCoach()
+1	CGCCoaching_AlreadyRatedCoach::~CGCCoaching_AlreadyRatedCoach()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCCoaching_AlreadyRatedCoach::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

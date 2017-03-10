@@ -1,0 +1,16 @@
+// `vtable for'CAdapterSteamUserStats003
+// Auto reconstructed from vtable block @ 0x00F09270
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUserStats003::RequestCurrentStats(void)
+1	CAdapterSteamUserStats003::GetStat(char const*,int *)
+2	CAdapterSteamUserStats003::GetStat(char const*,float *)
+3	CAdapterSteamUserStats003::SetStat(char const*,int)
+4	CAdapterSteamUserStats003::SetStat(char const*,float)
+5	CAdapterSteamUserStats003::UpdateAvgRateStat(char const*,float,double)
+6	CAdapterSteamUserStats003::GetAchievement(char const*,bool *)
+7	CAdapterSteamUserStats003::SetAchievement(char const*)
+8	CAdapterSteamUserStats003::ClearAchievement(char const*)
+9	CAdapterSteamUserStats003::StoreStats(void)
+10	CAdapterSteamUserStats003::GetAchievementIcon(char const*)
+11	CAdapterSteamUserStats003::GetAchievementDisplayAttribute(char const*,char const*)
+12	CAdapterSteamUserStats003::IndicateAchievementProgress(char const*,unsigned int,unsigned int)

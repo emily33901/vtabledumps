@@ -1,0 +1,5 @@
+// `vtable for'CRopePhysics<10>
+// Auto reconstructed from vtable block @ 0x01098D70
+// from "client.dylib", by ida_vtables.idc
+0	CBaseRopePhysics::GetNodeForces(CSimplePhysics::CNode *,int,Vector *)
+1	CBaseRopePhysics::ApplyConstraints(CSimplePhysics::CNode *,int)

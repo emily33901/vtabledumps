@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientEmoticonList_Emoticon
+// Auto reconstructed from vtable block @ 0x00EF0D10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientEmoticonList_Emoticon::~CMsgClientEmoticonList_Emoticon()
+1	CMsgClientEmoticonList_Emoticon::~CMsgClientEmoticonList_Emoticon()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientEmoticonList_Emoticon::New(void)const
+4	CMsgClientEmoticonList_Emoticon::Clear(void)
+5	CMsgClientEmoticonList_Emoticon::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientEmoticonList_Emoticon::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientEmoticonList_Emoticon::ByteSize(void)const
+10	CMsgClientEmoticonList_Emoticon::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientEmoticonList_Emoticon::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientEmoticonList_Emoticon::GetCachedSize(void)const
+13	CMsgClientEmoticonList_Emoticon::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientEmoticonList_Emoticon::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientEmoticonList_Emoticon::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientEmoticonList_Emoticon::GetMetadata(void)const

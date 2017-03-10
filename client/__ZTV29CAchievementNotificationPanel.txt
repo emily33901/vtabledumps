@@ -1,0 +1,26 @@
+// `vtable for'CAchievementNotificationPanel
+// Auto reconstructed from vtable block @ 0x00E98B30
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CAchievementNotificationPanel
+1	CAchievementNotificationPanel::~CAchievementNotificationPanel()
+2	CAchievementNotificationPanel::~CAchievementNotificationPanel()
+3	CAchievementNotificationPanel::FireGameEvent(IGameEvent *)
+4	CAchievementNotificationPanel::Init(void)
+5	CHudElement::VidInit(void)
+6	CAchievementNotificationPanel::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CAchievementNotificationPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CAchievementNotificationPanel::GetMessageMap(void)
+18	CAchievementNotificationPanel::GetAnimMap(void)
+19	CAchievementNotificationPanel::GetKBMap(void)
+20	CAchievementNotificationPanel::ApplySchemeSettings(vgui::IScheme *)
+21	CAchievementNotificationPanel::PerformLayout(void)
+22	CAchievementNotificationPanel::OnTick(void)

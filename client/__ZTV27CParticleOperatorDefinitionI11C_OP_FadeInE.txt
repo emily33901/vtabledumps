@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_OP_FadeIn>
+// Auto reconstructed from vtable block @ 0x01145790
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_OP_FadeIn>::GetName(void)const
+1	CParticleOperatorDefinition<C_OP_FadeIn>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_OP_FadeIn>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_OP_FadeIn>::GetId(void)const
+4	CParticleOperatorDefinition<C_OP_FadeIn>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_OP_FadeIn>::GetClassSize(void)const

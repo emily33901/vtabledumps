@@ -1,0 +1,17 @@
+// `vtable for'CTEParticleRenderer
+// Auto reconstructed from vtable block @ 0x00EB8010
+// from "client.dylib", by ida_vtables.idc
+0	CTEParticleRenderer::~CTEParticleRenderer()
+1	CTEParticleRenderer::~CTEParticleRenderer()
+2	CParticleEffect::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CParticleEffect::ShouldSimulate(void)const
+5	CParticleEffect::SetShouldSimulate(bool)
+6	CTEParticleRenderer::SimulateParticles(CParticleSimulateIterator *)
+7	CTEParticleRenderer::RenderParticles(CParticleRenderIterator *)
+8	CParticleEffect::NotifyRemove(void)
+9	CParticleEffect::NotifyDestroyParticle(Particle *)
+10	CParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CParticleEffect::GetEffectName(void)
+13	CParticleEffect::SetParticleCullRadius(float)

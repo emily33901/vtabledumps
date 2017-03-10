@@ -1,0 +1,7 @@
+// `vtable for'CStaticFrameFunction
+// Auto reconstructed from vtable block @ 0x00F27730
+// from "steamclient.dylib", by ida_vtables.idc
+0	CStaticFrameFunction::~CStaticFrameFunction()
+1	CStaticFrameFunction::~CStaticFrameFunction()
+2	CStaticFrameFunction::BRun(CReliableTimer &)
+3	CStaticFrameFunction::BAllocedSeparately(void)

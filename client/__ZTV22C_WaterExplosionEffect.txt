@@ -1,0 +1,9 @@
+// `vtable for'C_WaterExplosionEffect
+// Auto reconstructed from vtable block @ 0x00EF2B90
+// from "client.dylib", by ida_vtables.idc
+0	C_WaterExplosionEffect::Create(Vector const&,float,float,int)
+1	C_WaterExplosionEffect::PlaySound(void)
+2	C_WaterExplosionEffect::CreateCore(void)
+3	C_WaterExplosionEffect::CreateDebris(void)
+4	C_WaterExplosionEffect::CreateMisc(void)
+5	C_BaseExplosionEffect::CreateDynamicLight(void)

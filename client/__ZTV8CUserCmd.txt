@@ -1,0 +1,5 @@
+// `vtable for'CUserCmd
+// Auto reconstructed from vtable block @ 0x010547E0
+// from "client.dylib", by ida_vtables.idc
+0	CUserCmd::~CUserCmd()
+1	CUserCmd::~CUserCmd()

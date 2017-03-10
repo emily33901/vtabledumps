@@ -1,0 +1,8 @@
+// `vtable for'CFunctor4<void (*)(CFileWriter *,char const*,bool,bool *),CFileWriter *,char *,bool,bool *>
+// Auto reconstructed from vtable block @ 0x00F12E00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+2	CFunctor4<void (*)(CFileWriter *,char const*,bool,bool *),CFileWriter *,char *,bool,bool *>::operator()(void)
+3	CFunctor4<void (*)(CFileWriter *,char const*,bool,bool *),CFileWriter *,char *,bool,bool *>::~CFunctor4()
+4	CFunctor4<void (*)(CFileWriter *,char const*,bool,bool *),CFileWriter *,char *,bool,bool *>::~CFunctor4()

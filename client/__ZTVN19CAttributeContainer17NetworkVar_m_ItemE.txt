@@ -1,0 +1,76 @@
+// `vtable for'CAttributeContainer::NetworkVar_m_Item
+// Auto reconstructed from vtable block @ 0x0104E770
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeContainer::NetworkVar_m_Item::~NetworkVar_m_Item()
+1	CAttributeContainer::NetworkVar_m_Item::~NetworkVar_m_Item()
+2	CDefaultClientRenderable::SetRefEHandle(CBaseHandle const&)
+3	CDefaultClientRenderable::GetRefEHandle(void)const
+4	CDefaultClientRenderable::GetCollideable(void)
+5	CDefaultClientRenderable::GetClientNetworkable(void)
+6	CDefaultClientRenderable::GetClientRenderable(void)
+7	CDefaultClientRenderable::GetIClientEntity(void)
+8	CDefaultClientRenderable::GetBaseEntity(void)
+9	CDefaultClientRenderable::GetClientThinkable(void)
+10	C_EconItemView::GetRenderOrigin(void)
+11	C_EconItemView::GetRenderAngles(void)
+12	C_EconItemView::RenderableToWorldTransform(void)
+13	C_EconItemView::ShouldDraw(void)
+14	C_EconItemView::IsTransparent(void)
+15	CDefaultClientRenderable::IsTwoPass(void)
+16	CDefaultClientRenderable::OnThreadedDrawSetup(void)
+17	CDefaultClientRenderable::UsesPowerOfTwoFrameBufferTexture(void)
+18	CDefaultClientRenderable::UsesFullFrameBufferTexture(void)
+19	CDefaultClientRenderable::GetShadowHandle(void)const
+20	CDefaultClientRenderable::RenderHandle(void)
+21	CDefaultClientRenderable::GetBody(void)
+22	CDefaultClientRenderable::GetSkin(void)
+23	CDefaultClientRenderable::UsesFlexDelayedWeights(void)
+24	CDefaultClientRenderable::GetModel(void)const
+25	CDefaultClientRenderable::DrawModel(int)
+26	CDefaultClientRenderable::ComputeFxBlend(void)
+27	CDefaultClientRenderable::GetFxBlend(void)
+28	CDefaultClientRenderable::LODTest(void)
+29	CDefaultClientRenderable::SetupBones(matrix3x4_t *,int,int,float)
+30	CDefaultClientRenderable::SetupWeights(matrix3x4_t const*,int,float *,float *)
+31	CDefaultClientRenderable::DoAnimationEvents(void)
+32	CDefaultClientRenderable::GetPVSNotifyInterface(void)
+33	CDefaultClientRenderable::GetRenderBoundsWorldspace(Vector &,Vector &)
+34	CDefaultClientRenderable::GetColorModulation(float *)
+35	CDefaultClientRenderable::ShouldReceiveProjectedTextures(int)
+36	CDefaultClientRenderable::GetShadowCastDistance(float *,ShadowType_t)const
+37	CDefaultClientRenderable::GetShadowCastDirection(Vector *,ShadowType_t)const
+38	CDefaultClientRenderable::GetShadowRenderBounds(Vector &,Vector &,ShadowType_t)
+39	CDefaultClientRenderable::IsShadowDirty(void)
+40	CDefaultClientRenderable::MarkShadowDirty(bool)
+41	CDefaultClientRenderable::GetShadowParent(void)
+42	CDefaultClientRenderable::FirstShadowChild(void)
+43	CDefaultClientRenderable::NextShadowPeer(void)
+44	CDefaultClientRenderable::ShadowCastType(void)
+45	CDefaultClientRenderable::CreateModelInstance(void)
+46	CDefaultClientRenderable::GetModelInstance(void)
+47	CDefaultClientRenderable::LookupAttachment(char const*)
+48	CDefaultClientRenderable::GetAttachment(int,Vector &,QAngle &)
+49	CDefaultClientRenderable::GetAttachment(int,matrix3x4_t &)
+50	CDefaultClientRenderable::GetRenderClipPlane(void)
+51	CDefaultClientRenderable::RecordToolMessage(void)
+52	CDefaultClientRenderable::IgnoresZBuffer(void)const
+53	CDefaultClientRenderable::GetIClientUnknown(void)
+54	CAttributeContainer::NetworkVar_m_Item::NetworkStateChanged(void)
+55	CAttributeContainer::NetworkVar_m_Item::NetworkStateChanged(void *)
+56	C_EconItemView::GetDataDescMap(void)
+57	C_EconItemView::GetItemDefinition(void)const
+58	C_EconItemView::GetID(void)const
+59	C_EconItemView::GetQuality(void)const
+60	C_EconItemView::GetStyle(void)const
+61	C_EconItemView::GetFlags(void)const
+62	C_EconItemView::GetOrigin(void)const
+63	C_EconItemView::GetQuantity(void)const
+64	C_EconItemView::GetCustomName(void)const
+65	C_EconItemView::GetCustomDesc(void)const
+66	C_EconItemView::GetInUse(void)const
+67	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)const
+68	C_EconItemView::GetItemDefIndex(void)const
+69	C_EconItemView::GetItemLevel(void)const
+70	C_EconItemView::GetAccountID(void)const
+71	C_EconItemView::GetCustomPainkKitDefinition(void)const
+72	C_EconItemView::GetRenderBounds(Vector &,Vector &)

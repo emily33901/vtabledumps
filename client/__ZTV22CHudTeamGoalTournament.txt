@@ -1,0 +1,24 @@
+// `vtable for'CHudTeamGoalTournament
+// Auto reconstructed from vtable block @ 0x00FA5E30
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudTeamGoalTournament
+1	CHudTeamGoalTournament::~CHudTeamGoalTournament()
+2	CHudTeamGoalTournament::~CHudTeamGoalTournament()
+3	CHudTeamGoalTournament::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudTeamGoalTournament::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudTeamGoalTournament::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudTeamGoalTournament::GetMessageMap(void)
+18	CHudTeamGoalTournament::GetAnimMap(void)
+19	CHudTeamGoalTournament::GetKBMap(void)
+20	CHudTeamGoalTournament::ApplySchemeSettings(vgui::IScheme *)

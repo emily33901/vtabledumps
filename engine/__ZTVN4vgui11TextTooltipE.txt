@@ -1,0 +1,11 @@
+// `vtable for'vgui::TextTooltip
+// Auto reconstructed from vtable block @ 0x005197C0
+// from "engine.dylib", by ida_vtables.idc
+0	vgui::TextTooltip::SetText(char const*)
+1	vgui::BaseTooltip::GetText(void)
+2	vgui::TextTooltip::ShowTooltip(vgui::Panel *)
+3	vgui::TextTooltip::HideTooltip(void)
+4	vgui::TextTooltip::PerformLayout(void)
+5	vgui::BaseTooltip::PositionWindow(vgui::Panel *)
+6	vgui::TextTooltip::ApplySchemeSettings(vgui::IScheme *)
+7	vgui::TextTooltip::SizeTextWindow(void)

@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CSteam3Server,SteamServerConnectFailure_t,true>
+// Auto reconstructed from vtable block @ 0x00529A30
+// from "engine.dylib", by ida_vtables.idc
+0	CCallback<CSteam3Server,SteamServerConnectFailure_t,true>::Run(void *)
+1	CCallbackImpl<8>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<8>::GetCallbackSizeBytes(void)

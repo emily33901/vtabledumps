@@ -1,0 +1,4 @@
+// `vtable for'CPanelFactory<CPDAPanel_Spy_Invis,VGuiScreenInitData_t>
+// Auto reconstructed from vtable block @ 0x0113D2FC
+// from "client.dylib", by ida_vtables.idc
+0	CPanelFactory<CPDAPanel_Spy_Invis,VGuiScreenInitData_t>::Create(char const*,KeyValues *,void *,vgui::Panel *)

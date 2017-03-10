@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientMMSJoinLobby
+// Auto reconstructed from vtable block @ 0x00EE8D20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientMMSJoinLobby::~CMsgClientMMSJoinLobby()
+1	CMsgClientMMSJoinLobby::~CMsgClientMMSJoinLobby()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientMMSJoinLobby::New(void)const
+4	CMsgClientMMSJoinLobby::Clear(void)
+5	CMsgClientMMSJoinLobby::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientMMSJoinLobby::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientMMSJoinLobby::ByteSize(void)const
+10	CMsgClientMMSJoinLobby::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientMMSJoinLobby::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientMMSJoinLobby::GetCachedSize(void)const
+13	CMsgClientMMSJoinLobby::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientMMSJoinLobby::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientMMSJoinLobby::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientMMSJoinLobby::GetMetadata(void)const

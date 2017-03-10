@@ -1,0 +1,23 @@
+// `vtable for'CFleckParticles
+// Auto reconstructed from vtable block @ 0x00EF2BF0
+// from "client.dylib", by ida_vtables.idc
+0	CFleckParticles::~CFleckParticles()
+1	CFleckParticles::~CFleckParticles()
+2	CParticleEffect::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CParticleEffect::ShouldSimulate(void)const
+5	CParticleEffect::SetShouldSimulate(bool)
+6	CFleckParticles::SimulateParticles(CParticleSimulateIterator *)
+7	CFleckParticles::RenderParticles(CParticleRenderIterator *)
+8	CParticleEffect::NotifyRemove(void)
+9	CParticleEffect::NotifyDestroyParticle(Particle *)
+10	CParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CParticleEffect::GetEffectName(void)
+13	CParticleEffect::SetParticleCullRadius(float)
+14	CSimpleEmitter::UpdateAlpha(SimpleParticle const*)
+15	CSimpleEmitter::UpdateScale(SimpleParticle const*)
+16	CSimpleEmitter::UpdateRoll(SimpleParticle *,float)
+17	CSimpleEmitter::UpdateVelocity(SimpleParticle *,float)
+18	CSimpleEmitter::UpdateColor(SimpleParticle const*)
+19	CFleckParticles::Setup(Vector const&,Vector const*,float,float,float,float,float,int)

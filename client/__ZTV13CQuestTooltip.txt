@@ -1,0 +1,13 @@
+// `vtable for'CQuestTooltip
+// Auto reconstructed from vtable block @ 0x00FC7FB0
+// from "client.dylib", by ida_vtables.idc
+0	CTFTextToolTip::SetText(char const*)
+1	CMainMenuToolTip::GetText(void)
+2	CQuestTooltip::ShowTooltip(vgui::Panel *)
+3	CMainMenuToolTip::HideTooltip(void)
+4	CTFTextToolTip::PerformLayout(void)
+5	CQuestTooltip::PositionWindow(vgui::Panel *)
+6	vgui::BaseTooltip::ApplySchemeSettings(vgui::IScheme *)
+7	CQuestTooltip::GetMessageMap(void)
+8	CQuestTooltip::GetAnimMap(void)
+9	CQuestTooltip::GetKBMap(void)

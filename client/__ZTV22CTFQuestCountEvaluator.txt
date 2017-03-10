@@ -1,0 +1,27 @@
+// `vtable for'CTFQuestCountEvaluator
+// Auto reconstructed from vtable block @ 0x0107DD10
+// from "client.dylib", by ida_vtables.idc
+0	CTFQuestCountEvaluator::~CTFQuestCountEvaluator()
+1	CTFQuestCountEvaluator::~CTFQuestCountEvaluator()
+2	CTFQuestEvaluator::GetBaseName(void)const
+3	CTFQuestCountEvaluator::GetConditionName(void)const
+4	CTFQuestCondition::GetValueString(void)const
+5	CTFQuestCountEvaluator::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+6	CTFQuestCondition::PrintDebugText(void)const
+7	CTFQuestCondition::GetQuestOwner(void)const
+8	CTFQuestCountEvaluator::IsValidForPlayer(C_TFPlayer const*,InvalidReason &)const
+9	CTFQuestCondition::IsOperator(void)const
+10	CTFQuestEvaluator::IsEvaluator(void)const
+11	CTFQuestCountEvaluator::AddChildByName(char const*)
+12	CTFQuestCountEvaluator::GetChildren(CUtlVector<CTFQuestCondition *,CUtlMemory<CTFQuestCondition *,int>> &)
+13	CTFQuestCountEvaluator::RemoveAndDeleteChild(CTFQuestCondition *)
+14	CTFQuestCountEvaluator::GetRequiredParamKeys(KeyValues *)
+15	CTFQuestCountEvaluator::GetOutputKeyValues(KeyValues *)
+16	CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+17	CTFQuestCountEvaluator::GetValidChildren(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+18	CTFQuestCountEvaluator::GetMaxInputCount(void)const
+19	CTFQuestCondition::GetEventName(void)const
+20	CTFQuestCondition::SetEventName(char const*)
+21	CTFQuestCountEvaluator::EvaluateCondition(CTFQuestEvaluator *,int)
+22	CTFQuestCountEvaluator::ResetCondition(void)
+23	CTFQuestCountEvaluator::GetChildrenSubTypeCount(void)const

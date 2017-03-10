@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<void * (*)(SDL_Window *)>
+// Auto reconstructed from vtable block @ 0x00EF2E90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<void * (*)(SDL_Window *)>::Init(CSysModule *)
+1	CDynamicFunc<void * (*)(SDL_Window *)>::Release(void)
+2	CDynamicFunc<void * (*)(SDL_Window *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<void * (*)(SDL_Window *)>::GetNextPointer(void)

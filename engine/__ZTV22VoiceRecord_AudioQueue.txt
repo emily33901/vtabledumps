@@ -1,0 +1,11 @@
+// `vtable for'VoiceRecord_AudioQueue
+// Auto reconstructed from vtable block @ 0x004B6C60
+// from "engine.dylib", by ida_vtables.idc
+0	VoiceRecord_AudioQueue::~VoiceRecord_AudioQueue()
+1	VoiceRecord_AudioQueue::~VoiceRecord_AudioQueue()
+2	VoiceRecord_AudioQueue::Release(void)
+3	VoiceRecord_AudioQueue::RecordStart(void)
+4	VoiceRecord_AudioQueue::RecordStop(void)
+5	VoiceRecord_AudioQueue::Idle(void)
+6	VoiceRecord_AudioQueue::GetRecordedData(short *,int)
+7	VoiceRecord_AudioQueue::Init(void)

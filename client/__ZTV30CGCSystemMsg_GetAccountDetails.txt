@@ -1,0 +1,23 @@
+// `vtable for'CGCSystemMsg_GetAccountDetails
+// Auto reconstructed from vtable block @ 0x00E979B0
+// from "client.dylib", by ida_vtables.idc
+0	CGCSystemMsg_GetAccountDetails::~CGCSystemMsg_GetAccountDetails()
+1	CGCSystemMsg_GetAccountDetails::~CGCSystemMsg_GetAccountDetails()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCSystemMsg_GetAccountDetails::New(void)const
+4	CGCSystemMsg_GetAccountDetails::Clear(void)
+5	CGCSystemMsg_GetAccountDetails::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCSystemMsg_GetAccountDetails::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCSystemMsg_GetAccountDetails::ByteSize(void)const
+10	CGCSystemMsg_GetAccountDetails::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCSystemMsg_GetAccountDetails::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCSystemMsg_GetAccountDetails::GetCachedSize(void)const
+13	CGCSystemMsg_GetAccountDetails::CopyFrom(google::protobuf::Message const&)
+14	CGCSystemMsg_GetAccountDetails::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCSystemMsg_GetAccountDetails::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCSystemMsg_GetAccountDetails::GetMetadata(void)const

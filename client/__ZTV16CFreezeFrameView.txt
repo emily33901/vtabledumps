@@ -1,0 +1,8 @@
+// `vtable for'CFreezeFrameView
+// Auto reconstructed from vtable block @ 0x010115A0
+// from "client.dylib", by ida_vtables.idc
+0	CFreezeFrameView::~CFreezeFrameView()
+1	CFreezeFrameView::~CFreezeFrameView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CFreezeFrameView::Draw(void)

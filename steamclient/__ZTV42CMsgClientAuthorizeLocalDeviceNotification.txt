@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientAuthorizeLocalDeviceNotification
+// Auto reconstructed from vtable block @ 0x00EF09B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientAuthorizeLocalDeviceNotification::~CMsgClientAuthorizeLocalDeviceNotification()
+1	CMsgClientAuthorizeLocalDeviceNotification::~CMsgClientAuthorizeLocalDeviceNotification()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientAuthorizeLocalDeviceNotification::New(void)const
+4	CMsgClientAuthorizeLocalDeviceNotification::Clear(void)
+5	CMsgClientAuthorizeLocalDeviceNotification::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientAuthorizeLocalDeviceNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientAuthorizeLocalDeviceNotification::ByteSize(void)const
+10	CMsgClientAuthorizeLocalDeviceNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientAuthorizeLocalDeviceNotification::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientAuthorizeLocalDeviceNotification::GetCachedSize(void)const
+13	CMsgClientAuthorizeLocalDeviceNotification::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientAuthorizeLocalDeviceNotification::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientAuthorizeLocalDeviceNotification::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientAuthorizeLocalDeviceNotification::GetMetadata(void)const

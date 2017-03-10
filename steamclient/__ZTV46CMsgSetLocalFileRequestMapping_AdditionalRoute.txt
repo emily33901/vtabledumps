@@ -1,0 +1,23 @@
+// `vtable for'CMsgSetLocalFileRequestMapping_AdditionalRoute
+// Auto reconstructed from vtable block @ 0x00ECB580
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetLocalFileRequestMapping_AdditionalRoute::~CMsgSetLocalFileRequestMapping_AdditionalRoute()
+1	CMsgSetLocalFileRequestMapping_AdditionalRoute::~CMsgSetLocalFileRequestMapping_AdditionalRoute()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgSetLocalFileRequestMapping_AdditionalRoute::New(void)const
+4	CMsgSetLocalFileRequestMapping_AdditionalRoute::Clear(void)
+5	CMsgSetLocalFileRequestMapping_AdditionalRoute::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgSetLocalFileRequestMapping_AdditionalRoute::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgSetLocalFileRequestMapping_AdditionalRoute::ByteSize(void)const
+10	CMsgSetLocalFileRequestMapping_AdditionalRoute::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgSetLocalFileRequestMapping_AdditionalRoute::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgSetLocalFileRequestMapping_AdditionalRoute::GetCachedSize(void)const
+13	CMsgSetLocalFileRequestMapping_AdditionalRoute::CopyFrom(google::protobuf::Message const&)
+14	CMsgSetLocalFileRequestMapping_AdditionalRoute::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgSetLocalFileRequestMapping_AdditionalRoute::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgSetLocalFileRequestMapping_AdditionalRoute::GetMetadata(void)const

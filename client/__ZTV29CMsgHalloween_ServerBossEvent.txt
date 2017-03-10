@@ -1,0 +1,23 @@
+// `vtable for'CMsgHalloween_ServerBossEvent
+// Auto reconstructed from vtable block @ 0x00E53400
+// from "client.dylib", by ida_vtables.idc
+0	CMsgHalloween_ServerBossEvent::~CMsgHalloween_ServerBossEvent()
+1	CMsgHalloween_ServerBossEvent::~CMsgHalloween_ServerBossEvent()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgHalloween_ServerBossEvent::New(void)const
+4	CMsgHalloween_ServerBossEvent::Clear(void)
+5	CMsgHalloween_ServerBossEvent::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgHalloween_ServerBossEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgHalloween_ServerBossEvent::ByteSize(void)const
+10	CMsgHalloween_ServerBossEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgHalloween_ServerBossEvent::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgHalloween_ServerBossEvent::GetCachedSize(void)const
+13	CMsgHalloween_ServerBossEvent::CopyFrom(google::protobuf::Message const&)
+14	CMsgHalloween_ServerBossEvent::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgHalloween_ServerBossEvent::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgHalloween_ServerBossEvent::GetMetadata(void)const

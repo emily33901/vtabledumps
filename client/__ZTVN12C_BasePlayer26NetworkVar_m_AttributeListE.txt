@@ -1,0 +1,6 @@
+// `vtable for'C_BasePlayer::NetworkVar_m_AttributeList
+// Auto reconstructed from vtable block @ 0x01091B90
+// from "client.dylib", by ida_vtables.idc
+0	C_BasePlayer::NetworkVar_m_AttributeList::NetworkStateChanged(void)
+1	C_BasePlayer::NetworkVar_m_AttributeList::NetworkStateChanged(void *)
+2	CAttributeList::GetDataDescMap(void)

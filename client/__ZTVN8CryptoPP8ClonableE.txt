@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::Clonable
+// Auto reconstructed from vtable block @ 0x01017E60
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::Clonable::~Clonable()
+1	CryptoPP::Clonable::~Clonable()
+2	CryptoPP::Clonable::Clone(void)const

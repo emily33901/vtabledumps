@@ -1,0 +1,23 @@
+// `vtable for'CContentBuilder_CommitAppBuild_Request_Depots
+// Auto reconstructed from vtable block @ 0x00EC3430
+// from "steamclient.dylib", by ida_vtables.idc
+0	CContentBuilder_CommitAppBuild_Request_Depots::~CContentBuilder_CommitAppBuild_Request_Depots()
+1	CContentBuilder_CommitAppBuild_Request_Depots::~CContentBuilder_CommitAppBuild_Request_Depots()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CContentBuilder_CommitAppBuild_Request_Depots::New(void)const
+4	CContentBuilder_CommitAppBuild_Request_Depots::Clear(void)
+5	CContentBuilder_CommitAppBuild_Request_Depots::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CContentBuilder_CommitAppBuild_Request_Depots::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CContentBuilder_CommitAppBuild_Request_Depots::ByteSize(void)const
+10	CContentBuilder_CommitAppBuild_Request_Depots::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CContentBuilder_CommitAppBuild_Request_Depots::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CContentBuilder_CommitAppBuild_Request_Depots::GetCachedSize(void)const
+13	CContentBuilder_CommitAppBuild_Request_Depots::CopyFrom(google::protobuf::Message const&)
+14	CContentBuilder_CommitAppBuild_Request_Depots::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CContentBuilder_CommitAppBuild_Request_Depots::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CContentBuilder_CommitAppBuild_Request_Depots::GetMetadata(void)const

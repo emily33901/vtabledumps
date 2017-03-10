@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CSteam3Client,ClientGameServerDeny_t,false>
+// Auto reconstructed from vtable block @ 0x005246B0
+// from "engine.dylib", by ida_vtables.idc
+0	CCallback<CSteam3Client,ClientGameServerDeny_t,false>::Run(void *)
+1	CCallbackImpl<16>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<16>::GetCallbackSizeBytes(void)

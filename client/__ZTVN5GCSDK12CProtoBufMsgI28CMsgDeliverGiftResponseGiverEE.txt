@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgDeliverGiftResponseGiver>
+// Auto reconstructed from vtable block @ 0x010AF140
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgDeliverGiftResponseGiver>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgDeliverGiftResponseGiver>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgDeliverGiftResponseGiver>::GetGenericBody(void)const

@@ -1,0 +1,4 @@
+// `vtable for'PrecachePostProcessingGlowEffects::ClientEffectRegister
+// Auto reconstructed from vtable block @ 0x00FAF928
+// from "client.dylib", by ida_vtables.idc
+0	PrecachePostProcessingGlowEffects::ClientEffectRegister::Cache(bool)

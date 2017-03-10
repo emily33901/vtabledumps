@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgStoreGetUserData>
+// Auto reconstructed from vtable block @ 0x010ABA30
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgStoreGetUserData>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgStoreGetUserData>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgStoreGetUserData>::GetGenericBody(void)const

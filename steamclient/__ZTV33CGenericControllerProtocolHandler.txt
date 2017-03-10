@@ -1,0 +1,17 @@
+// `vtable for'CGenericControllerProtocolHandler
+// Auto reconstructed from vtable block @ 0x00F02190
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGenericControllerProtocolHandler::~CGenericControllerProtocolHandler()
+1	CGenericControllerProtocolHandler::~CGenericControllerProtocolHandler()
+2	CGenericControllerProtocolHandler::ReadInput(unsigned char *,unsigned long,int)
+3	CGenericControllerProtocolHandler::WriteCommand(unsigned char const*,unsigned long)
+4	CGenericControllerProtocolHandler::ReadCommand(unsigned char *,unsigned long)
+5	CGenericControllerProtocolHandler::WriteRaw(unsigned char const*,unsigned long)
+6	CControllerHidVirtualSocket::ReadRaw(unsigned char *,unsigned long)
+7	CControllerHidVirtualSocket::GetSerialString(void)
+8	CControllerHidVirtualSocket::GetProductString(void)
+9	CGenericControllerProtocolHandler::GetFeatureReportWriteSize(void)
+10	CGenericControllerProtocolHandler::GetFeatureReportReadSize(void)
+11	CControllerHidVirtualSocket::ReadInputReport(unsigned char *,unsigned long,int)
+12	CControllerHidVirtualSocket::WriteFeatureReport(unsigned char,unsigned char const*,unsigned long)
+13	CControllerHidVirtualSocket::ReadFeatureReport(unsigned char,unsigned char *,unsigned long)

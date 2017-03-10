@@ -1,0 +1,4 @@
+// `vtable for'CEconNotificationVisitor_RemoveTradeRequest
+// Auto reconstructed from vtable block @ 0x010A7764
+// from "client.dylib", by ida_vtables.idc
+0	CEconNotificationVisitor_RemoveTradeRequest::Visit(CEconNotification &)

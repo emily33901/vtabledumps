@@ -1,0 +1,9 @@
+// `vtable for'CProxyHeartbeatScale
+// Auto reconstructed from vtable block @ 0x010E3270
+// from "client.dylib", by ida_vtables.idc
+0	CResultProxy::Init(IMaterial *,KeyValues *)
+1	CProxyHeartbeatScale::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CProxyHeartbeatScale::~CProxyHeartbeatScale()
+5	CProxyHeartbeatScale::~CProxyHeartbeatScale()

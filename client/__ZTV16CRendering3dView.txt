@@ -1,0 +1,8 @@
+// `vtable for'CRendering3dView
+// Auto reconstructed from vtable block @ 0x010114C0
+// from "client.dylib", by ida_vtables.idc
+0	CRendering3dView::~CRendering3dView()
+1	CRendering3dView::~CRendering3dView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CRendering3dView::Draw(void)

@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgTFSaxxyBroadcast>
+// Auto reconstructed from vtable block @ 0x01117A20
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgTFSaxxyBroadcast>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgTFSaxxyBroadcast>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgTFSaxxyBroadcast>::GetGenericBody(void)const

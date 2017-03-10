@@ -1,0 +1,7 @@
+// `vtable for'CProportionalIntWithScreenspacePropertyY
+// Auto reconstructed from vtable block @ 0x011563F0
+// from "client.dylib", by ida_vtables.idc
+0	CProportionalIntWithScreenspacePropertyX::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CProportionalIntWithScreenspacePropertyX::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CProportionalIntWithScreenspacePropertyX::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)
+3	CProportionalIntWithScreenspacePropertyY::GetScreenSize(void)

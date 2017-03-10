@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgFulfillDynamicRecipeComponent>
+// Auto reconstructed from vtable block @ 0x01119210
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgFulfillDynamicRecipeComponent>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgFulfillDynamicRecipeComponent>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgFulfillDynamicRecipeComponent>::GetGenericBody(void)const

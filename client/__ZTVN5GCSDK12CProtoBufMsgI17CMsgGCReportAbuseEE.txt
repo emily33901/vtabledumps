@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCReportAbuse>
+// Auto reconstructed from vtable block @ 0x01044D10
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCReportAbuse>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCReportAbuse>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCReportAbuse>::GetGenericBody(void)const

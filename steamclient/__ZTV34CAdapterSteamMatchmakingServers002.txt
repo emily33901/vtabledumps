@@ -1,0 +1,20 @@
+// `vtable for'CAdapterSteamMatchmakingServers002
+// Auto reconstructed from vtable block @ 0x00F09390
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMatchmakingServers002::RequestInternetServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+1	CAdapterSteamMatchmakingServers002::RequestLANServerList(unsigned int,ISteamMatchmakingServerListResponse *)
+2	CAdapterSteamMatchmakingServers002::RequestFriendsServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+3	CAdapterSteamMatchmakingServers002::RequestFavoritesServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+4	CAdapterSteamMatchmakingServers002::RequestHistoryServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+5	CAdapterSteamMatchmakingServers002::RequestSpectatorServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+6	CAdapterSteamMatchmakingServers002::ReleaseRequest(void *)
+7	CAdapterSteamMatchmakingServers002::GetServerDetails(void *,int)
+8	CAdapterSteamMatchmakingServers002::CancelQuery(void *)
+9	CAdapterSteamMatchmakingServers002::RefreshQuery(void *)
+10	CAdapterSteamMatchmakingServers002::IsRefreshing(void *)
+11	CAdapterSteamMatchmakingServers002::GetServerCount(void *)
+12	CAdapterSteamMatchmakingServers002::RefreshServer(void *,int)
+13	CAdapterSteamMatchmakingServers002::PingServer(unsigned int,unsigned short,ISteamMatchmakingPingResponse *)
+14	CAdapterSteamMatchmakingServers002::PlayerDetails(unsigned int,unsigned short,ISteamMatchmakingPlayersResponse *)
+15	CAdapterSteamMatchmakingServers002::ServerRules(unsigned int,unsigned short,ISteamMatchmakingRulesResponse *)
+16	CAdapterSteamMatchmakingServers002::CancelServerQuery(int)

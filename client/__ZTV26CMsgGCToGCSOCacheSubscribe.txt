@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCToGCSOCacheSubscribe
+// Auto reconstructed from vtable block @ 0x01018AF0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCToGCSOCacheSubscribe::~CMsgGCToGCSOCacheSubscribe()
+1	CMsgGCToGCSOCacheSubscribe::~CMsgGCToGCSOCacheSubscribe()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCToGCSOCacheSubscribe::New(void)const
+4	CMsgGCToGCSOCacheSubscribe::Clear(void)
+5	CMsgGCToGCSOCacheSubscribe::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCToGCSOCacheSubscribe::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCToGCSOCacheSubscribe::ByteSize(void)const
+10	CMsgGCToGCSOCacheSubscribe::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCToGCSOCacheSubscribe::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCToGCSOCacheSubscribe::GetCachedSize(void)const
+13	CMsgGCToGCSOCacheSubscribe::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCToGCSOCacheSubscribe::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCToGCSOCacheSubscribe::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCToGCSOCacheSubscribe::GetMetadata(void)const

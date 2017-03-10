@@ -1,0 +1,5 @@
+// `vtable for'CTraceFilterHitAll
+// Auto reconstructed from vtable block @ 0x010A008C
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterHitAll::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const

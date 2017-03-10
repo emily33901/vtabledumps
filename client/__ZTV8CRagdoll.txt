@@ -1,0 +1,14 @@
+// `vtable for'CRagdoll
+// Auto reconstructed from vtable block @ 0x00F159D0
+// from "client.dylib", by ida_vtables.idc
+0	CRagdoll::~CRagdoll()
+1	CRagdoll::~CRagdoll()
+2	CRagdoll::RagdollBone(C_BaseEntity *,mstudiobone_t *,int,bool *,CBoneAccessor &)
+3	CRagdoll::GetRagdollOrigin(void)
+4	CRagdoll::GetRagdollBounds(Vector &,Vector &)
+5	CRagdoll::RagdollBoneCount(void)const
+6	CRagdoll::GetElement(int)
+7	CRagdoll::DrawWireframe(void)
+8	CRagdoll::VPhysicsUpdate(IPhysicsObject *)
+9	CRagdoll::TransformVectorToWorld(int,Vector const*,Vector*)
+10	CRagdoll::GetConstraintGroup(void)

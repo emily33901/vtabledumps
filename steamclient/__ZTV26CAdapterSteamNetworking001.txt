@@ -1,0 +1,15 @@
+// `vtable for'CAdapterSteamNetworking001
+// Auto reconstructed from vtable block @ 0x00F082E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamNetworking001::CreateListenSocket(int,unsigned int,unsigned short)
+1	CAdapterSteamNetworking001::CreateP2PConnectionSocket(CSteamID,int,int)
+2	CAdapterSteamNetworking001::CreateConnectionSocket(unsigned int,unsigned short,int)
+3	CAdapterSteamNetworking001::DestroySocket(unsigned int,bool)
+4	CAdapterSteamNetworking001::DestroyListenSocket(unsigned int,bool)
+5	CAdapterSteamNetworking001::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
+6	CAdapterSteamNetworking001::IsDataAvailableOnSocket(unsigned int,unsigned int *)
+7	CAdapterSteamNetworking001::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
+8	CAdapterSteamNetworking001::IsDataAvailable(unsigned int,unsigned int *,unsigned int *)
+9	CAdapterSteamNetworking001::RetrieveData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *)
+10	CAdapterSteamNetworking001::GetSocketInfo(unsigned int,CSteamID *,int *,unsigned int *,unsigned short *)
+11	CAdapterSteamNetworking001::GetListenSocketInfo(unsigned int,unsigned int *,unsigned short *)

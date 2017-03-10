@@ -1,0 +1,3 @@
+// `vtable for'__cxxabiv1::__pointer_type_info
+// Auto reconstructed from vtable block @ 0x0239A524
+// from "client.dylib", by ida_vtables.idc

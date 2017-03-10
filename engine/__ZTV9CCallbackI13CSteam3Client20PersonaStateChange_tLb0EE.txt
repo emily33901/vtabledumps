@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CSteam3Client,PersonaStateChange_t,false>
+// Auto reconstructed from vtable block @ 0x005245A0
+// from "engine.dylib", by ida_vtables.idc
+0	CCallback<CSteam3Client,PersonaStateChange_t,false>::Run(void *)
+1	CCallbackImpl<12>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<12>::GetCallbackSizeBytes(void)

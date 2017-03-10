@@ -1,0 +1,15 @@
+// `vtable for'CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>
+// Auto reconstructed from vtable block @ 0x00EF2750
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::~CAsyncFileIOHandlerImpl()
+1	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::~CAsyncFileIOHandlerImpl()
+2	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::BPostAsyncItem(CAsyncFileIOItem *)
+3	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetCompletedAsyncItem(void)
+4	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetPendingItems(void)
+5	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::CancelAllOutstandingIO(void)
+6	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::BIsFinishedWithIO(void)
+7	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::FreeFileResource(char const*,bool)
+8	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::SetLogFile(CLogFile *)
+9	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetReadDirectory(void)const
+10	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetWriteDirectory(void)const
+11	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::Validate(CValidator &,char const*)

@@ -1,0 +1,23 @@
+// `vtable for'CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription
+// Auto reconstructed from vtable block @ 0x00E3B560
+// from "client.dylib", by ida_vtables.idc
+0	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::~CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription()
+1	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::~CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::New(void)const
+4	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::Clear(void)
+5	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::ByteSize(void)const
+10	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::GetCachedSize(void)const
+13	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::CopyFrom(google::protobuf::Message const&)
+14	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::GetMetadata(void)const

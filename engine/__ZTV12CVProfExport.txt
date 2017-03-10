@@ -1,0 +1,11 @@
+// `vtable for'CVProfExport
+// Auto reconstructed from vtable block @ 0x005359E0
+// from "engine.dylib", by ida_vtables.idc
+0	CVProfExport::AddListener(void)
+1	CVProfExport::RemoveListener(void)
+2	CVProfExport::PauseProfile(void)
+3	CVProfExport::ResumeProfile(void)
+4	CVProfExport::SetBudgetFlagsFilter(int)
+5	CVProfExport::GetNumBudgetGroups(void)
+6	CVProfExport::GetBudgetGroupInfos(IVProfExport::CExportedBudgetGroupInfo *)
+7	CVProfExport::GetBudgetGroupTimes(float *)

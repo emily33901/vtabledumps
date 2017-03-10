@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgSetCookie>
+// Auto reconstructed from vtable block @ 0x00F05448
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgSetCookie>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgSetCookie>::~CHTMLProtoBufMsg()

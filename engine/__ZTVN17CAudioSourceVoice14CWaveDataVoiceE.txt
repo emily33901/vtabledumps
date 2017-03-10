@@ -1,0 +1,8 @@
+// `vtable for'CAudioSourceVoice::CWaveDataVoice
+// Auto reconstructed from vtable block @ 0x0051E730
+// from "engine.dylib", by ida_vtables.idc
+0	CAudioSourceVoice::CWaveDataVoice::~CWaveDataVoice()
+1	CAudioSourceVoice::CWaveDataVoice::~CWaveDataVoice()
+2	CAudioSourceVoice::CWaveDataVoice::Source(void)
+3	CAudioSourceVoice::CWaveDataVoice::ReadSourceData(void **,int,int,char *)
+4	CAudioSourceVoice::CWaveDataVoice::IsReadyToMix(void)

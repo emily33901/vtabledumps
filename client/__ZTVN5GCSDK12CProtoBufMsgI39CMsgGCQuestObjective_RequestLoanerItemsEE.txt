@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCQuestObjective_RequestLoanerItems>
+// Auto reconstructed from vtable block @ 0x0111CE90
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCQuestObjective_RequestLoanerItems>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCQuestObjective_RequestLoanerItems>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCQuestObjective_RequestLoanerItems>::GetGenericBody(void)const

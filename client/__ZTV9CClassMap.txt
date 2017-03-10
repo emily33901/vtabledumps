@@ -1,0 +1,9 @@
+// `vtable for'CClassMap
+// Auto reconstructed from vtable block @ 0x00E99AF0
+// from "client.dylib", by ida_vtables.idc
+0	CClassMap::~CClassMap()
+1	CClassMap::~CClassMap()
+2	CClassMap::Add(char const*,char const*,int,C_BaseEntity * (*)(void))
+3	CClassMap::Lookup(char const*)
+4	CClassMap::CreateEntity(char const*)
+5	CClassMap::GetClassSize(char const*)

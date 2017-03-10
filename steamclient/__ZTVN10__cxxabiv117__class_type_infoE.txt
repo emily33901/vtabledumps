@@ -1,0 +1,3 @@
+// `vtable for'__cxxabiv1::__class_type_info
+// Auto reconstructed from vtable block @ 0x01B897E0
+// from "steamclient.dylib", by ida_vtables.idc

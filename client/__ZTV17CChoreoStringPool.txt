@@ -1,0 +1,5 @@
+// `vtable for'CChoreoStringPool
+// Auto reconstructed from vtable block @ 0x00EB0124
+// from "client.dylib", by ida_vtables.idc
+0	CChoreoStringPool::FindOrAddString(char const*)
+1	CChoreoStringPool::GetString(short,char *,int)

@@ -1,0 +1,11 @@
+// `vtable for'CConsumedSubscribedFilePersistThread
+// Auto reconstructed from vtable block @ 0x00ED3920
+// from "steamclient.dylib", by ida_vtables.idc
+0	CConsumedSubscribedFilePersistThread::~CConsumedSubscribedFilePersistThread()
+1	CConsumedSubscribedFilePersistThread::~CConsumedSubscribedFilePersistThread()
+2	SteamThreadTools::CThread::Init(void)
+3	CConsumedSubscribedFilePersistThread::Run(void)
+4	SteamThreadTools::CThread::OnExit(void)
+5	SteamThreadTools::CThread::IsThreadRunning(void)const
+6	SteamThreadTools::CThread::GetThreadProc(void)
+7	aCclientjobpubl

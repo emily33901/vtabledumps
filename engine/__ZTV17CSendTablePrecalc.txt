@@ -1,0 +1,5 @@
+// `vtable for'CSendTablePrecalc
+// Auto reconstructed from vtable block @ 0x004E7BC8
+// from "engine.dylib", by ida_vtables.idc
+0	CSendTablePrecalc::~CSendTablePrecalc()
+1	CSendTablePrecalc::~CSendTablePrecalc()

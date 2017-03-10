@@ -1,0 +1,5 @@
+// `vtable for'CSQLiteController
+// Auto reconstructed from vtable block @ 0x00ED2CD8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSQLiteController::~CSQLiteController()
+1	CSQLiteController::~CSQLiteController()

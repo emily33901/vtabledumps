@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgApplyStrangeCountTransfer>
+// Auto reconstructed from vtable block @ 0x010BC060
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgApplyStrangeCountTransfer>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgApplyStrangeCountTransfer>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgApplyStrangeCountTransfer>::GetGenericBody(void)const

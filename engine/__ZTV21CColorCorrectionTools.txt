@@ -1,0 +1,10 @@
+// `vtable for'CColorCorrectionTools
+// Auto reconstructed from vtable block @ 0x004E6F80
+// from "engine.dylib", by ida_vtables.idc
+0	CColorCorrectionTools::Init(void)
+1	CColorCorrectionTools::Shutdown(void)
+2	CColorCorrectionTools::InstallColorCorrectionUI(vgui::Panel *)
+3	CColorCorrectionTools::ShouldPause(void)const
+4	CColorCorrectionTools::GrabPreColorCorrectedFrame(int,int,int,int)
+5	CColorCorrectionTools::UpdateColorCorrection(void)
+6	CColorCorrectionTools::SetFinalOperation(IColorOperation *)

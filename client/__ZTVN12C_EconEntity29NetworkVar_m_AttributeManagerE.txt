@@ -1,0 +1,22 @@
+// `vtable for'C_EconEntity::NetworkVar_m_AttributeManager
+// Auto reconstructed from vtable block @ 0x0104E700
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeContainer::GetDataDescMap(void)
+1	C_EconEntity::NetworkVar_m_AttributeManager::NetworkStateChanged(void)
+2	C_EconEntity::NetworkVar_m_AttributeManager::NetworkStateChanged(void *)
+3	C_EconEntity::NetworkVar_m_AttributeManager::~NetworkVar_m_AttributeManager()
+4	C_EconEntity::NetworkVar_m_AttributeManager::~NetworkVar_m_AttributeManager()
+5	CAttributeContainer::InitializeAttributes(C_BaseEntity *)
+6	CAttributeContainer::ApplyAttributeFloat(float,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+7	CAttributeContainer::ApplyAttributeString(char const*,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+8	CAttributeManager::OnPreDataChanged(DataUpdateType_t)
+9	CAttributeManager::OnDataChanged(DataUpdateType_t)
+10	CAttributeManager::NetworkStateChanged_m_iReapplyProvisionParity(void)
+11	CAttributeManager::NetworkStateChanged_m_iReapplyProvisionParity(void *)
+12	CAttributeManager::NetworkStateChanged_m_hOuter(void)
+13	CAttributeManager::NetworkStateChanged_m_hOuter(void *)
+14	CAttributeManager::NetworkStateChanged_m_ProviderType(void)
+15	CAttributeManager::NetworkStateChanged_m_ProviderType(void *)
+16	CAttributeContainer::OnAttributeValuesChanged(void)
+17	CAttributeManager::ApplyAttributeFloatWrapper(float,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+18	CAttributeManager::ApplyAttributeStringWrapper(char const*,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)

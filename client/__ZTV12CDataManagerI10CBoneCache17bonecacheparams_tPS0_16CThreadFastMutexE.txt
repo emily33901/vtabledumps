@@ -1,0 +1,10 @@
+// `vtable for'CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>
+// Auto reconstructed from vtable block @ 0x01088370
+// from "client.dylib", by ida_vtables.idc
+0	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::Lock(void)
+1	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::TryLock(void)
+2	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::Unlock(void)
+3	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::~CDataManager()
+4	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::~CDataManager()
+5	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::DestroyResourceStorage(void *)
+6	CDataManager<CBoneCache,bonecacheparams_t,CBoneCache*,CThreadFastMutex>::GetRealSize(void *)

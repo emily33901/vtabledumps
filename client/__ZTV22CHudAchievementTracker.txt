@@ -1,0 +1,31 @@
+// `vtable for'CHudAchievementTracker
+// Auto reconstructed from vtable block @ 0x00F4DBB0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudAchievementTracker
+1	CHudAchievementTracker::~CHudAchievementTracker()
+2	CHudAchievementTracker::~CHudAchievementTracker()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudBaseAchievementTracker::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudBaseAchievementTracker::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudBaseAchievementTracker::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudAchievementTracker::GetMessageMap(void)
+18	CHudAchievementTracker::GetAnimMap(void)
+19	CHudAchievementTracker::GetKBMap(void)
+20	CHudBaseAchievementTracker::ApplySchemeSettings(vgui::IScheme *)
+21	CHudAchievementTracker::OnThink(void)
+22	CHudAchievementTracker::PerformLayout(void)
+23	CHudAchievementTracker::ShouldShowAchievement(IAchievement *)
+24	CHudBaseAchievementTracker::UpdateAchievementItems(void)
+25	CHudAchievementTracker::GetMaxAchievementsShown(void)
+26	CHudBaseAchievementTracker::GetAchievementPanel(int)
+27	CHudBaseAchievementTracker::CreateAchievementPanel(void)

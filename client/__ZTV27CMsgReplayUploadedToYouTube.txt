@@ -1,0 +1,23 @@
+// `vtable for'CMsgReplayUploadedToYouTube
+// Auto reconstructed from vtable block @ 0x00E3A6C0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgReplayUploadedToYouTube::~CMsgReplayUploadedToYouTube()
+1	CMsgReplayUploadedToYouTube::~CMsgReplayUploadedToYouTube()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgReplayUploadedToYouTube::New(void)const
+4	CMsgReplayUploadedToYouTube::Clear(void)
+5	CMsgReplayUploadedToYouTube::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgReplayUploadedToYouTube::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgReplayUploadedToYouTube::ByteSize(void)const
+10	CMsgReplayUploadedToYouTube::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgReplayUploadedToYouTube::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgReplayUploadedToYouTube::GetCachedSize(void)const
+13	CMsgReplayUploadedToYouTube::CopyFrom(google::protobuf::Message const&)
+14	CMsgReplayUploadedToYouTube::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgReplayUploadedToYouTube::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgReplayUploadedToYouTube::GetMetadata(void)const

@@ -1,0 +1,8 @@
+// `vtable for'CTFConditionList
+// Auto reconstructed from vtable block @ 0x00E4DAB0
+// from "client.dylib", by ida_vtables.idc
+0	CTFConditionList::NetworkStateChanged(void)
+1	CTFConditionList::NetworkStateChanged(void *)
+2	CTFConditionList::GetPredDescMap(void)
+3	CTFConditionList::OnPreDataChanged(void)
+4	CTFConditionList::OnDataChanged(C_TFPlayer *)

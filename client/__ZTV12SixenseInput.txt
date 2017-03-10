@@ -1,0 +1,6 @@
+// `vtable for'SixenseInput
+// Auto reconstructed from vtable block @ 0x00F32380
+// from "client.dylib", by ida_vtables.idc
+0	SixenseInput::~SixenseInput()
+1	SixenseInput::~SixenseInput()
+2	SixenseInput::FireGameEvent(IGameEvent *)

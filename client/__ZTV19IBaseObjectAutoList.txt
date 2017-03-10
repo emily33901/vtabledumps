@@ -1,0 +1,5 @@
+// `vtable for'IBaseObjectAutoList
+// Auto reconstructed from vtable block @ 0x00F34620
+// from "client.dylib", by ida_vtables.idc
+0	IBaseObjectAutoList::~IBaseObjectAutoList()
+1	IBaseObjectAutoList::~IBaseObjectAutoList()

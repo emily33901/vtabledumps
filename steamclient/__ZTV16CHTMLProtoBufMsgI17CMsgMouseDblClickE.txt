@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgMouseDblClick>
+// Auto reconstructed from vtable block @ 0x00F05778
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgMouseDblClick>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgMouseDblClick>::~CHTMLProtoBufMsg()

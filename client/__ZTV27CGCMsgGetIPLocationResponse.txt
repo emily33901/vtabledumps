@@ -1,0 +1,23 @@
+// `vtable for'CGCMsgGetIPLocationResponse
+// Auto reconstructed from vtable block @ 0x00E97530
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsgGetIPLocationResponse::~CGCMsgGetIPLocationResponse()
+1	CGCMsgGetIPLocationResponse::~CGCMsgGetIPLocationResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsgGetIPLocationResponse::New(void)const
+4	CGCMsgGetIPLocationResponse::Clear(void)
+5	CGCMsgGetIPLocationResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsgGetIPLocationResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsgGetIPLocationResponse::ByteSize(void)const
+10	CGCMsgGetIPLocationResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsgGetIPLocationResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsgGetIPLocationResponse::GetCachedSize(void)const
+13	CGCMsgGetIPLocationResponse::CopyFrom(google::protobuf::Message const&)
+14	CGCMsgGetIPLocationResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsgGetIPLocationResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsgGetIPLocationResponse::GetMetadata(void)const

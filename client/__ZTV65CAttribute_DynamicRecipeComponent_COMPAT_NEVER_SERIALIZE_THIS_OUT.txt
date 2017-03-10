@@ -1,0 +1,23 @@
+// `vtable for'CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT
+// Auto reconstructed from vtable block @ 0x00E53640
+// from "client.dylib", by ida_vtables.idc
+0	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::~CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT()
+1	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::~CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::New(void)const
+4	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::Clear(void)
+5	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::ByteSize(void)const
+10	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::GetCachedSize(void)const
+13	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::CopyFrom(google::protobuf::Message const&)
+14	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::GetMetadata(void)const

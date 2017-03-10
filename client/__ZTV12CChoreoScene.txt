@@ -1,0 +1,8 @@
+// `vtable for'CChoreoScene
+// Auto reconstructed from vtable block @ 0x01019F80
+// from "client.dylib", by ida_vtables.idc
+0	CChoreoScene::~CChoreoScene()
+1	CChoreoScene::~CChoreoScene()
+2	CChoreoScene::GetDuration(void)
+3	CChoreoScene::CurveHasEndTime(void)
+4	CChoreoScene::GetDefaultCurveType(void)

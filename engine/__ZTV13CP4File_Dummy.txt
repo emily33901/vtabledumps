@@ -1,0 +1,10 @@
+// `vtable for'CP4File_Dummy
+// Auto reconstructed from vtable block @ 0x00543CB0
+// from "engine.dylib", by ida_vtables.idc
+0	CP4File_Dummy::~CP4File_Dummy()
+1	CP4File_Dummy::~CP4File_Dummy()
+2	CP4File_Dummy::Edit(void)
+3	CP4File_Dummy::Add(void)
+4	CP4File::Revert(void)
+5	CP4File_Dummy::IsFileInPerforce(void)
+6	CP4File_Dummy::SetFileType(CUtlString const&)

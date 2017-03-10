@@ -1,0 +1,16 @@
+// `vtable for'MM_Mutelist
+// Auto reconstructed from vtable block @ 0x004B4160
+// from "engine.dylib", by ida_vtables.idc
+0	MM_Mutelist::~MM_Mutelist()
+1	MM_Mutelist::~MM_Mutelist()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	MM_Mutelist::Process(void)
+5	MM_Mutelist::ReadFromBuffer(bf_read &)
+6	MM_Mutelist::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	MM_Mutelist::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	MM_Mutelist::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	MM_Mutelist::ToString(void)const

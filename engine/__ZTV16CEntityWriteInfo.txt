@@ -1,0 +1,5 @@
+// `vtable for'CEntityWriteInfo
+// Auto reconstructed from vtable block @ 0x00529790
+// from "engine.dylib", by ida_vtables.idc
+0	CEntityWriteInfo::~CEntityWriteInfo()
+1	CEntityWriteInfo::~CEntityWriteInfo()

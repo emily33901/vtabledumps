@@ -1,0 +1,11 @@
+// `vtable for'cricket::RelayPort
+// Auto reconstructed from vtable block @ 0x00ED6838
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::RelayPort::~RelayPort()
+1	cricket::RelayPort::~RelayPort()
+2	cricket::Port::OnMessage(talk_base::Message *)
+3	cricket::RelayPort::PrepareAddress(void)
+4	cricket::RelayPort::CreateConnection(cricket::Candidate const&,cricket::Port::CandidateOrigin)
+5	cricket::RelayPort::SendTo(void const*,unsigned long,talk_base::SocketAddress const&,bool)
+6	cricket::RelayPort::SetOption(talk_base::Socket::Option,int)
+7	cricket::RelayPort::GetError(void)

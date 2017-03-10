@@ -1,0 +1,20 @@
+// `vtable for'GCSDK::CProtoBufNetPacket
+// Auto reconstructed from vtable block @ 0x01018F30
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufNetPacket::~CProtoBufNetPacket()
+1	GCSDK::CProtoBufNetPacket::~CProtoBufNetPacket()
+2	GCSDK::CRefCount::DestroyThis(void)
+3	GCSDK::CProtoBufNetPacket::GetEMsgFormatType(void)const
+4	GCSDK::CProtoBufNetPacket::GetCNetPacket(void)const
+5	GCSDK::CProtoBufNetPacket::PubData(void)const
+6	GCSDK::CProtoBufNetPacket::CubData(void)const
+7	GCSDK::CProtoBufNetPacket::GetEMsg(void)const
+8	GCSDK::CProtoBufNetPacket::GetSourceJobID(void)const
+9	GCSDK::CProtoBufNetPacket::GetTargetJobID(void)const
+10	GCSDK::CProtoBufNetPacket::SetTargetJobID(unsigned long long)
+11	GCSDK::CProtoBufNetPacket::GetSteamID(void)const
+12	GCSDK::CProtoBufNetPacket::SetSteamID(CSteamID)
+13	GCSDK::CProtoBufNetPacket::GetSourceAppID(void)const
+14	GCSDK::CProtoBufNetPacket::SetSourceAppID(unsigned int)
+15	GCSDK::CProtoBufNetPacket::BHasTargetJobName(void)const
+16	GCSDK::CProtoBufNetPacket::GetTargetJobName(void)const

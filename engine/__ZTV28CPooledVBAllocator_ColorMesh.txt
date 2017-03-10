@@ -1,0 +1,12 @@
+// `vtable for'CPooledVBAllocator_ColorMesh
+// Auto reconstructed from vtable block @ 0x004E8A00
+// from "engine.dylib", by ida_vtables.idc
+0	CPooledVBAllocator_ColorMesh::~CPooledVBAllocator_ColorMesh()
+1	CPooledVBAllocator_ColorMesh::~CPooledVBAllocator_ColorMesh()
+2	CPooledVBAllocator_ColorMesh::Init(unsigned long long,int)
+3	CPooledVBAllocator_ColorMesh::Clear(void)
+4	CPooledVBAllocator_ColorMesh::GetSharedMesh(void)
+5	CPooledVBAllocator_ColorMesh::GetVertexBufferBase(void)
+6	CPooledVBAllocator_ColorMesh::GetNumVertsAllocated(void)
+7	CPooledVBAllocator_ColorMesh::Allocate(int)
+8	CPooledVBAllocator_ColorMesh::Deallocate(int,int)

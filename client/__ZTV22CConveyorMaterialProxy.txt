@@ -1,0 +1,9 @@
+// `vtable for'CConveyorMaterialProxy
+// Auto reconstructed from vtable block @ 0x00EA5FC0
+// from "client.dylib", by ida_vtables.idc
+0	CConveyorMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CConveyorMaterialProxy::OnBind(void *)
+2	CConveyorMaterialProxy::Release(void)
+3	CConveyorMaterialProxy::GetMaterial(void)
+4	CConveyorMaterialProxy::~CConveyorMaterialProxy()
+5	CConveyorMaterialProxy::~CConveyorMaterialProxy()

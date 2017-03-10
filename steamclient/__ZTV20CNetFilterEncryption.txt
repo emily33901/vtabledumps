@@ -1,0 +1,20 @@
+// `vtable for'CNetFilterEncryption
+// Auto reconstructed from vtable block @ 0x00EE6C90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetFilter::ConnectCompleted(unsigned int)
+1	CNetFilter::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CNetFilter::ConnectionDisconnected(unsigned int,EResult)
+3	CNetFilterEncryption::RecvPkt(CNetPacket *)
+4	CNetFilter::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CNetFilter::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CNetFilterEncryption::~CNetFilterEncryption()
+9	CNetFilterEncryption::~CNetFilterEncryption()
+10	CNetFilter::Init(CNetConnection *)
+11	CNetFilterEncryption::BInternalAsyncSend(unsigned char const*,int,bool)
+12	CNetFilterEncryption::BPollConnection(void)
+13	CNetFilterEncryption::PchFilterType(void)
+14	CNetFilterEncryption::HostStartHandshake(void)
+15	CNetFilterEncryption::BWakeUpCall(void)
+16	CNetFilterEncryption::OnHandshakeFailure(EResult,unsigned long long)

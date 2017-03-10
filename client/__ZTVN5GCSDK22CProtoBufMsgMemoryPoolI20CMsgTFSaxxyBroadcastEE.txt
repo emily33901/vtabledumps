@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgTFSaxxyBroadcast>
+// Auto reconstructed from vtable block @ 0x01117A50
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgTFSaxxyBroadcast>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgTFSaxxyBroadcast>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgTFSaxxyBroadcast>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgTFSaxxyBroadcast>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgTFSaxxyBroadcast>::InternalFree(google::protobuf::Message *)

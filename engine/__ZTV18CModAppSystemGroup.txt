@@ -1,0 +1,11 @@
+// `vtable for'CModAppSystemGroup
+// Auto reconstructed from vtable block @ 0x004EE090
+// from "engine.dylib", by ida_vtables.idc
+0	CModAppSystemGroup::Create(void)
+1	CModAppSystemGroup::PreInit(void)
+2	CModAppSystemGroup::Main(void)
+3	CModAppSystemGroup::PostShutdown(void)
+4	CModAppSystemGroup::Destroy(void)
+5	CAppSystemGroup::Startup(void)
+6	CAppSystemGroup::Shutdown(void)
+7	CAppSystemGroup::LoadModuleDLL(char const*)

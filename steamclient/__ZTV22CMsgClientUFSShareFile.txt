@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUFSShareFile
+// Auto reconstructed from vtable block @ 0x00EEB540
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSShareFile::~CMsgClientUFSShareFile()
+1	CMsgClientUFSShareFile::~CMsgClientUFSShareFile()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUFSShareFile::New(void)const
+4	CMsgClientUFSShareFile::Clear(void)
+5	CMsgClientUFSShareFile::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUFSShareFile::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUFSShareFile::ByteSize(void)const
+10	CMsgClientUFSShareFile::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUFSShareFile::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUFSShareFile::GetCachedSize(void)const
+13	CMsgClientUFSShareFile::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUFSShareFile::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUFSShareFile::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUFSShareFile::GetMetadata(void)const

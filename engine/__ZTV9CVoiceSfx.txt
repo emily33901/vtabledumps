@@ -1,0 +1,4 @@
+// `vtable for'CVoiceSfx
+// Auto reconstructed from vtable block @ 0x0051E764
+// from "engine.dylib", by ida_vtables.idc
+0	CVoiceSfx::getname(void)

@@ -1,0 +1,11 @@
+// `vtable for'IPC::PosixEvent
+// Auto reconstructed from vtable block @ 0x00EF2FB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IPC::PosixEvent::Wait(unsigned int)
+1	IPC::PosixEvent::Destroy(void)
+2	IPC::PosixEvent::~PosixEvent()
+3	IPC::PosixEvent::~PosixEvent()
+4	IPC::ISyncObject::GetOpaque(void)
+5	IPC::ISyncObject::Validate(CValidator &,char const*)
+6	IPC::PosixEvent::SetEvent(void)
+7	IPC::PosixEvent::ResetEvent(void)

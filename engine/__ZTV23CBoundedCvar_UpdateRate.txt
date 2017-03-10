@@ -1,0 +1,25 @@
+// `vtable for'CBoundedCvar_UpdateRate
+// Auto reconstructed from vtable block @ 0x0051EA10
+// from "engine.dylib", by ida_vtables.idc
+0	CBoundedCvar_UpdateRate::~CBoundedCvar_UpdateRate()
+1	CBoundedCvar_UpdateRate::~CBoundedCvar_UpdateRate()
+2	ConVar::IsCommand(void)const
+3	ConVar::IsFlagSet(int)const
+4	ConVar::AddFlags(int)
+5	ConVar::GetName(void)const
+6	ConVar::GetHelpText(void)const
+7	ConVar::IsRegistered(void)const
+8	ConCommandBase::GetDLLIdentifier(void)const
+9	ConCommandBase::CreateBase(char const*,char const*,int)
+10	ConVar::Init(void)
+11	ConVar::SetValue(char const*)
+12	ConVar::SetValue(float)
+13	ConVar::SetValue(int)
+14	ConVar::InternalSetValue(char const*)
+15	ConVar::InternalSetFloatValue(float,bool)
+16	ConVar::InternalSetIntValue(int)
+17	ConVar::ClampValue(float &)
+18	ConVar::ChangeStringValue(char const*,float)
+19	CBoundedCvar_UpdateRate::GetFloat(void)const
+20	ConVar_ServerBounded::GetInt(void)const
+21	ConVar_ServerBounded::GetBool(void)const

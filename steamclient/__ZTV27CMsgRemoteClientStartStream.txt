@@ -1,0 +1,23 @@
+// `vtable for'CMsgRemoteClientStartStream
+// Auto reconstructed from vtable block @ 0x00EC96C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteClientStartStream::~CMsgRemoteClientStartStream()
+1	CMsgRemoteClientStartStream::~CMsgRemoteClientStartStream()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgRemoteClientStartStream::New(void)const
+4	CMsgRemoteClientStartStream::Clear(void)
+5	CMsgRemoteClientStartStream::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgRemoteClientStartStream::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgRemoteClientStartStream::ByteSize(void)const
+10	CMsgRemoteClientStartStream::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgRemoteClientStartStream::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgRemoteClientStartStream::GetCachedSize(void)const
+13	CMsgRemoteClientStartStream::CopyFrom(google::protobuf::Message const&)
+14	CMsgRemoteClientStartStream::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgRemoteClientStartStream::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgRemoteClientStartStream::GetMetadata(void)const

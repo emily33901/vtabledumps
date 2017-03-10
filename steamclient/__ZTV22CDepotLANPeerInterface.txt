@@ -1,0 +1,22 @@
+// `vtable for'CDepotLANPeerInterface
+// Auto reconstructed from vtable block @ 0x00ED1E20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotLANPeerInterface::~CDepotLANPeerInterface()
+1	CDepotLANPeerInterface::~CDepotLANPeerInterface()
+2	CDepotLANPeerInterface::GetDownloadSourceType(void)
+3	CDepotLANPeerInterface::GetSourceName(void)
+4	CDepotLANPeerInterface::BYieldingOpenConnection(void)
+5	CDepotLANPeerInterface::CloseConnection(void)
+6	CDepotLANPeerInterface::BIsConnected(void)
+7	CDepotLANPeerInterface::GetChunkScore(CSHA const&)
+8	CDepotLANPeerInterface::YieldingRequestDepotManifest(CManifestResponseData *)
+9	CDepotLANPeerInterface::YieldingRequestDepotChunks(unsigned int,CUtlVector<CSHA,CUtlMemory<CSHA>> const&)
+10	IDepotDownloadInterface::BSetInterfaceWeight(unsigned int)
+11	IDepotDownloadInterface::GetInterfaceWeight(void)
+12	CDepotLANPeerInterface::Validate(CValidator &,char const*)
+13	CDepotLANPeerInterface::ConnectCompleted(unsigned int)
+14	CDepotLANPeerInterface::ConnectFailed(unsigned int,EResult,unsigned long long)
+15	CDepotLANPeerInterface::ConnectionDisconnected(unsigned int,EResult)
+16	CDepotLANPeerInterface::RecvPkt(CNetPacket *)
+17	CDepotLANPeerInterface::BAcceptConnection(netadr_t const&,netadr_t const&)
+18	CDepotLANPeerInterface::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)

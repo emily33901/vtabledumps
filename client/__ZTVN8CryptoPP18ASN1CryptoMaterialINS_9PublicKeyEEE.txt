@@ -1,0 +1,3 @@
+// `vtable for'CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>
+// Auto reconstructed from vtable block @ 0x01015B20
+// from "client.dylib", by ida_vtables.idc

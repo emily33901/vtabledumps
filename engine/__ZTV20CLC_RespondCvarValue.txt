@@ -1,0 +1,16 @@
+// `vtable for'CLC_RespondCvarValue
+// Auto reconstructed from vtable block @ 0x004B3C70
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_RespondCvarValue::~CLC_RespondCvarValue()
+1	CLC_RespondCvarValue::~CLC_RespondCvarValue()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_RespondCvarValue::Process(void)
+5	CLC_RespondCvarValue::ReadFromBuffer(bf_read &)
+6	CLC_RespondCvarValue::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_RespondCvarValue::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	CLC_RespondCvarValue::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_RespondCvarValue::ToString(void)const

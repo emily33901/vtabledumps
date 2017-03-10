@@ -1,0 +1,8 @@
+// `vtable for'TagLib::RIFF::WAV::File
+// Auto reconstructed from vtable block @ 0x00EE3A00
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::RIFF::WAV::File::~File()
+1	TagLib::RIFF::WAV::File::~File()
+2	TagLib::RIFF::WAV::File::tag(void)const
+3	TagLib::RIFF::WAV::File::audioProperties(void)const
+4	TagLib::RIFF::WAV::File::save(void)

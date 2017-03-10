@@ -1,0 +1,9 @@
+// `vtable for'C_SunGlowOverlay
+// Auto reconstructed from vtable block @ 0x0109B260
+// from "client.dylib", by ida_vtables.idc
+0	C_SunGlowOverlay::~C_SunGlowOverlay()
+1	C_SunGlowOverlay::~C_SunGlowOverlay()
+2	CGlowOverlay::Update(void)
+3	C_SunGlowOverlay::CalcSpriteColorAndSize(float,CGlowSprite *,float *,float *,Vector *)
+4	CGlowOverlay::CalcBasis(Vector const&,float,float,Vector&,Vector&,Vector&)
+5	CGlowOverlay::Draw(bool)

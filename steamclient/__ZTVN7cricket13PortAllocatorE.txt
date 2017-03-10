@@ -1,0 +1,4 @@
+// `vtable for'cricket::PortAllocator
+// Auto reconstructed from vtable block @ 0x00F1F28C
+// from "steamclient.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual

@@ -1,0 +1,8 @@
+// `vtable for'CEntityDataInstantiator<vphysicsupdateai_t>
+// Auto reconstructed from vtable block @ 0x01054E60
+// from "client.dylib", by ida_vtables.idc
+0	CEntityDataInstantiator<vphysicsupdateai_t>::~CEntityDataInstantiator()
+1	CEntityDataInstantiator<vphysicsupdateai_t>::~CEntityDataInstantiator()
+2	CEntityDataInstantiator<vphysicsupdateai_t>::GetDataObject(C_BaseEntity const*)
+3	CEntityDataInstantiator<vphysicsupdateai_t>::CreateDataObject(C_BaseEntity const*)
+4	CEntityDataInstantiator<vphysicsupdateai_t>::DestroyDataObject(C_BaseEntity const*)

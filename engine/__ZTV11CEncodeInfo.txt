@@ -1,0 +1,4 @@
+// `vtable for'CEncodeInfo
+// Auto reconstructed from vtable block @ 0x00526050
+// from "engine.dylib", by ida_vtables.idc
+0	CServerDatatableStack::RecurseAndCallProxies(CSendNode *,unsigned char *)

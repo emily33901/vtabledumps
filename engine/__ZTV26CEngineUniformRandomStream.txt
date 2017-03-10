@@ -1,0 +1,7 @@
+// `vtable for'CEngineUniformRandomStream
+// Auto reconstructed from vtable block @ 0x00528F10
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineUniformRandomStream::SetSeed(int)
+1	CEngineUniformRandomStream::RandomFloat(float,float)
+2	CEngineUniformRandomStream::RandomInt(int,int)
+3	CEngineUniformRandomStream::RandomFloatExp(float,float,float)

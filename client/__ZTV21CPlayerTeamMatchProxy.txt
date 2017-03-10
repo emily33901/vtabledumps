@@ -1,0 +1,9 @@
+// `vtable for'CPlayerTeamMatchProxy
+// Auto reconstructed from vtable block @ 0x00F15860
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerTeamMatchProxy::Init(IMaterial *,KeyValues *)
+1	CPlayerTeamMatchProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CPlayerTeamMatchProxy::~CPlayerTeamMatchProxy()
+5	CPlayerTeamMatchProxy::~CPlayerTeamMatchProxy()

@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientEnableTestLicense_t>
+// Auto reconstructed from vtable block @ 0x00F1486C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientEnableTestLicense_t>::~CClientMsg()
+1	CClientMsg<MsgClientEnableTestLicense_t>::~CClientMsg()

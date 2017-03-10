@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::BufferedTransformation::NoChannelSupport
+// Auto reconstructed from vtable block @ 0x01015688
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::BufferedTransformation::NoChannelSupport::~NoChannelSupport()
+1	CryptoPP::BufferedTransformation::NoChannelSupport::~NoChannelSupport()
+2	CryptoPP::Exception::what(void)const

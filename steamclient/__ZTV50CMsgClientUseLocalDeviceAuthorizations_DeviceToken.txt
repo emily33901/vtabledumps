@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUseLocalDeviceAuthorizations_DeviceToken
+// Auto reconstructed from vtable block @ 0x00EF0AD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::~CMsgClientUseLocalDeviceAuthorizations_DeviceToken()
+1	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::~CMsgClientUseLocalDeviceAuthorizations_DeviceToken()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::New(void)const
+4	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::Clear(void)
+5	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::ByteSize(void)const
+10	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::GetCachedSize(void)const
+13	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUseLocalDeviceAuthorizations_DeviceToken::GetMetadata(void)const

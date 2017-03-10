@@ -1,0 +1,9 @@
+// `vtable for'CImpactOverlay
+// Auto reconstructed from vtable block @ 0x010BCDE0
+// from "client.dylib", by ida_vtables.idc
+0	CImpactOverlay::~CImpactOverlay()
+1	CImpactOverlay::~CImpactOverlay()
+2	CImpactOverlay::Update(void)
+3	CGlowOverlay::CalcSpriteColorAndSize(float,CGlowSprite *,float *,float *,Vector *)
+4	CGlowOverlay::CalcBasis(Vector const&,float,float,Vector&,Vector&,Vector&)
+5	CWarpOverlay::Draw(bool)

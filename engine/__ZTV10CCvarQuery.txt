@@ -1,0 +1,9 @@
+// `vtable for'CCvarQuery
+// Auto reconstructed from vtable block @ 0x00525CA0
+// from "engine.dylib", by ida_vtables.idc
+0	CCvarQuery::Connect(void * (*)(char const*,int *))
+1	CBaseAppSystem<ICvarQuery>::Disconnect(void)
+2	CCvarQuery::QueryInterface(char const*)
+3	CCvarQuery::Init(void)
+4	CCvarQuery::Shutdown(void)
+5	CCvarQuery::AreConVarsLinkable(ConVar const*,ConVar const*)

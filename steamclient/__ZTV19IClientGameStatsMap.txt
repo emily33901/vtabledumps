@@ -1,0 +1,21 @@
+// `vtable for'IClientGameStatsMap
+// Auto reconstructed from vtable block @ 0x00F0BCB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientGameStatsMap::GetNewSession(signed char,unsigned long long,int,unsigned int)
+1	IClientGameStatsMap::EndSession(unsigned long long,unsigned int,short)
+2	IClientGameStatsMap::AddSessionAttributeInt(unsigned long long,char const*,int)
+3	IClientGameStatsMap::AddSessionAttributeString(unsigned long long,char const*,char const*)
+4	IClientGameStatsMap::AddSessionAttributeFloat(unsigned long long,char const*,float)
+5	IClientGameStatsMap::AddNewRow(unsigned long long *,unsigned long long,char const*)
+6	IClientGameStatsMap::CommitRow(unsigned long long)
+7	IClientGameStatsMap::CommitOutstandingRows(unsigned long long)
+8	IClientGameStatsMap::AddRowAttributeInt(unsigned long long,char const*,int)
+9	IClientGameStatsMap::AddRowAttributeString(unsigned long long,char const*,char const*)
+10	IClientGameStatsMap::AddRowAttributeFloat(unsigned long long,char const*,float)
+11	IClientGameStatsMap::AddSessionAttributeInt64(unsigned long long,char const*,long long)
+12	IClientGameStatsMap::AddRowAttributeInt64(unsigned long long,char const*,long long)
+13	IClientGameStatsMap::ReportString(unsigned long long,int,char const*,...)
+14	IClientGameStatsMap::_ReportString(unsigned long long,int,char const*,int,unsigned char const*)
+15	IClientGameStatsMap::ReportStringAccumulated(unsigned long long,int,char const*,...)
+16	IClientGameStatsMap::_ReportStringAccumulated(unsigned long long,int,char const*,int,unsigned char const*)
+17	IClientGameStatsMap::ReportBugScreenshot(unsigned long long,char const*,int,unsigned char const*)

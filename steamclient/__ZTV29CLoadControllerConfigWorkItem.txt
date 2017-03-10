@@ -1,0 +1,9 @@
+// `vtable for'CLoadControllerConfigWorkItem
+// Auto reconstructed from vtable block @ 0x00F01F10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLoadControllerConfigWorkItem::~CLoadControllerConfigWorkItem()
+1	CLoadControllerConfigWorkItem::~CLoadControllerConfigWorkItem()
+2	CLoadControllerConfigWorkItem::RunFunc(IControllerAbstraction *)
+3	CLoadControllerConfigWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CLoadControllerConfigWorkItem::Validate(CValidator &,char const*)

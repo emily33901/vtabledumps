@@ -1,0 +1,7 @@
+// `vtable for'U16Reader
+// Auto reconstructed from vtable block @ 0x00F2623C
+// from "steamclient.dylib", by ida_vtables.idc
+0	U16Reader::~U16Reader()
+1	U16Reader::~U16Reader()
+2	U16Reader::read(TagLib::File &,unsigned int)
+3	U16Reader::size(void)const

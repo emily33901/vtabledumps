@@ -1,0 +1,23 @@
+// `vtable for'CGCStorePurchaseInit_LineItem
+// Auto reconstructed from vtable block @ 0x00E39580
+// from "client.dylib", by ida_vtables.idc
+0	CGCStorePurchaseInit_LineItem::~CGCStorePurchaseInit_LineItem()
+1	CGCStorePurchaseInit_LineItem::~CGCStorePurchaseInit_LineItem()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCStorePurchaseInit_LineItem::New(void)const
+4	CGCStorePurchaseInit_LineItem::Clear(void)
+5	CGCStorePurchaseInit_LineItem::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCStorePurchaseInit_LineItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCStorePurchaseInit_LineItem::ByteSize(void)const
+10	CGCStorePurchaseInit_LineItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCStorePurchaseInit_LineItem::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCStorePurchaseInit_LineItem::GetCachedSize(void)const
+13	CGCStorePurchaseInit_LineItem::CopyFrom(google::protobuf::Message const&)
+14	CGCStorePurchaseInit_LineItem::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCStorePurchaseInit_LineItem::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCStorePurchaseInit_LineItem::GetMetadata(void)const

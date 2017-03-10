@@ -1,0 +1,8 @@
+// `vtable for'CIPCClient
+// Auto reconstructed from vtable block @ 0x00EC0A30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CIPCClient::~CIPCClient()
+1	CIPCClient::~CIPCClient()
+2	CIPCClient::OnDebugTextArrived(char const*)
+3	CIPCClient::OnThreadLocalRegistration(void)
+4	CIPCClient::OnThreadBuffersOverLimit(void)

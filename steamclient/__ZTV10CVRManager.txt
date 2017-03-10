@@ -1,0 +1,23 @@
+// `vtable for'CVRManager
+// Auto reconstructed from vtable block @ 0x00ED5100
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVRManager::GetCurrentHmd(void)
+1	CVRManager::GetCompositor(void)
+2	CVRManager::GetOverlay(void)
+3	CVRManager::GetChaperone(void)
+4	CVRManager::GetSettings(void)
+5	CVRManager::GetExternalEventSource(void)
+6	CVRManager::GetOverlayHandle(void)
+7	CVRManager::IsHmdPresent(void)
+8	CVRManager::UpdateHmdStatus(void)
+9	CVRManager::IsVRModeActive(void)
+10	CVRManager::InitVR(bool,EClientVRError *,vr::EVRInitError *)
+11	CVRManager::StartSteamVR(char const*)
+12	CVRManager::CleanupVR(void)
+13	CVRManager::QuitAllVR(void)
+14	CVRManager::QuitApplication(unsigned int)
+15	CVRManager::GetStringForHmdError(vr::EVRInitError)
+16	CVRManager::LaunchApplication(char const*)
+17	CVRManager::GetSteamVRAppId(void)
+18	CVRManager::~CVRManager()
+19	CVRManager::~CVRManager()

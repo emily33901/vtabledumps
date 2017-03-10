@@ -1,0 +1,16 @@
+// `vtable for'CLC_ClientInfo
+// Auto reconstructed from vtable block @ 0x004B3BD0
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_ClientInfo::~CLC_ClientInfo()
+1	CLC_ClientInfo::~CLC_ClientInfo()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_ClientInfo::Process(void)
+5	CLC_ClientInfo::ReadFromBuffer(bf_read &)
+6	CLC_ClientInfo::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_ClientInfo::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	CLC_ClientInfo::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_ClientInfo::ToString(void)const

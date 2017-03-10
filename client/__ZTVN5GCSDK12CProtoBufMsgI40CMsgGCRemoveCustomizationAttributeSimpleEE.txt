@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCRemoveCustomizationAttributeSimple>
+// Auto reconstructed from vtable block @ 0x010A1790
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCRemoveCustomizationAttributeSimple>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCRemoveCustomizationAttributeSimple>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCRemoveCustomizationAttributeSimple>::GetGenericBody(void)const

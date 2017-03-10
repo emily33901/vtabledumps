@@ -1,0 +1,9 @@
+// `vtable for'CExplosionOverlay
+// Auto reconstructed from vtable block @ 0x00EB7230
+// from "client.dylib", by ida_vtables.idc
+0	CExplosionOverlay::~CExplosionOverlay()
+1	CExplosionOverlay::~CExplosionOverlay()
+2	CExplosionOverlay::Update(void)
+3	CGlowOverlay::CalcSpriteColorAndSize(float,CGlowSprite *,float *,float *,Vector *)
+4	CGlowOverlay::CalcBasis(Vector const&,float,float,Vector&,Vector&,Vector&)
+5	CWarpOverlay::Draw(bool)

@@ -1,0 +1,14 @@
+// `vtable for'IClientGameServerStatsMap
+// Auto reconstructed from vtable block @ 0x00F0CBB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientGameServerStatsMap::RequestUserStats(CSteamID,CGameID)
+1	IClientGameServerStatsMap::GetUserStat(CSteamID,CGameID,char const*,int *)
+2	IClientGameServerStatsMap::GetUserStat(CSteamID,CGameID,char const*,float *)
+3	IClientGameServerStatsMap::GetUserAchievement(CSteamID,CGameID,char const*,bool *,unsigned int *)
+4	IClientGameServerStatsMap::SetUserStat(CSteamID,CGameID,char const*,int)
+5	IClientGameServerStatsMap::SetUserStat(CSteamID,CGameID,char const*,float)
+6	IClientGameServerStatsMap::UpdateUserAvgRateStat(CSteamID,CGameID,char const*,float,double)
+7	IClientGameServerStatsMap::SetUserAchievement(CSteamID,CGameID,char const*)
+8	IClientGameServerStatsMap::ClearUserAchievement(CSteamID,CGameID,char const*)
+9	IClientGameServerStatsMap::StoreUserStats(CSteamID,CGameID)
+10	IClientGameServerStatsMap::SetMaxStatsLoaded(unsigned int)

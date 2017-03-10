@@ -1,0 +1,17 @@
+// `vtable for'CGameEvent
+// Auto reconstructed from vtable block @ 0x004E7FB0
+// from "engine.dylib", by ida_vtables.idc
+0	CGameEvent::~CGameEvent()
+1	CGameEvent::~CGameEvent()
+2	CGameEvent::GetName(void)const
+3	CGameEvent::IsReliable(void)const
+4	CGameEvent::IsLocal(void)const
+5	CGameEvent::IsEmpty(char const*)
+6	CGameEvent::GetBool(char const*,bool)
+7	CGameEvent::GetInt(char const*,int)
+8	CGameEvent::GetFloat(char const*,float)
+9	CGameEvent::GetString(char const*,char const*)
+10	CGameEvent::SetBool(char const*,bool)
+11	CGameEvent::SetInt(char const*,int)
+12	CGameEvent::SetFloat(char const*,float)
+13	CGameEvent::SetString(char const*,char const*)

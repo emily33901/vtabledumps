@@ -1,0 +1,10 @@
+// `vtable for'CFileVerifyThread
+// Auto reconstructed from vtable block @ 0x00F01760
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFileVerifyThread::~CFileVerifyThread()
+1	CFileVerifyThread::~CFileVerifyThread()
+2	SteamThreadTools::CThread::Init(void)
+3	CFileVerifyThread::Run(void)
+4	SteamThreadTools::CThread::OnExit(void)
+5	SteamThreadTools::CThread::IsThreadRunning(void)const
+6	SteamThreadTools::CThread::GetThreadProc(void)

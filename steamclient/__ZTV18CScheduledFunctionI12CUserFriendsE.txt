@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CUserFriends>
+// Auto reconstructed from vtable block @ 0x00F17000
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CUserFriends>::~CScheduledFunction()
+1	CScheduledFunction<CUserFriends>::~CScheduledFunction()
+2	CScheduledFunction<CUserFriends>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

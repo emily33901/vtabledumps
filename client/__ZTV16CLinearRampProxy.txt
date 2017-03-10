@@ -1,0 +1,9 @@
+// `vtable for'CLinearRampProxy
+// Auto reconstructed from vtable block @ 0x00F12D60
+// from "client.dylib", by ida_vtables.idc
+0	CLinearRampProxy::Init(IMaterial *,KeyValues *)
+1	CLinearRampProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CLinearRampProxy::~CLinearRampProxy()
+5	CLinearRampProxy::~CLinearRampProxy()

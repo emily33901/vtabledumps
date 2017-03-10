@@ -1,0 +1,23 @@
+// `vtable for'CMsgJSAlert
+// Auto reconstructed from vtable block @ 0x00ECCD80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgJSAlert::~CMsgJSAlert()
+1	CMsgJSAlert::~CMsgJSAlert()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgJSAlert::New(void)const
+4	CMsgJSAlert::Clear(void)
+5	CMsgJSAlert::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgJSAlert::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgJSAlert::ByteSize(void)const
+10	CMsgJSAlert::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgJSAlert::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgJSAlert::GetCachedSize(void)const
+13	CMsgJSAlert::CopyFrom(google::protobuf::Message const&)
+14	CMsgJSAlert::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgJSAlert::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgJSAlert::GetMetadata(void)const

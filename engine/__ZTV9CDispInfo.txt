@@ -1,0 +1,25 @@
+// `vtable for'CDispInfo
+// Auto reconstructed from vtable block @ 0x004E7AF0
+// from "engine.dylib", by ida_vtables.idc
+0	CDispInfo::~CDispInfo()
+1	CDispInfo::~CDispInfo()
+2	CDispInfo::GetIntersectingSurfaces(GetIntersectingSurfaces_Struct *)
+3	CDispInfo::RenderWireframeInLightmapPage(int)
+4	CDispInfo::GetBoundingBox(Vector &,Vector &)
+5	CDispInfo::SetParent(msurface2_t *)
+6	CDispInfo::GetParent(void)
+7	CDispInfo::AddDynamicLights(dlight_t *,unsigned int)
+8	CDispInfo::ComputeDynamicLightMask(dlight_t *)
+9	CDispInfo::NotifyAddDecal(decal_t *,float)
+10	CDispInfo::NotifyRemoveDecal(unsigned short)
+11	CDispInfo::AddShadowDecal(unsigned short)
+12	CDispInfo::RemoveShadowDecal(unsigned short)
+13	CDispInfo::ComputeShadowFragments(unsigned short,int &,int &)
+14	CDispInfo::GetTag(void)
+15	CDispInfo::SetTag(void)
+16	CDispInfo::TestRay(Ray_t const&,float,float,float &,Vector2D *,Vector2D *)
+17	CDispInfo::ComputeLightmapAndTextureCoordinate(RayDispOutput_t const&,Vector2D *,Vector2D *)
+18	CDispInfo::GetPowerInfo(void)const
+19	CDispInfo::GetEdgeNeighbor(int)
+20	CDispInfo::GetCornerNeighbors(int)
+21	CDispInfo::GetDispUtilsByIndex(int)

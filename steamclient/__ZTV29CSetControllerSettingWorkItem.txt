@@ -1,0 +1,9 @@
+// `vtable for'CSetControllerSettingWorkItem
+// Auto reconstructed from vtable block @ 0x00F01F40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSetControllerSettingWorkItem::~CSetControllerSettingWorkItem()
+1	CSetControllerSettingWorkItem::~CSetControllerSettingWorkItem()
+2	CSetControllerSettingWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CSetControllerSettingWorkItem::Validate(CValidator &,char const*)

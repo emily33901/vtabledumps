@@ -1,0 +1,23 @@
+// `vtable for'CMsgPauseFullScreenFlashMovieIfOpen
+// Auto reconstructed from vtable block @ 0x00ECD440
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgPauseFullScreenFlashMovieIfOpen::~CMsgPauseFullScreenFlashMovieIfOpen()
+1	CMsgPauseFullScreenFlashMovieIfOpen::~CMsgPauseFullScreenFlashMovieIfOpen()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgPauseFullScreenFlashMovieIfOpen::New(void)const
+4	CMsgPauseFullScreenFlashMovieIfOpen::Clear(void)
+5	CMsgPauseFullScreenFlashMovieIfOpen::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgPauseFullScreenFlashMovieIfOpen::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgPauseFullScreenFlashMovieIfOpen::ByteSize(void)const
+10	CMsgPauseFullScreenFlashMovieIfOpen::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgPauseFullScreenFlashMovieIfOpen::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgPauseFullScreenFlashMovieIfOpen::GetCachedSize(void)const
+13	CMsgPauseFullScreenFlashMovieIfOpen::CopyFrom(google::protobuf::Message const&)
+14	CMsgPauseFullScreenFlashMovieIfOpen::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgPauseFullScreenFlashMovieIfOpen::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgPauseFullScreenFlashMovieIfOpen::GetMetadata(void)const

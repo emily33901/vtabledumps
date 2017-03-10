@@ -1,0 +1,16 @@
+// `vtable for'CClientEntityList
+// Auto reconstructed from vtable block @ 0x00E99B80
+// from "client.dylib", by ida_vtables.idc
+0	CClientEntityList::OnAddEntity(IHandleEntity *,CBaseHandle)
+1	CClientEntityList::OnRemoveEntity(IHandleEntity *,CBaseHandle)
+2	CClientEntityList::~CClientEntityList()
+3	CClientEntityList::~CClientEntityList()
+4	CClientEntityList::GetClientNetworkable(int)
+5	CClientEntityList::GetClientEntity(int)
+6	CClientEntityList::NumberOfEntities(bool)
+7	CClientEntityList::GetClientUnknownFromHandle(CBaseHandle)
+8	CClientEntityList::GetClientNetworkableFromHandle(CBaseHandle)
+9	CClientEntityList::GetClientEntityFromHandle(CBaseHandle)
+10	CClientEntityList::GetHighestEntityIndex(void)
+11	CClientEntityList::SetMaxEntities(int)
+12	CClientEntityList::GetMaxEntities(void)

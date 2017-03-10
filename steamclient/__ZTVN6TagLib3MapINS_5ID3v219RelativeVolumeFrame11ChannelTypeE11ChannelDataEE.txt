@@ -1,0 +1,5 @@
+// `vtable for'TagLib::Map<TagLib::ID3v2::RelativeVolumeFrame::ChannelType,ChannelData>
+// Auto reconstructed from vtable block @ 0x00F26038
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Map<TagLib::ID3v2::RelativeVolumeFrame::ChannelType,ChannelData>::~Map()
+1	TagLib::Map<TagLib::ID3v2::RelativeVolumeFrame::ChannelType,ChannelData>::~Map()

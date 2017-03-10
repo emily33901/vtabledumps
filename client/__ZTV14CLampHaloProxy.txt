@@ -1,0 +1,10 @@
+// `vtable for'CLampHaloProxy
+// Auto reconstructed from vtable block @ 0x00F12B70
+// from "client.dylib", by ida_vtables.idc
+0	CLampHaloProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CLampHaloProxy::GetMaterial(void)
+4	CLampHaloProxy::~CLampHaloProxy()
+5	CLampHaloProxy::~CLampHaloProxy()
+6	CLampHaloProxy::OnBind(C_BaseEntity *)

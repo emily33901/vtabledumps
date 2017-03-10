@@ -1,0 +1,6 @@
+// `vtable for'cricket::BasicPortAllocator
+// Auto reconstructed from vtable block @ 0x00ED6AF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::BasicPortAllocator::CreateSession(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)
+1	cricket::BasicPortAllocator::~BasicPortAllocator()
+2	cricket::BasicPortAllocator::~BasicPortAllocator()

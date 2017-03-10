@@ -1,0 +1,16 @@
+// `vtable for'CKeyBinding
+// Auto reconstructed from vtable block @ 0x00ED16F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CKeyBinding::~CKeyBinding()
+1	CKeyBinding::~CKeyBinding()
+2	CKeyBinding::SendEvent(IInputGenerator *,bool)const
+3	CKeyBinding::GetType(void)const
+4	CKeyBinding::GetAction(BindingAction_t *)const
+5	CKeyBinding::Save(CUtlString &)const
+6	IDigitalBinding::GetPreset(void)const
+7	IDigitalBinding::SetPreset(int)
+8	IDigitalBinding::SetIconData(IconBindingData_t *)
+9	IDigitalBinding::Disconnect(IInputGenerator *)const
+10	IDigitalBinding::SetActivator(IControllerActivator *)
+11	IDigitalBinding::GetActivator(void)const
+12	IDigitalBinding::Validate(CValidator &,char const*)

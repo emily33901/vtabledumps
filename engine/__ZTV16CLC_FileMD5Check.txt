@@ -1,0 +1,16 @@
+// `vtable for'CLC_FileMD5Check
+// Auto reconstructed from vtable block @ 0x004B3D10
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_FileMD5Check::~CLC_FileMD5Check()
+1	CLC_FileMD5Check::~CLC_FileMD5Check()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_FileMD5Check::Process(void)
+5	CLC_FileMD5Check::ReadFromBuffer(bf_read &)
+6	CLC_FileMD5Check::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_FileMD5Check::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	CLC_FileMD5Check::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_FileMD5Check::ToString(void)const

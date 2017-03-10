@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgMatchmakingProgress>
+// Auto reconstructed from vtable block @ 0x01046830
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgMatchmakingProgress>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgMatchmakingProgress>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgMatchmakingProgress>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgMatchmakingProgress>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgMatchmakingProgress>::InternalFree(google::protobuf::Message *)

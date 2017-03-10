@@ -1,0 +1,8 @@
+// `vtable for'CDepotBuilder
+// Auto reconstructed from vtable block @ 0x00ED1F70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotBuilder::BGetDepotBuildStatus(unsigned long long,EDepotBuildStatus *,unsigned long long *,unsigned long long *)
+1	CDepotBuilder::VerifyChunkStore(unsigned int,unsigned int,char const*)
+2	CDepotBuilder::DownloadDepot(unsigned int,unsigned int,unsigned long long,unsigned long long,unsigned long long,unsigned int)
+3	CDepotBuilder::StartDepotBuild(unsigned int,unsigned int,unsigned int,char const*)
+4	CDepotBuilder::CommitAppBuild(unsigned int,unsigned int,unsigned int const*,unsigned long long const*,char const*,char const*)

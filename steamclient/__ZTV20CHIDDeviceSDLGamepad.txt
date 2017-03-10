@@ -1,0 +1,13 @@
+// `vtable for'CHIDDeviceSDLGamepad
+// Auto reconstructed from vtable block @ 0x00EC0970
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceSDLGamepad::~CHIDDeviceSDLGamepad()
+1	CHIDDeviceSDLGamepad::~CHIDDeviceSDLGamepad()
+2	CHIDDeviceSDLGamepad::GetLocation(void)
+3	CHIDDeviceSDLGamepad::Write(unsigned char const*,unsigned long)
+4	CHIDDeviceSDLGamepad::Read(unsigned char *,unsigned long,int)
+5	CHIDDeviceSDLGamepad::SendFeatureReport(unsigned char const*,unsigned long)
+6	CHIDDeviceSDLGamepad::GetFeatureReport(unsigned char *,unsigned long)
+7	CHIDDeviceSDLGamepad::GetVendorString(void)
+8	CHIDDeviceSDLGamepad::GetProductString(void)
+9	CHIDDeviceSDLGamepad::GetSerialNumberString(void)

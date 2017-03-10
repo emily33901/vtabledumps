@@ -1,0 +1,12 @@
+// `vtable for'CAdapterSteamMusic001
+// Auto reconstructed from vtable block @ 0x00F08320
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMusic001::BIsEnabled(void)
+1	CAdapterSteamMusic001::BIsPlaying(void)
+2	CAdapterSteamMusic001::GetPlaybackStatus(void)
+3	CAdapterSteamMusic001::Play(void)
+4	CAdapterSteamMusic001::Pause(void)
+5	CAdapterSteamMusic001::PlayPrevious(void)
+6	CAdapterSteamMusic001::PlayNext(void)
+7	CAdapterSteamMusic001::SetVolume(float)
+8	CAdapterSteamMusic001::GetVolume(void)

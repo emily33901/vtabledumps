@@ -1,0 +1,7 @@
+// `vtable for'C_ReplayCamera
+// Auto reconstructed from vtable block @ 0x00F16620
+// from "client.dylib", by ida_vtables.idc
+0	C_ReplayCamera::~C_ReplayCamera()
+1	C_ReplayCamera::~C_ReplayCamera()
+2	C_ReplayCamera::FireGameEvent(IGameEvent *)
+3	C_ReplayCamera::ClearOverrideView(void)

@@ -1,0 +1,10 @@
+// `vtable for'CCopyRecipientFilter
+// Auto reconstructed from vtable block @ 0x01057310
+// from "client.dylib", by ida_vtables.idc
+0	CCopyRecipientFilter::~CCopyRecipientFilter()
+1	CCopyRecipientFilter::~CCopyRecipientFilter()
+2	CCopyRecipientFilter::IsReliable(void)const
+3	CCopyRecipientFilter::IsInitMessage(void)const
+4	CCopyRecipientFilter::GetRecipientCount(void)const
+5	CCopyRecipientFilter::GetRecipientIndex(int)const
+6	CCopyRecipientFilter::AddRecipient(C_BasePlayer *)

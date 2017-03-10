@@ -1,0 +1,8 @@
+// `vtable for'CEntityDataInstantiator<CWatcherList>
+// Auto reconstructed from vtable block @ 0x01054ED0
+// from "client.dylib", by ida_vtables.idc
+0	CEntityDataInstantiator<CWatcherList>::~CEntityDataInstantiator()
+1	CEntityDataInstantiator<CWatcherList>::~CEntityDataInstantiator()
+2	CEntityDataInstantiator<CWatcherList>::GetDataObject(C_BaseEntity const*)
+3	CEntityDataInstantiator<CWatcherList>::CreateDataObject(C_BaseEntity const*)
+4	CEntityDataInstantiator<CWatcherList>::DestroyDataObject(C_BaseEntity const*)

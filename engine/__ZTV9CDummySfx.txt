@@ -1,0 +1,4 @@
+// `vtable for'CDummySfx
+// Auto reconstructed from vtable block @ 0x0051D77C
+// from "engine.dylib", by ida_vtables.idc
+0	CDummySfx::getname(void)

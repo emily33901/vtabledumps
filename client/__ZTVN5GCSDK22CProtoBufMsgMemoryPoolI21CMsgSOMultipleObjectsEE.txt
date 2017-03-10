@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgSOMultipleObjects>
+// Auto reconstructed from vtable block @ 0x0114A8F0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgSOMultipleObjects>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgSOMultipleObjects>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgSOMultipleObjects>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgSOMultipleObjects>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgSOMultipleObjects>::InternalFree(google::protobuf::Message *)

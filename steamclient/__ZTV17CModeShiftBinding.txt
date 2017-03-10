@@ -1,0 +1,16 @@
+// `vtable for'CModeShiftBinding
+// Auto reconstructed from vtable block @ 0x00ED1830
+// from "steamclient.dylib", by ida_vtables.idc
+0	CModeShiftBinding::~CModeShiftBinding()
+1	CModeShiftBinding::~CModeShiftBinding()
+2	CModeShiftBinding::SendEvent(IInputGenerator *,bool)const
+3	CModeShiftBinding::GetType(void)const
+4	CModeShiftBinding::GetAction(BindingAction_t *)const
+5	CModeShiftBinding::Save(CUtlString &)const
+6	IDigitalBinding::GetPreset(void)const
+7	IDigitalBinding::SetPreset(int)
+8	IDigitalBinding::SetIconData(IconBindingData_t *)
+9	IDigitalBinding::Disconnect(IInputGenerator *)const
+10	IDigitalBinding::SetActivator(IControllerActivator *)
+11	IDigitalBinding::GetActivator(void)const
+12	IDigitalBinding::Validate(CValidator &,char const*)

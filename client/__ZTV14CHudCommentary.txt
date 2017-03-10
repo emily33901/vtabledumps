@@ -1,0 +1,25 @@
+// `vtable for'CHudCommentary
+// Auto reconstructed from vtable block @ 0x00EAC9E0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudCommentary
+1	CHudCommentary::~CHudCommentary()
+2	CHudCommentary::~CHudCommentary()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudCommentary::Init(void)
+5	CHudCommentary::VidInit(void)
+6	CHudCommentary::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudCommentary::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudCommentary::GetMessageMap(void)
+18	CHudCommentary::GetAnimMap(void)
+19	CHudCommentary::GetKBMap(void)
+20	CHudCommentary::ApplySchemeSettings(vgui::IScheme *)
+21	CHudCommentary::Paint(void)

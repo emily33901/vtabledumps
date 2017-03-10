@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<SDL_PowerState (*)(int *,int *)>
+// Auto reconstructed from vtable block @ 0x00EF2F20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<SDL_PowerState (*)(int *,int *)>::Init(CSysModule *)
+1	CDynamicFunc<SDL_PowerState (*)(int *,int *)>::Release(void)
+2	CDynamicFunc<SDL_PowerState (*)(int *,int *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<SDL_PowerState (*)(int *,int *)>::GetNextPointer(void)

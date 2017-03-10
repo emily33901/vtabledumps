@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_OP_SpinYaw>
+// Auto reconstructed from vtable block @ 0x01145370
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_OP_SpinYaw>::GetName(void)const
+1	CParticleOperatorDefinition<C_OP_SpinYaw>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_OP_SpinYaw>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_OP_SpinYaw>::GetId(void)const
+4	CParticleOperatorDefinition<C_OP_SpinYaw>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_OP_SpinYaw>::GetClassSize(void)const

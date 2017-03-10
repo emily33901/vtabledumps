@@ -1,0 +1,6 @@
+// `vtable for'CProportionalFloatProperty
+// Auto reconstructed from vtable block @ 0x0053EF40
+// from "engine.dylib", by ida_vtables.idc
+0	CProportionalFloatProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CProportionalFloatProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CProportionalFloatProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

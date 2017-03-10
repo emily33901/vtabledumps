@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUCMDeleteScreenshotResponse
+// Auto reconstructed from vtable block @ 0x00EECB70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMDeleteScreenshotResponse::~CMsgClientUCMDeleteScreenshotResponse()
+1	CMsgClientUCMDeleteScreenshotResponse::~CMsgClientUCMDeleteScreenshotResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUCMDeleteScreenshotResponse::New(void)const
+4	CMsgClientUCMDeleteScreenshotResponse::Clear(void)
+5	CMsgClientUCMDeleteScreenshotResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUCMDeleteScreenshotResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUCMDeleteScreenshotResponse::ByteSize(void)const
+10	CMsgClientUCMDeleteScreenshotResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUCMDeleteScreenshotResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUCMDeleteScreenshotResponse::GetCachedSize(void)const
+13	CMsgClientUCMDeleteScreenshotResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUCMDeleteScreenshotResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUCMDeleteScreenshotResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUCMDeleteScreenshotResponse::GetMetadata(void)const

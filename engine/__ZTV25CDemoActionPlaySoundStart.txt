@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionPlaySoundStart
+// Auto reconstructed from vtable block @ 0x004C8E60
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionPlaySoundStart::~CDemoActionPlaySoundStart()
+1	CDemoActionPlaySoundStart::~CDemoActionPlaySoundStart()
+2	CDemoActionPlaySoundStart::Init(KeyValues *)
+3	CBaseDemoAction::Update(DemoActionTimingContext const&)
+4	CDemoActionPlaySoundStart::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionPlaySoundStart::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

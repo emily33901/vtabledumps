@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::NotImplemented
+// Auto reconstructed from vtable block @ 0x01016C40
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::NotImplemented::~NotImplemented()
+1	CryptoPP::NotImplemented::~NotImplemented()
+2	CryptoPP::Exception::what(void)const

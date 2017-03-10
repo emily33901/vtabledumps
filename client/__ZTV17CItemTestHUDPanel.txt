@@ -1,0 +1,25 @@
+// `vtable for'CItemTestHUDPanel
+// Auto reconstructed from vtable block @ 0x01046E00
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CItemTestHUDPanel
+1	CItemTestHUDPanel::~CItemTestHUDPanel()
+2	CItemTestHUDPanel::~CItemTestHUDPanel()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CItemTestHUDPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CItemTestHUDPanel::GetMessageMap(void)
+18	CItemTestHUDPanel::GetAnimMap(void)
+19	CItemTestHUDPanel::GetKBMap(void)
+20	CItemTestHUDPanel::PerformLayout(void)
+21	CItemTestHUDPanel::ApplySchemeSettings(vgui::IScheme *)

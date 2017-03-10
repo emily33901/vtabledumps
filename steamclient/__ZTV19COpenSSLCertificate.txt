@@ -1,0 +1,11 @@
+// `vtable for'COpenSSLCertificate
+// Auto reconstructed from vtable block @ 0x00EE6E50
+// from "steamclient.dylib", by ida_vtables.idc
+0	COpenSSLCertificate::BGetSubject(CUtlString &)const
+1	COpenSSLCertificate::BGetIssuer(CUtlString &)const
+2	COpenSSLCertificate::BGetSerialNumber(CUtlString &)const
+3	COpenSSLCertificate::GetIssuerHash(void)const
+4	COpenSSLCertificate::BGetSubjectProperty(char const*,CUtlString &)const
+5	COpenSSLCertificate::BGetIssuerProperty(char const*,CUtlString &)const
+6	COpenSSLCertificate::BMatchesIP(netadr_t)const
+7	COpenSSLCertificate::BGetSubjectDNSNames(CUtlVector<CUtlString,CUtlMemory<CUtlString>> &)const

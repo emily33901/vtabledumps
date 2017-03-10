@@ -1,0 +1,5 @@
+// `vtable for'TAutoList<C_FuncPasstimeGoal>
+// Auto reconstructed from vtable block @ 0x010DCD80
+// from "client.dylib", by ida_vtables.idc
+0	TAutoList<C_FuncPasstimeGoal>::~TAutoList()
+1	TAutoList<C_FuncPasstimeGoal>::~TAutoList()

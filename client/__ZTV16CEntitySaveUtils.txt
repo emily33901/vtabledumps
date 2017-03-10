@@ -1,0 +1,6 @@
+// `vtable for'CEntitySaveUtils
+// Auto reconstructed from vtable block @ 0x00E42BC0
+// from "client.dylib", by ida_vtables.idc
+0	CEntitySaveUtils::AddLevelTransitionSaveDependency(C_BaseEntity *,C_BaseEntity *)
+1	CEntitySaveUtils::GetEntityDependencyCount(C_BaseEntity *)
+2	CEntitySaveUtils::GetEntityDependencies(C_BaseEntity *,int,C_BaseEntity **)

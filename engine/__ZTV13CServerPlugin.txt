@@ -1,0 +1,21 @@
+// `vtable for'CServerPlugin
+// Auto reconstructed from vtable block @ 0x004EDFA0
+// from "engine.dylib", by ida_vtables.idc
+0	CServerPlugin::CreateMessage(edict_t *,DIALOG_TYPE,KeyValues *,IServerPluginCallbacks *)
+1	CServerPlugin::ClientCommand(edict_t *,char const*)
+2	CServerPlugin::StartQueryCvarValue(edict_t *,char const*)
+3	CServerPlugin::LevelInit(char const*,char const*,char const*,char const*,bool,bool)
+4	CServerPlugin::ServerActivate(edict_t *,int,int)
+5	CServerPlugin::GameFrame(bool)
+6	CServerPlugin::LevelShutdown(void)
+7	CServerPlugin::ClientActive(edict_t *,bool)
+8	CServerPlugin::ClientDisconnect(edict_t *)
+9	CServerPlugin::ClientPutInServer(edict_t *,char const*)
+10	CServerPlugin::SetCommandClient(int)
+11	CServerPlugin::ClientSettingsChanged(edict_t *)
+12	CServerPlugin::ClientConnect(edict_t *,char const*,char const*,char *,int)
+13	CServerPlugin::ClientCommand(edict_t *,CCommand const&)
+14	CServerPlugin::NetworkIDValidated(char const*,char const*)
+15	CServerPlugin::OnQueryCvarValueFinished(int,edict_t *,EQueryCvarValueStatus,char const*,char const*)
+16	CServerPlugin::OnEdictAllocated(edict_t *)
+17	CServerPlugin::OnEdictFreed(edict_t const*)

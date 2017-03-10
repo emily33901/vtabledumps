@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionPausePlayback
+// Auto reconstructed from vtable block @ 0x004C8C40
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionPausePlayback::~CDemoActionPausePlayback()
+1	CDemoActionPausePlayback::~CDemoActionPausePlayback()
+2	CDemoActionPausePlayback::Init(KeyValues *)
+3	CBaseDemoActionWithStopTime::Update(DemoActionTimingContext const&)
+4	CDemoActionPausePlayback::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionPausePlayback::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

@@ -1,0 +1,13 @@
+// `vtable for'CRConVProfExport
+// Auto reconstructed from vtable block @ 0x004D2770
+// from "engine.dylib", by ida_vtables.idc
+0	CRConVProfExport::AddListener(void)
+1	CRConVProfExport::RemoveListener(void)
+2	CRConVProfExport::PauseProfile(void)
+3	CRConVProfExport::ResumeProfile(void)
+4	CRConVProfExport::SetBudgetFlagsFilter(int)
+5	CRConVProfExport::GetNumBudgetGroups(void)
+6	CRConVProfExport::GetBudgetGroupInfos(IVProfExport::CExportedBudgetGroupInfo *)
+7	CRConVProfExport::GetBudgetGroupTimes(float *)
+8	CRConVProfExport::OnRemoteGroupData(void const*,int)
+9	CRConVProfExport::OnRemoteData(void const*,int)

@@ -1,0 +1,15 @@
+// `vtable for'CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>
+// Auto reconstructed from vtable block @ 0x01015840
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::~AutoSeededX917RNG()
+1	CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::~AutoSeededX917RNG()
+2	CryptoPP::Clonable::Clone(void)const
+3	CryptoPP::Algorithm::AlgorithmName(void)const
+4	CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::IncorporateEntropy(unsigned char const*,unsigned long)
+5	CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::CanIncorporateEntropy(void)const
+6	CryptoPP::RandomNumberGenerator::GenerateByte(void)
+7	CryptoPP::RandomNumberGenerator::GenerateBit(void)
+8	CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int,unsigned int)
+9	CryptoPP::RandomNumberGenerator::GenerateBlock(unsigned char *,unsigned long)
+10	CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned long)
+11	CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation &,std::string const&,unsigned long long)

@@ -1,0 +1,10 @@
+// `vtable for'CCustomTextureOnItemProxy
+// Auto reconstructed from vtable block @ 0x00EE89E0
+// from "client.dylib", by ida_vtables.idc
+0	CCustomTextureOnItemProxy::Init(IMaterial *,KeyValues *)
+1	CCustomTextureOnItemProxy::OnBind(void *)
+2	CCustomTextureOnItemProxy::Release(void)
+3	CCustomTextureOnItemProxy::GetMaterial(void)
+4	CCustomTextureOnItemProxy::~CCustomTextureOnItemProxy()
+5	CCustomTextureOnItemProxy::~CCustomTextureOnItemProxy()
+6	CCustomTextureOnItemProxy::OnBindInternal(C_EconItemView *)

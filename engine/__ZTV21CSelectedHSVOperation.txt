@@ -1,0 +1,13 @@
+// `vtable for'CSelectedHSVOperation
+// Auto reconstructed from vtable block @ 0x004D8EA0
+// from "engine.dylib", by ida_vtables.idc
+0	CSelectedHSVOperation::Apply(Vector const&,Vector&)
+1	CSelectedHSVOperation::Release(void)
+2	CSelectedHSVOperation::GetName(void)
+3	CSelectedHSVOperation::SetName(char const*)
+4	CSelectedHSVOperation::Clone(void)
+5	CSelectedHSVOperation::ToolID(void)
+6	CSelectedHSVOperation::IsEnabled(void)
+7	CSelectedHSVOperation::SetEnabled(bool)
+8	CSelectedHSVOperation::SetBlendFactor(float)
+9	CSelectedHSVOperation::GetBlendFactor(void)

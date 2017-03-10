@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgKeyChar>
+// Auto reconstructed from vtable block @ 0x00F05688
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgKeyChar>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgKeyChar>::~CHTMLProtoBufMsg()

@@ -1,0 +1,6 @@
+// `vtable for'CCallResult<vgui::HTML,HTML_BrowserReady_t>
+// Auto reconstructed from vtable block @ 0x011525F0
+// from "client.dylib", by ida_vtables.idc
+0	CCallResult<vgui::HTML,HTML_BrowserReady_t>::Run(void *)
+1	CCallResult<vgui::HTML,HTML_BrowserReady_t>::Run(void *,bool,unsigned long long)
+2	CCallResult<vgui::HTML,HTML_BrowserReady_t>::GetCallbackSizeBytes(void)

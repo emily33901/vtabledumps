@@ -1,0 +1,6 @@
+// `vtable for'C_PasstimeGoalReticle
+// Auto reconstructed from vtable block @ 0x00F96C00
+// from "client.dylib", by ida_vtables.idc
+0	C_PasstimeGoalReticle::~C_PasstimeGoalReticle()
+1	C_PasstimeGoalReticle::~C_PasstimeGoalReticle()
+2	C_PasstimeGoalReticle::Update(void)

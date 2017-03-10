@@ -1,0 +1,18 @@
+// `vtable for'CShowMannUpLootNotification
+// Auto reconstructed from vtable block @ 0x0110D6F0
+// from "client.dylib", by ida_vtables.idc
+0	CShowMannUpLootNotification::~CShowMannUpLootNotification()
+1	CShowMannUpLootNotification::~CShowMannUpLootNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CShowMannUpLootNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CShowMannUpLootNotification::CanBeTriggered(void)
+8	CShowMannUpLootNotification::Trigger(void)
+9	CShowMannUpLootNotification::CanBeAcceptedOrDeclined(void)
+10	CShowMannUpLootNotification::Accept(void)
+11	CShowMannUpLootNotification::Decline(void)
+12	CShowMannUpLootNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

@@ -1,0 +1,18 @@
+// `vtable for'CControllerAbstractionBase
+// Auto reconstructed from vtable block @ 0x00F02080
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerAbstractionBase::~CControllerAbstractionBase()
+1	CControllerAbstractionBase::~CControllerAbstractionBase()
+2	CControllerAbstractionBase::SetupController(void)
+3	___cxa_pure_virtual
+4	CControllerAbstractionBase::ReadInput(void)
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	CControllerAbstractionBase::GetWirelessEvent(void)
+9	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	CControllerAbstractionBase::SetUserLedColor(unsigned char,unsigned char,unsigned char)
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	CControllerAbstractionBase::GetSocket(void)

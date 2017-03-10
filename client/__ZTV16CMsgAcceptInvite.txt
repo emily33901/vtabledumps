@@ -1,0 +1,23 @@
+// `vtable for'CMsgAcceptInvite
+// Auto reconstructed from vtable block @ 0x00E52740
+// from "client.dylib", by ida_vtables.idc
+0	CMsgAcceptInvite::~CMsgAcceptInvite()
+1	CMsgAcceptInvite::~CMsgAcceptInvite()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgAcceptInvite::New(void)const
+4	CMsgAcceptInvite::Clear(void)
+5	CMsgAcceptInvite::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgAcceptInvite::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgAcceptInvite::ByteSize(void)const
+10	CMsgAcceptInvite::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgAcceptInvite::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgAcceptInvite::GetCachedSize(void)const
+13	CMsgAcceptInvite::CopyFrom(google::protobuf::Message const&)
+14	CMsgAcceptInvite::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgAcceptInvite::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgAcceptInvite::GetMetadata(void)const

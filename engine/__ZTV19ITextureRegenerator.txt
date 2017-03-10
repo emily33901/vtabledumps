@@ -1,0 +1,5 @@
+// `vtable for'ITextureRegenerator
+// Auto reconstructed from vtable block @ 0x00545354
+// from "engine.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual

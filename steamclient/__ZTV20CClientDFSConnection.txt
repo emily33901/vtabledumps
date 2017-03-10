@@ -1,0 +1,16 @@
+// `vtable for'CClientDFSConnection
+// Auto reconstructed from vtable block @ 0x00ECEFB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientDFSConnection::ConnectCompleted(unsigned int)
+1	CClientDFSConnection::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CClientDFSConnection::ConnectionDisconnected(unsigned int,EResult)
+3	CClientDFSConnection::RecvPkt(CNetPacket *)
+4	CClientDFSConnection::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CClientDFSConnection::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CClientDFSConnection::BAllowFileReceive(unsigned int,char const*)
+9	CClientDFSConnection::EAllowFileRequest(unsigned int,char const*)
+10	CClientDFSConnection::OnFileSendComplete(unsigned int,EResult,char const*,int)
+11	CClientDFSConnection::OnFileReceiveComplete(EResult,char const*,int,char const*)
+12	CClientDFSConnection::TranslateRequestFileName(char *,int)

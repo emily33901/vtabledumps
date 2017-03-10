@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionSkipAhead
+// Auto reconstructed from vtable block @ 0x004C8CA0
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionSkipAhead::~CDemoActionSkipAhead()
+1	CDemoActionSkipAhead::~CDemoActionSkipAhead()
+2	CDemoActionSkipAhead::Init(KeyValues *)
+3	CDemoActionSkipAhead::Update(DemoActionTimingContext const&)
+4	CDemoActionSkipAhead::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionSkipAhead::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

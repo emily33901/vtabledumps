@@ -1,0 +1,26 @@
+// `vtable for'CHUDAutoAim
+// Auto reconstructed from vtable block @ 0x00F021B0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHUDAutoAim
+1	CHUDAutoAim::~CHUDAutoAim()
+2	CHUDAutoAim::~CHUDAutoAim()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHUDAutoAim::Init(void)
+5	CHUDAutoAim::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHUDAutoAim::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHUDAutoAim::GetMessageMap(void)
+18	CHUDAutoAim::GetAnimMap(void)
+19	CHUDAutoAim::GetKBMap(void)
+20	CHUDAutoAim::ApplySchemeSettings(vgui::IScheme *)
+21	CHUDAutoAim::OnThink(void)
+22	CHUDAutoAim::Paint(void)

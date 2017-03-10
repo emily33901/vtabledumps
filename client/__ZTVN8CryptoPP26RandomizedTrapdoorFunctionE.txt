@@ -1,0 +1,11 @@
+// `vtable for'CryptoPP::RandomizedTrapdoorFunction
+// Auto reconstructed from vtable block @ 0x01017DA0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::RandomizedTrapdoorFunction::~RandomizedTrapdoorFunction()
+1	CryptoPP::RandomizedTrapdoorFunction::~RandomizedTrapdoorFunction()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	CryptoPP::TrapdoorFunctionBounds::MaxPreimage(void)const
+5	CryptoPP::TrapdoorFunctionBounds::MaxImage(void)const
+6	___cxa_pure_virtual
+7	CryptoPP::RandomizedTrapdoorFunction::IsRandomized(void)const

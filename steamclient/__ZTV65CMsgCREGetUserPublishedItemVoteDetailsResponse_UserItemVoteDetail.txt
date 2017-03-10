@@ -1,0 +1,23 @@
+// `vtable for'CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail
+// Auto reconstructed from vtable block @ 0x00EF0290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::~CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail()
+1	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::~CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::New(void)const
+4	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::Clear(void)
+5	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::ByteSize(void)const
+10	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::GetCachedSize(void)const
+13	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::CopyFrom(google::protobuf::Message const&)
+14	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgCREGetUserPublishedItemVoteDetailsResponse_UserItemVoteDetail::GetMetadata(void)const

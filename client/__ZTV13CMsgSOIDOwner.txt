@@ -1,0 +1,23 @@
+// `vtable for'CMsgSOIDOwner
+// Auto reconstructed from vtable block @ 0x01018130
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSOIDOwner::~CMsgSOIDOwner()
+1	CMsgSOIDOwner::~CMsgSOIDOwner()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgSOIDOwner::New(void)const
+4	CMsgSOIDOwner::Clear(void)
+5	CMsgSOIDOwner::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgSOIDOwner::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgSOIDOwner::ByteSize(void)const
+10	CMsgSOIDOwner::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgSOIDOwner::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgSOIDOwner::GetCachedSize(void)const
+13	CMsgSOIDOwner::CopyFrom(google::protobuf::Message const&)
+14	CMsgSOIDOwner::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgSOIDOwner::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgSOIDOwner::GetMetadata(void)const

@@ -1,0 +1,8 @@
+// `vtable for'CEngineBSPTree
+// Auto reconstructed from vtable block @ 0x004E8180
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineBSPTree::LeafCount(void)const
+1	CEngineBSPTree::EnumerateLeavesAtPoint(Vector const&,ISpatialLeafEnumerator *,int)
+2	CEngineBSPTree::EnumerateLeavesInBox(Vector const&,Vector const&,ISpatialLeafEnumerator *,int)
+3	CEngineBSPTree::EnumerateLeavesInSphere(Vector const&,float,ISpatialLeafEnumerator *,int)
+4	CEngineBSPTree::EnumerateLeavesAlongRay(Ray_t const&,ISpatialLeafEnumerator *,int)

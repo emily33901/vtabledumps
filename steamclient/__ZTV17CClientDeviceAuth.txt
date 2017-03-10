@@ -1,0 +1,17 @@
+// `vtable for'CClientDeviceAuth
+// Auto reconstructed from vtable block @ 0x00ECE750
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientDeviceAuth::AuthorizeLocalDevice(char const*,unsigned int)
+1	CClientDeviceAuth::DeauthorizeLocalDevice(unsigned int)
+2	CClientDeviceAuth::DeauthorizeRemoteDevice(unsigned long long)
+3	CClientDeviceAuth::RequestAuthorizationInfos(void)
+4	CClientDeviceAuth::GetDeviceAuthorizations(unsigned long long *,unsigned int,bool)
+5	CClientDeviceAuth::GetDeviceAuthorizationInfo(unsigned long long,unsigned int *,unsigned int *,unsigned int *,bool *,char *,int,char *,int,char *,int,unsigned int *)
+6	CClientDeviceAuth::GetAuthorizedBorrowers(unsigned int *,unsigned int)
+7	CClientDeviceAuth::GetLocalUsers(unsigned int *,unsigned int)
+8	CClientDeviceAuth::GetBorrowerInfo(unsigned int,char *,int,bool *)
+9	CClientDeviceAuth::UpdateAuthorizedBorrowers(unsigned int const*,unsigned int,bool)
+10	CClientDeviceAuth::GetSharedLibraryLockedBy(unsigned int)
+11	CClientDeviceAuth::GetSharedLibraryOwners(unsigned int *,unsigned int)
+12	aSharedlibrarys
+13	unk_24BE

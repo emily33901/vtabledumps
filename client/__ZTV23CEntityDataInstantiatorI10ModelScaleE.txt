@@ -1,0 +1,8 @@
+// `vtable for'CEntityDataInstantiator<ModelScale>
+// Auto reconstructed from vtable block @ 0x01054F00
+// from "client.dylib", by ida_vtables.idc
+0	CEntityDataInstantiator<ModelScale>::~CEntityDataInstantiator()
+1	CEntityDataInstantiator<ModelScale>::~CEntityDataInstantiator()
+2	CEntityDataInstantiator<ModelScale>::GetDataObject(C_BaseEntity const*)
+3	CEntityDataInstantiator<ModelScale>::CreateDataObject(C_BaseEntity const*)
+4	CEntityDataInstantiator<ModelScale>::DestroyDataObject(C_BaseEntity const*)

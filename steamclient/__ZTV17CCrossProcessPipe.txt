@@ -1,0 +1,23 @@
+// `vtable for'CCrossProcessPipe
+// Auto reconstructed from vtable block @ 0x00EC0BA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCrossProcessPipe::~CCrossProcessPipe()
+1	CCrossProcessPipe::~CCrossProcessPipe()
+2	CCrossProcessPipe::BCreatePipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+3	CCrossProcessPipe::BAcceptConnection(IProcessPipe **)
+4	CCrossProcessPipe::BConnectToPipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+5	CCrossProcessPipe::BResetPipeState(void)
+6	CCrossProcessPipe::Shutdown(void)
+7	CCrossProcessPipe::BWrite(CUtlBuffer &,bool)
+8	CCrossProcessPipe::BPeek(unsigned char *)
+9	CCrossProcessPipe::BRead(CUtlBuffer &)
+10	CCrossProcessPipe::BWait(unsigned int,bool)
+11	CCrossProcessPipe::Reset(void)
+12	CCrossProcessPipe::HangupPipe(void)
+13	CCrossProcessPipe::GetRecvSyncObject(void)
+14	CCrossProcessPipe::BIsDisconnected(void)
+15	CCrossProcessPipe::Validate(CValidator &,char const*)
+16	aSteam3master
+17	a127_0_0_157343
+18	aSteamclientser
+19	a127_0_0_157344

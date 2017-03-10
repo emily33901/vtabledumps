@@ -1,0 +1,32 @@
+// `vtable for'CStaticPropMgr
+// Auto reconstructed from vtable block @ 0x004EDA20
+// from "engine.dylib", by ida_vtables.idc
+0	CStaticPropMgr::Init(void)
+1	CStaticPropMgr::Shutdown(void)
+2	CStaticPropMgr::LevelInit(void)
+3	CStaticPropMgr::LevelInitClient(void)
+4	CStaticPropMgr::LevelShutdownClient(void)
+5	CStaticPropMgr::LevelShutdown(void)
+6	CStaticPropMgr::RecomputeStaticLighting(void)
+7	CStaticPropMgr::IsPropInPVS(IHandleEntity *,unsigned char const*)const
+8	CStaticPropMgr::GetStaticProp(IHandleEntity *)
+9	CStaticPropMgr::GetLightCacheHandleForStaticProp(IHandleEntity *)
+10	CStaticPropMgr::IsStaticProp(IHandleEntity *)const
+11	CStaticPropMgr::IsStaticProp(CBaseHandle)const
+12	CStaticPropMgr::GetStaticPropIndex(IHandleEntity *)const
+13	CStaticPropMgr::PropHasBakedLightingDisabled(IHandleEntity *)const
+14	CStaticPropMgr::~CStaticPropMgr()
+15	CStaticPropMgr::~CStaticPropMgr()
+16	CStaticPropMgr::GetStaticPropByIndex(int)
+17	CStaticPropMgr::ComputePropOpacity(Vector const&,float)
+18	CStaticPropMgr::TraceRayAgainstStaticProp(Ray_t const&,int,CGameTrace &)
+19	CStaticPropMgr::AddDecalToStaticProp(Vector const&,Vector const&,int,int,bool,CGameTrace &)
+20	CStaticPropMgr::AddColorDecalToStaticProp(Vector const&,Vector const&,int,int,bool,CGameTrace &,bool,Color)
+21	CStaticPropMgr::AddShadowToStaticProp(unsigned short,IClientRenderable *)
+22	CStaticPropMgr::RemoveAllShadowsFromStaticProp(IClientRenderable *)
+23	CStaticPropMgr::GetStaticPropMaterialColorAndLighting(CGameTrace *,int,Vector &,Vector &)
+24	CStaticPropMgr::CreateVPhysicsRepresentations(IPhysicsEnvironment *,IVPhysicsKeyHandler *,void *)
+25	CStaticPropMgr::GetAllStaticProps(CUtlVector<ICollideable *,CUtlMemory<ICollideable *,int>> *)
+26	CStaticPropMgr::GetAllStaticPropsInAABB(Vector const&,Vector const&,CUtlVector<ICollideable *,CUtlMemory<ICollideable *,int>> *)
+27	CStaticPropMgr::GetAllStaticPropsInOBB(Vector const&,Vector const&,Vector const&,Vector const&,CUtlVector<ICollideable *,CUtlMemory<ICollideable *,int>> *)
+28	CStaticPropMgr::DrawStaticProps(IClientRenderable **,int,bool,bool)

@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CDepotDownloadMgr>
+// Auto reconstructed from vtable block @ 0x00F03F60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CDepotDownloadMgr>::~CScheduledFunction()
+1	CScheduledFunction<CDepotDownloadMgr>::~CScheduledFunction()
+2	CScheduledFunction<CDepotDownloadMgr>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

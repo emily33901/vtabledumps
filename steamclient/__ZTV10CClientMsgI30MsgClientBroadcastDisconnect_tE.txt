@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientBroadcastDisconnect_t>
+// Auto reconstructed from vtable block @ 0x00EF417C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientBroadcastDisconnect_t>::~CClientMsg()
+1	CClientMsg<MsgClientBroadcastDisconnect_t>::~CClientMsg()

@@ -1,0 +1,4 @@
+// `vtable for'CUtlNoEscConversion
+// Auto reconstructed from vtable block @ 0x005461D8
+// from "engine.dylib", by ida_vtables.idc
+0	CUtlNoEscConversion::FindConversion(char const*,int *)

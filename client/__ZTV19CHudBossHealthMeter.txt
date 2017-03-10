@@ -1,0 +1,25 @@
+// `vtable for'CHudBossHealthMeter
+// Auto reconstructed from vtable block @ 0x00F55DD0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudBossHealthMeter
+1	CHudBossHealthMeter::~CHudBossHealthMeter()
+2	CHudBossHealthMeter::~CHudBossHealthMeter()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudBossHealthMeter::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudBossHealthMeter::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudBossHealthMeter::GetMessageMap(void)
+18	CHudBossHealthMeter::GetAnimMap(void)
+19	CHudBossHealthMeter::GetKBMap(void)
+20	CHudBossHealthMeter::ApplySchemeSettings(vgui::IScheme *)
+21	CHudBossHealthMeter::OnTick(void)

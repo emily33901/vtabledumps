@@ -1,0 +1,5 @@
+// `vtable for'CUtlCachedFileData<CAudioSourceCachedInfo>
+// Auto reconstructed from vtable block @ 0x0051E6A4
+// from "engine.dylib", by ida_vtables.idc
+0	CUtlCachedFileData<CAudioSourceCachedInfo>::~CUtlCachedFileData()
+1	CUtlCachedFileData<CAudioSourceCachedInfo>::~CUtlCachedFileData()

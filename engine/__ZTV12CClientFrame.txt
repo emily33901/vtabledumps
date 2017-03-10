@@ -1,0 +1,6 @@
+// `vtable for'CClientFrame
+// Auto reconstructed from vtable block @ 0x004BA740
+// from "engine.dylib", by ida_vtables.idc
+0	CClientFrame::~CClientFrame()
+1	CClientFrame::~CClientFrame()
+2	CClientFrame::IsMemPoolAllocated(void)

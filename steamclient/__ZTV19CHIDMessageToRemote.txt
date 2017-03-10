@@ -1,0 +1,23 @@
+// `vtable for'CHIDMessageToRemote
+// Auto reconstructed from vtable block @ 0x00EC53B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageToRemote::~CHIDMessageToRemote()
+1	CHIDMessageToRemote::~CHIDMessageToRemote()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CHIDMessageToRemote::New(void)const
+4	CHIDMessageToRemote::Clear(void)
+5	CHIDMessageToRemote::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CHIDMessageToRemote::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CHIDMessageToRemote::ByteSize(void)const
+10	CHIDMessageToRemote::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CHIDMessageToRemote::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CHIDMessageToRemote::GetCachedSize(void)const
+13	CHIDMessageToRemote::CopyFrom(google::protobuf::Message const&)
+14	CHIDMessageToRemote::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CHIDMessageToRemote::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CHIDMessageToRemote::GetMetadata(void)const

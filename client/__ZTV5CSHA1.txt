@@ -1,0 +1,5 @@
+// `vtable for'CSHA1
+// Auto reconstructed from vtable block @ 0x01044590
+// from "client.dylib", by ida_vtables.idc
+0	CSHA1::~CSHA1()
+1	CSHA1::~CSHA1()

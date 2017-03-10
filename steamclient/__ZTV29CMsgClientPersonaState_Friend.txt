@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientPersonaState_Friend
+// Auto reconstructed from vtable block @ 0x00EE88A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientPersonaState_Friend::~CMsgClientPersonaState_Friend()
+1	CMsgClientPersonaState_Friend::~CMsgClientPersonaState_Friend()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientPersonaState_Friend::New(void)const
+4	CMsgClientPersonaState_Friend::Clear(void)
+5	CMsgClientPersonaState_Friend::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientPersonaState_Friend::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientPersonaState_Friend::ByteSize(void)const
+10	CMsgClientPersonaState_Friend::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientPersonaState_Friend::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientPersonaState_Friend::GetCachedSize(void)const
+13	CMsgClientPersonaState_Friend::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientPersonaState_Friend::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientPersonaState_Friend::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientPersonaState_Friend::GetMetadata(void)const

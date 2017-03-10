@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::InvalidKeyLength
+// Auto reconstructed from vtable block @ 0x010156F8
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::InvalidKeyLength::~InvalidKeyLength()
+1	CryptoPP::InvalidKeyLength::~InvalidKeyLength()
+2	CryptoPP::Exception::what(void)const

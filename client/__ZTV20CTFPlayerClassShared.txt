@@ -1,0 +1,28 @@
+// `vtable for'CTFPlayerClassShared
+// Auto reconstructed from vtable block @ 0x0107AA00
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerClassShared::NetworkStateChanged(void)
+1	CTFPlayerClassShared::NetworkStateChanged(void *)
+2	aModelsWeapon_6
+3	aModelsEffectsB
+4	aModelsEffect_0
+5	aModelsEffect_1
+6	aModelsEffect_2
+7	aModelsPlayerGi
+8	aModelsPlaye_13
+9	aModelsPlaye_14
+10	aModelsPlaye_15
+11	aModelsPlaye_16
+12	aModelsPlaye_17
+13	aModelsPlaye_18
+14	aModelsPlaye_19
+15	aModelsPlaye_20
+16	aModelsPlaye_21
+17	aModelsPlaye_22
+18	aModelsPlaye_23
+19	aModelsPlaye_24
+20	aModelsPlaye_25
+21	aModelsPlaye_26
+22	aModelsPlaye_27
+23	aModelsPlaye_28
+24	aModelsPlaye_29

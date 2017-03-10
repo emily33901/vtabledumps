@@ -1,0 +1,14 @@
+// `vtable for'CSteamUserV011
+// Auto reconstructed from vtable block @ 0x00F0AD90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV011::GetHSteamUser(void)
+1	CSteamUserV011::BLoggedOn(void)
+2	CSteamUserV011::GetSteamID(void)
+3	CSteamUserV011::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
+4	CSteamUserV011::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV011::TrackAppUsageEvent(CGameID,int,char const*)
+6	CSteamUserV011::GetUserDataFolder(char *,int)
+7	CSteamUserV011::StartVoiceRecording(void)
+8	CSteamUserV011::StopVoiceRecording(void)
+9	CSteamUserV011::GetCompressedVoice(void *,unsigned int,unsigned int *)
+10	CSteamUserV011::DecompressVoice(void *,unsigned int,void *,unsigned int,unsigned int *)

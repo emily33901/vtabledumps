@@ -1,0 +1,8 @@
+// `vtable for'CWorldRenderList
+// Auto reconstructed from vtable block @ 0x005265B0
+// from "engine.dylib", by ida_vtables.idc
+0	CRefCounted1<IWorldRenderList,CRefCountServiceBase<true,CRefMT>>::AddRef(void)
+1	CRefCounted1<IWorldRenderList,CRefCountServiceBase<true,CRefMT>>::Release(void)
+2	CWorldRenderList::~CWorldRenderList()
+3	CWorldRenderList::~CWorldRenderList()
+4	CWorldRenderList::OnFinalRelease(void)

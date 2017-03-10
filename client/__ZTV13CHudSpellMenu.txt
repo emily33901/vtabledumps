@@ -1,0 +1,25 @@
+// `vtable for'CHudSpellMenu
+// Auto reconstructed from vtable block @ 0x00E47860
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudSpellMenu
+1	CHudSpellMenu::~CHudSpellMenu()
+2	CHudSpellMenu::~CHudSpellMenu()
+3	CHudSpellMenu::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudSpellMenu::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudSpellMenu::GetMessageMap(void)
+18	CHudSpellMenu::GetAnimMap(void)
+19	CHudSpellMenu::GetKBMap(void)
+20	CHudSpellMenu::ApplySchemeSettings(vgui::IScheme *)
+21	CHudSpellMenu::OnTick(void)

@@ -1,0 +1,20 @@
+// `vtable for'TagLib::MP4::Tag
+// Auto reconstructed from vtable block @ 0x00EE3100
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MP4::Tag::~Tag()
+1	TagLib::MP4::Tag::~Tag()
+2	TagLib::MP4::Tag::title(void)const
+3	TagLib::MP4::Tag::artist(void)const
+4	TagLib::MP4::Tag::album(void)const
+5	TagLib::MP4::Tag::comment(void)const
+6	TagLib::MP4::Tag::genre(void)const
+7	TagLib::MP4::Tag::year(void)const
+8	TagLib::MP4::Tag::track(void)const
+9	TagLib::MP4::Tag::setTitle(TagLib::String const&)
+10	TagLib::MP4::Tag::setArtist(TagLib::String const&)
+11	TagLib::MP4::Tag::setAlbum(TagLib::String const&)
+12	TagLib::MP4::Tag::setComment(TagLib::String const&)
+13	TagLib::MP4::Tag::setGenre(TagLib::String const&)
+14	TagLib::MP4::Tag::setYear(unsigned int)
+15	TagLib::MP4::Tag::setTrack(unsigned int)
+16	TagLib::Tag::isEmpty(void)const

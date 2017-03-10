@@ -1,0 +1,45 @@
+// `vtable for'CValveSocketClient
+// Auto reconstructed from vtable block @ 0x00EF2270
+// from "steamclient.dylib", by ida_vtables.idc
+0	CValveSocketClient::OnTcpOpen(cricket::PseudoTcp *)
+1	SocketClient::OnTcpReadable(cricket::PseudoTcp *)
+2	SocketClient::OnTcpWriteable(cricket::PseudoTcp *)
+3	SocketClient::OnTcpClosed(cricket::PseudoTcp *,unsigned int)
+4	SocketClient::TcpWritePacket(cricket::PseudoTcp *,char const*,unsigned long)
+5	CValveSocketClient::~CValveSocketClient()
+6	CValveSocketClient::~CValveSocketClient()
+7	CValveSocketClient::GetSocketType(void)const
+8	SocketClient::GetSteamID(void)const
+9	SocketClient::Init(void)
+10	SocketClient::Close(bool,EP2PDisconnectReason)
+11	CValveSocketClient::Think(void)
+12	CValveSocketClient::CanSend(void)const
+13	SocketClient::Send(char const*,unsigned int,eSocketType,bool)
+14	CValveSocketClient::MessageWaiting(void)const
+15	CValveSocketClient::GetMessageSize(void)const
+16	SocketClient::ReceiveMessage(talk_base::ByteBuffer **)
+17	CValveSocketClient::IsWritable(void)const
+18	CValveSocketClient::IsReadable(void)const
+19	CValveSocketClient::IsDead(void)const
+20	CValveSocketClient::GetDisconnectReason(void)const
+21	CValveSocketClient::GetFlow(int)const
+22	CValveSocketClient::OnCandidatesReady(cricket::TransportChannelImpl *,buzz::XmlElement *)
+23	SocketClient::OnTransportSendMessage(cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)
+24	CValveSocketClient::SetTimeout(unsigned int)
+25	CValveSocketClient::GetTimeout(void)const
+26	CValveSocketClient::GetLocalAddress(char *,unsigned long)
+27	CValveSocketClient::GetRemoteAddress(char *,unsigned long)
+28	CValveSocketClient::GetRemoteNetadr(void)const
+29	CValveSocketClient::SetPortTypes(unsigned int)
+30	CValveSocketClient::BUsingRelay(void)const
+31	CValveSocketClient::OnBestConnectionChange(char const*)
+32	CValveSocketClient::GetSteamIDString(void)const
+33	CValveSocketClient::StartAddingCandidates(void)
+34	CValveSocketClient::AddCandidate(char const*,char const*,char const*,unsigned short,float,char const*,char const*,char const*,char const*,unsigned int)
+35	CValveSocketClient::FinishedAddingCandidates(void)
+36	CValveSocketClient::Send(unsigned char const*,unsigned long,eSocketType,bool)
+37	CValveSocketClient::ReceiveMessage(unsigned char *,unsigned long)
+38	CValveSocketClient::GetDisconnectReasonText(void)const
+39	CValveSocketClient::SetNotify(IP2PLocalCandidatesNotify *)
+40	CValveSocketClient::HasChangedConnection(void)
+41	CValveSocketClient::GetConnectionDescription(void)

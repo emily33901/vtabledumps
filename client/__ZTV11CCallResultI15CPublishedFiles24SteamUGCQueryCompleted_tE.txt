@@ -1,0 +1,6 @@
+// `vtable for'CCallResult<CPublishedFiles,SteamUGCQueryCompleted_t>
+// Auto reconstructed from vtable block @ 0x01046DC0
+// from "client.dylib", by ida_vtables.idc
+0	CCallResult<CPublishedFiles,SteamUGCQueryCompleted_t>::Run(void *)
+1	CCallResult<CPublishedFiles,SteamUGCQueryCompleted_t>::Run(void *,bool,unsigned long long)
+2	CCallResult<CPublishedFiles,SteamUGCQueryCompleted_t>::GetCallbackSizeBytes(void)

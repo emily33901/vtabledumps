@@ -1,0 +1,33 @@
+// `vtable for'C_TEDynamicLight
+// Auto reconstructed from vtable block @ 0x00EB6EC0
+// from "client.dylib", by ida_vtables.idc
+0	C_TEDynamicLight::~C_TEDynamicLight()
+1	C_TEDynamicLight::~C_TEDynamicLight()
+2	C_BaseTempEntity::SetRefEHandle(CBaseHandle const&)
+3	C_BaseTempEntity::GetRefEHandle(void)const
+4	C_BaseTempEntity::GetCollideable(void)
+5	C_BaseTempEntity::GetClientNetworkable(void)
+6	C_BaseTempEntity::GetClientRenderable(void)
+7	C_BaseTempEntity::GetIClientEntity(void)
+8	C_BaseTempEntity::GetBaseEntity(void)
+9	C_BaseTempEntity::GetClientThinkable(void)
+10	C_TEDynamicLight::YouForgotToImplementOrDeclareClientClass(void)
+11	C_TEDynamicLight::GetClientClass(void)
+12	C_BaseTempEntity::GetIClientUnknown(void)
+13	C_BaseTempEntity::Release(void)
+14	C_BaseTempEntity::NotifyShouldTransmit(ShouldTransmitState_t)
+15	C_BaseTempEntity::PreDataUpdate(DataUpdateType_t)
+16	C_TEDynamicLight::PostDataUpdate(DataUpdateType_t)
+17	C_BaseTempEntity::OnDataUnchangedInPVS(void)
+18	C_BaseTempEntity::OnPreDataChanged(DataUpdateType_t)
+19	C_BaseTempEntity::OnDataChanged(DataUpdateType_t)
+20	C_BaseTempEntity::SetDormant(bool)
+21	C_BaseTempEntity::IsDormant(void)
+22	C_BaseTempEntity::entindex(void)const
+23	C_BaseTempEntity::ReceiveMessage(int,bf_read &)
+24	C_BaseTempEntity::GetDataTableBasePtr(void)
+25	C_BaseTempEntity::SetDestroyedOnRecreateEntities(void)
+26	C_BaseTempEntity::Init(int,int)
+27	C_BaseTempEntity::Precache(void)
+28	C_BaseTempEntity::ShouldDestroy(void)
+29	C_BaseTempEntity::ShouldReceiveProjectedTextures(int)

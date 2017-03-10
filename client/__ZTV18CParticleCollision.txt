@@ -1,0 +1,9 @@
+// `vtable for'CParticleCollision
+// Auto reconstructed from vtable block @ 0x00F14980
+// from "client.dylib", by ida_vtables.idc
+0	CBaseSimpleCollision::Setup(Vector const&,float,float)
+1	CBaseSimpleCollision::TraceLine(Vector const&,Vector const&,CGameTrace *,bool)
+2	CBaseSimpleCollision::TestForPlane(Vector const&,Vector const&,float,float)
+3	CBaseSimpleCollision::ConsiderPlane(cplane_t *)
+4	CParticleCollision::Setup(Vector const&,Vector const*,float,float,float,float,float)
+5	CParticleCollision::MoveParticle(Vector &,Vector &,float *,float,CGameTrace *)

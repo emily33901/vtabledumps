@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgConVarValue>
+// Auto reconstructed from vtable block @ 0x01054A30
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgConVarValue>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgConVarValue>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgConVarValue>::GetGenericBody(void)const

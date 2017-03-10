@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgScalePageToValue>
+// Auto reconstructed from vtable block @ 0x00F05418
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgScalePageToValue>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgScalePageToValue>::~CHTMLProtoBufMsg()

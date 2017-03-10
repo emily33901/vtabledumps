@@ -1,0 +1,11 @@
+// `vtable for'CGC_Duel_Status
+// Auto reconstructed from vtable block @ 0x010E6D40
+// from "client.dylib", by ida_vtables.idc
+0	CGC_Duel_Status::~CGC_Duel_Status()
+1	CGC_Duel_Status::~CGC_Duel_Status()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGC_Duel_Status::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

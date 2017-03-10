@@ -1,0 +1,11 @@
+// `vtable for'CFXStaticLine
+// Auto reconstructed from vtable block @ 0x00EF2EC0
+// from "client.dylib", by ida_vtables.idc
+0	CFXStaticLine::~CFXStaticLine()
+1	CFXStaticLine::~CFXStaticLine()
+2	CFXStaticLine::Draw(double)
+3	CClientSideEffect::GetName(void)
+4	CFXStaticLine::IsActive(void)
+5	CFXStaticLine::Destroy(void)
+6	CClientSideEffect::SetEffectName(char const*)
+7	CFXStaticLine::Update(double)

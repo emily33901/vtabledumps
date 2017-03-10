@@ -1,0 +1,4 @@
+// `vtable for'C_EntityClassList<C_PointCamera>
+// Auto reconstructed from vtable block @ 0x01097BE0
+// from "client.dylib", by ida_vtables.idc
+0	C_EntityClassList<C_PointCamera>::LevelShutdown(void)

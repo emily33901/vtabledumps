@@ -1,0 +1,17 @@
+// `vtable for'CSchemaAttributeType_String
+// Auto reconstructed from vtable block @ 0x01050CA0
+// from "client.dylib", by ida_vtables.idc
+0	CSchemaAttributeType_String::~CSchemaAttributeType_String()
+1	CSchemaAttributeType_String::~CSchemaAttributeType_String()
+2	ISchemaAttributeTypeBase<CAttribute_String>::GetTypeUniqueIdentifier(void)const
+3	ISchemaAttributeTypeBase<CAttribute_String>::LoadEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+4	ISchemaAttributeTypeBase<CAttribute_String>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&,std::string *)const
+5	CSchemaAttributeType_String::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*,char const*,attribute_data_union_t *,bool)const
+6	CSchemaAttributeType_String::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*,attribute_data_union_t const&,std::string *)const
+7	ISchemaAttributeTypeBase<CAttribute_String>::LoadByteStreamToEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,std::string const&)const
+8	ISchemaAttributeTypeBase<CAttribute_String>::InitializeNewEconAttributeValue(attribute_data_union_t *)const
+9	ISchemaAttributeTypeBase<CAttribute_String>::UnloadEconAttributeValue(attribute_data_union_t *)const
+10	ISchemaAttributeTypeBase<CAttribute_String>::OnIterateAttributeValue(IEconItemAttributeIterator *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+11	ISchemaAttributeType::BSupportsGameplayModificationAndNetworking(void)const
+12	CSchemaAttributeTypeProtobufBase<CAttribute_String>::ConvertTypedValueToByteStream(CAttribute_String const&,std::string *)const
+13	CSchemaAttributeTypeProtobufBase<CAttribute_String>::ConvertByteStreamToTypedValue(std::string const&,CAttribute_String*)const

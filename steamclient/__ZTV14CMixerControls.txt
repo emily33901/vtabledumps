@@ -1,0 +1,10 @@
+// `vtable for'CMixerControls
+// Auto reconstructed from vtable block @ 0x00ECB080
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMixerControls::~CMixerControls()
+1	CMixerControls::~CMixerControls()
+2	CMixerControls::Release(void)
+3	CMixerControls::GetValue_Float(IMixerControls::Control,float &)
+4	CMixerControls::SetValue_Float(IMixerControls::Control,float)
+5	CMixerControls::GetMixerName(void)
+6	CMixerControls::Validate(CValidator &,char const*)

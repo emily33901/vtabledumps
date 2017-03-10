@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCQuestObjective_Progress
+// Auto reconstructed from vtable block @ 0x00E3E090
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCQuestObjective_Progress::~CMsgGCQuestObjective_Progress()
+1	CMsgGCQuestObjective_Progress::~CMsgGCQuestObjective_Progress()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCQuestObjective_Progress::New(void)const
+4	CMsgGCQuestObjective_Progress::Clear(void)
+5	CMsgGCQuestObjective_Progress::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCQuestObjective_Progress::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCQuestObjective_Progress::ByteSize(void)const
+10	CMsgGCQuestObjective_Progress::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCQuestObjective_Progress::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCQuestObjective_Progress::GetCachedSize(void)const
+13	CMsgGCQuestObjective_Progress::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCQuestObjective_Progress::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCQuestObjective_Progress::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCQuestObjective_Progress::GetMetadata(void)const

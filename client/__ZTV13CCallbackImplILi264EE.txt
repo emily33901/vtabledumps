@@ -1,0 +1,6 @@
+// `vtable for'CCallbackImpl<264>
+// Auto reconstructed from vtable block @ 0x0108B1D0
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	CCallbackImpl<264>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<264>::GetCallbackSizeBytes(void)

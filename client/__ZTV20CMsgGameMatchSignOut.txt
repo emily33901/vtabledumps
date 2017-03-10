@@ -1,0 +1,23 @@
+// `vtable for'CMsgGameMatchSignOut
+// Auto reconstructed from vtable block @ 0x00E52620
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGameMatchSignOut::~CMsgGameMatchSignOut()
+1	CMsgGameMatchSignOut::~CMsgGameMatchSignOut()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGameMatchSignOut::New(void)const
+4	CMsgGameMatchSignOut::Clear(void)
+5	CMsgGameMatchSignOut::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGameMatchSignOut::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGameMatchSignOut::ByteSize(void)const
+10	CMsgGameMatchSignOut::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGameMatchSignOut::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGameMatchSignOut::GetCachedSize(void)const
+13	CMsgGameMatchSignOut::CopyFrom(google::protobuf::Message const&)
+14	CMsgGameMatchSignOut::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGameMatchSignOut::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGameMatchSignOut::GetMetadata(void)const

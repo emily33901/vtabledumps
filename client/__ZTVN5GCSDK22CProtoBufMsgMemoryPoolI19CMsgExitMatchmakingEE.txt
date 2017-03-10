@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgExitMatchmaking>
+// Auto reconstructed from vtable block @ 0x01046D40
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgExitMatchmaking>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgExitMatchmaking>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgExitMatchmaking>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgExitMatchmaking>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgExitMatchmaking>::InternalFree(google::protobuf::Message *)

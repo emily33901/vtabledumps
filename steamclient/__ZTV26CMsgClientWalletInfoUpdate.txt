@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientWalletInfoUpdate
+// Auto reconstructed from vtable block @ 0x00EEAA60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientWalletInfoUpdate::~CMsgClientWalletInfoUpdate()
+1	CMsgClientWalletInfoUpdate::~CMsgClientWalletInfoUpdate()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientWalletInfoUpdate::New(void)const
+4	CMsgClientWalletInfoUpdate::Clear(void)
+5	CMsgClientWalletInfoUpdate::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientWalletInfoUpdate::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientWalletInfoUpdate::ByteSize(void)const
+10	CMsgClientWalletInfoUpdate::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientWalletInfoUpdate::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientWalletInfoUpdate::GetCachedSize(void)const
+13	CMsgClientWalletInfoUpdate::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientWalletInfoUpdate::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientWalletInfoUpdate::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientWalletInfoUpdate::GetMetadata(void)const

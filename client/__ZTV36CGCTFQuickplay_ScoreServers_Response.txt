@@ -1,0 +1,11 @@
+// `vtable for'CGCTFQuickplay_ScoreServers_Response
+// Auto reconstructed from vtable block @ 0x011123E0
+// from "client.dylib", by ida_vtables.idc
+0	CGCTFQuickplay_ScoreServers_Response::~CGCTFQuickplay_ScoreServers_Response()
+1	CGCTFQuickplay_ScoreServers_Response::~CGCTFQuickplay_ScoreServers_Response()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCTFQuickplay_ScoreServers_Response::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

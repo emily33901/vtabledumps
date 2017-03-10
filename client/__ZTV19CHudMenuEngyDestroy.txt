@@ -1,0 +1,26 @@
+// `vtable for'CHudMenuEngyDestroy
+// Auto reconstructed from vtable block @ 0x00F88300
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudMenuEngyDestroy
+1	CHudMenuEngyDestroy::~CHudMenuEngyDestroy()
+2	CHudMenuEngyDestroy::~CHudMenuEngyDestroy()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudMenuEngyDestroy::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudBaseBuildMenu::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudMenuEngyDestroy::GetRenderGroupPriority(void)
+17	CHudMenuEngyDestroy::GetMessageMap(void)
+18	CHudMenuEngyDestroy::GetAnimMap(void)
+19	CHudMenuEngyDestroy::GetKBMap(void)
+20	CHudMenuEngyDestroy::ApplySchemeSettings(vgui::IScheme *)
+21	CHudMenuEngyDestroy::SetVisible(bool)
+22	CHudMenuEngyDestroy::OnTick(void)

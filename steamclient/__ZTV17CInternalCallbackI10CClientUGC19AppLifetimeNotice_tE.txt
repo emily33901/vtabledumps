@@ -1,0 +1,5 @@
+// `vtable for'CInternalCallback<CClientUGC,AppLifetimeNotice_t>
+// Auto reconstructed from vtable block @ 0x00EFDE9C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CClientUGC,AppLifetimeNotice_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)

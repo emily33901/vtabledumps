@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionTextMessageStart
+// Auto reconstructed from vtable block @ 0x004C8DA0
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionTextMessageStart::~CDemoActionTextMessageStart()
+1	CDemoActionTextMessageStart::~CDemoActionTextMessageStart()
+2	CDemoActionTextMessageStart::Init(KeyValues *)
+3	CBaseDemoAction::Update(DemoActionTimingContext const&)
+4	CDemoActionTextMessageStart::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionTextMessageStart::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

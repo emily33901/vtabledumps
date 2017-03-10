@@ -1,0 +1,16 @@
+// `vtable for'SVC_Menu
+// Auto reconstructed from vtable block @ 0x004B3540
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_Menu::~SVC_Menu()
+1	SVC_Menu::~SVC_Menu()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_Menu::Process(void)
+5	SVC_Menu::ReadFromBuffer(bf_read &)
+6	SVC_Menu::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_Menu::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	SVC_Menu::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_Menu::ToString(void)const

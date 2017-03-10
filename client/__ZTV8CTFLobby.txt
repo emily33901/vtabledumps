@@ -1,0 +1,29 @@
+// `vtable for'CTFLobby
+// Auto reconstructed from vtable block @ 0x00E56D20
+// from "client.dylib", by ida_vtables.idc
+0	CTFLobby::~CTFLobby()
+1	CTFLobby::~CTFLobby()
+2	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::GetTypeID(void)const
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+4	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+5	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+6	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+7	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+8	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+9	CTFLobby::BShouldDeleteByCache(void)const
+10	GCSDK::CSharedObject::GetDebugString(void)const
+11	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::GetPObject(void)
+12	CTFLobby::GetGroupID(void)const
+13	CTFLobby::GetNumMembers(void)const
+14	CTFLobby::GetMember(int)const
+15	CTFLobby::GetMemberIndexBySteamID(CSteamID const&)const
+16	CTFLobby::GetMemberDetails(int)const
+17	CTFLobby::GetNumLeftMembers(void)const
+18	CTFLobby::GetLeftMemberDetails(int)const
+19	CTFLobby::GetSharedObject(void)
+20	CTFLobby::SpewDebug(void)
+21	CTFLobby::GetLeader(void)const
+22	CTFLobby::GetNumPendingInvites(void)const
+23	CTFLobby::GetPendingInvite(int)const
+24	CTFLobby::GetPendingInviteIndexBySteamID(CSteamID const&)const
+25	CTFLobby::AllowInvites(void)const

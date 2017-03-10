@@ -1,0 +1,12 @@
+// `vtable for'CNetworkStringTableContainer
+// Auto reconstructed from vtable block @ 0x004E9190
+// from "engine.dylib", by ida_vtables.idc
+0	CNetworkStringTableContainer::~CNetworkStringTableContainer()
+1	CNetworkStringTableContainer::~CNetworkStringTableContainer()
+2	CNetworkStringTableContainer::CreateStringTable(char const*,int,int,int)
+3	CNetworkStringTableContainer::RemoveAllTables(void)
+4	CNetworkStringTableContainer::FindTable(char const*)const
+5	CNetworkStringTableContainer::GetTable(int)const
+6	CNetworkStringTableContainer::GetNumTables(void)const
+7	CNetworkStringTableContainer::CreateStringTableEx(char const*,int,int,int,bool)
+8	CNetworkStringTableContainer::SetAllowClientSideAddString(INetworkStringTable *,bool)

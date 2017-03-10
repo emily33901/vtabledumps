@@ -1,0 +1,4 @@
+// `vtable for'ITargetIDProvidesHint
+// Auto reconstructed from vtable block @ 0x010DCA4C
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual

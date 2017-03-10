@@ -1,0 +1,25 @@
+// `vtable for'CHudDemomanChargeMeter
+// Auto reconstructed from vtable block @ 0x00F65A90
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudDemomanChargeMeter
+1	CHudDemomanChargeMeter::~CHudDemomanChargeMeter()
+2	CHudDemomanChargeMeter::~CHudDemomanChargeMeter()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudDemomanChargeMeter::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudDemomanChargeMeter::GetMessageMap(void)
+18	CHudDemomanChargeMeter::GetAnimMap(void)
+19	CHudDemomanChargeMeter::GetKBMap(void)
+20	CHudDemomanChargeMeter::ApplySchemeSettings(vgui::IScheme *)
+21	CHudDemomanChargeMeter::OnTick(void)

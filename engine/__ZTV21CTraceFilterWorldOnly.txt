@@ -1,0 +1,5 @@
+// `vtable for'CTraceFilterWorldOnly
+// Auto reconstructed from vtable block @ 0x0051D714
+// from "engine.dylib", by ida_vtables.idc
+0	CTraceFilterWorldOnly::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilterWorldOnly::GetTraceType(void)const

@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_CreateIdentityResponse>
+// Auto reconstructed from vtable block @ 0x010E8CB0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_CreateIdentityResponse>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_CreateIdentityResponse>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_CreateIdentityResponse>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_CreateIdentityResponse>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_CreateIdentityResponse>::InternalFree(google::protobuf::Message *)

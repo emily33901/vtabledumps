@@ -1,0 +1,14 @@
+// `vtable for'CPotteryWheelManip
+// Auto reconstructed from vtable block @ 0x01042A30
+// from "client.dylib", by ida_vtables.idc
+0	CPotteryWheelManip::~CPotteryWheelManip()
+1	CPotteryWheelManip::~CPotteryWheelManip()
+2	CPotteryWheelManip::OnBeginManipulation(void)
+3	CPotteryWheelManip::OnAcceptManipulation(void)
+4	CPotteryWheelManip::OnCancelManipulation(void)
+5	CPotteryWheelManip::OnTick(void)
+6	CPotteryWheelManip::OnCursorMoved(int,int)
+7	CPotteryWheelManip::OnMousePressed(ButtonCode_t,int,int)
+8	CPotteryWheelManip::OnMouseReleased(ButtonCode_t,int,int)
+9	CPotteryWheelManip::OnMouseWheeled(int)
+10	CBaseManipulator::SetViewportSize(int,int)

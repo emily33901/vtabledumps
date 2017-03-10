@@ -1,0 +1,11 @@
+// `vtable for'CGCClient_Duel_Response
+// Auto reconstructed from vtable block @ 0x010E6D80
+// from "client.dylib", by ida_vtables.idc
+0	CGCClient_Duel_Response::~CGCClient_Duel_Response()
+1	CGCClient_Duel_Response::~CGCClient_Duel_Response()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCClient_Duel_Response::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

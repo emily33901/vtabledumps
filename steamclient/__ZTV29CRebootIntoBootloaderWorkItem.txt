@@ -1,0 +1,9 @@
+// `vtable for'CRebootIntoBootloaderWorkItem
+// Auto reconstructed from vtable block @ 0x00F01B60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRebootIntoBootloaderWorkItem::~CRebootIntoBootloaderWorkItem()
+1	CRebootIntoBootloaderWorkItem::~CRebootIntoBootloaderWorkItem()
+2	CRebootIntoBootloaderWorkItem::RunFunc(IControllerAbstraction *)
+3	CRebootIntoBootloaderWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

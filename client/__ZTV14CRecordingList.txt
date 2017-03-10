@@ -1,0 +1,9 @@
+// `vtable for'CRecordingList
+// Auto reconstructed from vtable block @ 0x00E9E080
+// from "client.dylib", by ida_vtables.idc
+0	CRecordingList::~CRecordingList()
+1	CRecordingList::~CRecordingList()
+2	CRecordingList::AddToList(CBaseHandle)
+3	CRecordingList::RemoveFromList(CBaseHandle)
+4	CRecordingList::Count(void)
+5	CRecordingList::Get(int)

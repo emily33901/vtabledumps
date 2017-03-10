@@ -1,0 +1,13 @@
+// `vtable for'CP2PJingleWrapper
+// Auto reconstructed from vtable block @ 0x00EF23B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CP2PJingleWrapper::Init(IP2PLocalCandidatesNotify *,char const*,bool)
+1	CP2PJingleWrapper::Shutdown(void)
+2	CP2PJingleWrapper::Think(void)
+3	CP2PJingleWrapper::CreateSocket(eSocketType,char const*,char const*,netadr_t const*,netadr_t const*,unsigned int)
+4	CP2PJingleWrapper::DestroySocket(IP2PSocket *,bool)
+5	CP2PJingleWrapper::GetJingleTime(void)
+6	CP2PJingleWrapper::SetLogFunction(void (*)(int,char const*,...))
+7	CP2PJingleWrapper::SetUseSimulatedUDP(bool)
+8	CP2PJingleWrapper::SetPortTypes(unsigned int)
+9	CP2PJingleWrapper::Validate(CValidator &,char const*)

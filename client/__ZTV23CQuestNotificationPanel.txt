@@ -1,0 +1,26 @@
+// `vtable for'CQuestNotificationPanel
+// Auto reconstructed from vtable block @ 0x00FC8EE0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CQuestNotificationPanel
+1	CQuestNotificationPanel::~CQuestNotificationPanel()
+2	CQuestNotificationPanel::~CQuestNotificationPanel()
+3	CQuestNotificationPanel::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CQuestNotificationPanel::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CQuestNotificationPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CQuestNotificationPanel::GetMessageMap(void)
+18	CQuestNotificationPanel::GetAnimMap(void)
+19	CQuestNotificationPanel::GetKBMap(void)
+20	CQuestNotificationPanel::ApplySchemeSettings(vgui::IScheme *)
+21	CQuestNotificationPanel::PerformLayout(void)
+22	CQuestNotificationPanel::OnThink(void)

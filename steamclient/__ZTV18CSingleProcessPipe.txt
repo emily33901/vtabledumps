@@ -1,0 +1,19 @@
+// `vtable for'CSingleProcessPipe
+// Auto reconstructed from vtable block @ 0x00EC0C70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSingleProcessPipe::~CSingleProcessPipe()
+1	CSingleProcessPipe::~CSingleProcessPipe()
+2	CSingleProcessPipe::BCreatePipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+3	CSingleProcessPipe::BAcceptConnection(IProcessPipe **)
+4	CSingleProcessPipe::BConnectToPipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+5	CSingleProcessPipe::BResetPipeState(void)
+6	CSingleProcessPipe::Shutdown(void)
+7	CSingleProcessPipe::BWrite(CUtlBuffer &,bool)
+8	CSingleProcessPipe::BPeek(unsigned char *)
+9	CSingleProcessPipe::BRead(CUtlBuffer &)
+10	CSingleProcessPipe::BWait(unsigned int,bool)
+11	CSingleProcessPipe::Reset(void)
+12	CSingleProcessPipe::HangupPipe(void)
+13	CSingleProcessPipe::GetRecvSyncObject(void)
+14	CSingleProcessPipe::BIsDisconnected(void)
+15	CSingleProcessPipe::Validate(CValidator &,char const*)

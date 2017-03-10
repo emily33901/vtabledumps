@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::AlgorithmParameters
+// Auto reconstructed from vtable block @ 0x01014F70
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AlgorithmParameters::~AlgorithmParameters()
+1	CryptoPP::AlgorithmParameters::~AlgorithmParameters()
+2	CryptoPP::AlgorithmParameters::GetVoidValue(char const*,std::type_info const&,void *)const

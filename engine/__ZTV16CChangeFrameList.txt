@@ -1,0 +1,10 @@
+// `vtable for'CChangeFrameList
+// Auto reconstructed from vtable block @ 0x0051E9C0
+// from "engine.dylib", by ida_vtables.idc
+0	CChangeFrameList::Release(void)
+1	CChangeFrameList::GetNumProps(void)
+2	CChangeFrameList::SetChangeTick(int const*,int,int)
+3	CChangeFrameList::GetPropsChangedAfterTick(int,int *,int)
+4	CChangeFrameList::Copy(void)
+5	CChangeFrameList::~CChangeFrameList()
+6	CChangeFrameList::~CChangeFrameList()

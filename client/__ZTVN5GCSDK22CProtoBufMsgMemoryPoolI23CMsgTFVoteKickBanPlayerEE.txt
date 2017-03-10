@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgTFVoteKickBanPlayer>
+// Auto reconstructed from vtable block @ 0x01046180
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgTFVoteKickBanPlayer>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgTFVoteKickBanPlayer>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgTFVoteKickBanPlayer>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgTFVoteKickBanPlayer>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgTFVoteKickBanPlayer>::InternalFree(google::protobuf::Message *)

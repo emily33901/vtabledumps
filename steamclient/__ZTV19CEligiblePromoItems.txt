@@ -1,0 +1,4 @@
+// `vtable for'CEligiblePromoItems
+// Auto reconstructed from vtable block @ 0x00EF538C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CEligiblePromoItems::Validate(CValidator &,char const*)

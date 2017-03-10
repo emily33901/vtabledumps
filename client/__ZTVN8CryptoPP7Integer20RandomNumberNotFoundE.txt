@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::Integer::RandomNumberNotFound
+// Auto reconstructed from vtable block @ 0x01017E40
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::Integer::RandomNumberNotFound::~RandomNumberNotFound()
+1	CryptoPP::Integer::RandomNumberNotFound::~RandomNumberNotFound()
+2	CryptoPP::Exception::what(void)const

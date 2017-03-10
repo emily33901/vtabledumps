@@ -1,0 +1,23 @@
+// `vtable for'CMsgKeyUp
+// Auto reconstructed from vtable block @ 0x00ECB100
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgKeyUp::~CMsgKeyUp()
+1	CMsgKeyUp::~CMsgKeyUp()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgKeyUp::New(void)const
+4	CMsgKeyUp::Clear(void)
+5	CMsgKeyUp::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgKeyUp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgKeyUp::ByteSize(void)const
+10	CMsgKeyUp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgKeyUp::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgKeyUp::GetCachedSize(void)const
+13	CMsgKeyUp::CopyFrom(google::protobuf::Message const&)
+14	CMsgKeyUp::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgKeyUp::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgKeyUp::GetMetadata(void)const

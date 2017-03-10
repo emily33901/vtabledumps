@@ -1,0 +1,17 @@
+// `vtable for'CQueuedPacketSender
+// Auto reconstructed from vtable block @ 0x004E9340
+// from "engine.dylib", by ida_vtables.idc
+0	CQueuedPacketSender::~CQueuedPacketSender()
+1	CQueuedPacketSender::~CQueuedPacketSender()
+2	CQueuedPacketSender::Start(unsigned int)
+3	CThread::Init(void)
+4	CQueuedPacketSender::Run(void)
+5	CThread::OnExit(void)
+6	CThread::GetThreadProc(void)
+7	CThread::IsThreadRunning(void)
+8	CQueuedPacketSender::Setup(void)
+9	CQueuedPacketSender::Shutdown(void)
+10	CQueuedPacketSender::IsRunning(void)
+11	CQueuedPacketSender::ClearQueuedPacketsForChannel(INetChannel *)
+12	CQueuedPacketSender::QueuePacket(INetChannel *,int,char const*,int,sockaddr const*,int,unsigned int)
+13	CQueuedPacketSender::HasQueuedPackets(INetChannel const*)const

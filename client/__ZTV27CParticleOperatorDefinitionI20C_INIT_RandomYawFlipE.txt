@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_INIT_RandomYawFlip>
+// Auto reconstructed from vtable block @ 0x01140F30
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_INIT_RandomYawFlip>::GetName(void)const
+1	CParticleOperatorDefinition<C_INIT_RandomYawFlip>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_INIT_RandomYawFlip>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_INIT_RandomYawFlip>::GetId(void)const
+4	CParticleOperatorDefinition<C_INIT_RandomYawFlip>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_INIT_RandomYawFlip>::GetClassSize(void)const

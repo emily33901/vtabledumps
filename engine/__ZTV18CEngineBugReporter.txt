@@ -1,0 +1,8 @@
+// `vtable for'CEngineBugReporter
+// Auto reconstructed from vtable block @ 0x004BA2E0
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineBugReporter::Init(void)
+1	CEngineBugReporter::Shutdown(void)
+2	CEngineBugReporter::InstallBugReportingUI(vgui::Panel *,IEngineBugReporter::BR_TYPE)
+3	CEngineBugReporter::ShouldPause(void)const
+4	CEngineBugReporter::IsVisible(void)const

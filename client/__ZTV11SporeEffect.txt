@@ -1,0 +1,22 @@
+// `vtable for'SporeEffect
+// Auto reconstructed from vtable block @ 0x00EB1A20
+// from "client.dylib", by ida_vtables.idc
+0	SporeEffect::~SporeEffect()
+1	SporeEffect::~SporeEffect()
+2	CParticleEffect::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CParticleEffect::ShouldSimulate(void)const
+5	CParticleEffect::SetShouldSimulate(bool)
+6	CSimpleEmitter::SimulateParticles(CParticleSimulateIterator *)
+7	CSimpleEmitter::RenderParticles(CParticleRenderIterator *)
+8	CParticleEffect::NotifyRemove(void)
+9	CParticleEffect::NotifyDestroyParticle(Particle *)
+10	CParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CParticleEffect::GetEffectName(void)
+13	CParticleEffect::SetParticleCullRadius(float)
+14	SporeEffect::UpdateAlpha(SimpleParticle const*)
+15	CSimpleEmitter::UpdateScale(SimpleParticle const*)
+16	CSimpleEmitter::UpdateRoll(SimpleParticle *,float)
+17	SporeEffect::UpdateVelocity(SimpleParticle *,float)
+18	SporeEffect::UpdateColor(SimpleParticle const*)

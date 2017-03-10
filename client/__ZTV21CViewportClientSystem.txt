@@ -1,0 +1,18 @@
+// `vtable for'CViewportClientSystem
+// Auto reconstructed from vtable block @ 0x0113D4F0
+// from "client.dylib", by ida_vtables.idc
+0	CViewportClientSystem::Name(void)
+1	CViewportClientSystem::Init(void)
+2	CViewportClientSystem::PostInit(void)
+3	CViewportClientSystem::Shutdown(void)
+4	CViewportClientSystem::LevelInitPreEntity(void)
+5	CViewportClientSystem::LevelInitPostEntity(void)
+6	IGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	CViewportClientSystem::LevelShutdownPreEntity(void)
+8	CViewportClientSystem::LevelShutdownPostEntity(void)
+9	CViewportClientSystem::OnSave(void)
+10	CViewportClientSystem::OnRestore(void)
+11	CViewportClientSystem::SafeRemoveIfDesired(void)
+12	CViewportClientSystem::IsPerFrame(void)
+13	CViewportClientSystem::~CViewportClientSystem()
+14	CViewportClientSystem::~CViewportClientSystem()

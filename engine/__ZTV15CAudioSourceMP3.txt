@@ -1,0 +1,38 @@
+// `vtable for'CAudioSourceMP3
+// Auto reconstructed from vtable block @ 0x004B6490
+// from "engine.dylib", by ida_vtables.idc
+0	CAudioSourceMP3::~CAudioSourceMP3()
+1	CAudioSourceMP3::~CAudioSourceMP3()
+2	___cxa_pure_virtual
+3	CAudioSourceMP3::GetType(void)
+4	CAudioSourceMP3::GetCacheData(CAudioSourceCachedInfo *)
+5	___cxa_pure_virtual
+6	CAudioSourceMP3::SampleRate(void)
+7	CAudioSourceMP3::IsVoiceSource(void)
+8	CAudioSourceMP3::SampleSize(void)
+9	CAudioSourceMP3::SampleCount(void)
+10	CAudioSourceMP3::Format(void)
+11	CAudioSourceMP3::DataSize(void)
+12	CAudioSourceMP3::IsLooped(void)
+13	CAudioSourceMP3::IsStereoWav(void)
+14	CAudioSourceMP3::IsStreaming(void)
+15	CAudioSourceMP3::GetCacheStatus(void)
+16	CAudioSourceMP3::CacheLoad(void)
+17	CAudioSourceMP3::CacheUnload(void)
+18	CAudioSourceMP3::GetSentence(void)
+19	CAudioSourceMP3::ZeroCrossingBefore(int)
+20	CAudioSourceMP3::ZeroCrossingAfter(int)
+21	CAudioSourceMP3::ReferenceAdd(CAudioMixer *)
+22	CAudioSourceMP3::ReferenceRemove(CAudioMixer *)
+23	CAudioSourceMP3::CanDelete(void)
+24	___cxa_pure_virtual
+25	CAudioSourceMP3::IsAsyncLoad(void)
+26	CAudioSourceMP3::CheckAudioSourceCache(void)
+27	CAudioSourceMP3::GetFileName(void)
+28	CAudioSourceMP3::SetPlayOnce(bool)
+29	CAudioSourceMP3::IsPlayOnce(void)
+30	CAudioSourceMP3::SetSentenceWord(bool)
+31	CAudioSourceMP3::IsSentenceWord(void)
+32	CAudioSourceMP3::SampleToStreamPosition(int)
+33	CAudioSourceMP3::StreamToSamplePosition(int)
+34	CAudioSourceMP3::SetSentence(CSentence *)

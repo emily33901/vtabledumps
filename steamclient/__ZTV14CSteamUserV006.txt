@@ -1,0 +1,15 @@
+// `vtable for'CSteamUserV006
+// Auto reconstructed from vtable block @ 0x00F0AEB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV006::GetHSteamUser(void)
+1	CSteamUserV006::LogOn(CSteamID)
+2	CSteamUserV006::LogOff(void)
+3	CSteamUserV006::BLoggedOn(void)
+4	CSteamUserV006::GetSteamID(void)
+5	CSteamUserV006::SetRegistryString(EConfigSubTree,char const*,char const*)
+6	CSteamUserV006::GetRegistryString(EConfigSubTree,char const*,char *,int)
+7	CSteamUserV006::SetRegistryInt(EConfigSubTree,char const*,int)
+8	CSteamUserV006::GetRegistryInt(EConfigSubTree,char const*,int *)
+9	CSteamUserV006::InitiateGameConnection(void *,int,CSteamID,CGameID,unsigned int,unsigned short,bool)
+10	CSteamUserV006::TerminateGameConnection(unsigned int,unsigned short)
+11	CSteamUserV006::TrackAppUsageEvent(CGameID,int,char const*)

@@ -1,0 +1,5 @@
+// `vtable for'talk_base::DisposeData<talk_base::AsyncPacketSocket>
+// Auto reconstructed from vtable block @ 0x00F1E8DC
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::DisposeData<talk_base::AsyncPacketSocket>::~DisposeData()
+1	talk_base::DisposeData<talk_base::AsyncPacketSocket>::~DisposeData()

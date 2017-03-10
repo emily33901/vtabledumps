@@ -1,0 +1,11 @@
+// `vtable for'CAboveWaterView::CIntersectionView
+// Auto reconstructed from vtable block @ 0x010116F0
+// from "client.dylib", by ida_vtables.idc
+0	CAboveWaterView::CIntersectionView::~CIntersectionView()
+1	CAboveWaterView::CIntersectionView::~CIntersectionView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CAboveWaterView::CIntersectionView::Draw(void)
+5	CBaseWorldView::AdjustView(float)
+6	CBaseWorldView::PushView(float)
+7	CBaseWorldView::PopView(void)

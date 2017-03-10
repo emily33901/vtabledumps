@@ -1,0 +1,25 @@
+// `vtable for'CTFQuestWeaponTypeRestriction
+// Auto reconstructed from vtable block @ 0x0107D510
+// from "client.dylib", by ida_vtables.idc
+0	CTFQuestWeaponTypeRestriction::~CTFQuestWeaponTypeRestriction()
+1	CTFQuestWeaponTypeRestriction::~CTFQuestWeaponTypeRestriction()
+2	CTFQuestRestriction::GetBaseName(void)const
+3	CTFGenericStringRestriction::GetConditionName(void)const
+4	CTFQuestWeaponTypeRestriction::GetValueString(void)const
+5	CTFQuestWeaponTypeRestriction::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+6	CTFQuestCondition::PrintDebugText(void)const
+7	CTFQuestCondition::GetQuestOwner(void)const
+8	CTFQuestCondition::IsValidForPlayer(C_TFPlayer const*,InvalidReason &)const
+9	CTFQuestCondition::IsOperator(void)const
+10	CTFQuestCondition::IsEvaluator(void)const
+11	CTFQuestCondition::AddChildByName(char const*)
+12	CTFQuestCondition::GetChildren(CUtlVector<CTFQuestCondition*,CUtlMemory<CTFQuestCondition*,int>> &)
+13	CTFQuestCondition::RemoveAndDeleteChild(CTFQuestCondition*)
+14	CTFGenericStringRestriction::GetRequiredParamKeys(KeyValues *)
+15	CTFGenericStringRestriction::GetOutputKeyValues(KeyValues *)
+16	CTFQuestRestriction::GetValidTypes(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+17	CTFQuestRestriction::GetValidChildren(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+18	CTFQuestCondition::GetMaxInputCount(void)const
+19	CTFQuestRestriction::GetEventName(void)const
+20	CTFQuestRestriction::SetEventName(char const*)
+21	CTFQuestWeaponTypeRestriction::PassesRestrictions(IGameEvent *)const

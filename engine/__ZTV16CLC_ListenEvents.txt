@@ -1,0 +1,16 @@
+// `vtable for'CLC_ListenEvents
+// Auto reconstructed from vtable block @ 0x004B3C20
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_ListenEvents::~CLC_ListenEvents()
+1	CLC_ListenEvents::~CLC_ListenEvents()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_ListenEvents::Process(void)
+5	CLC_ListenEvents::ReadFromBuffer(bf_read &)
+6	CLC_ListenEvents::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_ListenEvents::GetType(void)const
+9	CLC_ListenEvents::GetGroup(void)const
+10	CLC_ListenEvents::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_ListenEvents::ToString(void)const

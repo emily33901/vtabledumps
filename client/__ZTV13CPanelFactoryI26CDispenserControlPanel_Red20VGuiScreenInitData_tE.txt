@@ -1,0 +1,4 @@
+// `vtable for'CPanelFactory<CDispenserControlPanel_Red,VGuiScreenInitData_t>
+// Auto reconstructed from vtable block @ 0x010DD240
+// from "client.dylib", by ida_vtables.idc
+0	CPanelFactory<CDispenserControlPanel_Red,VGuiScreenInitData_t>::Create(char const*,KeyValues *,void *,vgui::Panel *)

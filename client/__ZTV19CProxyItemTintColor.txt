@@ -1,0 +1,9 @@
+// `vtable for'CProxyItemTintColor
+// Auto reconstructed from vtable block @ 0x01053AF0
+// from "client.dylib", by ida_vtables.idc
+0	CResultProxy::Init(IMaterial *,KeyValues *)
+1	CProxyItemTintColor::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CProxyItemTintColor::~CProxyItemTintColor()
+5	CProxyItemTintColor::~CProxyItemTintColor()

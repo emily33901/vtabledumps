@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUninstallClientApp
+// Auto reconstructed from vtable block @ 0x00EEA160
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUninstallClientApp::~CMsgClientUninstallClientApp()
+1	CMsgClientUninstallClientApp::~CMsgClientUninstallClientApp()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUninstallClientApp::New(void)const
+4	CMsgClientUninstallClientApp::Clear(void)
+5	CMsgClientUninstallClientApp::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUninstallClientApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUninstallClientApp::ByteSize(void)const
+10	CMsgClientUninstallClientApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUninstallClientApp::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUninstallClientApp::GetCachedSize(void)const
+13	CMsgClientUninstallClientApp::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUninstallClientApp::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUninstallClientApp::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUninstallClientApp::GetMetadata(void)const

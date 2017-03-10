@@ -1,0 +1,10 @@
+// `vtable for'CHTTPResponse
+// Auto reconstructed from vtable block @ 0x00EE60E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPResponse::~CHTTPResponse()
+1	CHTTPResponse::~CHTTPResponse()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CHTTPResponse::SetResponseHeaderValue(char const*,char const*)
+4	CHTTPResponse::SetStatusCode(EHTTPStatusCode)
+5	CHTTPResponse::Clear(void)
+6	CHTTPResponse::Validate(CValidator &,char const*)

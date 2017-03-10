@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGC_Halloween_GrantItem>
+// Auto reconstructed from vtable block @ 0x010E0CB0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_Halloween_GrantItem>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_Halloween_GrantItem>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_Halloween_GrantItem>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_Halloween_GrantItem>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_Halloween_GrantItem>::InternalFree(google::protobuf::Message *)

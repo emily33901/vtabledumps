@@ -1,0 +1,11 @@
+// `vtable for'CGCCoaching_AddToCoachesResponse
+// Auto reconstructed from vtable block @ 0x010E4E20
+// from "client.dylib", by ida_vtables.idc
+0	CGCCoaching_AddToCoachesResponse::~CGCCoaching_AddToCoachesResponse()
+1	CGCCoaching_AddToCoachesResponse::~CGCCoaching_AddToCoachesResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCCoaching_AddToCoachesResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

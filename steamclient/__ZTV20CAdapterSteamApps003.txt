@@ -1,0 +1,11 @@
+// `vtable for'CAdapterSteamApps003
+// Auto reconstructed from vtable block @ 0x00F06E90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamApps003::BIsSubscribed(void)
+1	CAdapterSteamApps003::BIsLowViolence(void)
+2	CAdapterSteamApps003::BIsCybercafe(void)
+3	CAdapterSteamApps003::BIsVACBanned(void)
+4	CAdapterSteamApps003::GetCurrentGameLanguage(void)
+5	CAdapterSteamApps003::GetAvailableGameLanguages(void)
+6	CAdapterSteamApps003::BIsSubscribedApp(unsigned int)
+7	CAdapterSteamApps003::BIsDlcInstalled(unsigned int)

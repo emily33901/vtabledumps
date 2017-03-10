@@ -1,0 +1,8 @@
+// `vtable for'CVoiceServer
+// Auto reconstructed from vtable block @ 0x005359A0
+// from "engine.dylib", by ida_vtables.idc
+0	CVoiceServer::~CVoiceServer()
+1	CVoiceServer::~CVoiceServer()
+2	CVoiceServer::GetClientListening(int,int)
+3	CVoiceServer::SetClientListening(int,int,bool)
+4	CVoiceServer::SetClientProximity(int,int,bool)

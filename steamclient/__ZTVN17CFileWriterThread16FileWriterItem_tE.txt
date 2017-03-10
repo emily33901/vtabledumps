@@ -1,0 +1,4 @@
+// `vtable for'CFileWriterThread::FileWriterItem_t
+// Auto reconstructed from vtable block @ 0x00F27408
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFileWriterThread::FileWriterItem_t::Validate(CValidator &,char const*)

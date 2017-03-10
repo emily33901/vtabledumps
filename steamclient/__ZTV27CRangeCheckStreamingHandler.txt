@@ -1,0 +1,11 @@
+// `vtable for'CRangeCheckStreamingHandler
+// Auto reconstructed from vtable block @ 0x00F131E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRangeCheckStreamingHandler::~CRangeCheckStreamingHandler()
+1	CRangeCheckStreamingHandler::~CRangeCheckStreamingHandler()
+2	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+3	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+4	IHTTPStreamingResponseHandler::OnRequestTransmitted(CHTTPRequestHandle *)
+5	CRangeCheckStreamingHandler::OnHeaderComplete(CHTTPRequestHandle *,KeyValues *)
+6	CRangeCheckStreamingHandler::OnBodyDataReceived(CHTTPRequestHandle *,CUtlBuffer &,unsigned int)
+7	CRangeCheckStreamingHandler::OnRequestComplete(CHTTPRequestHandle *,unsigned int)

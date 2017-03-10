@@ -1,0 +1,6 @@
+// `vtable for'CCallResult<CMapInfoContainer,LeaderboardScoresDownloaded_t>
+// Auto reconstructed from vtable block @ 0x0107A610
+// from "client.dylib", by ida_vtables.idc
+0	CCallResult<CMapInfoContainer,LeaderboardScoresDownloaded_t>::Run(void *)
+1	CCallResult<CMapInfoContainer,LeaderboardScoresDownloaded_t>::Run(void *,bool,unsigned long long)
+2	CCallResult<CMapInfoContainer,LeaderboardScoresDownloaded_t>::GetCallbackSizeBytes(void)

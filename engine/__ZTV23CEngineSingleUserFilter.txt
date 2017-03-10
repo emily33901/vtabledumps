@@ -1,0 +1,10 @@
+// `vtable for'CEngineSingleUserFilter
+// Auto reconstructed from vtable block @ 0x005260B0
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineSingleUserFilter::~CEngineSingleUserFilter()
+1	CEngineSingleUserFilter::~CEngineSingleUserFilter()
+2	CEngineSingleUserFilter::IsReliable(void)const
+3	CEngineSingleUserFilter::IsInitMessage(void)const
+4	CEngineSingleUserFilter::GetRecipientCount(void)const
+5	CEngineSingleUserFilter::GetRecipientIndex(int)const
+6	CEngineSingleUserFilter::IsBroadcastMessage(void)const

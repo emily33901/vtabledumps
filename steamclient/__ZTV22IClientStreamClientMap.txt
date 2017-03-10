@@ -1,0 +1,13 @@
+// `vtable for'IClientStreamClientMap
+// Auto reconstructed from vtable block @ 0x00F0B520
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientStreamClientMap::Launched(CGameID)
+1	IClientStreamClientMap::FocusGained(CGameID,bool)
+2	IClientStreamClientMap::FocusLost(CGameID)
+3	IClientStreamClientMap::Finished(CGameID,EResult)
+4	IClientStreamClientMap::SaveStreamingClientConfig(char const*)
+5	IClientStreamClientMap::GetFocusInfo(CGameID *,unsigned long long *)
+6	IClientStreamClientMap::GetSystemInfo(void)
+7	IClientStreamClientMap::StartStreamingSession(CGameID)
+8	IClientStreamClientMap::ReportStreamingSessionEvent(CGameID,char const*)
+9	IClientStreamClientMap::FinishStreamingSession(CGameID,char const*,char const*)

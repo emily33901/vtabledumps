@@ -1,0 +1,11 @@
+// `vtable for'CRefractiveGlassView
+// Auto reconstructed from vtable block @ 0x01011830
+// from "client.dylib", by ida_vtables.idc
+0	CRefractiveGlassView::~CRefractiveGlassView()
+1	CRefractiveGlassView::~CRefractiveGlassView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CRefractiveGlassView::Draw(void)
+5	CRefractiveGlassView::AdjustView(float)
+6	CRefractiveGlassView::PushView(float)
+7	CRefractiveGlassView::PopView(void)

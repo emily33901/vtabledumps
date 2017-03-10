@@ -1,0 +1,4 @@
+// `vtable for'CFmtStrN<1024,false>
+// Auto reconstructed from vtable block @ 0x010CAE90
+// from "client.dylib", by ida_vtables.idc
+0	CFmtStrN<1024,false>::InitQuietTruncation(void)

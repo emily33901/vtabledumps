@@ -1,0 +1,5 @@
+// `vtable for'CPredictableList
+// Auto reconstructed from vtable block @ 0x00E9E054
+// from "client.dylib", by ida_vtables.idc
+0	CPredictableList::GetPredictable(int)
+1	CPredictableList::GetPredictableCount(void)

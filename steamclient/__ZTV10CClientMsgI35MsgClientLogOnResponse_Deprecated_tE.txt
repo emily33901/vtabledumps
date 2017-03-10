@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientLogOnResponse_Deprecated_t>
+// Auto reconstructed from vtable block @ 0x00F27A6C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientLogOnResponse_Deprecated_t>::~CClientMsg()
+1	CClientMsg<MsgClientLogOnResponse_Deprecated_t>::~CClientMsg()

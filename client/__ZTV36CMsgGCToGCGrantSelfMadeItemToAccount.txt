@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCToGCGrantSelfMadeItemToAccount
+// Auto reconstructed from vtable block @ 0x00E3DF70
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCToGCGrantSelfMadeItemToAccount::~CMsgGCToGCGrantSelfMadeItemToAccount()
+1	CMsgGCToGCGrantSelfMadeItemToAccount::~CMsgGCToGCGrantSelfMadeItemToAccount()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCToGCGrantSelfMadeItemToAccount::New(void)const
+4	CMsgGCToGCGrantSelfMadeItemToAccount::Clear(void)
+5	CMsgGCToGCGrantSelfMadeItemToAccount::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCToGCGrantSelfMadeItemToAccount::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCToGCGrantSelfMadeItemToAccount::ByteSize(void)const
+10	CMsgGCToGCGrantSelfMadeItemToAccount::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCToGCGrantSelfMadeItemToAccount::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCToGCGrantSelfMadeItemToAccount::GetCachedSize(void)const
+13	CMsgGCToGCGrantSelfMadeItemToAccount::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCToGCGrantSelfMadeItemToAccount::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCToGCGrantSelfMadeItemToAccount::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCToGCGrantSelfMadeItemToAccount::GetMetadata(void)const

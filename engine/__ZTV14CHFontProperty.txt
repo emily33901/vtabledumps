@@ -1,0 +1,6 @@
+// `vtable for'CHFontProperty
+// Auto reconstructed from vtable block @ 0x0053F040
+// from "engine.dylib", by ida_vtables.idc
+0	CHFontProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CHFontProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CHFontProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

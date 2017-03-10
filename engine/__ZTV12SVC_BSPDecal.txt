@@ -1,0 +1,16 @@
+// `vtable for'SVC_BSPDecal
+// Auto reconstructed from vtable block @ 0x004B3DE0
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_BSPDecal::~SVC_BSPDecal()
+1	SVC_BSPDecal::~SVC_BSPDecal()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_BSPDecal::Process(void)
+5	SVC_BSPDecal::ReadFromBuffer(bf_read &)
+6	SVC_BSPDecal::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_BSPDecal::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	SVC_BSPDecal::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_BSPDecal::ToString(void)const

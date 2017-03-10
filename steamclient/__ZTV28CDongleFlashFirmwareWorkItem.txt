@@ -1,0 +1,9 @@
+// `vtable for'CDongleFlashFirmwareWorkItem
+// Auto reconstructed from vtable block @ 0x00F01CE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDongleFlashFirmwareWorkItem::~CDongleFlashFirmwareWorkItem()
+1	CDongleFlashFirmwareWorkItem::~CDongleFlashFirmwareWorkItem()
+2	CDongleFlashFirmwareWorkItem::RunFunc(IControllerAbstraction *)
+3	CDongleFlashFirmwareWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

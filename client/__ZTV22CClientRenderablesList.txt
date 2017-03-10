@@ -1,0 +1,6 @@
+// `vtable for'CClientRenderablesList
+// Auto reconstructed from vtable block @ 0x0113D930
+// from "client.dylib", by ida_vtables.idc
+0	CClientRenderablesList::~CClientRenderablesList()
+1	CClientRenderablesList::~CClientRenderablesList()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)

@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<unsigned int (*)(sp_playlist *)>
+// Auto reconstructed from vtable block @ 0x00F0DBB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<unsigned int (*)(sp_playlist *)>::Init(CSysModule *)
+1	CDynamicFunc<unsigned int (*)(sp_playlist *)>::Release(void)
+2	CDynamicFunc<unsigned int (*)(sp_playlist *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<unsigned int (*)(sp_playlist *)>::GetNextPointer(void)

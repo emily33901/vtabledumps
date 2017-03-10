@@ -1,0 +1,4 @@
+// `vtable for'CHTTPRequestParam
+// Auto reconstructed from vtable block @ 0x00F27754
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPRequestParam::Validate(CValidator &,char const*)

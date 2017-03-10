@@ -1,0 +1,11 @@
+// `vtable for'cricket::StunPort
+// Auto reconstructed from vtable block @ 0x00ED67E8
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::StunPort::~StunPort()
+1	cricket::StunPort::~StunPort()
+2	cricket::UDPPort::OnMessage(talk_base::Message *)
+3	cricket::StunPort::PrepareAddress(void)
+4	cricket::UDPPort::CreateConnection(cricket::Candidate const&,cricket::Port::CandidateOrigin)
+5	cricket::StunPort::SendTo(void const*,unsigned long,talk_base::SocketAddress const&,bool)
+6	cricket::StunPort::SetOption(talk_base::Socket::Option,int)
+7	cricket::StunPort::GetError(void)

@@ -1,0 +1,14 @@
+// `vtable for'CDedicatedServerAPI
+// Auto reconstructed from vtable block @ 0x004EE120
+// from "engine.dylib", by ida_vtables.idc
+0	CDedicatedServerAPI::Connect(void * (*)(char const*,int *))
+1	CDedicatedServerAPI::Disconnect(void)
+2	CDedicatedServerAPI::QueryInterface(char const*)
+3	CTier2AppSystem<IDedicatedServerAPI,0>::Init(void)
+4	CTier2AppSystem<IDedicatedServerAPI,0>::Shutdown(void)
+5	CDedicatedServerAPI::ModInit(ModInfo_t &)
+6	CDedicatedServerAPI::ModShutdown(void)
+7	CDedicatedServerAPI::RunFrame(void)
+8	CDedicatedServerAPI::AddConsoleText(char *)
+9	CDedicatedServerAPI::UpdateStatus(float *,int *,int *,char *,int)
+10	CDedicatedServerAPI::UpdateHostname(char *,int)

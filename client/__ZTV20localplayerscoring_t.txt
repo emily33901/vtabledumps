@@ -1,0 +1,5 @@
+// `vtable for'localplayerscoring_t
+// Auto reconstructed from vtable block @ 0x0107CA14
+// from "client.dylib", by ida_vtables.idc
+0	localplayerscoring_t::NetworkStateChanged(void)
+1	localplayerscoring_t::NetworkStateChanged(void *)

@@ -1,0 +1,10 @@
+// `vtable for'CEp1IntroVortRefractMaterialProxy
+// Auto reconstructed from vtable block @ 0x010BCCD0
+// from "client.dylib", by ida_vtables.idc
+0	CEp1IntroVortRefractMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CEp1IntroVortRefractMaterialProxy::GetMaterial(void)
+4	CEp1IntroVortRefractMaterialProxy::~CEp1IntroVortRefractMaterialProxy()
+5	CEp1IntroVortRefractMaterialProxy::~CEp1IntroVortRefractMaterialProxy()
+6	CEp1IntroVortRefractMaterialProxy::OnBind(C_BaseEntity *)

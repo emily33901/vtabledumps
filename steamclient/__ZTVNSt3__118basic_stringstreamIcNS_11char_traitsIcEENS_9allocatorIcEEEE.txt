@@ -1,0 +1,3 @@
+// `vtable for'std::__1::basic_stringstream<char,std::__1::char_traits<char>,std::__1::allocator<char>>
+// Auto reconstructed from vtable block @ 0x00F1F460
+// from "steamclient.dylib", by ida_vtables.idc

@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<void const* (*)(sp_image *,unsigned long *)>
+// Auto reconstructed from vtable block @ 0x00F0E0F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<void const* (*)(sp_image *,unsigned long *)>::Init(CSysModule *)
+1	CDynamicFunc<void const* (*)(sp_image *,unsigned long *)>::Release(void)
+2	CDynamicFunc<void const* (*)(sp_image *,unsigned long *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<void const* (*)(sp_image *,unsigned long *)>::GetNextPointer(void)

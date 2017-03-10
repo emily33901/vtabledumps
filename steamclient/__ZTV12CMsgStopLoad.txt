@@ -1,0 +1,23 @@
+// `vtable for'CMsgStopLoad
+// Auto reconstructed from vtable block @ 0x00ECB7C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgStopLoad::~CMsgStopLoad()
+1	CMsgStopLoad::~CMsgStopLoad()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgStopLoad::New(void)const
+4	CMsgStopLoad::Clear(void)
+5	CMsgStopLoad::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgStopLoad::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgStopLoad::ByteSize(void)const
+10	CMsgStopLoad::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgStopLoad::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgStopLoad::GetCachedSize(void)const
+13	CMsgStopLoad::CopyFrom(google::protobuf::Message const&)
+14	CMsgStopLoad::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgStopLoad::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgStopLoad::GetMetadata(void)const

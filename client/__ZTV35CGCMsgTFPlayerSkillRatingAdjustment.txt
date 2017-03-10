@@ -1,0 +1,23 @@
+// `vtable for'CGCMsgTFPlayerSkillRatingAdjustment
+// Auto reconstructed from vtable block @ 0x00E537C0
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsgTFPlayerSkillRatingAdjustment::~CGCMsgTFPlayerSkillRatingAdjustment()
+1	CGCMsgTFPlayerSkillRatingAdjustment::~CGCMsgTFPlayerSkillRatingAdjustment()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsgTFPlayerSkillRatingAdjustment::New(void)const
+4	CGCMsgTFPlayerSkillRatingAdjustment::Clear(void)
+5	CGCMsgTFPlayerSkillRatingAdjustment::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsgTFPlayerSkillRatingAdjustment::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsgTFPlayerSkillRatingAdjustment::ByteSize(void)const
+10	CGCMsgTFPlayerSkillRatingAdjustment::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsgTFPlayerSkillRatingAdjustment::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsgTFPlayerSkillRatingAdjustment::GetCachedSize(void)const
+13	CGCMsgTFPlayerSkillRatingAdjustment::CopyFrom(google::protobuf::Message const&)
+14	CGCMsgTFPlayerSkillRatingAdjustment::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsgTFPlayerSkillRatingAdjustment::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsgTFPlayerSkillRatingAdjustment::GetMetadata(void)const

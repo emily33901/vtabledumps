@@ -1,0 +1,12 @@
+// `vtable for'CWorkItemThreadedGetCachedResponse
+// Auto reconstructed from vtable block @ 0x00F278D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemThreadedGetCachedResponse::~CWorkItemThreadedGetCachedResponse()
+1	CWorkItemThreadedGetCachedResponse::~CWorkItemThreadedGetCachedResponse()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CWorkItemThreadedGetCachedResponse::GetWorkItemName(void)const
+4	CWorkItemThreadedGetCachedResponse::GetThreadProcessName(void)const
+5	CWorkItemThreadedGetCachedResponse::ThreadProcess(CWorkThread *)
+6	CWorkItemThreadedGetCachedResponse::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItemThreadedGetCachedResponse::Validate(CValidator &,char const*)
+8	CWorkItemThreadedGetCachedResponse::HandleCacheReadCompletion(void)

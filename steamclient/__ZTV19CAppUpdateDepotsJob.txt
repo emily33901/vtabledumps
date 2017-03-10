@@ -1,0 +1,27 @@
+// `vtable for'CAppUpdateDepotsJob
+// Auto reconstructed from vtable block @ 0x00ECF3A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAppUpdateDepotsJob::~CAppUpdateDepotsJob()
+1	CAppUpdateDepotsJob::~CAppUpdateDepotsJob()
+2	CBaseClientJob::GetServerType(void)
+3	CAppUpdateDepotsJob::Validate(CValidator &,char const*)
+4	CJob::TEST_BIsLongRunning(void)
+5	CJob::MsgTraceReportJobBlocking(char const*)
+6	CJob::MsgTraceReportJobUnblocking(void)
+7	CJob::DescribeWork(CUtlStringBuilder &)
+8	CClientJob::BYieldingRunJob(void *)
+9	CClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+10	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+11	CJob::MsgTraceReportJobStarted(void)
+12	CJob::MsgTraceReportJobFinished(void)
+13	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+14	CAppUpdateDepotsJob::BYieldingRunClientJob(void)
+15	CAppUpdateDepotsJob::BIsCancelled(void)
+16	CAppUpdateDepotsJob::BIsSuspendedByUser(void)const
+17	CAppUpdateDepotsJob::CancelUpdateJob(EAppUpdateError,char const*,char const*)
+18	CAppUpdateDepotsJob::GetUpdateState(AppUpdateInfo_s *)
+19	CAppUpdateDepotsJob::AddToIOCacheUsage(unsigned int)
+20	CAppUpdateDepotsJob::RemoveFromIOCacheUsage(unsigned int)
+21	CAppUpdateDepotsJob::GetIOCacheAvailable(void)const
+22	CAppUpdateDepotsJob::GetUser(void)
+23	CAppUpdateDepotsJob::GetAppID(void)const

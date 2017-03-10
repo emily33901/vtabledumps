@@ -1,0 +1,8 @@
+// `vtable for'google::protobuf::io::ZeroCopyOutputStream
+// Auto reconstructed from vtable block @ 0x01019160
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::io::ZeroCopyOutputStream::~ZeroCopyOutputStream()
+1	google::protobuf::io::ZeroCopyOutputStream::~ZeroCopyOutputStream()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual

@@ -1,0 +1,23 @@
+// `vtable for'CHIDMessageToRemote_DeviceRead
+// Auto reconstructed from vtable block @ 0x00EC50B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageToRemote_DeviceRead::~CHIDMessageToRemote_DeviceRead()
+1	CHIDMessageToRemote_DeviceRead::~CHIDMessageToRemote_DeviceRead()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CHIDMessageToRemote_DeviceRead::New(void)const
+4	CHIDMessageToRemote_DeviceRead::Clear(void)
+5	CHIDMessageToRemote_DeviceRead::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CHIDMessageToRemote_DeviceRead::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CHIDMessageToRemote_DeviceRead::ByteSize(void)const
+10	CHIDMessageToRemote_DeviceRead::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CHIDMessageToRemote_DeviceRead::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CHIDMessageToRemote_DeviceRead::GetCachedSize(void)const
+13	CHIDMessageToRemote_DeviceRead::CopyFrom(google::protobuf::Message const&)
+14	CHIDMessageToRemote_DeviceRead::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CHIDMessageToRemote_DeviceRead::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CHIDMessageToRemote_DeviceRead::GetMetadata(void)const

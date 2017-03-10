@@ -1,0 +1,9 @@
+// `vtable for'CBroadcastRecipientFilter
+// Auto reconstructed from vtable block @ 0x0104B880
+// from "client.dylib", by ida_vtables.idc
+0	CBroadcastRecipientFilter::~CBroadcastRecipientFilter()
+1	CBroadcastRecipientFilter::~CBroadcastRecipientFilter()
+2	C_RecipientFilter::IsReliable(void)const
+3	C_RecipientFilter::IsInitMessage(void)const
+4	C_RecipientFilter::GetRecipientCount(void)const
+5	C_RecipientFilter::GetRecipientIndex(int)const

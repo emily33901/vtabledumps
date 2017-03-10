@@ -1,0 +1,9 @@
+// `vtable for'CTextureTransformProxy
+// Auto reconstructed from vtable block @ 0x00F12EE0
+// from "client.dylib", by ida_vtables.idc
+0	CTextureTransformProxy::Init(IMaterial *,KeyValues *)
+1	CTextureTransformProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CTextureTransformProxy::~CTextureTransformProxy()
+5	CTextureTransformProxy::~CTextureTransformProxy()

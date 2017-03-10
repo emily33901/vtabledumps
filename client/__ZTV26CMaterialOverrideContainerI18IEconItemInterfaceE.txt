@@ -1,0 +1,27 @@
+// `vtable for'CMaterialOverrideContainer<IEconItemInterface>
+// Auto reconstructed from vtable block @ 0x0104EC30
+// from "client.dylib", by ida_vtables.idc
+0	CMaterialOverrideContainer<IEconItemInterface>::~CMaterialOverrideContainer()
+1	CMaterialOverrideContainer<IEconItemInterface>::~CMaterialOverrideContainer()
+2	IEconItemInterface::GetCustomPainkKitDefinition(void)const
+3	IEconItemInterface::GetCustomPaintKitWear(float &)const
+4	IEconItemInterface::IsTradable(void)const
+5	IEconItemInterface::GetUntradabilityFlags(void)const
+6	IEconItemInterface::IsCommodity(void)const
+7	IEconItemInterface::IsUsableInCrafting(void)const
+8	IEconItemInterface::IsMarketable(void)const
+9	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	___cxa_pure_virtual
+15	___cxa_pure_virtual
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual
+18	___cxa_pure_virtual
+19	___cxa_pure_virtual
+20	___cxa_pure_virtual
+21	___cxa_pure_virtual
+22	IEconItemInterface::GetItemDefIndex(void)const
+23	CMaterialOverrideContainer<IEconItemInterface>::GetMaterialOverride(int)

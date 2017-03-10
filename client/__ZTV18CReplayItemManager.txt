@@ -1,0 +1,10 @@
+// `vtable for'CReplayItemManager
+// Auto reconstructed from vtable block @ 0x010CEAE0
+// from "client.dylib", by ida_vtables.idc
+0	CReplayItemManager::~CReplayItemManager()
+1	CReplayItemManager::~CReplayItemManager()
+2	CReplayItemManager::GetItemCount(void)
+3	CReplayItemManager::GetItems(CUtlLinkedList<IQueryableReplayItem *,int,false,int,CUtlMemory<UtlLinkedListElem_t<IQueryableReplayItem *,int>,int>> &)
+4	CReplayItemManager::GetItem(int)
+5	CReplayItemManager::AreItemsMovies(void)
+6	CReplayItemManager::DeleteItem(vgui::Panel *,int,bool)

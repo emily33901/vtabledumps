@@ -1,0 +1,6 @@
+// `vtable for'CVirtualTerrain
+// Auto reconstructed from vtable block @ 0x00524850
+// from "engine.dylib", by ida_vtables.idc
+0	CVirtualTerrain::GetVirtualMesh(void *,virtualmeshlist_t *)
+1	CVirtualTerrain::GetWorldspaceBounds(void *,Vector *,Vector *)
+2	CVirtualTerrain::GetTrianglesInSphere(void *,Vector const&,float,virtualmeshtrianglelist_t *)

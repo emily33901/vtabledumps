@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgLookupMultipleAccountNamesResponse>
+// Auto reconstructed from vtable block @ 0x0104F1D0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgLookupMultipleAccountNamesResponse>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgLookupMultipleAccountNamesResponse>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgLookupMultipleAccountNamesResponse>::GetGenericBody(void)const

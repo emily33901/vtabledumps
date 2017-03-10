@@ -1,0 +1,8 @@
+// `vtable for'CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t,CUtlMemory<SaveRestoreBlockHeader_t,int>>,10>
+// Auto reconstructed from vtable block @ 0x01056570
+// from "client.dylib", by ida_vtables.idc
+0	CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t,CUtlMemory<SaveRestoreBlockHeader_t,int>>,10>::Save(SaveRestoreFieldInfo_t const&,ISave *)
+1	CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t,CUtlMemory<SaveRestoreBlockHeader_t,int>>,10>::Restore(SaveRestoreFieldInfo_t const&,IRestore *)
+2	CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t,CUtlMemory<SaveRestoreBlockHeader_t,int>>,10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+3	CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t,CUtlMemory<SaveRestoreBlockHeader_t,int>>,10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+4	CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&,char const*)

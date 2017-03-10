@@ -1,0 +1,26 @@
+// `vtable for'CHudVoiceStatus
+// Auto reconstructed from vtable block @ 0x00F11670
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudVoiceStatus
+1	CHudVoiceStatus::~CHudVoiceStatus()
+2	CHudVoiceStatus::~CHudVoiceStatus()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudVoiceStatus::Init(void)
+5	CHudVoiceStatus::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudVoiceStatus::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudVoiceStatus::GetMessageMap(void)
+18	CHudVoiceStatus::GetAnimMap(void)
+19	CHudVoiceStatus::GetKBMap(void)
+20	CHudVoiceStatus::Paint(void)
+21	CHudVoiceStatus::OnThink(void)
+22	CHudVoiceStatus::ApplySchemeSettings(vgui::IScheme *)

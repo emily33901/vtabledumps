@@ -1,0 +1,4 @@
+// `vtable for'CTouchLinks
+// Auto reconstructed from vtable block @ 0x00535A20
+// from "engine.dylib", by ida_vtables.idc
+0	CTouchLinks::EnumElement(IHandleEntity *)

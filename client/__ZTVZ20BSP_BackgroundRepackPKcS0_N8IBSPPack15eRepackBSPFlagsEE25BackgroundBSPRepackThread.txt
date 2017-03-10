@@ -1,0 +1,13 @@
+// `vtable for'BSP_BackgroundRepack(char const*,char const*,IBSPPack::eRepackBSPFlags)::BackgroundBSPRepackThread
+// Auto reconstructed from vtable block @ 0x00E33A40
+// from "client.dylib", by ida_vtables.idc
+0	BSP_BackgroundRepack(char const*,char const*,IBSPPack::eRepackBSPFlags)::BackgroundBSPRepackThread::~BackgroundBSPRepackThread()
+1	BSP_BackgroundRepack(char const*,char const*,IBSPPack::eRepackBSPFlags)::BackgroundBSPRepackThread::~BackgroundBSPRepackThread()
+2	CThread::Start(unsigned int)
+3	CThread::Init(void)
+4	BSP_BackgroundRepack(char const*,char const*,IBSPPack::eRepackBSPFlags)::BackgroundBSPRepackThread::Run(void)
+5	CThread::OnExit(void)
+6	CThread::GetThreadProc(void)
+7	CThread::IsThreadRunning(void)
+8	BSP_BackgroundRepack(char const*,char const*,IBSPPack::eRepackBSPFlags)::BackgroundBSPRepackThread::Name(void)
+9	BSP_BackgroundRepack(char const*,char const*,IBSPPack::eRepackBSPFlags)::BackgroundBSPRepackThread::Update(float)

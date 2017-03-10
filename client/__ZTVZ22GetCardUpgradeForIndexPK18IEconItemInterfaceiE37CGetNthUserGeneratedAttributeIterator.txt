@@ -1,0 +1,13 @@
+// `vtable for'GetCardUpgradeForIndex(IEconItemInterface const*,int)::CGetNthUserGeneratedAttributeIterator
+// Auto reconstructed from vtable block @ 0x00E3E7A0
+// from "client.dylib", by ida_vtables.idc
+0	GetCardUpgradeForIndex(IEconItemInterface const*,int)::CGetNthUserGeneratedAttributeIterator::~CGetNthUserGeneratedAttributeIterator()
+1	GetCardUpgradeForIndex(IEconItemInterface const*,int)::CGetNthUserGeneratedAttributeIterator::~CGetNthUserGeneratedAttributeIterator()
+2	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned int)
+3	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,float)
+4	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned long long const&)
+5	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_String const&)
+6	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_DynamicRecipeComponent const&)
+7	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_ItemSlotCriteria const&)
+8	IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_WorldItemPlacement const&)
+9	GetCardUpgradeForIndex(IEconItemInterface const*,int)::CGetNthUserGeneratedAttributeIterator::OnIterateAttributeValueUntyped(CEconItemAttributeDefinition const*)

@@ -1,0 +1,11 @@
+// `vtable for'CItemSelectionCriteria::CCondition
+// Auto reconstructed from vtable block @ 0x00E408C0
+// from "client.dylib", by ida_vtables.idc
+0	CItemSelectionCriteria::CCondition::~CCondition()
+1	CItemSelectionCriteria::CCondition::~CCondition()
+2	CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*)const
+3	CItemSelectionCriteria::CCondition::GetEOp(void)const
+4	CItemSelectionCriteria::CCondition::GetField(void)const
+5	CItemSelectionCriteria::CCondition::GetValue(void)const
+6	CItemSelectionCriteria::CCondition::BSerializeToMsg(CSOItemCriteriaCondition &)const
+7	___cxa_pure_virtual

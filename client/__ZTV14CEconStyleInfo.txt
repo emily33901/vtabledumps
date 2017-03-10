@@ -1,0 +1,7 @@
+// `vtable for'CEconStyleInfo
+// Auto reconstructed from vtable block @ 0x00E3ECD0
+// from "client.dylib", by ida_vtables.idc
+0	CEconStyleInfo::~CEconStyleInfo()
+1	CEconStyleInfo::~CEconStyleInfo()
+2	CEconStyleInfo::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+3	CEconStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*,CUtlMemory<char const*,int>> *)const

@@ -1,0 +1,15 @@
+// `vtable for'CryptoPP::NonblockingRng
+// Auto reconstructed from vtable block @ 0x010173A0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::NonblockingRng::~NonblockingRng()
+1	CryptoPP::NonblockingRng::~NonblockingRng()
+2	CryptoPP::Clonable::Clone(void)const
+3	CryptoPP::Algorithm::AlgorithmName(void)const
+4	CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*,unsigned long)
+5	CryptoPP::RandomNumberGenerator::CanIncorporateEntropy(void)const
+6	CryptoPP::RandomNumberGenerator::GenerateByte(void)
+7	CryptoPP::RandomNumberGenerator::GenerateBit(void)
+8	CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int,unsigned int)
+9	CryptoPP::NonblockingRng::GenerateBlock(unsigned char *,unsigned long)
+10	CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned long)
+11	CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation &,std::string const&,unsigned long long)

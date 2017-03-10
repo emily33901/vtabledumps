@@ -1,0 +1,26 @@
+// `vtable for'CHudWeapon
+// Auto reconstructed from vtable block @ 0x00F12140
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudWeapon
+1	CHudWeapon::~CHudWeapon()
+2	CHudWeapon::~CHudWeapon()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudElement::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudWeapon::GetMessageMap(void)
+18	CHudWeapon::GetAnimMap(void)
+19	CHudWeapon::GetKBMap(void)
+20	CHudWeapon::ApplySchemeSettings(vgui::IScheme *)
+21	CHudWeapon::Paint(void)
+22	CHudWeapon::PerformLayout(void)

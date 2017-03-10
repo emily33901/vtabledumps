@@ -1,0 +1,23 @@
+// `vtable for'CGameNotifications_UpdateSession_Response
+// Auto reconstructed from vtable block @ 0x00EC45F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGameNotifications_UpdateSession_Response::~CGameNotifications_UpdateSession_Response()
+1	CGameNotifications_UpdateSession_Response::~CGameNotifications_UpdateSession_Response()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGameNotifications_UpdateSession_Response::New(void)const
+4	CGameNotifications_UpdateSession_Response::Clear(void)
+5	CGameNotifications_UpdateSession_Response::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGameNotifications_UpdateSession_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGameNotifications_UpdateSession_Response::ByteSize(void)const
+10	CGameNotifications_UpdateSession_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGameNotifications_UpdateSession_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGameNotifications_UpdateSession_Response::GetCachedSize(void)const
+13	CGameNotifications_UpdateSession_Response::CopyFrom(google::protobuf::Message const&)
+14	CGameNotifications_UpdateSession_Response::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGameNotifications_UpdateSession_Response::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGameNotifications_UpdateSession_Response::GetMetadata(void)const

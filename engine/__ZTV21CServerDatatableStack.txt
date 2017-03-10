@@ -1,0 +1,4 @@
+// `vtable for'CServerDatatableStack
+// Auto reconstructed from vtable block @ 0x00525F54
+// from "engine.dylib", by ida_vtables.idc
+0	CServerDatatableStack::RecurseAndCallProxies(CSendNode *,unsigned char *)

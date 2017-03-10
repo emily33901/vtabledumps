@@ -1,0 +1,7 @@
+// `vtable for'CTraceFilterOnlyNPCsAndPlayer
+// Auto reconstructed from vtable block @ 0x00E94B20
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterOnlyNPCsAndPlayer::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilterOnlyNPCsAndPlayer::GetTraceType(void)const
+2	CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+3	CTraceFilterSimple::SetCollisionGroup(int)

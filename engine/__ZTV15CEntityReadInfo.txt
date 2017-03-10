@@ -1,0 +1,5 @@
+// `vtable for'CEntityReadInfo
+// Auto reconstructed from vtable block @ 0x005243E8
+// from "engine.dylib", by ida_vtables.idc
+0	CEntityReadInfo::~CEntityReadInfo()
+1	CEntityReadInfo::~CEntityReadInfo()

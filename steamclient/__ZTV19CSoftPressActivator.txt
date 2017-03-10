@@ -1,0 +1,39 @@
+// `vtable for'CSoftPressActivator
+// Auto reconstructed from vtable block @ 0x00F02840
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSoftPressActivator::~CSoftPressActivator()
+1	CSoftPressActivator::~CSoftPressActivator()
+2	CSoftPressActivator::Update(SourceState *,IInputGenerator *)
+3	CControllerActivatorImpl::SetBinding(IDigitalBinding const*)
+4	CControllerActivatorImpl::GetBindings(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
+5	CControllerActivatorImpl::GetUISetting(EControllerSetting,int *)const
+6	CControllerActivatorImpl::GetRawSetting(EControllerSetting,int *)const
+7	CControllerActivatorImpl::SetSetting(EControllerSetting,int)
+8	CControllerActivatorImpl::GetSettingUIDefault(EControllerSetting,int *)const
+9	CControllerActivatorImpl::GetSettingRawDefault(EControllerSetting,int *)const
+10	CSoftPressActivator::GetActivatorBindings(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,EControllerModeInput)const
+11	CControllerActivatorImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
+12	CSoftPressActivator::Connect(IInputGenerator *)
+13	CSoftPressActivator::Disconnect(IInputGenerator *,bool)
+14	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
+15	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
+16	CSoftPressActivator::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
+17	CSoftPressActivator::ActivationEvent(IControllerMode *,IInputGenerator *,bool)
+18	CControllerActivatorImpl::RemoveModeShiftBindingsForSource(EControllerSource)
+19	IControllerActivator::IsPaused(void)
+20	CControllerActivatorImpl::SetPaused(bool,int)
+21	CSoftPressActivator::IsPausable(void)
+22	CSoftPressActivator::IsPersistent(void)
+23	CSoftPressActivator::ResetFromPause(void)
+24	CControllerActivatorImpl::ClearEventQueue(void)
+25	CSoftPressActivator::GetAnalogThreshold(void)
+26	CSoftPressActivator::GetInput(void)
+27	CControllerActivatorImpl::GetID(void)
+28	CControllerActivatorImpl::SetHapticLocation(ESteamControllerPad)
+29	CControllerActivatorImpl::GetHapticLocation(void)
+30	CSoftPressActivator::GetActivatorType(void)
+31	CSoftPressActivator::Validate(CValidator &,char const*)
+32	CControllerActivatorImpl::PopulateBinding(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> const&,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &)
+33	CControllerActivatorImpl::SendInputEvent(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IInputGenerator *,bool)
+34	CControllerActivatorImpl::UpdateBinding(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IDigitalBinding const*)
+35	CControllerActivatorImpl::IsModifierKey(BindingAction_t *)

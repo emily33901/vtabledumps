@@ -1,0 +1,19 @@
+// `vtable for'CReplayScreenshot
+// Auto reconstructed from vtable block @ 0x01042440
+// from "client.dylib", by ida_vtables.idc
+0	CReplayScreenshot::~CReplayScreenshot()
+1	CReplayScreenshot::~CReplayScreenshot()
+2	CBaseReplaySerializeable::SetHandle(unsigned int)
+3	CBaseReplaySerializeable::GetHandle(void)const
+4	CReplayScreenshot::Read(KeyValues *)
+5	CReplayScreenshot::Write(KeyValues *)
+6	CReplayScreenshot::GetSubKeyTitle(void)const
+7	CBaseReplaySerializeable::GetFilename(void)const
+8	CReplayScreenshot::GetPath(void)const
+9	CBaseReplaySerializeable::GetFullFilename(void)const
+10	CBaseReplaySerializeable::SetLocked(bool)
+11	CBaseReplaySerializeable::IsLocked(void)const
+12	CBaseReplaySerializeable::OnDelete(void)
+13	CBaseReplaySerializeable::OnUnload(void)
+14	CBaseReplaySerializeable::GetDebugName(void)const
+15	CBaseReplaySerializeable::OnAddedToDirtyList(void)

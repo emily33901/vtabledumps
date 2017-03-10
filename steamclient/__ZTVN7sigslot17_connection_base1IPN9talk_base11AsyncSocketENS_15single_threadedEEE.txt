@@ -1,0 +1,7 @@
+// `vtable for'sigslot::_connection_base1<talk_base::AsyncSocket *,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1E79C
+// from "steamclient.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual

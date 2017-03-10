@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientGCMsgFailed_t>
+// Auto reconstructed from vtable block @ 0x00EF4D40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientGCMsgFailed_t>::~CClientMsg()
+1	CClientMsg<MsgClientGCMsgFailed_t>::~CClientMsg()

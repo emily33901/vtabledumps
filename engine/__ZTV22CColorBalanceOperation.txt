@@ -1,0 +1,13 @@
+// `vtable for'CColorBalanceOperation
+// Auto reconstructed from vtable block @ 0x004D9FA0
+// from "engine.dylib", by ida_vtables.idc
+0	CColorBalanceOperation::Apply(Vector const&,Vector&)
+1	CColorBalanceOperation::Release(void)
+2	CColorBalanceOperation::GetName(void)
+3	CColorBalanceOperation::SetName(char const*)
+4	CColorBalanceOperation::Clone(void)
+5	CColorBalanceOperation::ToolID(void)
+6	CColorBalanceOperation::IsEnabled(void)
+7	CColorBalanceOperation::SetEnabled(bool)
+8	CColorBalanceOperation::SetBlendFactor(float)
+9	CColorBalanceOperation::GetBlendFactor(void)

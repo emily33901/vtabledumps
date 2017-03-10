@@ -1,0 +1,23 @@
+// `vtable for'CBaseGameStats_Driver
+// Auto reconstructed from vtable block @ 0x00E41ED0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CBaseGameStats_Driver::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameStats_Driver::Shutdown(void)
+4	CBaseGameStats_Driver::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameStats_Driver::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameStats_Driver::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameStats_Driver::OnSave(void)
+10	CBaseGameStats_Driver::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CBaseGameStats_Driver::~CBaseGameStats_Driver()
+14	CBaseGameStats_Driver::~CBaseGameStats_Driver()
+15	CBaseGameSystemPerFrame::PreRender(void)
+16	CBaseGameSystemPerFrame::Update(float)
+17	CBaseGameSystemPerFrame::PostRender(void)
+18	CBaseGameStats_Driver::LevelShutdown(void)
+19	CBaseGameStats_Driver::FrameUpdatePostEntityThink(void)

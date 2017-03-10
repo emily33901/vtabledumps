@@ -1,0 +1,25 @@
+// `vtable for'CHudCloseCaption
+// Auto reconstructed from vtable block @ 0x00F0A4C0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudCloseCaption
+1	CHudCloseCaption::~CHudCloseCaption()
+2	CHudCloseCaption::~CHudCloseCaption()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudCloseCaption::LevelInit(void)
+7	CHudCloseCaption::LevelShutdown(void)
+8	CHudCloseCaption::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudElement::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudCloseCaption::GetMessageMap(void)
+18	CHudCloseCaption::GetAnimMap(void)
+19	CHudCloseCaption::GetKBMap(void)
+20	CHudCloseCaption::OnTick(void)
+21	CHudCloseCaption::Paint(void)

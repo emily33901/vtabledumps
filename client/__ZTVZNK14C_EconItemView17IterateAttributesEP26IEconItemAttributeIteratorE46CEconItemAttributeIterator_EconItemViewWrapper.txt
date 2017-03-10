@@ -1,0 +1,12 @@
+// `vtable for'C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)const::CEconItemAttributeIterator_EconItemViewWrapper
+// Auto reconstructed from vtable block @ 0x00E3F500
+// from "client.dylib", by ida_vtables.idc
+0	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::~CEconItemAttributeIterator_EconItemViewWrapper()const
+1	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::~CEconItemAttributeIterator_EconItemViewWrapper()const
+2	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned int)const
+3	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,float)const
+4	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned long long const&)const
+5	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_String const&)const
+6	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_DynamicRecipeComponent const&)const
+7	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_ItemSlotCriteria const&)const
+8	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_WorldItemPlacement const&)const

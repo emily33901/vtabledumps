@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CSteam3Client,GameOverlayActivated_t,false>
+// Auto reconstructed from vtable block @ 0x00524610
+// from "engine.dylib", by ida_vtables.idc
+0	CCallback<CSteam3Client,GameOverlayActivated_t,false>::Run(void *)
+1	CCallbackImpl<1>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<1>::GetCallbackSizeBytes(void)

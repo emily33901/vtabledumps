@@ -1,0 +1,16 @@
+// `vtable for'CRegistry
+// Auto reconstructed from vtable block @ 0x004B62D0
+// from "engine.dylib", by ida_vtables.idc
+0	CRegistry::~CRegistry()
+1	CRegistry::~CRegistry()
+2	CRegistry::Init(char const*)
+3	CRegistry::Shutdown(void)
+4	CRegistry::ReadInt(char const*,int)
+5	CRegistry::WriteInt(char const*,int)
+6	CRegistry::ReadString(char const*,char const*)
+7	CRegistry::WriteString(char const*,char const*)
+8	CRegistry::ReadInt(char const*,char const*,int)
+9	CRegistry::WriteInt(char const*,char const*,int)
+10	CRegistry::ReadString(char const*,char const*,char const*)
+11	CRegistry::WriteString(char const*,char const*,char const*)
+12	CRegistry::DirectInit(char const*)

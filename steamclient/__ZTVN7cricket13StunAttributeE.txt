@@ -1,0 +1,7 @@
+// `vtable for'cricket::StunAttribute
+// Auto reconstructed from vtable block @ 0x00F1E300
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::StunAttribute::~StunAttribute()
+1	cricket::StunAttribute::~StunAttribute()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual

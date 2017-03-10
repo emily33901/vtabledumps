@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGC_GameServer_ResetIdentity>
+// Auto reconstructed from vtable block @ 0x010E8CE0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGC_GameServer_ResetIdentity>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGC_GameServer_ResetIdentity>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGC_GameServer_ResetIdentity>::GetGenericBody(void)const

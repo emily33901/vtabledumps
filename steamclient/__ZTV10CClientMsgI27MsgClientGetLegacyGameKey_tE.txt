@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientGetLegacyGameKey_t>
+// Auto reconstructed from vtable block @ 0x00F0016C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientGetLegacyGameKey_t>::~CClientMsg()
+1	CClientMsg<MsgClientGetLegacyGameKey_t>::~CClientMsg()

@@ -1,0 +1,7 @@
+// `vtable for'ByteReader
+// Auto reconstructed from vtable block @ 0x00F262B4
+// from "steamclient.dylib", by ida_vtables.idc
+0	ByteReader::~ByteReader()
+1	ByteReader::~ByteReader()
+2	ByteReader::read(TagLib::File &,unsigned int)
+3	ByteReader::size(void)const

@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCReportAbuse>
+// Auto reconstructed from vtable block @ 0x01044DA0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCReportAbuse>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCReportAbuse>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCReportAbuse>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCReportAbuse>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCReportAbuse>::InternalFree(google::protobuf::Message *)

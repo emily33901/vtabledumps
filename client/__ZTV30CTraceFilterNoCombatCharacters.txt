@@ -1,0 +1,7 @@
+// `vtable for'CTraceFilterNoCombatCharacters
+// Auto reconstructed from vtable block @ 0x0104ABA0
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterNoCombatCharacters::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const
+2	CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+3	CTraceFilterSimple::SetCollisionGroup(int)

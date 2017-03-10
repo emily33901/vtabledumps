@@ -1,0 +1,21 @@
+// `vtable for'CryptoPP::Rijndael::Base
+// Auto reconstructed from vtable block @ 0x01017880
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::Rijndael::Base::~Base()
+1	CryptoPP::Rijndael::Base::~Base()
+2	CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>::MinKeyLength(void)const
+3	CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>::MaxKeyLength(void)const
+4	CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>::DefaultKeyLength(void)const
+5	CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>::GetValidKeyLength(unsigned long)const
+6	CryptoPP::SimpleKeyingInterface::IsValidKeyLength(unsigned long)const
+7	CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*,unsigned long,CryptoPP::NameValuePairs const&)
+8	CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>::IVRequirement(void)const
+9	CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>::IVSize(void)const
+10	CryptoPP::SimpleKeyingInterface::MinIVLength(void)const
+11	CryptoPP::SimpleKeyingInterface::MaxIVLength(void)const
+12	CryptoPP::SimpleKeyingInterface::Resynchronize(unsigned char const*,int)
+13	CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator &,unsigned char *)
+14	CryptoPP::BlockCipher::GetAlgorithm(void)const
+15	CryptoPP::Rijndael::Base::UncheckedSetKey(unsigned char const*,unsigned int,CryptoPP::NameValuePairs const&)
+16	CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>,CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>>::AlgorithmName(void)const
+17	CryptoPP::BlockCipherImpl<CryptoPP::Rijndael_Info,CryptoPP::BlockCipher>::BlockSize(void)const

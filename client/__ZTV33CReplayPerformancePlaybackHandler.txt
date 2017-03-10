@@ -1,0 +1,11 @@
+// `vtable for'CReplayPerformancePlaybackHandler
+// Auto reconstructed from vtable block @ 0x010C8F00
+// from "client.dylib", by ida_vtables.idc
+0	CReplayPerformancePlaybackHandler::~CReplayPerformancePlaybackHandler()
+1	CReplayPerformancePlaybackHandler::~CReplayPerformancePlaybackHandler()
+2	CReplayPerformancePlaybackHandler::OnEvent_Camera_Change_FirstPerson(float,int)
+3	CReplayPerformancePlaybackHandler::OnEvent_Camera_Change_ThirdPerson(float,int)
+4	CReplayPerformancePlaybackHandler::OnEvent_Camera_Change_Free(float)
+5	CReplayPerformancePlaybackHandler::OnEvent_Camera_ChangePlayer(float,int)
+6	CReplayPerformancePlaybackHandler::OnEvent_Camera_SetView(SetViewParams_t const&)
+7	CReplayPerformancePlaybackHandler::OnEvent_TimeScale(float,float)

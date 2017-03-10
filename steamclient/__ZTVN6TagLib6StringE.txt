@@ -1,0 +1,5 @@
+// `vtable for'TagLib::String
+// Auto reconstructed from vtable block @ 0x00EE3CD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::String::~String()
+1	TagLib::String::~String()

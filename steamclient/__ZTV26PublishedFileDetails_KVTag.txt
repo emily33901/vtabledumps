@@ -1,0 +1,23 @@
+// `vtable for'PublishedFileDetails_KVTag
+// Auto reconstructed from vtable block @ 0x00EC8480
+// from "steamclient.dylib", by ida_vtables.idc
+0	PublishedFileDetails_KVTag::~PublishedFileDetails_KVTag()
+1	PublishedFileDetails_KVTag::~PublishedFileDetails_KVTag()
+2	google::protobuf::Message::GetTypeName(void)const
+3	PublishedFileDetails_KVTag::New(void)const
+4	PublishedFileDetails_KVTag::Clear(void)
+5	PublishedFileDetails_KVTag::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	PublishedFileDetails_KVTag::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	PublishedFileDetails_KVTag::ByteSize(void)const
+10	PublishedFileDetails_KVTag::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	PublishedFileDetails_KVTag::SerializeWithCachedSizesToArray(unsigned char *)const
+12	PublishedFileDetails_KVTag::GetCachedSize(void)const
+13	PublishedFileDetails_KVTag::CopyFrom(google::protobuf::Message const&)
+14	PublishedFileDetails_KVTag::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	PublishedFileDetails_KVTag::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	PublishedFileDetails_KVTag::GetMetadata(void)const

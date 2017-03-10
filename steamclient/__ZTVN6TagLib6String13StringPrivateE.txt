@@ -1,0 +1,5 @@
+// `vtable for'TagLib::String::StringPrivate
+// Auto reconstructed from vtable block @ 0x00F26178
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::String::StringPrivate::~StringPrivate()
+1	TagLib::String::StringPrivate::~StringPrivate()

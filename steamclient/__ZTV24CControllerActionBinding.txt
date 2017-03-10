@@ -1,0 +1,16 @@
+// `vtable for'CControllerActionBinding
+// Auto reconstructed from vtable block @ 0x00ED18D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerActionBinding::~CControllerActionBinding()
+1	CControllerActionBinding::~CControllerActionBinding()
+2	CControllerActionBinding::SendEvent(IInputGenerator *,bool)const
+3	CControllerActionBinding::GetType(void)const
+4	CControllerActionBinding::GetAction(BindingAction_t *)const
+5	CControllerActionBinding::Save(CUtlString &)const
+6	IDigitalBinding::GetPreset(void)const
+7	IDigitalBinding::SetPreset(int)
+8	IDigitalBinding::SetIconData(IconBindingData_t *)
+9	CControllerActionBinding::Disconnect(IInputGenerator *)const
+10	IDigitalBinding::SetActivator(IControllerActivator *)
+11	IDigitalBinding::GetActivator(void)const
+12	IDigitalBinding::Validate(CValidator &,char const*)

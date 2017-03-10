@@ -1,0 +1,9 @@
+// `vtable for'CProxyResistShield
+// Auto reconstructed from vtable block @ 0x010E31D0
+// from "client.dylib", by ida_vtables.idc
+0	CResultProxy::Init(IMaterial *,KeyValues *)
+1	CProxyResistShield::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CProxyResistShield::~CProxyResistShield()
+5	CProxyResistShield::~CProxyResistShield()

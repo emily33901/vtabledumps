@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgCreateOrUpdatePartyReply>
+// Auto reconstructed from vtable block @ 0x01046CB0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgCreateOrUpdatePartyReply>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgCreateOrUpdatePartyReply>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgCreateOrUpdatePartyReply>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgCreateOrUpdatePartyReply>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgCreateOrUpdatePartyReply>::InternalFree(google::protobuf::Message *)

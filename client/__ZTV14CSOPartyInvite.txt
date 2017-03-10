@@ -1,0 +1,23 @@
+// `vtable for'CSOPartyInvite
+// Auto reconstructed from vtable block @ 0x00E396A0
+// from "client.dylib", by ida_vtables.idc
+0	CSOPartyInvite::~CSOPartyInvite()
+1	CSOPartyInvite::~CSOPartyInvite()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CSOPartyInvite::New(void)const
+4	CSOPartyInvite::Clear(void)
+5	CSOPartyInvite::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CSOPartyInvite::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CSOPartyInvite::ByteSize(void)const
+10	CSOPartyInvite::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CSOPartyInvite::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CSOPartyInvite::GetCachedSize(void)const
+13	CSOPartyInvite::CopyFrom(google::protobuf::Message const&)
+14	CSOPartyInvite::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CSOPartyInvite::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CSOPartyInvite::GetMetadata(void)const

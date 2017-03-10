@@ -1,0 +1,8 @@
+// `vtable for'TagLib::Ogg::Opus::File
+// Auto reconstructed from vtable block @ 0x00EE3778
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::Opus::File::~File()
+1	TagLib::Ogg::Opus::File::~File()
+2	TagLib::Ogg::Opus::File::tag(void)const
+3	TagLib::Ogg::Opus::File::audioProperties(void)const
+4	TagLib::Ogg::Opus::File::save(void)

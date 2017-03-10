@@ -1,0 +1,22 @@
+// `vtable for'CSoundEmitterSystem
+// Auto reconstructed from vtable block @ 0x01056A40
+// from "client.dylib", by ida_vtables.idc
+0	CSoundEmitterSystem::Name(void)
+1	CSoundEmitterSystem::Init(void)
+2	CBaseGameSystem::PostInit(void)
+3	CSoundEmitterSystem::Shutdown(void)
+4	CSoundEmitterSystem::LevelInitPreEntity(void)
+5	CSoundEmitterSystem::LevelInitPostEntity(void)
+6	CBaseGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystem::LevelShutdownPreEntity(void)
+8	CSoundEmitterSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystem::OnSave(void)
+10	CBaseGameSystem::OnRestore(void)
+11	CBaseGameSystem::SafeRemoveIfDesired(void)
+12	CBaseGameSystem::IsPerFrame(void)
+13	CSoundEmitterSystem::~CSoundEmitterSystem()
+14	CSoundEmitterSystem::~CSoundEmitterSystem()
+15	CBaseGameSystem::PreRender(void)
+16	CBaseGameSystem::Update(float)
+17	CBaseGameSystem::PostRender(void)
+18	CSoundEmitterSystem::TraceEmitSound(char const*,...)

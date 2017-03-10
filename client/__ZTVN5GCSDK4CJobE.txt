@@ -1,0 +1,16 @@
+// `vtable for'GCSDK::CJob
+// Auto reconstructed from vtable block @ 0x01018EE0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CJob::~CJob()
+1	GCSDK::CJob::~CJob()
+2	GCSDK::CJob::BYieldingRunJob(void *)
+3	GCSDK::CJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CJob::CHeartbeatsBeforeTimeout(void)
+5	aActive_0
+6	aNotStarted
+7	aNetmsg
+8	aSleepForTime
+9	aWaitingForLock
+10	aYielding
+11	aSql
+12	aWorkItem

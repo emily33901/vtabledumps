@@ -1,0 +1,8 @@
+// `vtable for'CWaveDataMemoryAsync
+// Auto reconstructed from vtable block @ 0x004B67C0
+// from "engine.dylib", by ida_vtables.idc
+0	CWaveDataMemoryAsync::~CWaveDataMemoryAsync()
+1	CWaveDataMemoryAsync::~CWaveDataMemoryAsync()
+2	CWaveDataMemoryAsync::Source(void)
+3	CWaveDataMemoryAsync::ReadSourceData(void **,int,int,char *)
+4	CWaveDataMemoryAsync::IsReadyToMix(void)

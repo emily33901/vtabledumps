@@ -1,0 +1,11 @@
+// `vtable for'CGCClientHelloResponse
+// Auto reconstructed from vtable block @ 0x010463F0
+// from "client.dylib", by ida_vtables.idc
+0	CGCClientHelloResponse::~CGCClientHelloResponse()
+1	CGCClientHelloResponse::~CGCClientHelloResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	CGCClientHelloResponse::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

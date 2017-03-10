@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientPlayerNicknameList
+// Auto reconstructed from vtable block @ 0x00EE80C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientPlayerNicknameList::~CMsgClientPlayerNicknameList()
+1	CMsgClientPlayerNicknameList::~CMsgClientPlayerNicknameList()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientPlayerNicknameList::New(void)const
+4	CMsgClientPlayerNicknameList::Clear(void)
+5	CMsgClientPlayerNicknameList::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientPlayerNicknameList::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientPlayerNicknameList::ByteSize(void)const
+10	CMsgClientPlayerNicknameList::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientPlayerNicknameList::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientPlayerNicknameList::GetCachedSize(void)const
+13	CMsgClientPlayerNicknameList::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientPlayerNicknameList::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientPlayerNicknameList::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientPlayerNicknameList::GetMetadata(void)const

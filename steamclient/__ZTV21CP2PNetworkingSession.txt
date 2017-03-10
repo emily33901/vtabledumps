@@ -1,0 +1,6 @@
+// `vtable for'CP2PNetworkingSession
+// Auto reconstructed from vtable block @ 0x00ED2DE8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CP2PNetworkingSession::NotifyLocalCandidate(IP2PSocket *,char const*,char const*,char const*,unsigned short,float,char const*,char const*,char const*,char const*,unsigned int)
+1	CP2PNetworkingSession::OnP2PStateChanged(IP2PSocket *,EP2PState,EP2PState)
+2	aCclientjobp2_0

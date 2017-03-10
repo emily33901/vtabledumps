@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>::InputRejected
+// Auto reconstructed from vtable block @ 0x01016DA0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>::InputRejected::~InputRejected()
+1	CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>::InputRejected::~InputRejected()
+2	CryptoPP::Exception::what(void)const

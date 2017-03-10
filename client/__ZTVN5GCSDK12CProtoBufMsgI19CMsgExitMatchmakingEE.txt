@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgExitMatchmaking>
+// Auto reconstructed from vtable block @ 0x01046D10
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgExitMatchmaking>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgExitMatchmaking>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgExitMatchmaking>::GetGenericBody(void)const

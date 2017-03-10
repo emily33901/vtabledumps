@@ -1,0 +1,29 @@
+// `vtable for'ConVar
+// Auto reconstructed from vtable block @ 0x00EE49B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	ConVar::~ConVar()
+1	ConVar::~ConVar()
+2	ConVar::IsCommand(void)const
+3	ConCommandBase::IsBitSet(unsigned int)const
+4	ConCommandBase::AddFlags(unsigned int)
+5	ConCommandBase::GetFlags(void)const
+6	ConCommandBase::GetTargetType(void)const
+7	ConVar::GetName(void)const
+8	ConVar::GetHelpText(void)const
+9	ConVar::IsRegistered(void)const
+10	ConCommandBase::Create(char const*,char const*,unsigned long long)
+11	ConVar::Init(void)
+12	ConVar::SetValue(char const*)
+13	ConVar::SetValue(float)
+14	ConVar::SetValue(int)
+15	ConVar::OverrideValue(char const*)
+16	ConVar::BReplicated(void)
+17	ConVar::SetReplicated(void)
+18	ConVar::BLocalOverride(void)
+19	ConVar::ApplyReplicatedValue(char const*)
+20	ConVar::InternalSetValue(char const*)
+21	ConVar::InternalSetFloatValue(float)
+22	ConVar::InternalSetIntValue(int)
+23	ConVar::ClampValue(float &)
+24	ConVar::ChangeStringValue(char const*)
+25	ConVar::Create(char const*,char const*,unsigned long long,char const*,bool,float,bool,float,void (*)(ConVar*,char const*))

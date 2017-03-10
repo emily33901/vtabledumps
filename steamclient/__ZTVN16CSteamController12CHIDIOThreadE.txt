@@ -1,0 +1,19 @@
+// `vtable for'CSteamController::CHIDIOThread
+// Auto reconstructed from vtable block @ 0x00ED0730
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamController::CHIDIOThread::~CHIDIOThread()
+1	CSteamController::CHIDIOThread::~CHIDIOThread()
+2	CSteamController::CHIDIOThread::GetNumConnectedControllers(void)
+3	CSteamController::CHIDIOThread::GetAllControllersStatus(ControllersStatus_t &)
+4	CSteamController::CHIDIOThread::GetControllerState(unsigned int,SteamControllerStateInternal_t *)
+5	CSteamController::CHIDIOThread::GetControllerStatusEvent(unsigned int,Voltroller::SteamControllerStatusEvent_t *)
+6	CSteamController::CHIDIOThread::BIsControllerWirelessDongle(unsigned int)
+7	CSteamController::CHIDIOThread::SetDonglePairingMode(bool,int)
+8	CSteamController::CHIDIOThread::SetDonglePairingResult(unsigned int,bool)
+9	CSteamController::CHIDIOThread::TriggerHapticPulse(unsigned int,ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
+10	CSteamController::CHIDIOThread::TriggerVibration(unsigned int,unsigned short,unsigned short)
+11	CSteamController::CHIDIOThread::SetLEDColor(unsigned int,unsigned char,unsigned char,unsigned char,unsigned int)
+12	CSteamController::CHIDIOThread::TurnOffController(unsigned int)
+13	CSteamController::CHIDIOThread::Run(void)
+14	CSteamController::CHIDIOThread::GetDroppedAPIData(CSteamController::ControllerAPIData_t *)
+15	CSteamController::CHIDIOThread::Validate(CValidator &,char const*)

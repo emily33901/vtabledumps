@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgApplyToolToItem>
+// Auto reconstructed from vtable block @ 0x010B4700
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgApplyToolToItem>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgApplyToolToItem>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgApplyToolToItem>::GetGenericBody(void)const

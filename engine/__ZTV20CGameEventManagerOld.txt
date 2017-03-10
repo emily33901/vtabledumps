@@ -1,0 +1,16 @@
+// `vtable for'CGameEventManagerOld
+// Auto reconstructed from vtable block @ 0x004E8070
+// from "engine.dylib", by ida_vtables.idc
+0	CGameEventManagerOld::~CGameEventManagerOld()
+1	CGameEventManagerOld::~CGameEventManagerOld()
+2	CGameEventManagerOld::LoadEventsFromFile(char const*)
+3	CGameEventManagerOld::Reset(void)
+4	CGameEventManagerOld::GetEvent(char const*)
+5	CGameEventManagerOld::AddListener(IGameEventListener *,char const*,bool)
+6	CGameEventManagerOld::AddListener(IGameEventListener *,bool)
+7	CGameEventManagerOld::RemoveListener(IGameEventListener *)
+8	CGameEventManagerOld::FireEvent(KeyValues *)
+9	CGameEventManagerOld::FireEventServerOnly(KeyValues *)
+10	CGameEventManagerOld::FireEventClientOnly(KeyValues *)
+11	CGameEventManagerOld::SerializeKeyValues(KeyValues *,bf_write *,CGameEvent *)
+12	CGameEventManagerOld::UnserializeKeyValue(bf_read *)

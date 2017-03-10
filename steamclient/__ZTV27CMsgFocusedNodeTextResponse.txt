@@ -1,0 +1,23 @@
+// `vtable for'CMsgFocusedNodeTextResponse
+// Auto reconstructed from vtable block @ 0x00ECD500
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgFocusedNodeTextResponse::~CMsgFocusedNodeTextResponse()
+1	CMsgFocusedNodeTextResponse::~CMsgFocusedNodeTextResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgFocusedNodeTextResponse::New(void)const
+4	CMsgFocusedNodeTextResponse::Clear(void)
+5	CMsgFocusedNodeTextResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgFocusedNodeTextResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgFocusedNodeTextResponse::ByteSize(void)const
+10	CMsgFocusedNodeTextResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgFocusedNodeTextResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgFocusedNodeTextResponse::GetCachedSize(void)const
+13	CMsgFocusedNodeTextResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgFocusedNodeTextResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgFocusedNodeTextResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgFocusedNodeTextResponse::GetMetadata(void)const

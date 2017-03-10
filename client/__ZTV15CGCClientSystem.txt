@@ -1,0 +1,27 @@
+// `vtable for'CGCClientSystem
+// Auto reconstructed from vtable block @ 0x00E41FA0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CBaseGameSystemPerFrame::Init(void)
+2	CGCClientSystem::PostInit(void)
+3	CGCClientSystem::Shutdown(void)
+4	CGCClientSystem::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CGCClientSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CGCClientSystem::~CGCClientSystem()
+14	CGCClientSystem::~CGCClientSystem()
+15	CBaseGameSystemPerFrame::PreRender(void)
+16	CGCClientSystem::Update(float)
+17	CBaseGameSystemPerFrame::PostRender(void)
+18	CGCClientSystem::InitGC(void)
+19	CGCClientSystem::PreInitGC(void)
+20	CGCClientSystem::PostInitGC(void)
+21	CGCClientSystem::ReceivedClientWelcome(CMsgClientWelcome const&)
+22	CGCClientSystem::ReceivedClientGoodbye(CMsgClientGoodbye const&)
+23	aCgcclientjob_0

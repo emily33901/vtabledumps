@@ -1,0 +1,11 @@
+// `vtable for'CCenterPrint
+// Auto reconstructed from vtable block @ 0x0100A8A0
+// from "client.dylib", by ida_vtables.idc
+0	CCenterPrint::SetTextColor(int,int,int,int)
+1	CCenterPrint::Print(char *)
+2	CCenterPrint::Print(wchar_t *)
+3	CCenterPrint::ColorPrint(int,int,int,int,char *)
+4	CCenterPrint::ColorPrint(int,int,int,int,wchar_t *)
+5	CCenterPrint::Clear(void)
+6	CCenterPrint::Create(unsigned int)
+7	CCenterPrint::Destroy(void)

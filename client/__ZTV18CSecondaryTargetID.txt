@@ -1,0 +1,30 @@
+// `vtable for'CSecondaryTargetID
+// Auto reconstructed from vtable block @ 0x00FA1110
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CSecondaryTargetID
+1	CSecondaryTargetID::~CSecondaryTargetID()
+2	CSecondaryTargetID::~CSecondaryTargetID()
+3	CTargetID::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CTargetID::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CTargetID::LevelShutdown(void)
+8	CTargetID::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CSecondaryTargetID::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CTargetID::GetRenderGroupPriority(void)
+17	CSecondaryTargetID::GetMessageMap(void)
+18	CSecondaryTargetID::GetAnimMap(void)
+19	CSecondaryTargetID::GetKBMap(void)
+20	CTargetID::PerformLayout(void)
+21	CTargetID::ApplySettings(KeyValues *)
+22	CTargetID::ApplySchemeSettings(vgui::IScheme *)
+23	CSecondaryTargetID::CalculateTargetIndex(C_TFPlayer *)
+24	CSecondaryTargetID::GetPrepend(void)
+25	CSecondaryTargetID::DrawHealthIcon(void)
+26	CTargetID::GetTargetForSteamAvatar(C_TFPlayer *)

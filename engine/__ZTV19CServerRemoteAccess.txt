@@ -1,0 +1,9 @@
+// `vtable for'CServerRemoteAccess
+// Auto reconstructed from vtable block @ 0x004EE030
+// from "engine.dylib", by ida_vtables.idc
+0	CServerRemoteAccess::~CServerRemoteAccess()
+1	CServerRemoteAccess::~CServerRemoteAccess()
+2	CServerRemoteAccess::WriteDataRequest(unsigned int,void const*,int)
+3	CServerRemoteAccess::ReadDataResponse(unsigned int,void *,int)
+4	CServerRemoteAccess::GetNextListenerID(bool,netadr_s const*)
+5	CServerRemoteAccess::RegisterAdminUIID(unsigned int)

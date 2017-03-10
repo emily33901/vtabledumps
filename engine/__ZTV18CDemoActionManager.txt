@@ -1,0 +1,23 @@
+// `vtable for'CDemoActionManager
+// Auto reconstructed from vtable block @ 0x004C8BA0
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionManager::~CDemoActionManager()
+1	CDemoActionManager::~CDemoActionManager()
+2	CDemoActionManager::Init(void)
+3	CDemoActionManager::Shutdown(void)
+4	CDemoActionManager::StartPlaying(char const*)
+5	CDemoActionManager::StopPlaying(void)
+6	CDemoActionManager::Update(bool,int,float)
+7	CDemoActionManager::SaveToBuffer(CUtlBuffer &)
+8	CDemoActionManager::SaveToFile(void)
+9	CDemoActionManager::GetCurrentDemoFile(void)
+10	CDemoActionManager::GetActionCount(void)
+11	CDemoActionManager::GetAction(int)
+12	CDemoActionManager::AddAction(CBaseDemoAction *)
+13	CDemoActionManager::RemoveAction(CBaseDemoAction *)
+14	CDemoActionManager::IsDirty(void)const
+15	CDemoActionManager::SetDirty(bool)
+16	CDemoActionManager::ReloadFromDisk(void)
+17	CDemoActionManager::DispatchEvents(void)
+18	CDemoActionManager::InsertFireEvent(CBaseDemoAction *)
+19	CDemoActionManager::OverrideView(democmdinfo_t &,int)

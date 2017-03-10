@@ -1,0 +1,5 @@
+// `vtable for'CMsg<MsgChannelEncryptResult_t>
+// Auto reconstructed from vtable block @ 0x00F2CF4C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsg<MsgChannelEncryptResult_t>::~CMsg()
+1	CMsg<MsgChannelEncryptResult_t>::~CMsg()

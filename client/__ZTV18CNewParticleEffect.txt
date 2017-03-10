@@ -1,0 +1,27 @@
+// `vtable for'CNewParticleEffect
+// Auto reconstructed from vtable block @ 0x010C6F00
+// from "client.dylib", by ida_vtables.idc
+0	CNewParticleEffect::~CNewParticleEffect()
+1	CNewParticleEffect::~CNewParticleEffect()
+2	CNewParticleEffect::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CNewParticleEffect::ShouldSimulate(void)const
+5	CNewParticleEffect::SetShouldSimulate(bool)
+6	CNewParticleEffect::SimulateParticles(CParticleSimulateIterator *)
+7	CNewParticleEffect::RenderParticles(CParticleRenderIterator *)
+8	CNewParticleEffect::NotifyRemove(void)
+9	IParticleEffect::NotifyDestroyParticle(Particle *)
+10	CNewParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CNewParticleEffect::GetEffectName(void)
+13	CNewParticleEffect::ShouldDraw(void)
+14	CNewParticleEffect::IsTransparent(void)
+15	CNewParticleEffect::IsTwoPass(void)
+16	CNewParticleEffect::UsesPowerOfTwoFrameBufferTexture(void)
+17	CNewParticleEffect::UsesFullFrameBufferTexture(void)
+18	CNewParticleEffect::GetRenderAngles(void)
+19	CNewParticleEffect::RenderableToWorldTransform(void)
+20	CNewParticleEffect::GetRenderBounds(Vector &,Vector &)
+21	CNewParticleEffect::GetRenderOrigin(void)
+22	CNewParticleEffect::DrawModel(int)
+23	CNewParticleEffect::SetParticleCullRadius(float)

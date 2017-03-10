@@ -1,0 +1,4 @@
+// `vtable for'CTriggerMoved
+// Auto reconstructed from vtable block @ 0x00535A3C
+// from "engine.dylib", by ida_vtables.idc
+0	CTriggerMoved::EnumElement(IHandleEntity *)

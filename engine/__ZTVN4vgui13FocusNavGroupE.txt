@@ -1,0 +1,14 @@
+// `vtable for'vgui::FocusNavGroup
+// Auto reconstructed from vtable block @ 0x005035B0
+// from "engine.dylib", by ida_vtables.idc
+0	vgui::FocusNavGroup::GetDefaultPanel(void)
+1	vgui::FocusNavGroup::SetDefaultButton(vgui::Panel *)
+2	vgui::FocusNavGroup::GetDefaultButton(void)
+3	vgui::FocusNavGroup::GetCurrentDefaultButton(void)
+4	vgui::FocusNavGroup::FindPanelByHotkey(wchar_t)
+5	vgui::FocusNavGroup::RequestFocusPrev(unsigned int)
+6	vgui::FocusNavGroup::RequestFocusNext(unsigned int)
+7	vgui::FocusNavGroup::GetCurrentFocus(void)
+8	vgui::FocusNavGroup::SetCurrentFocus(unsigned int,unsigned int)
+9	vgui::FocusNavGroup::SetFocusTopLevel(bool)
+10	vgui::FocusNavGroup::SetCurrentDefaultButton(unsigned int,bool)

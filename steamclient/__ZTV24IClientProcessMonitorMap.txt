@@ -1,0 +1,6 @@
+// `vtable for'IClientProcessMonitorMap
+// Auto reconstructed from vtable block @ 0x00EF2CA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientProcessMonitorMap::RegisterProcess(unsigned int)
+1	IClientProcessMonitorMap::UnregisterProcess(unsigned int)
+2	IClientProcessMonitorMap::TerminateProcess(unsigned int)

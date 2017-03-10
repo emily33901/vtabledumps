@@ -1,0 +1,23 @@
+// `vtable for'CSOEconItemAttribute
+// Auto reconstructed from vtable block @ 0x00E3A180
+// from "client.dylib", by ida_vtables.idc
+0	CSOEconItemAttribute::~CSOEconItemAttribute()
+1	CSOEconItemAttribute::~CSOEconItemAttribute()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CSOEconItemAttribute::New(void)const
+4	CSOEconItemAttribute::Clear(void)
+5	CSOEconItemAttribute::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CSOEconItemAttribute::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CSOEconItemAttribute::ByteSize(void)const
+10	CSOEconItemAttribute::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CSOEconItemAttribute::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CSOEconItemAttribute::GetCachedSize(void)const
+13	CSOEconItemAttribute::CopyFrom(google::protobuf::Message const&)
+14	CSOEconItemAttribute::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CSOEconItemAttribute::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CSOEconItemAttribute::GetMetadata(void)const

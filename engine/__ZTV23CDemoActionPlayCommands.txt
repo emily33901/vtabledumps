@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionPlayCommands
+// Auto reconstructed from vtable block @ 0x004C8D20
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionPlayCommands::~CDemoActionPlayCommands()
+1	CDemoActionPlayCommands::~CDemoActionPlayCommands()
+2	CDemoActionPlayCommands::Init(KeyValues *)
+3	CBaseDemoAction::Update(DemoActionTimingContext const&)
+4	CDemoActionPlayCommands::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionPlayCommands::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

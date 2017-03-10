@@ -1,0 +1,65 @@
+// `vtable for'CModelInfo
+// Auto reconstructed from vtable block @ 0x004E8D40
+// from "engine.dylib", by ida_vtables.idc
+0	CModelInfo::~CModelInfo()
+1	CModelInfo::~CModelInfo()
+2	___cxa_pure_virtual
+3	CModelInfo::GetModelIndex(char const*)const
+4	CModelInfo::GetModelName(model_t const*)const
+5	CModelInfo::GetVCollide(model_t const*)
+6	CModelInfo::GetVCollide(int)
+7	CModelInfo::GetModelBounds(model_t const*,Vector &,Vector &)const
+8	CModelInfo::GetModelRenderBounds(model_t const*,Vector &,Vector &)const
+9	CModelInfo::GetModelFrameCount(model_t const*)const
+10	CModelInfo::GetModelType(model_t const*)const
+11	CModelInfo::GetModelExtraData(model_t const*)
+12	CModelInfo::ModelHasMaterialProxy(model_t const*)const
+13	CModelInfo::IsTranslucent(model_t const*)const
+14	CModelInfo::IsTranslucentTwoPass(model_t const*)const
+15	CModelInfo::RecomputeTranslucency(model_t const*,int,int,void *,float)
+16	CModelInfo::GetModelMaterialCount(model_t const*)const
+17	CModelInfo::GetModelMaterials(model_t const*,int,IMaterial **)
+18	CModelInfo::IsModelVertexLit(model_t const*)const
+19	CModelInfo::GetModelKeyValueText(model_t const*)
+20	CModelInfo::GetModelKeyValue(model_t const*,CUtlBuffer &)
+21	CModelInfo::GetModelRadius(model_t const*)
+22	CModelInfo::FindModel(studiohdr_t const*,void **,char const*)const
+23	CModelInfo::FindModel(void *)const
+24	CModelInfo::GetVirtualModel(studiohdr_t const*)const
+25	CModelInfo::GetAnimBlock(studiohdr_t const*,int)const
+26	___cxa_pure_virtual
+27	CModelInfo::GetIlluminationPoint(model_t const*,IClientRenderable *,Vector const&,QAngle const&,Vector*)
+28	CModelInfo::GetModelContents(int)
+29	CModelInfo::GetStudiomodel(model_t const*)
+30	CModelInfo::GetModelSpriteWidth(model_t const*)const
+31	CModelInfo::GetModelSpriteHeight(model_t const*)const
+32	CModelInfo::SetLevelScreenFadeRange(float,float)
+33	CModelInfo::GetLevelScreenFadeRange(float *,float *)const
+34	CModelInfo::SetViewScreenFadeRange(float,float)
+35	CModelInfo::ComputeLevelScreenFade(Vector const&,float,float)const
+36	CModelInfo::ComputeViewScreenFade(Vector const&,float,float)const
+37	CModelInfo::GetAutoplayList(studiohdr_t const*,unsigned short **)const
+38	CModelInfo::GetCollideForVirtualTerrain(int)
+39	CModelInfo::IsUsingFBTexture(model_t const*,int,int,void *)const
+40	___cxa_pure_virtual
+41	IVModelInfo::InitDynamicModels(void)
+42	IVModelInfo::ShutdownDynamicModels(void)
+43	IVModelInfo::AddDynamicModel(char const*,int)
+44	IVModelInfo::ReferenceModel(int)
+45	IVModelInfo::UnreferenceModel(int)
+46	IVModelInfo::CleanupDynamicModels(bool)
+47	CModelInfo::GetCacheHandle(model_t const*)const
+48	CModelInfo::GetBrushModelPlaneCount(model_t const*)const
+49	CModelInfo::GetBrushModelPlane(model_t const*,int,cplane_t &,Vector *)const
+50	CModelInfo::GetSurfacepropsForVirtualTerrain(int)
+51	CModelInfo::OnLevelChange(void)
+52	CModelInfo::GetModelClientSideIndex(char const*)const
+53	___cxa_pure_virtual
+54	CModelInfo::IsDynamicModelLoading(int)
+55	CModelInfo::AddRefDynamicModel(int)
+56	CModelInfo::ReleaseDynamicModel(int)
+57	CModelInfo::RegisterModelLoadCallback(int,IModelLoadCallback *,bool)
+58	CModelInfo::UnregisterModelLoadCallback(int,IModelLoadCallback *)
+59	___cxa_pure_virtual
+60	___cxa_pure_virtual
+61	___cxa_pure_virtual

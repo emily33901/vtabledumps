@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CClientSteamContext,GameRichPresenceJoinRequested_t,false>
+// Auto reconstructed from vtable block @ 0x0108B180
+// from "client.dylib", by ida_vtables.idc
+0	CCallback<CClientSteamContext,GameRichPresenceJoinRequested_t,false>::Run(void *)
+1	CCallbackImpl<264>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<264>::GetCallbackSizeBytes(void)

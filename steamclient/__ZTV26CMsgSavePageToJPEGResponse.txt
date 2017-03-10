@@ -1,0 +1,23 @@
+// `vtable for'CMsgSavePageToJPEGResponse
+// Auto reconstructed from vtable block @ 0x00ECCD20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSavePageToJPEGResponse::~CMsgSavePageToJPEGResponse()
+1	CMsgSavePageToJPEGResponse::~CMsgSavePageToJPEGResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgSavePageToJPEGResponse::New(void)const
+4	CMsgSavePageToJPEGResponse::Clear(void)
+5	CMsgSavePageToJPEGResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgSavePageToJPEGResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgSavePageToJPEGResponse::ByteSize(void)const
+10	CMsgSavePageToJPEGResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgSavePageToJPEGResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgSavePageToJPEGResponse::GetCachedSize(void)const
+13	CMsgSavePageToJPEGResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgSavePageToJPEGResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgSavePageToJPEGResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgSavePageToJPEGResponse::GetMetadata(void)const

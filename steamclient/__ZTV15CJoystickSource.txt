@@ -1,0 +1,11 @@
+// `vtable for'CJoystickSource
+// Auto reconstructed from vtable block @ 0x00F03730
+// from "steamclient.dylib", by ida_vtables.idc
+0	CJoystickSource::~CJoystickSource()
+1	CJoystickSource::~CJoystickSource()
+2	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+3	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+4	CJoystickSource::GetHapticLocation(void)
+5	IControllerSource::SetAntiDrift(Vector)
+6	CJoystickSource::Update(SteamControllerStateInternal_t const*)
+7	IControllerSource::Validate(CValidator &,char const*)

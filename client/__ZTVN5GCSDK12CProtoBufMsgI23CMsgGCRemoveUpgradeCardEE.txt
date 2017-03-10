@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCRemoveUpgradeCard>
+// Auto reconstructed from vtable block @ 0x010A1640
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCRemoveUpgradeCard>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCRemoveUpgradeCard>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCRemoveUpgradeCard>::GetGenericBody(void)const

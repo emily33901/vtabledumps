@@ -1,0 +1,17 @@
+// `vtable for'GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>
+// Auto reconstructed from vtable block @ 0x01079490
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::~CProtoBufSharedObject()
+1	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::~CProtoBufSharedObject()
+2	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::GetTypeID(void)const
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+4	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+5	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+6	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+7	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+8	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+9	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+10	GCSDK::CSharedObject::GetDebugString(void)const
+11	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::GetPObject(void)
+12	DT_TFMinigame::g_RecvTable
+13	DT_TFHalloweenMinigame::g_RecvTable

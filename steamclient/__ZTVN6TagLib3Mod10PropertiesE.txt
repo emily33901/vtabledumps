@@ -1,0 +1,9 @@
+// `vtable for'TagLib::Mod::Properties
+// Auto reconstructed from vtable block @ 0x00EE3008
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Mod::Properties::~Properties()
+1	TagLib::Mod::Properties::~Properties()
+2	TagLib::Mod::Properties::length(void)const
+3	TagLib::Mod::Properties::bitrate(void)const
+4	TagLib::Mod::Properties::sampleRate(void)const
+5	TagLib::Mod::Properties::channels(void)const

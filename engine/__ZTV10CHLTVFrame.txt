@@ -1,0 +1,6 @@
+// `vtable for'CHLTVFrame
+// Auto reconstructed from vtable block @ 0x004E8620
+// from "engine.dylib", by ida_vtables.idc
+0	CHLTVFrame::~CHLTVFrame()
+1	CHLTVFrame::~CHLTVFrame()
+2	CHLTVFrame::IsMemPoolAllocated(void)

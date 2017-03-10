@@ -1,0 +1,14 @@
+// `vtable for'CApplyCustomTextureJob
+// Auto reconstructed from vtable block @ 0x00EE8A10
+// from "client.dylib", by ida_vtables.idc
+0	CApplyCustomTextureJob::~CApplyCustomTextureJob()
+1	CApplyCustomTextureJob::~CApplyCustomTextureJob()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	CApplyCustomTextureJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)
+8	CApplyCustomTextureJob::YieldingRunJob(void)
+9	CApplyCustomTextureJob::YieldingFindFileIncacheOrUploadFileToCDN(void)
+10	CApplyCustomTextureJob::YieldingApplyTool(void)

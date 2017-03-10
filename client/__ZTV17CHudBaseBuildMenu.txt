@@ -1,0 +1,23 @@
+// `vtable for'CHudBaseBuildMenu
+// Auto reconstructed from vtable block @ 0x0110E700
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudBaseBuildMenu
+1	CHudBaseBuildMenu::~CHudBaseBuildMenu()
+2	CHudBaseBuildMenu::~CHudBaseBuildMenu()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudBaseBuildMenu::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudBaseBuildMenu::GetMessageMap(void)
+18	CHudBaseBuildMenu::GetAnimMap(void)
+19	CHudBaseBuildMenu::GetKBMap(void)

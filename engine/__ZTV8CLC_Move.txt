@@ -1,0 +1,16 @@
+// `vtable for'CLC_Move
+// Auto reconstructed from vtable block @ 0x004B36C0
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_Move::~CLC_Move()
+1	CLC_Move::~CLC_Move()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_Move::Process(void)
+5	CLC_Move::ReadFromBuffer(bf_read &)
+6	CLC_Move::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_Move::GetType(void)const
+9	CLC_Move::GetGroup(void)const
+10	CLC_Move::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_Move::ToString(void)const

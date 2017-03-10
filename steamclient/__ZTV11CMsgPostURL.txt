@@ -1,0 +1,23 @@
+// `vtable for'CMsgPostURL
+// Auto reconstructed from vtable block @ 0x00ECB700
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgPostURL::~CMsgPostURL()
+1	CMsgPostURL::~CMsgPostURL()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgPostURL::New(void)const
+4	CMsgPostURL::Clear(void)
+5	CMsgPostURL::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgPostURL::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgPostURL::ByteSize(void)const
+10	CMsgPostURL::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgPostURL::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgPostURL::GetCachedSize(void)const
+13	CMsgPostURL::CopyFrom(google::protobuf::Message const&)
+14	CMsgPostURL::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgPostURL::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgPostURL::GetMetadata(void)const

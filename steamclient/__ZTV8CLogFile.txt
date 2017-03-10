@@ -1,0 +1,5 @@
+// `vtable for'CLogFile
+// Auto reconstructed from vtable block @ 0x00EC0B50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLogFile::~CLogFile()
+1	CLogFile::~CLogFile()

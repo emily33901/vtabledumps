@@ -1,0 +1,11 @@
+// `vtable for'CFXQuad
+// Auto reconstructed from vtable block @ 0x00EF2D90
+// from "client.dylib", by ida_vtables.idc
+0	CFXQuad::~CFXQuad()
+1	CFXQuad::~CFXQuad()
+2	CFXQuad::Draw(double)
+3	CClientSideEffect::GetName(void)
+4	CFXQuad::IsActive(void)
+5	CFXQuad::Destroy(void)
+6	CClientSideEffect::SetEffectName(char const*)
+7	CFXQuad::Update(double)

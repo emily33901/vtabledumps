@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientOGSBeginSession_t>
+// Auto reconstructed from vtable block @ 0x00EF522C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientOGSBeginSession_t>::~CClientMsg()
+1	CClientMsg<MsgClientOGSBeginSession_t>::~CClientMsg()

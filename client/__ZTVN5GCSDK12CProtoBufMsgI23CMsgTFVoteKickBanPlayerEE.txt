@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgTFVoteKickBanPlayer>
+// Auto reconstructed from vtable block @ 0x01046150
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgTFVoteKickBanPlayer>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgTFVoteKickBanPlayer>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgTFVoteKickBanPlayer>::GetGenericBody(void)const

@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_INIT_CreateWithinSphere>
+// Auto reconstructed from vtable block @ 0x01141890
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_INIT_CreateWithinSphere>::GetName(void)const
+1	CParticleOperatorDefinition<C_INIT_CreateWithinSphere>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_INIT_CreateWithinSphere>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_INIT_CreateWithinSphere>::GetId(void)const
+4	CParticleOperatorDefinition<C_INIT_CreateWithinSphere>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_INIT_CreateWithinSphere>::GetClassSize(void)const

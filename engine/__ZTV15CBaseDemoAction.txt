@@ -1,0 +1,11 @@
+// `vtable for'CBaseDemoAction
+// Auto reconstructed from vtable block @ 0x004BA870
+// from "engine.dylib", by ida_vtables.idc
+0	CBaseDemoAction::~CBaseDemoAction()
+1	CBaseDemoAction::~CBaseDemoAction()
+2	CBaseDemoAction::Init(KeyValues *)
+3	CBaseDemoAction::Update(DemoActionTimingContext const&)
+4	___cxa_pure_virtual
+5	CBaseDemoAction::Reset(void)
+6	CBaseDemoAction::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

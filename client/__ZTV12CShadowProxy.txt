@@ -1,0 +1,9 @@
+// `vtable for'CShadowProxy
+// Auto reconstructed from vtable block @ 0x00E99F30
+// from "client.dylib", by ida_vtables.idc
+0	CShadowProxy::Init(IMaterial *,KeyValues *)
+1	CShadowProxy::OnBind(void *)
+2	CShadowProxy::Release(void)
+3	CShadowProxy::GetMaterial(void)
+4	CShadowProxy::~CShadowProxy()
+5	CShadowProxy::~CShadowProxy()

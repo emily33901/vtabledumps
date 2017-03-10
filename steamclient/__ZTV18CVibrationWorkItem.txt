@@ -1,0 +1,9 @@
+// `vtable for'CVibrationWorkItem
+// Auto reconstructed from vtable block @ 0x00F01D80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVibrationWorkItem::~CVibrationWorkItem()
+1	CVibrationWorkItem::~CVibrationWorkItem()
+2	CVibrationWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CVibrationWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

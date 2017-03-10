@@ -1,0 +1,20 @@
+// `vtable for'CAdapterSteamGameServer008
+// Auto reconstructed from vtable block @ 0x00F09B20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameServer008::LogOn(void)
+1	CAdapterSteamGameServer008::LogOff(void)
+2	CAdapterSteamGameServer008::BLoggedOn(void)
+3	CAdapterSteamGameServer008::BSecure(void)
+4	CAdapterSteamGameServer008::GetSteamID(void)
+5	CAdapterSteamGameServer008::SendUserConnectAndAuthenticate(unsigned int,void const*,unsigned int,CSteamID *)
+6	CAdapterSteamGameServer008::CreateUnauthenticatedUserConnection(void)
+7	CAdapterSteamGameServer008::SendUserDisconnect(CSteamID)
+8	CAdapterSteamGameServer008::BUpdateUserData(CSteamID,char const*,unsigned int)
+9	CAdapterSteamGameServer008::BSetServerType(unsigned int,unsigned int,unsigned short,unsigned short,unsigned short,char const*,char const*,bool)
+10	CAdapterSteamGameServer008::UpdateServerStatus(int,int,int,char const*,char const*,char const*)
+11	CAdapterSteamGameServer008::UpdateSpectatorPort(unsigned short)
+12	CAdapterSteamGameServer008::SetGameType(char const*)
+13	CAdapterSteamGameServer008::BGetUserAchievementStatus(CSteamID,char const*)
+14	CAdapterSteamGameServer008::GetGameplayStats(void)
+15	CAdapterSteamGameServer008::RequestUserGroupStatus(CSteamID,CSteamID)
+16	CAdapterSteamGameServer008::GetPublicIP(void)

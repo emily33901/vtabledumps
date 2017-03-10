@@ -1,0 +1,23 @@
+// `vtable for'CSOTFLobby
+// Auto reconstructed from vtable block @ 0x00E52680
+// from "client.dylib", by ida_vtables.idc
+0	CSOTFLobby::~CSOTFLobby()
+1	CSOTFLobby::~CSOTFLobby()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CSOTFLobby::New(void)const
+4	CSOTFLobby::Clear(void)
+5	CSOTFLobby::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CSOTFLobby::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CSOTFLobby::ByteSize(void)const
+10	CSOTFLobby::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CSOTFLobby::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CSOTFLobby::GetCachedSize(void)const
+13	CSOTFLobby::CopyFrom(google::protobuf::Message const&)
+14	CSOTFLobby::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CSOTFLobby::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CSOTFLobby::GetMetadata(void)const

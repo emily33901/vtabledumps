@@ -1,0 +1,9 @@
+// `vtable for'sigslot::_signal_base<sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1E534
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::_signal_base<sigslot::single_threaded>::~_signal_base()
+1	sigslot::_signal_base<sigslot::single_threaded>::~_signal_base()
+2	sigslot::single_threaded::lock(void)
+3	sigslot::single_threaded::unlock(void)
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual

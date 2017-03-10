@@ -1,0 +1,5 @@
+// `vtable for'C_TFPlayerClass
+// Auto reconstructed from vtable block @ 0x010E301C
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerClassShared::NetworkStateChanged(void)
+1	CTFPlayerClassShared::NetworkStateChanged(void *)

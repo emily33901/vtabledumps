@@ -1,0 +1,13 @@
+// `vtable for'CHIDDeviceRemote
+// Auto reconstructed from vtable block @ 0x00EC0930
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceRemote::~CHIDDeviceRemote()
+1	CHIDDeviceRemote::~CHIDDeviceRemote()
+2	CHIDDeviceRemote::GetLocation(void)
+3	CHIDDeviceRemote::Write(unsigned char const*,unsigned long)
+4	CHIDDeviceRemote::Read(unsigned char *,unsigned long,int)
+5	CHIDDeviceRemote::SendFeatureReport(unsigned char const*,unsigned long)
+6	CHIDDeviceRemote::GetFeatureReport(unsigned char *,unsigned long)
+7	CHIDDeviceRemote::GetVendorString(void)
+8	CHIDDeviceRemote::GetProductString(void)
+9	CHIDDeviceRemote::GetSerialNumberString(void)

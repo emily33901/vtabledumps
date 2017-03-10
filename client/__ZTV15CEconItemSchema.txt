@@ -1,0 +1,22 @@
+// `vtable for'CEconItemSchema
+// Auto reconstructed from vtable block @ 0x00E3EC70
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemSchema::~CEconItemSchema()
+1	CEconItemSchema::~CEconItemSchema()
+2	CEconItemSchema::BInit(char const*,char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+3	CEconItemSchema::GetRarityDefinitionCount(void)const
+4	CEconItemSchema::GetRarityName(unsigned char)
+5	CEconItemSchema::GetRarityLocKey(unsigned char)
+6	CEconItemSchema::GetRarityColor(unsigned char)
+7	CEconItemSchema::GetRarityIndex(char const*)
+8	CEconItemSchema::GetItemSeriesDefinitionCount(void)const
+9	CEconItemSchema::GetCustomExpirationDate(char const*)const
+10	CEconItemSchema::CreateEconItemDefinition(void)
+11	CEconItemSchema::CreateCraftingRecipeDefinition(void)
+12	CEconItemSchema::CreateEconStyleInfo(void)
+13	CEconItemSchema::CreateQuestDefinition(void)
+14	CEconItemSchema::CreateEconToolImpl(char const*,char const*,char const*,item_capabilities_t,KeyValues *)
+15	CEconItemSchema::BCanStrangeFilterApplyToStrangeSlotInItem(unsigned int,unsigned int,IEconItemInterface const*,int,unsigned int *)const
+16	CEconItemSchema::Reset(void)
+17	CEconItemSchema::BInitSchema(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+18	CEconItemSchema::CalculateNumberOfConcreteItems(CEconItemDefinition const*)

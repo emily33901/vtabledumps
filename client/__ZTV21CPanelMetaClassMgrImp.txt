@@ -1,0 +1,9 @@
+// `vtable for'CPanelMetaClassMgrImp
+// Auto reconstructed from vtable block @ 0x00F14500
+// from "client.dylib", by ida_vtables.idc
+0	CPanelMetaClassMgrImp::LoadMetaClassDefinitionFile(char const*)
+1	CPanelMetaClassMgrImp::InstallPanelType(char const*,IPanelFactory *)
+2	CPanelMetaClassMgrImp::CreatePanelMetaClass(char const*,int,void *,vgui::Panel *,char const*)
+3	CPanelMetaClassMgrImp::DestroyPanelMetaClass(vgui::Panel *)
+4	CPanelMetaClassMgrImp::~CPanelMetaClassMgrImp()
+5	CPanelMetaClassMgrImp::~CPanelMetaClassMgrImp()

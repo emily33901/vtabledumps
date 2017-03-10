@@ -1,0 +1,6 @@
+// `vtable for'CTFRenderTargets
+// Auto reconstructed from vtable block @ 0x00FAF5D0
+// from "client.dylib", by ida_vtables.idc
+0	CTFRenderTargets::InitClientRenderTargets(IMaterialSystem *,IMaterialSystemHardwareConfig *)
+1	CTFRenderTargets::ShutdownClientRenderTargets(void)
+2	CBaseClientRenderTargets::InitClientRenderTargets(IMaterialSystem *,IMaterialSystemHardwareConfig *,int,int)

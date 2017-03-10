@@ -1,0 +1,16 @@
+// `vtable for'cricket::P2PTransport
+// Auto reconstructed from vtable block @ 0x00ED69F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::P2PTransport::~P2PTransport()
+1	cricket::P2PTransport::~P2PTransport()
+2	cricket::Transport::OnMessage(talk_base::Message *)
+3	cricket::P2PTransport::CreateTransportOffer(void)
+4	cricket::P2PTransport::CreateTransportAnswer(void)
+5	cricket::P2PTransport::OnTransportOffer(buzz::XmlElement const*)
+6	cricket::P2PTransport::OnTransportAnswer(buzz::XmlElement const*)
+7	cricket::P2PTransport::OnTransportMessage(buzz::XmlElement const*,buzz::XmlElement const*)
+8	cricket::P2PTransport::OnTransportError(buzz::XmlElement const*,buzz::XmlElement const*)
+9	cricket::P2PTransport::CreateTransportChannel(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)
+10	cricket::P2PTransport::DestroyTransportChannel(cricket::TransportChannelImpl *)
+11	cricket::Transport::OnTransportSignalingReady(void)
+12	cricket::P2PTransport::OnTransportChannelMessages(std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)

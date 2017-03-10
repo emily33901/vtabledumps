@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeCountTransfer>
+// Auto reconstructed from vtable block @ 0x010BC090
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeCountTransfer>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeCountTransfer>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeCountTransfer>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeCountTransfer>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangeCountTransfer>::InternalFree(google::protobuf::Message *)

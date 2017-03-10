@@ -1,0 +1,31 @@
+// `vtable for'CEconItem
+// Auto reconstructed from vtable block @ 0x00E3E6A0
+// from "client.dylib", by ida_vtables.idc
+0	CEconItem::~CEconItem()
+1	CEconItem::~CEconItem()
+2	CEconItem::GetTypeID(void)const
+3	CEconItem::BParseFromMessage(CUtlBuffer const&)
+4	CEconItem::BParseFromMessage(std::string const&)
+5	CEconItem::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+6	CEconItem::BIsKeyLess(GCSDK::CSharedObject const&)const
+7	CEconItem::Copy(GCSDK::CSharedObject const&)
+8	CEconItem::Dump(void)const
+9	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+10	CEconItem::GetDebugString(void)const
+11	CEconItem::GetItemDefinition(void)const
+12	CEconItem::IterateAttributes(IEconItemAttributeIterator *)const
+13	CEconItem::GetID(void)const
+14	CEconItem::GetAccountID(void)const
+15	CEconItem::GetItemLevel(void)const
+16	CEconItem::GetQuality(void)const
+17	CEconItem::GetQuantity(void)const
+18	CEconItem::GetFlags(void)const
+19	CEconItem::GetOrigin(void)const
+20	CEconItem::GetStyle(void)const
+21	CEconItem::GetCustomName(void)const
+22	CEconItem::GetCustomDesc(void)const
+23	CEconItem::GetInUse(void)const
+24	CEconItem::IsTradable(void)const
+25	CEconItem::IsMarketable(void)const
+26	CEconItem::IsCommodity(void)const
+27	CEconItem::IsUsableInCrafting(void)const

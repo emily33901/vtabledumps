@@ -1,0 +1,5 @@
+// `vtable for'TagLib::RefCounter
+// Auto reconstructed from vtable block @ 0x00EE3CB8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::RefCounter::~RefCounter()
+1	TagLib::RefCounter::~RefCounter()

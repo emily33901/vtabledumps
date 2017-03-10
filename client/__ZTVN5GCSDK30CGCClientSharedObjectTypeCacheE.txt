@@ -1,0 +1,10 @@
+// `vtable for'GCSDK::CGCClientSharedObjectTypeCache
+// Auto reconstructed from vtable block @ 0x01018E70
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCClientSharedObjectTypeCache::~CGCClientSharedObjectTypeCache()
+1	GCSDK::CGCClientSharedObjectTypeCache::~CGCClientSharedObjectTypeCache()
+2	GCSDK::CSharedObjectTypeCache::AddObject(GCSDK::CSharedObject *)
+3	GCSDK::CSharedObjectTypeCache::AddObjectClean(GCSDK::CSharedObject *)
+4	GCSDK::CSharedObjectTypeCache::RemoveObject(GCSDK::CSharedObject const&)
+5	GCSDK::CSharedObjectTypeCache::EnsureCapacity(unsigned int)
+6	GCSDK::CSharedObjectTypeCache::Dump(void)const

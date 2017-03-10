@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangePart>
+// Auto reconstructed from vtable block @ 0x010B37A0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangePart>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangePart>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangePart>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangePart>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyStrangePart>::InternalFree(google::protobuf::Message *)

@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CStorePanel,MicroTxnAuthorizationResponse_t,false>
+// Auto reconstructed from vtable block @ 0x010ABA90
+// from "client.dylib", by ida_vtables.idc
+0	CCallback<CStorePanel,MicroTxnAuthorizationResponse_t,false>::Run(void *)
+1	CCallbackImpl<16>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<16>::GetCallbackSizeBytes(void)

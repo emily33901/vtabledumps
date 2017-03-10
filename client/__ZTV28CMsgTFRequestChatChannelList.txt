@@ -1,0 +1,23 @@
+// `vtable for'CMsgTFRequestChatChannelList
+// Auto reconstructed from vtable block @ 0x00E52CE0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFRequestChatChannelList::~CMsgTFRequestChatChannelList()
+1	CMsgTFRequestChatChannelList::~CMsgTFRequestChatChannelList()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgTFRequestChatChannelList::New(void)const
+4	CMsgTFRequestChatChannelList::Clear(void)
+5	CMsgTFRequestChatChannelList::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgTFRequestChatChannelList::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgTFRequestChatChannelList::ByteSize(void)const
+10	CMsgTFRequestChatChannelList::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgTFRequestChatChannelList::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgTFRequestChatChannelList::GetCachedSize(void)const
+13	CMsgTFRequestChatChannelList::CopyFrom(google::protobuf::Message const&)
+14	CMsgTFRequestChatChannelList::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgTFRequestChatChannelList::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgTFRequestChatChannelList::GetMetadata(void)const

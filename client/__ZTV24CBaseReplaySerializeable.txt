@@ -1,0 +1,19 @@
+// `vtable for'CBaseReplaySerializeable
+// Auto reconstructed from vtable block @ 0x010422F0
+// from "client.dylib", by ida_vtables.idc
+0	CBaseReplaySerializeable::~CBaseReplaySerializeable()
+1	CBaseReplaySerializeable::~CBaseReplaySerializeable()
+2	CBaseReplaySerializeable::SetHandle(unsigned int)
+3	CBaseReplaySerializeable::GetHandle(void)const
+4	CBaseReplaySerializeable::Read(KeyValues *)
+5	CBaseReplaySerializeable::Write(KeyValues *)
+6	___cxa_pure_virtual
+7	CBaseReplaySerializeable::GetFilename(void)const
+8	___cxa_pure_virtual
+9	CBaseReplaySerializeable::GetFullFilename(void)const
+10	CBaseReplaySerializeable::SetLocked(bool)
+11	CBaseReplaySerializeable::IsLocked(void)const
+12	CBaseReplaySerializeable::OnDelete(void)
+13	CBaseReplaySerializeable::OnUnload(void)
+14	CBaseReplaySerializeable::GetDebugName(void)const
+15	CBaseReplaySerializeable::OnAddedToDirtyList(void)

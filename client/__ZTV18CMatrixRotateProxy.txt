@@ -1,0 +1,9 @@
+// `vtable for'CMatrixRotateProxy
+// Auto reconstructed from vtable block @ 0x00F12F10
+// from "client.dylib", by ida_vtables.idc
+0	CMatrixRotateProxy::Init(IMaterial *,KeyValues *)
+1	CMatrixRotateProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CMatrixRotateProxy::~CMatrixRotateProxy()
+5	CMatrixRotateProxy::~CMatrixRotateProxy()

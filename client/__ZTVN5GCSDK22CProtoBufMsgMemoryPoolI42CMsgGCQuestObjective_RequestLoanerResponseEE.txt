@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCQuestObjective_RequestLoanerResponse>
+// Auto reconstructed from vtable block @ 0x0111CE00
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCQuestObjective_RequestLoanerResponse>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCQuestObjective_RequestLoanerResponse>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCQuestObjective_RequestLoanerResponse>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCQuestObjective_RequestLoanerResponse>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCQuestObjective_RequestLoanerResponse>::InternalFree(google::protobuf::Message *)

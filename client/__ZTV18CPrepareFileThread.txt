@@ -1,0 +1,11 @@
+// `vtable for'CPrepareFileThread
+// Auto reconstructed from vtable block @ 0x010463A0
+// from "client.dylib", by ida_vtables.idc
+0	CPrepareFileThread::~CPrepareFileThread()
+1	CPrepareFileThread::~CPrepareFileThread()
+2	CThread::Start(unsigned int)
+3	CThread::Init(void)
+4	CPrepareFileThread::Run(void)
+5	CThread::OnExit(void)
+6	CThread::GetThreadProc(void)
+7	CThread::IsThreadRunning(void)

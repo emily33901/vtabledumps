@@ -1,0 +1,23 @@
+// `vtable for'google::protobuf::FieldDescriptorProto
+// Auto reconstructed from vtable block @ 0x00ED55F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::FieldDescriptorProto::~FieldDescriptorProto()
+1	google::protobuf::FieldDescriptorProto::~FieldDescriptorProto()
+2	google::protobuf::Message::GetTypeName(void)const
+3	google::protobuf::FieldDescriptorProto::New(void)const
+4	google::protobuf::FieldDescriptorProto::Clear(void)
+5	google::protobuf::FieldDescriptorProto::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	google::protobuf::FieldDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	google::protobuf::FieldDescriptorProto::ByteSize(void)const
+10	google::protobuf::FieldDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	google::protobuf::FieldDescriptorProto::SerializeWithCachedSizesToArray(unsigned char *)const
+12	google::protobuf::FieldDescriptorProto::GetCachedSize(void)const
+13	google::protobuf::FieldDescriptorProto::CopyFrom(google::protobuf::Message const&)
+14	google::protobuf::FieldDescriptorProto::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	google::protobuf::FieldDescriptorProto::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	google::protobuf::FieldDescriptorProto::GetMetadata(void)const

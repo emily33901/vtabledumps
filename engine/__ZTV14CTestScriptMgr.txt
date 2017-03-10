@@ -1,0 +1,5 @@
+// `vtable for'CTestScriptMgr
+// Auto reconstructed from vtable block @ 0x004EE2E8
+// from "engine.dylib", by ida_vtables.idc
+0	CTestScriptMgr::~CTestScriptMgr()
+1	CTestScriptMgr::~CTestScriptMgr()

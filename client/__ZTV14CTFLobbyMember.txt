@@ -1,0 +1,23 @@
+// `vtable for'CTFLobbyMember
+// Auto reconstructed from vtable block @ 0x00E52560
+// from "client.dylib", by ida_vtables.idc
+0	CTFLobbyMember::~CTFLobbyMember()
+1	CTFLobbyMember::~CTFLobbyMember()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CTFLobbyMember::New(void)const
+4	CTFLobbyMember::Clear(void)
+5	CTFLobbyMember::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CTFLobbyMember::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CTFLobbyMember::ByteSize(void)const
+10	CTFLobbyMember::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CTFLobbyMember::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CTFLobbyMember::GetCachedSize(void)const
+13	CTFLobbyMember::CopyFrom(google::protobuf::Message const&)
+14	CTFLobbyMember::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CTFLobbyMember::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CTFLobbyMember::GetMetadata(void)const

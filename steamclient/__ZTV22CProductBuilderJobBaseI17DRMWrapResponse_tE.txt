@@ -1,0 +1,21 @@
+// `vtable for'CProductBuilderJobBase<DRMWrapResponse_t>
+// Auto reconstructed from vtable block @ 0x00F0F950
+// from "steamclient.dylib", by ida_vtables.idc
+0	CProductBuilderJobBase<DRMWrapResponse_t>::~CProductBuilderJobBase()
+1	CProductBuilderJobBase<DRMWrapResponse_t>::~CProductBuilderJobBase()
+2	CJob::GetServerType(void)
+3	CJob::Validate(CValidator &,char const*)
+4	CJob::TEST_BIsLongRunning(void)
+5	CJob::MsgTraceReportJobBlocking(char const*)
+6	CJob::MsgTraceReportJobUnblocking(void)
+7	CJob::DescribeWork(CUtlStringBuilder &)
+8	CBaseAPIJob::BYieldingRunJob(void *)
+9	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+10	CBaseAPIJob::CMicrosecBeforeTimeout(EJobPauseReason)
+11	CJob::MsgTraceReportJobStarted(void)
+12	CJob::MsgTraceReportJobFinished(void)
+13	CProductBuilderJobBase<DRMWrapResponse_t>::BYieldingRunAPIJob(void)
+14	CProductBuilderJobBase<DRMWrapResponse_t>::BFireCallback(EResult,DRMWrapResponse_t*)
+15	CProductBuilderJobBase<DRMWrapResponse_t>::InitComplete(unsigned long long,unsigned long long,char const*)
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual

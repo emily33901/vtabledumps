@@ -1,0 +1,6 @@
+// `vtable for'CDateBasedHolidayNoSpecificYear
+// Auto reconstructed from vtable block @ 0x0104EB30
+// from "client.dylib", by ida_vtables.idc
+0	CDateBasedHolidayNoSpecificYear::~CDateBasedHolidayNoSpecificYear()
+1	CDateBasedHolidayNoSpecificYear::~CDateBasedHolidayNoSpecificYear()
+2	CDateBasedHolidayNoSpecificYear::IsActive(CRTime const&)

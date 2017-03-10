@@ -1,0 +1,16 @@
+// `vtable for'CMouseButtonBinding
+// Auto reconstructed from vtable block @ 0x00ED1740
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMouseButtonBinding::~CMouseButtonBinding()
+1	CMouseButtonBinding::~CMouseButtonBinding()
+2	CMouseButtonBinding::SendEvent(IInputGenerator *,bool)const
+3	CMouseButtonBinding::GetType(void)const
+4	CMouseButtonBinding::GetAction(BindingAction_t *)const
+5	CMouseButtonBinding::Save(CUtlString &)const
+6	IDigitalBinding::GetPreset(void)const
+7	IDigitalBinding::SetPreset(int)
+8	IDigitalBinding::SetIconData(IconBindingData_t *)
+9	IDigitalBinding::Disconnect(IInputGenerator *)const
+10	IDigitalBinding::SetActivator(IControllerActivator *)
+11	IDigitalBinding::GetActivator(void)const
+12	IDigitalBinding::Validate(CValidator &,char const*)

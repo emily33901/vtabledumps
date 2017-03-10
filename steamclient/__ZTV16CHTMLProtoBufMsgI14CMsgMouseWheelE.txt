@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgMouseWheel>
+// Auto reconstructed from vtable block @ 0x00F05718
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgMouseWheel>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgMouseWheel>::~CHTMLProtoBufMsg()

@@ -1,0 +1,25 @@
+// `vtable for'CHudAlert
+// Auto reconstructed from vtable block @ 0x00F4EB80
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudAlert
+1	CHudAlert::~CHudAlert()
+2	CHudAlert::~CHudAlert()
+3	CHudAlert::FireGameEvent(IGameEvent *)
+4	CHudAlert::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudAlert::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudAlert::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudAlert::GetMessageMap(void)
+18	CHudAlert::GetAnimMap(void)
+19	CHudAlert::GetKBMap(void)
+20	CHudAlert::OnTick(void)
+21	CHudAlert::ApplySchemeSettings(vgui::IScheme *)

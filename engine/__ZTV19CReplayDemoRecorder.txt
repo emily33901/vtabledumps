@@ -1,0 +1,20 @@
+// `vtable for'CReplayDemoRecorder
+// Auto reconstructed from vtable block @ 0x004ED150
+// from "engine.dylib", by ida_vtables.idc
+0	CReplayDemoRecorder::GetDemoFile(void)
+1	CReplayDemoRecorder::GetRecordingTick(void)
+2	CReplayDemoRecorder::StartRecording(char const*,bool)
+3	CReplayDemoRecorder::SetSignonState(int)
+4	CReplayDemoRecorder::IsRecording(void)
+5	CReplayDemoRecorder::PauseRecording(void)
+6	CReplayDemoRecorder::ResumeRecording(void)
+7	CReplayDemoRecorder::StopRecording(void)
+8	CReplayDemoRecorder::RecordCommand(char const*)
+9	CReplayDemoRecorder::RecordUserInput(int)
+10	CReplayDemoRecorder::RecordMessages(bf_read &,int)
+11	CReplayDemoRecorder::RecordPacket(void)
+12	CReplayDemoRecorder::RecordServerClasses(ServerClass *)
+13	CReplayDemoRecorder::RecordStringTables(void)
+14	CReplayDemoRecorder::ResetDemoInterpolation(void)
+15	CReplayDemoRecorder::~CReplayDemoRecorder()
+16	CReplayDemoRecorder::~CReplayDemoRecorder()

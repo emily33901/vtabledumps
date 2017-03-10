@@ -1,0 +1,10 @@
+// `vtable for'IClientBillingMap
+// Auto reconstructed from vtable block @ 0x00F0C7C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientBillingMap::PurchaseWithActivationCode(char const*)
+1	IClientBillingMap::HasActiveLicense(unsigned int)
+2	IClientBillingMap::GetLicenseInfo(unsigned int,unsigned int *,unsigned int *,int *,int *,EPaymentMethod *,unsigned int *,int *,char *)
+3	IClientBillingMap::EnableTestLicense(unsigned int)
+4	IClientBillingMap::DisableTestLicense(unsigned int)
+5	IClientBillingMap::GetAppsInPackage(unsigned int,unsigned int *,unsigned int)
+6	IClientBillingMap::RequestFreeLicenseForApps(unsigned int const*,unsigned int)

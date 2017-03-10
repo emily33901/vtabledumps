@@ -1,0 +1,23 @@
+// `vtable for'CLocalSpaceEmitter
+// Auto reconstructed from vtable block @ 0x00F14700
+// from "client.dylib", by ida_vtables.idc
+0	CLocalSpaceEmitter::~CLocalSpaceEmitter()
+1	CLocalSpaceEmitter::~CLocalSpaceEmitter()
+2	CLocalSpaceEmitter::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CParticleEffect::ShouldSimulate(void)const
+5	CParticleEffect::SetShouldSimulate(bool)
+6	CLocalSpaceEmitter::SimulateParticles(CParticleSimulateIterator *)
+7	CLocalSpaceEmitter::RenderParticles(CParticleRenderIterator *)
+8	CParticleEffect::NotifyRemove(void)
+9	CParticleEffect::NotifyDestroyParticle(Particle *)
+10	CParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CParticleEffect::GetEffectName(void)
+13	CParticleEffect::SetParticleCullRadius(float)
+14	CSimpleEmitter::UpdateAlpha(SimpleParticle const*)
+15	CSimpleEmitter::UpdateScale(SimpleParticle const*)
+16	CSimpleEmitter::UpdateRoll(SimpleParticle *,float)
+17	CSimpleEmitter::UpdateVelocity(SimpleParticle *,float)
+18	CSimpleEmitter::UpdateColor(SimpleParticle const*)
+19	CLocalSpaceEmitter::SetupTransformMatrix(void)

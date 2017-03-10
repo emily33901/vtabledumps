@@ -1,0 +1,9 @@
+// `vtable for'cricket::ProxyConnection
+// Auto reconstructed from vtable block @ 0x00ED6674
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::ProxyConnection::~ProxyConnection()
+1	cricket::ProxyConnection::~ProxyConnection()
+2	cricket::Connection::OnMessage(talk_base::Message *)
+3	cricket::Connection::local_candidate(void)const
+4	cricket::ProxyConnection::Send(void const*,unsigned long)
+5	cricket::ProxyConnection::GetError(void)

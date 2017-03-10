@@ -1,0 +1,9 @@
+// `vtable for'TagLib::XM::Properties
+// Auto reconstructed from vtable block @ 0x00EE3DF8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::XM::Properties::~Properties()
+1	TagLib::XM::Properties::~Properties()
+2	TagLib::XM::Properties::length(void)const
+3	TagLib::XM::Properties::bitrate(void)const
+4	TagLib::XM::Properties::sampleRate(void)const
+5	TagLib::XM::Properties::channels(void)const

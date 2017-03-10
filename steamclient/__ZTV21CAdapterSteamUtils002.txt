@@ -1,0 +1,14 @@
+// `vtable for'CAdapterSteamUtils002
+// Auto reconstructed from vtable block @ 0x00F07080
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUtils002::GetSecondsSinceAppActive(void)
+1	CAdapterSteamUtils002::GetSecondsSinceComputerActive(void)
+2	CAdapterSteamUtils002::GetConnectedUniverse(void)
+3	CAdapterSteamUtils002::GetServerRealTime(void)
+4	CAdapterSteamUtils002::GetIPCountry(void)
+5	CAdapterSteamUtils002::GetImageSize(int,unsigned int *,unsigned int *)
+6	CAdapterSteamUtils002::GetImageRGBA(int,unsigned char *,int)
+7	CAdapterSteamUtils002::GetCSERIPPort(unsigned int *,unsigned short *)
+8	CAdapterSteamUtils002::GetCurrentBatteryPower(void)
+9	CAdapterSteamUtils002::GetAppID(void)
+10	CAdapterSteamUtils002::SetOverlayNotificationPosition(ENotificationPosition)

@@ -1,0 +1,15 @@
+// `vtable for'CServerEngineTools
+// Auto reconstructed from vtable block @ 0x004EE450
+// from "engine.dylib", by ida_vtables.idc
+0	CServerEngineTools::~CServerEngineTools()
+1	CServerEngineTools::~CServerEngineTools()
+2	CServerEngineTools::LevelInitPreEntityAllTools(void)
+3	CServerEngineTools::LevelInitPostEntityAllTools(void)
+4	CServerEngineTools::LevelShutdownPreEntityAllTools(void)
+5	CServerEngineTools::LevelShutdownPostEntityAllTools(void)
+6	CServerEngineTools::FrameUpdatePreEntityThinkAllTools(void)
+7	CServerEngineTools::FrameUpdatePostEntityThinkAllTools(void)
+8	CServerEngineTools::PreClientUpdateAllTools(void)
+9	CServerEngineTools::GetEntityData(char const*)
+10	CServerEngineTools::PreSetupVisibilityAllTools(void)
+11	CServerEngineTools::InToolMode(void)

@@ -1,0 +1,6 @@
+// `vtable for'CCallResult<CUGCFileRequest,RemoteStorageDownloadUGCResult_t>
+// Auto reconstructed from vtable block @ 0x01088320
+// from "client.dylib", by ida_vtables.idc
+0	CCallResult<CUGCFileRequest,RemoteStorageDownloadUGCResult_t>::Run(void *)
+1	CCallResult<CUGCFileRequest,RemoteStorageDownloadUGCResult_t>::Run(void *,bool,unsigned long long)
+2	CCallResult<CUGCFileRequest,RemoteStorageDownloadUGCResult_t>::GetCallbackSizeBytes(void)

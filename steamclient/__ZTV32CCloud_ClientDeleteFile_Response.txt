@@ -1,0 +1,23 @@
+// `vtable for'CCloud_ClientDeleteFile_Response
+// Auto reconstructed from vtable block @ 0x00EC2790
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCloud_ClientDeleteFile_Response::~CCloud_ClientDeleteFile_Response()
+1	CCloud_ClientDeleteFile_Response::~CCloud_ClientDeleteFile_Response()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CCloud_ClientDeleteFile_Response::New(void)const
+4	CCloud_ClientDeleteFile_Response::Clear(void)
+5	CCloud_ClientDeleteFile_Response::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CCloud_ClientDeleteFile_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CCloud_ClientDeleteFile_Response::ByteSize(void)const
+10	CCloud_ClientDeleteFile_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CCloud_ClientDeleteFile_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CCloud_ClientDeleteFile_Response::GetCachedSize(void)const
+13	CCloud_ClientDeleteFile_Response::CopyFrom(google::protobuf::Message const&)
+14	CCloud_ClientDeleteFile_Response::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CCloud_ClientDeleteFile_Response::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CCloud_ClientDeleteFile_Response::GetMetadata(void)const

@@ -1,0 +1,6 @@
+// `vtable for'CFloatProperty
+// Auto reconstructed from vtable block @ 0x01156350
+// from "client.dylib", by ida_vtables.idc
+0	CFloatProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CFloatProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CFloatProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_OP_TwistAroundAxis>
+// Auto reconstructed from vtable block @ 0x01142030
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_OP_TwistAroundAxis>::GetName(void)const
+1	CParticleOperatorDefinition<C_OP_TwistAroundAxis>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_OP_TwistAroundAxis>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_OP_TwistAroundAxis>::GetId(void)const
+4	CParticleOperatorDefinition<C_OP_TwistAroundAxis>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_OP_TwistAroundAxis>::GetClassSize(void)const

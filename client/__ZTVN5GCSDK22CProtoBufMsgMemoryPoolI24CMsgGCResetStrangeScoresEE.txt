@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCResetStrangeScores>
+// Auto reconstructed from vtable block @ 0x010A16D0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCResetStrangeScores>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCResetStrangeScores>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCResetStrangeScores>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCResetStrangeScores>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCResetStrangeScores>::InternalFree(google::protobuf::Message *)

@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientCheckFileSignature
+// Auto reconstructed from vtable block @ 0x00EEDB90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientCheckFileSignature::~CMsgClientCheckFileSignature()
+1	CMsgClientCheckFileSignature::~CMsgClientCheckFileSignature()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientCheckFileSignature::New(void)const
+4	CMsgClientCheckFileSignature::Clear(void)
+5	CMsgClientCheckFileSignature::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientCheckFileSignature::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientCheckFileSignature::ByteSize(void)const
+10	CMsgClientCheckFileSignature::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientCheckFileSignature::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientCheckFileSignature::GetCachedSize(void)const
+13	CMsgClientCheckFileSignature::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientCheckFileSignature::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientCheckFileSignature::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientCheckFileSignature::GetMetadata(void)const

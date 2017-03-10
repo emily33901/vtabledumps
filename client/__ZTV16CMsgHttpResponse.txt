@@ -1,0 +1,23 @@
+// `vtable for'CMsgHttpResponse
+// Auto reconstructed from vtable block @ 0x00E96B10
+// from "client.dylib", by ida_vtables.idc
+0	CMsgHttpResponse::~CMsgHttpResponse()
+1	CMsgHttpResponse::~CMsgHttpResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgHttpResponse::New(void)const
+4	CMsgHttpResponse::Clear(void)
+5	CMsgHttpResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgHttpResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgHttpResponse::ByteSize(void)const
+10	CMsgHttpResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgHttpResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgHttpResponse::GetCachedSize(void)const
+13	CMsgHttpResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgHttpResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgHttpResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgHttpResponse::GetMetadata(void)const

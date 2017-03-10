@@ -1,0 +1,9 @@
+// `vtable for'CControllerConnectedWorkItem
+// Auto reconstructed from vtable block @ 0x00F01C20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerConnectedWorkItem::~CControllerConnectedWorkItem()
+1	CControllerConnectedWorkItem::~CControllerConnectedWorkItem()
+2	CControllerConnectedWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerConnectedWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

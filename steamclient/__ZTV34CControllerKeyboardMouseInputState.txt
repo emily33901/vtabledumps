@@ -1,0 +1,9 @@
+// `vtable for'CControllerKeyboardMouseInputState
+// Auto reconstructed from vtable block @ 0x00F01B00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerKeyboardMouseInputState::~CControllerKeyboardMouseInputState()
+1	CControllerKeyboardMouseInputState::~CControllerKeyboardMouseInputState()
+2	CControllerKeyboardMouseInputState::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

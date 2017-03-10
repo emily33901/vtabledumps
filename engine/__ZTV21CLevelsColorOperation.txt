@@ -1,0 +1,13 @@
+// `vtable for'CLevelsColorOperation
+// Auto reconstructed from vtable block @ 0x004D82F0
+// from "engine.dylib", by ida_vtables.idc
+0	CLevelsColorOperation::Apply(Vector const&,Vector&)
+1	CLevelsColorOperation::Release(void)
+2	CLevelsColorOperation::GetName(void)
+3	CLevelsColorOperation::SetName(char const*)
+4	CLevelsColorOperation::Clone(void)
+5	CLevelsColorOperation::ToolID(void)
+6	CLevelsColorOperation::IsEnabled(void)
+7	CLevelsColorOperation::SetEnabled(bool)
+8	CLevelsColorOperation::SetBlendFactor(float)
+9	CLevelsColorOperation::GetBlendFactor(void)

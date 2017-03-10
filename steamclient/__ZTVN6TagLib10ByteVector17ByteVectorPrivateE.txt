@@ -1,0 +1,5 @@
+// `vtable for'TagLib::ByteVector::ByteVectorPrivate
+// Auto reconstructed from vtable block @ 0x00F26110
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ByteVector::ByteVectorPrivate::~ByteVectorPrivate()
+1	TagLib::ByteVector::ByteVectorPrivate::~ByteVectorPrivate()

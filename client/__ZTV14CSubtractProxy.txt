@@ -1,0 +1,9 @@
+// `vtable for'CSubtractProxy
+// Auto reconstructed from vtable block @ 0x00F12BE0
+// from "client.dylib", by ida_vtables.idc
+0	CSubtractProxy::Init(IMaterial *,KeyValues *)
+1	CSubtractProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CSubtractProxy::~CSubtractProxy()
+5	CSubtractProxy::~CSubtractProxy()

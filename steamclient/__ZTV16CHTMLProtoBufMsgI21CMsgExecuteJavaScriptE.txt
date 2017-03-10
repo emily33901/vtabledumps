@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgExecuteJavaScript>
+// Auto reconstructed from vtable block @ 0x00F05808
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgExecuteJavaScript>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgExecuteJavaScript>::~CHTMLProtoBufMsg()

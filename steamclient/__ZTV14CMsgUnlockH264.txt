@@ -1,0 +1,23 @@
+// `vtable for'CMsgUnlockH264
+// Auto reconstructed from vtable block @ 0x00ECD680
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgUnlockH264::~CMsgUnlockH264()
+1	CMsgUnlockH264::~CMsgUnlockH264()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgUnlockH264::New(void)const
+4	CMsgUnlockH264::Clear(void)
+5	CMsgUnlockH264::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgUnlockH264::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgUnlockH264::ByteSize(void)const
+10	CMsgUnlockH264::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgUnlockH264::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgUnlockH264::GetCachedSize(void)const
+13	CMsgUnlockH264::CopyFrom(google::protobuf::Message const&)
+14	CMsgUnlockH264::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgUnlockH264::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgUnlockH264::GetMetadata(void)const

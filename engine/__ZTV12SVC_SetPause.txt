@@ -1,0 +1,16 @@
+// `vtable for'SVC_SetPause
+// Auto reconstructed from vtable block @ 0x004B38A0
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_SetPause::~SVC_SetPause()
+1	SVC_SetPause::~SVC_SetPause()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_SetPause::Process(void)
+5	SVC_SetPause::ReadFromBuffer(bf_read &)
+6	SVC_SetPause::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_SetPause::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	SVC_SetPause::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_SetPause::ToString(void)const

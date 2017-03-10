@@ -1,0 +1,7 @@
+// `vtable for'CFrameFunction<CJobMgr>
+// Auto reconstructed from vtable block @ 0x00F27A10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFrameFunction<CJobMgr>::~CFrameFunction()
+1	CFrameFunction<CJobMgr>::~CFrameFunction()
+2	CFrameFunction<CJobMgr>::BRun(CReliableTimer &)
+3	CFrameFunction<CJobMgr>::BAllocedSeparately(void)

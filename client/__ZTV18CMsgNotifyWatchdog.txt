@@ -1,0 +1,23 @@
+// `vtable for'CMsgNotifyWatchdog
+// Auto reconstructed from vtable block @ 0x00E96C30
+// from "client.dylib", by ida_vtables.idc
+0	CMsgNotifyWatchdog::~CMsgNotifyWatchdog()
+1	CMsgNotifyWatchdog::~CMsgNotifyWatchdog()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgNotifyWatchdog::New(void)const
+4	CMsgNotifyWatchdog::Clear(void)
+5	CMsgNotifyWatchdog::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgNotifyWatchdog::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgNotifyWatchdog::ByteSize(void)const
+10	CMsgNotifyWatchdog::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgNotifyWatchdog::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgNotifyWatchdog::GetCachedSize(void)const
+13	CMsgNotifyWatchdog::CopyFrom(google::protobuf::Message const&)
+14	CMsgNotifyWatchdog::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgNotifyWatchdog::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgNotifyWatchdog::GetMetadata(void)const

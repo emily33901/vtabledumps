@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<sp_track_offline_status (*)(sp_track *)>
+// Auto reconstructed from vtable block @ 0x00F0E960
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_track_offline_status (*)(sp_track *)>::Init(CSysModule *)
+1	CDynamicFunc<sp_track_offline_status (*)(sp_track *)>::Release(void)
+2	CDynamicFunc<sp_track_offline_status (*)(sp_track *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_track_offline_status (*)(sp_track *)>::GetNextPointer(void)

@@ -1,0 +1,17 @@
+// `vtable for'CSteamControllerProtocolHandlerV1
+// Auto reconstructed from vtable block @ 0x00F02290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamControllerProtocolHandlerV1::~CSteamControllerProtocolHandlerV1()
+1	CSteamControllerProtocolHandlerV1::~CSteamControllerProtocolHandlerV1()
+2	CSteamControllerProtocolHandlerV1::ReadInput(unsigned char *,unsigned long,int)
+3	CSteamControllerProtocolHandlerV1::WriteCommand(unsigned char const*,unsigned long)
+4	CSteamControllerProtocolHandlerV1::ReadCommand(unsigned char *,unsigned long)
+5	CControllerHidVirtualSocket::WriteRaw(unsigned char const*,unsigned long)
+6	CControllerHidVirtualSocket::ReadRaw(unsigned char *,unsigned long)
+7	CControllerHidVirtualSocket::GetSerialString(void)
+8	CControllerHidVirtualSocket::GetProductString(void)
+9	CSteamControllerProtocolHandlerV1::GetFeatureReportWriteSize(void)
+10	CSteamControllerProtocolHandlerV1::GetFeatureReportReadSize(void)
+11	CControllerHidVirtualSocket::ReadInputReport(unsigned char *,unsigned long,int)
+12	CControllerHidVirtualSocket::WriteFeatureReport(unsigned char,unsigned char const*,unsigned long)
+13	CControllerHidVirtualSocket::ReadFeatureReport(unsigned char,unsigned char *,unsigned long)

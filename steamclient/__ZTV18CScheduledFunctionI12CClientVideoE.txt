@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CClientVideo>
+// Auto reconstructed from vtable block @ 0x00EFF080
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CClientVideo>::~CScheduledFunction()
+1	CScheduledFunction<CClientVideo>::~CScheduledFunction()
+2	CScheduledFunction<CClientVideo>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

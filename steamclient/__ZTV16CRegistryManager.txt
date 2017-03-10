@@ -1,0 +1,16 @@
+// `vtable for'CRegistryManager
+// Auto reconstructed from vtable block @ 0x00EC0C20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRegistryManager::BGetValueStr(ERegKeyRoot,char const*,char const*,char *,int)
+1	CRegistryManager::BGetValueUint(ERegKeyRoot,char const*,char const*,unsigned int *)
+2	CRegistryManager::BGetValueBin(ERegKeyRoot,char const*,char const*,unsigned char *,unsigned int *)
+3	CRegistryManager::BSetValueStr(ERegKeyRoot,char const*,char const*,char const*)
+4	CRegistryManager::BSetValueUint(ERegKeyRoot,char const*,char const*,unsigned int)
+5	CRegistryManager::BSetValueBin(ERegKeyRoot,char const*,char const*,unsigned char const*,unsigned int)
+6	CRegistryManager::BDeleteValue(ERegKeyRoot,char const*,char const*)
+7	CRegistryManager::BDeleteKey(ERegKeyRoot,char const*)
+8	CRegistryManager::BKeyExists(ERegKeyRoot,char const*)
+9	CRegistryManager::BGetSubKeys(ERegKeyRoot,char const*,unsigned int *,unsigned int *)
+10	CRegistryManager::BGetValues(ERegKeyRoot,char const*,unsigned int *,unsigned int *,unsigned int *)
+11	CRegistryManager::BEnumerateKey(ERegKeyRoot,char const*,unsigned int,char *,int)
+12	CRegistryManager::BEnumerateValue(ERegKeyRoot,char const*,unsigned int,char *,int,unsigned int *)

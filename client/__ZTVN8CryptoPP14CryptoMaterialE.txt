@@ -1,0 +1,15 @@
+// `vtable for'CryptoPP::CryptoMaterial
+// Auto reconstructed from vtable block @ 0x01015AA0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::CryptoMaterial::~CryptoMaterial()
+1	CryptoPP::CryptoMaterial::~CryptoMaterial()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator &,unsigned int)const
+6	CryptoPP::CryptoMaterial::Save(CryptoPP::BufferedTransformation &)const
+7	CryptoPP::CryptoMaterial::Load(CryptoPP::BufferedTransformation &)
+8	CryptoPP::CryptoMaterial::SupportsPrecomputation(void)const
+9	CryptoPP::CryptoMaterial::Precompute(unsigned int)
+10	CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation &)
+11	CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation &)const

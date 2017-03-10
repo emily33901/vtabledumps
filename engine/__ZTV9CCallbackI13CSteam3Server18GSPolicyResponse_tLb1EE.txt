@@ -1,0 +1,6 @@
+// `vtable for'CCallback<CSteam3Server,GSPolicyResponse_t,true>
+// Auto reconstructed from vtable block @ 0x005298B0
+// from "engine.dylib", by ida_vtables.idc
+0	CCallback<CSteam3Server,GSPolicyResponse_t,true>::Run(void *)
+1	CCallbackImpl<1>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<1>::GetCallbackSizeBytes(void)

@@ -1,0 +1,9 @@
+// `vtable for'TagLib::ID3v2::AttachedPictureFrame
+// Auto reconstructed from vtable block @ 0x00EE3238
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ID3v2::AttachedPictureFrame::~AttachedPictureFrame()
+1	TagLib::ID3v2::AttachedPictureFrame::~AttachedPictureFrame()
+2	TagLib::ID3v2::Frame::setText(TagLib::String const&)
+3	TagLib::ID3v2::AttachedPictureFrame::toString(void)const
+4	TagLib::ID3v2::AttachedPictureFrame::parseFields(TagLib::ByteVector const&)
+5	TagLib::ID3v2::AttachedPictureFrame::renderFields(void)const

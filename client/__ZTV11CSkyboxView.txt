@@ -1,0 +1,9 @@
+// `vtable for'CSkyboxView
+// Auto reconstructed from vtable block @ 0x01011540
+// from "client.dylib", by ida_vtables.idc
+0	CSkyboxView::~CSkyboxView()
+1	CSkyboxView::~CSkyboxView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CSkyboxView::Draw(void)
+5	CSkyboxView::ComputeSkyboxVisibility(void)

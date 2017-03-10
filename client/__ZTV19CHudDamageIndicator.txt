@@ -1,0 +1,26 @@
+// `vtable for'CHudDamageIndicator
+// Auto reconstructed from vtable block @ 0x00F63C70
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudDamageIndicator
+1	CHudDamageIndicator::~CHudDamageIndicator()
+2	CHudDamageIndicator::~CHudDamageIndicator()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudDamageIndicator::Init(void)
+5	CHudDamageIndicator::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudDamageIndicator::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudDamageIndicator::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudDamageIndicator::GetMessageMap(void)
+18	CHudDamageIndicator::GetAnimMap(void)
+19	CHudDamageIndicator::GetKBMap(void)
+20	CHudDamageIndicator::OnThink(void)
+21	CHudDamageIndicator::Paint(void)
+22	CHudDamageIndicator::ApplySchemeSettings(vgui::IScheme *)

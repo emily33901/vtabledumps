@@ -1,0 +1,4 @@
+// `vtable for'CVGuiScreenEnumerator
+// Auto reconstructed from vtable block @ 0x00EB9CAC
+// from "client.dylib", by ida_vtables.idc
+0	CVGuiScreenEnumerator::EnumElement(IHandleEntity *)

@@ -1,0 +1,7 @@
+// `vtable for'CDescription
+// Auto reconstructed from vtable block @ 0x00E32490
+// from "client.dylib", by ida_vtables.idc
+0	CDescription::~CDescription()
+1	CDescription::~CDescription()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual

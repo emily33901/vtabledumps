@@ -1,0 +1,5 @@
+// `vtable for'talk_base::TypedMessageData<`anonymous namespace'::ChannelParams *>
+// Auto reconstructed from vtable block @ 0x00ED69D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::TypedMessageData<`anonymous namespace'::ChannelParams *>::~TypedMessageData()
+1	talk_base::TypedMessageData<`anonymous namespace'::ChannelParams *>::~TypedMessageData()

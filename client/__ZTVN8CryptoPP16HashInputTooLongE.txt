@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::HashInputTooLong
+// Auto reconstructed from vtable block @ 0x01017100
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::HashInputTooLong::~HashInputTooLong()
+1	CryptoPP::HashInputTooLong::~HashInputTooLong()
+2	CryptoPP::Exception::what(void)const

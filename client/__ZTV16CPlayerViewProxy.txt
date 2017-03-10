@@ -1,0 +1,9 @@
+// `vtable for'CPlayerViewProxy
+// Auto reconstructed from vtable block @ 0x00F15890
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerViewProxy::Init(IMaterial *,KeyValues *)
+1	CPlayerViewProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CPlayerViewProxy::~CPlayerViewProxy()
+5	CPlayerViewProxy::~CPlayerViewProxy()

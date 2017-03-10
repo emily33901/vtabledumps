@@ -1,0 +1,17 @@
+// `vtable for'CControllerHidVirtualSocket
+// Auto reconstructed from vtable block @ 0x00F02200
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerHidVirtualSocket::~CControllerHidVirtualSocket()
+1	CControllerHidVirtualSocket::~CControllerHidVirtualSocket()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	CControllerHidVirtualSocket::WriteRaw(unsigned char const*,unsigned long)
+6	CControllerHidVirtualSocket::ReadRaw(unsigned char *,unsigned long)
+7	CControllerHidVirtualSocket::GetSerialString(void)
+8	CControllerHidVirtualSocket::GetProductString(void)
+9	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	CControllerHidVirtualSocket::ReadInputReport(unsigned char *,unsigned long,int)
+12	CControllerHidVirtualSocket::WriteFeatureReport(unsigned char,unsigned char const*,unsigned long)
+13	CControllerHidVirtualSocket::ReadFeatureReport(unsigned char,unsigned char *,unsigned long)

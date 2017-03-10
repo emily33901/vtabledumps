@@ -1,0 +1,26 @@
+// `vtable for'CEngineTraceServer
+// Auto reconstructed from vtable block @ 0x004E7EA0
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineTrace::GetPointContents(Vector const&,IHandleEntity **)
+1	CEngineTrace::GetPointContents_Collideable(ICollideable *,Vector const&)
+2	CEngineTrace::ClipRayToEntity(Ray_t const&,unsigned int,IHandleEntity *,CGameTrace *)
+3	CEngineTrace::ClipRayToCollideable(Ray_t const&,unsigned int,ICollideable *,CGameTrace *)
+4	CEngineTrace::TraceRay(Ray_t const&,unsigned int,ITraceFilter *,CGameTrace *)
+5	CEngineTrace::SetupLeafAndEntityListRay(Ray_t const&,CTraceListData &)
+6	CEngineTrace::SetupLeafAndEntityListBox(Vector const&,Vector const&,CTraceListData &)
+7	CEngineTrace::TraceRayAgainstLeafAndEntityList(Ray_t const&,CTraceListData &,unsigned int,ITraceFilter *,CGameTrace *)
+8	CEngineTrace::SweepCollideable(ICollideable *,Vector const&,Vector const&,QAngle const&,unsigned int,ITraceFilter *,CGameTrace *)
+9	CEngineTrace::EnumerateEntities(Ray_t const&,bool,IEntityEnumerator *)
+10	CEngineTrace::EnumerateEntities(Vector const&,Vector const&,IEntityEnumerator *)
+11	CEngineTraceServer::GetCollideable(IHandleEntity *)
+12	CEngineTrace::GetStatByIndex(int,bool)
+13	CEngineTrace::GetBrushesInAABB(Vector const&,Vector const&,CUtlVector<int,CUtlMemory<int,int>> *,int)
+14	CEngineTrace::GetCollidableFromDisplacementsInAABB(Vector const&,Vector const&)
+15	CEngineTrace::GetBrushInfo(int,CUtlVector<Vector4D,CUtlMemory<Vector4D,int>> *,int *)
+16	CEngineTrace::PointOutsideWorld(Vector const&)
+17	CEngineTrace::GetLeafContainingPoint(Vector const&)
+18	CEngineTraceServer::HandleEntityToCollideable(IHandleEntity *,ICollideable **,char const**)
+19	CEngineTraceServer::GetWorldCollideable(void)
+20	CEngineTraceServer::SetTraceEntity(ICollideable *,CGameTrace *)
+21	CEngineTraceServer::SpatialPartitionMask(void)const
+22	CEngineTraceServer::SpatialPartitionTriggerMask(void)const

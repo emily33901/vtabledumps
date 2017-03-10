@@ -1,0 +1,19 @@
+// `vtable for'CConCommandMemberAccessor<CTFClassMenu>
+// Auto reconstructed from vtable block @ 0x011214D0
+// from "client.dylib", by ida_vtables.idc
+0	CConCommandMemberAccessor<CTFClassMenu>::~CConCommandMemberAccessor()
+1	CConCommandMemberAccessor<CTFClassMenu>::~CConCommandMemberAccessor()
+2	ConCommand::IsCommand(void)const
+3	ConCommandBase::IsFlagSet(int)const
+4	ConCommandBase::AddFlags(int)
+5	ConCommandBase::GetName(void)const
+6	ConCommandBase::GetHelpText(void)const
+7	ConCommandBase::IsRegistered(void)const
+8	ConCommandBase::GetDLLIdentifier(void)const
+9	ConCommandBase::CreateBase(char const*,char const*,int)
+10	ConCommandBase::Init(void)
+11	ConCommand::AutoCompleteSuggest(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> &)
+12	ConCommand::CanAutoComplete(void)
+13	ConCommand::Dispatch(CCommand const&)
+14	CConCommandMemberAccessor<CTFClassMenu>::CommandCallback(CCommand const&)
+15	CConCommandMemberAccessor<CTFClassMenu>::CommandCompletionCallback(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> &)

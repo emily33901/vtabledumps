@@ -1,0 +1,16 @@
+// `vtable for'NET_SetConVar
+// Auto reconstructed from vtable block @ 0x004B3580
+// from "engine.dylib", by ida_vtables.idc
+0	NET_SetConVar::~NET_SetConVar()
+1	NET_SetConVar::~NET_SetConVar()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	NET_SetConVar::Process(void)
+5	NET_SetConVar::ReadFromBuffer(bf_read &)
+6	NET_SetConVar::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	NET_SetConVar::GetType(void)const
+9	NET_SetConVar::GetGroup(void)const
+10	NET_SetConVar::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	NET_SetConVar::ToString(void)const

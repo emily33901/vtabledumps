@@ -1,0 +1,21 @@
+// `vtable for'CEZParticleInit
+// Auto reconstructed from vtable block @ 0x010C6EA0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystem::Name(void)
+1	CBaseGameSystem::Init(void)
+2	CBaseGameSystem::PostInit(void)
+3	CBaseGameSystem::Shutdown(void)
+4	CEZParticleInit::LevelInitPreEntity(void)
+5	CBaseGameSystem::LevelInitPostEntity(void)
+6	CBaseGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	CEZParticleInit::LevelShutdownPreEntity(void)
+8	CBaseGameSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystem::OnSave(void)
+10	CBaseGameSystem::OnRestore(void)
+11	CBaseGameSystem::SafeRemoveIfDesired(void)
+12	CBaseGameSystem::IsPerFrame(void)
+13	CEZParticleInit::~CEZParticleInit()
+14	CEZParticleInit::~CEZParticleInit()
+15	CBaseGameSystem::PreRender(void)
+16	CBaseGameSystem::Update(float)
+17	CBaseGameSystem::PostRender(void)

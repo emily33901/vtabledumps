@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCStorePurchaseFinalize>
+// Auto reconstructed from vtable block @ 0x010AB820
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCStorePurchaseFinalize>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCStorePurchaseFinalize>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCStorePurchaseFinalize>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCStorePurchaseFinalize>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCStorePurchaseFinalize>::InternalFree(google::protobuf::Message *)

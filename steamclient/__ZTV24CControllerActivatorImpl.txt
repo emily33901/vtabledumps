@@ -1,0 +1,39 @@
+// `vtable for'CControllerActivatorImpl
+// Auto reconstructed from vtable block @ 0x00F023B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerActivatorImpl::~CControllerActivatorImpl()
+1	CControllerActivatorImpl::~CControllerActivatorImpl()
+2	___cxa_pure_virtual
+3	CControllerActivatorImpl::SetBinding(IDigitalBinding const*)
+4	CControllerActivatorImpl::GetBindings(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
+5	CControllerActivatorImpl::GetUISetting(EControllerSetting,int *)const
+6	CControllerActivatorImpl::GetRawSetting(EControllerSetting,int *)const
+7	CControllerActivatorImpl::SetSetting(EControllerSetting,int)
+8	CControllerActivatorImpl::GetSettingUIDefault(EControllerSetting,int *)const
+9	CControllerActivatorImpl::GetSettingRawDefault(EControllerSetting,int *)const
+10	___cxa_pure_virtual
+11	CControllerActivatorImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
+12	CControllerActivatorImpl::Connect(IInputGenerator *)
+13	CControllerActivatorImpl::Disconnect(IInputGenerator *,bool)
+14	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
+15	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
+16	CControllerActivatorImpl::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
+17	___cxa_pure_virtual
+18	CControllerActivatorImpl::RemoveModeShiftBindingsForSource(EControllerSource)
+19	IControllerActivator::IsPaused(void)
+20	CControllerActivatorImpl::SetPaused(bool,int)
+21	CControllerActivatorImpl::IsPausable(void)
+22	CControllerActivatorImpl::IsPersistent(void)
+23	CControllerActivatorImpl::ResetFromPause(void)
+24	CControllerActivatorImpl::ClearEventQueue(void)
+25	CControllerActivatorImpl::GetAnalogThreshold(void)
+26	CControllerActivatorImpl::GetInput(void)
+27	CControllerActivatorImpl::GetID(void)
+28	CControllerActivatorImpl::SetHapticLocation(ESteamControllerPad)
+29	CControllerActivatorImpl::GetHapticLocation(void)
+30	___cxa_pure_virtual
+31	CControllerActivatorImpl::Validate(CValidator &,char const*)
+32	CControllerActivatorImpl::PopulateBinding(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> const&,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &)
+33	CControllerActivatorImpl::SendInputEvent(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IInputGenerator *,bool)
+34	CControllerActivatorImpl::UpdateBinding(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IDigitalBinding const*)
+35	CControllerActivatorImpl::IsModifierKey(BindingAction_t *)

@@ -1,0 +1,23 @@
+// `vtable for'CMsgGameServerRemove
+// Auto reconstructed from vtable block @ 0x00EEEDF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGameServerRemove::~CMsgGameServerRemove()
+1	CMsgGameServerRemove::~CMsgGameServerRemove()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGameServerRemove::New(void)const
+4	CMsgGameServerRemove::Clear(void)
+5	CMsgGameServerRemove::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGameServerRemove::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGameServerRemove::ByteSize(void)const
+10	CMsgGameServerRemove::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGameServerRemove::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGameServerRemove::GetCachedSize(void)const
+13	CMsgGameServerRemove::CopyFrom(google::protobuf::Message const&)
+14	CMsgGameServerRemove::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGameServerRemove::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGameServerRemove::GetMetadata(void)const

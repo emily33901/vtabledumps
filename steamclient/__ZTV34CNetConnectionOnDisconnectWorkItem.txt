@@ -1,0 +1,11 @@
+// `vtable for'CNetConnectionOnDisconnectWorkItem
+// Auto reconstructed from vtable block @ 0x00F2CD70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetConnectionOnDisconnectWorkItem::~CNetConnectionOnDisconnectWorkItem()
+1	CNetConnectionOnDisconnectWorkItem::~CNetConnectionOnDisconnectWorkItem()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CNetConnectionOnDisconnectWorkItem::GetWorkItemName(void)const
+4	CNetConnectionOnDisconnectWorkItem::GetThreadProcessName(void)const
+5	CNetConnectionOnDisconnectWorkItem::ThreadProcess(CWorkThread *)
+6	CNetConnectionOnDisconnectWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

@@ -1,0 +1,12 @@
+// `vtable for'IClientAppsMap
+// Auto reconstructed from vtable block @ 0x00F0C3B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientAppsMap::GetAppData(unsigned int,char const*,char *,int)
+1	IClientAppsMap::SetLocalAppConfig(unsigned int,unsigned char *,int)
+2	IClientAppsMap::GetInternalAppIDFromGameID(CGameID)
+3	IClientAppsMap::GetAllOwnedMultiplayerApps(unsigned int *,int)
+4	IClientAppsMap::GetAppDataSection(unsigned int,int,unsigned char *,int,bool)
+5	IClientAppsMap::RequestAppInfoUpdate(unsigned int const*,int)
+6	IClientAppsMap::GetDLCCount(unsigned int)
+7	IClientAppsMap::BGetDLCDataByIndex(unsigned int,int,unsigned int *,bool *,char *,int)
+8	IClientAppsMap::GetAppType(unsigned int)

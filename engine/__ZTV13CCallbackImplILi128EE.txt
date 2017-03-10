@@ -1,0 +1,6 @@
+// `vtable for'CCallbackImpl<128>
+// Auto reconstructed from vtable block @ 0x00524690
+// from "engine.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	CCallbackImpl<128>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<128>::GetCallbackSizeBytes(void)

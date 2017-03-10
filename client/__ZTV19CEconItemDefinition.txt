@@ -1,0 +1,14 @@
+// `vtable for'CEconItemDefinition
+// Auto reconstructed from vtable block @ 0x00E3EC30
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemDefinition::~CEconItemDefinition()
+1	CEconItemDefinition::~CEconItemDefinition()
+2	CEconItemDefinition::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+3	CEconItemDefinition::BInitFromTestItemKVs(int,KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+4	CEconItemDefinition::GeneratePrecacheModelStrings(bool,CUtlVector<char const*,CUtlMemory<char const*,int>> *)const
+5	CEconItemDefinition::GeneratePrecacheSoundStrings(bool,CUtlVector<char const*,CUtlMemory<char const*,int>> *)const
+6	CEconItemDefinition::CopyPolymorphic(CEconItemDefinition const*)
+7	CEconItemDefinition::GetBundleItemCount(void)const
+8	CEconItemDefinition::GetBundleItem(int)const
+9	CEconItemDefinition::GetIconDisplayModel(void)const
+10	CEconItemDefinition::IsContentStreamable(void)const

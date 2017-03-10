@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::NameValuePairs
+// Auto reconstructed from vtable block @ 0x01016E40
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::NameValuePairs::~NameValuePairs()
+1	CryptoPP::NameValuePairs::~NameValuePairs()
+2	___cxa_pure_virtual

@@ -1,0 +1,7 @@
+// `vtable for'CEconCraftingRecipeDefinition
+// Auto reconstructed from vtable block @ 0x00E3EBF0
+// from "client.dylib", by ida_vtables.idc
+0	CEconCraftingRecipeDefinition::~CEconCraftingRecipeDefinition()
+1	CEconCraftingRecipeDefinition::~CEconCraftingRecipeDefinition()
+2	CEconCraftingRecipeDefinition::CopyPolymorphic(CEconCraftingRecipeDefinition const*)
+3	CEconCraftingRecipeDefinition::ItemListMatchesInputs(CUtlVector<CEconItem *,CUtlMemory<CEconItem *,int>> *,KeyValues *,bool,CUtlVector*<unsigned long long,CUtlMemory<unsigned long long,int>>)const

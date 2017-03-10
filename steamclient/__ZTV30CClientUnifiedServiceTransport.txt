@@ -1,0 +1,11 @@
+// `vtable for'CClientUnifiedServiceTransport
+// Auto reconstructed from vtable block @ 0x00ECF880
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientUnifiedServiceTransport::~CClientUnifiedServiceTransport()
+1	CClientUnifiedServiceTransport::~CClientUnifiedServiceTransport()
+2	CClientUnifiedServiceTransport::BYieldingCallClientMethod(char const*,google::protobuf::MessageLite &,google::protobuf::MessageLite &,CClientUnifiedServiceOptions *)
+3	CClientUnifiedServiceTransport::BCallClientNotification(char const*,google::protobuf::MessageLite &,CClientUnifiedServiceOptions *)
+4	CClientUnifiedServiceTransport::BYieldingCallServerMethod(char const*,google::protobuf::MessageLite &,google::protobuf::MessageLite &,CClientUnifiedServiceOptions *)
+5	CClientUnifiedServiceTransport::BCallServerNotification(char const*,google::protobuf::MessageLite &,CClientUnifiedServiceOptions *)
+6	CClientUnifiedServiceTransport::BYieldingCallServerMethod(char const*,void const*,unsigned int,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> &,CClientUnifiedServiceOptions *)
+7	CClientUnifiedServiceTransport::BCallServerNotification(char const*,void const*,unsigned int,CClientUnifiedServiceOptions *)

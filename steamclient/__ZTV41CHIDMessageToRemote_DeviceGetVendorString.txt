@@ -1,0 +1,23 @@
+// `vtable for'CHIDMessageToRemote_DeviceGetVendorString
+// Auto reconstructed from vtable block @ 0x00EC51D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageToRemote_DeviceGetVendorString::~CHIDMessageToRemote_DeviceGetVendorString()
+1	CHIDMessageToRemote_DeviceGetVendorString::~CHIDMessageToRemote_DeviceGetVendorString()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CHIDMessageToRemote_DeviceGetVendorString::New(void)const
+4	CHIDMessageToRemote_DeviceGetVendorString::Clear(void)
+5	CHIDMessageToRemote_DeviceGetVendorString::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CHIDMessageToRemote_DeviceGetVendorString::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CHIDMessageToRemote_DeviceGetVendorString::ByteSize(void)const
+10	CHIDMessageToRemote_DeviceGetVendorString::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CHIDMessageToRemote_DeviceGetVendorString::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CHIDMessageToRemote_DeviceGetVendorString::GetCachedSize(void)const
+13	CHIDMessageToRemote_DeviceGetVendorString::CopyFrom(google::protobuf::Message const&)
+14	CHIDMessageToRemote_DeviceGetVendorString::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CHIDMessageToRemote_DeviceGetVendorString::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CHIDMessageToRemote_DeviceGetVendorString::GetMetadata(void)const

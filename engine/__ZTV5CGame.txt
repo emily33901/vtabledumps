@@ -1,0 +1,22 @@
+// `vtable for'CGame
+// Auto reconstructed from vtable block @ 0x004EE280
+// from "engine.dylib", by ida_vtables.idc
+0	CGame::~CGame()
+1	CGame::~CGame()
+2	CGame::Init(void *)
+3	CGame::Shutdown(void)
+4	CGame::CreateGameWindow(void)
+5	CGame::DestroyGameWindow(void)
+6	CGame::SetGameWindow(void *)
+7	CGame::InputAttachToGameWindow(void)
+8	CGame::InputDetachFromGameWindow(void)
+9	CGame::PlayStartupVideos(void)
+10	CGame::GetMainWindow(void)
+11	CGame::GetMainDeviceWindow(void)
+12	CGame::GetMainWindowAddress(void)
+13	CGame::GetDesktopInfo(int &,int &,int &)
+14	CGame::SetWindowXY(int,int)
+15	CGame::SetWindowSize(int,int)
+16	CGame::GetWindowRect(int *,int *,int *,int *)
+17	CGame::IsActiveApp(void)
+18	CGame::DispatchAllStoredGameMessages(void)

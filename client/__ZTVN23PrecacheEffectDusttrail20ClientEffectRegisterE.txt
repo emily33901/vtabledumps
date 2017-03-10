@@ -1,0 +1,4 @@
+// `vtable for'PrecacheEffectDusttrail::ClientEffectRegister
+// Auto reconstructed from vtable block @ 0x00EB2F50
+// from "client.dylib", by ida_vtables.idc
+0	PrecacheEffectDusttrail::ClientEffectRegister::Cache(bool)

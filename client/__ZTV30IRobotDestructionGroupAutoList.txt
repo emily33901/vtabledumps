@@ -1,0 +1,5 @@
+// `vtable for'IRobotDestructionGroupAutoList
+// Auto reconstructed from vtable block @ 0x00E596B4
+// from "client.dylib", by ida_vtables.idc
+0	IRobotDestructionGroupAutoList::~IRobotDestructionGroupAutoList()
+1	IRobotDestructionGroupAutoList::~IRobotDestructionGroupAutoList()

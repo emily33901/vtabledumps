@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<SDL_bool (*)(_SDL_Joystick *)>
+// Auto reconstructed from vtable block @ 0x00EF29B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<SDL_bool (*)(_SDL_Joystick *)>::Init(CSysModule *)
+1	CDynamicFunc<SDL_bool (*)(_SDL_Joystick *)>::Release(void)
+2	CDynamicFunc<SDL_bool (*)(_SDL_Joystick *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<SDL_bool (*)(_SDL_Joystick *)>::GetNextPointer(void)

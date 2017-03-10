@@ -1,0 +1,23 @@
+// `vtable for'CMsgSetItemEffectVerticalOffset
+// Auto reconstructed from vtable block @ 0x00E3B3E0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSetItemEffectVerticalOffset::~CMsgSetItemEffectVerticalOffset()
+1	CMsgSetItemEffectVerticalOffset::~CMsgSetItemEffectVerticalOffset()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgSetItemEffectVerticalOffset::New(void)const
+4	CMsgSetItemEffectVerticalOffset::Clear(void)
+5	CMsgSetItemEffectVerticalOffset::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgSetItemEffectVerticalOffset::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgSetItemEffectVerticalOffset::ByteSize(void)const
+10	CMsgSetItemEffectVerticalOffset::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgSetItemEffectVerticalOffset::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgSetItemEffectVerticalOffset::GetCachedSize(void)const
+13	CMsgSetItemEffectVerticalOffset::CopyFrom(google::protobuf::Message const&)
+14	CMsgSetItemEffectVerticalOffset::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgSetItemEffectVerticalOffset::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgSetItemEffectVerticalOffset::GetMetadata(void)const

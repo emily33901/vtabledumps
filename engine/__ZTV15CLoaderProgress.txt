@@ -1,0 +1,6 @@
+// `vtable for'CLoaderProgress
+// Auto reconstructed from vtable block @ 0x0052BA10
+// from "engine.dylib", by ida_vtables.idc
+0	CLoaderProgress::BeginProgress(void)
+1	CLoaderProgress::EndProgress(void)
+2	CLoaderProgress::UpdateProgress(float)

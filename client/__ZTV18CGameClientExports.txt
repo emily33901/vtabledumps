@@ -1,0 +1,15 @@
+// `vtable for'CGameClientExports
+// Auto reconstructed from vtable block @ 0x0108AAE0
+// from "client.dylib", by ida_vtables.idc
+0	CGameClientExports::~CGameClientExports()
+1	CGameClientExports::~CGameClientExports()
+2	CGameClientExports::IsPlayerGameVoiceMuted(int)
+3	CGameClientExports::MutePlayerGameVoice(int)
+4	CGameClientExports::UnmutePlayerGameVoice(int)
+5	CGameClientExports::OnGameUIActivated(void)
+6	CGameClientExports::OnGameUIHidden(void)
+7	CGameClientExports::CreateAchievementsPanel(vgui::Panel *)
+8	CGameClientExports::DisplayAchievementPanel(void)
+9	CGameClientExports::ShutdownAchievementPanel(void)
+10	CGameClientExports::GetAchievementsPanelMinWidth(void)const
+11	CGameClientExports::GetHolidayString(void)

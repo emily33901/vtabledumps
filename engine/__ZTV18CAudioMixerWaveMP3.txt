@@ -1,0 +1,23 @@
+// `vtable for'CAudioMixerWaveMP3
+// Auto reconstructed from vtable block @ 0x004B68E0
+// from "engine.dylib", by ida_vtables.idc
+0	CAudioMixerWaveMP3::~CAudioMixerWaveMP3()
+1	CAudioMixerWaveMP3::~CAudioMixerWaveMP3()
+2	CAudioMixerWave::MixDataToDevice(IAudioDevice *,channel_t *,int,int,int)
+3	CAudioMixerWave::SkipSamples(channel_t *,int,int,int)
+4	CAudioMixerWave::ShouldContinueMixing(void)
+5	CAudioMixerWave::GetSource(void)
+6	CAudioMixerWave::GetSamplePosition(void)
+7	CAudioMixerWave::ModifyPitch(float)
+8	CAudioMixerWave::GetVolumeScale(void)
+9	CAudioMixerWaveMP3::SetSampleStart(int)
+10	CAudioMixerWave::SetSampleEnd(int)
+11	CAudioMixerWaveMP3::SetStartupDelaySamples(int)
+12	CAudioMixerWaveMP3::GetMixSampleSize(void)
+13	CAudioMixerWave::IsReadyToMix(void)
+14	CAudioMixerWaveMP3::GetPositionForSave(void)
+15	CAudioMixerWaveMP3::SetPositionFromSaved(int)
+16	CAudioMixerWaveMP3::Mix(IAudioDevice *,channel_t *,void *,int,int,unsigned int,int,int)
+17	CAudioMixerWaveMP3::GetOutputData(void **,int,char *)
+18	CAudioMixerWaveMP3::StreamRequestData(void *,int,int)
+19	CAudioMixerWaveMP3::GetStreamOutputRate(void)

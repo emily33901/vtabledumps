@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgGSGetUserGroupStatusResponse_t>
+// Auto reconstructed from vtable block @ 0x00F04434
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgGSGetUserGroupStatusResponse_t>::~CClientMsg()
+1	CClientMsg<MsgGSGetUserGroupStatusResponse_t>::~CClientMsg()

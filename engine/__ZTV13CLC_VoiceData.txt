@@ -1,0 +1,16 @@
+// `vtable for'CLC_VoiceData
+// Auto reconstructed from vtable block @ 0x004B3710
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_VoiceData::~CLC_VoiceData()
+1	CLC_VoiceData::~CLC_VoiceData()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_VoiceData::Process(void)
+5	CLC_VoiceData::ReadFromBuffer(bf_read &)
+6	CLC_VoiceData::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_VoiceData::GetType(void)const
+9	CLC_VoiceData::GetGroup(void)const
+10	CLC_VoiceData::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_VoiceData::ToString(void)const

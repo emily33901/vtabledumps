@@ -1,0 +1,8 @@
+// `vtable for'CBrushSurface
+// Auto reconstructed from vtable block @ 0x004E8160
+// from "engine.dylib", by ida_vtables.idc
+0	CBrushSurface::ComputeTextureCoordinate(Vector const&,Vector2D &)
+1	CBrushSurface::ComputeLightmapCoordinate(Vector const&,Vector2D &)
+2	CBrushSurface::GetVertexCount(void)const
+3	CBrushSurface::GetVertexData(BrushVertex_t *)
+4	CBrushSurface::GetMaterial(void)

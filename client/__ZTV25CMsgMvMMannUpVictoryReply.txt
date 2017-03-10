@@ -1,0 +1,23 @@
+// `vtable for'CMsgMvMMannUpVictoryReply
+// Auto reconstructed from vtable block @ 0x00E53220
+// from "client.dylib", by ida_vtables.idc
+0	CMsgMvMMannUpVictoryReply::~CMsgMvMMannUpVictoryReply()
+1	CMsgMvMMannUpVictoryReply::~CMsgMvMMannUpVictoryReply()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgMvMMannUpVictoryReply::New(void)const
+4	CMsgMvMMannUpVictoryReply::Clear(void)
+5	CMsgMvMMannUpVictoryReply::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgMvMMannUpVictoryReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgMvMMannUpVictoryReply::ByteSize(void)const
+10	CMsgMvMMannUpVictoryReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgMvMMannUpVictoryReply::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgMvMMannUpVictoryReply::GetCachedSize(void)const
+13	CMsgMvMMannUpVictoryReply::CopyFrom(google::protobuf::Message const&)
+14	CMsgMvMMannUpVictoryReply::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgMvMMannUpVictoryReply::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgMvMMannUpVictoryReply::GetMetadata(void)const

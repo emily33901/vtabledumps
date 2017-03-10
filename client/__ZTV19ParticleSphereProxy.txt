@@ -1,0 +1,9 @@
+// `vtable for'ParticleSphereProxy
+// Auto reconstructed from vtable block @ 0x010C71C0
+// from "client.dylib", by ida_vtables.idc
+0	ParticleSphereProxy::Init(IMaterial *,KeyValues *)
+1	ParticleSphereProxy::OnBind(void *)
+2	ParticleSphereProxy::Release(void)
+3	ParticleSphereProxy::GetMaterial(void)
+4	ParticleSphereProxy::~ParticleSphereProxy()
+5	ParticleSphereProxy::~ParticleSphereProxy()

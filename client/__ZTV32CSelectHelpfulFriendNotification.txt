@@ -1,0 +1,18 @@
+// `vtable for'CSelectHelpfulFriendNotification
+// Auto reconstructed from vtable block @ 0x010E0360
+// from "client.dylib", by ida_vtables.idc
+0	CSelectHelpfulFriendNotification::~CSelectHelpfulFriendNotification()
+1	CSelectHelpfulFriendNotification::~CSelectHelpfulFriendNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEconNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CSelectHelpfulFriendNotification::CanBeTriggered(void)
+8	CSelectHelpfulFriendNotification::Trigger(void)
+9	CSelectHelpfulFriendNotification::CanBeAcceptedOrDeclined(void)
+10	CSelectHelpfulFriendNotification::Accept(void)
+11	CSelectHelpfulFriendNotification::Decline(void)
+12	CEconNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

@@ -1,0 +1,24 @@
+// `vtable for'CDepotHTTPDownloadInterface
+// Auto reconstructed from vtable block @ 0x00ED1C40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotHTTPDownloadInterface::~CDepotHTTPDownloadInterface()
+1	CDepotHTTPDownloadInterface::~CDepotHTTPDownloadInterface()
+2	___cxa_pure_virtual
+3	CDepotHTTPDownloadInterface::GetSourceName(void)
+4	___cxa_pure_virtual
+5	CDepotHTTPDownloadInterface::CloseConnection(void)
+6	___cxa_pure_virtual
+7	CDepotHTTPDownloadInterface::GetChunkScore(CSHA const&)
+8	CDepotHTTPDownloadInterface::YieldingRequestDepotManifest(CManifestResponseData *)
+9	CDepotHTTPDownloadInterface::YieldingRequestDepotChunks(unsigned int,CUtlVector<CSHA,CUtlMemory<CSHA>> const&)
+10	IDepotDownloadInterface::BSetInterfaceWeight(unsigned int)
+11	IDepotDownloadInterface::GetInterfaceWeight(void)
+12	CDepotHTTPDownloadInterface::Validate(CValidator &,char const*)
+13	CDepotHTTPDownloadInterface::Init(CBaseUser *,char const*,char const*,DownloadSourceID_t const&,unsigned int,CUtlVector<unsigned int,CUtlMemory<unsigned int>> &,CDepotDownloadMgr *)
+14	CDepotHTTPDownloadInterface::GetDownloadSourceID(void)
+15	___cxa_pure_virtual
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual
+18	CDepotHTTPDownloadInterface::CreateNextRequestHeader(CHTTPClientRequest *)
+19	CDepotHTTPDownloadInterface::OnHTTPResponse(unsigned int,EHTTPStatusCode)
+20	CDepotHTTPDownloadInterface::BResponseCameFromProxyCache(CHTTPRequestHandle *)

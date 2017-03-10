@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCStorePurchaseInitResponse>
+// Auto reconstructed from vtable block @ 0x010AB910
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCStorePurchaseInitResponse>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCStorePurchaseInitResponse>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCStorePurchaseInitResponse>::GetGenericBody(void)const

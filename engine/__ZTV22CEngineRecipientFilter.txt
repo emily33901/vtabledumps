@@ -1,0 +1,9 @@
+// `vtable for'CEngineRecipientFilter
+// Auto reconstructed from vtable block @ 0x004E7BE0
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineRecipientFilter::~CEngineRecipientFilter()
+1	CEngineRecipientFilter::~CEngineRecipientFilter()
+2	CEngineRecipientFilter::IsReliable(void)const
+3	CEngineRecipientFilter::IsInitMessage(void)const
+4	CEngineRecipientFilter::GetRecipientCount(void)const
+5	CEngineRecipientFilter::GetRecipientIndex(int)const

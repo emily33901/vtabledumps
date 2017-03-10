@@ -1,0 +1,23 @@
+// `vtable for'CMsgAMFindAccounts
+// Auto reconstructed from vtable block @ 0x00E96B70
+// from "client.dylib", by ida_vtables.idc
+0	CMsgAMFindAccounts::~CMsgAMFindAccounts()
+1	CMsgAMFindAccounts::~CMsgAMFindAccounts()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgAMFindAccounts::New(void)const
+4	CMsgAMFindAccounts::Clear(void)
+5	CMsgAMFindAccounts::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgAMFindAccounts::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgAMFindAccounts::ByteSize(void)const
+10	CMsgAMFindAccounts::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgAMFindAccounts::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgAMFindAccounts::GetCachedSize(void)const
+13	CMsgAMFindAccounts::CopyFrom(google::protobuf::Message const&)
+14	CMsgAMFindAccounts::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgAMFindAccounts::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgAMFindAccounts::GetMetadata(void)const

@@ -1,0 +1,23 @@
+// `vtable for'CParental_SetParentalSettings_Response
+// Auto reconstructed from vtable block @ 0x00EC67A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CParental_SetParentalSettings_Response::~CParental_SetParentalSettings_Response()
+1	CParental_SetParentalSettings_Response::~CParental_SetParentalSettings_Response()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CParental_SetParentalSettings_Response::New(void)const
+4	CParental_SetParentalSettings_Response::Clear(void)
+5	CParental_SetParentalSettings_Response::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CParental_SetParentalSettings_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CParental_SetParentalSettings_Response::ByteSize(void)const
+10	CParental_SetParentalSettings_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CParental_SetParentalSettings_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CParental_SetParentalSettings_Response::GetCachedSize(void)const
+13	CParental_SetParentalSettings_Response::CopyFrom(google::protobuf::Message const&)
+14	CParental_SetParentalSettings_Response::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CParental_SetParentalSettings_Response::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CParental_SetParentalSettings_Response::GetMetadata(void)const

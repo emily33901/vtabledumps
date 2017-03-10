@@ -1,0 +1,9 @@
+// `vtable for'CPulseHapticWorkItem
+// Auto reconstructed from vtable block @ 0x00F01DB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPulseHapticWorkItem::~CPulseHapticWorkItem()
+1	CPulseHapticWorkItem::~CPulseHapticWorkItem()
+2	CPulseHapticWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CPulseHapticWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

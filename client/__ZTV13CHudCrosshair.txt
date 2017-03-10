@@ -1,0 +1,30 @@
+// `vtable for'CHudCrosshair
+// Auto reconstructed from vtable block @ 0x00F0E600
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudCrosshair
+1	CHudCrosshair::~CHudCrosshair()
+2	CHudCrosshair::~CHudCrosshair()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudCrosshair::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudCrosshair::GetMessageMap(void)
+18	CHudCrosshair::GetAnimMap(void)
+19	CHudCrosshair::GetKBMap(void)
+20	CHudCrosshair::SetCrosshairAngle(QAngle const&)
+21	CHudCrosshair::SetCrosshair(CHudTexture *,Color const&)
+22	CHudCrosshair::ResetCrosshair(void)
+23	CHudCrosshair::DrawCrosshair(void)
+24	CHudCrosshair::HasCrosshair(void)
+25	CHudCrosshair::ApplySchemeSettings(vgui::IScheme *)
+26	CHudCrosshair::Paint(void)

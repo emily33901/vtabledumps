@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgReplayUploadedToYouTube>
+// Auto reconstructed from vtable block @ 0x010CAE20
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgReplayUploadedToYouTube>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgReplayUploadedToYouTube>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgReplayUploadedToYouTube>::GetGenericBody(void)const

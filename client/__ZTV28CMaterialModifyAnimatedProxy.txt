@@ -1,0 +1,11 @@
+// `vtable for'CMaterialModifyAnimatedProxy
+// Auto reconstructed from vtable block @ 0x00EA9690
+// from "client.dylib", by ida_vtables.idc
+0	CMaterialModifyAnimatedProxy::Init(IMaterial *,KeyValues *)
+1	CMaterialModifyAnimatedProxy::OnBind(void *)
+2	CBaseAnimatedTextureProxy::Release(void)
+3	CBaseAnimatedTextureProxy::GetMaterial(void)
+4	CMaterialModifyAnimatedProxy::~CMaterialModifyAnimatedProxy()
+5	CMaterialModifyAnimatedProxy::~CMaterialModifyAnimatedProxy()
+6	CMaterialModifyAnimatedProxy::GetAnimationStartTime(void *)
+7	CMaterialModifyAnimatedProxy::AnimationWrapped(void *)

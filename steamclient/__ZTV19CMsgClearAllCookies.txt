@@ -1,0 +1,23 @@
+// `vtable for'CMsgClearAllCookies
+// Auto reconstructed from vtable block @ 0x00ECD740
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClearAllCookies::~CMsgClearAllCookies()
+1	CMsgClearAllCookies::~CMsgClearAllCookies()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClearAllCookies::New(void)const
+4	CMsgClearAllCookies::Clear(void)
+5	CMsgClearAllCookies::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClearAllCookies::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClearAllCookies::ByteSize(void)const
+10	CMsgClearAllCookies::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClearAllCookies::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClearAllCookies::GetCachedSize(void)const
+13	CMsgClearAllCookies::CopyFrom(google::protobuf::Message const&)
+14	CMsgClearAllCookies::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClearAllCookies::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClearAllCookies::GetMetadata(void)const

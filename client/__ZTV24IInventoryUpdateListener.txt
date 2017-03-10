@@ -1,0 +1,11 @@
+// `vtable for'IInventoryUpdateListener
+// Auto reconstructed from vtable block @ 0x010E30C0
+// from "client.dylib", by ida_vtables.idc
+0	IInventoryUpdateListener::SOCreated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+1	IInventoryUpdateListener::PreSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+2	IInventoryUpdateListener::SOUpdated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+3	IInventoryUpdateListener::PostSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+4	IInventoryUpdateListener::SODestroyed(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+5	IInventoryUpdateListener::SOCacheSubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+6	IInventoryUpdateListener::SOCacheUnsubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+7	___cxa_pure_virtual

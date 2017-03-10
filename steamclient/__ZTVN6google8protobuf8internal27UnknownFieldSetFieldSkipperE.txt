@@ -1,0 +1,8 @@
+// `vtable for'google::protobuf::internal::UnknownFieldSetFieldSkipper
+// Auto reconstructed from vtable block @ 0x00ED6060
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::internal::UnknownFieldSetFieldSkipper::~UnknownFieldSetFieldSkipper()
+1	google::protobuf::internal::UnknownFieldSetFieldSkipper::~UnknownFieldSetFieldSkipper()
+2	google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipField(google::protobuf::io::CodedInputStream *,unsigned int)
+3	google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream *)
+4	google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipUnknownEnum(int,int)

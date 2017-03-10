@@ -1,0 +1,7 @@
+// `vtable for'CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem
+// Auto reconstructed from vtable block @ 0x00E3EEB0
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::~CDynamicRecipeComponentDefinedItem()
+1	CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::~CDynamicRecipeComponentDefinedItem()
+2	CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::ParseKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+3	CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::BFinishInitialization_Internal(CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *,CUtlVector*<CEconItemAttributeDefinition const*,CUtlMemory<CEconItemAttributeDefinition const,int>>)

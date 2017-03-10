@@ -1,0 +1,25 @@
+// `vtable for'CHudArenaVsPanel
+// Auto reconstructed from vtable block @ 0x00F546D0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudArenaVsPanel
+1	CHudArenaVsPanel::~CHudArenaVsPanel()
+2	CHudArenaVsPanel::~CHudArenaVsPanel()
+3	CHudArenaVsPanel::FireGameEvent(IGameEvent *)
+4	CHudArenaVsPanel::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudArenaVsPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudArenaVsPanel::GetMessageMap(void)
+18	CHudArenaVsPanel::GetAnimMap(void)
+19	CHudArenaVsPanel::GetKBMap(void)
+20	CHudArenaVsPanel::ApplySchemeSettings(vgui::IScheme *)
+21	CHudArenaVsPanel::OnTick(void)

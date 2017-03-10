@@ -1,0 +1,6 @@
+// `vtable for'CColorProperty
+// Auto reconstructed from vtable block @ 0x0053EFE0
+// from "engine.dylib", by ida_vtables.idc
+0	CColorProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CColorProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CColorProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

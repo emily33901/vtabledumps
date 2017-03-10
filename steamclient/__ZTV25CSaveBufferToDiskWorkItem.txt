@@ -1,0 +1,11 @@
+// `vtable for'CSaveBufferToDiskWorkItem
+// Auto reconstructed from vtable block @ 0x00ED4EE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSaveBufferToDiskWorkItem::~CSaveBufferToDiskWorkItem()
+1	CSaveBufferToDiskWorkItem::~CSaveBufferToDiskWorkItem()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CSaveBufferToDiskWorkItem::GetWorkItemName(void)const
+4	CSaveBufferToDiskWorkItem::GetThreadProcessName(void)const
+5	CSaveBufferToDiskWorkItem::ThreadProcess(CWorkThread *)
+6	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

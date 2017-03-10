@@ -1,0 +1,9 @@
+// `vtable for'CPASFilter
+// Auto reconstructed from vtable block @ 0x0104B820
+// from "client.dylib", by ida_vtables.idc
+0	CPASFilter::~CPASFilter()
+1	CPASFilter::~CPASFilter()
+2	C_RecipientFilter::IsReliable(void)const
+3	C_RecipientFilter::IsInitMessage(void)const
+4	C_RecipientFilter::GetRecipientCount(void)const
+5	C_RecipientFilter::GetRecipientIndex(int)const

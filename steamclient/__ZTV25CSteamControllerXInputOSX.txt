@@ -1,0 +1,12 @@
+// `vtable for'CSteamControllerXInputOSX
+// Auto reconstructed from vtable block @ 0x00ED1170
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamControllerXInputOSX::~CSteamControllerXInputOSX()
+1	CSteamControllerXInputOSX::~CSteamControllerXInputOSX()
+2	CSteamControllerXInputOSX::BIsConnected(unsigned int)
+3	CSteamControllerXInputOSX::SetConnected(unsigned int,bool)
+4	CSteamControllerXInputOSX::SendGamePadButtonEvent(unsigned int,Voltroller::GamepadButtons,bool)
+5	CSteamControllerXInputOSX::SendAxisEvent(unsigned int,ISpoofControllerXInput::EAxis,short)
+6	CSteamControllerXInputOSX::SetEnabledByAppID(unsigned int,bool,bool)
+7	CSteamControllerXInputOSX::BGetRumbleRequest(unsigned int,unsigned short *,unsigned short *)
+8	CSteamControllerXInputOSX::Validate(CValidator &,char const*)

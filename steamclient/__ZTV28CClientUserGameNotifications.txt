@@ -1,0 +1,8 @@
+// `vtable for'CClientUserGameNotifications
+// Auto reconstructed from vtable block @ 0x00ED4A00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientUserGameNotifications::EnumerateNotifications(unsigned int)
+1	CClientUserGameNotifications::GetNotificationCount(unsigned int)
+2	CClientUserGameNotifications::GetNotification(unsigned int,int,GameNotification_t *)
+3	CClientUserGameNotifications::RemoveSession(unsigned int,unsigned long long)
+4	CClientUserGameNotifications::UpdateSession(unsigned int,unsigned long long)

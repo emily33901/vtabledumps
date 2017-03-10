@@ -1,0 +1,7 @@
+// `vtable for'C_BaseEntity::NetworkVar_m_Particles
+// Auto reconstructed from vtable block @ 0x0108F0F0
+// from "client.dylib", by ida_vtables.idc
+0	C_BaseEntity::NetworkVar_m_Particles::NetworkStateChanged(void)
+1	C_BaseEntity::NetworkVar_m_Particles::NetworkStateChanged(void *)
+2	CParticleProperty::GetPredDescMap(void)
+3	CParticleProperty::GetDataDescMap(void)

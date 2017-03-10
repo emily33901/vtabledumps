@@ -1,0 +1,12 @@
+// `vtable for'CInstallScriptManager
+// Auto reconstructed from vtable block @ 0x00ED25B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInstallScriptManager::~CInstallScriptManager()
+1	CInstallScriptManager::~CInstallScriptManager()
+2	CInstallScriptManager::RunInstallScript(CUser *,unsigned int *,int,char const*,char const*)
+3	CInstallScriptManager::RunInstallScriptCleanUp(CUser *,unsigned int *,int,char const*,char const*)
+4	CInstallScriptManager::IsInstallScriptRunning(void)
+5	CInstallScriptManager::GetInstallScriptState(char *,unsigned int,unsigned int *,unsigned int *)
+6	CInstallScriptManager::EnableServiceForInstallScripts(bool)
+7	CInstallScriptManager::Validate(CValidator &,char const*)
+8	CInstallScriptManager::GetInstallScriptString(CUser *,unsigned int,char const*,char const*,char const*,char const*,char *,int)

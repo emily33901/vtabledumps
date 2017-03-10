@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>
+// Auto reconstructed from vtable block @ 0x0114A7B0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::InternalFree(google::protobuf::Message *)

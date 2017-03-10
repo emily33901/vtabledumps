@@ -1,0 +1,7 @@
+// `vtable for'CCoreDispInfo
+// Auto reconstructed from vtable block @ 0x004B6270
+// from "engine.dylib", by ida_vtables.idc
+0	CCoreDispInfo::GetPowerInfo(void)const
+1	CCoreDispInfo::GetEdgeNeighbor(int)
+2	CCoreDispInfo::GetCornerNeighbors(int)
+3	CCoreDispInfo::GetDispUtilsByIndex(int)

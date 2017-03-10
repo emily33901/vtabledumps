@@ -1,0 +1,10 @@
+// `vtable for'CModeSetting<bool>
+// Auto reconstructed from vtable block @ 0x00F024E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CModeSetting<bool>::Get(void)const
+1	CModeSetting<bool>::Set(short)
+2	CModeSetting<bool>::MapToUI(void)const
+3	CModeSetting<bool>::MapFromUI(unsigned short)
+4	CModeSetting<bool>::IsDefault(void)const
+5	CModeSetting<bool>::GetDefault(void)
+6	CModeSetting<bool>::GetRawDefault(void)

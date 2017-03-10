@@ -1,0 +1,7 @@
+// `vtable for'Reader
+// Auto reconstructed from vtable block @ 0x00F261E4
+// from "steamclient.dylib", by ida_vtables.idc
+0	Reader::~Reader()
+1	Reader::~Reader()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual

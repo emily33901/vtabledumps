@@ -1,0 +1,3 @@
+// `vtable for'std::basic_stringbuf<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>
+// Auto reconstructed from vtable block @ 0x0239A534
+// from "client.dylib", by ida_vtables.idc

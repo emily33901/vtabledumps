@@ -1,0 +1,11 @@
+// `vtable for'CAppSystemGroup
+// Auto reconstructed from vtable block @ 0x0051D200
+// from "engine.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	CAppSystemGroup::Startup(void)
+6	CAppSystemGroup::Shutdown(void)
+7	CAppSystemGroup::LoadModuleDLL(char const*)

@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>
+// Auto reconstructed from vtable block @ 0x0114A780
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::GetGenericBody(void)const

@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCMsgMasterSetWebAPIRouting
+// Auto reconstructed from vtable block @ 0x00E98070
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCMsgMasterSetWebAPIRouting::~CMsgGCMsgMasterSetWebAPIRouting()
+1	CMsgGCMsgMasterSetWebAPIRouting::~CMsgGCMsgMasterSetWebAPIRouting()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCMsgMasterSetWebAPIRouting::New(void)const
+4	CMsgGCMsgMasterSetWebAPIRouting::Clear(void)
+5	CMsgGCMsgMasterSetWebAPIRouting::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCMsgMasterSetWebAPIRouting::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCMsgMasterSetWebAPIRouting::ByteSize(void)const
+10	CMsgGCMsgMasterSetWebAPIRouting::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCMsgMasterSetWebAPIRouting::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCMsgMasterSetWebAPIRouting::GetCachedSize(void)const
+13	CMsgGCMsgMasterSetWebAPIRouting::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCMsgMasterSetWebAPIRouting::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCMsgMasterSetWebAPIRouting::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCMsgMasterSetWebAPIRouting::GetMetadata(void)const

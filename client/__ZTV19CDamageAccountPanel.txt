@@ -1,0 +1,26 @@
+// `vtable for'CDamageAccountPanel
+// Auto reconstructed from vtable block @ 0x00F4C830
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CDamageAccountPanel
+1	CDamageAccountPanel::~CDamageAccountPanel()
+2	CDamageAccountPanel::~CDamageAccountPanel()
+3	CDamageAccountPanel::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CDamageAccountPanel::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CDamageAccountPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CDamageAccountPanel::GetMessageMap(void)
+18	CDamageAccountPanel::GetAnimMap(void)
+19	CDamageAccountPanel::GetKBMap(void)
+20	CDamageAccountPanel::OnTick(void)
+21	CDamageAccountPanel::GetResFileName(void)
+22	CDamageAccountPanel::Paint(void)

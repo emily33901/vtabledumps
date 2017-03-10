@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgHorizontalScrollBarSizeResponse>
+// Auto reconstructed from vtable block @ 0x00F05B68
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgHorizontalScrollBarSizeResponse>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgHorizontalScrollBarSizeResponse>::~CHTMLProtoBufMsg()

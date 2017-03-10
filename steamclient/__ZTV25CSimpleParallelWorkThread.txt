@@ -1,0 +1,10 @@
+// `vtable for'CSimpleParallelWorkThread
+// Auto reconstructed from vtable block @ 0x00F017A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSimpleParallelWorkThread::~CSimpleParallelWorkThread()
+1	CSimpleParallelWorkThread::~CSimpleParallelWorkThread()
+2	SteamThreadTools::CThread::Init(void)
+3	CSimpleParallelWorkThread::Run(void)
+4	SteamThreadTools::CThread::OnExit(void)
+5	SteamThreadTools::CThread::IsThreadRunning(void)const
+6	SteamThreadTools::CThread::GetThreadProc(void)

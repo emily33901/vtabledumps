@@ -1,0 +1,33 @@
+// `vtable for'CHudUpgradePanel
+// Auto reconstructed from vtable block @ 0x00F46ED0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudUpgradePanel
+1	CHudUpgradePanel::~CHudUpgradePanel()
+2	CHudUpgradePanel::~CHudUpgradePanel()
+3	CHudUpgradePanel::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudUpgradePanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudUpgradePanel::SetActive(bool)
+14	CHudUpgradePanel::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudUpgradePanel::GetRenderGroupPriority(void)
+17	CHudUpgradePanel::GetMessageMap(void)
+18	CHudUpgradePanel::GetAnimMap(void)
+19	CHudUpgradePanel::GetKBMap(void)
+20	CHudUpgradePanel::ApplySchemeSettings(vgui::IScheme *)
+21	CHudUpgradePanel::ApplySettings(KeyValues *)
+22	CHudUpgradePanel::PerformLayout(void)
+23	CHudUpgradePanel::SetVisible(bool)
+24	CHudUpgradePanel::OnCommand(char const*)
+25	CHudUpgradePanel::OnTick(void)
+26	CHudUpgradePanel::OnItemPanelEntered(vgui::Panel *)
+27	CHudUpgradePanel::OnItemPanelExited(vgui::Panel *)
+28	CHudUpgradePanel::OnItemPanelMousePressed(vgui::Panel *)
+29	CHudUpgradePanel::SetBorderForItem(CItemModelPanel *,bool)

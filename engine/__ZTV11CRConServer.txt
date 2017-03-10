@@ -1,0 +1,6 @@
+// `vtable for'CRConServer
+// Auto reconstructed from vtable block @ 0x004EE000
+// from "engine.dylib", by ida_vtables.idc
+0	CRConServer::ShouldAcceptSocket(int,netadr_s const&)
+1	CRConServer::OnSocketAccepted(int,netadr_s const&,void **)
+2	CRConServer::OnSocketClosed(int,netadr_s const&,void *)

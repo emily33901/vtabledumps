@@ -1,0 +1,25 @@
+// `vtable for'CHudArenaPlayerCount
+// Auto reconstructed from vtable block @ 0x00F53B60
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudArenaPlayerCount
+1	CHudArenaPlayerCount::~CHudArenaPlayerCount()
+2	CHudArenaPlayerCount::~CHudArenaPlayerCount()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudArenaPlayerCount::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudArenaPlayerCount::GetMessageMap(void)
+18	CHudArenaPlayerCount::GetAnimMap(void)
+19	CHudArenaPlayerCount::GetKBMap(void)
+20	CHudArenaPlayerCount::ApplySchemeSettings(vgui::IScheme *)
+21	CHudArenaPlayerCount::OnTick(void)

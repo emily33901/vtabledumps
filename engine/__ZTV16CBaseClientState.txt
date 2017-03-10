@@ -1,0 +1,52 @@
+// `vtable for'CBaseClientState
+// Auto reconstructed from vtable block @ 0x004B6FB0
+// from "engine.dylib", by ida_vtables.idc
+0	CBaseClientState::~CBaseClientState()
+1	CBaseClientState::~CBaseClientState()
+2	CBaseClientState::ConnectionStart(INetChannel *)
+3	CBaseClientState::ConnectionClosing(char const*)
+4	CBaseClientState::ConnectionCrashed(char const*)
+5	CBaseClientState::PacketStart(int,int)
+6	CBaseClientState::PacketEnd(void)
+7	CBaseClientState::FileRequested(char const*,unsigned int)
+8	CBaseClientState::FileReceived(char const*,unsigned int)
+9	CBaseClientState::FileDenied(char const*,unsigned int)
+10	CBaseClientState::FileSent(char const*,unsigned int)
+11	CBaseClientState::ProcessConnectionlessPacket(netpacket_s *)
+12	CBaseClientState::ProcessTick(NET_Tick *)
+13	CBaseClientState::ProcessStringCmd(NET_StringCmd *)
+14	CBaseClientState::ProcessSetConVar(NET_SetConVar *)
+15	CBaseClientState::ProcessSignonState(NET_SignonState *)
+16	CBaseClientState::ProcessPrint(SVC_Print *)
+17	CBaseClientState::ProcessServerInfo(SVC_ServerInfo *)
+18	CBaseClientState::ProcessSendTable(SVC_SendTable *)
+19	CBaseClientState::ProcessClassInfo(SVC_ClassInfo *)
+20	CBaseClientState::ProcessSetPause(SVC_SetPause *)
+21	CBaseClientState::ProcessCreateStringTable(SVC_CreateStringTable *)
+22	CBaseClientState::ProcessUpdateStringTable(SVC_UpdateStringTable *)
+23	CBaseClientState::ProcessSetView(SVC_SetView *)
+24	CBaseClientState::ProcessPacketEntities(SVC_PacketEntities *)
+25	CBaseClientState::ProcessMenu(SVC_Menu *)
+26	CBaseClientState::ProcessGameEventList(SVC_GameEventList *)
+27	CBaseClientState::ProcessGetCvarValue(SVC_GetCvarValue *)
+28	CBaseClientState::ProcessCmdKeyValues(SVC_CmdKeyValues *)
+29	CBaseClientState::GetDemoProtocolVersion(void)const
+30	CBaseClientState::Clear(void)
+31	CBaseClientState::FullConnect(netadr_s &)
+32	CBaseClientState::Connect(char const*,char const*)
+33	CBaseClientState::SetSignonState(int,int)
+34	CBaseClientState::Disconnect(char const*,bool)
+35	CBaseClientState::SendConnectPacket(int,int,unsigned long long,bool)
+36	CBaseClientState::GetCDKeyHash(void)
+37	CBaseClientState::RunFrame(void)
+38	CBaseClientState::CheckForResend(void)
+39	CBaseClientState::InstallStringTableCallback(char const*)
+40	CBaseClientState::HookClientStringTable(char const*)
+41	CBaseClientState::LinkClasses(void)
+42	CBaseClientState::GetConnectionRetryNumber(void)const
+43	CBaseClientState::GetClientName(void)
+44	___cxa_pure_virtual
+45	___cxa_pure_virtual
+46	___cxa_pure_virtual
+47	___cxa_pure_virtual
+48	___cxa_pure_virtual

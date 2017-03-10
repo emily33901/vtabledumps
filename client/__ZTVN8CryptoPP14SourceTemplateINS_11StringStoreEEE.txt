@@ -1,0 +1,57 @@
+// `vtable for'CryptoPP::SourceTemplate<CryptoPP::StringStore>
+// Auto reconstructed from vtable block @ 0x010164E0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::SourceTemplate<CryptoPP::StringStore>::~SourceTemplate()
+1	CryptoPP::SourceTemplate<CryptoPP::StringStore>::~SourceTemplate()
+2	CryptoPP::Clonable::Clone(void)const
+3	CryptoPP::Algorithm::AlgorithmName(void)const
+4	CryptoPP::BufferedTransformation::CreatePutSpace(unsigned long &)
+5	CryptoPP::BufferedTransformation::CanModifyInput(void)const
+6	CryptoPP::InputRejecting<CryptoPP::Filter>::Put2(unsigned char const*,unsigned long,int,bool)
+7	CryptoPP::BufferedTransformation::PutModifiable2(unsigned char *,unsigned long,int,bool)
+8	CryptoPP::BufferedTransformation::GetMaxWaitObjectCount(void)const
+9	CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer &,CryptoPP::CallStack const&)
+10	CryptoPP::SourceTemplate<CryptoPP::StringStore>::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+11	CryptoPP::InputRejecting<CryptoPP::Filter>::IsolatedFlush(bool,bool)
+12	CryptoPP::InputRejecting<CryptoPP::Filter>::IsolatedMessageSeriesEnd(bool)
+13	CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&,int)
+14	CryptoPP::Filter::Flush(bool,int,bool)
+15	CryptoPP::Filter::MessageSeriesEnd(int,bool)
+16	CryptoPP::SourceTemplate<CryptoPP::StringStore>::SetAutoSignalPropagation(int)
+17	CryptoPP::SourceTemplate<CryptoPP::StringStore>::GetAutoSignalPropagation(void)const
+18	CryptoPP::BufferedTransformation::MaxRetrievable(void)const
+19	CryptoPP::BufferedTransformation::AnyRetrievable(void)const
+20	CryptoPP::BufferedTransformation::Get(unsigned char &)
+21	CryptoPP::BufferedTransformation::Get(unsigned char *,unsigned long)
+22	CryptoPP::BufferedTransformation::Peek(unsigned char &)const
+23	CryptoPP::BufferedTransformation::Peek(unsigned char *,unsigned long)const
+24	CryptoPP::BufferedTransformation::Skip(unsigned long long)
+25	CryptoPP::BufferedTransformation::TotalBytesRetrievable(void)const
+26	CryptoPP::BufferedTransformation::NumberOfMessages(void)const
+27	CryptoPP::BufferedTransformation::AnyMessages(void)const
+28	CryptoPP::BufferedTransformation::GetNextMessage(void)
+29	CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+30	CryptoPP::BufferedTransformation::SkipAll(void)
+31	CryptoPP::BufferedTransformation::GetNextMessageSeries(void)
+32	CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries(void)const
+33	CryptoPP::BufferedTransformation::NumberOfMessageSeries(void)const
+34	CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation &,unsigned long long &,std::string const&,bool)
+35	CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation &,unsigned long long &,unsigned long long,std::string const&,bool)const
+36	CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&,unsigned long &)
+37	CryptoPP::InputRejecting<CryptoPP::Filter>::ChannelPut2(std::string const&,unsigned char const*,unsigned long,int,bool)
+38	CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&,unsigned char *,unsigned long,int,bool)
+39	CryptoPP::BufferedTransformation::ChannelFlush(std::string const&,bool,int,bool)
+40	CryptoPP::InputRejecting<CryptoPP::Filter>::ChannelMessageSeriesEnd(std::string const&,int,bool)
+41	CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+42	CryptoPP::Filter::Attachable(void)
+43	CryptoPP::Filter::AttachedTransformation(void)
+44	CryptoPP::Filter::AttachedTransformation(void)const
+45	CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation *)
+46	CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+47	CryptoPP::Filter::NewDefaultAttachment(void)const
+48	CryptoPP::Filter::ShouldPropagateMessageEnd(void)const
+49	CryptoPP::Filter::ShouldPropagateMessageSeriesEnd(void)const
+50	CryptoPP::SourceTemplate<CryptoPP::StringStore>::Pump2(unsigned long long &,bool)
+51	CryptoPP::SourceTemplate<CryptoPP::StringStore>::PumpMessages2(unsigned int &,bool)
+52	CryptoPP::SourceTemplate<CryptoPP::StringStore>::PumpAll2(bool)
+53	CryptoPP::SourceTemplate<CryptoPP::StringStore>::SourceExhausted(void)const

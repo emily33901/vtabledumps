@@ -1,0 +1,5 @@
+// `vtable for'GCSDK::CGCMsg<MsgGC_Duel_Response_t>
+// Auto reconstructed from vtable block @ 0x010E6DE4
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCMsg<MsgGC_Duel_Response_t>::~CGCMsg()
+1	GCSDK::CGCMsg<MsgGC_Duel_Response_t>::~CGCMsg()

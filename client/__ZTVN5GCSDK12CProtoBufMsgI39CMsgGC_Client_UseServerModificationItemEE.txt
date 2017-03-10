@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGC_Client_UseServerModificationItem>
+// Auto reconstructed from vtable block @ 0x010E8060
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGC_Client_UseServerModificationItem>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGC_Client_UseServerModificationItem>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGC_Client_UseServerModificationItem>::GetGenericBody(void)const

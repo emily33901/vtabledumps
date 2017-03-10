@@ -1,0 +1,11 @@
+// `vtable for'CClientAudio
+// Auto reconstructed from vtable block @ 0x00EC0880
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientAudio::StartVoiceRecording(void)
+1	CClientAudio::StopVoiceRecording(void)
+2	CClientAudio::ResetVoiceRecording(void)
+3	CClientAudio::GetAvailableVoice(unsigned int *,unsigned int *,unsigned int)
+4	CClientAudio::GetVoice(bool,void *,unsigned int,unsigned int *,bool,void *,unsigned int,unsigned int *,unsigned int)
+5	CClientAudio::GetCompressedVoice(void *,unsigned int,unsigned int *)
+6	CClientAudio::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
+7	CClientAudio::GetVoiceOptimalSampleRate(void)

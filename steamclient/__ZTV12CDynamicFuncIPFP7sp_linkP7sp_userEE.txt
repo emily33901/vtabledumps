@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<sp_link * (*)(sp_user *)>
+// Auto reconstructed from vtable block @ 0x00F0EBA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_link * (*)(sp_user *)>::Init(CSysModule *)
+1	CDynamicFunc<sp_link * (*)(sp_user *)>::Release(void)
+2	CDynamicFunc<sp_link * (*)(sp_user *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_link * (*)(sp_user *)>::GetNextPointer(void)

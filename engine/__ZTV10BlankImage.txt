@@ -1,0 +1,16 @@
+// `vtable for'BlankImage
+// Auto reconstructed from vtable block @ 0x0053D940
+// from "engine.dylib", by ida_vtables.idc
+0	BlankImage::Paint(void)
+1	BlankImage::SetPos(int,int)
+2	BlankImage::GetContentSize(int &,int &)
+3	BlankImage::GetSize(int &,int &)
+4	BlankImage::SetSize(int,int)
+5	BlankImage::SetColor(Color)
+6	BlankImage::~BlankImage()
+7	BlankImage::~BlankImage()
+8	BlankImage::Evict(void)
+9	BlankImage::GetNumFrames(void)
+10	BlankImage::SetFrame(int)
+11	BlankImage::GetID(void)
+12	BlankImage::SetRotation(int)

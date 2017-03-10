@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUFSUploadCommit
+// Auto reconstructed from vtable block @ 0x00EEA400
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSUploadCommit::~CMsgClientUFSUploadCommit()
+1	CMsgClientUFSUploadCommit::~CMsgClientUFSUploadCommit()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUFSUploadCommit::New(void)const
+4	CMsgClientUFSUploadCommit::Clear(void)
+5	CMsgClientUFSUploadCommit::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUFSUploadCommit::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUFSUploadCommit::ByteSize(void)const
+10	CMsgClientUFSUploadCommit::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUFSUploadCommit::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUFSUploadCommit::GetCachedSize(void)const
+13	CMsgClientUFSUploadCommit::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUFSUploadCommit::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUFSUploadCommit::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUFSUploadCommit::GetMetadata(void)const

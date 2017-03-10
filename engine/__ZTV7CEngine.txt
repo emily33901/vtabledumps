@@ -1,0 +1,14 @@
+// `vtable for'CEngine
+// Auto reconstructed from vtable block @ 0x004EE180
+// from "engine.dylib", by ida_vtables.idc
+0	CEngine::~CEngine()
+1	CEngine::~CEngine()
+2	CEngine::Load(bool,char const*)
+3	CEngine::Unload(void)
+4	CEngine::SetNextState(IEngine::EngineState_t)
+5	CEngine::GetState(void)
+6	CEngine::Frame(void)
+7	CEngine::GetFrameTime(void)
+8	CEngine::GetCurTime(void)
+9	CEngine::GetQuitting(void)
+10	CEngine::SetQuitting(int)

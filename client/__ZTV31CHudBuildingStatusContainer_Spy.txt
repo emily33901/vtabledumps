@@ -1,0 +1,25 @@
+// `vtable for'CHudBuildingStatusContainer_Spy
+// Auto reconstructed from vtable block @ 0x00F59720
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudBuildingStatusContainer_Spy
+1	CHudBuildingStatusContainer_Spy::~CHudBuildingStatusContainer_Spy()
+2	CHudBuildingStatusContainer_Spy::~CHudBuildingStatusContainer_Spy()
+3	CHudBuildingStatusContainer::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudBuildingStatusContainer::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudBuildingStatusContainer_Spy::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudBuildingStatusContainer_Spy::GetMessageMap(void)
+18	CHudBuildingStatusContainer_Spy::GetAnimMap(void)
+19	CHudBuildingStatusContainer_Spy::GetKBMap(void)
+20	CHudBuildingStatusContainer::ApplySchemeSettings(vgui::IScheme *)
+21	CHudBuildingStatusContainer::OnTick(void)

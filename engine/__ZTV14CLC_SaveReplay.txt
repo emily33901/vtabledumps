@@ -1,0 +1,16 @@
+// `vtable for'CLC_SaveReplay
+// Auto reconstructed from vtable block @ 0x004B37B0
+// from "engine.dylib", by ida_vtables.idc
+0	CLC_SaveReplay::~CLC_SaveReplay()
+1	CLC_SaveReplay::~CLC_SaveReplay()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	CLC_SaveReplay::Process(void)
+5	CLC_SaveReplay::ReadFromBuffer(bf_read &)
+6	CLC_SaveReplay::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	CLC_SaveReplay::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	CLC_SaveReplay::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	CLC_SaveReplay::ToString(void)const

@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgCraftHalloweenOffering>
+// Auto reconstructed from vtable block @ 0x0111A1F0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgCraftHalloweenOffering>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgCraftHalloweenOffering>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgCraftHalloweenOffering>::GetGenericBody(void)const

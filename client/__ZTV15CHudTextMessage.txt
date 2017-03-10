@@ -1,0 +1,6 @@
+// `vtable for'CHudTextMessage
+// Auto reconstructed from vtable block @ 0x00F33420
+// from "client.dylib", by ida_vtables.idc
+0	CHudTextMessage::LocaliseTextString(char const*,char *,int)
+1	CHudTextMessage::BufferedLocaliseTextString(char const*)
+2	CHudTextMessage::LookupString(char const*,int *)

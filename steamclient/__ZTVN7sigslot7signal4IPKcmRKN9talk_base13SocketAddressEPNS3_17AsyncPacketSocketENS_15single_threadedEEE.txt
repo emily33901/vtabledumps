@@ -1,0 +1,9 @@
+// `vtable for'sigslot::signal4<char const*,unsigned long,talk_base::SocketAddress const&,talk_base::AsyncPacketSocket *,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1DE24
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::signal4<char const*,unsigned long,talk_base::SocketAddress const&,talk_base::AsyncPacketSocket *,sigslot::single_threaded>::~signal4()
+1	sigslot::signal4<char const*,unsigned long,talk_base::SocketAddress const&,talk_base::AsyncPacketSocket *,sigslot::single_threaded>::~signal4()
+2	sigslot::single_threaded::lock(void)
+3	sigslot::single_threaded::unlock(void)
+4	sigslot::_signal_base4<char const*,unsigned long,talk_base::SocketAddress const&,talk_base::AsyncPacketSocket *,sigslot::single_threaded>::slot_disconnect(sigslot::has_slots<sigslot::single_threaded> *)
+5	sigslot::_signal_base4<char const*,unsigned long,talk_base::SocketAddress const&,talk_base::AsyncPacketSocket *,sigslot::single_threaded>::slot_duplicate(sigslot::has_slots<sigslot::single_threaded> const*,sigslot::has_slots<sigslot::single_threaded>*)

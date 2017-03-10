@@ -1,0 +1,23 @@
+// `vtable for'CMsgTFQuickplay_PlayerJoining
+// Auto reconstructed from vtable block @ 0x00E51900
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFQuickplay_PlayerJoining::~CMsgTFQuickplay_PlayerJoining()
+1	CMsgTFQuickplay_PlayerJoining::~CMsgTFQuickplay_PlayerJoining()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgTFQuickplay_PlayerJoining::New(void)const
+4	CMsgTFQuickplay_PlayerJoining::Clear(void)
+5	CMsgTFQuickplay_PlayerJoining::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgTFQuickplay_PlayerJoining::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgTFQuickplay_PlayerJoining::ByteSize(void)const
+10	CMsgTFQuickplay_PlayerJoining::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgTFQuickplay_PlayerJoining::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgTFQuickplay_PlayerJoining::GetCachedSize(void)const
+13	CMsgTFQuickplay_PlayerJoining::CopyFrom(google::protobuf::Message const&)
+14	CMsgTFQuickplay_PlayerJoining::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgTFQuickplay_PlayerJoining::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgTFQuickplay_PlayerJoining::GetMetadata(void)const

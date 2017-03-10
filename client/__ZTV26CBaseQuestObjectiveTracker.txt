@@ -1,0 +1,26 @@
+// `vtable for'CBaseQuestObjectiveTracker
+// Auto reconstructed from vtable block @ 0x00E4D9D0
+// from "client.dylib", by ida_vtables.idc
+0	CBaseQuestObjectiveTracker::~CBaseQuestObjectiveTracker()
+1	CBaseQuestObjectiveTracker::~CBaseQuestObjectiveTracker()
+2	CTFQuestEvaluator::GetBaseName(void)const
+3	CBaseQuestObjectiveTracker::GetConditionName(void)const
+4	CTFQuestCondition::GetValueString(void)const
+5	CTFQuestCondition::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+6	CTFQuestCondition::PrintDebugText(void)const
+7	CBaseQuestObjectiveTracker::GetQuestOwner(void)const
+8	CBaseQuestObjectiveTracker::IsValidForPlayer(C_TFPlayer const*,InvalidReason &)const
+9	CTFQuestCondition::IsOperator(void)const
+10	CTFQuestEvaluator::IsEvaluator(void)const
+11	CTFQuestCondition::AddChildByName(char const*)
+12	CTFQuestCondition::GetChildren(CUtlVector<CTFQuestCondition*,CUtlMemory<CTFQuestCondition*,int>> &)
+13	CTFQuestCondition::RemoveAndDeleteChild(CTFQuestCondition*)
+14	CTFQuestEvaluator::GetRequiredParamKeys(KeyValues *)
+15	CTFQuestEvaluator::GetOutputKeyValues(KeyValues *)
+16	CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+17	CTFQuestEvaluator::GetValidChildren(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+18	CTFQuestCondition::GetMaxInputCount(void)const
+19	CTFQuestCondition::GetEventName(void)const
+20	CTFQuestCondition::SetEventName(char const*)
+21	CBaseQuestObjectiveTracker::EvaluateCondition(CTFQuestEvaluator *,int)
+22	CBaseQuestObjectiveTracker::ResetCondition(void)

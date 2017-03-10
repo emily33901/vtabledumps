@@ -1,0 +1,23 @@
+// `vtable for'CMsgCREUpdateUserPublishedItemVoteResponse
+// Auto reconstructed from vtable block @ 0x00EF0170
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgCREUpdateUserPublishedItemVoteResponse::~CMsgCREUpdateUserPublishedItemVoteResponse()
+1	CMsgCREUpdateUserPublishedItemVoteResponse::~CMsgCREUpdateUserPublishedItemVoteResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgCREUpdateUserPublishedItemVoteResponse::New(void)const
+4	CMsgCREUpdateUserPublishedItemVoteResponse::Clear(void)
+5	CMsgCREUpdateUserPublishedItemVoteResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgCREUpdateUserPublishedItemVoteResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgCREUpdateUserPublishedItemVoteResponse::ByteSize(void)const
+10	CMsgCREUpdateUserPublishedItemVoteResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgCREUpdateUserPublishedItemVoteResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgCREUpdateUserPublishedItemVoteResponse::GetCachedSize(void)const
+13	CMsgCREUpdateUserPublishedItemVoteResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgCREUpdateUserPublishedItemVoteResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgCREUpdateUserPublishedItemVoteResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgCREUpdateUserPublishedItemVoteResponse::GetMetadata(void)const

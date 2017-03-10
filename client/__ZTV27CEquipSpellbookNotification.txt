@@ -1,0 +1,18 @@
+// `vtable for'CEquipSpellbookNotification
+// Auto reconstructed from vtable block @ 0x00E486A0
+// from "client.dylib", by ida_vtables.idc
+0	CEquipSpellbookNotification::~CEquipSpellbookNotification()
+1	CEquipSpellbookNotification::~CEquipSpellbookNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEquipSpellbookNotification::BShowInGameElements(void)const
+6	CEquipSpellbookNotification::MarkForDeletion(void)
+7	CEquipSpellbookNotification::CanBeTriggered(void)
+8	CEquipSpellbookNotification::Trigger(void)
+9	CEquipSpellbookNotification::CanBeAcceptedOrDeclined(void)
+10	CEquipSpellbookNotification::Accept(void)
+11	CEquipSpellbookNotification::Decline(void)
+12	CEquipSpellbookNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

@@ -1,0 +1,23 @@
+// `vtable for'CMsgGC_Match_Result_Player
+// Auto reconstructed from vtable block @ 0x00E53B80
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGC_Match_Result_Player::~CMsgGC_Match_Result_Player()
+1	CMsgGC_Match_Result_Player::~CMsgGC_Match_Result_Player()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGC_Match_Result_Player::New(void)const
+4	CMsgGC_Match_Result_Player::Clear(void)
+5	CMsgGC_Match_Result_Player::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGC_Match_Result_Player::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGC_Match_Result_Player::ByteSize(void)const
+10	CMsgGC_Match_Result_Player::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGC_Match_Result_Player::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGC_Match_Result_Player::GetCachedSize(void)const
+13	CMsgGC_Match_Result_Player::CopyFrom(google::protobuf::Message const&)
+14	CMsgGC_Match_Result_Player::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGC_Match_Result_Player::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGC_Match_Result_Player::GetMetadata(void)const

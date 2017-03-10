@@ -1,0 +1,10 @@
+// `vtable for'CAdapterSteamUtils001
+// Auto reconstructed from vtable block @ 0x00F07050
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUtils001::GetSecondsSinceAppActive(void)
+1	CAdapterSteamUtils001::GetSecondsSinceComputerActive(void)
+2	CAdapterSteamUtils001::GetConnectedUniverse(void)
+3	CAdapterSteamUtils001::GetServerRealTime(void)
+4	CAdapterSteamUtils001::GetIPCountry(void)
+5	CAdapterSteamUtils001::GetImageSize(int,unsigned int *,unsigned int *)
+6	CAdapterSteamUtils001::GetImageRGBA(int,unsigned char *,int)

@@ -1,0 +1,9 @@
+// `vtable for'TagLib::ID3v2::UniqueFileIdentifierFrame
+// Auto reconstructed from vtable block @ 0x00EE3418
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ID3v2::UniqueFileIdentifierFrame::~UniqueFileIdentifierFrame()
+1	TagLib::ID3v2::UniqueFileIdentifierFrame::~UniqueFileIdentifierFrame()
+2	TagLib::ID3v2::Frame::setText(TagLib::String const&)
+3	TagLib::ID3v2::UniqueFileIdentifierFrame::toString(void)const
+4	TagLib::ID3v2::UniqueFileIdentifierFrame::parseFields(TagLib::ByteVector const&)
+5	TagLib::ID3v2::UniqueFileIdentifierFrame::renderFields(void)const

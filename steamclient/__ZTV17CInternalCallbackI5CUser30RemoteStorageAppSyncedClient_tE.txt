@@ -1,0 +1,5 @@
+// `vtable for'CInternalCallback<CUser,RemoteStorageAppSyncedClient_t>
+// Auto reconstructed from vtable block @ 0x00F13A7C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CUser,RemoteStorageAppSyncedClient_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)

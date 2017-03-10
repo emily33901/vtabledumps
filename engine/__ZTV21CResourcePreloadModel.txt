@@ -1,0 +1,7 @@
+// `vtable for'CResourcePreloadModel
+// Auto reconstructed from vtable block @ 0x00528000
+// from "engine.dylib", by ida_vtables.idc
+0	CResourcePreloadModel::CreateResource(char const*)
+1	CResourcePreloadModel::PurgeUnreferencedResources(void)
+2	CResourcePreloadModel::OnEndMapLoading(bool)
+3	CResourcePreloadModel::PurgeAll(void)

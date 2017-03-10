@@ -1,0 +1,25 @@
+// `vtable for'CTFStreakNotice
+// Auto reconstructed from vtable block @ 0x00F643C0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CTFStreakNotice
+1	CTFStreakNotice::~CTFStreakNotice()
+2	CTFStreakNotice::~CTFStreakNotice()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CTFStreakNotice::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CTFStreakNotice::GetMessageMap(void)
+18	CTFStreakNotice::GetAnimMap(void)
+19	CTFStreakNotice::GetKBMap(void)
+20	CTFStreakNotice::ApplySchemeSettings(vgui::IScheme *)
+21	CTFStreakNotice::Paint(void)

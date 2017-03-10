@@ -1,0 +1,11 @@
+// `vtable for'CGCClientAcceptInviteResponse
+// Auto reconstructed from vtable block @ 0x010466C0
+// from "client.dylib", by ida_vtables.idc
+0	CGCClientAcceptInviteResponse::~CGCClientAcceptInviteResponse()
+1	CGCClientAcceptInviteResponse::~CGCClientAcceptInviteResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	CGCClientAcceptInviteResponse::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

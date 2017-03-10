@@ -1,0 +1,11 @@
+// `vtable for'CServerPlayerListMsgHandler
+// Auto reconstructed from vtable block @ 0x00ED2730
+// from "steamclient.dylib", by ida_vtables.idc
+0	CServerPlayerListMsgHandler::~CServerPlayerListMsgHandler()
+1	CServerPlayerListMsgHandler::~CServerPlayerListMsgHandler()
+2	CServerPlayerListMsgHandler::Process(netadr_t *,CMsgBuffer *)
+3	CMsgHandler::GetNext(void)const
+4	CMsgHandler::SetNext(CMsgHandler*)
+5	CMsgHandler::GetSocket(void)const
+6	CMsgHandler::SetSocket(CSocket *)
+7	CServerPlayerListMsgHandler::Validate(CValidator &,char const*)

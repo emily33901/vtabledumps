@@ -1,0 +1,6 @@
+// `vtable for'CClientKeyMgr
+// Auto reconstructed from vtable block @ 0x00EE4B50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientKeyMgr::GetPublicKey(EUniverse,char const*)
+1	CClientKeyMgr::GetPrivateKey(EUniverse,char const*)
+2	CClientKeyMgr::GetUniverse(void)

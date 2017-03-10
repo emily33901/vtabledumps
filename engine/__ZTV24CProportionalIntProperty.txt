@@ -1,0 +1,6 @@
+// `vtable for'CProportionalIntProperty
+// Auto reconstructed from vtable block @ 0x0053EF80
+// from "engine.dylib", by ida_vtables.idc
+0	CProportionalIntProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CProportionalIntProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CProportionalIntProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgTFCoaching_LikeCurrentCoach>
+// Auto reconstructed from vtable block @ 0x010E5AE0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgTFCoaching_LikeCurrentCoach>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgTFCoaching_LikeCurrentCoach>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgTFCoaching_LikeCurrentCoach>::GetGenericBody(void)const

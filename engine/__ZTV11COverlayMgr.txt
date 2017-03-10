@@ -1,0 +1,12 @@
+// `vtable for'COverlayMgr
+// Auto reconstructed from vtable block @ 0x004E93F0
+// from "engine.dylib", by ida_vtables.idc
+0	COverlayMgr::LoadOverlays(void)
+1	COverlayMgr::UnloadOverlays(void)
+2	COverlayMgr::CreateFragments(void)
+3	COverlayMgr::ReSortMaterials(void)
+4	COverlayMgr::ClearRenderLists(void)
+5	COverlayMgr::ClearRenderLists(int)
+6	COverlayMgr::AddFragmentListToRenderList(int,unsigned short,bool)
+7	COverlayMgr::RenderOverlays(int)
+8	COverlayMgr::SetOverlayBindProxy(int,void *)

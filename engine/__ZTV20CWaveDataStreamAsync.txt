@@ -1,0 +1,8 @@
+// `vtable for'CWaveDataStreamAsync
+// Auto reconstructed from vtable block @ 0x004B67A0
+// from "engine.dylib", by ida_vtables.idc
+0	CWaveDataStreamAsync::~CWaveDataStreamAsync()
+1	CWaveDataStreamAsync::~CWaveDataStreamAsync()
+2	CWaveDataStreamAsync::Source(void)
+3	CWaveDataStreamAsync::ReadSourceData(void **,int,int,char *)
+4	CWaveDataStreamAsync::IsReadyToMix(void)

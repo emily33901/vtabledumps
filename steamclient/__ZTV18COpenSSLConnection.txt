@@ -1,0 +1,15 @@
+// `vtable for'COpenSSLConnection
+// Auto reconstructed from vtable block @ 0x00EE6EA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	COpenSSLConnection::~COpenSSLConnection()
+1	COpenSSLConnection::~COpenSSLConnection()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	COpenSSLConnection::RemoveSSLConnectionCallback(ISSLConnectionCallback *)
+4	COpenSSLConnection::BeginHandshake(void)
+5	COpenSSLConnection::RecvPkt(CNetPacket *)
+6	COpenSSLConnection::BAsyncSend(unsigned char const*,unsigned int)
+7	COpenSSLConnection::BAsyncSend(CUtlBuffer &)
+8	COpenSSLConnection::BYieldingWaitForSendsCompleted(CJobMgr *,unsigned long long)
+9	COpenSSLConnection::ShutdownConnection(void)
+10	COpenSSLConnection::GetPeerCertificate(void)
+11	COpenSSLConnection::Validate(CValidator &,char const*)

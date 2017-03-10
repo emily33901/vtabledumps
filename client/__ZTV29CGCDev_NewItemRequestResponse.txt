@@ -1,0 +1,11 @@
+// `vtable for'CGCDev_NewItemRequestResponse
+// Auto reconstructed from vtable block @ 0x0104F470
+// from "client.dylib", by ida_vtables.idc
+0	CGCDev_NewItemRequestResponse::~CGCDev_NewItemRequestResponse()
+1	CGCDev_NewItemRequestResponse::~CGCDev_NewItemRequestResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCDev_NewItemRequestResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

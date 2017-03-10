@@ -1,0 +1,4 @@
+// `vtable for'CHTTPClientMgr
+// Auto reconstructed from vtable block @ 0x00EE6340
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPClientMgr::Validate(CValidator &,char const*)

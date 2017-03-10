@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgReplayUploadedToYouTube>
+// Auto reconstructed from vtable block @ 0x010CAE50
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgReplayUploadedToYouTube>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgReplayUploadedToYouTube>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgReplayUploadedToYouTube>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgReplayUploadedToYouTube>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgReplayUploadedToYouTube>::InternalFree(google::protobuf::Message *)

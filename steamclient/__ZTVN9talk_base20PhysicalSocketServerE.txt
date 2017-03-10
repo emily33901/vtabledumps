@@ -1,0 +1,9 @@
+// `vtable for'talk_base::PhysicalSocketServer
+// Auto reconstructed from vtable block @ 0x00ED61F8
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::PhysicalSocketServer::~PhysicalSocketServer()
+1	talk_base::PhysicalSocketServer::~PhysicalSocketServer()
+2	talk_base::PhysicalSocketServer::CreateSocket(int)
+3	talk_base::PhysicalSocketServer::CreateAsyncSocket(int)
+4	talk_base::PhysicalSocketServer::Wait(int,bool)
+5	talk_base::PhysicalSocketServer::WakeUp(void)

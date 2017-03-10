@@ -1,0 +1,10 @@
+// `vtable for'CUploadGameStats
+// Auto reconstructed from vtable block @ 0x00529AD0
+// from "engine.dylib", by ida_vtables.idc
+0	CUploadGameStats::UploadGameStats(char const*,unsigned int,unsigned int,void const*)
+1	CUploadGameStats::InitConnection(void)
+2	CUploadGameStats::UpdateConnection(void)
+3	CUploadGameStats::IsGameStatsLoggingEnabled(void)
+4	CUploadGameStats::GetPseudoUniqueId(char *,unsigned long)
+5	CUploadGameStats::IsCyberCafeUser(void)
+6	CUploadGameStats::IsHDREnabled(void)

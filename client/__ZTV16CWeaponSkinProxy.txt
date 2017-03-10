@@ -1,0 +1,9 @@
+// `vtable for'CWeaponSkinProxy
+// Auto reconstructed from vtable block @ 0x010E3110
+// from "client.dylib", by ida_vtables.idc
+0	CWeaponSkinProxy::Init(IMaterial *,KeyValues *)
+1	CWeaponSkinProxy::OnBind(void *)
+2	CWeaponSkinProxy::Release(void)
+3	CWeaponSkinProxy::GetMaterial(void)
+4	CWeaponSkinProxy::~CWeaponSkinProxy()
+5	CWeaponSkinProxy::~CWeaponSkinProxy()

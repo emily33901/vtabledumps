@@ -1,0 +1,15 @@
+// `vtable for'CViewEffects
+// Auto reconstructed from vtable block @ 0x01011AB0
+// from "client.dylib", by ida_vtables.idc
+0	CViewEffects::Init(void)
+1	CViewEffects::LevelInit(void)
+2	CViewEffects::GetFadeParams(unsigned char *,unsigned char *,unsigned char *,unsigned char *,bool *)
+3	CViewEffects::Shake(ScreenShake_t &)
+4	CViewEffects::Fade(ScreenFade_t &)
+5	CViewEffects::ClearPermanentFades(void)
+6	CViewEffects::ClearAllFades(void)
+7	CViewEffects::CalcShake(void)
+8	CViewEffects::ApplyShake(Vector &,QAngle &,float)
+9	CViewEffects::Save(ISave *)
+10	CViewEffects::Restore(IRestore *,bool)
+11	CViewEffects::FadeCalculate(void)

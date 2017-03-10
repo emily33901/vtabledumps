@@ -1,0 +1,9 @@
+// `vtable for'CWorldDimsProxy
+// Auto reconstructed from vtable block @ 0x01011C20
+// from "client.dylib", by ida_vtables.idc
+0	CWorldDimsProxy::Init(IMaterial *,KeyValues *)
+1	CWorldDimsProxy::OnBind(void *)
+2	CWorldDimsProxy::Release(void)
+3	CWorldDimsProxy::GetMaterial(void)
+4	CWorldDimsProxy::~CWorldDimsProxy()
+5	CWorldDimsProxy::~CWorldDimsProxy()

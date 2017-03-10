@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgLeaveGameAndPrepareToJoinParty>
+// Auto reconstructed from vtable block @ 0x010465C0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgLeaveGameAndPrepareToJoinParty>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgLeaveGameAndPrepareToJoinParty>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgLeaveGameAndPrepareToJoinParty>::GetGenericBody(void)const

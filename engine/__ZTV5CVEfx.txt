@@ -1,0 +1,14 @@
+// `vtable for'CVEfx
+// Auto reconstructed from vtable block @ 0x004ED4F0
+// from "engine.dylib", by ida_vtables.idc
+0	CVEfx::Draw_DecalIndexFromName(char *)
+1	CVEfx::DecalShoot(int,int,model_t const*,Vector const&,QAngle const&,Vector const&,Vector const*,int)
+2	CVEfx::DecalColorShoot(int,int,model_t const*,Vector const&,QAngle const&,Vector const&,Vector const*,int,color32_s const&)
+3	CVEfx::PlayerDecalShoot(IMaterial *,void *,int,model_t const*,Vector const&,QAngle const&,Vector const&,Vector const*,int,color32_s const&)
+4	CVEfx::CL_AllocDlight(int)
+5	CVEfx::CL_AllocElight(int)
+6	CVEfx::CL_GetActiveDLights(dlight_t **)
+7	CVEfx::Draw_DecalNameFromIndex(int)
+8	CVEfx::GetElightByKey(int)
+9	CVEfx::~CVEfx()
+10	CVEfx::~CVEfx()

@@ -1,0 +1,15 @@
+// `vtable for'CClientProcessOGSReport
+// Auto reconstructed from vtable block @ 0x00ED35A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientProcessOGSReport::ConnectStarting(EConnectionType,ENetQOSLevel)
+1	CClientProcessOGSReport::ConnectFailed(netadr_t,EResult,unsigned long long,bool)
+2	CClientProcessOGSReport::ConnectionDisconnected(netadr_t,EResult)
+3	CClientProcessOGSReport::LowLevelConnectivityResult(bool)
+4	CClientProcessOGSReport::ReportPingTimes(CUtlVector<NetConnectPingResults_t,CUtlMemory<NetConnectPingResults_t>> &)
+5	CClientProcessOGSReport::MarkCMBad(netadr_t)
+6	CClientProcessOGSReport::ConnectSucceeded(netadr_t)
+7	CClientProcessOGSReport::LogonSucceeded(void)
+8	CClientProcessOGSReport::LogonFailed(EResult)
+9	CClientProcessOGSReport::SendAccumulatedData(CUser *,int)
+10	CClientProcessOGSReport::Validate(CValidator &,char const*)
+11	CClientProcessOGSReport::Shutdown(void)

@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CReliablePacketQueue>
+// Auto reconstructed from vtable block @ 0x00EFD960
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CReliablePacketQueue>::~CScheduledFunction()
+1	CScheduledFunction<CReliablePacketQueue>::~CScheduledFunction()
+2	CScheduledFunction<CReliablePacketQueue>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

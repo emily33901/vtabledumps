@@ -1,0 +1,7 @@
+// `vtable for'CHTTPDefaultRedirectEnableHandler
+// Auto reconstructed from vtable block @ 0x00EE6260
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPDefaultRedirectEnableHandler::BAllowRedirect(CHTTPRequestHandle *,char const*,CUtlString &,KeyValues *)
+1	IHTTPRedirectHandler::Validate(CValidator &,char const*)
+2	IHTTPRedirectHandler::AddRef(void)const
+3	IHTTPRedirectHandler::Release(void)const

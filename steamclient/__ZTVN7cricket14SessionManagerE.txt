@@ -1,0 +1,7 @@
+// `vtable for'cricket::SessionManager
+// Auto reconstructed from vtable block @ 0x00ED6920
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::SessionManager::~SessionManager()
+1	cricket::SessionManager::~SessionManager()
+2	sigslot::single_threaded::lock(void)
+3	sigslot::single_threaded::unlock(void)

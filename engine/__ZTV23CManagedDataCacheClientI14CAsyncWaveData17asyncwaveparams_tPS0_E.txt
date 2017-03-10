@@ -1,0 +1,5 @@
+// `vtable for'CManagedDataCacheClient<CAsyncWaveData,asyncwaveparams_t,CAsyncWaveData*>
+// Auto reconstructed from vtable block @ 0x0051E4A0
+// from "engine.dylib", by ida_vtables.idc
+0	CManagedDataCacheClient<CAsyncWaveData,asyncwaveparams_t,CAsyncWaveData*>::HandleCacheNotification(DataCacheNotification_t const&)
+1	CDefaultDataCacheClient::GetItemName(unsigned int,void const*,char *,unsigned int)

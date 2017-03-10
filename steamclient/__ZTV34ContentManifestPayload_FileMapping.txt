@@ -1,0 +1,23 @@
+// `vtable for'ContentManifestPayload_FileMapping
+// Auto reconstructed from vtable block @ 0x00EE4BE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	ContentManifestPayload_FileMapping::~ContentManifestPayload_FileMapping()
+1	ContentManifestPayload_FileMapping::~ContentManifestPayload_FileMapping()
+2	google::protobuf::Message::GetTypeName(void)const
+3	ContentManifestPayload_FileMapping::New(void)const
+4	ContentManifestPayload_FileMapping::Clear(void)
+5	ContentManifestPayload_FileMapping::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	ContentManifestPayload_FileMapping::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	ContentManifestPayload_FileMapping::ByteSize(void)const
+10	ContentManifestPayload_FileMapping::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	ContentManifestPayload_FileMapping::SerializeWithCachedSizesToArray(unsigned char *)const
+12	ContentManifestPayload_FileMapping::GetCachedSize(void)const
+13	ContentManifestPayload_FileMapping::CopyFrom(google::protobuf::Message const&)
+14	ContentManifestPayload_FileMapping::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	ContentManifestPayload_FileMapping::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	ContentManifestPayload_FileMapping::GetMetadata(void)const

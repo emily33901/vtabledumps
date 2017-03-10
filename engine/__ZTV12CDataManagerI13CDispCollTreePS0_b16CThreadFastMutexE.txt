@@ -1,0 +1,10 @@
+// `vtable for'CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>
+// Auto reconstructed from vtable block @ 0x0051D460
+// from "engine.dylib", by ida_vtables.idc
+0	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::Lock(void)
+1	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::TryLock(void)
+2	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::Unlock(void)
+3	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::~CDataManager()
+4	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::~CDataManager()
+5	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::DestroyResourceStorage(void *)
+6	CDataManager<CDispCollTree,CDispCollTree*,bool,CThreadFastMutex>::GetRealSize(void *)

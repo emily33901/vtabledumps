@@ -1,0 +1,11 @@
+// `vtable for'CItemSelectionCriteria::CStringCondition
+// Auto reconstructed from vtable block @ 0x00E40900
+// from "client.dylib", by ida_vtables.idc
+0	CItemSelectionCriteria::CStringCondition::~CStringCondition()
+1	CItemSelectionCriteria::CStringCondition::~CStringCondition()
+2	CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*)const
+3	CItemSelectionCriteria::CCondition::GetEOp(void)const
+4	CItemSelectionCriteria::CCondition::GetField(void)const
+5	CItemSelectionCriteria::CStringCondition::GetValue(void)const
+6	CItemSelectionCriteria::CStringCondition::BSerializeToMsg(CSOItemCriteriaCondition &)const
+7	CItemSelectionCriteria::CStringCondition::BInternalEvaluate(KeyValues *)const

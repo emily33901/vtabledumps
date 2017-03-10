@@ -1,0 +1,18 @@
+// `vtable for'CBasePresence
+// Auto reconstructed from vtable block @ 0x00E99860
+// from "client.dylib", by ida_vtables.idc
+0	CBasePresence::UserSetContext(unsigned int,unsigned int,unsigned int,bool)
+1	CBasePresence::UserSetProperty(unsigned int,unsigned int,unsigned int,void const*,bool)
+2	CBasePresence::SetupGameProperties(CUtlVector<_XUSER_CONTEXT,CUtlMemory<_XUSER_CONTEXT,int>> &,CUtlVector&<_XUSER_PROPERTY,CUtlMemory<CUtlVector&,int>>)
+3	CBasePresence::GetPresenceID(char const*)
+4	CBasePresence::GetPropertyIdString(unsigned int)
+5	CBasePresence::GetPropertyDisplayString(unsigned int,unsigned int,char *,int)
+6	CBasePresence::StartStatsReporting(void *,bool)
+7	CBasePresence::SetStat(unsigned int,int,int)
+8	CBasePresence::UploadStats(void)
+9	CBasePresence::Init(void)
+10	CBasePresence::Shutdown(void)
+11	CBasePresence::Update(float)
+12	CBasePresence::Name(void)
+13	CBasePresence::~CBasePresence()
+14	CBasePresence::~CBasePresence()

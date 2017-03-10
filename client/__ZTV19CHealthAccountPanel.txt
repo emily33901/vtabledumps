@@ -1,0 +1,24 @@
+// `vtable for'CHealthAccountPanel
+// Auto reconstructed from vtable block @ 0x010EAD20
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHealthAccountPanel
+1	CHealthAccountPanel::~CHealthAccountPanel()
+2	CHealthAccountPanel::~CHealthAccountPanel()
+3	CHealthAccountPanel::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudAccountPanel::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHealthAccountPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHealthAccountPanel::GetMessageMap(void)
+18	CHealthAccountPanel::GetAnimMap(void)
+19	CHealthAccountPanel::GetKBMap(void)
+20	CHealthAccountPanel::GetResFileName(void)

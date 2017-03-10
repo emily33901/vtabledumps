@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgLookupMultipleAccountNames>
+// Auto reconstructed from vtable block @ 0x0104F320
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgLookupMultipleAccountNames>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgLookupMultipleAccountNames>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgLookupMultipleAccountNames>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgLookupMultipleAccountNames>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgLookupMultipleAccountNames>::InternalFree(google::protobuf::Message *)

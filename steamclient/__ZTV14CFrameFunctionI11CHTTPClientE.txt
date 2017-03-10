@@ -1,0 +1,7 @@
+// `vtable for'CFrameFunction<CHTTPClient>
+// Auto reconstructed from vtable block @ 0x00F277B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFrameFunction<CHTTPClient>::~CFrameFunction()
+1	CFrameFunction<CHTTPClient>::~CFrameFunction()
+2	CFrameFunction<CHTTPClient>::BRun(CReliableTimer &)
+3	CFrameFunction<CHTTPClient>::BAllocedSeparately(void)

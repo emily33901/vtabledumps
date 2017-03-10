@@ -1,0 +1,10 @@
+// `vtable for'CEntityOriginAlyxMaterialProxy
+// Auto reconstructed from vtable block @ 0x010BCD10
+// from "client.dylib", by ida_vtables.idc
+0	CEntityOriginAlyxMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CEntityOriginAlyxMaterialProxy::GetMaterial(void)
+4	CEntityOriginAlyxMaterialProxy::~CEntityOriginAlyxMaterialProxy()
+5	CEntityOriginAlyxMaterialProxy::~CEntityOriginAlyxMaterialProxy()
+6	CEntityOriginAlyxMaterialProxy::OnBind(C_BaseEntity *)

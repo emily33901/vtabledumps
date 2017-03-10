@@ -1,0 +1,6 @@
+// `vtable for'C_EconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos
+// Auto reconstructed from vtable block @ 0x01051A40
+// from "client.dylib", by ida_vtables.idc
+0	C_EconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos::NetworkStateChanged(void)
+1	C_EconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos::NetworkStateChanged(void *)
+2	CAttributeList::GetDataDescMap(void)

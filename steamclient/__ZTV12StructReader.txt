@@ -1,0 +1,7 @@
+// `vtable for'StructReader
+// Auto reconstructed from vtable block @ 0x00F261B4
+// from "steamclient.dylib", by ida_vtables.idc
+0	StructReader::~StructReader()
+1	StructReader::~StructReader()
+2	StructReader::read(TagLib::File &,unsigned int)
+3	StructReader::size(void)const

@@ -1,0 +1,10 @@
+// `vtable for'CCamoMaterialProxy
+// Auto reconstructed from vtable block @ 0x00E99920
+// from "client.dylib", by ida_vtables.idc
+0	CCamoMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CCamoMaterialProxy::GetMaterial(void)
+4	CCamoMaterialProxy::~CCamoMaterialProxy()
+5	CCamoMaterialProxy::~CCamoMaterialProxy()
+6	CCamoMaterialProxy::OnBind(C_BaseEntity *)

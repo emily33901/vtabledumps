@@ -1,0 +1,16 @@
+// `vtable for'SVC_CmdKeyValues
+// Auto reconstructed from vtable block @ 0x004B34C0
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_CmdKeyValues::~SVC_CmdKeyValues()
+1	SVC_CmdKeyValues::~SVC_CmdKeyValues()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_CmdKeyValues::Process(void)
+5	SVC_CmdKeyValues::ReadFromBuffer(bf_read &)
+6	SVC_CmdKeyValues::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_CmdKeyValues::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	SVC_CmdKeyValues::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_CmdKeyValues::ToString(void)const

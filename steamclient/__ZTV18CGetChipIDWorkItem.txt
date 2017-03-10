@@ -1,0 +1,9 @@
+// `vtable for'CGetChipIDWorkItem
+// Auto reconstructed from vtable block @ 0x00F01EB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGetChipIDWorkItem::~CGetChipIDWorkItem()
+1	CGetChipIDWorkItem::~CGetChipIDWorkItem()
+2	CGetChipIDWorkItem::RunFunc(IControllerAbstraction *)
+3	CGetChipIDWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

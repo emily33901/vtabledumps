@@ -1,0 +1,6 @@
+// `vtable for'CFrameSnapshotManager
+// Auto reconstructed from vtable block @ 0x004EDE30
+// from "engine.dylib", by ida_vtables.idc
+0	CFrameSnapshotManager::~CFrameSnapshotManager()
+1	CFrameSnapshotManager::~CFrameSnapshotManager()
+2	CFrameSnapshotManager::LevelChanged(void)

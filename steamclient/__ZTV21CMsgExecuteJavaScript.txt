@@ -1,0 +1,23 @@
+// `vtable for'CMsgExecuteJavaScript
+// Auto reconstructed from vtable block @ 0x00ECBA60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgExecuteJavaScript::~CMsgExecuteJavaScript()
+1	CMsgExecuteJavaScript::~CMsgExecuteJavaScript()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgExecuteJavaScript::New(void)const
+4	CMsgExecuteJavaScript::Clear(void)
+5	CMsgExecuteJavaScript::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgExecuteJavaScript::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgExecuteJavaScript::ByteSize(void)const
+10	CMsgExecuteJavaScript::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgExecuteJavaScript::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgExecuteJavaScript::GetCachedSize(void)const
+13	CMsgExecuteJavaScript::CopyFrom(google::protobuf::Message const&)
+14	CMsgExecuteJavaScript::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgExecuteJavaScript::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgExecuteJavaScript::GetMetadata(void)const

@@ -1,0 +1,3 @@
+// `vtable for'std::bad_alloc
+// Auto reconstructed from vtable block @ 0x0239A538
+// from "client.dylib", by ida_vtables.idc

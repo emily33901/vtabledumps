@@ -1,0 +1,11 @@
+// `vtable for'CButtonDiamondSource
+// Auto reconstructed from vtable block @ 0x00F036F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CButtonDiamondSource::~CButtonDiamondSource()
+1	CButtonDiamondSource::~CButtonDiamondSource()
+2	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+3	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+4	CButtonDiamondSource::GetHapticLocation(void)
+5	IControllerSource::SetAntiDrift(Vector)
+6	CButtonDiamondSource::Update(SteamControllerStateInternal_t const*)
+7	IControllerSource::Validate(CValidator &,char const*)

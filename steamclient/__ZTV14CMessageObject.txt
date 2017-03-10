@@ -1,0 +1,7 @@
+// `vtable for'CMessageObject
+// Auto reconstructed from vtable block @ 0x00EE68C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMessageObject::~CMessageObject()
+1	CMessageObject::~CMessageObject()
+2	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+3	CMessageObject::BInternalSerialize(CUtlBuffer &)

@@ -1,0 +1,11 @@
+// `vtable for'CGCClientJobFinalizePurchase
+// Auto reconstructed from vtable block @ 0x00EE41A0
+// from "client.dylib", by ida_vtables.idc
+0	CGCClientJobFinalizePurchase::~CGCClientJobFinalizePurchase()
+1	CGCClientJobFinalizePurchase::~CGCClientJobFinalizePurchase()
+2	CGCClientJobFinalizePurchase::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

@@ -1,0 +1,12 @@
+// `vtable for'CRopeManager
+// Auto reconstructed from vtable block @ 0x00EAF720
+// from "client.dylib", by ida_vtables.idc
+0	CRopeManager::~CRopeManager()
+1	CRopeManager::~CRopeManager()
+2	CRopeManager::ResetRenderCache(void)
+3	CRopeManager::AddToRenderCache(C_RopeKeyframe *)
+4	CRopeManager::DrawRenderCache(bool)
+5	CRopeManager::OnRenderStart(void)
+6	CRopeManager::SetHolidayLightMode(bool)
+7	CRopeManager::IsHolidayLightMode(void)
+8	CRopeManager::GetHolidayLightStyle(void)

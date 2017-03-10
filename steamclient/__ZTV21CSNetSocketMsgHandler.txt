@@ -1,0 +1,11 @@
+// `vtable for'CSNetSocketMsgHandler
+// Auto reconstructed from vtable block @ 0x00EFD9C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSNetSocketMsgHandler::~CSNetSocketMsgHandler()
+1	CSNetSocketMsgHandler::~CSNetSocketMsgHandler()
+2	CSNetSocketMsgHandler::Process(netadr_t *,CMsgBuffer *)
+3	CMsgHandler::GetNext(void)const
+4	CMsgHandler::SetNext(CMsgHandler*)
+5	CMsgHandler::GetSocket(void)const
+6	CMsgHandler::SetSocket(CSocket *)
+7	CMsgHandler::Validate(CValidator &,char const*)

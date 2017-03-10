@@ -1,0 +1,3 @@
+// `vtable for'__cxxabiv1::__si_class_type_info
+// Auto reconstructed from vtable block @ 0x00BCF2E0
+// from "engine.dylib", by ida_vtables.idc

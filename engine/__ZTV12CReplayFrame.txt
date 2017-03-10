@@ -1,0 +1,6 @@
+// `vtable for'CReplayFrame
+// Auto reconstructed from vtable block @ 0x004ED2B0
+// from "engine.dylib", by ida_vtables.idc
+0	CReplayFrame::~CReplayFrame()
+1	CReplayFrame::~CReplayFrame()
+2	CReplayFrame::IsMemPoolAllocated(void)

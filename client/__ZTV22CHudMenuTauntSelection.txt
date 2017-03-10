@@ -1,0 +1,25 @@
+// `vtable for'CHudMenuTauntSelection
+// Auto reconstructed from vtable block @ 0x00F8ADB0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudMenuTauntSelection
+1	CHudMenuTauntSelection::~CHudMenuTauntSelection()
+2	CHudMenuTauntSelection::~CHudMenuTauntSelection()
+3	CHudMenuTauntSelection::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudMenuTauntSelection::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudMenuTauntSelection::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudMenuTauntSelection::GetRenderGroupPriority(void)
+17	CHudMenuTauntSelection::GetMessageMap(void)
+18	CHudMenuTauntSelection::GetAnimMap(void)
+19	CHudMenuTauntSelection::GetKBMap(void)
+20	CHudMenuTauntSelection::ApplySchemeSettings(vgui::IScheme *)
+21	CHudMenuTauntSelection::SetVisible(bool)

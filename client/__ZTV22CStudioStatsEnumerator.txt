@@ -1,0 +1,4 @@
+// `vtable for'CStudioStatsEnumerator
+// Auto reconstructed from vtable block @ 0x010DADB8
+// from "client.dylib", by ida_vtables.idc
+0	CStudioStatsEnumerator::EnumElement(IHandleEntity *)

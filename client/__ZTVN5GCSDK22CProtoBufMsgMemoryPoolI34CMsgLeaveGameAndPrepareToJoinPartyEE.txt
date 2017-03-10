@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgLeaveGameAndPrepareToJoinParty>
+// Auto reconstructed from vtable block @ 0x010465F0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgLeaveGameAndPrepareToJoinParty>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgLeaveGameAndPrepareToJoinParty>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgLeaveGameAndPrepareToJoinParty>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgLeaveGameAndPrepareToJoinParty>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgLeaveGameAndPrepareToJoinParty>::InternalFree(google::protobuf::Message *)

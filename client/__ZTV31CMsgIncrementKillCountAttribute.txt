@@ -1,0 +1,23 @@
+// `vtable for'CMsgIncrementKillCountAttribute
+// Auto reconstructed from vtable block @ 0x00E39EE0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgIncrementKillCountAttribute::~CMsgIncrementKillCountAttribute()
+1	CMsgIncrementKillCountAttribute::~CMsgIncrementKillCountAttribute()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgIncrementKillCountAttribute::New(void)const
+4	CMsgIncrementKillCountAttribute::Clear(void)
+5	CMsgIncrementKillCountAttribute::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgIncrementKillCountAttribute::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgIncrementKillCountAttribute::ByteSize(void)const
+10	CMsgIncrementKillCountAttribute::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgIncrementKillCountAttribute::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgIncrementKillCountAttribute::GetCachedSize(void)const
+13	CMsgIncrementKillCountAttribute::CopyFrom(google::protobuf::Message const&)
+14	CMsgIncrementKillCountAttribute::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgIncrementKillCountAttribute::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgIncrementKillCountAttribute::GetMetadata(void)const

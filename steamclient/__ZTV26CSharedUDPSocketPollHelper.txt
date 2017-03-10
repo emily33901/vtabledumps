@@ -1,0 +1,6 @@
+// `vtable for'CSharedUDPSocketPollHelper
+// Auto reconstructed from vtable block @ 0x00F2D2F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSharedUDPSocketPollHelper::~CSharedUDPSocketPollHelper()
+1	CSharedUDPSocketPollHelper::~CSharedUDPSocketPollHelper()
+2	CSharedUDPSocketPollHelper::OnDataStateChanged(int,int,bool,bool)

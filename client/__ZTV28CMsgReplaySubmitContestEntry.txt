@@ -1,0 +1,23 @@
+// `vtable for'CMsgReplaySubmitContestEntry
+// Auto reconstructed from vtable block @ 0x00E51240
+// from "client.dylib", by ida_vtables.idc
+0	CMsgReplaySubmitContestEntry::~CMsgReplaySubmitContestEntry()
+1	CMsgReplaySubmitContestEntry::~CMsgReplaySubmitContestEntry()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgReplaySubmitContestEntry::New(void)const
+4	CMsgReplaySubmitContestEntry::Clear(void)
+5	CMsgReplaySubmitContestEntry::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgReplaySubmitContestEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgReplaySubmitContestEntry::ByteSize(void)const
+10	CMsgReplaySubmitContestEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgReplaySubmitContestEntry::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgReplaySubmitContestEntry::GetCachedSize(void)const
+13	CMsgReplaySubmitContestEntry::CopyFrom(google::protobuf::Message const&)
+14	CMsgReplaySubmitContestEntry::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgReplaySubmitContestEntry::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgReplaySubmitContestEntry::GetMetadata(void)const

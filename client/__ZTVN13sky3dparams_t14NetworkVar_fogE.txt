@@ -1,0 +1,5 @@
+// `vtable for'sky3dparams_t::NetworkVar_fog
+// Auto reconstructed from vtable block @ 0x01091C30
+// from "client.dylib", by ida_vtables.idc
+0	sky3dparams_t::NetworkVar_fog::NetworkStateChanged(void)
+1	sky3dparams_t::NetworkVar_fog::NetworkStateChanged(void *)

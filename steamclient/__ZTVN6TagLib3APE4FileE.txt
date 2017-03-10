@@ -1,0 +1,8 @@
+// `vtable for'TagLib::APE::File
+// Auto reconstructed from vtable block @ 0x00EE2B10
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::APE::File::~File()
+1	TagLib::APE::File::~File()
+2	TagLib::APE::File::tag(void)const
+3	TagLib::APE::File::audioProperties(void)const
+4	TagLib::APE::File::save(void)

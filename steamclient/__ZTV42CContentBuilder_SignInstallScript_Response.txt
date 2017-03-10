@@ -1,0 +1,23 @@
+// `vtable for'CContentBuilder_SignInstallScript_Response
+// Auto reconstructed from vtable block @ 0x00EC35B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CContentBuilder_SignInstallScript_Response::~CContentBuilder_SignInstallScript_Response()
+1	CContentBuilder_SignInstallScript_Response::~CContentBuilder_SignInstallScript_Response()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CContentBuilder_SignInstallScript_Response::New(void)const
+4	CContentBuilder_SignInstallScript_Response::Clear(void)
+5	CContentBuilder_SignInstallScript_Response::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CContentBuilder_SignInstallScript_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CContentBuilder_SignInstallScript_Response::ByteSize(void)const
+10	CContentBuilder_SignInstallScript_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CContentBuilder_SignInstallScript_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CContentBuilder_SignInstallScript_Response::GetCachedSize(void)const
+13	CContentBuilder_SignInstallScript_Response::CopyFrom(google::protobuf::Message const&)
+14	CContentBuilder_SignInstallScript_Response::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CContentBuilder_SignInstallScript_Response::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CContentBuilder_SignInstallScript_Response::GetMetadata(void)const

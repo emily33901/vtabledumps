@@ -1,0 +1,8 @@
+// `vtable for'CPeriodicFunctor
+// Auto reconstructed from vtable block @ 0x00F18370
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPeriodicFunctor::~CPeriodicFunctor()
+1	CPeriodicFunctor::~CPeriodicFunctor()
+2	CPeriodicFunctor::Run(void)
+3	CPeriodicFunctor::GetInterval(void)const
+4	CPeriodicFunctor::ScheduleInternal(CFunctor *,long long)

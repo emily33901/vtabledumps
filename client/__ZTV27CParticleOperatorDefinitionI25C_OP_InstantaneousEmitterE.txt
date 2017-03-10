@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_OP_InstantaneousEmitter>
+// Auto reconstructed from vtable block @ 0x01141D30
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_OP_InstantaneousEmitter>::GetName(void)const
+1	CParticleOperatorDefinition<C_OP_InstantaneousEmitter>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_OP_InstantaneousEmitter>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_OP_InstantaneousEmitter>::GetId(void)const
+4	CParticleOperatorDefinition<C_OP_InstantaneousEmitter>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_OP_InstantaneousEmitter>::GetClassSize(void)const

@@ -1,0 +1,11 @@
+// `vtable for'CWorkItem
+// Auto reconstructed from vtable block @ 0x00EF2220
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItem::~CWorkItem()
+1	CWorkItem::~CWorkItem()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

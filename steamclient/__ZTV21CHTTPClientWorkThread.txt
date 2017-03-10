@@ -1,0 +1,15 @@
+// `vtable for'CHTTPClientWorkThread
+// Auto reconstructed from vtable block @ 0x00EE61C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPClientWorkThread::~CHTTPClientWorkThread()
+1	CHTTPClientWorkThread::~CHTTPClientWorkThread()
+2	SteamThreadTools::CThread::Init(void)
+3	CWorkThread::Run(void)
+4	CWorkThread::OnExit(void)
+5	SteamThreadTools::CThread::IsThreadRunning(void)const
+6	SteamThreadTools::CThread::GetThreadProc(void)
+7	CWorkThread::Cancel(void)
+8	CWorkThread::OnStart(void)
+9	CHTTPClientWorkThread::Validate(CValidator &,char const*)
+10	asc_C1CE82
+11	asc_C1B441

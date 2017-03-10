@@ -1,0 +1,5 @@
+// `vtable for'SendProp
+// Auto reconstructed from vtable block @ 0x004B62B0
+// from "engine.dylib", by ida_vtables.idc
+0	SendProp::~SendProp()
+1	SendProp::~SendProp()

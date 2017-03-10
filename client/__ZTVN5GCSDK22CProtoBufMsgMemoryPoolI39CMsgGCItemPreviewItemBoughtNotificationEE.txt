@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCItemPreviewItemBoughtNotification>
+// Auto reconstructed from vtable block @ 0x010A8B90
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCItemPreviewItemBoughtNotification>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCItemPreviewItemBoughtNotification>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCItemPreviewItemBoughtNotification>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCItemPreviewItemBoughtNotification>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCItemPreviewItemBoughtNotification>::InternalFree(google::protobuf::Message *)

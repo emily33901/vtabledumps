@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionCDTrackStop
+// Auto reconstructed from vtable block @ 0x004C8E20
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionCDTrackStop::~CDemoActionCDTrackStop()
+1	CDemoActionCDTrackStop::~CDemoActionCDTrackStop()
+2	CBaseDemoAction::Init(KeyValues *)
+3	CBaseDemoAction::Update(DemoActionTimingContext const&)
+4	CDemoActionCDTrackStop::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CBaseDemoAction::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

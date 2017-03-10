@@ -1,0 +1,16 @@
+// `vtable for'SVC_PacketEntities
+// Auto reconstructed from vtable block @ 0x004B3FD0
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_PacketEntities::~SVC_PacketEntities()
+1	SVC_PacketEntities::~SVC_PacketEntities()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_PacketEntities::Process(void)
+5	SVC_PacketEntities::ReadFromBuffer(bf_read &)
+6	SVC_PacketEntities::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_PacketEntities::GetType(void)const
+9	SVC_PacketEntities::GetGroup(void)const
+10	SVC_PacketEntities::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_PacketEntities::ToString(void)const

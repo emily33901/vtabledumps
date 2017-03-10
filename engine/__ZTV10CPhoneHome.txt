@@ -1,0 +1,7 @@
+// `vtable for'CPhoneHome
+// Auto reconstructed from vtable block @ 0x00527090
+// from "engine.dylib", by ida_vtables.idc
+0	CPhoneHome::Init(void)
+1	CPhoneHome::Shutdown(void)
+2	CPhoneHome::Message(unsigned char,char const*)
+3	CPhoneHome::IsExternalBuild(void)

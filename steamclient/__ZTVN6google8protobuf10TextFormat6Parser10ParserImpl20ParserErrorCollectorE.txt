@@ -1,0 +1,7 @@
+// `vtable for'google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector
+// Auto reconstructed from vtable block @ 0x00F1DB90
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::~ParserErrorCollector()
+1	google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::~ParserErrorCollector()
+2	google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddError(int,int,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)
+3	google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddWarning(int,int,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)

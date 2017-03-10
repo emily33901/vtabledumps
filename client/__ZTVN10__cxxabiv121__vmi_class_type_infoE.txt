@@ -1,0 +1,3 @@
+// `vtable for'__cxxabiv1::__vmi_class_type_info
+// Auto reconstructed from vtable block @ 0x0239A52C
+// from "client.dylib", by ida_vtables.idc

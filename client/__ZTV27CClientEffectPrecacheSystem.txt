@@ -1,0 +1,18 @@
+// `vtable for'CClientEffectPrecacheSystem
+// Auto reconstructed from vtable block @ 0x00E99B20
+// from "client.dylib", by ida_vtables.idc
+0	CClientEffectPrecacheSystem::Name(void)
+1	CClientEffectPrecacheSystem::Init(void)
+2	CClientEffectPrecacheSystem::PostInit(void)
+3	CClientEffectPrecacheSystem::Shutdown(void)
+4	CClientEffectPrecacheSystem::LevelInitPreEntity(void)
+5	CClientEffectPrecacheSystem::LevelInitPostEntity(void)
+6	IGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	CClientEffectPrecacheSystem::LevelShutdownPreEntity(void)
+8	CClientEffectPrecacheSystem::LevelShutdownPostEntity(void)
+9	CClientEffectPrecacheSystem::OnSave(void)
+10	CClientEffectPrecacheSystem::OnRestore(void)
+11	CClientEffectPrecacheSystem::SafeRemoveIfDesired(void)
+12	CClientEffectPrecacheSystem::IsPerFrame(void)
+13	CClientEffectPrecacheSystem::~CClientEffectPrecacheSystem()
+14	CClientEffectPrecacheSystem::~CClientEffectPrecacheSystem()

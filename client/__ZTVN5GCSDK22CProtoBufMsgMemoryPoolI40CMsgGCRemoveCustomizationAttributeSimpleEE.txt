@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCRemoveCustomizationAttributeSimple>
+// Auto reconstructed from vtable block @ 0x010A17C0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCRemoveCustomizationAttributeSimple>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCRemoveCustomizationAttributeSimple>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCRemoveCustomizationAttributeSimple>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCRemoveCustomizationAttributeSimple>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCRemoveCustomizationAttributeSimple>::InternalFree(google::protobuf::Message *)

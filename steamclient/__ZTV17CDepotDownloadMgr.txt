@@ -1,0 +1,12 @@
+// `vtable for'CDepotDownloadMgr
+// Auto reconstructed from vtable block @ 0x00ED1FB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotDownloadMgr::ConnectCompleted(unsigned int)
+1	CDepotDownloadMgr::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CDepotDownloadMgr::ConnectionDisconnected(unsigned int,EResult)
+3	CDepotDownloadMgr::RecvPkt(CNetPacket *)
+4	CDepotDownloadMgr::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CDepotDownloadMgr::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CDepotDownloadMgr::SetNecessaryHTTPRequestHeaders(CHTTPClientRequest *)

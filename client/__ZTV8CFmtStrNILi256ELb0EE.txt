@@ -1,0 +1,16 @@
+// `vtable for'CFmtStrN<256,false>
+// Auto reconstructed from vtable block @ 0x010771B0
+// from "client.dylib", by ida_vtables.idc
+0	CFmtStrN<256,false>::InitQuietTruncation(void)
+1	asc_B9B858
+2	aScriptsPlayerc
+3	aScriptsPlaye_0
+4	aScriptsPlaye_1
+5	aScriptsPlaye_2
+6	aScriptsPlaye_3
+7	aScriptsPlaye_4
+8	aScriptsPlaye_5
+9	aScriptsPlaye_6
+10	aScriptsPlaye_7
+11	aScriptsPlaye_8
+12	_s_TFPlayerClassDataMgr

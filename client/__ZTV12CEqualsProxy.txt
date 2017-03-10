@@ -1,0 +1,9 @@
+// `vtable for'CEqualsProxy
+// Auto reconstructed from vtable block @ 0x00F12CD0
+// from "client.dylib", by ida_vtables.idc
+0	CFunctionProxy::Init(IMaterial *,KeyValues *)
+1	CEqualsProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CEqualsProxy::~CEqualsProxy()
+5	CEqualsProxy::~CEqualsProxy()

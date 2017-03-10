@@ -1,0 +1,7 @@
+// `vtable for'snappy::UncheckedByteArraySink
+// Auto reconstructed from vtable block @ 0x0051D3B0
+// from "engine.dylib", by ida_vtables.idc
+0	snappy::UncheckedByteArraySink::~UncheckedByteArraySink()
+1	snappy::UncheckedByteArraySink::~UncheckedByteArraySink()
+2	snappy::UncheckedByteArraySink::Append(char const*,unsigned long)
+3	snappy::UncheckedByteArraySink::GetAppendBuffer(unsigned long,char *)

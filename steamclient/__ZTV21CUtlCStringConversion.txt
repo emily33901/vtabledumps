@@ -1,0 +1,4 @@
+// `vtable for'CUtlCStringConversion
+// Auto reconstructed from vtable block @ 0x00EE4A60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUtlCStringConversion::FindConversion(char const*,int *)

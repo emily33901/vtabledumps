@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgTFGoldenWrenchBroadcast>
+// Auto reconstructed from vtable block @ 0x01117AC0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgTFGoldenWrenchBroadcast>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgTFGoldenWrenchBroadcast>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgTFGoldenWrenchBroadcast>::GetGenericBody(void)const

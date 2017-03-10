@@ -1,0 +1,9 @@
+// `vtable for'sigslot::_signal_base1<cricket::Transport *,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1EC6C
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::_signal_base1<cricket::Transport *,sigslot::single_threaded>::~_signal_base1()
+1	sigslot::_signal_base1<cricket::Transport *,sigslot::single_threaded>::~_signal_base1()
+2	sigslot::single_threaded::lock(void)
+3	sigslot::single_threaded::unlock(void)
+4	sigslot::_signal_base1<cricket::Transport *,sigslot::single_threaded>::slot_disconnect(sigslot::has_slots<sigslot::single_threaded> *)
+5	sigslot::_signal_base1<cricket::Transport *,sigslot::single_threaded>::slot_duplicate(sigslot::has_slots<sigslot::single_threaded> const*,sigslot::has_slots<sigslot::single_threaded>*)

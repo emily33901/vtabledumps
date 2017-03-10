@@ -1,0 +1,23 @@
+// `vtable for'CGCMsg_WorldItemPlacement_Update
+// Auto reconstructed from vtable block @ 0x00E53B20
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsg_WorldItemPlacement_Update::~CGCMsg_WorldItemPlacement_Update()
+1	CGCMsg_WorldItemPlacement_Update::~CGCMsg_WorldItemPlacement_Update()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsg_WorldItemPlacement_Update::New(void)const
+4	CGCMsg_WorldItemPlacement_Update::Clear(void)
+5	CGCMsg_WorldItemPlacement_Update::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsg_WorldItemPlacement_Update::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsg_WorldItemPlacement_Update::ByteSize(void)const
+10	CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsg_WorldItemPlacement_Update::GetCachedSize(void)const
+13	CGCMsg_WorldItemPlacement_Update::CopyFrom(google::protobuf::Message const&)
+14	CGCMsg_WorldItemPlacement_Update::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsg_WorldItemPlacement_Update::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsg_WorldItemPlacement_Update::GetMetadata(void)const

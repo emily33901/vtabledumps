@@ -1,0 +1,8 @@
+// `vtable for'CLightmapDebugView
+// Auto reconstructed from vtable block @ 0x0113D700
+// from "client.dylib", by ida_vtables.idc
+0	CLightmapDebugView::~CLightmapDebugView()
+1	CLightmapDebugView::~CLightmapDebugView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CLightmapDebugView::Draw(void)

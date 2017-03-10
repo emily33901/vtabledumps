@@ -1,0 +1,18 @@
+// `vtable for'CTFAskCoachNotification
+// Auto reconstructed from vtable block @ 0x010E4C10
+// from "client.dylib", by ida_vtables.idc
+0	CTFAskCoachNotification::~CTFAskCoachNotification()
+1	CTFAskCoachNotification::~CTFAskCoachNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEconNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CTFAskCoachNotification::CanBeTriggered(void)
+8	CTFAskCoachNotification::Trigger(void)
+9	CTFAskCoachNotification::CanBeAcceptedOrDeclined(void)
+10	CTFAskCoachNotification::Accept(void)
+11	CTFAskCoachNotification::Decline(void)
+12	CEconNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

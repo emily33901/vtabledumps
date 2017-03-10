@@ -1,0 +1,61 @@
+// `vtable for'CScrollWheelMode
+// Auto reconstructed from vtable block @ 0x00F02E70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScrollWheelMode::~CScrollWheelMode()
+1	CScrollWheelMode::~CScrollWheelMode()
+2	CScrollWheelMode::Update(SourceState *,IInputGenerator *)
+3	CControllerModeImpl::SetBinding(EControllerModeInput,IDigitalBinding const*,int)
+4	CControllerModeImpl::GetBinding(EControllerModeInput,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)
+5	CControllerModeImpl::GetUISetting(EControllerSetting,int *)const
+6	CControllerModeImpl::GetRawSetting(EControllerSetting,int *)const
+7	CControllerModeImpl::SetSetting(EControllerSetting,int)
+8	CControllerModeImpl::GetSettingUIDefault(EControllerSetting,int *)const
+9	CControllerModeImpl::GetSettingRawDefault(EControllerSetting,int *)const
+10	CControllerModeImpl::GetInputs(CUtlHashMap<CUtlString,CUtlPtr<IControllerDigitalInput const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+11	CControllerModeImpl::GetPressureInputs(CUtlHashMap<CUtlString,CUtlPtr<IControllerDigitalInput const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+12	IControllerMode::InsertActivatorBindings(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,IControllerActivator*,CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,CUtlHashMap&<EControllerSetting,short,CDefEquals<CUtlHashMap&>,HashFunctor<CUtlHashMap&>>)const
+13	IControllerMode::InsertActivatorSettings(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,IControllerActivator*,CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)const
+14	CControllerModeImpl::GetInputActivators(EControllerModeInput,CUtlHashMap<CUtlString,CUtlPtr<IControllerActivator>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+15	CControllerModeImpl::GetActivatorBindings(EControllerModeInput,IControllerActivator *,CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,CUtlHashMap&<EControllerSetting,short,CDefEquals<CUtlHashMap&>,HashFunctor<CUtlHashMap&>>)
+16	CControllerModeImpl::GetBindings(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+17	CControllerModeImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
+18	CControllerModeImpl::Connect(IInputGenerator *,bool)
+19	CScrollWheelMode::Disconnect(IInputGenerator *,bool,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &)
+20	CControllerModeImpl::QueueDisconnectedInputEvents(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &)
+21	CControllerModeImpl::DrainQueuedEvents(IInputGenerator *)
+22	CControllerModeImpl::UpdateDefaults(EControllerSource,EControllerType)
+23	IControllerMode::UpdateActivators(SourceState *,IInputGenerator *)
+24	IControllerMode::ActivateActivator(IControllerActivator *)
+25	IControllerMode::TerminateActivator(IControllerActivator *)
+26	IControllerMode::PauseActivators(bool,int)
+27	IControllerMode::TerminatePausedActivators(void)
+28	IControllerMode::GetNextActivatorAnalogThreshold(IControllerActivator *)
+29	CControllerModeImpl::AddActivator(EControllerModeInput,EControllerActivationType)
+30	CControllerModeImpl::ReplaceActivator(EControllerModeInput,int,EControllerActivationType)
+31	CControllerModeImpl::RemoveActivator(EControllerModeInput,int)
+32	CControllerModeImpl::IsActivatorSettingsDefault(EControllerModeInput,int)
+33	CControllerModeImpl::GetID(void)
+34	CControllerModeImpl::IsVirtualMode(void)
+35	IControllerMode::SetHapticLocation(ESteamControllerPad)
+36	IControllerMode::SetSourceType(EControllerSource)
+37	CControllerModeImpl::GetTouchKeysFromMode(CUtlVector<PopupMenuTouchKey_t,CUtlMemory<PopupMenuTouchKey_t>> *)
+38	CControllerModeImpl::IsRequestingTouchMenu(bool *,PopupMenuConfig_t *)
+39	CControllerModeImpl::SetTouchedKey(int)
+40	IControllerMode::GetSourceType(void)const
+41	IControllerMode::GetHapticLocation(void)const
+42	IControllerMode::GetGameActionID(int)
+43	IControllerMode::SetGameActionID(int,int,bool)
+44	IControllerMode::GetAllGameActions(void)
+45	CControllerModeImpl::StopMomentum(void)
+46	CScrollWheelMode::Validate(CValidator &,char const*)
+47	CControllerModeImpl::GetInputBindings(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> const&,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
+48	CControllerModeImpl::InsertInputBindings(EControllerModeInput,CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> const&,CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+49	CControllerModeImpl::InsertInputActivators(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,CUtlHashMap<CUtlString,CUtlPtr<IControllerActivator>,CCaselessStringCmp,HashFunctorStringCaseless> &,EControllerModeInput)
+50	CControllerModeImpl::PopulateBinding(CUtlHashMap<CUtlString,CUtlPtr<IControllerActivator>,CCaselessStringCmp,HashFunctorStringCaseless> const&,CUtlHashMap const&<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless>,CUtlVector<IDigitalBinding,CUtlMemory<IDigitalBinding>> &,EControllerModeInput)
+51	CControllerModeImpl::PopulateBinding(CUtlHashMap<CUtlString,CUtlPtr<IControllerActivator>,CCaselessStringCmp,HashFunctorStringCaseless> const&,CUtlHashMap const&<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless>,CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,EControllerModeInput)
+52	CControllerModeImpl::GetInputActivatorForInput(EControllerModeInput)
+53	CControllerModeImpl::SendInputEvent(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IInputGenerator *,bool)
+54	CControllerModeImpl::SendInputEvent(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,IInputGenerator *,bool)
+55	CControllerModeImpl::UpdateBinding(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IDigitalBinding const*)
+56	CControllerModeImpl::UpdateBinding(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,IDigitalBinding const*,int)
+57	CControllerModeImpl::IsModifierKey(BindingAction_t *)

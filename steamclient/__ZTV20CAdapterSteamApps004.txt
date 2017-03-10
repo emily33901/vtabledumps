@@ -1,0 +1,17 @@
+// `vtable for'CAdapterSteamApps004
+// Auto reconstructed from vtable block @ 0x00F06D20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamApps004::BIsSubscribed(void)
+1	CAdapterSteamApps004::BIsLowViolence(void)
+2	CAdapterSteamApps004::BIsCybercafe(void)
+3	CAdapterSteamApps004::BIsVACBanned(void)
+4	CAdapterSteamApps004::GetCurrentGameLanguage(void)
+5	CAdapterSteamApps004::GetAvailableGameLanguages(void)
+6	CAdapterSteamApps004::BIsSubscribedApp(unsigned int)
+7	CAdapterSteamApps004::BIsDlcInstalled(unsigned int)
+8	CAdapterSteamApps004::GetEarliestPurchaseUnixTime(unsigned int)
+9	CAdapterSteamApps004::BIsSubscribedFromFreeWeekend(void)
+10	CAdapterSteamApps004::GetDLCCount(void)
+11	CAdapterSteamApps004::BGetDLCDataByIndex(int,unsigned int *,bool *,char *,int)
+12	CAdapterSteamApps004::InstallDLC(unsigned int)
+13	CAdapterSteamApps004::UninstallDLC(unsigned int)

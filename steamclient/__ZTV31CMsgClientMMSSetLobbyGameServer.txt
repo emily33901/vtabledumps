@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientMMSSetLobbyGameServer
+// Auto reconstructed from vtable block @ 0x00EE9440
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientMMSSetLobbyGameServer::~CMsgClientMMSSetLobbyGameServer()
+1	CMsgClientMMSSetLobbyGameServer::~CMsgClientMMSSetLobbyGameServer()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientMMSSetLobbyGameServer::New(void)const
+4	CMsgClientMMSSetLobbyGameServer::Clear(void)
+5	CMsgClientMMSSetLobbyGameServer::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientMMSSetLobbyGameServer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientMMSSetLobbyGameServer::ByteSize(void)const
+10	CMsgClientMMSSetLobbyGameServer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientMMSSetLobbyGameServer::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientMMSSetLobbyGameServer::GetCachedSize(void)const
+13	CMsgClientMMSSetLobbyGameServer::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientMMSSetLobbyGameServer::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientMMSSetLobbyGameServer::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientMMSSetLobbyGameServer::GetMetadata(void)const

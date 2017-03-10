@@ -1,0 +1,23 @@
+// `vtable for'CGCToGCMsgMasterAck_Response
+// Auto reconstructed from vtable block @ 0x01018610
+// from "client.dylib", by ida_vtables.idc
+0	CGCToGCMsgMasterAck_Response::~CGCToGCMsgMasterAck_Response()
+1	CGCToGCMsgMasterAck_Response::~CGCToGCMsgMasterAck_Response()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCToGCMsgMasterAck_Response::New(void)const
+4	CGCToGCMsgMasterAck_Response::Clear(void)
+5	CGCToGCMsgMasterAck_Response::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCToGCMsgMasterAck_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCToGCMsgMasterAck_Response::ByteSize(void)const
+10	CGCToGCMsgMasterAck_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCToGCMsgMasterAck_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCToGCMsgMasterAck_Response::GetCachedSize(void)const
+13	CGCToGCMsgMasterAck_Response::CopyFrom(google::protobuf::Message const&)
+14	CGCToGCMsgMasterAck_Response::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCToGCMsgMasterAck_Response::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCToGCMsgMasterAck_Response::GetMetadata(void)const

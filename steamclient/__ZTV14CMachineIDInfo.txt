@@ -1,0 +1,7 @@
+// `vtable for'CMachineIDInfo
+// Auto reconstructed from vtable block @ 0x00EE6960
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMachineIDInfo::~CMachineIDInfo()
+1	CMachineIDInfo::~CMachineIDInfo()
+2	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+3	CMessageObject::BInternalSerialize(CUtlBuffer &)

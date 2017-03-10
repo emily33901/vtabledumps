@@ -1,0 +1,7 @@
+// `vtable for'CLCDPage
+// Auto reconstructed from vtable block @ 0x010C6B00
+// from "client.dylib", by ida_vtables.idc
+0	CLCDPage::~CLCDPage()
+1	CLCDPage::~CLCDPage()
+2	CLCDPage::Create(IG15 *)
+3	CLCDItem::Wipe(IG15 *)

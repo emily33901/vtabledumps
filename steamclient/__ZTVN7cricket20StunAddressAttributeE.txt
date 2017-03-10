@@ -1,0 +1,7 @@
+// `vtable for'cricket::StunAddressAttribute
+// Auto reconstructed from vtable block @ 0x00ED6500
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::StunAddressAttribute::~StunAddressAttribute()
+1	cricket::StunAddressAttribute::~StunAddressAttribute()
+2	cricket::StunAddressAttribute::Read(talk_base::ByteBuffer *)
+3	cricket::StunAddressAttribute::Write(talk_base::ByteBuffer *)const

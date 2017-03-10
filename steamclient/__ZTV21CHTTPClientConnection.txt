@@ -1,0 +1,18 @@
+// `vtable for'CHTTPClientConnection
+// Auto reconstructed from vtable block @ 0x00EE6130
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPClientConnection::ConnectCompleted(unsigned int)
+1	CHTTPClientConnection::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CHTTPClientConnection::ConnectionDisconnected(unsigned int,EResult)
+3	CHTTPClientConnection::RecvPkt(CNetPacket *)
+4	CHTTPClientConnection::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CHTTPClientConnection::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	CHTTPClientConnection::ConnectionDataSent(unsigned int,unsigned int)
+8	CHTTPClientConnection::RecvPlaintext(unsigned char *,unsigned int)
+9	CHTTPClientConnection::SendEncryptedData(unsigned char *,unsigned int)
+10	CHTTPClientConnection::HandleSSLFailure(EResult)
+11	CHTTPClientConnection::SSLHandshakeCompleted(void)
+12	CHTTPClientConnection::SSLShutdownCompleted(void)
+13	CHTTPClientConnection::BVerifyCertificate(COpenSSLConnection *,COpenSSLCertificate const&)
+14	CHTTPClientConnection::Validate(CValidator &,char const*)

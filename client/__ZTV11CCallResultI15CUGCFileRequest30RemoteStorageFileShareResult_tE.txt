@@ -1,0 +1,6 @@
+// `vtable for'CCallResult<CUGCFileRequest,RemoteStorageFileShareResult_t>
+// Auto reconstructed from vtable block @ 0x010882E0
+// from "client.dylib", by ida_vtables.idc
+0	CCallResult<CUGCFileRequest,RemoteStorageFileShareResult_t>::Run(void *)
+1	CCallResult<CUGCFileRequest,RemoteStorageFileShareResult_t>::Run(void *,bool,unsigned long long)
+2	CCallResult<CUGCFileRequest,RemoteStorageFileShareResult_t>::GetCallbackSizeBytes(void)

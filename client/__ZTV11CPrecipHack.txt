@@ -1,0 +1,21 @@
+// `vtable for'CPrecipHack
+// Auto reconstructed from vtable block @ 0x01092B20
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CBaseGameSystemPerFrame::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CBaseGameSystemPerFrame::LevelInitPreEntity(void)
+5	CPrecipHack::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CPrecipHack::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CPrecipHack::~CPrecipHack()
+14	CPrecipHack::~CPrecipHack()
+15	CBaseGameSystemPerFrame::PreRender(void)
+16	CPrecipHack::Update(float)
+17	CBaseGameSystemPerFrame::PostRender(void)

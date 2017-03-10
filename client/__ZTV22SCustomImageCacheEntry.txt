@@ -1,0 +1,7 @@
+// `vtable for'SCustomImageCacheEntry
+// Auto reconstructed from vtable block @ 0x010AD9E0
+// from "client.dylib", by ida_vtables.idc
+0	SCustomImageCacheEntry::RegenerateTextureBits(ITexture *,IVTFTexture *,Rect_t *)
+1	SCustomImageCacheEntry::Release(void)
+2	SCustomImageCacheEntry::~SCustomImageCacheEntry()
+3	SCustomImageCacheEntry::~SCustomImageCacheEntry()

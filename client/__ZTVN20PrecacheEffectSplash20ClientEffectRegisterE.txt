@@ -1,0 +1,4 @@
+// `vtable for'PrecacheEffectSplash::ClientEffectRegister
+// Auto reconstructed from vtable block @ 0x00EF34F4
+// from "client.dylib", by ida_vtables.idc
+0	PrecacheEffectSplash::ClientEffectRegister::Cache(bool)

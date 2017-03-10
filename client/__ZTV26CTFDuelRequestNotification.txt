@@ -1,0 +1,18 @@
+// `vtable for'CTFDuelRequestNotification
+// Auto reconstructed from vtable block @ 0x010E6E50
+// from "client.dylib", by ida_vtables.idc
+0	CTFDuelRequestNotification::~CTFDuelRequestNotification()
+1	CTFDuelRequestNotification::~CTFDuelRequestNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEconNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CTFDuelRequestNotification::CanBeTriggered(void)
+8	CTFDuelRequestNotification::Trigger(void)
+9	CTFDuelRequestNotification::CanBeAcceptedOrDeclined(void)
+10	CTFDuelRequestNotification::Accept(void)
+11	CTFDuelRequestNotification::Decline(void)
+12	CEconNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

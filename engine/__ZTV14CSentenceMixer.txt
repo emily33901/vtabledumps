@@ -1,0 +1,19 @@
+// `vtable for'CSentenceMixer
+// Auto reconstructed from vtable block @ 0x004B66D0
+// from "engine.dylib", by ida_vtables.idc
+0	CSentenceMixer::~CSentenceMixer()
+1	CSentenceMixer::~CSentenceMixer()
+2	CSentenceMixer::MixDataToDevice(IAudioDevice *,channel_t *,int,int,int)
+3	CSentenceMixer::SkipSamples(channel_t *,int,int,int)
+4	CSentenceMixer::ShouldContinueMixing(void)
+5	CSentenceMixer::GetSource(void)
+6	CSentenceMixer::GetSamplePosition(void)
+7	CSentenceMixer::ModifyPitch(float)
+8	CSentenceMixer::GetVolumeScale(void)
+9	CSentenceMixer::SetSampleStart(int)
+10	CSentenceMixer::SetSampleEnd(int)
+11	CSentenceMixer::SetStartupDelaySamples(int)
+12	CSentenceMixer::GetMixSampleSize(void)
+13	CSentenceMixer::IsReadyToMix(void)
+14	CSentenceMixer::GetPositionForSave(void)
+15	CSentenceMixer::SetPositionFromSaved(int)

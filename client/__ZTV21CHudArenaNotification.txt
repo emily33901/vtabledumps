@@ -1,0 +1,26 @@
+// `vtable for'CHudArenaNotification
+// Auto reconstructed from vtable block @ 0x00F52FE0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudArenaNotification
+1	CHudArenaNotification::~CHudArenaNotification()
+2	CHudArenaNotification::~CHudArenaNotification()
+3	CHudArenaNotification::FireGameEvent(IGameEvent *)
+4	CHudArenaNotification::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudArenaNotification::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudArenaNotification::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudArenaNotification::GetMessageMap(void)
+18	CHudArenaNotification::GetAnimMap(void)
+19	CHudArenaNotification::GetKBMap(void)
+20	CHudArenaNotification::OnTick(void)
+21	CHudArenaNotification::ApplySchemeSettings(vgui::IScheme *)
+22	CHudArenaNotification::SetVisible(bool)

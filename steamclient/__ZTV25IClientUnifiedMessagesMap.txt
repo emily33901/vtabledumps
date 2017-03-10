@@ -1,0 +1,8 @@
+// `vtable for'IClientUnifiedMessagesMap
+// Auto reconstructed from vtable block @ 0x00F0B8D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientUnifiedMessagesMap::SendMethod(char const*,void const*,unsigned int,unsigned long long)
+1	IClientUnifiedMessagesMap::GetMethodResponseInfo(unsigned long long,unsigned int *,EResult *)
+2	IClientUnifiedMessagesMap::GetMethodResponseData(unsigned long long,void *,unsigned int,bool)
+3	IClientUnifiedMessagesMap::ReleaseMethod(unsigned long long)
+4	IClientUnifiedMessagesMap::SendNotification(char const*,void const*,unsigned int)

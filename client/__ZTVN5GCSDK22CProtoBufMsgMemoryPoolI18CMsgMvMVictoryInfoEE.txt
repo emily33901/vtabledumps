@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgMvMVictoryInfo>
+// Auto reconstructed from vtable block @ 0x01046690
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgMvMVictoryInfo>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgMvMVictoryInfo>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgMvMVictoryInfo>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgMvMVictoryInfo>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgMvMVictoryInfo>::InternalFree(google::protobuf::Message *)

@@ -1,0 +1,28 @@
+// `vtable for'CHudTournament
+// Auto reconstructed from vtable block @ 0x00FA7510
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudTournament
+1	CHudTournament::~CHudTournament()
+2	CHudTournament::~CHudTournament()
+3	CHudTournament::FireGameEvent(IGameEvent *)
+4	CHudTournament::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudTournament::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudTournament::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudTournament::GetMessageMap(void)
+18	CHudTournament::GetAnimMap(void)
+19	CHudTournament::GetKBMap(void)
+20	CHudTournament::OnTick(void)
+21	CHudTournament::ApplySettings(KeyValues *)
+22	CHudTournament::ApplySchemeSettings(vgui::IScheme *)
+23	CHudTournament::SetVisible(bool)
+24	CHudTournament::PerformLayout(void)

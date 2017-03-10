@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientRichPresenceUpload
+// Auto reconstructed from vtable block @ 0x00EEDA10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRichPresenceUpload::~CMsgClientRichPresenceUpload()
+1	CMsgClientRichPresenceUpload::~CMsgClientRichPresenceUpload()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientRichPresenceUpload::New(void)const
+4	CMsgClientRichPresenceUpload::Clear(void)
+5	CMsgClientRichPresenceUpload::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientRichPresenceUpload::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientRichPresenceUpload::ByteSize(void)const
+10	CMsgClientRichPresenceUpload::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientRichPresenceUpload::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientRichPresenceUpload::GetCachedSize(void)const
+13	CMsgClientRichPresenceUpload::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientRichPresenceUpload::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientRichPresenceUpload::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientRichPresenceUpload::GetMetadata(void)const

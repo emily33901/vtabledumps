@@ -1,0 +1,5 @@
+// `vtable for'CLocalLibraryController
+// Auto reconstructed from vtable block @ 0x00ED2A98
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLocalLibraryController::~CLocalLibraryController()
+1	CLocalLibraryController::~CLocalLibraryController()

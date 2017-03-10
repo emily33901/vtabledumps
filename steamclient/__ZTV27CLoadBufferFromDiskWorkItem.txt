@@ -1,0 +1,11 @@
+// `vtable for'CLoadBufferFromDiskWorkItem
+// Auto reconstructed from vtable block @ 0x00ED4F10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLoadBufferFromDiskWorkItem::~CLoadBufferFromDiskWorkItem()
+1	CLoadBufferFromDiskWorkItem::~CLoadBufferFromDiskWorkItem()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CLoadBufferFromDiskWorkItem::GetWorkItemName(void)const
+4	CLoadBufferFromDiskWorkItem::GetThreadProcessName(void)const
+5	CLoadBufferFromDiskWorkItem::ThreadProcess(CWorkThread *)
+6	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

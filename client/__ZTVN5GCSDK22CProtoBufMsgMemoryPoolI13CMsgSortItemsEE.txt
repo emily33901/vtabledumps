@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgSortItems>
+// Auto reconstructed from vtable block @ 0x0104F420
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgSortItems>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgSortItems>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgSortItems>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgSortItems>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgSortItems>::InternalFree(google::protobuf::Message *)

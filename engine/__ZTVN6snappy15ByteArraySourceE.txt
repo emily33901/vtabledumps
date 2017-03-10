@@ -1,0 +1,8 @@
+// `vtable for'snappy::ByteArraySource
+// Auto reconstructed from vtable block @ 0x0051D380
+// from "engine.dylib", by ida_vtables.idc
+0	snappy::ByteArraySource::~ByteArraySource()
+1	snappy::ByteArraySource::~ByteArraySource()
+2	snappy::ByteArraySource::Available(void)const
+3	snappy::ByteArraySource::Peek(unsigned long *)
+4	snappy::ByteArraySource::Skip(unsigned long)

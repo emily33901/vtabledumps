@@ -1,0 +1,22 @@
+// `vtable for'CIVDebugOverlay
+// Auto reconstructed from vtable block @ 0x00525D10
+// from "engine.dylib", by ida_vtables.idc
+0	CIVDebugOverlay::AddEntityTextOverlay(int,int,float,int,int,int,int,char const*,...)
+1	CIVDebugOverlay::AddBoxOverlay(Vector const&,Vector const&,Vector const&,QAngle const&,int,int,int,int,float)
+2	CIVDebugOverlay::AddTriangleOverlay(Vector const&,Vector const&,Vector const&,int,int,int,int,bool,float)
+3	CIVDebugOverlay::AddLineOverlay(Vector const&,Vector const&,int,int,int,bool,float)
+4	CIVDebugOverlay::AddTextOverlay(Vector const&,float,char const*,...)
+5	CIVDebugOverlay::AddTextOverlay(Vector const&,int,float,char const*,...)
+6	CIVDebugOverlay::AddScreenTextOverlay(float,float,float,int,int,int,int,char const*)
+7	CIVDebugOverlay::AddSweptBoxOverlay(Vector const&,Vector const&,Vector const&,Vector const&,QAngle const&,int,int,int,int,float)
+8	CIVDebugOverlay::AddGridOverlay(Vector const&)
+9	CIVDebugOverlay::ScreenPosition(Vector const&,Vector&)
+10	CIVDebugOverlay::ScreenPosition(float,float,Vector &)
+11	CIVDebugOverlay::GetFirst(void)
+12	CIVDebugOverlay::GetNext(OverlayText_t *)
+13	CIVDebugOverlay::ClearDeadOverlays(void)
+14	CIVDebugOverlay::ClearAllOverlays(void)
+15	CIVDebugOverlay::AddTextOverlayRGB(Vector const&,int,float,float,float,float,float,char const*,...)
+16	CIVDebugOverlay::AddTextOverlayRGB(Vector const&,int,float,int,int,int,int,char const*,...)
+17	CIVDebugOverlay::AddLineOverlayAlpha(Vector const&,Vector const&,int,int,int,int,bool,float)
+18	CIVDebugOverlay::AddBoxOverlay2(Vector const&,Vector const&,Vector const&,QAngle const&,Color const&,Color const&,float)

@@ -1,0 +1,11 @@
+// `vtable for'CAchievementSaveThread
+// Auto reconstructed from vtable block @ 0x0104A960
+// from "client.dylib", by ida_vtables.idc
+0	CAchievementSaveThread::~CAchievementSaveThread()
+1	CAchievementSaveThread::~CAchievementSaveThread()
+2	CThread::Start(unsigned int)
+3	CThread::Init(void)
+4	CAchievementSaveThread::Run(void)
+5	CThread::OnExit(void)
+6	CThread::GetThreadProc(void)
+7	CThread::IsThreadRunning(void)

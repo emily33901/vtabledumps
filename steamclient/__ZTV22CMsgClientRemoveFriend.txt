@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientRemoveFriend
+// Auto reconstructed from vtable block @ 0x00EEBCC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRemoveFriend::~CMsgClientRemoveFriend()
+1	CMsgClientRemoveFriend::~CMsgClientRemoveFriend()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientRemoveFriend::New(void)const
+4	CMsgClientRemoveFriend::Clear(void)
+5	CMsgClientRemoveFriend::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientRemoveFriend::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientRemoveFriend::ByteSize(void)const
+10	CMsgClientRemoveFriend::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientRemoveFriend::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientRemoveFriend::GetCachedSize(void)const
+13	CMsgClientRemoveFriend::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientRemoveFriend::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientRemoveFriend::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientRemoveFriend::GetMetadata(void)const

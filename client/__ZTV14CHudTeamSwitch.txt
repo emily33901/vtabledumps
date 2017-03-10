@@ -1,0 +1,25 @@
+// `vtable for'CHudTeamSwitch
+// Auto reconstructed from vtable block @ 0x00FA69A0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudTeamSwitch
+1	CHudTeamSwitch::~CHudTeamSwitch()
+2	CHudTeamSwitch::~CHudTeamSwitch()
+3	CHudTeamSwitch::FireGameEvent(IGameEvent *)
+4	CHudTeamSwitch::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudTeamSwitch::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudTeamSwitch::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudTeamSwitch::GetMessageMap(void)
+18	CHudTeamSwitch::GetAnimMap(void)
+19	CHudTeamSwitch::GetKBMap(void)
+20	CHudTeamSwitch::OnTick(void)
+21	CHudTeamSwitch::ApplySchemeSettings(vgui::IScheme *)

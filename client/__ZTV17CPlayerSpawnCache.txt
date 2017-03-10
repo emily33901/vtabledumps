@@ -1,0 +1,6 @@
+// `vtable for'CPlayerSpawnCache
+// Auto reconstructed from vtable block @ 0x00F15710
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerSpawnCache::~CPlayerSpawnCache()
+1	CPlayerSpawnCache::~CPlayerSpawnCache()
+2	CPlayerSpawnCache::FireGameEvent(IGameEvent *)

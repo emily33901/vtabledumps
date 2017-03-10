@@ -1,0 +1,32 @@
+// `vtable for'CReplayServer
+// Auto reconstructed from vtable block @ 0x004ED2D0
+// from "engine.dylib", by ida_vtables.idc
+0	CReplayServer::~CReplayServer()
+1	CReplayServer::~CReplayServer()
+2	CReplayServer::FireGameEvent(IGameEvent *)
+3	CReplayServer::IsMultiplayer(void)const
+4	CReplayServer::IsReplay(void)const
+5	CReplayServer::Init(bool)
+6	CReplayServer::Clear(void)
+7	CReplayServer::Shutdown(void)
+8	CReplayServer::FillServerInfo(SVC_ServerInfo &)
+9	CReplayServer::GetNetStats(float &,float &)
+10	CReplayServer::GetChallengeType(netadr_s &)
+11	CReplayServer::GetName(void)const
+12	CReplayServer::GetPassword(void)const
+13	CReplayServer::ConnectClient(netadr_s &,int,int,int,int,char const*,char const*,char const*,int)
+14	CReplayServer::ReplyChallenge(netadr_s &,int)
+15	CReplayServer::ReplyServerChallenge(netadr_s &)
+16	CReplayServer::RejectConnection(netadr_s const&,int,char const*)
+17	CReplayServer::CreateFakeClient(char const*)
+18	CReplayServer::GetBaseServer(void)
+19	CReplayServer::GetDirector(void)
+20	CReplayServer::GetReplaySlot(void)
+21	CReplayServer::GetOnlineTime(void)
+22	CReplayServer::BroadcastEvent(IGameEvent *)
+23	CReplayServer::IsRecording(void)
+24	CReplayServer::StartRecording(void)
+25	CReplayServer::StopRecording(void)
+26	CReplayServer::SetMaxClients(int)
+27	CReplayServer::UserInfoChanged(int)
+28	CReplayServer::ShouldUpdateMasterServer(void)

@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCResetStrangeScores>
+// Auto reconstructed from vtable block @ 0x010A16A0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCResetStrangeScores>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCResetStrangeScores>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCResetStrangeScores>::GetGenericBody(void)const

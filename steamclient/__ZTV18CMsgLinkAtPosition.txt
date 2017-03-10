@@ -1,0 +1,23 @@
+// `vtable for'CMsgLinkAtPosition
+// Auto reconstructed from vtable block @ 0x00ECCA80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgLinkAtPosition::~CMsgLinkAtPosition()
+1	CMsgLinkAtPosition::~CMsgLinkAtPosition()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgLinkAtPosition::New(void)const
+4	CMsgLinkAtPosition::Clear(void)
+5	CMsgLinkAtPosition::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgLinkAtPosition::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgLinkAtPosition::ByteSize(void)const
+10	CMsgLinkAtPosition::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgLinkAtPosition::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgLinkAtPosition::GetCachedSize(void)const
+13	CMsgLinkAtPosition::CopyFrom(google::protobuf::Message const&)
+14	CMsgLinkAtPosition::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgLinkAtPosition::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgLinkAtPosition::GetMetadata(void)const

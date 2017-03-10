@@ -1,0 +1,5 @@
+// `vtable for'vehicleview_t
+// Auto reconstructed from vtable block @ 0x010A0CEC
+// from "client.dylib", by ida_vtables.idc
+0	vehicleview_t::NetworkStateChanged(void)
+1	vehicleview_t::NetworkStateChanged(void *)

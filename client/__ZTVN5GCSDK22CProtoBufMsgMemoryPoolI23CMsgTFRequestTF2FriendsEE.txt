@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgTFRequestTF2Friends>
+// Auto reconstructed from vtable block @ 0x010E0310
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgTFRequestTF2Friends>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgTFRequestTF2Friends>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgTFRequestTF2Friends>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgTFRequestTF2Friends>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgTFRequestTF2Friends>::InternalFree(google::protobuf::Message *)

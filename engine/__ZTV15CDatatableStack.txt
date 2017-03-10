@@ -1,0 +1,4 @@
+// `vtable for'CDatatableStack
+// Auto reconstructed from vtable block @ 0x00526088
+// from "engine.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual

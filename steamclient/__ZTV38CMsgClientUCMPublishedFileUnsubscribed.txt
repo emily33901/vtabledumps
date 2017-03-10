@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUCMPublishedFileUnsubscribed
+// Auto reconstructed from vtable block @ 0x00EED290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMPublishedFileUnsubscribed::~CMsgClientUCMPublishedFileUnsubscribed()
+1	CMsgClientUCMPublishedFileUnsubscribed::~CMsgClientUCMPublishedFileUnsubscribed()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUCMPublishedFileUnsubscribed::New(void)const
+4	CMsgClientUCMPublishedFileUnsubscribed::Clear(void)
+5	CMsgClientUCMPublishedFileUnsubscribed::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUCMPublishedFileUnsubscribed::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUCMPublishedFileUnsubscribed::ByteSize(void)const
+10	CMsgClientUCMPublishedFileUnsubscribed::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUCMPublishedFileUnsubscribed::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUCMPublishedFileUnsubscribed::GetCachedSize(void)const
+13	CMsgClientUCMPublishedFileUnsubscribed::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUCMPublishedFileUnsubscribed::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUCMPublishedFileUnsubscribed::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUCMPublishedFileUnsubscribed::GetMetadata(void)const

@@ -1,0 +1,11 @@
+// `vtable for'CGCCompleteDynamicRecipeResponse
+// Auto reconstructed from vtable block @ 0x011191D0
+// from "client.dylib", by ida_vtables.idc
+0	CGCCompleteDynamicRecipeResponse::~CGCCompleteDynamicRecipeResponse()
+1	CGCCompleteDynamicRecipeResponse::~CGCCompleteDynamicRecipeResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCCompleteDynamicRecipeResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

@@ -1,0 +1,23 @@
+// `vtable for'CMsgSelectPresetForClass
+// Auto reconstructed from vtable block @ 0x00E3A960
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSelectPresetForClass::~CMsgSelectPresetForClass()
+1	CMsgSelectPresetForClass::~CMsgSelectPresetForClass()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgSelectPresetForClass::New(void)const
+4	CMsgSelectPresetForClass::Clear(void)
+5	CMsgSelectPresetForClass::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgSelectPresetForClass::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgSelectPresetForClass::ByteSize(void)const
+10	CMsgSelectPresetForClass::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgSelectPresetForClass::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgSelectPresetForClass::GetCachedSize(void)const
+13	CMsgSelectPresetForClass::CopyFrom(google::protobuf::Message const&)
+14	CMsgSelectPresetForClass::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgSelectPresetForClass::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgSelectPresetForClass::GetMetadata(void)const

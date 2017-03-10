@@ -1,0 +1,9 @@
+// `vtable for'CSetLEDColorWorkItem
+// Auto reconstructed from vtable block @ 0x00F01D50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSetLEDColorWorkItem::~CSetLEDColorWorkItem()
+1	CSetLEDColorWorkItem::~CSetLEDColorWorkItem()
+2	CSetLEDColorWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CSetLEDColorWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

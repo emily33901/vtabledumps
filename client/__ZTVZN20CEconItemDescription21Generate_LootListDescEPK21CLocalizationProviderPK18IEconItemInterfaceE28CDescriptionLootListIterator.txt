@@ -1,0 +1,6 @@
+// `vtable for'CEconItemDescription::Generate_LootListDesc(CLocalizationProvider const*,IEconItemInterface const*)::CDescriptionLootListIterator
+// Auto reconstructed from vtable block @ 0x00E3E970
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemDescription::Generate_LootListDesc(CLocalizationProvider const*,IEconItemInterface const*)::CDescriptionLootListIterator::~CDescriptionLootListIterator()
+1	CEconItemDescription::Generate_LootListDesc(CLocalizationProvider const*,IEconItemInterface const*)::CDescriptionLootListIterator::~CDescriptionLootListIterator()
+2	CEconItemDescription::Generate_LootListDesc(CLocalizationProvider const*,IEconItemInterface const*)::CDescriptionLootListIterator::OnIterate(unsigned short)

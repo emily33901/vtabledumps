@@ -1,0 +1,5 @@
+// `vtable for'TagLib::Map<int,TagLib::ByteVector>
+// Auto reconstructed from vtable block @ 0x00F260A8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Map<int,TagLib::ByteVector>::~Map()
+1	TagLib::Map<int,TagLib::ByteVector>::~Map()

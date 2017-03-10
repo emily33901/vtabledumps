@@ -1,0 +1,6 @@
+// `vtable for'google::protobuf::internal::ExtensionFinder
+// Auto reconstructed from vtable block @ 0x010190C8
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::internal::ExtensionFinder::~ExtensionFinder()
+1	google::protobuf::internal::ExtensionFinder::~ExtensionFinder()
+2	___cxa_pure_virtual

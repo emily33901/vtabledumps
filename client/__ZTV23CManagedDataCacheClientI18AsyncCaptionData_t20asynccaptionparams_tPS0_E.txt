@@ -1,0 +1,5 @@
+// `vtable for'CManagedDataCacheClient<AsyncCaptionData_t,asynccaptionparams_t,AsyncCaptionData_t*>
+// Auto reconstructed from vtable block @ 0x010C53F0
+// from "client.dylib", by ida_vtables.idc
+0	CManagedDataCacheClient<AsyncCaptionData_t,asynccaptionparams_t,AsyncCaptionData_t*>::HandleCacheNotification(DataCacheNotification_t const&)
+1	CDefaultDataCacheClient::GetItemName(unsigned int,void const*,char *,unsigned int)

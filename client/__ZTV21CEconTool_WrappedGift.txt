@@ -1,0 +1,15 @@
+// `vtable for'CEconTool_WrappedGift
+// Auto reconstructed from vtable block @ 0x00E3ED90
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_WrappedGift::~CEconTool_WrappedGift()
+1	CEconTool_WrappedGift::~CEconTool_WrappedGift()
+2	IEconTool::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+3	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+4	IEconTool::RequiresToolEscrowPeriod(void)const
+5	CEconTool_WrappedGift::BFinishInitialization(void)
+6	CEconTool_WrappedGift::CanBeUsedNow(IEconItemInterface const*)const
+7	CEconTool_WrappedGift::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+8	IEconTool::ShouldDisplayAsUseableOnItemsInArmory(void)const
+9	CEconTool_WrappedGift::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+10	CEconTool_WrappedGift::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+11	IEconTool::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const

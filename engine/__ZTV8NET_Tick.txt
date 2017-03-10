@@ -1,0 +1,16 @@
+// `vtable for'NET_Tick
+// Auto reconstructed from vtable block @ 0x004B3620
+// from "engine.dylib", by ida_vtables.idc
+0	NET_Tick::~NET_Tick()
+1	NET_Tick::~NET_Tick()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	NET_Tick::Process(void)
+5	NET_Tick::ReadFromBuffer(bf_read &)
+6	NET_Tick::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	NET_Tick::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	NET_Tick::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	NET_Tick::ToString(void)const

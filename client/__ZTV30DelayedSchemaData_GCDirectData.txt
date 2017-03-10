@@ -1,0 +1,6 @@
+// `vtable for'DelayedSchemaData_GCDirectData
+// Auto reconstructed from vtable block @ 0x01051060
+// from "client.dylib", by ida_vtables.idc
+0	DelayedSchemaData_GCDirectData::~DelayedSchemaData_GCDirectData()
+1	DelayedSchemaData_GCDirectData::~DelayedSchemaData_GCDirectData()
+2	DelayedSchemaData_GCDirectData::InitializeSchema(CEconItemSchema *)

@@ -1,0 +1,21 @@
+// `vtable for'CAudioMixerWave16Mono
+// Auto reconstructed from vtable block @ 0x0051E4C0
+// from "engine.dylib", by ida_vtables.idc
+0	CAudioMixerWave16Mono::~CAudioMixerWave16Mono()
+1	CAudioMixerWave16Mono::~CAudioMixerWave16Mono()
+2	CAudioMixerWave::MixDataToDevice(IAudioDevice *,channel_t *,int,int,int)
+3	CAudioMixerWave::SkipSamples(channel_t *,int,int,int)
+4	CAudioMixerWave::ShouldContinueMixing(void)
+5	CAudioMixerWave::GetSource(void)
+6	CAudioMixerWave::GetSamplePosition(void)
+7	CAudioMixerWave::ModifyPitch(float)
+8	CAudioMixerWave::GetVolumeScale(void)
+9	CAudioMixerWave::SetSampleStart(int)
+10	CAudioMixerWave::SetSampleEnd(int)
+11	CAudioMixerWave::SetStartupDelaySamples(int)
+12	CAudioMixerWave16Mono::GetMixSampleSize(void)
+13	CAudioMixerWave::IsReadyToMix(void)
+14	CAudioMixerWave::GetPositionForSave(void)
+15	CAudioMixerWave::SetPositionFromSaved(int)
+16	CAudioMixerWave16Mono::Mix(IAudioDevice *,channel_t *,void *,int,int,unsigned int,int,int)
+17	CAudioMixerWave::GetOutputData(void **,int,char *)

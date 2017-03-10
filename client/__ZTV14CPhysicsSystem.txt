@@ -1,0 +1,21 @@
+// `vtable for'CPhysicsSystem
+// Auto reconstructed from vtable block @ 0x00F14B40
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CPhysicsSystem::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CPhysicsSystem::Shutdown(void)
+4	CPhysicsSystem::LevelInitPreEntity(void)
+5	CPhysicsSystem::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CPhysicsSystem::LevelShutdownPreEntity(void)
+8	CPhysicsSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CPhysicsSystem::~CPhysicsSystem()
+14	CPhysicsSystem::~CPhysicsSystem()
+15	CBaseGameSystemPerFrame::PreRender(void)
+16	CPhysicsSystem::Update(float)
+17	CBaseGameSystemPerFrame::PostRender(void)

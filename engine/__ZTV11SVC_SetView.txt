@@ -1,0 +1,16 @@
+// `vtable for'SVC_SetView
+// Auto reconstructed from vtable block @ 0x004B3990
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_SetView::~SVC_SetView()
+1	SVC_SetView::~SVC_SetView()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_SetView::Process(void)
+5	SVC_SetView::ReadFromBuffer(bf_read &)
+6	SVC_SetView::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_SetView::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	SVC_SetView::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_SetView::ToString(void)const

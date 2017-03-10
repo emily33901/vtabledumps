@@ -1,0 +1,6 @@
+// `vtable for'CSteam3StreamParser
+// Auto reconstructed from vtable block @ 0x00EF1FB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteam3StreamParser::BIsValidMsgType(unsigned char *,int,int *,unsigned char const**)const
+1	CSteam3StreamParser::BIsMsgComplete(unsigned char const*,int,int,unsigned char const**)const
+2	steam3Parser

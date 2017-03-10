@@ -1,0 +1,27 @@
+// `vtable for'CHudNotificationPanel
+// Auto reconstructed from vtable block @ 0x00F8C4E0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudNotificationPanel
+1	CHudNotificationPanel::~CHudNotificationPanel()
+2	CHudNotificationPanel::~CHudNotificationPanel()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudNotificationPanel::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudNotificationPanel::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudNotificationPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudNotificationPanel::GetMessageMap(void)
+18	CHudNotificationPanel::GetAnimMap(void)
+19	CHudNotificationPanel::GetKBMap(void)
+20	CHudNotificationPanel::ApplySchemeSettings(vgui::IScheme *)
+21	CHudNotificationPanel::OnTick(void)
+22	CHudNotificationPanel::PerformLayout(void)
+23	CHudNotificationPanel::LoadControlSettings(char const*,char const*,KeyValues *,KeyValues *)

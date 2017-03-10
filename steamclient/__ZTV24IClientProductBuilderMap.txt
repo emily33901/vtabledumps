@@ -1,0 +1,6 @@
+// `vtable for'IClientProductBuilderMap
+// Auto reconstructed from vtable block @ 0x00F0C230
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientProductBuilderMap::SignInstallScript(unsigned int,char const*,char const*)
+1	IClientProductBuilderMap::DRMWrap(unsigned int,char const*,char const*,char const*,unsigned int)
+2	IClientProductBuilderMap::CEGWrap(unsigned int,char const*,char const*,char const*)

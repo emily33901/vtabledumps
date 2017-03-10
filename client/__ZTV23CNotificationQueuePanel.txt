@@ -1,0 +1,26 @@
+// `vtable for'CNotificationQueuePanel
+// Auto reconstructed from vtable block @ 0x010A6AE0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CNotificationQueuePanel
+1	CNotificationQueuePanel::~CNotificationQueuePanel()
+2	CNotificationQueuePanel::~CNotificationQueuePanel()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CNotificationQueuePanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CNotificationQueuePanel::GetMessageMap(void)
+18	CNotificationQueuePanel::GetAnimMap(void)
+19	CNotificationQueuePanel::GetKBMap(void)
+20	CNotificationQueuePanel::PerformLayout(void)
+21	CNotificationQueuePanel::ApplySchemeSettings(vgui::IScheme *)
+22	CNotificationQueuePanel::OnThink(void)

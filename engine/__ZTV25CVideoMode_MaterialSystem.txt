@@ -1,0 +1,37 @@
+// `vtable for'CVideoMode_MaterialSystem
+// Auto reconstructed from vtable block @ 0x004EE1D0
+// from "engine.dylib", by ida_vtables.idc
+0	CVideoMode_MaterialSystem::~CVideoMode_MaterialSystem()
+1	CVideoMode_MaterialSystem::~CVideoMode_MaterialSystem()
+2	CVideoMode_MaterialSystem::Init(void)
+3	CVideoMode_MaterialSystem::Shutdown(void)
+4	CVideoMode_Common::DrawStartupGraphic(void)
+5	CVideoMode_Common::CreateGameWindow(int,int,bool)
+6	CVideoMode_MaterialSystem::SetGameWindow(void *)
+7	CVideoMode_MaterialSystem::SetMode(int,int,bool)
+8	CVideoMode_Common::GetModeCount(void)
+9	CVideoMode_Common::GetMode(int)
+10	CVideoMode_Common::UpdateWindowPosition(void)
+11	CVideoMode_MaterialSystem::RestoreVideo(void)
+12	CVideoMode_MaterialSystem::ReleaseVideo(void)
+13	CVideoMode_Common::DrawNullBackground(void *,int,int)
+14	CVideoMode_Common::InvalidateWindow(void)
+15	CVideoMode_Common::GetModeWidth(void)const
+16	CVideoMode_Common::GetModeHeight(void)const
+17	CVideoMode_Common::IsWindowedMode(void)const
+18	CVideoMode_Common::GetModeStereoWidth(void)const
+19	CVideoMode_Common::GetModeStereoHeight(void)const
+20	CVideoMode_Common::GetModeUIWidth(void)const
+21	CVideoMode_Common::GetModeUIHeight(void)const
+22	CVideoMode_Common::GetClientViewRect(void)const
+23	CVideoMode_Common::SetClientViewRect(vrect_t const&)
+24	CVideoMode_Common::MarkClientViewRectDirty(void)
+25	CVideoMode_Common::TakeSnapshotTGA(char const*)
+26	CVideoMode_Common::TakeSnapshotTGARect(char const*,int,int,int,int,int,int,bool,CubeMapFaceIndex_t)
+27	CVideoMode_Common::WriteMovieFrame(MovieInfo_t const&)
+28	CVideoMode_Common::TakeSnapshotJPEG(char const*,int)
+29	CVideoMode_Common::TakeSnapshotJPEGToBuffer(CUtlBuffer &,int)
+30	CVideoMode_MaterialSystem::ReadScreenPixels(int,int,int,int,void *,ImageFormat)
+31	CVideoMode_MaterialSystem::ReleaseFullScreen(void)
+32	CVideoMode_MaterialSystem::ChangeDisplaySettingsToFullscreen(int,int,int)
+33	CVideoMode_MaterialSystem::AdjustForModeChange(void)

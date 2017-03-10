@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGCShuffleCrateContents>
+// Auto reconstructed from vtable block @ 0x01119110
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGCShuffleCrateContents>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGCShuffleCrateContents>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGCShuffleCrateContents>::GetGenericBody(void)const

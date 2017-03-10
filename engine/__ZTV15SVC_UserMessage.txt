@@ -1,0 +1,16 @@
+// `vtable for'SVC_UserMessage
+// Auto reconstructed from vtable block @ 0x004B3A80
+// from "engine.dylib", by ida_vtables.idc
+0	SVC_UserMessage::~SVC_UserMessage()
+1	SVC_UserMessage::~SVC_UserMessage()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	SVC_UserMessage::Process(void)
+5	SVC_UserMessage::ReadFromBuffer(bf_read &)
+6	SVC_UserMessage::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	SVC_UserMessage::GetType(void)const
+9	SVC_UserMessage::GetGroup(void)const
+10	SVC_UserMessage::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	SVC_UserMessage::ToString(void)const

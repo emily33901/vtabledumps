@@ -1,0 +1,13 @@
+// `vtable for'CLayeredMapToolTip
+// Auto reconstructed from vtable block @ 0x00FEF590
+// from "client.dylib", by ida_vtables.idc
+0	CLayeredMapToolTip::SetText(char const*)
+1	CLayeredMapToolTip::GetText(void)
+2	CLayeredMapToolTip::ShowTooltip(vgui::Panel *)
+3	CLayeredMapToolTip::HideTooltip(void)
+4	CLayeredMapToolTip::PerformLayout(void)
+5	vgui::BaseTooltip::PositionWindow(vgui::Panel *)
+6	vgui::BaseTooltip::ApplySchemeSettings(vgui::IScheme *)
+7	CLayeredMapToolTip::GetMessageMap(void)
+8	CLayeredMapToolTip::GetAnimMap(void)
+9	CLayeredMapToolTip::GetKBMap(void)

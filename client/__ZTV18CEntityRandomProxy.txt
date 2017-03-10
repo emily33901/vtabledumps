@@ -1,0 +1,9 @@
+// `vtable for'CEntityRandomProxy
+// Auto reconstructed from vtable block @ 0x00F15950
+// from "client.dylib", by ida_vtables.idc
+0	CEntityRandomProxy::Init(IMaterial *,KeyValues *)
+1	CEntityRandomProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CEntityRandomProxy::~CEntityRandomProxy()
+5	CEntityRandomProxy::~CEntityRandomProxy()

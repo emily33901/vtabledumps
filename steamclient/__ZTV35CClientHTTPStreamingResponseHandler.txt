@@ -1,0 +1,11 @@
+// `vtable for'CClientHTTPStreamingResponseHandler
+// Auto reconstructed from vtable block @ 0x00EF52B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientHTTPStreamingResponseHandler::~CClientHTTPStreamingResponseHandler()
+1	CClientHTTPStreamingResponseHandler::~CClientHTTPStreamingResponseHandler()
+2	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+3	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+4	IHTTPStreamingResponseHandler::OnRequestTransmitted(CHTTPRequestHandle *)
+5	CClientHTTPStreamingResponseHandler::OnHeaderComplete(CHTTPRequestHandle *,KeyValues *)
+6	CClientHTTPStreamingResponseHandler::OnBodyDataReceived(CHTTPRequestHandle *,CUtlBuffer &,unsigned int)
+7	CClientHTTPStreamingResponseHandler::OnRequestComplete(CHTTPRequestHandle *,unsigned int)

@@ -1,0 +1,22 @@
+// `vtable for'CSteamServiceBaseImpl
+// Auto reconstructed from vtable block @ 0x00ECADC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamServiceBaseImpl::ConnectSteamService(int)
+1	CSteamServiceBaseImpl::ReleaseSteamService(void)
+2	CSteamServiceBaseImpl::IsInstalled(void)
+3	CSteamServiceBaseImpl::InstallService(void)
+4	CSteamServiceBaseImpl::IsRunningAsLocalThread(void)
+5	CSteamServiceBaseImpl::ServiceStart(void)
+6	CSteamServiceBaseImpl::StopService(void)
+7	CSteamServiceBaseImpl::BTestService(void)
+8	CSteamServiceBaseImpl::GetIClientInstallUtils(void)
+9	CSteamServiceBaseImpl::GetIClientModuleManager(void)
+10	CSteamServiceBaseImpl::GetIClientProcessMonitor(void)
+11	CSteamServiceBaseImpl::GetIClientRegistry(void)
+12	CSteamServiceBaseImpl::ConsumeCallbacks(void)
+13	CSteamServiceBaseImpl::~CSteamServiceBaseImpl()
+14	CSteamServiceBaseImpl::~CSteamServiceBaseImpl()
+15	CSteamServiceBaseImpl::Validate(CValidator &,char const*)
+16	CSteamServiceBaseImpl::CheckSteamService(void)
+17	CSteamServiceBaseImpl::BCanRunLocalThread(void)const
+18	CSteamServiceBaseImpl::BStartAsExternalService(void)

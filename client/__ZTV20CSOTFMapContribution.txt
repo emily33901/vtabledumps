@@ -1,0 +1,23 @@
+// `vtable for'CSOTFMapContribution
+// Auto reconstructed from vtable block @ 0x00E50E20
+// from "client.dylib", by ida_vtables.idc
+0	CSOTFMapContribution::~CSOTFMapContribution()
+1	CSOTFMapContribution::~CSOTFMapContribution()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CSOTFMapContribution::New(void)const
+4	CSOTFMapContribution::Clear(void)
+5	CSOTFMapContribution::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CSOTFMapContribution::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CSOTFMapContribution::ByteSize(void)const
+10	CSOTFMapContribution::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CSOTFMapContribution::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CSOTFMapContribution::GetCachedSize(void)const
+13	CSOTFMapContribution::CopyFrom(google::protobuf::Message const&)
+14	CSOTFMapContribution::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CSOTFMapContribution::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CSOTFMapContribution::GetMetadata(void)const

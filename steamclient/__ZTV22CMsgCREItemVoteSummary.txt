@@ -1,0 +1,23 @@
+// `vtable for'CMsgCREItemVoteSummary
+// Auto reconstructed from vtable block @ 0x00EEFFF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgCREItemVoteSummary::~CMsgCREItemVoteSummary()
+1	CMsgCREItemVoteSummary::~CMsgCREItemVoteSummary()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgCREItemVoteSummary::New(void)const
+4	CMsgCREItemVoteSummary::Clear(void)
+5	CMsgCREItemVoteSummary::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgCREItemVoteSummary::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgCREItemVoteSummary::ByteSize(void)const
+10	CMsgCREItemVoteSummary::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgCREItemVoteSummary::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgCREItemVoteSummary::GetCachedSize(void)const
+13	CMsgCREItemVoteSummary::CopyFrom(google::protobuf::Message const&)
+14	CMsgCREItemVoteSummary::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgCREItemVoteSummary::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgCREItemVoteSummary::GetMetadata(void)const

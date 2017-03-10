@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo
+// Auto reconstructed from vtable block @ 0x00EED410
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::~CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo()
+1	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::~CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::New(void)const
+4	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::Clear(void)
+5	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::ByteSize(void)const
+10	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::GetCachedSize(void)const
+13	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientWorkshopItemChangesResponse_WorkshopItemInfo::GetMetadata(void)const

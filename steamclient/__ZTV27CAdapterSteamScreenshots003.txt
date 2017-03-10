@@ -1,0 +1,12 @@
+// `vtable for'CAdapterSteamScreenshots003
+// Auto reconstructed from vtable block @ 0x00F083C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamScreenshots003::WriteScreenshot(void *,unsigned int,int,int)
+1	CAdapterSteamScreenshots003::AddScreenshotToLibrary(char const*,char const*,int,int)
+2	CAdapterSteamScreenshots003::TriggerScreenshot(void)
+3	CAdapterSteamScreenshots003::HookScreenshots(bool)
+4	CAdapterSteamScreenshots003::SetLocation(unsigned int,char const*)
+5	CAdapterSteamScreenshots003::TagUser(unsigned int,CSteamID)
+6	CAdapterSteamScreenshots003::TagPublishedFile(unsigned int,unsigned long long)
+7	CAdapterSteamScreenshots003::IsScreenshotsHooked(void)
+8	CAdapterSteamScreenshots003::AddVRScreenshotToLibrary(EVRScreenshotType,char const*,char const*)

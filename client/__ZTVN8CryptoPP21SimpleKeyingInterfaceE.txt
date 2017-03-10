@@ -1,0 +1,19 @@
+// `vtable for'CryptoPP::SimpleKeyingInterface
+// Auto reconstructed from vtable block @ 0x010154E0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::SimpleKeyingInterface::~SimpleKeyingInterface()
+1	CryptoPP::SimpleKeyingInterface::~SimpleKeyingInterface()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	CryptoPP::SimpleKeyingInterface::IsValidKeyLength(unsigned long)const
+7	CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*,unsigned long,CryptoPP::NameValuePairs const&)
+8	___cxa_pure_virtual
+9	CryptoPP::SimpleKeyingInterface::IVSize(void)const
+10	CryptoPP::SimpleKeyingInterface::MinIVLength(void)const
+11	CryptoPP::SimpleKeyingInterface::MaxIVLength(void)const
+12	CryptoPP::SimpleKeyingInterface::Resynchronize(unsigned char const*,int)
+13	CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator &,unsigned char *)
+14	___cxa_pure_virtual
+15	___cxa_pure_virtual

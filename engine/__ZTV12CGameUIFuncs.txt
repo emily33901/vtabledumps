@@ -1,0 +1,10 @@
+// `vtable for'CGameUIFuncs
+// Auto reconstructed from vtable block @ 0x00529B20
+// from "engine.dylib", by ida_vtables.idc
+0	CGameUIFuncs::IsKeyDown(char const*,bool &)
+1	CGameUIFuncs::GetBindingForButtonCode(ButtonCode_t)
+2	CGameUIFuncs::GetButtonCodeForBind(char const*)
+3	CGameUIFuncs::GetVideoModes(vmode_s **,int *)
+4	CGameUIFuncs::SetFriendsID(unsigned int,char const*)
+5	CGameUIFuncs::GetDesktopResolution(int &,int &)
+6	CGameUIFuncs::IsConnectedToVACSecureServer(void)

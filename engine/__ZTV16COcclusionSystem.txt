@@ -1,0 +1,9 @@
+// `vtable for'COcclusionSystem
+// Auto reconstructed from vtable block @ 0x004E93C0
+// from "engine.dylib", by ida_vtables.idc
+0	COcclusionSystem::ActivateOccluder(int,bool)
+1	COcclusionSystem::SetView(Vector const&,float,VMatrix const&,VMatrix const&,VPlane const&)
+2	COcclusionSystem::IsOccluded(Vector const&,Vector const&)
+3	COcclusionSystem::SetOcclusionParameters(float,float)
+4	COcclusionSystem::MinOccluderArea(void)const
+5	COcclusionSystem::DrawDebugOverlays(void)

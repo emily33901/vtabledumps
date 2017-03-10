@@ -1,0 +1,17 @@
+// `vtable for'CParticleEffect
+// Auto reconstructed from vtable block @ 0x00F14770
+// from "client.dylib", by ida_vtables.idc
+0	CParticleEffect::~CParticleEffect()
+1	CParticleEffect::~CParticleEffect()
+2	CParticleEffect::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CParticleEffect::ShouldSimulate(void)const
+5	CParticleEffect::SetShouldSimulate(bool)
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	CParticleEffect::NotifyRemove(void)
+9	CParticleEffect::NotifyDestroyParticle(Particle *)
+10	CParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CParticleEffect::GetEffectName(void)
+13	CParticleEffect::SetParticleCullRadius(float)

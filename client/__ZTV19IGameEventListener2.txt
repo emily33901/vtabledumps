@@ -1,0 +1,6 @@
+// `vtable for'IGameEventListener2
+// Auto reconstructed from vtable block @ 0x010BE690
+// from "client.dylib", by ida_vtables.idc
+0	IGameEventListener2::~IGameEventListener2()
+1	IGameEventListener2::~IGameEventListener2()
+2	___cxa_pure_virtual

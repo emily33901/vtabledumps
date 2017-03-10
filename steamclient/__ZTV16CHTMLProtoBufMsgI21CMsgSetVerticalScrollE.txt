@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgSetVerticalScroll>
+// Auto reconstructed from vtable block @ 0x00F05628
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgSetVerticalScroll>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgSetVerticalScroll>::~CHTMLProtoBufMsg()

@@ -1,0 +1,8 @@
+// `vtable for'CFunctor6<void (*)(dlight_t *,msurface2_t *,matrix3x4_t const&,unsigned int,bool,bool),dlight_t *,msurface2_t *,matrix3x4_t,unsigned int,bool,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>
+// Auto reconstructed from vtable block @ 0x00526510
+// from "engine.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)
+2	CFunctor6<void (*)(dlight_t *,msurface2_t *,matrix3x4_t const&,unsigned int,bool,bool),dlight_t *,msurface2_t *,matrix3x4_t,unsigned int,bool,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>::~CFunctor6()
+3	CFunctor6<void (*)(dlight_t *,msurface2_t *,matrix3x4_t const&,unsigned int,bool,bool),dlight_t *,msurface2_t *,matrix3x4_t,unsigned int,bool,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>::~CFunctor6()
+4	CFunctor6<void (*)(dlight_t *,msurface2_t *,matrix3x4_t const&,unsigned int,bool,bool),dlight_t *,msurface2_t *,matrix3x4_t,unsigned int,bool,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>::operator()(void)

@@ -1,0 +1,9 @@
+// `vtable for'CParticleOperatorDefinition<C_OP_Decay>
+// Auto reconstructed from vtable block @ 0x01145640
+// from "client.dylib", by ida_vtables.idc
+0	CParticleOperatorDefinition<C_OP_Decay>::GetName(void)const
+1	CParticleOperatorDefinition<C_OP_Decay>::CreateInstance(UniqueId_t const&)const
+2	CParticleOperatorDefinition<C_OP_Decay>::GetUnpackStructure(void)const
+3	CParticleOperatorDefinition<C_OP_Decay>::GetId(void)const
+4	CParticleOperatorDefinition<C_OP_Decay>::IsObsolete(void)const
+5	CParticleOperatorDefinition<C_OP_Decay>::GetClassSize(void)const

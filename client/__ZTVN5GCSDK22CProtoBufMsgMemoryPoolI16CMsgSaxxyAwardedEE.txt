@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgSaxxyAwarded>
+// Auto reconstructed from vtable block @ 0x01117910
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgSaxxyAwarded>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgSaxxyAwarded>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgSaxxyAwarded>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgSaxxyAwarded>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgSaxxyAwarded>::InternalFree(google::protobuf::Message *)

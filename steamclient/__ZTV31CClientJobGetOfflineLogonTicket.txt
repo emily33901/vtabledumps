@@ -1,0 +1,17 @@
+// `vtable for'CClientJobGetOfflineLogonTicket
+// Auto reconstructed from vtable block @ 0x00EF9F30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientJobGetOfflineLogonTicket::~CClientJobGetOfflineLogonTicket()
+1	CClientJobGetOfflineLogonTicket::~CClientJobGetOfflineLogonTicket()
+2	CJob::GetServerType(void)
+3	CJob::Validate(CValidator &,char const*)
+4	CJob::TEST_BIsLongRunning(void)
+5	CJob::MsgTraceReportJobBlocking(char const*)
+6	CJob::MsgTraceReportJobUnblocking(void)
+7	CJob::DescribeWork(CUtlStringBuilder &)
+8	CBaseAPIJob::BYieldingRunJob(void *)
+9	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+10	CBaseAPIJob::CMicrosecBeforeTimeout(EJobPauseReason)
+11	CJob::MsgTraceReportJobStarted(void)
+12	CJob::MsgTraceReportJobFinished(void)
+13	CClientJobGetOfflineLogonTicket::BYieldingRunAPIJob(void)

@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientLoggedOff
+// Auto reconstructed from vtable block @ 0x00EE76A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientLoggedOff::~CMsgClientLoggedOff()
+1	CMsgClientLoggedOff::~CMsgClientLoggedOff()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientLoggedOff::New(void)const
+4	CMsgClientLoggedOff::Clear(void)
+5	CMsgClientLoggedOff::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientLoggedOff::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientLoggedOff::ByteSize(void)const
+10	CMsgClientLoggedOff::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientLoggedOff::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientLoggedOff::GetCachedSize(void)const
+13	CMsgClientLoggedOff::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientLoggedOff::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientLoggedOff::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientLoggedOff::GetMetadata(void)const

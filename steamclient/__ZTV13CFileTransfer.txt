@@ -1,0 +1,5 @@
+// `vtable for'CFileTransfer
+// Auto reconstructed from vtable block @ 0x00EE6078
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFileTransfer::Completed(RecvFileProgress_t *)
+1	CFileTransfer::Progress(unsigned long long,unsigned long long)

@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientNewsUpdate_t>
+// Auto reconstructed from vtable block @ 0x00EF8BF4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientNewsUpdate_t>::~CClientMsg()
+1	CClientMsg<MsgClientNewsUpdate_t>::~CClientMsg()

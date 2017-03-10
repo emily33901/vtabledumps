@@ -1,0 +1,26 @@
+// `vtable for'CHudEurekaEffectTeleportMenu
+// Auto reconstructed from vtable block @ 0x00F892A0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudEurekaEffectTeleportMenu
+1	CHudEurekaEffectTeleportMenu::~CHudEurekaEffectTeleportMenu()
+2	CHudEurekaEffectTeleportMenu::~CHudEurekaEffectTeleportMenu()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudEurekaEffectTeleportMenu::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudEurekaEffectTeleportMenu::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudEurekaEffectTeleportMenu::GetRenderGroupPriority(void)
+17	CHudEurekaEffectTeleportMenu::GetMessageMap(void)
+18	CHudEurekaEffectTeleportMenu::GetAnimMap(void)
+19	CHudEurekaEffectTeleportMenu::GetKBMap(void)
+20	CHudEurekaEffectTeleportMenu::ApplySchemeSettings(vgui::IScheme *)
+21	CHudEurekaEffectTeleportMenu::SetVisible(bool)
+22	CHudEurekaEffectTeleportMenu::OnTick(void)

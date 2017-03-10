@@ -1,0 +1,23 @@
+// `vtable for'CIPLocationInfo
+// Auto reconstructed from vtable block @ 0x00E974D0
+// from "client.dylib", by ida_vtables.idc
+0	CIPLocationInfo::~CIPLocationInfo()
+1	CIPLocationInfo::~CIPLocationInfo()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CIPLocationInfo::New(void)const
+4	CIPLocationInfo::Clear(void)
+5	CIPLocationInfo::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CIPLocationInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CIPLocationInfo::ByteSize(void)const
+10	CIPLocationInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CIPLocationInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CIPLocationInfo::GetCachedSize(void)const
+13	CIPLocationInfo::CopyFrom(google::protobuf::Message const&)
+14	CIPLocationInfo::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CIPLocationInfo::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CIPLocationInfo::GetMetadata(void)const

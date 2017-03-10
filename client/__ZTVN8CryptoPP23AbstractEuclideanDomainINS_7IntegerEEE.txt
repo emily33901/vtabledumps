@@ -1,0 +1,30 @@
+// `vtable for'CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>
+// Auto reconstructed from vtable block @ 0x01015880
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>::~AbstractEuclideanDomain()
+1	CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>::~AbstractEuclideanDomain()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	CryptoPP::AbstractGroup<CryptoPP::Integer>::InversionIsFast(void)const
+7	CryptoPP::AbstractGroup<CryptoPP::Integer>::Double(CryptoPP::Integer const&)const
+8	CryptoPP::AbstractGroup<CryptoPP::Integer>::Subtract(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+9	CryptoPP::AbstractGroup<CryptoPP::Integer>::Accumulate(CryptoPP::Integer&,CryptoPP::Integer const&)const
+10	CryptoPP::AbstractGroup<CryptoPP::Integer>::Reduce(CryptoPP::Integer&,CryptoPP::Integer const&)const
+11	CryptoPP::AbstractGroup<CryptoPP::Integer>::ScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+12	CryptoPP::AbstractGroup<CryptoPP::Integer>::CascadeScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+13	CryptoPP::AbstractGroup<CryptoPP::Integer>::SimultaneousMultiply(CryptoPP::Integer*,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const
+14	___cxa_pure_virtual
+15	___cxa_pure_virtual
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual
+18	CryptoPP::AbstractRing<CryptoPP::Integer>::Square(CryptoPP::Integer const&)const
+19	CryptoPP::AbstractRing<CryptoPP::Integer>::Divide(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+20	CryptoPP::AbstractRing<CryptoPP::Integer>::Exponentiate(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+21	CryptoPP::AbstractRing<CryptoPP::Integer>::CascadeExponentiate(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+22	CryptoPP::AbstractRing<CryptoPP::Integer>::SimultaneousExponentiate(CryptoPP::Integer*,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const
+23	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroup(void)const
+24	___cxa_pure_virtual
+25	___cxa_pure_virtual
+26	CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>::Gcd(CryptoPP::Integer const&,CryptoPP::Integer const&)const

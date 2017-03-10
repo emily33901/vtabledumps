@@ -1,0 +1,13 @@
+// `vtable for'CryptoPP::PK_SignatureScheme
+// Auto reconstructed from vtable block @ 0x01016140
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::PK_SignatureScheme::~PK_SignatureScheme()
+1	CryptoPP::PK_SignatureScheme::~PK_SignatureScheme()
+2	___cxa_pure_virtual
+3	CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned long)const
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	CryptoPP::PK_SignatureScheme::SignatureUpfront(void)const
+9	___cxa_pure_virtual

@@ -1,0 +1,9 @@
+// `vtable for'COM_IOReadBinary
+// Auto reconstructed from vtable block @ 0x004ED6A0
+// from "engine.dylib", by ida_vtables.idc
+0	COM_IOReadBinary::open(char const*)
+1	COM_IOReadBinary::read(void *,int,int)
+2	COM_IOReadBinary::close(int)
+3	COM_IOReadBinary::seek(int,int)
+4	COM_IOReadBinary::tell(int)
+5	COM_IOReadBinary::size(int)

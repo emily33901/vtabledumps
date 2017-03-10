@@ -1,0 +1,11 @@
+// `vtable for'CMsgHandler
+// Auto reconstructed from vtable block @ 0x00EE6FD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgHandler::~CMsgHandler()
+1	CMsgHandler::~CMsgHandler()
+2	___cxa_pure_virtual
+3	CMsgHandler::GetNext(void)const
+4	CMsgHandler::SetNext(CMsgHandler*)
+5	CMsgHandler::GetSocket(void)const
+6	CMsgHandler::SetSocket(CSocket *)
+7	CMsgHandler::Validate(CValidator &,char const*)

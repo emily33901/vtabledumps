@@ -1,0 +1,5 @@
+// `vtable for'CInternalCallback<CUserRemoteStorage,AppLifetimeNotice_t>
+// Auto reconstructed from vtable block @ 0x00F1A104
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CUserRemoteStorage,AppLifetimeNotice_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)

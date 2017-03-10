@@ -1,0 +1,5 @@
+// `vtable for'CInternalCallback<CSteamController,ActivateRemoteStreaming_t>
+// Auto reconstructed from vtable block @ 0x00F019FC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CSteamController,ActivateRemoteStreaming_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)

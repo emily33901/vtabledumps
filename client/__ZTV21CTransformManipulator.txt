@@ -1,0 +1,14 @@
+// `vtable for'CTransformManipulator
+// Auto reconstructed from vtable block @ 0x0115BFA0
+// from "client.dylib", by ida_vtables.idc
+0	CTransformManipulator::~CTransformManipulator()
+1	CTransformManipulator::~CTransformManipulator()
+2	CBaseManipulator::OnBeginManipulation(void)
+3	CBaseManipulator::OnAcceptManipulation(void)
+4	CBaseManipulator::OnCancelManipulation(void)
+5	CBaseManipulator::OnTick(void)
+6	CBaseManipulator::OnCursorMoved(int,int)
+7	CBaseManipulator::OnMousePressed(ButtonCode_t,int,int)
+8	CBaseManipulator::OnMouseReleased(ButtonCode_t,int,int)
+9	CBaseManipulator::OnMouseWheeled(int)
+10	CBaseManipulator::SetViewportSize(int,int)

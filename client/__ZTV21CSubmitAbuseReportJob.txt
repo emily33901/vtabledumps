@@ -1,0 +1,11 @@
+// `vtable for'CSubmitAbuseReportJob
+// Auto reconstructed from vtable block @ 0x01044CD0
+// from "client.dylib", by ida_vtables.idc
+0	CSubmitAbuseReportJob::~CSubmitAbuseReportJob()
+1	CSubmitAbuseReportJob::~CSubmitAbuseReportJob()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	CSubmitAbuseReportJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

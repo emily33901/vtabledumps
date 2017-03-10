@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CApplicationManager>
+// Auto reconstructed from vtable block @ 0x00EF39D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CApplicationManager>::~CScheduledFunction()
+1	CScheduledFunction<CApplicationManager>::~CScheduledFunction()
+2	CScheduledFunction<CApplicationManager>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

@@ -1,0 +1,14 @@
+// `vtable for'CryptoPP::PKCS1v15_SignatureMessageEncodingMethod
+// Auto reconstructed from vtable block @ 0x01017420
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::~PKCS1v15_SignatureMessageEncodingMethod()
+1	CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::~PKCS1v15_SignatureMessageEncodingMethod()
+2	CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned long,unsigned long)const
+3	CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned long,unsigned long,unsigned long)const
+4	CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst(void)const
+5	CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation &,unsigned char const*,unsigned long)const
+6	CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation &,unsigned char const*,unsigned long,unsigned char const*,unsigned long,CryptoPP::SecBlock<unsigned char,CryptoPP::AllocatorWithCleanup<unsigned char,false>> &)const
+7	CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::ComputeMessageRepresentative(CryptoPP::RandomNumberGenerator &,unsigned char const*,unsigned long,CryptoPP::HashTransformation &,std::pair<unsigned char const*,unsigned long>,bool,unsigned char *,unsigned long)const
+8	CryptoPP::PK_DeterministicSignatureMessageEncodingMethod::VerifyMessageRepresentative(CryptoPP::HashTransformation &,std::pair<unsigned char const*,unsigned long>,bool,unsigned char *,unsigned long)const
+9	CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromRepresentative(CryptoPP::HashTransformation &,std::pair<unsigned char const*,unsigned long>,bool,unsigned char *,unsigned long,unsigned char *)const
+10	CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromSemisignature(CryptoPP::HashTransformation &,std::pair<unsigned char const*,unsigned long>,unsigned char const*,unsigned long,unsigned char const*,unsigned long,unsigned char *)const

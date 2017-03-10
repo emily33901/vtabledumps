@@ -1,0 +1,6 @@
+// `vtable for'CTFQuestObjectiveDefinition
+// Auto reconstructed from vtable block @ 0x00E55F10
+// from "client.dylib", by ida_vtables.idc
+0	CTFQuestObjectiveDefinition::~CTFQuestObjectiveDefinition()
+1	CTFQuestObjectiveDefinition::~CTFQuestObjectiveDefinition()
+2	CTFQuestObjectiveDefinition::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)

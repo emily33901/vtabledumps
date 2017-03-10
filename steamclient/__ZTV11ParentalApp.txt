@@ -1,0 +1,23 @@
+// `vtable for'ParentalApp
+// Auto reconstructed from vtable block @ 0x00EC6380
+// from "steamclient.dylib", by ida_vtables.idc
+0	ParentalApp::~ParentalApp()
+1	ParentalApp::~ParentalApp()
+2	google::protobuf::Message::GetTypeName(void)const
+3	ParentalApp::New(void)const
+4	ParentalApp::Clear(void)
+5	ParentalApp::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	ParentalApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	ParentalApp::ByteSize(void)const
+10	ParentalApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	ParentalApp::SerializeWithCachedSizesToArray(unsigned char *)const
+12	ParentalApp::GetCachedSize(void)const
+13	ParentalApp::CopyFrom(google::protobuf::Message const&)
+14	ParentalApp::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	ParentalApp::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	ParentalApp::GetMetadata(void)const

@@ -1,0 +1,19 @@
+// `vtable for'CDefaultParticleSystemQuery
+// Auto reconstructed from vtable block @ 0x0114A400
+// from "client.dylib", by ida_vtables.idc
+0	CBaseAppSystem<IParticleSystemQuery>::Connect(void * (*)(char const*,int *))
+1	CBaseAppSystem<IParticleSystemQuery>::Disconnect(void)
+2	CBaseAppSystem<IParticleSystemQuery>::QueryInterface(char const*)
+3	CBaseAppSystem<IParticleSystemQuery>::Init(void)
+4	CBaseAppSystem<IParticleSystemQuery>::Shutdown(void)
+5	CDefaultParticleSystemQuery::GetLightingAtPoint(Vector const&,Color &)
+6	CDefaultParticleSystemQuery::TraceLine(Vector const&,Vector const&,unsigned int,IHandleEntity const*,int,CBaseTrace *)
+7	IParticleSystemQuery::MovePointInsideControllingObject(CParticleCollection *,void *,Vector *)
+8	IParticleSystemQuery::IsPointInControllingObjectHitBox(CParticleCollection *,int,Vector,bool)
+9	IParticleSystemQuery::GetCollisionGroupFromName(char const*)
+10	CDefaultParticleSystemQuery::GetRandomPointsOnControllingObjectHitBox(CParticleCollection *,int,int,float,int,Vector *,Vector,Vector *,int *)
+11	IParticleSystemQuery::GetControllingObjectHitBoxInfo(CParticleCollection *,int,int,ModelHitBoxInfo_t *)
+12	IParticleSystemQuery::GetLocalPlayerPos(void)
+13	IParticleSystemQuery::GetLocalPlayerEyeVectors(Vector *,Vector *,Vector *)
+14	CDefaultParticleSystemQuery::GetPixelVisibility(int *,Vector const&,float)
+15	IParticleSystemQuery::SetUpLightingEnvironment(Vector const&)

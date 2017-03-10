@@ -1,0 +1,7 @@
+// `vtable for'CTraceFilterIgnorePlayers
+// Auto reconstructed from vtable block @ 0x01081080
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterIgnorePlayers::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const
+2	CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+3	CTraceFilterSimple::SetCollisionGroup(int)

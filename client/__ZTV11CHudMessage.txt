@@ -1,0 +1,32 @@
+// `vtable for'CHudMessage
+// Auto reconstructed from vtable block @ 0x00F13690
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudMessage
+1	CHudMessage::~CHudMessage()
+2	CHudMessage::~CHudMessage()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudMessage::Init(void)
+5	CHudMessage::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudMessage::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudMessage::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudMessage::GetMessageMap(void)
+18	CHudMessage::GetAnimMap(void)
+19	CHudMessage::GetKBMap(void)
+20	CHudMessage::Paint(void)
+21	CHudMessage::ApplySchemeSettings(vgui::IScheme *)
+22	CHudMessage::SetPosition(int,int)
+23	CHudMessage::AddChar(int,int,int,int,wchar_t)
+24	CHudMessage::GetLength(int *,int *,char const*)
+25	CHudMessage::GetFontInfo(FONTABC *,unsigned long)
+26	CHudMessage::SetFont(unsigned long)
+27	CHudMessage::SetDefaultFont(void)
+28	CHudMessage::GetTextExtents(int *,int *,char const*)

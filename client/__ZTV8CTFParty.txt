@@ -1,0 +1,25 @@
+// `vtable for'CTFParty
+// Auto reconstructed from vtable block @ 0x00E5AC20
+// from "client.dylib", by ida_vtables.idc
+0	CTFParty::~CTFParty()
+1	CTFParty::~CTFParty()
+2	GCSDK::CProtoBufSharedObject<CSOTFParty,2003>::GetTypeID(void)const
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+4	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+5	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+6	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+7	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+8	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+9	CTFParty::BShouldDeleteByCache(void)const
+10	GCSDK::CSharedObject::GetDebugString(void)const
+11	GCSDK::CProtoBufSharedObject<CSOTFParty,2003>::GetPObject(void)
+12	CTFParty::GetGroupID(void)const
+13	CTFParty::GetLeader(void)const
+14	CTFParty::GetNumMembers(void)const
+15	CTFParty::GetMember(int)const
+16	CTFParty::GetMemberIndexBySteamID(CSteamID const&)const
+17	CTFParty::GetNumPendingInvites(void)const
+18	CTFParty::GetPendingInvite(int)const
+19	CTFParty::GetPendingInviteIndexBySteamID(CSteamID const&)const
+20	CTFParty::GetSharedObject(void)
+21	CTFParty::AllowInvites(void)const

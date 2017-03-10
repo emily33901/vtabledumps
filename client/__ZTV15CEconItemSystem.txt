@@ -1,0 +1,7 @@
+// `vtable for'CEconItemSystem
+// Auto reconstructed from vtable block @ 0x00E3ED60
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemSystem::~CEconItemSystem()
+1	CEconItemSystem::~CEconItemSystem()
+2	CEconItemSystem::GenerateBaseItem(baseitemcriteria_t *)
+3	aCgcupdateitems

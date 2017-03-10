@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CHTTPClientConnection>
+// Auto reconstructed from vtable block @ 0x00F277E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CHTTPClientConnection>::~CScheduledFunction()
+1	CScheduledFunction<CHTTPClientConnection>::~CScheduledFunction()
+2	CScheduledFunction<CHTTPClientConnection>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

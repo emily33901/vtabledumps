@@ -1,0 +1,18 @@
+// `vtable for'CEquipGrapplingHookNotification
+// Auto reconstructed from vtable block @ 0x00E6C630
+// from "client.dylib", by ida_vtables.idc
+0	CEquipGrapplingHookNotification::~CEquipGrapplingHookNotification()
+1	CEquipGrapplingHookNotification::~CEquipGrapplingHookNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEquipGrapplingHookNotification::BShowInGameElements(void)const
+6	CEquipGrapplingHookNotification::MarkForDeletion(void)
+7	CEquipGrapplingHookNotification::CanBeTriggered(void)
+8	CEquipGrapplingHookNotification::Trigger(void)
+9	CEquipGrapplingHookNotification::CanBeAcceptedOrDeclined(void)
+10	CEquipGrapplingHookNotification::Accept(void)
+11	CEquipGrapplingHookNotification::Decline(void)
+12	CEquipGrapplingHookNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

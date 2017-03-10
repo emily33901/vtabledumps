@@ -1,0 +1,33 @@
+// `vtable for'CTFHudDeathNotice
+// Auto reconstructed from vtable block @ 0x00F64F40
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CTFHudDeathNotice
+1	CTFHudDeathNotice::~CTFHudDeathNotice()
+2	CTFHudDeathNotice::~CTFHudDeathNotice()
+3	CTFHudDeathNotice::FireGameEvent(IGameEvent *)
+4	CTFHudDeathNotice::Init(void)
+5	CHudBaseDeathNotice::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CTFHudDeathNotice::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CTFHudDeathNotice::GetMessageMap(void)
+18	CTFHudDeathNotice::GetAnimMap(void)
+19	CTFHudDeathNotice::GetKBMap(void)
+20	CHudBaseDeathNotice::Paint(void)
+21	CTFHudDeathNotice::ApplySchemeSettings(vgui::IScheme *)
+22	CTFHudDeathNotice::ShouldShowDeathNotice(IGameEvent *)
+23	CTFHudDeathNotice::GetTeamColor(int,bool)
+24	CTFHudDeathNotice::OnGameEvent(IGameEvent *,int)
+25	CTFHudDeathNotice::EventIsPlayerDeath(char const*)
+26	CTFHudDeathNotice::UseExistingNotice(IGameEvent *)
+27	CTFHudDeathNotice::GetInfoTextColor(int)
+28	CTFHudDeathNotice::GetBackgroundColor(int)
+29	CTFHudDeathNotice::IsVisible(void)

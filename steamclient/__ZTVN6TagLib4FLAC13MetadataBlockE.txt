@@ -1,0 +1,7 @@
+// `vtable for'TagLib::FLAC::MetadataBlock
+// Auto reconstructed from vtable block @ 0x00EE2ED8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::FLAC::MetadataBlock::~MetadataBlock()
+1	TagLib::FLAC::MetadataBlock::~MetadataBlock()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual

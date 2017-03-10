@@ -1,0 +1,13 @@
+// `vtable for'CDownloadManager
+// Auto reconstructed from vtable block @ 0x004E7B90
+// from "engine.dylib", by ida_vtables.idc
+0	CDownloadManager::Update(void)
+1	CDownloadManager::UpdateProgressBar(void)
+2	CDownloadManager::NewRequestContext(void)
+3	CDownloadManager::ShouldAttemptCompressedFileDownload(void)
+4	CDownloadManager::SetupURLPath(RequestContext_t *,char const*)
+5	CDownloadManager::SetupServerURL(RequestContext_t *)
+6	CDownloadManager::OnHttpConnecting(RequestContext_t *)
+7	CDownloadManager::OnHttpFetch(RequestContext_t *)
+8	CDownloadManager::OnHttpDone(RequestContext_t *)
+9	CDownloadManager::OnHttpError(RequestContext_t *)

@@ -1,0 +1,23 @@
+// `vtable for'CMsgGSStatusReply
+// Auto reconstructed from vtable block @ 0x00EE7A00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGSStatusReply::~CMsgGSStatusReply()
+1	CMsgGSStatusReply::~CMsgGSStatusReply()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGSStatusReply::New(void)const
+4	CMsgGSStatusReply::Clear(void)
+5	CMsgGSStatusReply::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGSStatusReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGSStatusReply::ByteSize(void)const
+10	CMsgGSStatusReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGSStatusReply::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGSStatusReply::GetCachedSize(void)const
+13	CMsgGSStatusReply::CopyFrom(google::protobuf::Message const&)
+14	CMsgGSStatusReply::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGSStatusReply::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGSStatusReply::GetMetadata(void)const

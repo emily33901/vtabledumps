@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGCClientMarketDataRequest>
+// Auto reconstructed from vtable block @ 0x010A2980
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGCClientMarketDataRequest>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGCClientMarketDataRequest>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGCClientMarketDataRequest>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGCClientMarketDataRequest>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGCClientMarketDataRequest>::InternalFree(google::protobuf::Message *)

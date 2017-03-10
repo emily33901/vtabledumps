@@ -1,0 +1,23 @@
+// `vtable for'CCommunity_GetLinkFilterHashes_Request
+// Auto reconstructed from vtable block @ 0x00EC5F60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCommunity_GetLinkFilterHashes_Request::~CCommunity_GetLinkFilterHashes_Request()
+1	CCommunity_GetLinkFilterHashes_Request::~CCommunity_GetLinkFilterHashes_Request()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CCommunity_GetLinkFilterHashes_Request::New(void)const
+4	CCommunity_GetLinkFilterHashes_Request::Clear(void)
+5	CCommunity_GetLinkFilterHashes_Request::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CCommunity_GetLinkFilterHashes_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CCommunity_GetLinkFilterHashes_Request::ByteSize(void)const
+10	CCommunity_GetLinkFilterHashes_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CCommunity_GetLinkFilterHashes_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CCommunity_GetLinkFilterHashes_Request::GetCachedSize(void)const
+13	CCommunity_GetLinkFilterHashes_Request::CopyFrom(google::protobuf::Message const&)
+14	CCommunity_GetLinkFilterHashes_Request::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CCommunity_GetLinkFilterHashes_Request::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CCommunity_GetLinkFilterHashes_Request::GetMetadata(void)const

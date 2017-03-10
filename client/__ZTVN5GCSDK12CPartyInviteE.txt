@@ -1,0 +1,19 @@
+// `vtable for'GCSDK::CPartyInvite
+// Auto reconstructed from vtable block @ 0x010468D0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CPartyInvite::~CPartyInvite()
+1	GCSDK::CPartyInvite::~CPartyInvite()
+2	GCSDK::CProtoBufSharedObject<CSOPartyInvite,1001>::GetTypeID(void)const
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+4	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+5	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+6	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+7	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+8	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+9	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+10	GCSDK::CSharedObject::GetDebugString(void)const
+11	GCSDK::CProtoBufSharedObject<CSOPartyInvite,1001>::GetPObject(void)
+12	GCSDK::CPartyInvite::GetSenderID(void)const
+13	GCSDK::CPartyInvite::GetGroupID(void)const
+14	GCSDK::CPartyInvite::GetSenderName(void)const
+15	GCSDK::CPartyInvite::GetSharedObject(void)

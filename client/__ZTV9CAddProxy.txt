@@ -1,0 +1,9 @@
+// `vtable for'CAddProxy
+// Auto reconstructed from vtable block @ 0x00F12BB0
+// from "client.dylib", by ida_vtables.idc
+0	CAddProxy::Init(IMaterial *,KeyValues *)
+1	CAddProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CAddProxy::~CAddProxy()
+5	CAddProxy::~CAddProxy()

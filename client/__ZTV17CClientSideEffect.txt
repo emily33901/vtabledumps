@@ -1,0 +1,10 @@
+// `vtable for'CClientSideEffect
+// Auto reconstructed from vtable block @ 0x00E99FB0
+// from "client.dylib", by ida_vtables.idc
+0	CClientSideEffect::~CClientSideEffect()
+1	CClientSideEffect::~CClientSideEffect()
+2	___cxa_pure_virtual
+3	CClientSideEffect::GetName(void)
+4	CClientSideEffect::IsActive(void)
+5	CClientSideEffect::Destroy(void)
+6	CClientSideEffect::SetEffectName(char const*)

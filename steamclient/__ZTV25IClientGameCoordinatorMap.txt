@@ -1,0 +1,6 @@
+// `vtable for'IClientGameCoordinatorMap
+// Auto reconstructed from vtable block @ 0x00F0BD20
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientGameCoordinatorMap::SendMessage(unsigned int,unsigned int,void const*,unsigned int)
+1	IClientGameCoordinatorMap::IsMessageAvailable(unsigned int,unsigned int *)
+2	IClientGameCoordinatorMap::RetrieveMessage(unsigned int,unsigned int *,void *,unsigned int,unsigned int *)

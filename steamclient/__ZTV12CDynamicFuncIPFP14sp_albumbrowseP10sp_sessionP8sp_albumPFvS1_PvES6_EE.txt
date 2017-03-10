@@ -1,0 +1,7 @@
+// `vtable for'CDynamicFunc<sp_albumbrowse * (*)(sp_session *,sp_album *,void (*)(sp_albumbrowse *,void *),void *)>
+// Auto reconstructed from vtable block @ 0x00F0E5A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_albumbrowse * (*)(sp_session *,sp_album *,void (*)(sp_albumbrowse *,void *),void *)>::Init(CSysModule *)
+1	CDynamicFunc<sp_albumbrowse * (*)(sp_session *,sp_album *,void (*)(sp_albumbrowse *,void *),void *)>::Release(void)
+2	CDynamicFunc<sp_albumbrowse * (*)(sp_session *,sp_album *,void (*)(sp_albumbrowse *,void *),void *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_albumbrowse * (*)(sp_session *,sp_album *,void (*)(sp_albumbrowse *,void *),void *)>::GetNextPointer(void)

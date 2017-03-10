@@ -1,0 +1,6 @@
+// `vtable for'CTextureIdProperty
+// Auto reconstructed from vtable block @ 0x0053F060
+// from "engine.dylib", by ida_vtables.idc
+0	CTextureIdProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CTextureIdProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CTextureIdProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

@@ -1,0 +1,5 @@
+// `vtable for'TagLib::RIFF::Info::StringHandler
+// Auto reconstructed from vtable block @ 0x00EE3988
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::RIFF::Info::StringHandler::parse(TagLib::ByteVector const&)const
+1	TagLib::RIFF::Info::StringHandler::render(TagLib::String const&)const

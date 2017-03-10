@@ -1,0 +1,69 @@
+// `vtable for'CBaseServer
+// Auto reconstructed from vtable block @ 0x004B7150
+// from "engine.dylib", by ida_vtables.idc
+0	CBaseServer::~CBaseServer()
+1	CBaseServer::~CBaseServer()
+2	CBaseServer::ProcessConnectionlessPacket(netpacket_s *)
+3	CBaseServer::GetNumClients(void)const
+4	CBaseServer::GetNumProxies(void)const
+5	CBaseServer::GetNumFakeClients(void)const
+6	CBaseServer::GetMaxClients(void)const
+7	CBaseServer::GetClient(int)
+8	CBaseServer::GetClientCount(void)const
+9	CBaseServer::GetUDPPort(void)const
+10	CBaseServer::GetTime(void)const
+11	CBaseServer::GetTick(void)const
+12	CBaseServer::GetTickInterval(void)const
+13	CBaseServer::GetName(void)const
+14	CBaseServer::GetMapName(void)const
+15	CBaseServer::GetSpawnCount(void)const
+16	CBaseServer::GetNumClasses(void)const
+17	CBaseServer::GetClassBits(void)const
+18	CBaseServer::GetNetStats(float &,float &)
+19	CBaseServer::GetNumPlayers(void)
+20	CBaseServer::GetPlayerInfo(int,player_info_s *)
+21	CBaseServer::IsActive(void)const
+22	CBaseServer::IsLoading(void)const
+23	CBaseServer::IsDedicated(void)const
+24	CBaseServer::IsPaused(void)const
+25	CBaseServer::IsMultiplayer(void)const
+26	CBaseServer::IsPausable(void)const
+27	CBaseServer::IsHLTV(void)const
+28	CBaseServer::IsReplay(void)const
+29	CBaseServer::GetPassword(void)const
+30	CBaseServer::SetPaused(bool)
+31	CBaseServer::SetPassword(char const*)
+32	CBaseServer::BroadcastMessage(INetMessage &,bool,bool)
+33	CBaseServer::BroadcastMessage(INetMessage &,IRecipientFilter &)
+34	CBaseServer::DisconnectClient(IClient *,char const*)
+35	CBaseServer::GetCPUUsage(void)
+36	CBaseServer::BroadcastPrintf(char const*,...)
+37	CBaseServer::SetMaxClients(int)
+38	CBaseServer::WriteDeltaEntities(CBaseClient *,CClientFrame *,CClientFrame *,bf_write &)
+39	CBaseServer::WriteTempEntities(CBaseClient *,CFrameSnapshot *,CFrameSnapshot *,bf_write &,int)
+40	CBaseServer::Init(bool)
+41	CBaseServer::Clear(void)
+42	CBaseServer::Shutdown(void)
+43	CBaseServer::CreateFakeClient(char const*)
+44	CBaseServer::RemoveClientFromGame(CBaseClient *)
+45	CBaseServer::SendClientMessages(bool)
+46	CBaseServer::FillServerInfo(SVC_ServerInfo &)
+47	CBaseServer::UserInfoChanged(int)
+48	CBaseServer::RejectConnection(netadr_s const&,int,char const*)
+49	CBaseServer::CheckIPRestrictions(netadr_s const&,int)
+50	CBaseServer::ConnectClient(netadr_s &,int,int,int,int,char const*,char const*,char const*,int)
+51	CBaseServer::GetFreeClient(netadr_s &)
+52	CBaseServer::CreateNewClient(int)
+53	CBaseServer::FinishCertificateCheck(netadr_s &,int,char const*,int)
+54	CBaseServer::GetChallengeNr(netadr_s &)
+55	CBaseServer::GetChallengeType(netadr_s &)
+56	CBaseServer::CheckProtocol(netadr_s &,int,int)
+57	CBaseServer::CheckChallengeNr(netadr_s &,int)
+58	CBaseServer::CheckChallengeType(CBaseClient *,int,netadr_s &,int,char const*,int,int)
+59	CBaseServer::CheckPassword(netadr_s &,char const*,char const*)
+60	CBaseServer::CheckIPConnectionReuse(netadr_s &)
+61	CBaseServer::ReplyChallenge(netadr_s &,int)
+62	CBaseServer::ReplyServerChallenge(netadr_s &)
+63	CBaseServer::CalculateCPUUsage(void)
+64	CBaseServer::ShouldUpdateMasterServer(void)
+65	CBaseServer::UpdateMasterServerPlayers(void)

@@ -1,0 +1,5 @@
+// `vtable for'CCopyableUtlVector<ModelPoseDebugInfo::InfoText,CUtlMemory<ModelPoseDebugInfo::InfoText,int>>
+// Auto reconstructed from vtable block @ 0x0108A3E4
+// from "client.dylib", by ida_vtables.idc
+0	CCopyableUtlVector<ModelPoseDebugInfo::InfoText,CUtlMemory<ModelPoseDebugInfo::InfoText,int>>::~CCopyableUtlVector()
+1	CCopyableUtlVector<ModelPoseDebugInfo::InfoText,CUtlMemory<ModelPoseDebugInfo::InfoText,int>>::~CCopyableUtlVector()

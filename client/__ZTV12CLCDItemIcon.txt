@@ -1,0 +1,7 @@
+// `vtable for'CLCDItemIcon
+// Auto reconstructed from vtable block @ 0x00F0FC40
+// from "client.dylib", by ida_vtables.idc
+0	CLCDItemIcon::~CLCDItemIcon()
+1	CLCDItemIcon::~CLCDItemIcon()
+2	CLCDItemIcon::Create(IG15 *)
+3	CLCDItem::Wipe(IG15 *)

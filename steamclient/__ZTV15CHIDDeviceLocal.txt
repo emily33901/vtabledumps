@@ -1,0 +1,13 @@
+// `vtable for'CHIDDeviceLocal
+// Auto reconstructed from vtable block @ 0x00EC08F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceLocal::~CHIDDeviceLocal()
+1	CHIDDeviceLocal::~CHIDDeviceLocal()
+2	CHIDDeviceLocal::GetLocation(void)
+3	CHIDDeviceLocal::Write(unsigned char const*,unsigned long)
+4	CHIDDeviceLocal::Read(unsigned char *,unsigned long,int)
+5	CHIDDeviceLocal::SendFeatureReport(unsigned char const*,unsigned long)
+6	CHIDDeviceLocal::GetFeatureReport(unsigned char *,unsigned long)
+7	CHIDDeviceLocal::GetVendorString(void)
+8	CHIDDeviceLocal::GetProductString(void)
+9	CHIDDeviceLocal::GetSerialNumberString(void)

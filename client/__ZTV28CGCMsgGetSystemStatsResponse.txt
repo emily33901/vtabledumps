@@ -1,0 +1,23 @@
+// `vtable for'CGCMsgGetSystemStatsResponse
+// Auto reconstructed from vtable block @ 0x00E97650
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsgGetSystemStatsResponse::~CGCMsgGetSystemStatsResponse()
+1	CGCMsgGetSystemStatsResponse::~CGCMsgGetSystemStatsResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsgGetSystemStatsResponse::New(void)const
+4	CGCMsgGetSystemStatsResponse::Clear(void)
+5	CGCMsgGetSystemStatsResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsgGetSystemStatsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsgGetSystemStatsResponse::ByteSize(void)const
+10	CGCMsgGetSystemStatsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsgGetSystemStatsResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsgGetSystemStatsResponse::GetCachedSize(void)const
+13	CGCMsgGetSystemStatsResponse::CopyFrom(google::protobuf::Message const&)
+14	CGCMsgGetSystemStatsResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsgGetSystemStatsResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsgGetSystemStatsResponse::GetMetadata(void)const

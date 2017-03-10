@@ -1,0 +1,26 @@
+// `vtable for'CPrediction
+// Auto reconstructed from vtable block @ 0x00F15740
+// from "client.dylib", by ida_vtables.idc
+0	CPrediction::~CPrediction()
+1	CPrediction::~CPrediction()
+2	CPrediction::Init(void)
+3	CPrediction::Shutdown(void)
+4	CPrediction::Update(int,bool,int,int)
+5	CPrediction::PreEntityPacketReceived(int,int)
+6	CPrediction::PostEntityPacketReceived(void)
+7	CPrediction::PostNetworkDataReceived(int)
+8	CPrediction::OnReceivedUncompressedPacket(void)
+9	CPrediction::GetViewOrigin(Vector &)
+10	CPrediction::SetViewOrigin(Vector &)
+11	CPrediction::GetViewAngles(QAngle &)
+12	CPrediction::SetViewAngles(QAngle &)
+13	CPrediction::GetLocalViewAngles(QAngle &)
+14	CPrediction::SetLocalViewAngles(QAngle &)
+15	CPrediction::InPrediction(void)const
+16	CPrediction::IsFirstTimePredicted(void)const
+17	CPrediction::GetIncomingPacketNumber(void)const
+18	CPrediction::RunCommand(C_BasePlayer *,CUserCmd *,IMoveHelper *)
+19	CPrediction::SetupMove(C_BasePlayer *,CUserCmd *,IMoveHelper *,CMoveData *)
+20	CPrediction::FinishMove(C_BasePlayer *,CUserCmd *,CMoveData *)
+21	CPrediction::SetIdealPitch(C_BasePlayer *,Vector const&,QAngle const&,Vector const&)
+22	CPrediction::_Update(bool,bool,int,int)

@@ -1,0 +1,21 @@
+// `vtable for'C_SoundscapeSystem
+// Auto reconstructed from vtable block @ 0x00EB2F70
+// from "client.dylib", by ida_vtables.idc
+0	C_SoundscapeSystem::Name(void)
+1	C_SoundscapeSystem::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	C_SoundscapeSystem::Shutdown(void)
+4	C_SoundscapeSystem::LevelInitPreEntity(void)
+5	C_SoundscapeSystem::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	C_SoundscapeSystem::LevelShutdownPreEntity(void)
+8	C_SoundscapeSystem::LevelShutdownPostEntity(void)
+9	C_SoundscapeSystem::OnSave(void)
+10	C_SoundscapeSystem::OnRestore(void)
+11	C_SoundscapeSystem::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	C_SoundscapeSystem::~C_SoundscapeSystem()
+14	C_SoundscapeSystem::~C_SoundscapeSystem()
+15	C_SoundscapeSystem::PreRender(void)
+16	C_SoundscapeSystem::Update(float)
+17	C_SoundscapeSystem::PostRender(void)

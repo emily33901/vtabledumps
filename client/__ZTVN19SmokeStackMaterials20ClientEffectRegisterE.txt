@@ -1,0 +1,4 @@
+// `vtable for'SmokeStackMaterials::ClientEffectRegister
+// Auto reconstructed from vtable block @ 0x00EA4BB4
+// from "client.dylib", by ida_vtables.idc
+0	SmokeStackMaterials::ClientEffectRegister::Cache(bool)

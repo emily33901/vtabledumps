@@ -1,0 +1,8 @@
+// `vtable for'CAudioSourceCachedInfo
+// Auto reconstructed from vtable block @ 0x004B6B70
+// from "engine.dylib", by ida_vtables.idc
+0	CAudioSourceCachedInfo::Save(CUtlBuffer &)
+1	CAudioSourceCachedInfo::Restore(CUtlBuffer &)
+2	CAudioSourceCachedInfo::Rebuild(char const*)
+3	CAudioSourceCachedInfo::~CAudioSourceCachedInfo()
+4	CAudioSourceCachedInfo::~CAudioSourceCachedInfo()

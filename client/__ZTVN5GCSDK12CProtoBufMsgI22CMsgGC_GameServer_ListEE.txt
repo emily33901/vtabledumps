@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgGC_GameServer_List>
+// Auto reconstructed from vtable block @ 0x010E8D40
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgGC_GameServer_List>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgGC_GameServer_List>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgGC_GameServer_List>::GetGenericBody(void)const

@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::SelfTestFailure
+// Auto reconstructed from vtable block @ 0x01015710
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::SelfTestFailure::~SelfTestFailure()
+1	CryptoPP::SelfTestFailure::~SelfTestFailure()
+2	CryptoPP::Exception::what(void)const

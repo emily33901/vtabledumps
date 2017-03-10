@@ -1,0 +1,11 @@
+// `vtable for'CGCPlayerKilledResponse
+// Auto reconstructed from vtable block @ 0x01080BA0
+// from "client.dylib", by ida_vtables.idc
+0	CGCPlayerKilledResponse::~CGCPlayerKilledResponse()
+1	CGCPlayerKilledResponse::~CGCPlayerKilledResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCPlayerKilledResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

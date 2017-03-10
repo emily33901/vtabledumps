@@ -1,0 +1,23 @@
+// `vtable for'CAttribute_String
+// Auto reconstructed from vtable block @ 0x00E53580
+// from "client.dylib", by ida_vtables.idc
+0	CAttribute_String::~CAttribute_String()
+1	CAttribute_String::~CAttribute_String()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CAttribute_String::New(void)const
+4	CAttribute_String::Clear(void)
+5	CAttribute_String::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CAttribute_String::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CAttribute_String::ByteSize(void)const
+10	CAttribute_String::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CAttribute_String::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CAttribute_String::GetCachedSize(void)const
+13	CAttribute_String::CopyFrom(google::protobuf::Message const&)
+14	CAttribute_String::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CAttribute_String::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CAttribute_String::GetMetadata(void)const

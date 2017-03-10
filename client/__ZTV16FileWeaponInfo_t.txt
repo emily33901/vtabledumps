@@ -1,0 +1,4 @@
+// `vtable for'FileWeaponInfo_t
+// Auto reconstructed from vtable block @ 0x00E96858
+// from "client.dylib", by ida_vtables.idc
+0	FileWeaponInfo_t::Parse(KeyValues *,char const*)

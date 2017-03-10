@@ -1,0 +1,28 @@
+// `vtable for'CProtoBufNetPacket
+// Auto reconstructed from vtable block @ 0x00F2CBD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CProtoBufNetPacket::~CProtoBufNetPacket()
+1	CProtoBufNetPacket::~CProtoBufNetPacket()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CProtoBufNetPacket::GetEMsgFormatType(void)const
+4	CProtoBufNetPacket::GetCNetPacket(void)const
+5	CProtoBufNetPacket::GetHConnection(void)const
+6	CProtoBufNetPacket::SetHConnection(unsigned int)
+7	CProtoBufNetPacket::PubData(void)const
+8	CProtoBufNetPacket::CubData(void)const
+9	CProtoBufNetPacket::GetEMsg(void)const
+10	CProtoBufNetPacket::GetSourceJobID(void)const
+11	CProtoBufNetPacket::GetTargetJobID(void)const
+12	CProtoBufNetPacket::SetTargetJobID(unsigned long long)
+13	CProtoBufNetPacket::SetSourceJobID(unsigned long long)
+14	CProtoBufNetPacket::GetSteamID(void)const
+15	CProtoBufNetPacket::SetSteamID(CSteamID)
+16	CProtoBufNetPacket::GetSessionID(void)const
+17	CProtoBufNetPacket::SetSessionID(int)
+18	CProtoBufNetPacket::GetAppIDRouting(void)const
+19	CProtoBufNetPacket::BHasTargetJobName(void)const
+20	CProtoBufNetPacket::GetTargetJobName(void)const
+21	CProtoBufNetPacket::BHasMsgTraceTag(void)const
+22	CProtoBufNetPacket::GetMsgTraceTag(void)const
+23	CProtoBufNetPacket::SetMsgTraceTag(unsigned long long)
+24	CProtoBufNetPacket::BPacketDecodingFailed(void)const

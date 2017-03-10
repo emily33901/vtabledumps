@@ -1,0 +1,25 @@
+// `vtable for'CHudVehicle
+// Auto reconstructed from vtable block @ 0x00F10400
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudVehicle
+1	CHudVehicle::~CHudVehicle()
+2	CHudVehicle::~CHudVehicle()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudVehicle::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudVehicle::GetMessageMap(void)
+18	CHudVehicle::GetAnimMap(void)
+19	CHudVehicle::GetKBMap(void)
+20	CHudVehicle::ApplySchemeSettings(vgui::IScheme *)
+21	CHudVehicle::Paint(void)

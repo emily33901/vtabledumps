@@ -1,0 +1,10 @@
+// `vtable for'CAudioSourceCache
+// Auto reconstructed from vtable block @ 0x004B6BE0
+// from "engine.dylib", by ida_vtables.idc
+0	CAudioSourceCache::Init(unsigned int)
+1	CAudioSourceCache::Shutdown(void)
+2	CAudioSourceCache::LevelInit(char const*)
+3	CAudioSourceCache::LevelShutdown(void)
+4	CAudioSourceCache::ForceRecheckDiskInfo(void)
+5	CAudioSourceCache::GetInfo(int,bool,CSfxTable *)
+6	CAudioSourceCache::RebuildCacheEntry(int,bool,CSfxTable *)

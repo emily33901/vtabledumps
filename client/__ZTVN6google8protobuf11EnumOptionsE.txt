@@ -1,0 +1,23 @@
+// `vtable for'google::protobuf::EnumOptions
+// Auto reconstructed from vtable block @ 0x01019860
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::EnumOptions::~EnumOptions()
+1	google::protobuf::EnumOptions::~EnumOptions()
+2	google::protobuf::Message::GetTypeName(void)const
+3	google::protobuf::EnumOptions::New(void)const
+4	google::protobuf::EnumOptions::Clear(void)
+5	google::protobuf::EnumOptions::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	google::protobuf::EnumOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	google::protobuf::EnumOptions::ByteSize(void)const
+10	google::protobuf::EnumOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	google::protobuf::EnumOptions::SerializeWithCachedSizesToArray(unsigned char *)const
+12	google::protobuf::EnumOptions::GetCachedSize(void)const
+13	google::protobuf::EnumOptions::CopyFrom(google::protobuf::Message const&)
+14	google::protobuf::EnumOptions::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	google::protobuf::EnumOptions::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	google::protobuf::EnumOptions::GetMetadata(void)const

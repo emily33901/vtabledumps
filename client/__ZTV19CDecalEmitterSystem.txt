@@ -1,0 +1,11 @@
+// `vtable for'CDecalEmitterSystem
+// Auto reconstructed from vtable block @ 0x00E3C460
+// from "client.dylib", by ida_vtables.idc
+0	CDecalEmitterSystem::GetDecalIndexForName(char const*)
+1	CDecalEmitterSystem::GetDecalNameForIndex(int)
+2	CDecalEmitterSystem::TranslateDecalForGameMaterial(char const*,unsigned char)
+3	CDecalEmitterSystem::Init(void)
+4	CDecalEmitterSystem::Shutdown(void)
+5	CDecalEmitterSystem::LevelInitPreEntity(void)
+6	CDecalEmitterSystem::~CDecalEmitterSystem()
+7	CDecalEmitterSystem::~CDecalEmitterSystem()

@@ -1,0 +1,23 @@
+// `vtable for'CMsgAMSendEmail_ReplacementToken
+// Auto reconstructed from vtable block @ 0x00E976B0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgAMSendEmail_ReplacementToken::~CMsgAMSendEmail_ReplacementToken()
+1	CMsgAMSendEmail_ReplacementToken::~CMsgAMSendEmail_ReplacementToken()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgAMSendEmail_ReplacementToken::New(void)const
+4	CMsgAMSendEmail_ReplacementToken::Clear(void)
+5	CMsgAMSendEmail_ReplacementToken::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgAMSendEmail_ReplacementToken::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgAMSendEmail_ReplacementToken::ByteSize(void)const
+10	CMsgAMSendEmail_ReplacementToken::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgAMSendEmail_ReplacementToken::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgAMSendEmail_ReplacementToken::GetCachedSize(void)const
+13	CMsgAMSendEmail_ReplacementToken::CopyFrom(google::protobuf::Message const&)
+14	CMsgAMSendEmail_ReplacementToken::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgAMSendEmail_ReplacementToken::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgAMSendEmail_ReplacementToken::GetMetadata(void)const

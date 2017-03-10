@@ -1,0 +1,6 @@
+// `vtable for'CLog
+// Auto reconstructed from vtable block @ 0x004EDE50
+// from "engine.dylib", by ida_vtables.idc
+0	CLog::~CLog()
+1	CLog::~CLog()
+2	CLog::FireGameEvent(IGameEvent *)

@@ -1,0 +1,11 @@
+// `vtable for'CUnderWaterView
+// Auto reconstructed from vtable block @ 0x010117B0
+// from "client.dylib", by ida_vtables.idc
+0	CUnderWaterView::~CUnderWaterView()
+1	CUnderWaterView::~CUnderWaterView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CUnderWaterView::Draw(void)
+5	CBaseWorldView::AdjustView(float)
+6	CBaseWorldView::PushView(float)
+7	CBaseWorldView::PopView(void)

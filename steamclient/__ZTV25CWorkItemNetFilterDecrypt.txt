@@ -1,0 +1,11 @@
+// `vtable for'CWorkItemNetFilterDecrypt
+// Auto reconstructed from vtable block @ 0x00EE6D40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemNetFilterDecrypt::~CWorkItemNetFilterDecrypt()
+1	CWorkItemNetFilterDecrypt::~CWorkItemNetFilterDecrypt()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CWorkItemNetFilterDecrypt::GetWorkItemName(void)const
+4	CWorkItemNetFilterDecrypt::GetThreadProcessName(void)const
+5	CWorkItemNetFilterDecrypt::ThreadProcess(CWorkThread *)
+6	CWorkItemNetFilterDecrypt::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

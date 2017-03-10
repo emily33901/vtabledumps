@@ -1,0 +1,7 @@
+// `vtable for'CScheduledFunction<CUserRemoteStorage>
+// Auto reconstructed from vtable block @ 0x00F1A0E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CUserRemoteStorage>::~CScheduledFunction()
+1	CScheduledFunction<CUserRemoteStorage>::~CScheduledFunction()
+2	CScheduledFunction<CUserRemoteStorage>::Run(void)
+3	CBaseScheduledFunction::GetInterval(void)const

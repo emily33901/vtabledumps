@@ -1,0 +1,10 @@
+// `vtable for'CAppInfoCacheReadFromDiskThread
+// Auto reconstructed from vtable block @ 0x00ECE290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAppInfoCacheReadFromDiskThread::~CAppInfoCacheReadFromDiskThread()
+1	CAppInfoCacheReadFromDiskThread::~CAppInfoCacheReadFromDiskThread()
+2	SteamThreadTools::CThread::Init(void)
+3	CAppInfoCacheReadFromDiskThread::Run(void)
+4	SteamThreadTools::CThread::OnExit(void)
+5	SteamThreadTools::CThread::IsThreadRunning(void)const
+6	SteamThreadTools::CThread::GetThreadProc(void)

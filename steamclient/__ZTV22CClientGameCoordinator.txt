@@ -1,0 +1,9 @@
+// `vtable for'CClientGameCoordinator
+// Auto reconstructed from vtable block @ 0x00ECE7F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientGameCoordinator::SendMessage(unsigned int,unsigned int,void const*,unsigned int)
+1	CClientGameCoordinator::IsMessageAvailable(unsigned int,unsigned int *)
+2	CClientGameCoordinator::RetrieveMessage(unsigned int,unsigned int *,void *,unsigned int,unsigned int *)
+3	CClientGameCoordinator::~CClientGameCoordinator()
+4	CClientGameCoordinator::~CClientGameCoordinator()
+5	aCclientjobgc_0

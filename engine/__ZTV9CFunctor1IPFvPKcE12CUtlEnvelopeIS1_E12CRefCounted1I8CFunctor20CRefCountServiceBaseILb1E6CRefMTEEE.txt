@@ -1,0 +1,8 @@
+// `vtable for'CFunctor1<void (*)(char const*),CUtlEnvelope<char const*>,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>
+// Auto reconstructed from vtable block @ 0x005279F0
+// from "engine.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)
+2	CFunctor1<void (*)(char const*),CUtlEnvelope<char const*>,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>::~CFunctor1()
+3	CFunctor1<void (*)(char const*),CUtlEnvelope<char const*>,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>::~CFunctor1()
+4	CFunctor1<void (*)(char const*),CUtlEnvelope<char const*>,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>>::operator()(void)

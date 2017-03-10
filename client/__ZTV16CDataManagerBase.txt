@@ -1,0 +1,10 @@
+// `vtable for'CDataManagerBase
+// Auto reconstructed from vtable block @ 0x010446A0
+// from "client.dylib", by ida_vtables.idc
+0	CDataManagerBase::Lock(void)
+1	CDataManagerBase::TryLock(void)
+2	CDataManagerBase::Unlock(void)
+3	CDataManagerBase::~CDataManagerBase()
+4	CDataManagerBase::~CDataManagerBase()
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual

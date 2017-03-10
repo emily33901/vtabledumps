@@ -1,0 +1,15 @@
+// `vtable for'CEngineAPI
+// Auto reconstructed from vtable block @ 0x004EE0D0
+// from "engine.dylib", by ida_vtables.idc
+0	CEngineAPI::Connect(void * (*)(char const*,int *))
+1	CEngineAPI::Disconnect(void)
+2	CEngineAPI::QueryInterface(char const*)
+3	CEngineAPI::Init(void)
+4	CEngineAPI::Shutdown(void)
+5	CEngineAPI::SetStartupInfo(StartupInfo_t &)
+6	CEngineAPI::Run(void)
+7	CEngineAPI::SetEngineWindow(void *)
+8	CEngineAPI::PostConsoleCommand(char const*)
+9	CEngineAPI::IsRunningSimulation(void)const
+10	CEngineAPI::ActivateSimulation(bool)
+11	CEngineAPI::SetMap(char const*)

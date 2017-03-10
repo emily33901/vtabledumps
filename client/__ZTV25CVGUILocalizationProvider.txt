@@ -1,0 +1,11 @@
+// `vtable for'CVGUILocalizationProvider
+// Auto reconstructed from vtable block @ 0x00E409C0
+// from "client.dylib", by ida_vtables.idc
+0	CVGUILocalizationProvider::Find(char const*)const
+1	CVGUILocalizationProvider::ConvertLoccharToANSI(wchar_t const*,CUtlConstStringBase<char> *)const
+2	CVGUILocalizationProvider::ConvertLoccharToUnicode(wchar_t const*,CUtlConstStringBase<wchar_t> *)const
+3	CVGUILocalizationProvider::ConvertUTF8ToLocchar(char const*,CUtlConstStringBase<wchar_t> *)const
+4	CVGUILocalizationProvider::ConvertLoccharToANSI(wchar_t const*,char *,int)const
+5	CVGUILocalizationProvider::ConvertLoccharToUnicode(wchar_t const*,wchar_t *,int)const
+6	CVGUILocalizationProvider::ConvertUTF8ToLocchar(char const*,wchar_t *,int)const
+7	CVGUILocalizationProvider::GetELang(void)const

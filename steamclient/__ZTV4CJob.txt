@@ -1,0 +1,29 @@
+// `vtable for'CJob
+// Auto reconstructed from vtable block @ 0x00EE63A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CJob::~CJob()
+1	CJob::~CJob()
+2	CJob::GetServerType(void)
+3	CJob::Validate(CValidator &,char const*)
+4	CJob::TEST_BIsLongRunning(void)
+5	CJob::MsgTraceReportJobBlocking(char const*)
+6	CJob::MsgTraceReportJobUnblocking(void)
+7	CJob::DescribeWork(CUtlStringBuilder &)
+8	CJob::BYieldingRunJob(void *)
+9	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+10	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+11	CJob::MsgTraceReportJobStarted(void)
+12	CJob::MsgTraceReportJobFinished(void)
+13	aActive
+14	aNotStarted
+15	aNetmsg
+16	aAsyncFileRead
+17	aAsyncFileWrite
+18	aSleepForTime
+19	aWaitingForLock
+20	aYielding
+21	aWorkItem
+22	aIocpCompletion
+23	aSharedResource
+24	aSharedResour_0
+25	aGenericContext

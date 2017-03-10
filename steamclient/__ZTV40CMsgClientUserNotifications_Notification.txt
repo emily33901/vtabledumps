@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUserNotifications_Notification
+// Auto reconstructed from vtable block @ 0x00EEF930
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUserNotifications_Notification::~CMsgClientUserNotifications_Notification()
+1	CMsgClientUserNotifications_Notification::~CMsgClientUserNotifications_Notification()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUserNotifications_Notification::New(void)const
+4	CMsgClientUserNotifications_Notification::Clear(void)
+5	CMsgClientUserNotifications_Notification::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUserNotifications_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUserNotifications_Notification::ByteSize(void)const
+10	CMsgClientUserNotifications_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUserNotifications_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUserNotifications_Notification::GetCachedSize(void)const
+13	CMsgClientUserNotifications_Notification::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUserNotifications_Notification::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUserNotifications_Notification::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUserNotifications_Notification::GetMetadata(void)const

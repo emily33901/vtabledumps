@@ -1,0 +1,16 @@
+// `vtable for'MM_Checkpoint
+// Auto reconstructed from vtable block @ 0x004B41B0
+// from "engine.dylib", by ida_vtables.idc
+0	MM_Checkpoint::~MM_Checkpoint()
+1	MM_Checkpoint::~MM_Checkpoint()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	MM_Checkpoint::Process(void)
+5	MM_Checkpoint::ReadFromBuffer(bf_read &)
+6	MM_Checkpoint::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	MM_Checkpoint::GetType(void)const
+9	CNetMessage::GetGroup(void)const
+10	MM_Checkpoint::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	MM_Checkpoint::ToString(void)const

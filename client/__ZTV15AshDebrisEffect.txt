@@ -1,0 +1,22 @@
+// `vtable for'AshDebrisEffect
+// Auto reconstructed from vtable block @ 0x00EA15E0
+// from "client.dylib", by ida_vtables.idc
+0	AshDebrisEffect::~AshDebrisEffect()
+1	AshDebrisEffect::~AshDebrisEffect()
+2	CParticleEffect::Update(float)
+3	IParticleEffect::StartRender(VMatrix &)
+4	CParticleEffect::ShouldSimulate(void)const
+5	CParticleEffect::SetShouldSimulate(bool)
+6	CSimpleEmitter::SimulateParticles(CParticleSimulateIterator *)
+7	CSimpleEmitter::RenderParticles(CParticleRenderIterator *)
+8	CParticleEffect::NotifyRemove(void)
+9	CParticleEffect::NotifyDestroyParticle(Particle *)
+10	CParticleEffect::GetSortOrigin(void)
+11	IParticleEffect::GetParticlePosition(Particle *)
+12	CParticleEffect::GetEffectName(void)
+13	CParticleEffect::SetParticleCullRadius(float)
+14	AshDebrisEffect::UpdateAlpha(SimpleParticle const*)
+15	CSimpleEmitter::UpdateScale(SimpleParticle const*)
+16	AshDebrisEffect::UpdateRoll(SimpleParticle *,float)
+17	CSimpleEmitter::UpdateVelocity(SimpleParticle *,float)
+18	CSimpleEmitter::UpdateColor(SimpleParticle const*)

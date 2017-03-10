@@ -1,0 +1,13 @@
+// `vtable for'CColorLookupOperation
+// Auto reconstructed from vtable block @ 0x004D9AD0
+// from "engine.dylib", by ida_vtables.idc
+0	CColorLookupOperation::Apply(Vector const&,Vector&)
+1	CColorLookupOperation::Release(void)
+2	CColorLookupOperation::GetName(void)
+3	CColorLookupOperation::SetName(char const*)
+4	CColorLookupOperation::Clone(void)
+5	CColorLookupOperation::ToolID(void)
+6	CColorLookupOperation::IsEnabled(void)
+7	CColorLookupOperation::SetEnabled(bool)
+8	CColorLookupOperation::SetBlendFactor(float)
+9	CColorLookupOperation::GetBlendFactor(void)

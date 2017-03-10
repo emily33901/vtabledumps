@@ -1,0 +1,13 @@
+// `vtable for'CQuestObjectiveManager
+// Auto reconstructed from vtable block @ 0x00E4D960
+// from "client.dylib", by ida_vtables.idc
+0	CQuestObjectiveManager::SOCreated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+1	CQuestObjectiveManager::PreSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+2	CQuestObjectiveManager::SOUpdated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+3	CQuestObjectiveManager::PostSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+4	CQuestObjectiveManager::SODestroyed(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+5	CQuestObjectiveManager::SOCacheSubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+6	CQuestObjectiveManager::SOCacheUnsubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+7	CQuestObjectiveManager::~CQuestObjectiveManager()
+8	CQuestObjectiveManager::~CQuestObjectiveManager()
+9	CQuestObjectiveManager::FireGameEvent(IGameEvent *)

@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionScreenFadeStart
+// Auto reconstructed from vtable block @ 0x004C8D60
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionScreenFadeStart::~CDemoActionScreenFadeStart()
+1	CDemoActionScreenFadeStart::~CDemoActionScreenFadeStart()
+2	CDemoActionScreenFadeStart::Init(KeyValues *)
+3	CBaseDemoAction::Update(DemoActionTimingContext const&)
+4	CDemoActionScreenFadeStart::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionScreenFadeStart::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CBaseDemoAction::OnActionFinished(void)

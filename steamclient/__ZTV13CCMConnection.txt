@@ -1,0 +1,13 @@
+// `vtable for'CCMConnection
+// Auto reconstructed from vtable block @ 0x00ECFC20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCMConnection::ConnectCompleted(unsigned int)
+1	CCMConnection::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CCMConnection::ConnectionDisconnected(unsigned int,EResult)
+3	CCMConnection::RecvPkt(CNetPacket *)
+4	CCMConnection::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CCMConnection::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CCMConnection::~CCMConnection()
+9	CCMConnection::~CCMConnection()

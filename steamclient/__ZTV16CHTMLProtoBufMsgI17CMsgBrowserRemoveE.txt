@@ -1,0 +1,5 @@
+// `vtable for'CHTMLProtoBufMsg<CMsgBrowserRemove>
+// Auto reconstructed from vtable block @ 0x00F059B8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgBrowserRemove>::~CHTMLProtoBufMsg()
+1	CHTMLProtoBufMsg<CMsgBrowserRemove>::~CHTMLProtoBufMsg()

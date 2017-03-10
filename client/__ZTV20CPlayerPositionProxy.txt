@@ -1,0 +1,9 @@
+// `vtable for'CPlayerPositionProxy
+// Auto reconstructed from vtable block @ 0x00F158F0
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerPositionProxy::Init(IMaterial *,KeyValues *)
+1	CPlayerPositionProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CPlayerPositionProxy::~CPlayerPositionProxy()
+5	CPlayerPositionProxy::~CPlayerPositionProxy()

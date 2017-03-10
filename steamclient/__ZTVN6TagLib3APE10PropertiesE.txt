@@ -1,0 +1,9 @@
+// `vtable for'TagLib::APE::Properties
+// Auto reconstructed from vtable block @ 0x00EE2B70
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::APE::Properties::~Properties()
+1	TagLib::APE::Properties::~Properties()
+2	TagLib::APE::Properties::length(void)const
+3	TagLib::APE::Properties::bitrate(void)const
+4	TagLib::APE::Properties::sampleRate(void)const
+5	TagLib::APE::Properties::channels(void)const

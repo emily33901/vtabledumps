@@ -1,0 +1,9 @@
+// `vtable for'CControllerDisconnectedWorkItem
+// Auto reconstructed from vtable block @ 0x00F01C50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerDisconnectedWorkItem::~CControllerDisconnectedWorkItem()
+1	CControllerDisconnectedWorkItem::~CControllerDisconnectedWorkItem()
+2	CControllerDisconnectedWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerDisconnectedWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

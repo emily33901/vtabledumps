@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientNewLoginKeyAccepted
+// Auto reconstructed from vtable block @ 0x00EEB660
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientNewLoginKeyAccepted::~CMsgClientNewLoginKeyAccepted()
+1	CMsgClientNewLoginKeyAccepted::~CMsgClientNewLoginKeyAccepted()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientNewLoginKeyAccepted::New(void)const
+4	CMsgClientNewLoginKeyAccepted::Clear(void)
+5	CMsgClientNewLoginKeyAccepted::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientNewLoginKeyAccepted::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientNewLoginKeyAccepted::ByteSize(void)const
+10	CMsgClientNewLoginKeyAccepted::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientNewLoginKeyAccepted::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientNewLoginKeyAccepted::GetCachedSize(void)const
+13	CMsgClientNewLoginKeyAccepted::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientNewLoginKeyAccepted::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientNewLoginKeyAccepted::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientNewLoginKeyAccepted::GetMetadata(void)const

@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientKickPlayingSession
+// Auto reconstructed from vtable block @ 0x00EF1190
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientKickPlayingSession::~CMsgClientKickPlayingSession()
+1	CMsgClientKickPlayingSession::~CMsgClientKickPlayingSession()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientKickPlayingSession::New(void)const
+4	CMsgClientKickPlayingSession::Clear(void)
+5	CMsgClientKickPlayingSession::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientKickPlayingSession::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientKickPlayingSession::ByteSize(void)const
+10	CMsgClientKickPlayingSession::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientKickPlayingSession::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientKickPlayingSession::GetCachedSize(void)const
+13	CMsgClientKickPlayingSession::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientKickPlayingSession::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientKickPlayingSession::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientKickPlayingSession::GetMetadata(void)const

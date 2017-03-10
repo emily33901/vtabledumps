@@ -1,0 +1,18 @@
+// `vtable for'CTFTradeRequestNotification
+// Auto reconstructed from vtable block @ 0x010A77F0
+// from "client.dylib", by ida_vtables.idc
+0	CTFTradeRequestNotification::~CTFTradeRequestNotification()
+1	CTFTradeRequestNotification::~CTFTradeRequestNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEconNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CTFTradeRequestNotification::CanBeTriggered(void)
+8	CTFTradeRequestNotification::Trigger(void)
+9	CTFTradeRequestNotification::CanBeAcceptedOrDeclined(void)
+10	CTFTradeRequestNotification::Accept(void)
+11	CTFTradeRequestNotification::Decline(void)
+12	CEconNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

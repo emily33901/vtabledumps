@@ -1,0 +1,7 @@
+// `vtable for'CLoadingDisc
+// Auto reconstructed from vtable block @ 0x0113D5A0
+// from "client.dylib", by ida_vtables.idc
+0	CLoadingDisc::Create(unsigned int)
+1	CLoadingDisc::Destroy(void)
+2	CLoadingDisc::SetLoadingVisible(bool)
+3	CLoadingDisc::SetPausedVisible(bool)

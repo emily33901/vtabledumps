@@ -1,0 +1,10 @@
+// `vtable for'CApplicationManagerPopulateThread
+// Auto reconstructed from vtable block @ 0x00ECE360
+// from "steamclient.dylib", by ida_vtables.idc
+0	CApplicationManagerPopulateThread::~CApplicationManagerPopulateThread()
+1	CApplicationManagerPopulateThread::~CApplicationManagerPopulateThread()
+2	SteamThreadTools::CThread::Init(void)
+3	CApplicationManagerPopulateThread::Run(void)
+4	SteamThreadTools::CThread::OnExit(void)
+5	SteamThreadTools::CThread::IsThreadRunning(void)const
+6	SteamThreadTools::CThread::GetThreadProc(void)

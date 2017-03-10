@@ -1,0 +1,11 @@
+// `vtable for'CTFPlayerShared
+// Auto reconstructed from vtable block @ 0x00E5AE30
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerShared::~CTFPlayerShared()
+1	CTFPlayerShared::~CTFPlayerShared()
+2	CTFPlayerShared::FireGameEvent(IGameEvent *)
+3	CTFPlayerShared::GetPredDescMap(void)
+4	CTFPlayerShared::NetworkStateChanged(void)
+5	CTFPlayerShared::NetworkStateChanged(void *)
+6	CTFPlayerShared::OnPreDataChanged(void)
+7	CTFPlayerShared::OnDataChanged(void)

@@ -1,0 +1,8 @@
+// `vtable for'CFunctor2<void (*)(CSteamID,unsigned long long),CSteamID,unsigned long long>
+// Auto reconstructed from vtable block @ 0x00F12D40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+2	CFunctor2<void (*)(CSteamID,unsigned long long),CSteamID,unsigned long long>::operator()(void)
+3	CFunctor2<void (*)(CSteamID,unsigned long long),CSteamID,unsigned long long>::~CFunctor2()
+4	CFunctor2<void (*)(CSteamID,unsigned long long),CSteamID,unsigned long long>::~CFunctor2()

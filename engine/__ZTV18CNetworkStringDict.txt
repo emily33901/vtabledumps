@@ -1,0 +1,13 @@
+// `vtable for'CNetworkStringDict
+// Auto reconstructed from vtable block @ 0x00528090
+// from "engine.dylib", by ida_vtables.idc
+0	CNetworkStringDict::~CNetworkStringDict()
+1	CNetworkStringDict::~CNetworkStringDict()
+2	CNetworkStringDict::Count(void)
+3	CNetworkStringDict::Purge(void)
+4	CNetworkStringDict::String(int)
+5	CNetworkStringDict::IsValidIndex(int)
+6	CNetworkStringDict::Insert(char const*)
+7	CNetworkStringDict::Find(char const*)
+8	CNetworkStringDict::Element(int)
+9	CNetworkStringDict::Element(int)const

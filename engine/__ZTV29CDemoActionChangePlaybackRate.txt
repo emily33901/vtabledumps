@@ -1,0 +1,11 @@
+// `vtable for'CDemoActionChangePlaybackRate
+// Auto reconstructed from vtable block @ 0x004C8C10
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoActionChangePlaybackRate::~CDemoActionChangePlaybackRate()
+1	CDemoActionChangePlaybackRate::~CDemoActionChangePlaybackRate()
+2	CDemoActionChangePlaybackRate::Init(KeyValues *)
+3	CBaseDemoActionWithStopTime::Update(DemoActionTimingContext const&)
+4	CDemoActionChangePlaybackRate::FireAction(void)
+5	CBaseDemoAction::Reset(void)
+6	CDemoActionChangePlaybackRate::SaveKeysToBuffer(int,CUtlBuffer &)
+7	CDemoActionChangePlaybackRate::OnActionFinished(void)

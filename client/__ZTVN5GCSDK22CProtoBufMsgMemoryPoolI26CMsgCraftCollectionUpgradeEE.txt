@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgCraftCollectionUpgrade>
+// Auto reconstructed from vtable block @ 0x01115E20
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgCraftCollectionUpgrade>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgCraftCollectionUpgrade>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgCraftCollectionUpgrade>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgCraftCollectionUpgrade>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgCraftCollectionUpgrade>::InternalFree(google::protobuf::Message *)

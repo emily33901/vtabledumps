@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCQuestObjective_PointsChange
+// Auto reconstructed from vtable block @ 0x00E3E0F0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCQuestObjective_PointsChange::~CMsgGCQuestObjective_PointsChange()
+1	CMsgGCQuestObjective_PointsChange::~CMsgGCQuestObjective_PointsChange()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCQuestObjective_PointsChange::New(void)const
+4	CMsgGCQuestObjective_PointsChange::Clear(void)
+5	CMsgGCQuestObjective_PointsChange::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCQuestObjective_PointsChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCQuestObjective_PointsChange::ByteSize(void)const
+10	CMsgGCQuestObjective_PointsChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCQuestObjective_PointsChange::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCQuestObjective_PointsChange::GetCachedSize(void)const
+13	CMsgGCQuestObjective_PointsChange::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCQuestObjective_PointsChange::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCQuestObjective_PointsChange::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCQuestObjective_PointsChange::GetMetadata(void)const

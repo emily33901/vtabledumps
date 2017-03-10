@@ -1,0 +1,5 @@
+// `vtable for'CFastDetailLeafSpriteList
+// Auto reconstructed from vtable block @ 0x010A1430
+// from "client.dylib", by ida_vtables.idc
+0	CFastDetailLeafSpriteList::~CFastDetailLeafSpriteList()
+1	CFastDetailLeafSpriteList::~CFastDetailLeafSpriteList()

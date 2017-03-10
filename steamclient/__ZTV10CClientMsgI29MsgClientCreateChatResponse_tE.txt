@@ -1,0 +1,5 @@
+// `vtable for'CClientMsg<MsgClientCreateChatResponse_t>
+// Auto reconstructed from vtable block @ 0x00EF84A4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientCreateChatResponse_t>::~CClientMsg()
+1	CClientMsg<MsgClientCreateChatResponse_t>::~CClientMsg()

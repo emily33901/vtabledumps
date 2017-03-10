@@ -1,0 +1,11 @@
+// `vtable for'GCSDK::CGCSOCreateJob
+// Auto reconstructed from vtable block @ 0x0114AA00
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCSOCreateJob::~CGCSOCreateJob()
+1	GCSDK::CGCSOCreateJob::~CGCSOCreateJob()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	GCSDK::CGCSOCreateJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

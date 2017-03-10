@@ -1,0 +1,15 @@
+// `vtable for'CEconTool_WeddingRing
+// Auto reconstructed from vtable block @ 0x00E33FB0
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_WeddingRing::~CEconTool_WeddingRing()
+1	CEconTool_WeddingRing::~CEconTool_WeddingRing()
+2	IEconTool::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+3	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+4	CEconTool_WeddingRing::RequiresToolEscrowPeriod(void)const
+5	IEconTool::BFinishInitialization(void)
+6	IEconTool::CanBeUsedNow(IEconItemInterface const*)const
+7	IEconTool::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+8	IEconTool::ShouldDisplayAsUseableOnItemsInArmory(void)const
+9	CEconTool_WeddingRing::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+10	CEconTool_WeddingRing::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+11	IEconTool::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const

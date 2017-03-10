@@ -1,0 +1,23 @@
+// `vtable for'CMsgRemoteClientPing
+// Auto reconstructed from vtable block @ 0x00EC9780
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteClientPing::~CMsgRemoteClientPing()
+1	CMsgRemoteClientPing::~CMsgRemoteClientPing()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgRemoteClientPing::New(void)const
+4	CMsgRemoteClientPing::Clear(void)
+5	CMsgRemoteClientPing::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgRemoteClientPing::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgRemoteClientPing::ByteSize(void)const
+10	CMsgRemoteClientPing::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgRemoteClientPing::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgRemoteClientPing::GetCachedSize(void)const
+13	CMsgRemoteClientPing::CopyFrom(google::protobuf::Message const&)
+14	CMsgRemoteClientPing::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgRemoteClientPing::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgRemoteClientPing::GetMetadata(void)const

@@ -1,0 +1,5 @@
+// `vtable for'TagLib::APE::Footer
+// Auto reconstructed from vtable block @ 0x00EE2B40
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::APE::Footer::~Footer()
+1	TagLib::APE::Footer::~Footer()

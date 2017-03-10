@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::OS_RNG_Err
+// Auto reconstructed from vtable block @ 0x01017400
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::OS_RNG_Err::~OS_RNG_Err()
+1	CryptoPP::OS_RNG_Err::~OS_RNG_Err()
+2	CryptoPP::Exception::what(void)const

@@ -1,0 +1,16 @@
+// `vtable for'CEffectsClient
+// Auto reconstructed from vtable block @ 0x00EF28E0
+// from "client.dylib", by ida_vtables.idc
+0	CEffectsClient::~CEffectsClient()
+1	CEffectsClient::~CEffectsClient()
+2	CEffectsClient::Beam(Vector const&,Vector const&,int,int,unsigned char,unsigned char,float,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char)
+3	CEffectsClient::Smoke(Vector const&,int,float,float)
+4	CEffectsClient::Sparks(Vector const&,int,int,Vector const*)
+5	CEffectsClient::Dust(Vector const&,Vector const&,float,float)
+6	CEffectsClient::MuzzleFlash(Vector const&,QAngle const&,float,int)
+7	CEffectsClient::MetalSparks(Vector const&,Vector const&)
+8	CEffectsClient::EnergySplash(Vector const&,Vector const&,bool)
+9	CEffectsClient::Ricochet(Vector const&,Vector const&)
+10	CEffectsClient::Time(void)
+11	CEffectsClient::IsServer(void)
+12	CEffectsClient::SuppressEffectsSounds(bool)

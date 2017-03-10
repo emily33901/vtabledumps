@@ -1,0 +1,9 @@
+// `vtable for'CGetControllerInfoWorkItem
+// Auto reconstructed from vtable block @ 0x00F01EE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGetControllerInfoWorkItem::~CGetControllerInfoWorkItem()
+1	CGetControllerInfoWorkItem::~CGetControllerInfoWorkItem()
+2	CGetControllerInfoWorkItem::RunFunc(IControllerAbstraction *)
+3	CGetControllerInfoWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

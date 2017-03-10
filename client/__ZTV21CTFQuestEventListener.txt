@@ -1,0 +1,27 @@
+// `vtable for'CTFQuestEventListener
+// Auto reconstructed from vtable block @ 0x0107DD80
+// from "client.dylib", by ida_vtables.idc
+0	CTFQuestEventListener::~CTFQuestEventListener()
+1	CTFQuestEventListener::~CTFQuestEventListener()
+2	CTFQuestEvaluator::GetBaseName(void)const
+3	CTFQuestEventListener::GetConditionName(void)const
+4	CTFQuestEventListener::GetValueString(void)const
+5	CTFQuestEventListener::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+6	CTFQuestCondition::PrintDebugText(void)const
+7	CTFQuestCondition::GetQuestOwner(void)const
+8	CTFQuestEventListener::IsValidForPlayer(C_TFPlayer const*,InvalidReason &)const
+9	CTFQuestCondition::IsOperator(void)const
+10	CTFQuestEvaluator::IsEvaluator(void)const
+11	CTFQuestEventListener::AddChildByName(char const*)
+12	CTFQuestEventListener::GetChildren(CUtlVector<CTFQuestCondition *,CUtlMemory<CTFQuestCondition *,int>> &)
+13	CTFQuestEventListener::RemoveAndDeleteChild(CTFQuestCondition *)
+14	CTFQuestEventListener::GetRequiredParamKeys(KeyValues *)
+15	CTFQuestEventListener::GetOutputKeyValues(KeyValues *)
+16	CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+17	CTFQuestEvaluator::GetValidChildren(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+18	CTFQuestEventListener::GetMaxInputCount(void)const
+19	CTFQuestEventListener::GetEventName(void)const
+20	CTFQuestEventListener::SetEventName(char const*)
+21	CTFQuestEventListener::EvaluateCondition(CTFQuestEvaluator *,int)
+22	CTFQuestEventListener::ResetCondition(void)
+23	CTFQuestEventListener::FireGameEvent(IGameEvent *)

@@ -1,0 +1,11 @@
+// `vtable for'CWorkItemDepotDecrypt
+// Auto reconstructed from vtable block @ 0x00ED2010
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemDepotDecrypt::~CWorkItemDepotDecrypt()
+1	CWorkItemDepotDecrypt::~CWorkItemDepotDecrypt()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CWorkItemDepotDecrypt::GetWorkItemName(void)const
+4	CWorkItemDepotDecrypt::GetThreadProcessName(void)const
+5	CWorkItemDepotDecrypt::ThreadProcess(CWorkThread *)
+6	CWorkItemDepotDecrypt::DispatchCompletedWorkItem(CJobMgr *)
+7	CWorkItem::Validate(CValidator &,char const*)

@@ -1,0 +1,18 @@
+// `vtable for'CClientJobP2PConnectionInfo
+// Auto reconstructed from vtable block @ 0x00F0F480
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientJobP2PConnectionInfo::~CClientJobP2PConnectionInfo()
+1	CClientJobP2PConnectionInfo::~CClientJobP2PConnectionInfo()
+2	CBaseClientJob::GetServerType(void)
+3	CJob::Validate(CValidator &,char const*)
+4	CJob::TEST_BIsLongRunning(void)
+5	CJob::MsgTraceReportJobBlocking(char const*)
+6	CJob::MsgTraceReportJobUnblocking(void)
+7	CJob::DescribeWork(CUtlStringBuilder &)
+8	CBaseClientJob::BYieldingRunJob(void *)
+9	CBaseClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+10	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+11	CJob::MsgTraceReportJobStarted(void)
+12	CJob::MsgTraceReportJobFinished(void)
+13	CClientJobP2PConnectionInfo::BYieldingRunClientJob(IMsgNetPacket *)
+14	CBaseClientJob::BYieldingRunClientJob(void)

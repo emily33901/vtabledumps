@@ -1,0 +1,23 @@
+// `vtable for'CHudTrainingMsg
+// Auto reconstructed from vtable block @ 0x00FAA2B0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudTrainingMsg
+1	CHudTrainingMsg::~CHudTrainingMsg()
+2	CHudTrainingMsg::~CHudTrainingMsg()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudTrainingMsg::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CHudTrainingMsg::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CHudTrainingMsg::GetMessageMap(void)
+18	CHudTrainingMsg::GetAnimMap(void)
+19	CHudTrainingMsg::GetKBMap(void)

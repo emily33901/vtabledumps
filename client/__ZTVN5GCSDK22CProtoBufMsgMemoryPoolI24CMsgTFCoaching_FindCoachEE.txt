@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_FindCoach>
+// Auto reconstructed from vtable block @ 0x010E4E90
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_FindCoach>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_FindCoach>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_FindCoach>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_FindCoach>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_FindCoach>::InternalFree(google::protobuf::Message *)

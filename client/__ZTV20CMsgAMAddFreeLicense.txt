@@ -1,0 +1,23 @@
+// `vtable for'CMsgAMAddFreeLicense
+// Auto reconstructed from vtable block @ 0x00E973B0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgAMAddFreeLicense::~CMsgAMAddFreeLicense()
+1	CMsgAMAddFreeLicense::~CMsgAMAddFreeLicense()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgAMAddFreeLicense::New(void)const
+4	CMsgAMAddFreeLicense::Clear(void)
+5	CMsgAMAddFreeLicense::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgAMAddFreeLicense::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgAMAddFreeLicense::ByteSize(void)const
+10	CMsgAMAddFreeLicense::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgAMAddFreeLicense::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgAMAddFreeLicense::GetCachedSize(void)const
+13	CMsgAMAddFreeLicense::CopyFrom(google::protobuf::Message const&)
+14	CMsgAMAddFreeLicense::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgAMAddFreeLicense::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgAMAddFreeLicense::GetMetadata(void)const

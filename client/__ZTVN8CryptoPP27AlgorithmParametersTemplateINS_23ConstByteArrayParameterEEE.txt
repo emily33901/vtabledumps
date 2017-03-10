@@ -1,0 +1,6 @@
+// `vtable for'CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>
+// Auto reconstructed from vtable block @ 0x01015A08
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::~AlgorithmParametersTemplate()
+1	CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::~AlgorithmParametersTemplate()
+2	CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::AssignValue(char const*,std::type_info const&,void *)const

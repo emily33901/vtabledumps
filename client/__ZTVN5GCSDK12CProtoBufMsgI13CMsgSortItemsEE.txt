@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgSortItems>
+// Auto reconstructed from vtable block @ 0x0104F3F0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgSortItems>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgSortItems>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgSortItems>::GetGenericBody(void)const

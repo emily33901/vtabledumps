@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientVoiceCallPreAuthorize
+// Auto reconstructed from vtable block @ 0x00EF12B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientVoiceCallPreAuthorize::~CMsgClientVoiceCallPreAuthorize()
+1	CMsgClientVoiceCallPreAuthorize::~CMsgClientVoiceCallPreAuthorize()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientVoiceCallPreAuthorize::New(void)const
+4	CMsgClientVoiceCallPreAuthorize::Clear(void)
+5	CMsgClientVoiceCallPreAuthorize::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientVoiceCallPreAuthorize::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientVoiceCallPreAuthorize::ByteSize(void)const
+10	CMsgClientVoiceCallPreAuthorize::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientVoiceCallPreAuthorize::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientVoiceCallPreAuthorize::GetCachedSize(void)const
+13	CMsgClientVoiceCallPreAuthorize::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientVoiceCallPreAuthorize::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientVoiceCallPreAuthorize::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientVoiceCallPreAuthorize::GetMetadata(void)const

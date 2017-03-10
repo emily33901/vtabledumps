@@ -1,0 +1,12 @@
+// `vtable for'CTFCondition_CritBoost
+// Auto reconstructed from vtable block @ 0x00E4DB00
+// from "client.dylib", by ida_vtables.idc
+0	CTFCondition_CritBoost::~CTFCondition_CritBoost()
+1	CTFCondition_CritBoost::~CTFCondition_CritBoost()
+2	CTFCondition::Add(float)
+3	CTFCondition_CritBoost::OnAdded(void)
+4	CTFCondition_CritBoost::OnRemoved(void)
+5	CTFCondition_CritBoost::OnThink(void)
+6	CTFCondition_CritBoost::OnServerThink(void)
+7	CTFCondition_CritBoost::IsHealable(void)
+8	CTFCondition_CritBoost::UsesMinDuration(void)

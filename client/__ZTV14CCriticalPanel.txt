@@ -1,0 +1,25 @@
+// `vtable for'CCriticalPanel
+// Auto reconstructed from vtable block @ 0x01002B80
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CCriticalPanel
+1	CCriticalPanel::~CCriticalPanel()
+2	CCriticalPanel::~CCriticalPanel()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CCriticalPanel::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CCriticalPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CCriticalPanel::GetMessageMap(void)
+18	CCriticalPanel::GetAnimMap(void)
+19	CCriticalPanel::GetKBMap(void)
+20	CCriticalPanel::ApplySchemeSettings(vgui::IScheme *)
+21	CCriticalPanel::OnThink(void)

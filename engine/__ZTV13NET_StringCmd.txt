@@ -1,0 +1,16 @@
+// `vtable for'NET_StringCmd
+// Auto reconstructed from vtable block @ 0x004B35D0
+// from "engine.dylib", by ida_vtables.idc
+0	NET_StringCmd::~NET_StringCmd()
+1	NET_StringCmd::~NET_StringCmd()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	NET_StringCmd::Process(void)
+5	NET_StringCmd::ReadFromBuffer(bf_read &)
+6	NET_StringCmd::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	NET_StringCmd::GetType(void)const
+9	NET_StringCmd::GetGroup(void)const
+10	NET_StringCmd::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	NET_StringCmd::ToString(void)const

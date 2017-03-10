@@ -1,0 +1,16 @@
+// `vtable for'cricket::P2PTransportChannel
+// Auto reconstructed from vtable block @ 0x00ED6A60
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::P2PTransportChannel::~P2PTransportChannel()
+1	cricket::P2PTransportChannel::~P2PTransportChannel()
+2	sigslot::single_threaded::lock(void)
+3	sigslot::single_threaded::unlock(void)
+4	cricket::P2PTransportChannel::SendPacket(char const*,unsigned long)
+5	cricket::P2PTransportChannel::SetOption(talk_base::Socket::Option,int)
+6	cricket::P2PTransportChannel::GetError(void)
+7	cricket::P2PTransportChannel::GetTransport(void)
+8	cricket::P2PTransportChannel::Connect(void)
+9	cricket::P2PTransportChannel::Reset(void)
+10	cricket::P2PTransportChannel::OnSignalingReady(void)
+11	cricket::P2PTransportChannel::OnChannelMessage(buzz::XmlElement const*)
+12	cricket::P2PTransportChannel::OnMessage(talk_base::Message *)

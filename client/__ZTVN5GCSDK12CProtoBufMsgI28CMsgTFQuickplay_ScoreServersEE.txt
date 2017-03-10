@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgTFQuickplay_ScoreServers>
+// Auto reconstructed from vtable block @ 0x01113960
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgTFQuickplay_ScoreServers>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgTFQuickplay_ScoreServers>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgTFQuickplay_ScoreServers>::GetGenericBody(void)const

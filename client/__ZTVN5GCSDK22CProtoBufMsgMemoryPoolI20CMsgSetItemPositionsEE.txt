@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgSetItemPositions>
+// Auto reconstructed from vtable block @ 0x0104F380
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgSetItemPositions>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgSetItemPositions>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgSetItemPositions>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgSetItemPositions>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgSetItemPositions>::InternalFree(google::protobuf::Message *)

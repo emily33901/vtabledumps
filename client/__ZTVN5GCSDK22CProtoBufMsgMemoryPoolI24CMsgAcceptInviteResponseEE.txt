@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgAcceptInviteResponse>
+// Auto reconstructed from vtable block @ 0x01046730
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgAcceptInviteResponse>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgAcceptInviteResponse>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgAcceptInviteResponse>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgAcceptInviteResponse>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgAcceptInviteResponse>::InternalFree(google::protobuf::Message *)

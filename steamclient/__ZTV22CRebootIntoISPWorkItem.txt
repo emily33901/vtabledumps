@@ -1,0 +1,9 @@
+// `vtable for'CRebootIntoISPWorkItem
+// Auto reconstructed from vtable block @ 0x00F01E80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRebootIntoISPWorkItem::~CRebootIntoISPWorkItem()
+1	CRebootIntoISPWorkItem::~CRebootIntoISPWorkItem()
+2	CRebootIntoISPWorkItem::RunFunc(IControllerAbstraction *)
+3	CRebootIntoISPWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

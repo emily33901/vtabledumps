@@ -1,0 +1,5 @@
+// `vtable for'fogparams_t
+// Auto reconstructed from vtable block @ 0x01093370
+// from "client.dylib", by ida_vtables.idc
+0	fogparams_t::NetworkStateChanged(void)
+1	fogparams_t::NetworkStateChanged(void *)

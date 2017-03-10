@@ -1,0 +1,16 @@
+// `vtable for'CEconTool_ItemDynamicRecipe
+// Auto reconstructed from vtable block @ 0x00E3EE50
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_ItemDynamicRecipe::~CEconTool_ItemDynamicRecipe()
+1	CEconTool_ItemDynamicRecipe::~CEconTool_ItemDynamicRecipe()
+2	CEconTool_ItemDynamicRecipe::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+3	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+4	IEconTool::RequiresToolEscrowPeriod(void)const
+5	CEconTool_ItemDynamicRecipe::BFinishInitialization(void)
+6	IEconTool::CanBeUsedNow(IEconItemInterface const*)const
+7	IEconTool::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+8	CEconTool_ItemDynamicRecipe::ShouldDisplayAsUseableOnItemsInArmory(void)const
+9	IEconTool::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+10	IEconTool::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+11	IEconTool::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const
+12	CEconTool_ItemDynamicRecipe::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)

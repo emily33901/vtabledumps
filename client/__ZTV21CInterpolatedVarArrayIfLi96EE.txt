@@ -1,0 +1,17 @@
+// `vtable for'CInterpolatedVarArray<float,96>
+// Auto reconstructed from vtable block @ 0x0108F940
+// from "client.dylib", by ida_vtables.idc
+0	CInterpolatedVarArray<float,96>::~CInterpolatedVarArray()
+1	CInterpolatedVarArray<float,96>::~CInterpolatedVarArray()
+2	CInterpolatedVarArrayBase<float,true>::Setup(void *,int)
+3	CInterpolatedVarArrayBase<float,true>::SetInterpolationAmount(float)
+4	CInterpolatedVarArrayBase<float,true>::NoteLastNetworkedValue(void)
+5	CInterpolatedVarArrayBase<float,true>::NoteChanged(float,bool)
+6	CInterpolatedVarArrayBase<float,true>::Reset(void)
+7	CInterpolatedVarArrayBase<float,true>::Interpolate(float)
+8	CInterpolatedVarArrayBase<float,true>::GetType(void)const
+9	CInterpolatedVarArrayBase<float,true>::RestoreToLastNetworked(void)
+10	CInterpolatedVarArrayBase<float,true>::Copy(IInterpolatedVar *)
+11	CInterpolatedVarArrayBase<float,true>::GetDebugName(void)
+12	CInterpolatedVarArrayBase<float,true>::SetDebugName(char const*)
+13	CInterpolatedVarArrayBase<float,true>::SetDebug(bool)

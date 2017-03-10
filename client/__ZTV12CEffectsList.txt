@@ -1,0 +1,9 @@
+// `vtable for'CEffectsList
+// Auto reconstructed from vtable block @ 0x00E99FE0
+// from "client.dylib", by ida_vtables.idc
+0	CEffectsList::~CEffectsList()
+1	CEffectsList::~CEffectsList()
+2	CEffectsList::AddEffect(CClientSideEffect *)
+3	CEffectsList::RemoveEffect(CClientSideEffect *)
+4	CEffectsList::DrawEffects(double)
+5	CEffectsList::Flush(void)

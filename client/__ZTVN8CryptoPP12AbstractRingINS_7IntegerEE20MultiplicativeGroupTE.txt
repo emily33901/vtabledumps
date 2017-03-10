@@ -1,0 +1,17 @@
+// `vtable for'CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT
+// Auto reconstructed from vtable block @ 0x01015980
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::~MultiplicativeGroupT()
+1	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::~MultiplicativeGroupT()
+2	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Equal(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+3	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Identity(void)const
+4	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Add(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+5	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Inverse(CryptoPP::Integer const&)const
+6	CryptoPP::AbstractGroup<CryptoPP::Integer>::InversionIsFast(void)const
+7	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Double(CryptoPP::Integer const&)const
+8	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Subtract(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+9	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Accumulate(CryptoPP::Integer&,CryptoPP::Integer const&)const
+10	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Reduce(CryptoPP::Integer&,CryptoPP::Integer const&)const
+11	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::ScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+12	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::CascadeScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+13	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::SimultaneousMultiply(CryptoPP::Integer*,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const

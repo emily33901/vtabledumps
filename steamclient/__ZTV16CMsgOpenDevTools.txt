@@ -1,0 +1,23 @@
+// `vtable for'CMsgOpenDevTools
+// Auto reconstructed from vtable block @ 0x00ECD5C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgOpenDevTools::~CMsgOpenDevTools()
+1	CMsgOpenDevTools::~CMsgOpenDevTools()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgOpenDevTools::New(void)const
+4	CMsgOpenDevTools::Clear(void)
+5	CMsgOpenDevTools::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgOpenDevTools::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgOpenDevTools::ByteSize(void)const
+10	CMsgOpenDevTools::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgOpenDevTools::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgOpenDevTools::GetCachedSize(void)const
+13	CMsgOpenDevTools::CopyFrom(google::protobuf::Message const&)
+14	CMsgOpenDevTools::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgOpenDevTools::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgOpenDevTools::GetMetadata(void)const

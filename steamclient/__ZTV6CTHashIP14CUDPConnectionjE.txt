@@ -1,0 +1,4 @@
+// `vtable for'CTHash<CUDPConnection *,unsigned int>
+// Auto reconstructed from vtable block @ 0x00F2D2D4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTHash<CUDPConnection *,unsigned int>::Validate(CValidator &,char const*)

@@ -1,0 +1,6 @@
+// `vtable for'ClientWorldListInfo_t
+// Auto reconstructed from vtable block @ 0x01011500
+// from "client.dylib", by ida_vtables.idc
+0	ClientWorldListInfo_t::~ClientWorldListInfo_t()
+1	ClientWorldListInfo_t::~ClientWorldListInfo_t()
+2	ClientWorldListInfo_t::OnFinalRelease(void)

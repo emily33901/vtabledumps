@@ -1,0 +1,6 @@
+// `vtable for'C_PasstimeBounceReticle
+// Auto reconstructed from vtable block @ 0x00F96C40
+// from "client.dylib", by ida_vtables.idc
+0	C_PasstimeBounceReticle::~C_PasstimeBounceReticle()
+1	C_PasstimeBounceReticle::~C_PasstimeBounceReticle()
+2	C_PasstimeBounceReticle::Update(void)

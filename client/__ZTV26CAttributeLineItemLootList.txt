@@ -1,0 +1,10 @@
+// `vtable for'CAttributeLineItemLootList
+// Auto reconstructed from vtable block @ 0x00E3ED10
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeLineItemLootList::~CAttributeLineItemLootList()
+1	CAttributeLineItemLootList::~CAttributeLineItemLootList()
+2	CAttributeLineItemLootList::BPublicListContents(void)const
+3	CAttributeLineItemLootList::GetLootListHeaderLocalizationKey(void)const
+4	CAttributeLineItemLootList::GetLootListFooterLocalizationKey(void)const
+5	CAttributeLineItemLootList::GetLootListCollectionReference(void)const
+6	CAttributeLineItemLootList::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator *)const

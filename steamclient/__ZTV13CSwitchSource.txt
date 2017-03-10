@@ -1,0 +1,11 @@
+// `vtable for'CSwitchSource
+// Auto reconstructed from vtable block @ 0x00F037B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSwitchSource::~CSwitchSource()
+1	CSwitchSource::~CSwitchSource()
+2	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+3	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+4	CSwitchSource::GetHapticLocation(void)
+5	IControllerSource::SetAntiDrift(Vector)
+6	CSwitchSource::Update(SteamControllerStateInternal_t const*)
+7	IControllerSource::Validate(CValidator &,char const*)

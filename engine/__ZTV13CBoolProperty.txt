@@ -1,0 +1,6 @@
+// `vtable for'CBoolProperty
+// Auto reconstructed from vtable block @ 0x0053F000
+// from "engine.dylib", by ida_vtables.idc
+0	CBoolProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CBoolProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CBoolProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

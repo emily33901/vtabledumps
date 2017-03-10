@@ -1,0 +1,11 @@
+// `vtable for'CTrackpadSource
+// Auto reconstructed from vtable block @ 0x00F03770
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTrackpadSource::~CTrackpadSource()
+1	CTrackpadSource::~CTrackpadSource()
+2	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+3	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+4	CTrackpadSource::GetHapticLocation(void)
+5	IControllerSource::SetAntiDrift(Vector)
+6	CTrackpadSource::Update(SteamControllerStateInternal_t const*)
+7	IControllerSource::Validate(CValidator &,char const*)

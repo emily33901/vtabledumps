@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions
+// Auto reconstructed from vtable block @ 0x01018A90
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::~CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions()
+1	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::~CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::New(void)const
+4	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::Clear(void)
+5	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::ByteSize(void)const
+10	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::GetCachedSize(void)const
+13	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::GetMetadata(void)const

@@ -1,0 +1,8 @@
+// `vtable for'CDepotReconstruct
+// Auto reconstructed from vtable block @ 0x00ED2040
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotReconstruct::OnDepotChunkReceived(EResult,CChunkResponseData *,char const*)
+1	CDepotReconstruct::OnDepotManifestReceived(EResult,CManifestResponseData *,char const*)
+2	CDepotReconstruct::GetIOCacheAvailable(void)const
+3	CDepotReconstruct::AddToIOCacheUsage(unsigned int)
+4	CDepotReconstruct::RemoveFromIOCacheUsage(unsigned int)

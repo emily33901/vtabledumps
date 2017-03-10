@@ -1,0 +1,8 @@
+// `vtable for'CryptoPP::ASN1Object
+// Auto reconstructed from vtable block @ 0x01017E80
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::ASN1Object::~ASN1Object()
+1	CryptoPP::ASN1Object::~ASN1Object()
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation &)const

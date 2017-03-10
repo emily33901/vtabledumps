@@ -1,0 +1,23 @@
+// `vtable for'CMsgMvMVictory_Player
+// Auto reconstructed from vtable block @ 0x00E53160
+// from "client.dylib", by ida_vtables.idc
+0	CMsgMvMVictory_Player::~CMsgMvMVictory_Player()
+1	CMsgMvMVictory_Player::~CMsgMvMVictory_Player()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgMvMVictory_Player::New(void)const
+4	CMsgMvMVictory_Player::Clear(void)
+5	CMsgMvMVictory_Player::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgMvMVictory_Player::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgMvMVictory_Player::ByteSize(void)const
+10	CMsgMvMVictory_Player::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgMvMVictory_Player::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgMvMVictory_Player::GetCachedSize(void)const
+13	CMsgMvMVictory_Player::CopyFrom(google::protobuf::Message const&)
+14	CMsgMvMVictory_Player::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgMvMVictory_Player::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgMvMVictory_Player::GetMetadata(void)const

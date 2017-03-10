@@ -1,0 +1,5 @@
+// `vtable for'CMsg<MsgFileXferDataAck_t>
+// Auto reconstructed from vtable block @ 0x00F276EC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsg<MsgFileXferDataAck_t>::~CMsg()
+1	CMsg<MsgFileXferDataAck_t>::~CMsg()

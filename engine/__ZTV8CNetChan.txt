@@ -1,0 +1,75 @@
+// `vtable for'CNetChan
+// Auto reconstructed from vtable block @ 0x004E91E0
+// from "engine.dylib", by ida_vtables.idc
+0	CNetChan::GetName(void)const
+1	CNetChan::GetAddress(void)const
+2	CNetChan::GetTime(void)const
+3	CNetChan::GetTimeConnected(void)const
+4	CNetChan::GetBufferSize(void)const
+5	CNetChan::GetDataRate(void)const
+6	CNetChan::IsLoopback(void)const
+7	CNetChan::IsTimingOut(void)const
+8	CNetChan::IsPlayback(void)const
+9	CNetChan::GetLatency(int)const
+10	CNetChan::GetAvgLatency(int)const
+11	CNetChan::GetAvgLoss(int)const
+12	CNetChan::GetAvgChoke(int)const
+13	CNetChan::GetAvgData(int)const
+14	CNetChan::GetAvgPackets(int)const
+15	CNetChan::GetTotalData(int)const
+16	CNetChan::GetSequenceNr(int)const
+17	CNetChan::IsValidPacket(int,int)const
+18	CNetChan::GetPacketTime(int,int)const
+19	CNetChan::GetPacketBytes(int,int,int)const
+20	CNetChan::GetStreamProgress(int,int *,int *)const
+21	CNetChan::GetTimeSinceLastReceived(void)const
+22	CNetChan::GetCommandInterpolationAmount(int,int)const
+23	CNetChan::GetPacketResponseLatency(int,int,int *,int *)const
+24	CNetChan::GetRemoteFramerate(float *,float *)const
+25	CNetChan::GetTimeoutSeconds(void)const
+26	CNetChan::~CNetChan()
+27	CNetChan::~CNetChan()
+28	CNetChan::SetDataRate(float)
+29	CNetChan::RegisterMessage(INetMessage *)
+30	CNetChan::StartStreaming(unsigned int)
+31	CNetChan::ResetStreaming(void)
+32	CNetChan::SetTimeout(float)
+33	CNetChan::SetDemoRecorder(IDemoRecorder *)
+34	CNetChan::SetChallengeNr(unsigned int)
+35	CNetChan::Reset(void)
+36	CNetChan::Clear(void)
+37	CNetChan::Shutdown(char const*)
+38	CNetChan::ProcessPlayback(void)
+39	CNetChan::ProcessStream(void)
+40	CNetChan::ProcessPacket(netpacket_s *,bool)
+41	CNetChan::SendNetMsg(INetMessage &,bool,bool)
+42	CNetChan::SendData(bf_write &,bool)
+43	CNetChan::SendFile(char const*,unsigned int)
+44	CNetChan::DenyFile(char const*,unsigned int)
+45	CNetChan::RequestFile_OLD(char const*,unsigned int)
+46	CNetChan::SetChoked(void)
+47	CNetChan::SendDatagram(bf_write *)
+48	CNetChan::Transmit(bool)
+49	CNetChan::GetRemoteAddress(void)const
+50	CNetChan::GetMsgHandler(void)const
+51	CNetChan::GetDropNumber(void)const
+52	CNetChan::GetSocket(void)const
+53	CNetChan::GetChallengeNr(void)const
+54	CNetChan::GetSequenceData(int &,int &,int &)
+55	CNetChan::SetSequenceData(int,int,int)
+56	CNetChan::UpdateMessageStats(int,int)
+57	CNetChan::CanPacket(void)const
+58	CNetChan::IsOverflowed(void)const
+59	CNetChan::IsTimedOut(void)const
+60	CNetChan::HasPendingReliableData(void)
+61	CNetChan::SetFileTransmissionMode(bool)
+62	CNetChan::SetCompressionMode(bool)
+63	CNetChan::RequestFile(char const*)
+64	CNetChan::SetMaxBufferSize(bool,int,bool)
+65	CNetChan::IsNull(void)const
+66	CNetChan::GetNumBitsWritten(bool)
+67	CNetChan::SetInterpolationAmount(float)
+68	CNetChan::SetRemoteFramerate(float,float)
+69	CNetChan::SetMaxRoutablePayloadSize(int)
+70	CNetChan::GetMaxRoutablePayloadSize(void)
+71	CNetChan::GetProtocolVersion(void)

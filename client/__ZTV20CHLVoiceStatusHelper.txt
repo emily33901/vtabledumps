@@ -1,0 +1,8 @@
+// `vtable for'CHLVoiceStatusHelper
+// Auto reconstructed from vtable block @ 0x0108AA70
+// from "client.dylib", by ida_vtables.idc
+0	CHLVoiceStatusHelper::~CHLVoiceStatusHelper()
+1	CHLVoiceStatusHelper::~CHLVoiceStatusHelper()
+2	CHLVoiceStatusHelper::GetPlayerTextColor(int,int *)
+3	CHLVoiceStatusHelper::UpdateCursorState(void)
+4	CHLVoiceStatusHelper::CanShowSpeakerLabels(void)

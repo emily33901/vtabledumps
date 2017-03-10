@@ -1,0 +1,6 @@
+// `vtable for'CTFItemSystem
+// Auto reconstructed from vtable block @ 0x00E56080
+// from "client.dylib", by ida_vtables.idc
+0	CTFItemSystem::~CTFItemSystem()
+1	CTFItemSystem::~CTFItemSystem()
+2	CTFItemSystem::GenerateBaseItem(baseitemcriteria_t *)

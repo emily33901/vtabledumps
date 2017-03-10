@@ -1,0 +1,4 @@
+// `vtable for'CBeamSegDraw
+// Auto reconstructed from vtable block @ 0x01018118
+// from "client.dylib", by ida_vtables.idc
+0	CBeamSegDraw::NextSeg(BeamSeg_t *)

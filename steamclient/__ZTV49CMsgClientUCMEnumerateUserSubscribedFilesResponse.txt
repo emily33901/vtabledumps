@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientUCMEnumerateUserSubscribedFilesResponse
+// Auto reconstructed from vtable block @ 0x00EED0B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMEnumerateUserSubscribedFilesResponse::~CMsgClientUCMEnumerateUserSubscribedFilesResponse()
+1	CMsgClientUCMEnumerateUserSubscribedFilesResponse::~CMsgClientUCMEnumerateUserSubscribedFilesResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientUCMEnumerateUserSubscribedFilesResponse::New(void)const
+4	CMsgClientUCMEnumerateUserSubscribedFilesResponse::Clear(void)
+5	CMsgClientUCMEnumerateUserSubscribedFilesResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientUCMEnumerateUserSubscribedFilesResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientUCMEnumerateUserSubscribedFilesResponse::ByteSize(void)const
+10	CMsgClientUCMEnumerateUserSubscribedFilesResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientUCMEnumerateUserSubscribedFilesResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientUCMEnumerateUserSubscribedFilesResponse::GetCachedSize(void)const
+13	CMsgClientUCMEnumerateUserSubscribedFilesResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientUCMEnumerateUserSubscribedFilesResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientUCMEnumerateUserSubscribedFilesResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientUCMEnumerateUserSubscribedFilesResponse::GetMetadata(void)const

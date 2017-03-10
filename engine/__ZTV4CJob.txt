@@ -1,0 +1,12 @@
+// `vtable for'CJob
+// Auto reconstructed from vtable block @ 0x00527020
+// from "engine.dylib", by ida_vtables.idc
+0	CRefCounted1<IRefCounted,CRefCountServiceBase<true,CRefMT>>::AddRef(void)
+1	CRefCounted1<IRefCounted,CRefCountServiceBase<true,CRefMT>>::Release(void)
+2	CJob::~CJob()
+3	CJob::~CJob()
+4	CJob::Describe(void)
+5	CJob::SetDescription(char const*)
+6	___cxa_pure_virtual
+7	CJob::DoAbort(bool)
+8	CJob::DoCleanup(void)

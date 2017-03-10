@@ -1,0 +1,17 @@
+// `vtable for'CPhysSaveRestoreBlockHandler
+// Auto reconstructed from vtable block @ 0x010553B0
+// from "client.dylib", by ida_vtables.idc
+0	CPhysSaveRestoreBlockHandler::GetBlockName(void)
+1	CPhysSaveRestoreBlockHandler::PreSave(CSaveRestoreData *)
+2	CPhysSaveRestoreBlockHandler::Save(ISave *)
+3	CPhysSaveRestoreBlockHandler::WriteSaveHeaders(ISave *)
+4	CPhysSaveRestoreBlockHandler::PostSave(void)
+5	CPhysSaveRestoreBlockHandler::PreRestore(void)
+6	CPhysSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore *)
+7	CPhysSaveRestoreBlockHandler::Restore(IRestore *,bool)
+8	CPhysSaveRestoreBlockHandler::PostRestore(void)
+9	CPhysSaveRestoreBlockHandler::NoteBBox(Vector const&,Vector const&,CPhysCollide *)
+10	CPhysSaveRestoreBlockHandler::AssociateModel(IPhysicsObject *,int)
+11	CPhysSaveRestoreBlockHandler::AssociateModel(IPhysicsObject *,CPhysCollide const*)
+12	CPhysSaveRestoreBlockHandler::ForgetModel(IPhysicsObject *)
+13	CPhysSaveRestoreBlockHandler::ForgetAllModels(void)

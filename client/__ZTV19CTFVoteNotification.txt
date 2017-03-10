@@ -1,0 +1,18 @@
+// `vtable for'CTFVoteNotification
+// Auto reconstructed from vtable block @ 0x01046270
+// from "client.dylib", by ida_vtables.idc
+0	CTFVoteNotification::~CTFVoteNotification()
+1	CTFVoteNotification::~CTFVoteNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEconNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CTFVoteNotification::CanBeTriggered(void)
+8	CTFVoteNotification::Trigger(void)
+9	CTFVoteNotification::CanBeAcceptedOrDeclined(void)
+10	CTFVoteNotification::Accept(void)
+11	CTFVoteNotification::Decline(void)
+12	CEconNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

@@ -1,0 +1,23 @@
+// `vtable for'CMsgClientFSGetFriendMessageHistoryResponse
+// Auto reconstructed from vtable block @ 0x00EEFC30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientFSGetFriendMessageHistoryResponse::~CMsgClientFSGetFriendMessageHistoryResponse()
+1	CMsgClientFSGetFriendMessageHistoryResponse::~CMsgClientFSGetFriendMessageHistoryResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgClientFSGetFriendMessageHistoryResponse::New(void)const
+4	CMsgClientFSGetFriendMessageHistoryResponse::Clear(void)
+5	CMsgClientFSGetFriendMessageHistoryResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgClientFSGetFriendMessageHistoryResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgClientFSGetFriendMessageHistoryResponse::ByteSize(void)const
+10	CMsgClientFSGetFriendMessageHistoryResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgClientFSGetFriendMessageHistoryResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgClientFSGetFriendMessageHistoryResponse::GetCachedSize(void)const
+13	CMsgClientFSGetFriendMessageHistoryResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgClientFSGetFriendMessageHistoryResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgClientFSGetFriendMessageHistoryResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgClientFSGetFriendMessageHistoryResponse::GetMetadata(void)const

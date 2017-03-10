@@ -1,0 +1,12 @@
+// `vtable for'CTFCondition
+// Auto reconstructed from vtable block @ 0x00E4DAD0
+// from "client.dylib", by ida_vtables.idc
+0	CTFCondition::~CTFCondition()
+1	CTFCondition::~CTFCondition()
+2	CTFCondition::Add(float)
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	CTFCondition::IsHealable(void)
+8	CTFCondition::UsesMinDuration(void)

@@ -1,0 +1,23 @@
+// `vtable for'CGCMsgTFSyncEx
+// Auto reconstructed from vtable block @ 0x00E53100
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsgTFSyncEx::~CGCMsgTFSyncEx()
+1	CGCMsgTFSyncEx::~CGCMsgTFSyncEx()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsgTFSyncEx::New(void)const
+4	CGCMsgTFSyncEx::Clear(void)
+5	CGCMsgTFSyncEx::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsgTFSyncEx::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsgTFSyncEx::ByteSize(void)const
+10	CGCMsgTFSyncEx::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsgTFSyncEx::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsgTFSyncEx::GetCachedSize(void)const
+13	CGCMsgTFSyncEx::CopyFrom(google::protobuf::Message const&)
+14	CGCMsgTFSyncEx::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsgTFSyncEx::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsgTFSyncEx::GetMetadata(void)const

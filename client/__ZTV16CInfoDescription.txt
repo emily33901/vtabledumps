@@ -1,0 +1,7 @@
+// `vtable for'CInfoDescription
+// Auto reconstructed from vtable block @ 0x00E324B0
+// from "client.dylib", by ida_vtables.idc
+0	CInfoDescription::~CInfoDescription()
+1	CInfoDescription::~CInfoDescription()
+2	CInfoDescription::WriteScriptHeader(void *)
+3	CInfoDescription::WriteFileHeader(void *)

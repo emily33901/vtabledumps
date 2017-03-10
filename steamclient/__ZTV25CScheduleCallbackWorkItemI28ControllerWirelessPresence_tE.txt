@@ -1,0 +1,9 @@
+// `vtable for'CScheduleCallbackWorkItem<ControllerWirelessPresence_t>
+// Auto reconstructed from vtable block @ 0x00F018B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduleCallbackWorkItem<ControllerWirelessPresence_t>::~CScheduleCallbackWorkItem()
+1	CScheduleCallbackWorkItem<ControllerWirelessPresence_t>::~CScheduleCallbackWorkItem()
+2	CScheduleCallbackWorkItem<ControllerWirelessPresence_t>::RunFunc(IControllerAbstraction *)
+3	CScheduleCallbackWorkItem<ControllerWirelessPresence_t>::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

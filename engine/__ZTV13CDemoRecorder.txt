@@ -1,0 +1,18 @@
+// `vtable for'CDemoRecorder
+// Auto reconstructed from vtable block @ 0x004BA780
+// from "engine.dylib", by ida_vtables.idc
+0	CDemoRecorder::GetDemoFile(void)
+1	CDemoRecorder::GetRecordingTick(void)
+2	CDemoRecorder::StartRecording(char const*,bool)
+3	CDemoRecorder::SetSignonState(int)
+4	CDemoRecorder::IsRecording(void)
+5	CDemoRecorder::PauseRecording(void)
+6	CDemoRecorder::ResumeRecording(void)
+7	CDemoRecorder::StopRecording(void)
+8	CDemoRecorder::RecordCommand(char const*)
+9	CDemoRecorder::RecordUserInput(int)
+10	CDemoRecorder::RecordMessages(bf_read &,int)
+11	CDemoRecorder::RecordPacket(void)
+12	CDemoRecorder::RecordServerClasses(ServerClass *)
+13	CDemoRecorder::RecordStringTables(void)
+14	CDemoRecorder::ResetDemoInterpolation(void)

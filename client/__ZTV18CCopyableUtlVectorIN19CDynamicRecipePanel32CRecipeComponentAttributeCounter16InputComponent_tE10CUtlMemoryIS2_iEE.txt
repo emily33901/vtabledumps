@@ -1,0 +1,5 @@
+// `vtable for'CCopyableUtlVector<CDynamicRecipePanel::CRecipeComponentAttributeCounter::InputComponent_t,CUtlMemory<CDynamicRecipePanel::CRecipeComponentAttributeCounter::InputComponent_t,int>>
+// Auto reconstructed from vtable block @ 0x0111927C
+// from "client.dylib", by ida_vtables.idc
+0	CCopyableUtlVector<CDynamicRecipePanel::CRecipeComponentAttributeCounter::InputComponent_t,CUtlMemory<CDynamicRecipePanel::CRecipeComponentAttributeCounter::InputComponent_t,int>>::~CCopyableUtlVector()
+1	CCopyableUtlVector<CDynamicRecipePanel::CRecipeComponentAttributeCounter::InputComponent_t,CUtlMemory<CDynamicRecipePanel::CRecipeComponentAttributeCounter::InputComponent_t,int>>::~CCopyableUtlVector()

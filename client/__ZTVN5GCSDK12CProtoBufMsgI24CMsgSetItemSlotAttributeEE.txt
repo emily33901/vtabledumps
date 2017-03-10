@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgSetItemSlotAttribute>
+// Auto reconstructed from vtable block @ 0x0111C1A0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgSetItemSlotAttribute>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgSetItemSlotAttribute>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgSetItemSlotAttribute>::GetGenericBody(void)const

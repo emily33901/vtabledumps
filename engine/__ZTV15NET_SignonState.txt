@@ -1,0 +1,16 @@
+// `vtable for'NET_SignonState
+// Auto reconstructed from vtable block @ 0x004B3670
+// from "engine.dylib", by ida_vtables.idc
+0	NET_SignonState::~NET_SignonState()
+1	NET_SignonState::~NET_SignonState()
+2	CNetMessage::SetNetChannel(INetChannel *)
+3	CNetMessage::SetReliable(bool)
+4	NET_SignonState::Process(void)
+5	NET_SignonState::ReadFromBuffer(bf_read &)
+6	NET_SignonState::WriteToBuffer(bf_write &)
+7	CNetMessage::IsReliable(void)const
+8	NET_SignonState::GetType(void)const
+9	NET_SignonState::GetGroup(void)const
+10	NET_SignonState::GetName(void)const
+11	CNetMessage::GetNetChannel(void)const
+12	NET_SignonState::ToString(void)const

@@ -1,0 +1,11 @@
+// `vtable for'CGCTrading_InitiateTradeResponse
+// Auto reconstructed from vtable block @ 0x010A7730
+// from "client.dylib", by ida_vtables.idc
+0	CGCTrading_InitiateTradeResponse::~CGCTrading_InitiateTradeResponse()
+1	CGCTrading_InitiateTradeResponse::~CGCTrading_InitiateTradeResponse()
+2	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+3	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+4	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+5	CGCTrading_InitiateTradeResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+6	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+7	GCSDK::CGCClientJob::GetServerType(void)

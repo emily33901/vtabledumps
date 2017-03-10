@@ -1,0 +1,10 @@
+// `vtable for'CEconLootListDefinition
+// Auto reconstructed from vtable block @ 0x00E3EBC0
+// from "client.dylib", by ida_vtables.idc
+0	CEconLootListDefinition::~CEconLootListDefinition()
+1	CEconLootListDefinition::~CEconLootListDefinition()
+2	CEconLootListDefinition::BPublicListContents(void)const
+3	CEconLootListDefinition::GetLootListHeaderLocalizationKey(void)const
+4	CEconLootListDefinition::GetLootListFooterLocalizationKey(void)const
+5	CEconLootListDefinition::GetLootListCollectionReference(void)const
+6	CEconLootListDefinition::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator *)const

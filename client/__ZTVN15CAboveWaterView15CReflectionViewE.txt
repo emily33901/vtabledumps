@@ -1,0 +1,11 @@
+// `vtable for'CAboveWaterView::CReflectionView
+// Auto reconstructed from vtable block @ 0x01011670
+// from "client.dylib", by ida_vtables.idc
+0	CAboveWaterView::CReflectionView::~CReflectionView()
+1	CAboveWaterView::CReflectionView::~CReflectionView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CAboveWaterView::CReflectionView::Draw(void)
+5	CBaseWorldView::AdjustView(float)
+6	CBaseWorldView::PushView(float)
+7	CBaseWorldView::PopView(void)

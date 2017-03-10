@@ -1,0 +1,10 @@
+// `vtable for'CEnginePostMaterialProxy
+// Auto reconstructed from vtable block @ 0x01011440
+// from "client.dylib", by ida_vtables.idc
+0	CEnginePostMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CEnginePostMaterialProxy::GetMaterial(void)
+4	CEnginePostMaterialProxy::~CEnginePostMaterialProxy()
+5	CEnginePostMaterialProxy::~CEnginePostMaterialProxy()
+6	CEnginePostMaterialProxy::OnBind(C_BaseEntity *)

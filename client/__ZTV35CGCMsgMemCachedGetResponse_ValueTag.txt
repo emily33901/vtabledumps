@@ -1,0 +1,23 @@
+// `vtable for'CGCMsgMemCachedGetResponse_ValueTag
+// Auto reconstructed from vtable block @ 0x00E97050
+// from "client.dylib", by ida_vtables.idc
+0	CGCMsgMemCachedGetResponse_ValueTag::~CGCMsgMemCachedGetResponse_ValueTag()
+1	CGCMsgMemCachedGetResponse_ValueTag::~CGCMsgMemCachedGetResponse_ValueTag()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CGCMsgMemCachedGetResponse_ValueTag::New(void)const
+4	CGCMsgMemCachedGetResponse_ValueTag::Clear(void)
+5	CGCMsgMemCachedGetResponse_ValueTag::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CGCMsgMemCachedGetResponse_ValueTag::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CGCMsgMemCachedGetResponse_ValueTag::ByteSize(void)const
+10	CGCMsgMemCachedGetResponse_ValueTag::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CGCMsgMemCachedGetResponse_ValueTag::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CGCMsgMemCachedGetResponse_ValueTag::GetCachedSize(void)const
+13	CGCMsgMemCachedGetResponse_ValueTag::CopyFrom(google::protobuf::Message const&)
+14	CGCMsgMemCachedGetResponse_ValueTag::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CGCMsgMemCachedGetResponse_ValueTag::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CGCMsgMemCachedGetResponse_ValueTag::GetMetadata(void)const

@@ -1,0 +1,8 @@
+// `vtable for'CShadowDepthView
+// Auto reconstructed from vtable block @ 0x01011570
+// from "client.dylib", by ida_vtables.idc
+0	CShadowDepthView::~CShadowDepthView()
+1	CShadowDepthView::~CShadowDepthView()
+2	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+3	CRendering3dView::GetDrawFlags(void)
+4	CShadowDepthView::Draw(void)

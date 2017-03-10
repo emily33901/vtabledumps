@@ -1,0 +1,6 @@
+// `vtable for'google::protobuf::`anonymous namespace'::GeneratedMessageFactory
+// Auto reconstructed from vtable block @ 0x00ED5F88
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::`anonymous namespace'::GeneratedMessageFactory::~GeneratedMessageFactory()
+1	google::protobuf::`anonymous namespace'::GeneratedMessageFactory::~GeneratedMessageFactory()
+2	google::protobuf::`anonymous namespace'::GeneratedMessageFactory::GetPrototype(google::protobuf::Descriptor const*)

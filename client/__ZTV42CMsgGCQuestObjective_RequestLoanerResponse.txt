@@ -1,0 +1,23 @@
+// `vtable for'CMsgGCQuestObjective_RequestLoanerResponse
+// Auto reconstructed from vtable block @ 0x00E3E2D0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCQuestObjective_RequestLoanerResponse::~CMsgGCQuestObjective_RequestLoanerResponse()
+1	CMsgGCQuestObjective_RequestLoanerResponse::~CMsgGCQuestObjective_RequestLoanerResponse()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgGCQuestObjective_RequestLoanerResponse::New(void)const
+4	CMsgGCQuestObjective_RequestLoanerResponse::Clear(void)
+5	CMsgGCQuestObjective_RequestLoanerResponse::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgGCQuestObjective_RequestLoanerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgGCQuestObjective_RequestLoanerResponse::ByteSize(void)const
+10	CMsgGCQuestObjective_RequestLoanerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgGCQuestObjective_RequestLoanerResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgGCQuestObjective_RequestLoanerResponse::GetCachedSize(void)const
+13	CMsgGCQuestObjective_RequestLoanerResponse::CopyFrom(google::protobuf::Message const&)
+14	CMsgGCQuestObjective_RequestLoanerResponse::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgGCQuestObjective_RequestLoanerResponse::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgGCQuestObjective_RequestLoanerResponse::GetMetadata(void)const

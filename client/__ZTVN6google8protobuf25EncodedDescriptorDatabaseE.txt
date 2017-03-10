@@ -1,0 +1,9 @@
+// `vtable for'google::protobuf::EncodedDescriptorDatabase
+// Auto reconstructed from vtable block @ 0x010199C8
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::EncodedDescriptorDatabase::~EncodedDescriptorDatabase()
+1	google::protobuf::EncodedDescriptorDatabase::~EncodedDescriptorDatabase()
+2	google::protobuf::EncodedDescriptorDatabase::FindFileByName(std::string const&,google::protobuf::FileDescriptorProto *)
+3	google::protobuf::EncodedDescriptorDatabase::FindFileContainingSymbol(std::string const&,google::protobuf::FileDescriptorProto *)
+4	google::protobuf::EncodedDescriptorDatabase::FindFileContainingExtension(std::string const&,int,google::protobuf::FileDescriptorProto *)
+5	google::protobuf::EncodedDescriptorDatabase::FindAllExtensionNumbers(std::string const&,std::vector<int,std::allocator<int>> *)

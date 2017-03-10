@@ -1,0 +1,26 @@
+// `vtable for'CPDumpPanel
+// Auto reconstructed from vtable block @ 0x00F0FCB0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CPDumpPanel
+1	CPDumpPanel::~CPDumpPanel()
+2	CPDumpPanel::~CPDumpPanel()
+3	CHudElement::FireGameEvent(IGameEvent *)
+4	CHudElement::Init(void)
+5	CHudElement::VidInit(void)
+6	CHudElement::LevelInit(void)
+7	CHudElement::LevelShutdown(void)
+8	CHudElement::Reset(void)
+9	CHudElement::ProcessInput(void)
+10	CHudElement::GetName(void)const
+11	CPDumpPanel::ShouldDraw(void)
+12	CHudElement::IsActive(void)
+13	CHudElement::SetActive(bool)
+14	CHudElement::GetPreferredActionSet(void)
+15	CHudElement::SetHiddenBits(int)
+16	CHudElement::GetRenderGroupPriority(void)
+17	CPDumpPanel::GetMessageMap(void)
+18	CPDumpPanel::GetAnimMap(void)
+19	CPDumpPanel::GetKBMap(void)
+20	CPDumpPanel::ApplySettings(KeyValues *)
+21	CPDumpPanel::ApplySchemeSettings(vgui::IScheme *)
+22	CPDumpPanel::Paint(void)

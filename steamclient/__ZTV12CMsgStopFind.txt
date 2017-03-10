@@ -1,0 +1,23 @@
+// `vtable for'CMsgStopFind
+// Auto reconstructed from vtable block @ 0x00ECBD00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgStopFind::~CMsgStopFind()
+1	CMsgStopFind::~CMsgStopFind()
+2	google::protobuf::Message::GetTypeName(void)const
+3	CMsgStopFind::New(void)const
+4	CMsgStopFind::Clear(void)
+5	CMsgStopFind::IsInitialized(void)const
+6	google::protobuf::Message::InitializationErrorString(void)const
+7	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+8	CMsgStopFind::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+9	CMsgStopFind::ByteSize(void)const
+10	CMsgStopFind::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+11	CMsgStopFind::SerializeWithCachedSizesToArray(unsigned char *)const
+12	CMsgStopFind::GetCachedSize(void)const
+13	CMsgStopFind::CopyFrom(google::protobuf::Message const&)
+14	CMsgStopFind::MergeFrom(google::protobuf::Message const&)
+15	google::protobuf::Message::DiscardUnknownFields(void)
+16	google::protobuf::Message::SpaceUsed(void)const
+17	CMsgStopFind::SetCachedSize(int)const
+18	google::protobuf::Message::GetReflection(void)const
+19	CMsgStopFind::GetMetadata(void)const

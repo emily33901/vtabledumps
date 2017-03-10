@@ -1,0 +1,8 @@
+// `vtable for'CTraceFilterSkipTwoEntities
+// Auto reconstructed from vtable block @ 0x00E94AB0
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterSkipTwoEntities::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const
+2	CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+3	CTraceFilterSimple::SetCollisionGroup(int)
+4	CTraceFilterSkipTwoEntities::SetPassEntity2(IHandleEntity const*)

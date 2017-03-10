@@ -1,0 +1,9 @@
+// `vtable for'CWrapMinMaxProxy
+// Auto reconstructed from vtable block @ 0x00F12E80
+// from "client.dylib", by ida_vtables.idc
+0	CWrapMinMaxProxy::Init(IMaterial *,KeyValues *)
+1	CWrapMinMaxProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CWrapMinMaxProxy::~CWrapMinMaxProxy()
+5	CWrapMinMaxProxy::~CWrapMinMaxProxy()

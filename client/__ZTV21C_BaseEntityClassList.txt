@@ -1,0 +1,4 @@
+// `vtable for'C_BaseEntityClassList
+// Auto reconstructed from vtable block @ 0x0108AA20
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual

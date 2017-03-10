@@ -1,0 +1,11 @@
+// `vtable for'CHIDDevicePipeSharedMemStreamToRemote
+// Auto reconstructed from vtable block @ 0x00EF2810
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDevicePipeSharedMemStreamToRemote::~CHIDDevicePipeSharedMemStreamToRemote()
+1	CHIDDevicePipeSharedMemStreamToRemote::~CHIDDevicePipeSharedMemStreamToRemote()
+2	CSharedMemStream::GetBytesRemaining(void)
+3	CSharedMemStream::GetBytesAvailable(void)
+4	CHIDDevicePipeSharedMemStream::Put(void const*,unsigned int)
+5	CHIDDevicePipeSharedMemStream::Get(void *,unsigned int)
+6	CSharedMemStream::Clear(unsigned int)
+7	CSharedMemStream::BWaitForDataToGet(void)

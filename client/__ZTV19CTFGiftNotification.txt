@@ -1,0 +1,18 @@
+// `vtable for'CTFGiftNotification
+// Auto reconstructed from vtable block @ 0x010E6F80
+// from "client.dylib", by ida_vtables.idc
+0	CTFGiftNotification::~CTFGiftNotification()
+1	CTFGiftNotification::~CTFGiftNotification()
+2	CEconNotification::SetLifetime(float)
+3	CEconNotification::GetExpireTime(void)const
+4	CEconNotification::GetInGameLifeTime(void)const
+5	CEconNotification::BShowInGameElements(void)const
+6	CEconNotification::MarkForDeletion(void)
+7	CTFGiftNotification::CanBeTriggered(void)
+8	CEconNotification::Trigger(void)
+9	CEconNotification::CanBeAcceptedOrDeclined(void)
+10	CEconNotification::Accept(void)
+11	CEconNotification::Decline(void)
+12	CEconNotification::UpdateTick(void)
+13	CEconNotification::GetUnlocalizedHelpText(void)
+14	CEconNotification::CreateUIElement(bool)const

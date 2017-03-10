@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgApplyUpgradeCard>
+// Auto reconstructed from vtable block @ 0x010B7490
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyUpgradeCard>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyUpgradeCard>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyUpgradeCard>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyUpgradeCard>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgApplyUpgradeCard>::InternalFree(google::protobuf::Message *)

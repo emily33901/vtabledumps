@@ -1,0 +1,8 @@
+// `vtable for'CPureServerWhitelist
+// Auto reconstructed from vtable block @ 0x004ED120
+// from "engine.dylib", by ida_vtables.idc
+0	CPureServerWhitelist::AddRef(void)
+1	CPureServerWhitelist::Release(void)
+2	CPureServerWhitelist::GetFileClass(char const*)
+3	CPureServerWhitelist::GetTrustedKeyCount(void)const
+4	CPureServerWhitelist::GetTrustedKey(int,int *)const

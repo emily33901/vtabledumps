@@ -1,0 +1,5 @@
+// `vtable for'CBaseEntityList
+// Auto reconstructed from vtable block @ 0x00E409F8
+// from "client.dylib", by ida_vtables.idc
+0	CBaseEntityList::OnAddEntity(IHandleEntity *,CBaseHandle)
+1	CBaseEntityList::OnRemoveEntity(IHandleEntity *,CBaseHandle)

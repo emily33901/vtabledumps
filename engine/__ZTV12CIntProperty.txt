@@ -1,0 +1,6 @@
+// `vtable for'CIntProperty
+// Auto reconstructed from vtable block @ 0x0053EF60
+// from "engine.dylib", by ida_vtables.idc
+0	CIntProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CIntProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CIntProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)

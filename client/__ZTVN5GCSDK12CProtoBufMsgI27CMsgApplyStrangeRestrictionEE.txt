@@ -1,0 +1,6 @@
+// `vtable for'GCSDK::CProtoBufMsg<CMsgApplyStrangeRestriction>
+// Auto reconstructed from vtable block @ 0x010B3710
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsg<CMsgApplyStrangeRestriction>::~CProtoBufMsg()
+1	GCSDK::CProtoBufMsg<CMsgApplyStrangeRestriction>::~CProtoBufMsg()
+2	GCSDK::CProtoBufMsg<CMsgApplyStrangeRestriction>::GetGenericBody(void)const

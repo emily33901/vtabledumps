@@ -1,0 +1,8 @@
+// `vtable for'GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_ResetIdentity>
+// Auto reconstructed from vtable block @ 0x010E8D10
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_ResetIdentity>::~CProtoBufMsgMemoryPool()
+1	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_ResetIdentity>::~CProtoBufMsgMemoryPool()
+2	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_ResetIdentity>::GetName(void)
+3	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_ResetIdentity>::InternalAlloc(void)
+4	GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_ResetIdentity>::InternalFree(google::protobuf::Message *)

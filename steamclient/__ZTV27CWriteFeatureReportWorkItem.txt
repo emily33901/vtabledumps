@@ -1,0 +1,9 @@
+// `vtable for'CWriteFeatureReportWorkItem
+// Auto reconstructed from vtable block @ 0x00F01E50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWriteFeatureReportWorkItem::~CWriteFeatureReportWorkItem()
+1	CWriteFeatureReportWorkItem::~CWriteFeatureReportWorkItem()
+2	CWriteFeatureReportWorkItem::RunFunc(IControllerAbstraction *)
+3	CControllerWorkItem::DispatchCompletion(void)
+4	CControllerWorkItem::BHasPotentialSideEffects(void)
+5	CControllerWorkItem::Validate(CValidator &,char const*)

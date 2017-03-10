@@ -1,0 +1,15 @@
+// `vtable for'CEconTool_CustomizeTexture
+// Auto reconstructed from vtable block @ 0x00EE91F0
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_CustomizeTexture::~CEconTool_CustomizeTexture()
+1	CEconTool_CustomizeTexture::~CEconTool_CustomizeTexture()
+2	IEconTool::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+3	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+4	IEconTool::RequiresToolEscrowPeriod(void)const
+5	IEconTool::BFinishInitialization(void)
+6	IEconTool::CanBeUsedNow(IEconItemInterface const*)const
+7	IEconTool::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+8	IEconTool::ShouldDisplayAsUseableOnItemsInArmory(void)const
+9	IEconTool::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+10	IEconTool::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+11	CEconTool_CustomizeTexture::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const

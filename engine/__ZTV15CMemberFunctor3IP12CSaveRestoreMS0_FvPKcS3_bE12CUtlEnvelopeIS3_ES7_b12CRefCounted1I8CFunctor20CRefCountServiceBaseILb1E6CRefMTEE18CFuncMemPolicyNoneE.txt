@@ -1,0 +1,8 @@
+// `vtable for'CMemberFunctor3<CSaveRestore *,void (CSaveRestore::*)(char const*,char const*,bool),CUtlEnvelope<char const*>,CUtlEnvelope<char const*>,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>,CFuncMemPolicyNone>
+// Auto reconstructed from vtable block @ 0x00527AB0
+// from "engine.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)
+2	CMemberFunctor3<CSaveRestore *,void (CSaveRestore::*)(char const*,char const*,bool),CUtlEnvelope<char const*>,CUtlEnvelope<char const*>,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>,CFuncMemPolicyNone>::~CMemberFunctor3()
+3	CMemberFunctor3<CSaveRestore *,void (CSaveRestore::*)(char const*,char const*,bool),CUtlEnvelope<char const*>,CUtlEnvelope<char const*>,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>,CFuncMemPolicyNone>::~CMemberFunctor3()
+4	CMemberFunctor3<CSaveRestore *,void (CSaveRestore::*)(char const*,char const*,bool),CUtlEnvelope<char const*>,CUtlEnvelope<char const*>,bool,CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>,CFuncMemPolicyNone>::operator()(void)

@@ -1,0 +1,20 @@
+// ___7XiphComment@Ogg@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DE0F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38679620
+1	sub_3867A880
+2	sub_386798A0
+3	sub_386797C0
+4	sub_386799A0
+5	sub_38679D20
+6	sub_3867AAD0
+7	sub_3867A960
+8	sub_3867A630
+9	sub_3867A480
+10	sub_3867A410
+11	sub_3867A4F0
+12	sub_3867A5C0
+13	sub_3867A790
+14	sub_3867A6A0
+15	sub_38679E00
+16	const TagLib::Map<class TagLib::String,class TagLib::StringList>::`RTTI Complete Object Locator'

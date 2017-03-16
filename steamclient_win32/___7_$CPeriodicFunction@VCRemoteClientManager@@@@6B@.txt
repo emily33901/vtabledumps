@@ -1,0 +1,7 @@
+// ___7_$CPeriodicFunction@VCRemoteClientManager@@@@6B@
+// Auto reconstructed from vtable block @ 0x38847478
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3835A080
+1	sub_383615C0
+2	sub_384004C0
+3	const CRemoteClientManager::`RTTI Complete Object Locator'

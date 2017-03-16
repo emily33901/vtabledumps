@@ -1,0 +1,11 @@
+// ___7CAdapterSteamUtils001@@6B@
+// Auto reconstructed from vtable block @ 0x388331E4
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_38
+1	public: bool thiscall Concurrency::details::EventWaitNode::SweepResetNode(void)
+2	sub_382B2BF0
+3	sub_382B46B0
+4	sub_382B3780
+5	sub_382B3AE0
+6	sub_382B3AD0
+7	const CAdapterSteamUtils002::`RTTI Complete Object Locator'

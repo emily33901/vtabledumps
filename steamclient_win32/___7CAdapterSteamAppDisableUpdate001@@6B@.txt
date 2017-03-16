@@ -1,0 +1,4 @@
+// ___7CAdapterSteamAppDisableUpdate001@@6B@
+// Auto reconstructed from vtable block @ 0x3883698C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B6120

@@ -1,0 +1,18 @@
+// ___7CClientJobRequestAuthList@@6B@
+// Auto reconstructed from vtable block @ 0x388002CC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381AB020
+1	sub_380AB080
+2	sub_38553830
+3	sub_380AE7E0
+4	nullsub_2
+5	nullsub_1
+6	nullsub_2
+7	sub_380A9B80
+8	sub_380A9C30
+9	sub_38552AA0
+10	nullsub_1
+11	nullsub_1
+12	Steam_GSSendUserStatusResponse
+13	sub_381B4470
+14	const CClientJobRequestValidateMail::`RTTI Complete Object Locator'

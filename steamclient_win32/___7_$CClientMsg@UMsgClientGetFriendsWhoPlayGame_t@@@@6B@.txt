@@ -1,0 +1,4 @@
+// ___7_$CClientMsg@UMsgClientGetFriendsWhoPlayGame_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38857A54
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420

@@ -1,0 +1,5 @@
+// ___7bad_alloc@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E4C18
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_78
+1	public: virtual char const near * thiscall exception::what(void)const

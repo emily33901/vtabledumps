@@ -1,0 +1,7 @@
+// ___7CNetHost@@6B@
+// Auto reconstructed from vtable block @ 0x388DC34C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38664C10
+1	sub_386AE988
+2	sub_386AE988
+3	sub_38664E00

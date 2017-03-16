@@ -1,0 +1,11 @@
+// ___7CDepotLANPeerInterface@@6BIConnectionCallback@@@
+// Auto reconstructed from vtable block @ 0x38820FD4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382517F0
+1	sub_38251880
+2	sub_382518F0
+3	sub_38253540
+4	sub_382ADCE0
+5	nullsub_6
+6	nullsub_6
+7	nullsub_3

@@ -1,0 +1,12 @@
+// ___7CCMConnection@@6B@
+// Auto reconstructed from vtable block @ 0x3880FB74
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381F3960
+1	sub_381F3BB0
+2	sub_381F4000
+3	sub_381F7E80
+4	sub_381F2660
+5	sub_381F3FE0
+6	nullsub_6
+7	nullsub_3
+8	sub_381F1DB0

@@ -1,0 +1,33 @@
+// ___7CAdapterSteamClient015@@6B@
+// Auto reconstructed from vtable block @ 0x38837014
+// from "steamclient.dll", by ida_vtables.idc
+0	Steam_CreateSteamPipe
+1	sub_382ADBE0
+2	sub_382ADEF0
+3	sub_382B06D0
+4	sub_382B58A0
+5	sub_382B3A50
+6	sub_382B3850
+7	sub_382B64F0
+8	sub_382B3830
+9	sub_382B3A90
+10	sub_382B3930
+11	sub_382B3950
+12	sub_382B3890
+13	sub_382B3A70
+14	sub_382B3870
+15	sub_382B37B0
+16	sub_382B39B0
+17	sub_382B39D0
+18	sub_382B39F0
+19	sub_382B5E20
+20	sub_382B3770
+21	sub_382B69F0
+22	sub_382ADC40
+23	sub_382B38D0
+24	sub_382B3A30
+25	sub_382B3810
+26	sub_382B3A10
+27	sub_382B3790
+28	sub_382B3970
+29	sub_382B3990

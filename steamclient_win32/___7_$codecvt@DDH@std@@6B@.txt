@@ -1,0 +1,13 @@
+// ___7_$codecvt@DDH@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E5A5C
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_83
+1	sub_38484B10
+2	sub_384849B0
+3	sub_38285B60
+4	sub_38252640
+5	sub_38252640
+6	sub_386AAB3D
+7	sub_386AAB3D
+8	protected: virtual int thiscall std::codecvt<char,char,int>::do_unshift(int near &,char near *,char near *,char near * near &)const
+9	protected: virtual int thiscall std::codecvt<char,char,int>::do_length(int near &,char const near *,char const near *,unsigned int)const

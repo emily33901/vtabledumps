@@ -1,0 +1,11 @@
+// ___7CRangeCheckStreamingHandler@@6B@
+// Auto reconstructed from vtable block @ 0x3884E3E0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38386010
+1	sub_3824FC10
+2	sub_382535E0
+3	nullsub_2
+4	nullsub_3
+5	sub_38386E00
+6	sub_38386F30
+7	const CRangeCheckStreamingHandler::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

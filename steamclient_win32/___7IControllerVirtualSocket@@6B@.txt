@@ -1,0 +1,14 @@
+// ___7IControllerVirtualSocket@@6B@
+// Auto reconstructed from vtable block @ 0x3882079C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824DEE0
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_386AE988
+5	sub_386AE988
+6	sub_386AE988
+7	sub_386AE988
+8	sub_386AE988
+9	sub_386AE988
+10	const CControllerHidVirtualSocket::`RTTI Complete Object Locator'

@@ -1,0 +1,20 @@
+// ___7CP2PVoiceSingleton@@6B@
+// Auto reconstructed from vtable block @ 0x387C2CC0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38093B20
+1	sub_38094650
+2	sub_38093F10
+3	sub_380942F0
+4	sub_38094490
+5	sub_38094440
+6	sub_38093E40
+7	sub_38093DF0
+8	sub_38093D20
+9	sub_38093270
+10	sub_38093280
+11	sub_38092C30
+12	sub_38093120
+13	sub_38094450
+14	sub_38093200
+15	sub_38093AE0
+16	sub_38093250

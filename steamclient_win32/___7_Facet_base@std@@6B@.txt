@@ -1,0 +1,7 @@
+// ___7_Facet_base@std@@6B@
+// Auto reconstructed from vtable block @ 0x38882CC8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3866A0A0
+1	sub_386AE988
+2	sub_386AE988
+3	const std::ctype<char>::`RTTI Complete Object Locator'

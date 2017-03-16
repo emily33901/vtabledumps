@@ -1,0 +1,30 @@
+// ___7CSteamFriendsV001@@6B@
+// Auto reconstructed from vtable block @ 0x388325C0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B41D0
+1	sub_382B5C70
+2	public: bool thiscall Concurrency::details::EventWaitNode::SweepResetNode(void)
+3	sub_382AD770
+4	sub_382AD430
+5	sub_382B5940
+6	sub_382B4C40
+7	sub_382B34B0
+8	sub_382B3470
+9	sub_382B08B0
+10	sub_382B3430
+11	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+12	sub_382B3320
+13	sub_382B32B0
+14	sub_382B5F50
+15	sub_382B5F10
+16	sub_382B6250
+17	sub_382B3490
+18	sub_382B3450
+19	sub_382B2A10
+20	sub_38347400
+21	nullsub_6
+22	sub_382ADD70
+23	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+24	sub_382B2990
+25	sub_382B33D0
+26	sub_382B3380

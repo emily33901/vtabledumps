@@ -1,0 +1,7 @@
+// ___7charNode@@6B@
+// Auto reconstructed from vtable block @ 0x388FB060
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386D4861
+1	sub_385417D0
+2	public: virtual char near * thiscall charNode::getString(char near *,char near *)const
+3	const pcharNode::`RTTI Complete Object Locator'

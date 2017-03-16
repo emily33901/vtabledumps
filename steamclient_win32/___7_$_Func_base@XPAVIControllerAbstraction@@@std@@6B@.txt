@@ -1,0 +1,10 @@
+// ___7_$_Func_base@XPAVIControllerAbstraction@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x3881A964
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_386AE988
+5	sub_38208110
+6	sub_386AE988

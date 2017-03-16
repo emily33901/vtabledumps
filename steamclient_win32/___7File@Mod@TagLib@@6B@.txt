@@ -1,0 +1,7 @@
+// ___7File@Mod@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DED88
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386872A0
+1	sub_38342180
+2	sub_38684AF0
+3	sub_386878B0

@@ -1,0 +1,39 @@
+// ___7CSoftPressActivator@@6B@
+// Auto reconstructed from vtable block @ 0x3881B0A0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3821C6E0
+1	sub_3821EE00
+2	sub_3821E460
+3	sub_3821DC70
+4	sub_3821DEC0
+5	sub_3821DD30
+6	sub_3821E5D0
+7	sub_3821DDD0
+8	sub_3821DD80
+9	sub_3821D9B0
+10	sub_3821DE20
+11	sub_3821CF80
+12	sub_3821D2C0
+13	nullsub_3
+14	sub_3821CE80
+15	sub_3821E270
+16	nullsub_6
+17	sub_3821E390
+18	sub_3821E060
+19	sub_3821E550
+20	sub_3821E050
+21	sub_38285B60
+22	sub_3821E400
+23	sub_3821CF70
+24	sub_3821DC40
+25	protected: unsigned int thiscall Concurrency::details::SchedulerBase::GetNumberOfActiveVirtualProcessors(void)const
+26	sub_386404C0
+27	public: void thiscall Concurrency::details::SchedulerProxy::SetQueueLength(unsigned int)
+28	sub_3821DCE0
+29	sub_385C9BF0
+30	sub_3821F6E0
+31	sub_3821E160
+32	sub_3823DBF0
+33	sub_382436F0
+34	sub_3823BFF0
+35	const CAnalogActivator::`RTTI Complete Object Locator'

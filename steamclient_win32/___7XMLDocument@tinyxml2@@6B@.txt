@@ -1,0 +1,20 @@
+// ___7XMLDocument@tinyxml2@@6B@
+// Auto reconstructed from vtable block @ 0x3887CAF8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38075800
+1	sub_38075800
+2	sub_38075800
+3	sub_38075800
+4	sub_38075800
+5	sub_38075800
+6	sub_386E3260
+7	sub_386E3260
+8	sub_38075800
+9	sub_38075800
+10	sub_38075800
+11	sub_38075800
+12	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+13	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+14	sub_384334F0
+15	sub_384347A0
+16	sub_384333C0

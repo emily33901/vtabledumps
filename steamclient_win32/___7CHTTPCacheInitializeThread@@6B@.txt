@@ -1,0 +1,10 @@
+// ___7CHTTPCacheInitializeThread@@6B@
+// Auto reconstructed from vtable block @ 0x388B0D08
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385C9450
+1	protected: virtual bool thiscall CThread::Init(void)
+2	sub_385D43C0
+3	protected: virtual void thiscall CThread::OnExit(void)
+4	protected: virtual bool thiscall CThread::IsThreadRunning(void)const
+5	private: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	const CHTTPRequestCache::`RTTI Complete Object Locator'

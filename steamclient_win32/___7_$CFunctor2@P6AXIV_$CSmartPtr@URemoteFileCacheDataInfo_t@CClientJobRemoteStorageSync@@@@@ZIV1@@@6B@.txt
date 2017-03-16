@@ -1,0 +1,7 @@
+// ___7_$CFunctor2@P6AXIV_$CSmartPtr@URemoteFileCacheDataInfo_t@CClientJobRemoteStorageSync@@@@@ZIV1@@@6B@
+// Auto reconstructed from vtable block @ 0x3880648C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C2750
+1	sub_381C86E0
+2	sub_381C22F0
+3	const CFunctor2<void (cdecl *)(unsigned int,class CSmartPtr<struct CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),unsigned int,class CSmartPtr<struct CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

@@ -1,0 +1,9 @@
+// ___7_System_error_category@std@@6B@
+// Auto reconstructed from vtable block @ 0x387C4F34
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3809EAE0
+1	sub_380A0D90
+2	sub_380A0D00
+3	sub_380A0AA0
+4	sub_380A0B00
+5	sub_380A0B20

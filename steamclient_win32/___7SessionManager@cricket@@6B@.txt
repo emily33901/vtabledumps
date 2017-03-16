@@ -1,0 +1,6 @@
+// ___7SessionManager@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE8FC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F2020
+1	nullsub_1
+2	nullsub_1

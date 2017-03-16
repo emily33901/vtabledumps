@@ -1,0 +1,7 @@
+// ___7_$CFunctor3@P6AXPBDPAVCUtlBuffer@@PA_N@ZPADPAV1@PA_N@@6B@
+// Auto reconstructed from vtable block @ 0x3884EE28
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C2750
+1	sub_381C86E0
+2	sub_3837EC30
+3	const CFunctor3<void (cdecl *)(char const near *,class CUtlBuffer near *,bool near *),char near *,class CUtlBuffer near *,bool near *>::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

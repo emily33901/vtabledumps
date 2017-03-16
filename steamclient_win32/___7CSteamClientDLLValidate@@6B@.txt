@@ -1,0 +1,4 @@
+// ___7CSteamClientDLLValidate@@6B@
+// Auto reconstructed from vtable block @ 0x38849DFC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38369820

@@ -1,0 +1,18 @@
+// ___7CAdapterSteamHTTP001@@6B@
+// Auto reconstructed from vtable block @ 0x38835A0C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382ADF60
+1	sub_382B6280
+2	sub_382B0780
+3	sub_382B5930
+4	sub_382B5F80
+5	sub_382B5E70
+6	sub_382B0900
+7	sub_382B5660
+8	sub_382B3AD0
+9	sub_382B29A0
+10	sub_382B0910
+11	sub_382B52B0
+12	sub_382B5DF0
+13	sub_382B4620
+14	sub_382B6650

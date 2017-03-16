@@ -1,0 +1,10 @@
+// ___7CDNSQueryWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x3880FD04
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_381F53D0
+3	sub_381F5390
+4	sub_381FB220
+5	sub_385B9770
+6	nullsub_3

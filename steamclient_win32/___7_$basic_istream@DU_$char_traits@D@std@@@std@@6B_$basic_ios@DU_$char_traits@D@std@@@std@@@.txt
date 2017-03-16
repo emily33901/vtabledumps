@@ -1,0 +1,5 @@
+// ___7_$basic_istream@DU_$char_traits@D@std@@@std@@6B_$basic_ios@DU_$char_traits@D@std@@@std@@@
+// Auto reconstructed from vtable block @ 0x388FDDFC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E71CC
+1	const std::basic_streambuf<char,struct std::char_traits<char>>::`RTTI Complete Object Locator'

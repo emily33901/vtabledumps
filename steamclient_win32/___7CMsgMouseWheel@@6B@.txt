@@ -1,0 +1,23 @@
+// ___7CMsgMouseWheel@@6B@
+// Auto reconstructed from vtable block @ 0x3882B574
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827F500
+1	sub_3844EEB0
+2	sub_38295130
+3	sub_3856DFA0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_382914A0
+8	sub_382813B0
+9	sub_38296760
+10	sub_382981E0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3828AB80
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38284840
+19	const CMsgMouseMove::`RTTI Complete Object Locator'

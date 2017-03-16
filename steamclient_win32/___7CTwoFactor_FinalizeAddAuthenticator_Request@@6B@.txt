@@ -1,0 +1,23 @@
+// ___7CTwoFactor_FinalizeAddAuthenticator_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387EF280
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3815ABC0
+1	sub_3844EEB0
+2	sub_3815EF70
+3	sub_3815B9C0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3815DEF0
+8	sub_3815B240
+9	sub_3815F410
+10	sub_3815FAB0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3815CAA0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_3815BDF0
+19	const CTwoFactor_FinalizeAddAuthenticator_Response::`RTTI Complete Object Locator'

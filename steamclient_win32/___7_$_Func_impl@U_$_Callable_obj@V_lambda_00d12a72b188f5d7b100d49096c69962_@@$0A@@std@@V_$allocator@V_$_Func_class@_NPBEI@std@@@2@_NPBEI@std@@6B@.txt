@@ -1,0 +1,11 @@
+// ___7_$_Func_impl@U_$_Callable_obj@V_lambda_00d12a72b188f5d7b100d49096c69962_@@$0A@@std@@V_$allocator@V_$_Func_class@_NPBEI@std@@@2@_NPBEI@std@@6B@
+// Auto reconstructed from vtable block @ 0x38814644
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38205B10
+1	sub_38205B10
+2	sub_38205A40
+3	sub_38205BB0
+4	sub_38205A10
+5	sub_38200580
+6	sub_3821AD30
+7	const std::_Func_impl<struct std::_Callable_obj<class _lambda_64008edc8c91c05bcb5ba9d68db18a86_,0>,class std::allocator<class std::_Func_class<bool,unsigned char const near *,unsigned int>>,bool,unsigned char const near *,unsigned int>::`RTTI Complete Object Locator'

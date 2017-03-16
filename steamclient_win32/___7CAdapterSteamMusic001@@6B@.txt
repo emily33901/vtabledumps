@@ -1,0 +1,12 @@
+// ___7CAdapterSteamMusic001@@6B@
+// Auto reconstructed from vtable block @ 0x3883556C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382AD970
+1	sub_382ADA20
+2	sub_382B41E0
+3	sub_382B55E0
+4	sub_382B55D0
+5	sub_382B5600
+6	sub_382B55F0
+7	sub_382B69D0
+8	sub_382B4BB0

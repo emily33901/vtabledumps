@@ -1,0 +1,33 @@
+// ___7IClientNetworkDeviceManagerMap@@6B@
+// Auto reconstructed from vtable block @ 0x3883C7E4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3831F4A0
+1	sub_38324B90
+2	sub_382CC390
+3	sub_382D7FB0
+4	sub_3831ECA0
+5	sub_3831ED70
+6	sub_382D7AE0
+7	sub_382D79F0
+8	sub_382D8080
+9	sub_382D7D60
+10	sub_382E1D90
+11	sub_382E9EF0
+12	sub_382E74B0
+13	sub_382D74B0
+14	sub_382D7E20
+15	sub_382D7C90
+16	sub_382CCBB0
+17	sub_382D5BE0
+18	sub_382EC660
+19	sub_382EC4A0
+20	sub_382EC580
+21	sub_3831FDC0
+22	sub_382D3940
+23	sub_382CA940
+24	sub_3832E6B0
+25	sub_382C78F0
+26	sub_383206A0
+27	sub_382CEC30
+28	sub_383202D0
+29	sub_382D72D0

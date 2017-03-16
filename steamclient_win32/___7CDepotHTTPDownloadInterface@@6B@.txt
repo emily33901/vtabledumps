@@ -1,0 +1,24 @@
+// ___7CDepotHTTPDownloadInterface@@6B@
+// Auto reconstructed from vtable block @ 0x38820CBC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824FAA0
+1	sub_386AE988
+2	sub_38252650
+3	sub_386AE988
+4	sub_38251270
+5	sub_386AE988
+6	sub_38252580
+7	sub_382547F0
+8	sub_38253EC0
+9	sub_38250980
+10	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+11	sub_38252640
+12	sub_38253CF0
+13	sub_38252670
+14	sub_3866CAB0
+15	sub_386AE988
+16	sub_386AE988
+17	sub_386AE988
+18	sub_38251CC0
+19	sub_38253120
+20	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5

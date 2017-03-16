@@ -1,0 +1,23 @@
+// ___7CCloud_BeginHTTPUpload_Response@@6B@
+// Auto reconstructed from vtable block @ 0x387D5044
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380D6670
+1	sub_3844EEB0
+2	sub_380DDC60
+3	sub_380D7ED0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380DBA30
+8	sub_380D7010
+9	sub_380DE3A0
+10	sub_380DEF20
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380D9160
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380D8450
+19	const CCloud_CommitHTTPUpload_Request::`RTTI Complete Object Locator'

@@ -1,0 +1,27 @@
+// ___7CStructNetPacket@@6B@
+// Auto reconstructed from vtable block @ 0x3889AF90
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3854BD40
+1	sub_38285B60
+2	sub_38075800
+3	sub_38342180
+4	sub_38693190
+5	sub_38697860
+6	sub_386A0D40
+7	sub_3869E2F0
+8	sub_38682C80
+9	sub_3854C070
+10	sub_3854C140
+11	sub_3854CAD0
+12	sub_3854C9E0
+13	sub_3854C0C0
+14	sub_3854CA50
+15	sub_3854C020
+16	sub_3854C960
+17	sub_38075800
+18	Steam_GSSendUserStatusResponse
+19	sub_38075800
+20	sub_3854BE70
+21	sub_3854C000
+22	sub_3854C910
+23	Steam_GSSendUserStatusResponse

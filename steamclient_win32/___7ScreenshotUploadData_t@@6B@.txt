@@ -1,0 +1,4 @@
+// ___7ScreenshotUploadData_t@@6B@
+// Auto reconstructed from vtable block @ 0x3885E23C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383E2320

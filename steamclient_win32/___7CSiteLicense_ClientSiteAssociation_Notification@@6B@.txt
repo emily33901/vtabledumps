@@ -1,0 +1,23 @@
+// ___7CSiteLicense_ClientSiteAssociation_Notification@@6B@
+// Auto reconstructed from vtable block @ 0x387EEC24
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38159D90
+1	sub_3844EEB0
+2	sub_3815A310
+3	sub_38162190
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_386637D0
+8	sub_380F71C0
+9	sub_3815A3C0
+10	sub_38162B90
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3815A020
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38159E80
+19	const CSiteLicense_ClientSiteLicenseSeatCheckout_Request::`RTTI Complete Object Locator'

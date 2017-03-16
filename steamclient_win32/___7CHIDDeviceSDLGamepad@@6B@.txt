@@ -1,0 +1,14 @@
+// ___7CHIDDeviceSDLGamepad@@6B@
+// Auto reconstructed from vtable block @ 0x3882ACC8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827B750
+1	sub_38075800
+2	sub_3827C060
+3	sub_3827BD40
+4	sub_3827BE60
+5	sub_3827BE60
+6	sub_380B3670
+7	sub_3827BC90
+8	sub_3827BC30
+9	sub_3827BC90
+10	const CHIDDeviceSDLJoystick::`RTTI Complete Object Locator'

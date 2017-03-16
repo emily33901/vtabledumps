@@ -1,0 +1,6 @@
+// ___7StructReader@@6B@
+// Auto reconstructed from vtable block @ 0x388DEFB4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38689770
+1	sub_3868A2F0
+2	sub_3868A970

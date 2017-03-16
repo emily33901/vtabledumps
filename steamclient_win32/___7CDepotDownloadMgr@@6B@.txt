@@ -1,0 +1,12 @@
+// ___7CDepotDownloadMgr@@6B@
+// Auto reconstructed from vtable block @ 0x38823FAC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382625C0
+1	sub_382625E0
+2	sub_38262650
+3	sub_38265550
+4	sub_382600A0
+5	sub_38262600
+6	nullsub_6
+7	nullsub_3
+8	sub_38266700

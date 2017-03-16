@@ -1,0 +1,4 @@
+// ___7_$Map@VByteVector@TagLib@@V_$List@PAVFrame@ID3v2@TagLib@@@2@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DE1B0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3867B4C0

@@ -1,0 +1,11 @@
+// ___7CClientHTTPStreamingResponseHandler@@6B@
+// Auto reconstructed from vtable block @ 0x387FAA60
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3819D0A0
+1	sub_3824FC10
+2	sub_382535E0
+3	nullsub_2
+4	sub_3819DD90
+5	sub_3819DCD0
+6	nullsub_3
+7	const CClientHTTPStreamingResponseHandler::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

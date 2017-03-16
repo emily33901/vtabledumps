@@ -1,0 +1,36 @@
+// ___7CAdapterSteamUGC004@@6B@
+// Auto reconstructed from vtable block @ 0x388360E8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B0790
+1	sub_382B0770
+2	sub_382B5FF0
+3	sub_382B4460
+4	sub_382B5880
+5	sub_382AD5A0
+6	sub_382AD3E0
+7	sub_382B66A0
+8	sub_382B33B0
+9	sub_382B6100
+10	sub_382B61B0
+11	sub_382B6500
+12	sub_382B6730
+13	sub_382B6620
+14	sub_382B64B0
+15	sub_382B3710
+16	sub_382B6AE0
+17	sub_382B4C20
+18	sub_382B7410
+19	sub_382B6340
+20	sub_382B6320
+21	sub_382B7450
+22	sub_382B6300
+23	sub_382B6D30
+24	sub_382B3D60
+25	sub_382B6D50
+26	sub_382B7100
+27	sub_382B4190
+28	sub_382B4850
+29	sub_382B3CC0
+30	sub_382B3C80
+31	sub_382B3BA0
+32	sub_382B0940

@@ -1,0 +1,10 @@
+// ___7CHIDDevicePipeSharedMemStreamToRemote@@6B@
+// Auto reconstructed from vtable block @ 0x3882AA28
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382794B0
+1	sub_383653A0
+2	sub_38365380
+3	sub_38279D50
+4	sub_38279880
+5	sub_38365150
+6	sub_38365100

@@ -1,0 +1,8 @@
+// ___7CBackupAppJob@@6BIDepotDownloadCallbackHandler@@@
+// Auto reconstructed from vtable block @ 0x38803A80
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381BFCF0
+1	sub_381BFED0
+2	sub_381BF5C0
+3	sub_381BE160
+4	sub_381BFFF0

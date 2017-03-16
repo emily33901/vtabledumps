@@ -1,0 +1,34 @@
+// ___7CTCPConnection@@6B@
+// Auto reconstructed from vtable block @ 0x388C60E8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864E240
+1	sub_3864E450
+2	sub_3864DBB0
+3	sub_3864E3E0
+4	sub_3864E420
+5	sub_3864D890
+6	sub_38637DB0
+7	sub_38252640
+8	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+9	sub_3864D270
+10	sub_38638440
+11	sub_38638710
+12	sub_386388C0
+13	sub_38638890
+14	sub_38639FF0
+15	sub_386395F0
+16	sub_38638E40
+17	sub_38639AE0
+18	sub_38638CD0
+19	sub_38639FB0
+20	sub_38639FD0
+21	sub_386398F0
+22	sub_38639900
+23	sub_38639D40
+24	sub_3864E110
+25	sub_38639BC0
+26	sub_38639BA0
+27	sub_38639410
+28	nullsub_3
+29	sub_3863A090
+30	const CTCPConnection::`RTTI Complete Object Locator'{for `IStreamParserMessageCallback'}

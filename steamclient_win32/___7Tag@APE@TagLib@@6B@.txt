@@ -1,0 +1,20 @@
+// ___7Tag@APE@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DF528
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3868F1B0
+1	sub_386905F0
+2	sub_3868F550
+3	sub_3868F460
+4	sub_3868F660
+5	sub_3868FBF0
+6	sub_386907D0
+7	sub_386906E0
+8	sub_38690400
+9	sub_38690230
+10	sub_386901C0
+11	sub_386902A0
+12	sub_38690310
+13	sub_38690530
+14	sub_38690470
+15	sub_3868FD10
+16	const TagLib::Map<class TagLib::String const,class TagLib::APE::Item>::`RTTI Complete Object Locator'

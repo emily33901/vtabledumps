@@ -1,0 +1,28 @@
+// ___7ConVar@@6B@
+// Auto reconstructed from vtable block @ 0x3889215C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38538120
+1	Steam_GSSendUserStatusResponse
+2	sub_38538A40
+3	sub_38538190
+4	sub_380BF820
+5	sub_385386E0
+6	sub_385386D0
+7	sub_385386C0
+8	sub_38538A60
+9	sub_385384B0
+10	sub_385386F0
+11	sub_38538CC0
+12	sub_38538D20
+13	sub_38538D80
+14	sub_38538C30
+15	sub_38538270
+16	sub_38538CB0
+17	sub_38538260
+18	sub_385381A0
+19	sub_38538950
+20	sub_385387B0
+21	sub_38538880
+22	sub_38538410
+23	sub_38538340
+24	sub_38538540

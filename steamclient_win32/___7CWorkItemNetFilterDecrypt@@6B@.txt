@@ -1,0 +1,10 @@
+// ___7CWorkItemNetFilterDecrypt@@6B@
+// Auto reconstructed from vtable block @ 0x388DC6B0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665760
+1	sub_38285B60
+2	sub_38666010
+3	sub_38665FD0
+4	sub_38666B70
+5	sub_38665EC0
+6	nullsub_3

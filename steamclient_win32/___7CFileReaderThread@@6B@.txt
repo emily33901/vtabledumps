@@ -1,0 +1,10 @@
+// ___7CFileReaderThread@@6B@
+// Auto reconstructed from vtable block @ 0x388C83B8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38349FF0
+1	protected: virtual bool thiscall CThread::Init(void)
+2	sub_386407E0
+3	protected: virtual void thiscall CThread::OnExit(void)
+4	protected: virtual bool thiscall CThread::IsThreadRunning(void)const
+5	private: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	const CFileSectionChunkerThread::`RTTI Complete Object Locator'

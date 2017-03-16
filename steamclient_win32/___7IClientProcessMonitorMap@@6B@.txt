@@ -1,0 +1,6 @@
+// ___7IClientProcessMonitorMap@@6B@
+// Auto reconstructed from vtable block @ 0x3884CABC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837B470
+1	sub_3837C020
+2	sub_3837BEA0

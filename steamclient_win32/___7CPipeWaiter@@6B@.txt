@@ -1,0 +1,10 @@
+// ___7CPipeWaiter@@6B@
+// Auto reconstructed from vtable block @ 0x38842534
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3833FC10
+1	sub_3833FFD0
+2	sub_38340130
+3	sub_383401C0
+4	sub_38340200
+5	sub_38468DC0
+6	sub_38341BC0

@@ -1,0 +1,10 @@
+// ___7CUser@@6BIClientBilling@@@
+// Auto reconstructed from vtable block @ 0x3884FD58
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383A0CD0
+1	sub_3839B050
+2	sub_38399570
+3	sub_38396DB0
+4	sub_38396860
+5	sub_38398310
+6	sub_383A2190

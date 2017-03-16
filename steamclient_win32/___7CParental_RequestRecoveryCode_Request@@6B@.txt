@@ -1,0 +1,23 @@
+// ___7CParental_RequestRecoveryCode_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387E2B5C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381189C0
+1	sub_3844EEB0
+2	sub_3811D470
+3	sub_38119530
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38109790
+8	sub_38125650
+9	sub_380F4A40
+10	sub_3815A400
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3811B280
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38119C10
+19	const CParental_RequestRecoveryCode_Response::`RTTI Complete Object Locator'

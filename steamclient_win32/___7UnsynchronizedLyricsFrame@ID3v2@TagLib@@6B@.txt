@@ -1,0 +1,8 @@
+// ___7UnsynchronizedLyricsFrame@ID3v2@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E0294
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38697450
+1	sub_38697850
+2	sub_38697870
+3	sub_38697480
+4	sub_386976B0

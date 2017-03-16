@@ -1,0 +1,6 @@
+// ___7CProtoBufHConnectionSendHandler@@6B@
+// Auto reconstructed from vtable block @ 0x387C60F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380A83B0
+1	sub_380A83F0
+2	const __MsgProtoBufInternal::CProtoBufMsgBase::`RTTI Complete Object Locator'

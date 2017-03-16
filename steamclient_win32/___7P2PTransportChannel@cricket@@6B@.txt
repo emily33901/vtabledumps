@@ -1,0 +1,15 @@
+// ___7P2PTransportChannel@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FEA50
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F4D80
+1	nullsub_1
+2	nullsub_1
+3	sub_386F6280
+4	sub_386F62D0
+5	public: int thiscall Concurrency::details::SchedulingRing::Id(void)const
+6	public: unsigned int thiscall Concurrency::details::SchedulerProxy::GetNumBorrowedCores(void)const
+7	sub_386F4F80
+8	sub_386F6100
+9	sub_386F5C10
+10	sub_386F5550
+11	const cricket::P2PTransportChannel::`RTTI Complete Object Locator'{for `talk_base::MessageHandler'}

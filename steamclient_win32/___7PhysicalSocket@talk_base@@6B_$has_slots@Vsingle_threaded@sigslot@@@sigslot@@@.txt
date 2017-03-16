@@ -1,0 +1,6 @@
+// ___7PhysicalSocket@talk_base@@6B_$has_slots@Vsingle_threaded@sigslot@@@sigslot@@@
+// Auto reconstructed from vtable block @ 0x38900470
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38706547
+1	nullsub_1
+2	nullsub_1

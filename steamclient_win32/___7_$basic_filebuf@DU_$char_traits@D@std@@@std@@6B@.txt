@@ -1,0 +1,18 @@
+// ___7_$basic_filebuf@DU_$char_traits@D@std@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x3893021C
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_112
+1	unknown_libname_113
+2	unknown_libname_114
+3	sub_387A208A
+4	sub_387A2217
+5	sub_38548480
+6	sub_387A2617
+7	sub_387A2487
+8	sub_386E9500
+9	sub_386E95E0
+10	protected: virtual class std::fpos<int> thiscall std::basic_filebuf<char,struct std::char_traits<char>>::seekoff(__int64,int,int)
+11	sub_387A2356
+12	protected: virtual class std::basic_streambuf<char,struct std::char_traits<char>> near * thiscall std::basic_filebuf<char,struct std::char_traits<char>>::setbuf(char near *,__int64)
+13	protected: virtual int thiscall std::basic_filebuf<char,struct std::char_traits<char>>::sync(void)
+14	sub_387A206E

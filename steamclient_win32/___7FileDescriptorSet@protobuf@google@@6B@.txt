@@ -1,0 +1,23 @@
+// ___7FileDescriptorSet@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x3888041C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38466960
+1	sub_3844EEB0
+2	sub_38470710
+3	sub_38468AE0
+4	sub_38469DE0
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3846E3E0
+8	sub_38467940
+9	sub_38471990
+10	sub_384727C0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3846B200
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_384692E0
+19	const google::protobuf::FileDescriptorProto::`RTTI Complete Object Locator'

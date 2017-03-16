@@ -1,0 +1,21 @@
+// ___7IClientVRMap@@6B@
+// Auto reconstructed from vtable block @ 0x38841228
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382D6E30
+1	sub_382D53F0
+2	sub_382E42C0
+3	sub_382D3BA0
+4	sub_382E7C10
+5	sub_382D8ED0
+6	sub_382E4370
+7	sub_3831F290
+8	sub_3833ACB0
+9	sub_38320540
+10	sub_3831D510
+11	sub_38337150
+12	sub_382C6500
+13	sub_38324440
+14	sub_383244E0
+15	sub_382E9E30
+16	sub_38320D60
+17	sub_382E9BE0

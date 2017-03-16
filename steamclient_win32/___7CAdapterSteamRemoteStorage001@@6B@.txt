@@ -1,0 +1,11 @@
+// ___7CAdapterSteamRemoteStorage001@@6B@
+// Auto reconstructed from vtable block @ 0x38835438
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B0F30
+1	sub_382B31A0
+2	sub_382B0E30
+3	sub_382B0D40
+4	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+5	sub_382B30F0
+6	sub_382B3150
+7	sub_382B44E0

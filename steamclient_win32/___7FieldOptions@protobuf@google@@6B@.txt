@@ -1,0 +1,23 @@
+// ___7FieldOptions@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x388807DC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38466900
+1	sub_3844EEB0
+2	sub_384705F0
+3	sub_38468660
+4	sub_38469BA0
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3846DA60
+8	sub_384674E0
+9	sub_38471260
+10	sub_384723A0
+11	sub_38468DC0
+12	sub_38163510
+13	sub_3846ADF0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_384CA290
+17	sub_380CA080
+18	sub_384691C0
+19	const google::protobuf::EnumOptions::`RTTI Complete Object Locator'

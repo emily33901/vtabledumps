@@ -1,0 +1,23 @@
+// ___7CBroadcast_PostChatMessage_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387D2638
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C8140
+1	sub_3844EEB0
+2	sub_380CF670
+3	sub_380C90E0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380CDF70
+8	sub_380C88A0
+9	sub_380CFE30
+10	sub_380D0680
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380CBA80
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380C9B40
+19	const CBroadcast_PostChatMessage_Response::`RTTI Complete Object Locator'

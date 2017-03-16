@@ -1,0 +1,5 @@
+// ___7CSpotifyController@@6B@
+// Auto reconstructed from vtable block @ 0x387CEB80
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C52E0
+1	const CDynamicFunc<char const near * (stdcall *)(enum  sp_error)>::`RTTI Complete Object Locator'

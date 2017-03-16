@@ -1,0 +1,23 @@
+// ___7CMsgRemoteDeviceStreamingResponse@@6B@
+// Auto reconstructed from vtable block @ 0x387ED81C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38152E40
+1	sub_3844EEB0
+2	sub_38156530
+3	sub_3856E620
+4	sub_38469E40
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38155FE0
+8	sub_381535C0
+9	sub_38156A20
+10	sub_38156FD0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38155140
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38153F50
+19	const CMsgRemoteDeviceProofRequest::`RTTI Complete Object Locator'

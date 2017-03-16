@@ -1,0 +1,9 @@
+// ___7CPulseHapticWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x388195E0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	sub_38215EE0
+2	nullsub_1
+3	Steam_GSSendUserStatusResponse
+4	nullsub_3
+5	const CVibrationWorkItem::`RTTI Complete Object Locator'

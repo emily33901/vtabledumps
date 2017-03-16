@@ -1,0 +1,5 @@
+// ___7AllocationSequence@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE638
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EEEB0
+1	sub_386EFEA0

@@ -1,0 +1,18 @@
+// ___7CSingleProcessPipe@@6B@
+// Auto reconstructed from vtable block @ 0x388490D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38365C80
+1	sub_3824DAA0
+2	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+3	sub_3824DAA0
+4	sub_38285B60
+5	nullsub_1
+6	sub_38365F00
+7	sub_38365CC0
+8	sub_38365D50
+9	sub_38365E60
+10	sub_383660F0
+11	sub_38366010
+12	sub_38365FE0
+13	unknown_libname_40
+14	sub_38366140

@@ -1,0 +1,10 @@
+// ___7CGyroSource@@6B@
+// Auto reconstructed from vtable block @ 0x388202C4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38248300
+1	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+2	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+3	sub_38075800
+4	sub_38248AC0
+5	sub_38248FD0
+6	sub_3824A870

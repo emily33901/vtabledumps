@@ -1,0 +1,10 @@
+// ___7CServerPlayerListMsgHandler@@6B@
+// Auto reconstructed from vtable block @ 0x387C5D74
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D19B0
+1	sub_380A5AE0
+2	sub_38706FD0
+3	unknown_libname_66
+4	sub_38541630
+5	sub_38183A00
+6	sub_380A5D00

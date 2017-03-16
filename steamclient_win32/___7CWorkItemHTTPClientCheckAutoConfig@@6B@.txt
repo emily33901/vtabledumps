@@ -1,0 +1,10 @@
+// ___7CWorkItemHTTPClientCheckAutoConfig@@6B@
+// Auto reconstructed from vtable block @ 0x388B0C90
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_385D0580
+3	sub_385D0530
+4	sub_385D5BD0
+5	sub_38643020
+6	nullsub_3

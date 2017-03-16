@@ -1,0 +1,10 @@
+// ___7CServerList@@6B@
+// Auto reconstructed from vtable block @ 0x387C56F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380A3BF0
+1	nullsub_6
+2	nullsub_1
+3	nullsub_3
+4	nullsub_1
+5	nullsub_1
+6	sub_380A1CC0

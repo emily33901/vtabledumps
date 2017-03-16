@@ -1,0 +1,5 @@
+// ___7CHTTPRequestParam@@6B@
+// Auto reconstructed from vtable block @ 0x388C46F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3862FDB0
+1	const CHTTPRequest::`RTTI Complete Object Locator'

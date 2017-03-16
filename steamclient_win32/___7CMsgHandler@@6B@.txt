@@ -1,0 +1,11 @@
+// ___7CMsgHandler@@6B@
+// Auto reconstructed from vtable block @ 0x38895690
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38541270
+1	sub_386AE988
+2	sub_38706FD0
+3	unknown_libname_66
+4	sub_38541630
+5	sub_38183A00
+6	nullsub_3
+7	const CSocketThread::CSocketRunThread::`RTTI Complete Object Locator'

@@ -1,0 +1,19 @@
+// ___7_$basic_stringbuf@DU_$char_traits@D@std@@V_$allocator@D@2@@std@@6B@
+// Auto reconstructed from vtable block @ 0x388FDF48
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E7330
+1	nullsub_1
+2	nullsub_1
+3	sub_386E8EB0
+4	sub_386E9090
+5	sub_38548480
+6	sub_386E94A0
+7	sub_386E9460
+8	sub_386E9500
+9	sub_386E95E0
+10	sub_386E9120
+11	sub_386E9320
+12	sub_386E9450
+13	sub_38075800
+14	nullsub_2
+15	const talk_base::TypedMessageData<struct `anonymous namespace'::ChannelParams near *>::`RTTI Complete Object Locator'

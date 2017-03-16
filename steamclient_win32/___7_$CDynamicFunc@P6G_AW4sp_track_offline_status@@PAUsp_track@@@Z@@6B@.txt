@@ -1,0 +1,5 @@
+// ___7_$CDynamicFunc@P6G_AW4sp_track_offline_status@@PAUsp_track@@@Z@@6B@
+// Auto reconstructed from vtable block @ 0x387CF6F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C5570
+1	sub_380C5960

@@ -1,0 +1,4 @@
+// ___7_$basic_istringstream@DU_$char_traits@D@std@@V_$allocator@D@2@@std@@6B_$basic_ios@DU_$char_traits@D@std@@@std@@@
+// Auto reconstructed from vtable block @ 0x388FDF98
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E71D4

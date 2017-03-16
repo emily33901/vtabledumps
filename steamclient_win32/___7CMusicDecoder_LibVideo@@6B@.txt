@@ -1,0 +1,18 @@
+// ___7CMusicDecoder_LibVideo@@6B@
+// Auto reconstructed from vtable block @ 0x387CDCE8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380BF7B0
+1	sub_380BF860
+2	sub_380BFBE0
+3	sub_380BFFD0
+4	sub_380BFAE0
+5	sub_380BFAB0
+6	sub_380BFA80
+7	sub_380BF850
+8	nullsub_2
+9	public: virtual struct Concurrency::IThreadProxy near * thiscall Concurrency::details::InternalContextBase::GetProxy(void)
+10	sub_380BF820
+11	?_Acquire@_NonReentrantPPLLock@details@Concurrency@@QAEXPAX@Z_0
+12	sub_38285B60
+13	sub_380BF830
+14	sub_380BFAF0

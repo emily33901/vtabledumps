@@ -1,0 +1,23 @@
+// ___7PublishedFileDetails_Preview@@6B@
+// Auto reconstructed from vtable block @ 0x387E7130
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38131AD0
+1	sub_3844EEB0
+2	sub_38142320
+3	sub_38135320
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38141160
+8	sub_38134340
+9	sub_38143CB0
+10	sub_38146770
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3813B1A0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38136600
+19	const PublishedFileDetails_Child::`RTTI Complete Object Locator'

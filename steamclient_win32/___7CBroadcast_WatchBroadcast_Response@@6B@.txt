@@ -1,0 +1,23 @@
+// ___7CBroadcast_WatchBroadcast_Response@@6B@
+// Auto reconstructed from vtable block @ 0x387D2318
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C84E0
+1	sub_3844EEB0
+2	sub_380CF9D0
+3	sub_380C92D0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380CED10
+8	sub_380C8D10
+9	sub_380D0200
+10	sub_380D0B30
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380CCC00
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380CA020
+19	const CBroadcast_GetBroadcastStatus_Request::`RTTI Complete Object Locator'

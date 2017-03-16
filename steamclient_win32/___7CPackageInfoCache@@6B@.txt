@@ -1,0 +1,4 @@
+// ___7CPackageInfoCache@@6B@
+// Auto reconstructed from vtable block @ 0x387F1C70
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38165ED0

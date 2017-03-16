@@ -1,0 +1,19 @@
+// ___7GetItemsByIDJob@_3__GetItemsByID@CClientInventory@@UAE_NPAHPB_KI@Z@6B@
+// Auto reconstructed from vtable block @ 0x387FB0D0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3819F950
+1	sub_380AB080
+2	sub_38553830
+3	sub_380AE7E0
+4	nullsub_2
+5	nullsub_1
+6	nullsub_2
+7	sub_381A00A0
+8	sub_380A9C20
+9	sub_38552AA0
+10	nullsub_1
+11	nullsub_1
+12	Steam_GSSendUserStatusResponse
+13	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+14	sub_381A0E40
+15	sub_381A3030

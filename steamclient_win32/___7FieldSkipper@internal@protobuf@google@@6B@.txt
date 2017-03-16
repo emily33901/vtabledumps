@@ -1,0 +1,7 @@
+// ___7FieldSkipper@internal@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x388801E0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38485400
+1	sub_38451D40
+2	sub_38451EA0
+3	nullsub_3

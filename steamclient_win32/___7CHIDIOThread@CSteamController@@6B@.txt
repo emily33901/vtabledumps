@@ -1,0 +1,19 @@
+// ___7CHIDIOThread@CSteamController@@6B@
+// Auto reconstructed from vtable block @ 0x3881892C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38208210
+1	sub_38210CE0
+2	sub_3820F120
+3	sub_3820FE50
+4	sub_3820FFC0
+5	sub_38208DC0
+6	sub_38217A50
+7	sub_38217C40
+8	sub_38219130
+9	sub_38219450
+10	sub_38217EC0
+11	sub_38218EB0
+12	sub_382196C0
+13	sub_38210410
+14	sub_38219EF0
+15	const CSteamController::CHIDIOThread::`RTTI Complete Object Locator'{for `CThread'}

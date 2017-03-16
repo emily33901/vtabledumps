@@ -1,0 +1,9 @@
+// ___7CWriteFeatureReportWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x388195B0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	sub_382161A0
+2	nullsub_1
+3	sub_38285B60
+4	nullsub_3
+5	const CGenericWorkItem::`RTTI Complete Object Locator'

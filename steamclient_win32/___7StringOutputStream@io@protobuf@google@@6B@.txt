@@ -1,0 +1,9 @@
+// ___7StringOutputStream@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x38881E30
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38475A50
+1	sub_38475F60
+2	sub_38475DB0
+3	sub_38475EF0
+4	sub_38486B90
+5	Steam_GSSendUserStatusResponse

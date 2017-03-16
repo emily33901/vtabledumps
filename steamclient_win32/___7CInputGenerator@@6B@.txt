@@ -1,0 +1,27 @@
+// ___7CInputGenerator@@6B@
+// Auto reconstructed from vtable block @ 0x38830858
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A6700
+1	sub_382A6B60
+2	sub_382A6A70
+3	sub_382A6CE0
+4	sub_382A6BD0
+5	sub_382A6A10
+6	sub_382A6A40
+7	sub_382A6EA0
+8	sub_382A7130
+9	sub_382990B0
+10	sub_382A6940
+11	sub_382A6730
+12	sub_382A6DD0
+13	sub_382A6DA0
+14	sub_382A71C0
+15	sub_382A7150
+16	sub_382A69B0
+17	nullsub_2
+18	nullsub_2
+19	sub_3815BBA0
+20	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+21	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+22	sub_382A7110
+23	sub_382A69E0

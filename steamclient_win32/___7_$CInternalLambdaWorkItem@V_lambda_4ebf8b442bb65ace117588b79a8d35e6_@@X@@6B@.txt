@@ -1,0 +1,10 @@
+// ___7_$CInternalLambdaWorkItem@V_lambda_4ebf8b442bb65ace117588b79a8d35e6_@@X@@6B@
+// Auto reconstructed from vtable block @ 0x387CE838
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_38202A30
+3	sub_38202A30
+4	sub_381CEED0
+5	sub_385B9770
+6	nullsub_3

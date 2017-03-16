@@ -1,0 +1,4 @@
+// ___7CStateMonitorWithHysteresis@@6B@
+// Auto reconstructed from vtable block @ 0x3881AC1C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3821C770

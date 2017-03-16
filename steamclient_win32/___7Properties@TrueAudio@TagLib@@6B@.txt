@@ -1,0 +1,9 @@
+// ___7Properties@TrueAudio@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E0C58
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3869E850
+1	sub_3869D6D0
+2	sub_38693040
+3	sub_386855E0
+4	sub_38692ED0
+5	const TagLib::RIFF::File::`RTTI Complete Object Locator'

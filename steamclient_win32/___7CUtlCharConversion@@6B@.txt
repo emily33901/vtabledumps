@@ -1,0 +1,4 @@
+// ___7CUtlCharConversion@@6B@
+// Auto reconstructed from vtable block @ 0x38891F88
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385359E0

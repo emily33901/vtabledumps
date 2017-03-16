@@ -1,0 +1,14 @@
+// ___7_$codecvt@GDH@std@@6B@
+// Auto reconstructed from vtable block @ 0x388DD1C4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3866A0A0
+1	sub_38484B10
+2	sub_384849B0
+3	Steam_GSSendUserStatusResponse
+4	__RTC_NumErrors_0
+5	sub_38075800
+6	sub_3866B200
+7	sub_3866B5A0
+8	sub_3866B840
+9	sub_3866B4A0
+10	const TagLib::String::`RTTI Complete Object Locator'

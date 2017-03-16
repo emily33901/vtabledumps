@@ -1,0 +1,10 @@
+// ___7IMixerControls@@6B@
+// Auto reconstructed from vtable block @ 0x387C3FFC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38099380
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_386AE988
+5	sub_386AE988
+6	const CMixerControls::`RTTI Complete Object Locator'

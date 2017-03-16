@@ -1,0 +1,24 @@
+// ___7IClientInstallUtilsMap@@6B@
+// Auto reconstructed from vtable block @ 0x3884C710
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837BCA0
+1	sub_38379510
+2	sub_3837B9C0
+3	sub_383796D0
+4	sub_3837B730
+5	sub_38379430
+6	sub_3837B900
+7	sub_383797B0
+8	sub_3837B810
+9	sub_3837AE70
+10	sub_3837AA10
+11	sub_3837AF30
+12	sub_383798A0
+13	sub_3837BA80
+14	sub_38379600
+15	sub_3837B670
+16	sub_3837B520
+17	sub_38379360
+18	sub_3837BB50
+19	sub_3837B120
+20	sub_3837AAD0

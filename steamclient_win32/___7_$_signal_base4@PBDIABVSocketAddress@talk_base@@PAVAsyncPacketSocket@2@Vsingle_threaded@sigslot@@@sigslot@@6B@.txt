@@ -1,0 +1,9 @@
+// ___7_$_signal_base4@PBDIABVSocketAddress@talk_base@@PAVAsyncPacketSocket@2@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x38900630
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38707CC0
+1	nullsub_1
+2	nullsub_1
+3	sub_386F7030
+4	sub_386F70D0
+5	const sigslot::signal4<char const near *,unsigned int,class talk_base::SocketAddress const near &,class talk_base::AsyncPacketSocket near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

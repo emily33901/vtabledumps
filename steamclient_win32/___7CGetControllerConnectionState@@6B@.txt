@@ -1,0 +1,8 @@
+// ___7CGetControllerConnectionState@@6B@
+// Auto reconstructed from vtable block @ 0x388198F8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	sub_38215B70
+2	sub_3820D940
+3	sub_38285B60
+4	nullsub_3

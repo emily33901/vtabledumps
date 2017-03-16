@@ -1,0 +1,5 @@
+// ___7bad_function_call@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E4C64
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_79
+1	sub_386A7AD8

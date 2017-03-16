@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgStopFind@@@@6B@
+// Auto reconstructed from vtable block @ 0x3883040C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A1540
+1	const CHTMLProtoBufMsg<class CMsgLinkAtPosition>::`RTTI Complete Object Locator'

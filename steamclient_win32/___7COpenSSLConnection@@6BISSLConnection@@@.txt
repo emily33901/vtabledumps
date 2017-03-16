@@ -1,0 +1,12 @@
+// ___7COpenSSLConnection@@6BISSLConnection@@@
+// Auto reconstructed from vtable block @ 0x388C94A0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386479E0
+1	sub_38647D60
+2	sub_38645950
+3	sub_386473B0
+4	sub_38644FF0
+5	sub_38645130
+6	sub_38645880
+7	sub_38647DA0
+8	sub_38646680

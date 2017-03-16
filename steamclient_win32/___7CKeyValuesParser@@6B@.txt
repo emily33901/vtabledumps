@@ -1,0 +1,9 @@
+// ___7CKeyValuesParser@@6B@
+// Auto reconstructed from vtable block @ 0x38848A40
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38363D30
+1	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+2	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+3	sub_382600A0
+4	sub_38364220
+5	const CRegistryDefault::`RTTI Complete Object Locator'

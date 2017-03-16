@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCSNetSocket@@@@6B@
+// Auto reconstructed from vtable block @ 0x38807D38
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D1940
+1	sub_3817AA90
+2	sub_38548480
+3	const CSNetSocket::`RTTI Complete Object Locator'

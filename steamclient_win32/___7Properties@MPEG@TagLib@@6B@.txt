@@ -1,0 +1,8 @@
+// ___7Properties@MPEG@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DF578
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38690A10
+1	sub_38680970
+2	sub_3869E490
+3	sub_3869D6D0
+4	sub_38693040

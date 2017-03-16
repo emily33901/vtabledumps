@@ -1,0 +1,5 @@
+// ___7CAdapterSteamAppTicket001@@6B@
+// Auto reconstructed from vtable block @ 0x38835974
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B2820
+1	const CAdapterSteamHTTP002::`RTTI Complete Object Locator'

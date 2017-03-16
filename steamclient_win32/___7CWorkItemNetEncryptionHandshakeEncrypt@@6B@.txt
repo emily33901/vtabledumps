@@ -1,0 +1,10 @@
+// ___7CWorkItemNetEncryptionHandshakeEncrypt@@6B@
+// Auto reconstructed from vtable block @ 0x388DC630
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_38666000
+3	sub_38665FC0
+4	sub_38666A80
+5	sub_38665E70
+6	nullsub_3

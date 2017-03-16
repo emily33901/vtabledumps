@@ -1,0 +1,12 @@
+// ___7CParentalSettings@@6B@
+// Auto reconstructed from vtable block @ 0x38845064
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3834FFB0
+1	sub_3834FFE0
+2	sub_3834FEF0
+3	sub_3834FF20
+4	sub_3834FF50
+5	sub_3834FF80
+6	sub_3834FEC0
+7	sub_3834FE90
+8	sub_3834FE60

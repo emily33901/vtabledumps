@@ -1,0 +1,7 @@
+// ___7single_threaded@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x3888980C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384CBE20
+1	nullsub_1
+2	nullsub_1
+3	const sigslot::has_slots<class sigslot::single_threaded>::`RTTI Complete Object Locator'

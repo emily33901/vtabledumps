@@ -1,0 +1,12 @@
+// ___7Signaler@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x38900604
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38075800
+1	sub_38707190
+2	sub_387070C0
+3	sub_38342180
+4	sub_386E9490
+5	Steam_GSSendUserStatusResponse
+6	sub_387074A0
+7	sub_38706630
+8	const talk_base::TypedMessageData<int>::`RTTI Complete Object Locator'

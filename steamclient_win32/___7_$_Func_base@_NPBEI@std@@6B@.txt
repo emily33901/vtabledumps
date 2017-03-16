@@ -1,0 +1,11 @@
+// ___7_$_Func_base@_NPBEI@std@@6B@
+// Auto reconstructed from vtable block @ 0x38814584
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_386AE988
+5	sub_38200580
+6	sub_386AE988
+7	const CInternalLambdaWorkItem<class std::_Bind<1,void,void (cdecl *const)(class CContentUpdateContext near *,class CManifestFileMapping const near *,class CUnbufferedFileProcessor near *,enum  EFileIOError near *,class CUtlVector<class CManifestChunkData const near *,class CUtlMemory<class CManifestChunkData const near *>> near *),class CContentUpdateContext near * const,class CManifestFileMapping const near * near &,class CUnbufferedFileProcessor near * near &,enum  EFileIOError near * near &,class CUtlVector<class CManifestChunkData const near *,class CUtlMemory<class CManifestChunkData const near *>> near * near &>,void>::`RTTI Complete Object Locator'

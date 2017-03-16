@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgBrowserCreate@@@@6B@
+// Auto reconstructed from vtable block @ 0x3883033C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A08C0
+1	const CHTMLProtoBufMsg<class CMsgBrowserRemove>::`RTTI Complete Object Locator'

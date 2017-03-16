@@ -1,0 +1,23 @@
+// ___7CMsgClientIsLimitedAccount@@6B@
+// Auto reconstructed from vtable block @ 0x388A4430
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38562A90
+1	sub_3844EEB0
+2	sub_3859A640
+3	sub_38116760
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3858C6A0
+8	sub_38567CB0
+9	sub_3859E4F0
+10	sub_385A4960
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3857A410
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38571870
+19	const CMsgClientRequestFriendData::`RTTI Complete Object Locator'

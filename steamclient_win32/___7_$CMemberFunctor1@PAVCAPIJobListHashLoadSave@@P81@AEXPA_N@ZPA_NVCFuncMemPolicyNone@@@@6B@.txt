@@ -1,0 +1,7 @@
+// ___7_$CMemberFunctor1@PAVCAPIJobListHashLoadSave@@P81@AEXPA_N@ZPA_NVCFuncMemPolicyNone@@@@6B@
+// Auto reconstructed from vtable block @ 0x3882A684
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C2750
+1	sub_381C86E0
+2	sub_38276B50
+3	const CMemberFunctor1<class CAPIJobListHashLoadSave near *,void (thiscall CAPIJobListHashLoadSave::*)(bool near *),bool near *,class CFuncMemPolicyNone>::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

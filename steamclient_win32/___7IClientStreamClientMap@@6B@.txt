@@ -1,0 +1,13 @@
+// ___7IClientStreamClientMap@@6B@
+// Auto reconstructed from vtable block @ 0x38840774
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38320EF0
+1	sub_382CE8C0
+2	sub_382CE990
+3	sub_382CE630
+4	sub_3832A3D0
+5	sub_382D98A0
+6	sub_382EA560
+7	sub_383373F0
+8	sub_38326970
+9	sub_382CE560

@@ -1,0 +1,6 @@
+// ___7_$CInternalCallback@VCGameServer@@USteamServersConnected_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38828684
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383615A0
+1	sub_383491F0
+2	const CInternalCallback<class CGameServer,struct SteamServersDisconnected_t>::`RTTI Complete Object Locator'

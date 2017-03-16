@@ -1,0 +1,4 @@
+// ___7ExtendedHeader@ID3v2@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E013C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38695290

@@ -1,0 +1,4 @@
+// ___7Page@Ogg@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E142C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386A66D0

@@ -1,0 +1,11 @@
+// ___7UrlLinkFrame@ID3v2@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E01D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38696970
+1	unknown_libname_77
+2	sub_38696E50
+3	sub_38696A00
+4	sub_38696CB0
+5	sub_38696F50
+6	sub_38699750
+7	const TagLib::ID3v2::UserUrlLinkFrame::`RTTI Complete Object Locator'

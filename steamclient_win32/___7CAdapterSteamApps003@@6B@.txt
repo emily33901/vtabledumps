@@ -1,0 +1,12 @@
+// ___7CAdapterSteamApps003@@6B@
+// Auto reconstructed from vtable block @ 0x38834754
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382ADA40
+1	sub_382AD980
+2	sub_382AD930
+3	sub_382ADB40
+4	sub_382B2CE0
+5	sub_382B2840
+6	sub_382ADA60
+7	sub_382AD940
+8	const CAdapterSteamApps004::`RTTI Complete Object Locator'

@@ -1,0 +1,21 @@
+// ___7CAdapterSteamUserStats002@@6B@
+// Auto reconstructed from vtable block @ 0x388340CC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B4170
+1	sub_382B47B0
+2	sub_382B47D0
+3	sub_382B4100
+4	sub_382B22F0
+5	sub_382B5AA0
+6	sub_382B4730
+7	sub_382B4710
+8	sub_382B6790
+9	sub_382B6770
+10	sub_382B7180
+11	sub_382B21A0
+12	sub_382B60B0
+13	sub_382ADD90
+14	sub_382B5330
+15	sub_382B22A0
+16	sub_382B2250
+17	sub_382B4C70

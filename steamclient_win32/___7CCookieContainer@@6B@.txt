@@ -1,0 +1,5 @@
+// ___7CCookieContainer@@6B@
+// Auto reconstructed from vtable block @ 0x388C4A6C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3862FFC0
+1	sub_38285B60

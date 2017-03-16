@@ -1,0 +1,5 @@
+// ___7HttpAuthContext@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x389006E8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38708130
+1	const talk_base::NegotiateAuthContext::`RTTI Complete Object Locator'

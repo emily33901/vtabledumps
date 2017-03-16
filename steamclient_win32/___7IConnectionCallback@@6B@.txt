@@ -1,0 +1,11 @@
+// ___7IConnectionCallback@@6B@
+// Auto reconstructed from vtable block @ 0x387F6E9C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_386AE988
+5	sub_386AE988
+6	nullsub_6
+7	nullsub_3

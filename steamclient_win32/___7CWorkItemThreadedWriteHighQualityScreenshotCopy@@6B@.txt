@@ -1,0 +1,10 @@
+// ___7CWorkItemThreadedWriteHighQualityScreenshotCopy@@6B@
+// Auto reconstructed from vtable block @ 0x3885E458
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383DB920
+1	sub_38285B60
+2	sub_383DF160
+3	sub_383DF130
+4	sub_383E1960
+5	sub_385B9770
+6	nullsub_3

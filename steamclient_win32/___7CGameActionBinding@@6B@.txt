@@ -1,0 +1,15 @@
+// ___7CGameActionBinding@@6B@
+// Auto reconstructed from vtable block @ 0x3881CF34
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38220640
+1	sub_3822D660
+2	sub_38431730
+3	sub_38228830
+4	sub_3822C980
+5	sub_38229E40
+6	sub_3822DBB0
+7	sub_3822DA80
+8	sub_382278E0
+9	sub_3822D7B0
+10	sub_38228980
+11	sub_3822E210

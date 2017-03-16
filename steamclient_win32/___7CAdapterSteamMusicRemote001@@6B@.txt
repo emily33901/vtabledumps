@@ -1,0 +1,36 @@
+// ___7CAdapterSteamMusicRemote001@@6B@
+// Auto reconstructed from vtable block @ 0x388355C0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B5860
+1	sub_382B08E0
+2	sub_382AD910
+3	sub_382AD7C0
+4	sub_382B6230
+5	sub_382B6550
+6	sub_382B09F0
+7	sub_382B09D0
+8	sub_382B0A50
+9	sub_382B09B0
+10	sub_382B0A30
+11	sub_382B0A10
+12	sub_382B72F0
+13	sub_382B7480
+14	sub_382B72D0
+15	sub_382B74E0
+16	sub_382B0810
+17	sub_382B07F0
+18	sub_382B7270
+19	sub_382B7250
+20	sub_382B7230
+21	sub_382B07D0
+22	sub_382B5810
+23	sub_382B5DD0
+24	sub_382B6600
+25	sub_382B6210
+26	sub_382B57F0
+27	sub_382B5640
+28	sub_382B5DB0
+29	sub_382B65E0
+30	sub_382B61F0
+31	sub_382B5620
+32	const CAdapterSteamNetworking001::`RTTI Complete Object Locator'

@@ -1,0 +1,23 @@
+// ___7CMsgJSValue_JSObjectProperty@@6B@
+// Auto reconstructed from vtable block @ 0x3882D4B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827F140
+1	sub_3844EEB0
+2	sub_38294D70
+3	sub_38282A70
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38290A60
+8	sub_38280F90
+9	sub_38296490
+10	sub_38297EF0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38289900
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38284300
+19	const CMsgJSValue::`RTTI Complete Object Locator'

@@ -1,0 +1,7 @@
+// ___7_Locimp@locale@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E59BC
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_80
+1	sub_38484B10
+2	sub_384849B0
+3	const std::num_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char>>>::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7_$CScheduleCallbackWorkItem@UControllerDongleUpdateStatus_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38819D90
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	nullsub_2
+2	sub_3820D600
+3	sub_38285B60
+4	nullsub_3

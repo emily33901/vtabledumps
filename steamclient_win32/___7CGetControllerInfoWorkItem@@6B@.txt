@@ -1,0 +1,8 @@
+// ___7CGetControllerInfoWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x38819810
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	sub_38215C50
+2	sub_3820D960
+3	sub_38285B60
+4	nullsub_3

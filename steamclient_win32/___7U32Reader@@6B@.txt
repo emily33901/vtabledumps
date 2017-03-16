@@ -1,0 +1,7 @@
+// ___7U32Reader@@6B@
+// Auto reconstructed from vtable block @ 0x388DEF9C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386897E0
+1	sub_3868A3F0
+2	__RTC_NumErrors_1
+3	const TagLib::List<class Reader near *>::`RTTI Complete Object Locator'

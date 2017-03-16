@@ -1,0 +1,5 @@
+// ___7configset_t@CSteamController@@6B@
+// Auto reconstructed from vtable block @ 0x38818988
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3821A610
+1	const CSteamController::`RTTI Complete Object Locator'

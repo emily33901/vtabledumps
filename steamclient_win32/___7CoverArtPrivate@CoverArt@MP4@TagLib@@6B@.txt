@@ -1,0 +1,5 @@
+// ___7CoverArtPrivate@CoverArt@MP4@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DD5F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3866FA30
+1	const TagLib::MP4::Item::ItemPrivate::`RTTI Complete Object Locator'

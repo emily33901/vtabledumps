@@ -1,0 +1,5 @@
+// ___7_$CClientMsg@UMsgClientRecoverAuthenticatorRequest_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x388517F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420
+1	const CClientMsg<struct MsgClientRecoverAuthenticatorResponse_t>::`RTTI Complete Object Locator'

@@ -1,0 +1,10 @@
+// ___7CWorkItemNetFilterOnDisconnect@@6B@
+// Auto reconstructed from vtable block @ 0x388DC780
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_38666030
+3	sub_38665FF0
+4	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+5	sub_38665F60
+6	nullsub_3

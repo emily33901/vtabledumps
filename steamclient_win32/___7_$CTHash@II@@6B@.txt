@@ -1,0 +1,4 @@
+// ___7_$CTHash@II@@6B@
+// Auto reconstructed from vtable block @ 0x388CBA20
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864FD90

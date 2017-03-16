@@ -1,0 +1,10 @@
+// ___7_$CModeSetting@_N@@6B@
+// Auto reconstructed from vtable block @ 0x3881AC30
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3821D3B0
+1	sub_3821E440
+2	sub_3821E150
+3	sub_3821E120
+4	sub_3821E010
+5	sub_3821DCD0
+6	sub_3821DD20

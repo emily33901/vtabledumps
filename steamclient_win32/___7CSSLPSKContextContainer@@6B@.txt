@@ -1,0 +1,7 @@
+// ___7CSSLPSKContextContainer@@6B@
+// Auto reconstructed from vtable block @ 0x38847440
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3835D8D0
+1	sub_382B4220
+2	sub_3835A0F0
+3	const CInternalCallback<class CRemoteClientManager,struct NetworkDeviceStateChange_t>::`RTTI Complete Object Locator'

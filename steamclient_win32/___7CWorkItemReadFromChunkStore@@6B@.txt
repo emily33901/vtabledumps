@@ -1,0 +1,10 @@
+// ___7CWorkItemReadFromChunkStore@@6B@
+// Auto reconstructed from vtable block @ 0x38825734
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38267EB0
+1	sub_38285B60
+2	sub_3826A1A0
+3	sub_3826A180
+4	sub_3826B250
+5	sub_38269760
+6	nullsub_3

@@ -1,0 +1,14 @@
+// ___7IClientBluetoothManagerMap@@6B@
+// Auto reconstructed from vtable block @ 0x3884209C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3832E940
+1	sub_382CC200
+2	sub_382D7EF0
+3	sub_382D7BD0
+4	sub_3831EB00
+5	sub_3831F7E0
+6	sub_38322DF0
+7	sub_3833A1F0
+8	sub_382C7830
+9	sub_382CA880
+10	sub_3831E4C0

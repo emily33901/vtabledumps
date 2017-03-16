@@ -1,0 +1,5 @@
+// ___7DynamicMessageFactory@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x3888212C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38478F40
+1	sub_38479370

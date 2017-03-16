@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgSearchResults@@@@6B@
+// Auto reconstructed from vtable block @ 0x3883029C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A1200
+1	const CHTMLProtoBufMsg<class CMsgCanGoBackAndForward>::`RTTI Complete Object Locator'

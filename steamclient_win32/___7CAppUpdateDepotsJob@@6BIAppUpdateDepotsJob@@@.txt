@@ -1,0 +1,13 @@
+// ___7CAppUpdateDepotsJob@@6BIAppUpdateDepotsJob@@@
+// Auto reconstructed from vtable block @ 0x38806E30
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381CCF50
+1	sub_381CCF90
+2	sub_381CE060
+3	sub_381CDDA0
+4	sub_381CCD60
+5	sub_381CE850
+6	sub_381CE010
+7	sub_381CE320
+8	sub_3869E490
+9	const CAppUninstallJob::`RTTI Complete Object Locator'

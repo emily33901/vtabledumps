@@ -1,0 +1,4 @@
+// ___7CMusicQueue@@6B@
+// Auto reconstructed from vtable block @ 0x387CDF74
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C0030

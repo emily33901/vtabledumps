@@ -1,0 +1,23 @@
+// ___7CMsgClientWorkshopItemInfoRequest@@6B@
+// Auto reconstructed from vtable block @ 0x388B6168
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385E1680
+1	sub_3844EEB0
+2	sub_38610FA0
+3	sub_38134600
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3860B600
+8	sub_38131F80
+9	sub_3859CD60
+10	sub_38144340
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_385FC940
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_385EE410
+19	const CMsgClientWorkshopItemInfoResponse_WorkshopItemInfo::`RTTI Complete Object Locator'

@@ -1,0 +1,37 @@
+// ___7CNetworkDeviceManager@@6B@
+// Auto reconstructed from vtable block @ 0x3884353C
+// from "steamclient.dll", by ida_vtables.idc
+0	Steam_GSSendUserStatusResponse
+1	nullsub_1
+2	sub_38347400
+3	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+4	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+5	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+6	sub_38347A30
+7	sub_38347A30
+8	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+9	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+10	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+11	sub_38347A30
+12	sub_38347A30
+13	sub_38347A30
+14	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+15	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+16	sub_38347A30
+17	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+18	sub_38347BA0
+19	sub_38347400
+20	sub_38347400
+21	sub_382ADCE0
+22	sub_38347400
+23	sub_382ADCE0
+24	nullsub_7
+25	sub_38346F10
+26	sub_382ADCE0
+27	nullsub_3
+28	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+29	sub_38347700
+30	sub_38346E70
+31	nullsub_1
+32	sub_383491F0
+33	const CNetworkDeviceManagerWin32::`RTTI Complete Object Locator'

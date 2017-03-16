@@ -1,0 +1,10 @@
+// ___7CRemoteClientBroadcastHandler@@6B@
+// Auto reconstructed from vtable block @ 0x38847664
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D19B0
+1	sub_3835F050
+2	sub_38706FD0
+3	unknown_libname_66
+4	sub_38541630
+5	sub_38183A00
+6	nullsub_3

@@ -1,0 +1,12 @@
+// ___7CRemoteStorageSyncHelpers@@6B@
+// Auto reconstructed from vtable block @ 0x388046B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C4B80
+1	sub_381C4BC0
+2	sub_381C4C30
+3	sub_381C85C0
+4	sub_382ADCE0
+5	nullsub_6
+6	nullsub_6
+7	nullsub_3
+8	const CRemoteStorageSyncHelpers::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

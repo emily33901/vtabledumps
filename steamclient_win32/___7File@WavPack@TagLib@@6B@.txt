@@ -1,0 +1,7 @@
+// ___7File@WavPack@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DEAC8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38684430
+1	sub_38684AF0
+2	sub_38693040
+3	sub_386847F0

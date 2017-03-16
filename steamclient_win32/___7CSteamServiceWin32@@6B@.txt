@@ -1,0 +1,21 @@
+// ___7CSteamServiceWin32@@6B@
+// Auto reconstructed from vtable block @ 0x3884CB64
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837AC10
+1	sub_3837B5F0
+2	sub_3837C390
+3	sub_3837C290
+4	sub_3837C3F0
+5	sub_3837BC40
+6	sub_3837BE60
+7	sub_3837A6A0
+8	sub_3837B020
+9	sub_3837B060
+10	sub_3837B0A0
+11	sub_3837B0E0
+12	sub_3837AE00
+13	sub_3837C0D0
+14	sub_3837A9E0
+15	sub_3837C170
+16	sub_3837C1B0
+17	const CSteamServiceWin32::`RTTI Complete Object Locator'{for `CIPCClient'}

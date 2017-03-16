@@ -1,0 +1,16 @@
+// ___7CGamepadButtonBinding@@6B@
+// Auto reconstructed from vtable block @ 0x3881CE8C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382206F0
+1	sub_3822D6A0
+2	sub_38252630
+3	sub_38228860
+4	sub_3822CAC0
+5	sub_38229E40
+6	sub_3822DBB0
+7	sub_3822DA80
+8	sub_38227920
+9	sub_3822D7B0
+10	sub_38228980
+11	sub_3822E3B0
+12	const CMousewheelBinding::`RTTI Complete Object Locator'

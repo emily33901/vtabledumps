@@ -1,0 +1,5 @@
+// ___7CAdapterSteamStreamLauncher001@@6B@
+// Auto reconstructed from vtable block @ 0x3883692C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382ADF60
+1	public: bool thiscall Concurrency::details::EventWaitNode::Reset(void)

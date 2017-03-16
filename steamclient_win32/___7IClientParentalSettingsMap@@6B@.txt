@@ -1,0 +1,11 @@
+// ___7IClientParentalSettingsMap@@6B@
+// Auto reconstructed from vtable block @ 0x3883F6CC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382C1750
+1	sub_382C18C0
+2	sub_382C01D0
+3	sub_382C0370
+4	sub_382C0E60
+5	sub_382C1000
+6	sub_382BF260
+7	sub_382BEFC0

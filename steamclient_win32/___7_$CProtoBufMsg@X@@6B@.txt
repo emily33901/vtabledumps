@@ -1,0 +1,12 @@
+// ___7_$CProtoBufMsg@X@@6B@
+// Auto reconstructed from vtable block @ 0x3880FA70
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381F1D40
+1	sub_380A83D0
+2	sub_385B8590
+3	public: void thiscall Concurrency::details::_NonReentrantPPLLock::_Acquire(void near *)
+4	sub_380A8430
+5	sub_3854C130
+6	sub_380AA750
+7	sub_380ADCF0
+8	sub_380ADCD0

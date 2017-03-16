@@ -1,0 +1,8 @@
+// ___7_$_connection1@VAsyncSocketAdapter@talk_base@@PAVAsyncSocket@2@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FFC0C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384CD6F0
+1	sub_384CD6D0
+2	sub_386FE240
+3	sub_386FE2A0
+4	const sigslot::_connection2<class talk_base::AsyncSocketAdapter,class talk_base::AsyncSocket near *,int,class sigslot::single_threaded>::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7CFileWriter@@6B@
+// Auto reconstructed from vtable block @ 0x38894DE0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3853C2A0

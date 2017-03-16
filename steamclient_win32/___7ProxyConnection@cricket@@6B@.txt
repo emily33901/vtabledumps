@@ -1,0 +1,9 @@
+// ___7ProxyConnection@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE284
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EBBB0
+1	sub_386EC6B0
+2	sub_386ED8D0
+3	sub_386ECD30
+4	sub_386EC110
+5	const cricket::ProxyConnection::`RTTI Complete Object Locator'{for `sigslot::has_slots<class sigslot::single_threaded>'}

@@ -1,0 +1,9 @@
+// ___7_$codecvt_utf8_utf16@G$0BAPPPP@$0A@@std@@6B@
+// Auto reconstructed from vtable block @ 0x388DD1F8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3866A0A0
+1	sub_38484B10
+2	sub_384849B0
+3	Steam_GSSendUserStatusResponse
+4	sub_38431730
+5	sub_38075800

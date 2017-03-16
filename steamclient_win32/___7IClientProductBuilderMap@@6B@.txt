@@ -1,0 +1,6 @@
+// ___7IClientProductBuilderMap@@6B@
+// Auto reconstructed from vtable block @ 0x3883C710
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383367A0
+1	sub_382C96D0
+2	sub_382C51A0

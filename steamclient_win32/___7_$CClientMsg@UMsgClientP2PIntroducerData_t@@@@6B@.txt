@@ -1,0 +1,4 @@
+// ___7_$CClientMsg@UMsgClientP2PIntroducerData_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x387F69F8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420

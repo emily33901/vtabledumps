@@ -1,0 +1,23 @@
+// ___7CMsgClientDeauthorizeDevice@@6B@
+// Auto reconstructed from vtable block @ 0x388B8DC8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385DF4B0
+1	sub_3844EEB0
+2	sub_3860EFD0
+3	sub_385E8A20
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38601D20
+8	sub_385E2F70
+9	sub_38612240
+10	sub_38616680
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_385F2040
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_385EB4D0
+19	const CMsgClientUseLocalDeviceAuthorizations_DeviceToken::`RTTI Complete Object Locator'

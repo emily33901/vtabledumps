@@ -1,0 +1,7 @@
+// ___7_CSteamMatchmakingServerListResponse_v001_Adapter@CSteamMatchMaking@@6B@
+// Auto reconstructed from vtable block @ 0x387C4FDC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3809FD80
+1	sub_3809FD30
+2	sub_3809F3E0
+3	const CSteamMatchMaking::CServerPing::`RTTI Complete Object Locator'

@@ -1,0 +1,10 @@
+// ___7CJoystickSource@@6B@
+// Auto reconstructed from vtable block @ 0x38820234
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38248300
+1	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+2	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+3	sub_382485F0
+4	nullsub_6
+5	sub_382493A0
+6	sub_3824A870

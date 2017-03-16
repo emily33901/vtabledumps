@@ -1,0 +1,9 @@
+// ___7_$CSimpleLambdaThread@V_$_Bind@$00XU_$_Pmf_wrap@P8COfflineMessageCache@@AEXII@ZXV1@II@std@@QAVCOfflineMessageCache@@AAIAAI@std@@@@6B@
+// Auto reconstructed from vtable block @ 0x38843E54
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38349FF0
+1	protected: virtual bool thiscall CThread::Init(void)
+2	sub_3834AFD0
+3	protected: virtual void thiscall CThread::OnExit(void)
+4	protected: virtual bool thiscall CThread::IsThreadRunning(void)const
+5	private: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)

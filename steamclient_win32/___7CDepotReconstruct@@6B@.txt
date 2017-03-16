@@ -1,0 +1,8 @@
+// ___7CDepotReconstruct@@6B@
+// Auto reconstructed from vtable block @ 0x388254B0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3826A9C0
+1	sub_3826AC00
+2	sub_3826A0D0
+3	sub_382B4B90
+4	sub_382B2BB0

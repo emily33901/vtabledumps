@@ -1,0 +1,10 @@
+// ___7CSteamUserV009@@6B@
+// Auto reconstructed from vtable block @ 0x3883213C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B41D0
+1	sub_382ADB70
+2	sub_382B4810
+3	sub_382B4E40
+4	sub_382B6E50
+5	sub_382B6E60
+6	sub_382B5850

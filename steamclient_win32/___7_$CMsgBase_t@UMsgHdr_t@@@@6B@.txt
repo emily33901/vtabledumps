@@ -1,0 +1,5 @@
+// ___7_$CMsgBase_t@UMsgHdr_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x3889BE28
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665650
+1	const CJob::`RTTI Complete Object Locator'

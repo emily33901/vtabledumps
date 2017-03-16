@@ -1,0 +1,10 @@
+// ___7CWebSocketConnectionDelayedCloseConnectionWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x388CBE98
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_3864F750
+3	sub_3864F740
+4	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+5	sub_3864F3E0
+6	nullsub_3

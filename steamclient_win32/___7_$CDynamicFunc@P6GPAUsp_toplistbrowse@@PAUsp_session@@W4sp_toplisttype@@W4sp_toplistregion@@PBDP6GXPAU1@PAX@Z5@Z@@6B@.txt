@@ -1,0 +1,5 @@
+// ___7_$CDynamicFunc@P6GPAUsp_toplistbrowse@@PAUsp_session@@W4sp_toplisttype@@W4sp_toplistregion@@PBDP6GXPAU1@PAX@Z5@Z@@6B@
+// Auto reconstructed from vtable block @ 0x387D100C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C5570
+1	sub_380C5960

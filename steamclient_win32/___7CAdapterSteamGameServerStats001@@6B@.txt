@@ -1,0 +1,13 @@
+// ___7CAdapterSteamGameServerStats001@@6B@
+// Auto reconstructed from vtable block @ 0x3883588C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B5D20
+1	sub_382B4A90
+2	sub_382B4A50
+3	sub_382B4910
+4	sub_382B6960
+5	sub_382B6920
+6	sub_382B74A0
+7	sub_382B6880
+8	sub_382ADDD0
+9	sub_382B6D00

@@ -1,0 +1,7 @@
+// ___7IUDPSocketCallback@@6B@
+// Auto reconstructed from vtable block @ 0x3882849C
+// from "steamclient.dll", by ida_vtables.idc
+0	nullsub_1
+1	sub_386AE988
+2	sub_386AE988
+3	const IClientGameServer::`RTTI Complete Object Locator'

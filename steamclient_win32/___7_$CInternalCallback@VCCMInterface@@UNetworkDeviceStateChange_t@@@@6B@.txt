@@ -1,0 +1,6 @@
+// ___7_$CInternalCallback@VCCMInterface@@UNetworkDeviceStateChange_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x3880FBE4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383D6D40
+1	sub_383491F0
+2	const CInternalCallback<class CCMInterface,struct AppConfigInitialized_t>::`RTTI Complete Object Locator'

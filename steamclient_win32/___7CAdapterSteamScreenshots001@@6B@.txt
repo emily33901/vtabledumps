@@ -1,0 +1,9 @@
+// ___7CAdapterSteamScreenshots001@@6B@
+// Auto reconstructed from vtable block @ 0x38835528
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B77D0
+1	sub_382AD640
+2	sub_382B6F80
+3	sub_382B4C60
+4	sub_382B4780
+5	sub_382B6E20

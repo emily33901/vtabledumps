@@ -1,0 +1,17 @@
+// ___7CSteamControllerAbstraction@@6B@
+// Auto reconstructed from vtable block @ 0x388204DC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824ADD0
+1	sub_3824DA50
+2	sub_3824DBB0
+3	sub_3824D2B0
+4	sub_3824BA90
+5	sub_3824B520
+6	sub_3824D060
+7	sub_3824BDA0
+8	sub_3824BD60
+9	sub_3824D820
+10	sub_3824D950
+11	sub_3824DAB0
+12	sub_3824D560
+13	sub_3835D8D0

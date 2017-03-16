@@ -1,0 +1,8 @@
+// ___7CContentUpdateContext@@6B@
+// Auto reconstructed from vtable block @ 0x3881380C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38202B30
+1	sub_38202B70
+2	sub_382B2BF0
+3	sub_382B58E0
+4	sub_382AD770

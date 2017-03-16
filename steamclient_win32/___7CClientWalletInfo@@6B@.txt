@@ -1,0 +1,6 @@
+// ___7CClientWalletInfo@@6B@
+// Auto reconstructed from vtable block @ 0x388C4C80
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38631A10
+1	sub_38631A50
+2	sub_38631A70

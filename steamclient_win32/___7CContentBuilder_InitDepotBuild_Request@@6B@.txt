@@ -1,0 +1,23 @@
+// ___7CContentBuilder_InitDepotBuild_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387D9510
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380E99A0
+1	sub_3844EEB0
+2	sub_380ECB20
+3	sub_380EA220
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380EC050
+8	sub_380E9E90
+9	sub_380ECE60
+10	sub_380ED390
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380EB330
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380EA630
+19	const CContentBuilder_InitDepotBuild_Response::`RTTI Complete Object Locator'

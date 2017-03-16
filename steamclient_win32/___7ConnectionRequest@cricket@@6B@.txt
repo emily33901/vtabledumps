@@ -1,0 +1,10 @@
+// ___7ConnectionRequest@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE454
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EBB20
+1	sub_387006C0
+2	sub_386ECB70
+3	sub_386ECA70
+4	sub_386EC650
+5	nullsub_1
+6	sub_386EC120

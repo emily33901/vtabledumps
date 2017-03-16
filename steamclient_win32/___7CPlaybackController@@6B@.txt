@@ -1,0 +1,5 @@
+// ___7CPlaybackController@@6B@
+// Auto reconstructed from vtable block @ 0x387CE40C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C2D30
+1	const CSaveMusicQueueAsyncJob::`RTTI Complete Object Locator'

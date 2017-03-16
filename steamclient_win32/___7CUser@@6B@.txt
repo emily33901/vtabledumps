@@ -1,0 +1,47 @@
+// ___7CUser@@6B@
+// Auto reconstructed from vtable block @ 0x3884F868
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3838ED30
+1	sub_3839B2D0
+2	sub_383A5680
+3	sub_38187F40
+4	sub_38187F70
+5	sub_383A82F0
+6	sub_3839EF60
+7	sub_38271740
+8	sub_38187F50
+9	sub_38187250
+10	sub_38392510
+11	sub_38187F30
+12	sub_381896D0
+13	sub_383A4550
+14	sub_383A55E0
+15	sub_38274840
+16	sub_383A2A30
+17	sub_383A6F10
+18	sub_381897F0
+19	sub_381897E0
+20	sub_38189800
+21	sub_38189520
+22	sub_38275A30
+23	sub_383A7210
+24	sub_381885F0
+25	sub_3839AE30
+26	sub_383986D0
+27	sub_383986C0
+28	sub_383966F0
+29	sub_383A4660
+30	sub_383A4640
+31	sub_38398680
+32	sub_383A4630
+33	sub_38398670
+34	sub_383986A0
+35	sub_38187F60
+36	sub_386E3260
+37	sub_38075800
+38	sub_38075800
+39	sub_383A2E90
+40	sub_383A8380
+41	sub_3839FEE0
+42	sub_383A1D70
+43	const CUser::`RTTI Complete Object Locator'{for `IClientUser'}

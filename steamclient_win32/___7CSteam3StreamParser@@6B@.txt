@@ -1,0 +1,6 @@
+// ___7CSteam3StreamParser@@6B@
+// Auto reconstructed from vtable block @ 0x388C60D4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38638CF0
+1	sub_38638CA0
+2	const CTHash<class CTCPConnection near *,unsigned int>::`RTTI Complete Object Locator'

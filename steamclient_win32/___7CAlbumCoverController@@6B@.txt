@@ -1,0 +1,5 @@
+// ___7CAlbumCoverController@@6B@
+// Auto reconstructed from vtable block @ 0x387C8B60
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380AF850
+1	const CLoadAlbumCoverAsyncJob::`RTTI Complete Object Locator'

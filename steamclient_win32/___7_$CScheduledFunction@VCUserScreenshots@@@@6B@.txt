@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCUserScreenshots@@@@6B@
+// Auto reconstructed from vtable block @ 0x3885E2B8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383DB7C0
+1	sub_3817AA90
+2	sub_38548480
+3	const CUserScreenshots::`RTTI Complete Object Locator'

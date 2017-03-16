@@ -1,0 +1,22 @@
+// ___7CBroadcast_BroadcastStatus_Notification@@6B@
+// Auto reconstructed from vtable block @ 0x387D2A98
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C7CB0
+1	sub_3844EEB0
+2	sub_380CF160
+3	sub_3856DFA0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38598C20
+8	sub_385E23A0
+9	sub_38611AC0
+10	sub_385A9620
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380CA520
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380C94E0

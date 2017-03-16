@@ -1,0 +1,8 @@
+// ___7CClientUnifiedMessages@@6B@
+// Auto reconstructed from vtable block @ 0x3880DB2C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381E96D0
+1	sub_381E9420
+2	sub_381E92F0
+3	sub_381E95E0
+4	sub_381E99A0

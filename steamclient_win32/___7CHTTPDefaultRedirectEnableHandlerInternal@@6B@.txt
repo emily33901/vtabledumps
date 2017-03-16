@@ -1,0 +1,8 @@
+// ___7CHTTPDefaultRedirectEnableHandlerInternal@@6B@
+// Auto reconstructed from vtable block @ 0x388B2530
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385CA9E0
+1	nullsub_3
+2	sub_385C9BB0
+3	sub_385D3870
+4	const CHTTPDefaultRedirectEnableHandlerInternal::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

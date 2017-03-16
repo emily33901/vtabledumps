@@ -1,0 +1,4 @@
+// ___7AttributePrivate@Attribute@ASF@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E030C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38697BE0

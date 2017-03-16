@@ -1,0 +1,9 @@
+// ___7ISyncObject@IPC@@6B@
+// Auto reconstructed from vtable block @ 0x38842970
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	sub_386AE988
+2	sub_38341EF0
+3	sub_38075800
+4	nullsub_3
+5	const IPC::ISharedMem::`RTTI Complete Object Locator'

@@ -1,0 +1,7 @@
+// ___7_$CFrameFunction@VCHTTPClient@@@@6B@
+// Auto reconstructed from vtable block @ 0x388B0E94
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38554E90
+1	sub_38555F00
+2	Steam_GSSendUserStatusResponse
+3	const CHTTPClient::`RTTI Complete Object Locator'

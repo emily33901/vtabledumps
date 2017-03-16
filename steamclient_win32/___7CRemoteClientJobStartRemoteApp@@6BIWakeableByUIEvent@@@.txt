@@ -1,0 +1,6 @@
+// ___7CRemoteClientJobStartRemoteApp@@6BIWakeableByUIEvent@@@
+// Auto reconstructed from vtable block @ 0x388466CC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38358360
+1	sub_38358390
+2	const CRemoteClientJobRequestControllerConfig::`RTTI Complete Object Locator'

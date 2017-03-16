@@ -1,0 +1,7 @@
+// ___7_$CFunctor2@P6AXVCSteamID@@PBV_$CUtlRBTree@_KHP6A_NAB_K0@ZV_$CDefRBTreeBalanceListener@H@@@@@ZV1@PAV2@@@6B@
+// Auto reconstructed from vtable block @ 0x3884D9D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C2750
+1	sub_381C86E0
+2	sub_3837EC30
+3	const CFunctor2<void (cdecl *)(class CSteamID,class CUtlRBTree<unsigned __int64,int,bool (cdecl *)(unsigned __int64 const near &,unsigned __int64 const near &),class CDefRBTreeBalanceListener<int>> const near *),class CSteamID,class CUtlRBTree<unsigned __int64,int,bool (cdecl *)(unsigned __int64 const near &,unsigned __int64 const near &),class CDefRBTreeBalanceListener<int>> near *>::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

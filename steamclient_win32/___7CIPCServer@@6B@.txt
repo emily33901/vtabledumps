@@ -1,0 +1,24 @@
+// ___7CIPCServer@@6B@
+// Auto reconstructed from vtable block @ 0x38842478
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38340700
+1	sub_383401F0
+2	sub_38340120
+3	sub_38340DC0
+4	sub_38340240
+5	sub_38340620
+6	sub_38340690
+7	sub_38340C10
+8	sub_38075800
+9	sub_3833FBE0
+10	sub_38285B60
+11	nullsub_1
+12	sub_383406E0
+13	sub_383407D0
+14	sub_38341030
+15	sub_38340270
+16	sub_38340030
+17	sub_386AE988
+18	sub_383406F0
+19	sub_383412A0
+20	sub_3833FC90

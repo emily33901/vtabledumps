@@ -1,0 +1,10 @@
+// ___7CDownloadDepotDecommpressWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x38823548
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_3825E290
+3	sub_3825E280
+4	sub_3825E5C0
+5	sub_3825E1B0
+6	nullsub_3

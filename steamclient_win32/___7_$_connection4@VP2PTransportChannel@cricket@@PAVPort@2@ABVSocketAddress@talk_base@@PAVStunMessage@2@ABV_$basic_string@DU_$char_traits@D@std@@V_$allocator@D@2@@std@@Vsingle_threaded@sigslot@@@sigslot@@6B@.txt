@@ -1,0 +1,8 @@
+// ___7_$_connection4@VP2PTransportChannel@cricket@@PAVPort@2@ABVSocketAddress@talk_base@@PAVStunMessage@2@ABV_$basic_string@DU_$char_traits@D@std@@V_$allocator@D@2@@std@@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FEAB4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3835D8D0
+1	sub_384CD6D0
+2	sub_386F6DB0
+3	sub_386F6F20
+4	const sigslot::_connection1<class cricket::P2PTransportChannel,class cricket::Port near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

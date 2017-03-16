@@ -1,0 +1,5 @@
+// ___7FatalException@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x3887CEE0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38435EB0
+1	sub_38436760

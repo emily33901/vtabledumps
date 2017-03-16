@@ -1,0 +1,5 @@
+// ___7_$CMsg@UMsgChannelEncryptRequest_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x388DCA5C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665650
+1	const CMsg<struct MsgChannelEncryptResult_t>::`RTTI Complete Object Locator'

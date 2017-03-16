@@ -1,0 +1,11 @@
+// ___7CDummyCnxCallback@@6B@
+// Auto reconstructed from vtable block @ 0x38896A28
+// from "steamclient.dll", by ida_vtables.idc
+0	nullsub_2
+1	nullsub_5
+2	nullsub_3
+3	nullsub_2
+4	sub_382ADCE0
+5	nullsub_6
+6	nullsub_6
+7	nullsub_3

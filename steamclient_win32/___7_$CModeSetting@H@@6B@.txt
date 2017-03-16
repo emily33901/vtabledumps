@@ -1,0 +1,13 @@
+// ___7_$CModeSetting@H@@6B@
+// Auto reconstructed from vtable block @ 0x3881AD70
+// from "steamclient.dll", by ida_vtables.idc
+0	public: unsigned short thiscall Concurrency::details::HardwareAffinity::GetGroup(void)
+1	sub_3821E420
+2	sub_3821E130
+3	sub_3821E0F0
+4	sub_3821E000
+5	sub_3821DCB0
+6	sub_3821DD10
+7	sub_3821E500
+8	sub_3821E540
+9	const CFullPressActivator::`RTTI Complete Object Locator'

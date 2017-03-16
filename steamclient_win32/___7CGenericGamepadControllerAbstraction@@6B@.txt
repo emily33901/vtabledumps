@@ -1,0 +1,17 @@
+// ___7CGenericGamepadControllerAbstraction@@6B@
+// Auto reconstructed from vtable block @ 0x3882068C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824AE10
+1	sub_38285B60
+2	sub_38285B60
+3	sub_3824D220
+4	sub_3824B660
+5	sub_3824B500
+6	sub_3824C590
+7	sub_38075800
+8	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+9	sub_382600A0
+10	sub_380B3670
+11	sub_3824DAA0
+12	sub_3824D4A0
+13	sub_3835D8D0

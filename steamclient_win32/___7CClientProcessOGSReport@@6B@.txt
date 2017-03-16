@@ -1,0 +1,15 @@
+// ___7CClientProcessOGSReport@@6B@
+// Auto reconstructed from vtable block @ 0x38849FA0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3836B400
+1	sub_3836B300
+2	sub_3836B590
+3	sub_3836B990
+4	sub_3836C350
+5	sub_3836BAA0
+6	sub_3836B470
+7	sub_3836B890
+8	sub_3836B800
+9	sub_3836C380
+10	sub_3836C600
+11	sub_3836C5B0

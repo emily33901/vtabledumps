@@ -1,0 +1,8 @@
+// ___7File@FLAC@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DDED4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38677A80
+1	sub_38685B40
+2	sub_386855E0
+3	sub_38677F60
+4	const TagLib::List<class TagLib::FLAC::MetadataBlock near *>::`RTTI Complete Object Locator'

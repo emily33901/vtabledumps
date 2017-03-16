@@ -1,0 +1,5 @@
+// ___7_$CTHash@PAVCUDPConnection@@I@@6B@
+// Auto reconstructed from vtable block @ 0x388C7170
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864FD90
+1	const CUDPConnection::`RTTI Complete Object Locator'

@@ -1,0 +1,6 @@
+// ___7Picture@FLAC@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DDE7C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38677070
+1	sub_38431730
+2	sub_38677370

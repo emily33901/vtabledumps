@@ -1,0 +1,7 @@
+// ___7_$CMemberFunctor0@PAVCAsyncFileWriteJob@@P81@AEXXZVCFuncMemPolicyNone@@@@6B@
+// Auto reconstructed from vtable block @ 0x3885E1A4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C2750
+1	sub_381C86E0
+2	sub_383C9E20
+3	const CMemberFunctor0<class CAsyncFileWriteJob near *,void (thiscall CAsyncFileWriteJob::*)(void),class CFuncMemPolicyNone>::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

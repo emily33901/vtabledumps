@@ -1,0 +1,5 @@
+// ___7_$CMsgBase_t@UUDPPktHdr_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x388C7158
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3863B070
+1	const CScheduledFunction<class CUDPConnection>::`RTTI Complete Object Locator'

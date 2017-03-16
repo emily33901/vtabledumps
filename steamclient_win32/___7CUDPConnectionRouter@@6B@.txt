@@ -1,0 +1,6 @@
+// ___7CUDPConnectionRouter@@6B@
+// Auto reconstructed from vtable block @ 0x388C7254
+// from "steamclient.dll", by ida_vtables.idc
+0	nullsub_1
+1	sub_3863E800
+2	sub_3863CF20

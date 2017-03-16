@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCWebSocketConnection@@@@6B@
+// Auto reconstructed from vtable block @ 0x388CBA8C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864E9B0
+1	sub_3864E380
+2	sub_38548480
+3	const CTHash<class CWebSocketConnection near *,unsigned int>::`RTTI Complete Object Locator'

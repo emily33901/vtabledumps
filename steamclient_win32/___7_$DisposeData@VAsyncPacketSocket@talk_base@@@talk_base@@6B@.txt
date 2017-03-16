@@ -1,0 +1,5 @@
+// ___7_$DisposeData@VAsyncPacketSocket@talk_base@@@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x38900190
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38701410
+1	const sigslot::_connection3<class cricket::RelayEntry,void const near *,unsigned int,class cricket::StunRequest near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

@@ -1,0 +1,11 @@
+// ___7VoiceEncoder_SILK@@6B@
+// Auto reconstructed from vtable block @ 0x387C4AFC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3809DDC0
+1	sub_3809E2B0
+2	sub_38342180
+3	unknown_libname_2
+4	sub_3809DE20
+5	sub_3809E110
+6	sub_3809E3F0
+7	sub_3809E440

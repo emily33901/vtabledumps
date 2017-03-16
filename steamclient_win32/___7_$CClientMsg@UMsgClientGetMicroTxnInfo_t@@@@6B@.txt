@@ -1,0 +1,5 @@
+// ___7_$CClientMsg@UMsgClientGetMicroTxnInfo_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x388536D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420
+1	const CClientMsg<struct MsgClientGetMicroTxnInfoResponse_t>::`RTTI Complete Object Locator'

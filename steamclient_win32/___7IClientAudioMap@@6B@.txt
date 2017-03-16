@@ -1,0 +1,11 @@
+// ___7IClientAudioMap@@6B@
+// Auto reconstructed from vtable block @ 0x3883E4F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38337760
+1	sub_38337DE0
+2	sub_383297B0
+3	sub_382D22C0
+4	sub_382EBE20
+5	sub_382D54A0
+6	sub_382C9A40
+7	sub_382EC0F0

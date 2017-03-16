@@ -1,0 +1,5 @@
+// ___7CClientLogFile@@6B@
+// Auto reconstructed from vtable block @ 0x38807B3C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38343ED0
+1	const CClientNetworkingAPI::`RTTI Complete Object Locator'

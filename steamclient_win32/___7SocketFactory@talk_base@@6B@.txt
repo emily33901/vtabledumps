@@ -1,0 +1,7 @@
+// ___7SocketFactory@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x389003F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38706720
+1	sub_386AE988
+2	sub_386AE988
+3	const talk_base::PhysicalSocketServer::`RTTI Complete Object Locator'

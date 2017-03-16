@@ -1,0 +1,30 @@
+// ___7CValveSocketClient@@6BIP2PSocket@@@
+// Auto reconstructed from vtable block @ 0x388896A0
+// from "steamclient.dll", by ida_vtables.idc
+0	loc_384C94DE
+1	sub_384C9D65
+2	sub_384C9D70
+3	sub_384CA3D0
+4	sub_384C9550
+5	sub_384C9C30
+6	sub_384C9975
+7	sub_384CA280
+8	sub_384C9F75
+9	sub_384C9D15
+10	sub_384CA220
+11	sub_384C9F15
+12	sub_384C9F05
+13	sub_384C9EF5
+14	sub_384C9C8E
+15	sub_384C9CB0
+16	sub_384CA309
+17	sub_384C9D95
+18	sub_384C9CC9
+19	sub_384C9CF9
+20	sub_384C9D29
+21	unknown_libname_63
+22	sub_384CA2E9
+23	sub_384C9965
+24	sub_384C9D52
+25	sub_384C9DA0
+26	sub_384C9C80

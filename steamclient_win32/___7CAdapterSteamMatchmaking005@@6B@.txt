@@ -1,0 +1,34 @@
+// ___7CAdapterSteamMatchmaking005@@6B@
+// Auto reconstructed from vtable block @ 0x38833BF0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B41D0
+1	sub_382B0770
+2	sub_382AD420
+3	sub_382B5930
+4	public: bool thiscall Concurrency::details::EventWaitNode::SweepResetNode(void)
+5	sub_382AD560
+6	sub_382B53A0
+7	nullsub_1
+8	sub_382B3310
+9	sub_382B3E40
+10	sub_382B0670
+11	sub_382B3430
+12	sub_382B46D0
+13	sub_382B50E0
+14	sub_382B3D80
+15	sub_382B3F60
+16	sub_382B3EB0
+17	sub_382B6420
+18	sub_382B3F90
+19	sub_382B6490
+20	sub_382B5EB0
+21	sub_382B3E70
+22	sub_382B5C80
+23	sub_382B6440
+24	sub_382B3F10
+25	sub_382B64B0
+26	sub_382B3FB0
+27	sub_382B5B80
+28	sub_382B7410
+29	sub_382B3FD0
+30	sub_382B3F00

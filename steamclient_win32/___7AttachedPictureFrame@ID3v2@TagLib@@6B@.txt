@@ -1,0 +1,9 @@
+// ___7AttachedPictureFrame@ID3v2@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DE394
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3867DFB0
+1	nullsub_2
+2	sub_3867E5B0
+3	sub_3867DFE0
+4	sub_3867E400
+5	const TagLib::ID3v2::AttachedPictureFrameV22::`RTTI Complete Object Locator'

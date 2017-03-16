@@ -1,0 +1,8 @@
+// ___7CScheduledFunctor@@6B@
+// Auto reconstructed from vtable block @ 0x388554C4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383AF820
+1	sub_383C02B0
+2	sub_38548480
+3	sub_383C06A0
+4	const CPeriodicFunctor::`RTTI Complete Object Locator'

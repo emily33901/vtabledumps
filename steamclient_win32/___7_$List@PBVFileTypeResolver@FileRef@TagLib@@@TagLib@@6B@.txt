@@ -1,0 +1,5 @@
+// ___7_$List@PBVFileTypeResolver@FileRef@TagLib@@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DD45C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3866D330
+1	const TagLib::FileRef::FileRefPrivate::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7CClientJobRemoteStorageSync@@6BISyncProgressCallback@CRemoteStorageSyncHelpers@@@
+// Auto reconstructed from vtable block @ 0x38804764
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381C8460

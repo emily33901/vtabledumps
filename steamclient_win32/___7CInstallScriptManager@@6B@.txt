@@ -1,0 +1,10 @@
+// ___7CInstallScriptManager@@6B@
+// Auto reconstructed from vtable block @ 0x38830D14
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A7C10
+1	sub_382ABA50
+2	sub_382ABC00
+3	sub_382A90C0
+4	sub_382A8CD0
+5	sub_382A8B20
+6	sub_382AD190

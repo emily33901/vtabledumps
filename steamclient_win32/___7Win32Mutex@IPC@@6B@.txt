@@ -1,0 +1,9 @@
+// ___7Win32Mutex@IPC@@6B@
+// Auto reconstructed from vtable block @ 0x38842BE4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383426A0
+1	sub_38342120
+2	sub_38341F60
+3	sub_38342180
+4	nullsub_3
+5	sub_38342640

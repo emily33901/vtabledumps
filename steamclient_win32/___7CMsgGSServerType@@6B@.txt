@@ -1,0 +1,23 @@
+// ___7CMsgGSServerType@@6B@
+// Auto reconstructed from vtable block @ 0x388A38F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38565020
+1	sub_3844EEB0
+2	sub_3859C6F0
+3	sub_385700A0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38599110
+8	sub_3856D5D0
+9	sub_385A1F60
+10	sub_385A97A0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38586090
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38574A50
+19	const CMsgGSStatusReply::`RTTI Complete Object Locator'

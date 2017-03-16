@@ -1,0 +1,23 @@
+// ___7CCDDBAppDetailCommon@@6B@
+// Auto reconstructed from vtable block @ 0x38895ADC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38543440
+1	sub_3844EEB0
+2	sub_385461E0
+3	sub_38543D90
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38544E10
+8	sub_38543660
+9	sub_38546330
+10	sub_38546950
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38544400
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38544050
+19	const CMsgAppRights::`RTTI Complete Object Locator'

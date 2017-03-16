@@ -1,0 +1,9 @@
+// ___7IHTTPResponseHandler@@6B@
+// Auto reconstructed from vtable block @ 0x38820B60
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824FB80
+1	sub_386AE988
+2	sub_386AE988
+3	nullsub_2
+4	nullsub_3
+5	nullsub_2

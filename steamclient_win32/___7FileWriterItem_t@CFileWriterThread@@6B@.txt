@@ -1,0 +1,5 @@
+// ___7FileWriterItem_t@CFileWriterThread@@6B@
+// Auto reconstructed from vtable block @ 0x38895170
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38540100
+1	const CFileWriterThread::`RTTI Complete Object Locator'

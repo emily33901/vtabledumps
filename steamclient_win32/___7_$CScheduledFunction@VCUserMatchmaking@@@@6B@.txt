@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCUserMatchmaking@@@@6B@
+// Auto reconstructed from vtable block @ 0x387C6678
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380A7700
+1	sub_3817AA90
+2	sub_38548480
+3	const CUserMatchmaking::`RTTI Complete Object Locator'

@@ -1,0 +1,10 @@
+// ___7CDownloadResponseHandler@CDepotHTTPDownloadInterface@@6B@
+// Auto reconstructed from vtable block @ 0x38820C94
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824FB80
+1	sub_3824FC10
+2	sub_382535E0
+3	nullsub_2
+4	sub_382530F0
+5	sub_38253510
+6	const CDepotHTTPDownloadInterface::CDownloadResponseHandler::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

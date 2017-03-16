@@ -1,0 +1,15 @@
+// ___7_$num_put@DV_$ostreambuf_iterator@DU_$char_traits@D@std@@@std@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E5A08
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_83
+1	sub_38484B10
+2	sub_384849B0
+3	sub_386AAF87
+4	sub_386AADE9
+5	sub_386AAC31
+6	sub_386AB054
+7	sub_386AAFE4
+8	sub_386AABC4
+9	sub_386AAB57
+10	sub_386AB0C4
+11	const std::numpunct<char>::`RTTI Complete Object Locator'

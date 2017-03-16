@@ -1,0 +1,34 @@
+// ___7CValveSocketClient@@6B@
+// Auto reconstructed from vtable block @ 0x38889614
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384CA210
+1	sub_384CCC60
+2	sub_384CCCC0
+3	sub_384CCBC0
+4	sub_384CD100
+5	sub_384C9D60
+6	sub_384CC2C0
+7	sub_384CC2E0
+8	sub_384CC060
+9	sub_384CA4D0
+10	sub_384C9970
+11	sub_384CCF40
+12	sub_384C9F70
+13	sub_384C9D10
+14	sub_384CCF10
+15	sub_384C9F10
+16	sub_384C9F00
+17	sub_384C9EF0
+18	public: struct Concurrency::ISchedulerProxy near * thiscall Concurrency::details::SchedulerBase::GetSchedulerProxy(void)const
+19	sub_384C9CC0
+20	sub_384C9FF0
+21	sub_384CCD20
+22	sub_384CA300
+23	sub_384C9D90
+24	sub_384C9CF0
+25	sub_384C9D20
+26	sub_384C9D40
+27	sub_384CA2E0
+28	sub_384C9960
+29	sub_384C9F80
+30	const CValveSocketClient::`RTTI Complete Object Locator'{for `sigslot::has_slots<class sigslot::single_threaded>'}

@@ -1,0 +1,8 @@
+// ___7IClientModuleManagerMap@@6B@
+// Auto reconstructed from vtable block @ 0x3884C92C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837B1D0
+1	sub_3837BF50
+2	sub_3837A750
+3	sub_3837A890
+4	sub_3837B360

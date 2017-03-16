@@ -1,0 +1,9 @@
+// ___7_Iostream_error_category@std@@6B@
+// Auto reconstructed from vtable block @ 0x387C4EF4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3809EAE0
+1	sub_380A0D80
+2	sub_380A0CB0
+3	public: virtual class std::error_condition thiscall std::error_category::default_error_condition(int)const
+4	sub_380A0B00
+5	sub_380A0B20

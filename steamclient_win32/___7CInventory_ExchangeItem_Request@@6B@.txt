@@ -1,0 +1,23 @@
+// ___7CInventory_ExchangeItem_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387E049C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3810E900
+1	sub_3844EEB0
+2	sub_38112620
+3	sub_3810F5C0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38111A40
+8	sub_3810EFF0
+9	sub_38112AA0
+10	sub_381130E0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38110510
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_3810F900
+19	const CInventory_GetEligiblePromoItemDefIDs_Request::`RTTI Complete Object Locator'

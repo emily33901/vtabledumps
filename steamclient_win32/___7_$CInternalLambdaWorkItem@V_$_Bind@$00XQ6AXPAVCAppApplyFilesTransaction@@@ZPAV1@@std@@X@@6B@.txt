@@ -1,0 +1,11 @@
+// ___7_$CInternalLambdaWorkItem@V_$_Bind@$00XQ6AXPAVCAppApplyFilesTransaction@@@ZPAV1@@std@@X@@6B@
+// Auto reconstructed from vtable block @ 0x388145C4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_38202A30
+3	sub_38202A30
+4	sub_382032C0
+5	sub_385B9770
+6	nullsub_3
+7	const CInternalLambdaWorkItem<class std::_Bind<1,void,void (cdecl *const)(class CContentUpdateContext near *,class CDepotReconstructCtx near *),class CContentUpdateContext near * const,class CDepotReconstructCtx near * near &>,void>::`RTTI Complete Object Locator'

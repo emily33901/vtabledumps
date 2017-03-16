@@ -1,0 +1,28 @@
+// ___7CClientStructNetPacket@@6B@
+// Auto reconstructed from vtable block @ 0x3889B0A4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3854BCA0
+1	sub_38285B60
+2	sub_38252640
+3	sub_3815BBA0
+4	sub_38682C80
+5	sub_3854C900
+6	sub_3854C7D0
+7	sub_3854BEA0
+8	sub_3854BEB0
+9	sub_3854C060
+10	sub_3854C120
+11	sub_3854CA90
+12	sub_3854C9A0
+13	sub_3854C080
+14	sub_3854CA00
+15	sub_3854C010
+16	sub_3854C930
+17	sub_38075800
+18	Steam_GSSendUserStatusResponse
+19	sub_38075800
+20	Steam_GSSendUserStatusResponse
+21	sub_38548480
+22	nullsub_3
+23	sub_380BFAE0
+24	const CProtoBufNetPacket::`RTTI Complete Object Locator'

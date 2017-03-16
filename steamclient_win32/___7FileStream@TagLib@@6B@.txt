@@ -1,0 +1,16 @@
+// ___7FileStream@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DE49C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3867F430
+1	sub_3867F790
+2	sub_3867F7C0
+3	sub_3867FCB0
+4	sub_3867F460
+5	sub_3867F900
+6	sub_3867F8F0
+7	sub_3867F6B0
+8	sub_3867FA70
+9	nullsub_1
+10	sub_3867FB70
+11	sub_3867F6C0
+12	sub_3867FC10

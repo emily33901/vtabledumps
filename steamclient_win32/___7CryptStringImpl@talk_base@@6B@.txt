@@ -1,0 +1,9 @@
+// ___7CryptStringImpl@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FE0AC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EBB50
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_386AE988
+5	const talk_base::EmptyCryptStringImpl::`RTTI Complete Object Locator'

@@ -1,0 +1,11 @@
+// ___7CWorkItemThreadedGetCachedResponse@@6B@
+// Auto reconstructed from vtable block @ 0x388B300C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385C9620
+1	sub_38285B60
+2	sub_385D05B0
+3	sub_385D0560
+4	sub_385D5E80
+5	sub_385CF180
+6	sub_385D75A0
+7	sub_385D05D0

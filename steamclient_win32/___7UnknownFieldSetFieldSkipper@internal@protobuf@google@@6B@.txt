@@ -1,0 +1,8 @@
+// ___7UnknownFieldSetFieldSkipper@internal@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x38882D84
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38485400
+1	sub_3845C270
+2	sub_3845C430
+3	sub_3845C4B0
+4	const google::protobuf::internal::DescriptorPoolExtensionFinder::`RTTI Complete Object Locator'

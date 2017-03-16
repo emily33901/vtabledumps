@@ -1,0 +1,8 @@
+// ___7IClientGameNotificationsMap@@6B@
+// Auto reconstructed from vtable block @ 0x38840D30
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382CC470
+1	sub_382E35A0
+2	sub_382E34B0
+3	sub_38326190
+4	sub_3833B870

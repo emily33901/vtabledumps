@@ -1,0 +1,8 @@
+// ___7CAdapterSteamAppList001@@6B@
+// Auto reconstructed from vtable block @ 0x3883493C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B4150
+1	sub_382B3AF0
+2	sub_382B2780
+3	sub_382B2740
+4	sub_382B24E0

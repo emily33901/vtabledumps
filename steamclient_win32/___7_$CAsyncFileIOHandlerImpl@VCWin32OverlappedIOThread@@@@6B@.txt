@@ -1,0 +1,14 @@
+// ___7_$CAsyncFileIOHandlerImpl@VCWin32OverlappedIOThread@@@@6B@
+// Auto reconstructed from vtable block @ 0x387F5630
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381805D0
+1	sub_38180CF0
+2	sub_38181380
+3	sub_38380150
+4	sub_38180F30
+5	sub_38180B80
+6	sub_381812E0
+7	sub_38183A00
+8	sub_381813F0
+9	sub_38181410
+10	sub_38183B40

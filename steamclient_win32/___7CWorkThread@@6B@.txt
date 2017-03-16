@@ -1,0 +1,13 @@
+// ___7CWorkThread@@6B@
+// Auto reconstructed from vtable block @ 0x388AE310
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385B90F0
+1	protected: virtual bool thiscall CThread::Init(void)
+2	sub_385B9C40
+3	nullsub_1
+4	protected: virtual bool thiscall CThread::IsThreadRunning(void)const
+5	private: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	nullsub_1
+7	nullsub_1
+8	sub_383491F0
+9	const CWorkThreadPool::`RTTI Complete Object Locator'

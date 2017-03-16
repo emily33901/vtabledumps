@@ -1,0 +1,9 @@
+// ___7_$_signal_base2@PAVTransport@cricket@@ABV_$vector@PAVXmlElement@buzz@@V_$allocator@PAVXmlElement@buzz@@@std@@@std@@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FDE74
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E73F0
+1	nullsub_1
+2	nullsub_1
+3	sub_386F7030
+4	sub_386F70D0
+5	const sigslot::signal2<class cricket::Transport near *,class std::vector<class buzz::XmlElement near *,class std::allocator<class buzz::XmlElement near *>> const near &,class sigslot::single_threaded>::`RTTI Complete Object Locator'

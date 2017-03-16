@@ -1,0 +1,5 @@
+// ___7_$CDynamicFunc@P6APAU_SDL_Joystick@@PAU_SDL_GameController@@@Z@@6B@
+// Auto reconstructed from vtable block @ 0x3882ADBC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C5570
+1	sub_380C5960

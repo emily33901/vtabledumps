@@ -1,0 +1,47 @@
+// ___7CAdapterSteamUserStats011@@6B@
+// Auto reconstructed from vtable block @ 0x388345EC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B5AC0
+1	sub_382B4780
+2	sub_382B4750
+3	sub_382B67F0
+4	sub_382B67C0
+5	sub_382B71F0
+6	sub_382B21C0
+7	sub_382B60D0
+8	sub_382ADD30
+9	sub_382B2220
+10	sub_382B6CD0
+11	sub_382B22C0
+12	sub_382B2270
+13	sub_382B4C90
+14	sub_382B4120
+15	sub_382B2310
+16	sub_382B5D50
+17	sub_382B4B10
+18	sub_382B4AD0
+19	sub_382B4950
+20	sub_382B4990
+21	sub_382B5D80
+22	sub_382B1E40
+23	sub_382B1320
+24	sub_382B6060
+25	sub_382B3DF0
+26	sub_382B3E10
+27	sub_382B3DD0
+28	sub_382B0970
+29	sub_382B0990
+30	sub_382B2FE0
+31	sub_382B7540
+32	sub_382AD7A0
+33	sub_382B46C0
+34	sub_382B5BB0
+35	sub_382B4040
+36	sub_382B40B0
+37	sub_382B21F0
+38	sub_382B5BE0
+39	sub_382B3660
+40	sub_382B3630
+41	sub_382B3690
+42	sub_382B36C0
+43	const CAdapterSteamApps001::`RTTI Complete Object Locator'

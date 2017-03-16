@@ -1,0 +1,6 @@
+// ___7_$CScheduledFunction@VCClientGUIUsage@@@@6B@
+// Auto reconstructed from vtable block @ 0x387F6814
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38186FF0
+1	sub_3817AA90
+2	sub_38548480

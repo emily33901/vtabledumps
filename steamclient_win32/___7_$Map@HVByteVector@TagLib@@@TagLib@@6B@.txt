@@ -1,0 +1,5 @@
+// ___7_$Map@HVByteVector@TagLib@@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E0668
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3869ACE0
+1	const TagLib::List<int>::`RTTI Complete Object Locator'

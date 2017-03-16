@@ -1,0 +1,5 @@
+// ___7CLocalMusicFileDescription@@6B@
+// Auto reconstructed from vtable block @ 0x387CA01C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380B4810
+1	const CLocalLibraryCrawlerThread::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7CUGCDownloadHelper@@6B@
+// Auto reconstructed from vtable block @ 0x3884E354
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38386040
+1	sub_38285B60

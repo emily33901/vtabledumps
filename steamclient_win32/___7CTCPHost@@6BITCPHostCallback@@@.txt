@@ -1,0 +1,4 @@
+// ___7CTCPHost@@6BITCPHostCallback@@@
+// Auto reconstructed from vtable block @ 0x388C88F0
+// from "steamclient.dll", by ida_vtables.idc
+0	nullsub_1

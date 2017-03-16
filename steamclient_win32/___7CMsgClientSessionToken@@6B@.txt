@@ -1,0 +1,23 @@
+// ___7CMsgClientSessionToken@@6B@
+// Auto reconstructed from vtable block @ 0x388A3850
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38564170
+1	sub_3844EEB0
+2	sub_3859BAF0
+3	sub_380C8F50
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3813B600
+8	sub_38125680
+9	sub_380FDCC0
+10	sub_381298E0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38581A00
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_385736D0
+19	const CMsgClientGameConnectTokens::`RTTI Complete Object Locator'

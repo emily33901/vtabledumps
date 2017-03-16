@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgExecuteJavaScript@@@@6B@
+// Auto reconstructed from vtable block @ 0x3883038C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A0AC0
+1	const CHTMLProtoBufMsg<class CMsgMouseUp>::`RTTI Complete Object Locator'

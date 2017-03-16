@@ -1,0 +1,5 @@
+// ___7_$CClientMsg@UMsgGSGetReputation_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38829644
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420
+1	const CClientMsg<struct MsgGSGetReputationResponse_t>::`RTTI Complete Object Locator'

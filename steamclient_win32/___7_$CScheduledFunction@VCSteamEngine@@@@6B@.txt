@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCSteamEngine@@@@6B@
+// Auto reconstructed from vtable block @ 0x3884A91C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3836DD40
+1	sub_3864E380
+2	sub_38548480
+3	const CSteamEngine::`RTTI Complete Object Locator'

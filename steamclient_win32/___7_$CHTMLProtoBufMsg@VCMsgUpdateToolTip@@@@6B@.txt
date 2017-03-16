@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgUpdateToolTip@@@@6B@
+// Auto reconstructed from vtable block @ 0x388302EC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A1600
+1	const CHTMLProtoBufMsg<class CMsgHideToolTip>::`RTTI Complete Object Locator'

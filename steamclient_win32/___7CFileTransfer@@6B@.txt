@@ -1,0 +1,5 @@
+// ___7CFileTransfer@@6B@
+// Auto reconstructed from vtable block @ 0x388C5230
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38634DE0
+1	sub_38635750

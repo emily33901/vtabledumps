@@ -1,0 +1,6 @@
+// ___7pairNode@@6B@
+// Auto reconstructed from vtable block @ 0x388FB0A0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386D4879
+1	public: virtual char thiscall pairNode::getLastChar(void)const
+2	sub_386D3655

@@ -1,0 +1,5 @@
+// ___7PseudoTcp@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FEB10
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F7420
+1	const talk_base::MessageHandler::`RTTI Complete Object Locator'

@@ -1,0 +1,23 @@
+// ___7CMsgRemoteClientBroadcastStatus@@6B@
+// Auto reconstructed from vtable block @ 0x387ED59C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38152B70
+1	sub_3844EEB0
+2	sub_38156330
+3	sub_38153700
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_381554D0
+8	sub_38152F50
+9	sub_381565E0
+10	sub_38156B50
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38154420
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38153B90
+19	const CMsgRemoteClientBroadcastDiscovery::`RTTI Complete Object Locator'

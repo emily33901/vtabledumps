@@ -1,0 +1,6 @@
+// ___7IControllerMappingErrorHandler@@6B@
+// Auto reconstructed from vtable block @ 0x3881D020
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38220780
+1	sub_386AE988
+2	const CVDFControllerMappingErrorHandler::`RTTI Complete Object Locator'

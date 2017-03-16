@@ -1,0 +1,6 @@
+// ___7out_of_range@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E4C4C
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_79
+1	public: virtual char const near * thiscall exception::what(void)const
+2	const std::overflow_error::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7ByteVectorPrivate@ByteVector@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DD184
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38668410

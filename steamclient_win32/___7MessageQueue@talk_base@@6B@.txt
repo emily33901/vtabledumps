@@ -1,0 +1,15 @@
+// ___7MessageQueue@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FEB24
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F8C60
+1	sub_386F9A70
+2	sub_386F95E0
+3	sub_386F9A60
+4	sub_386F9230
+5	sub_386F95F0
+6	sub_386F9670
+7	sub_386F97E0
+8	sub_386F8E10
+9	sub_386F9000
+10	nullsub_1
+11	sub_386F9470

@@ -1,0 +1,5 @@
+// ___7CWorkThreadPoolSignal@@6B@
+// Auto reconstructed from vtable block @ 0x3884250C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38341230
+1	const IPipeWaiter::`RTTI Complete Object Locator'

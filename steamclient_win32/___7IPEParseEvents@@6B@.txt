@@ -1,0 +1,5 @@
+// ___7IPEParseEvents@@6B@
+// Auto reconstructed from vtable block @ 0x3887A948
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	const CCoffParser::`RTTI Complete Object Locator'

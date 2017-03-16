@@ -1,0 +1,28 @@
+// ___7CSteamMatchMaking@@6B@
+// Auto reconstructed from vtable block @ 0x387C500C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3809F8A0
+1	sub_3809F8C0
+2	sub_3809F860
+3	sub_3809F840
+4	sub_3809F880
+5	sub_3809F8E0
+6	sub_3809F4E0
+7	sub_3809F020
+8	sub_3809ED80
+9	sub_3809F420
+10	sub_3809F0B0
+11	sub_3809EFC0
+12	sub_3809F480
+13	sub_3809F120
+14	sub_3809F210
+15	sub_3809FF90
+16	sub_3809EE70
+17	sub_380A06E0
+18	sub_380A0550
+19	sub_380A0380
+20	sub_380A0680
+21	sub_380A0640
+22	sub_380A0520
+23	sub_380A06B0
+24	sub_3809EAB0

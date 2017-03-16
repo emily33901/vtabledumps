@@ -1,0 +1,17 @@
+// ___7FieldValuePrinter@TextFormat@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x388821D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3847B470
+1	sub_3847DE80
+2	sub_3847EA80
+3	sub_3847ECF0
+4	sub_3847EAB0
+5	sub_3847ED20
+6	sub_3847EA50
+7	sub_3847DF10
+8	sub_3847EC60
+9	sub_3847DEF0
+10	sub_3847DF40
+11	sub_3847E220
+12	sub_3847EB50
+13	sub_3847EAE0

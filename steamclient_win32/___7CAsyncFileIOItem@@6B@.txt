@@ -1,0 +1,5 @@
+// ___7CAsyncFileIOItem@@6B@
+// Auto reconstructed from vtable block @ 0x387F53EC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38180600
+1	const IAsyncFileIOHandler::`RTTI Complete Object Locator'

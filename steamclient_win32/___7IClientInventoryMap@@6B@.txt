@@ -1,0 +1,26 @@
+// ___7IClientInventoryMap@@6B@
+// Auto reconstructed from vtable block @ 0x38840534
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382E7310
+1	sub_382CA610
+2	sub_382E7210
+3	sub_382E70E0
+4	sub_382E73E0
+5	sub_382C62B0
+6	sub_3832B7A0
+7	sub_382CA430
+8	sub_382D0180
+9	sub_382DE930
+10	sub_382CEF30
+11	sub_382BB750
+12	sub_382C7B90
+13	sub_382CCD60
+14	sub_383398A0
+15	sub_3832AAB0
+16	sub_38339AD0
+17	sub_38339660
+18	sub_38321430
+19	sub_382DE340
+20	sub_382DE430
+21	sub_383274D0
+22	sub_382D8680

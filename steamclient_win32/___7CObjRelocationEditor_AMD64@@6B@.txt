@@ -1,0 +1,8 @@
+// ___7CObjRelocationEditor_AMD64@@6B@
+// Auto reconstructed from vtable block @ 0x3887C10C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38431610
+1	sub_38252640
+2	sub_3842EE90
+3	sub_384313A0
+4	sub_38431910

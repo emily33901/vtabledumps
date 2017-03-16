@@ -1,0 +1,11 @@
+// ___7CButtonDiamondSource@@6B@
+// Auto reconstructed from vtable block @ 0x38820284
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38248300
+1	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+2	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+3	sub_382485E0
+4	nullsub_6
+5	sub_38248E70
+6	sub_3824A870
+7	const CTriggerSource::`RTTI Complete Object Locator'

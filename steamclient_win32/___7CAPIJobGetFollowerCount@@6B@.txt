@@ -1,0 +1,16 @@
+// ___7CAPIJobGetFollowerCount@@6B@
+// Auto reconstructed from vtable block @ 0x38858FD4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383EA9B0
+1	sub_380AB090
+2	sub_38553830
+3	sub_380AE7E0
+4	nullsub_2
+5	nullsub_1
+6	nullsub_2
+7	sub_380A9B50
+8	sub_380A9CE0
+9	sub_380A9D10
+10	nullsub_1
+11	nullsub_1
+12	sub_383B1200

@@ -1,0 +1,6 @@
+// ___7_$CFrameFunction@VCJobMgr@@@@6B@
+// Auto reconstructed from vtable block @ 0x388A2BDC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38554E90
+1	sub_38555F00
+2	Steam_GSSendUserStatusResponse

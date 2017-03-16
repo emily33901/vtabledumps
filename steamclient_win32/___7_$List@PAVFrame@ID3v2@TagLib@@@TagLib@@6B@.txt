@@ -1,0 +1,4 @@
+// ___7_$List@PAVFrame@ID3v2@TagLib@@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x387CE17C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C1760

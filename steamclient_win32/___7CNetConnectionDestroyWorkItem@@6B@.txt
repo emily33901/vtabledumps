@@ -1,0 +1,10 @@
+// ___7CNetConnectionDestroyWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x388966FC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_3854AF50
+3	sub_3854AF10
+4	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+5	sub_3854A940
+6	nullsub_3

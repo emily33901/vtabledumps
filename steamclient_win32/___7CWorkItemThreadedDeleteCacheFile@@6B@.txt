@@ -1,0 +1,10 @@
+// ___7CWorkItemThreadedDeleteCacheFile@@6B@
+// Auto reconstructed from vtable block @ 0x388B3828
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385C95E0
+1	sub_38285B60
+2	sub_385D05A0
+3	sub_385D0550
+4	sub_385D5E30
+5	sub_38643020
+6	nullsub_3

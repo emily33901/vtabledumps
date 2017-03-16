@@ -1,0 +1,22 @@
+// ___7CGameStats@@6B@
+// Auto reconstructed from vtable block @ 0x387FA5D0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3819B650
+1	sub_3819B120
+2	sub_3819A320
+3	sub_3819A3B0
+4	sub_3819A1E0
+5	sub_38199E60
+6	sub_3819AEB0
+7	sub_3819AE20
+8	sub_3819A0E0
+9	sub_3819A150
+10	sub_38199FE0
+11	sub_3819A280
+12	sub_3819A060
+13	sub_3819C580
+14	sub_3819CA40
+15	sub_3819C5B0
+16	sub_3819CB50
+17	sub_3819C480
+18	sub_38199D70

@@ -1,0 +1,15 @@
+// ___7CClientDeviceAuth@@6B@
+// Auto reconstructed from vtable block @ 0x387F8F28
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381946B0
+1	sub_38195A20
+2	sub_38195A70
+3	sub_38196AF0
+4	sub_38195D20
+5	sub_38195BD0
+6	sub_38195B10
+7	sub_38195DF0
+8	sub_38195B50
+9	sub_38196C90
+10	sub_38195E70
+11	sub_38195E80

@@ -1,0 +1,8 @@
+// ___7_$_connection1@VBasicPortAllocatorSession@cricket@@PAVConnection@2@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FE7EC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3835D8D0
+1	sub_384CD6D0
+2	sub_386F0EC0
+3	sub_386F0F50
+4	const buzz::XmlChild::`RTTI Complete Object Locator'

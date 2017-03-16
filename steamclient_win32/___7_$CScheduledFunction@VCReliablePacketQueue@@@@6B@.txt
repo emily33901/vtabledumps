@@ -1,0 +1,6 @@
+// ___7_$CScheduledFunction@VCReliablePacketQueue@@@@6B@
+// Auto reconstructed from vtable block @ 0x38807C44
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D1900
+1	sub_3817AA90
+2	sub_38548480

@@ -1,0 +1,9 @@
+// ___7_$_signal_base3@PBXIPAVStunRequest@cricket@@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FFE38
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38700270
+1	nullsub_1
+2	nullsub_1
+3	sub_386F7030
+4	sub_386F70D0
+5	const sigslot::signal3<void const near *,unsigned int,class cricket::StunRequest near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

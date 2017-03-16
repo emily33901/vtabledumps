@@ -1,0 +1,5 @@
+// ___7CSNetMsgBuffer@@6B@
+// Auto reconstructed from vtable block @ 0x38807F7C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D1980
+1	const CSNetSocketMsgHandler::`RTTI Complete Object Locator'

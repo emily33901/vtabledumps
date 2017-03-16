@@ -1,0 +1,4 @@
+// ___7HTMLCommandBuffer_t@@6B@
+// Auto reconstructed from vtable block @ 0x387F7DDC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38190F30

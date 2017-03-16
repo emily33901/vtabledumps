@@ -1,0 +1,7 @@
+// ___7SkipReader@@6B@
+// Auto reconstructed from vtable block @ 0x388DEF5C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386897E0
+1	sub_3868A1D0
+2	sub_3835D8D0
+3	const StringReader::`RTTI Complete Object Locator'

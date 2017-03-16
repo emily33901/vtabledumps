@@ -1,0 +1,19 @@
+// ___7CNetFilter@@6B@
+// Auto reconstructed from vtable block @ 0x388DC554
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665C50
+1	sub_38665D00
+2	sub_38665DA0
+3	sub_386AE988
+4	sub_38665960
+5	sub_38665D20
+6	nullsub_6
+7	nullsub_3
+8	sub_38665690
+9	sub_386660D0
+10	sub_386AE988
+11	Steam_GSSendUserStatusResponse
+12	sub_386AE988
+13	sub_386AE988
+14	sub_386AE988
+15	sub_386663B0

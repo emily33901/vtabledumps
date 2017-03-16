@@ -1,0 +1,23 @@
+// ___7CMsgSizePopup@@6B@
+// Auto reconstructed from vtable block @ 0x3882C294
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827FF00
+1	sub_3844EEB0
+2	sub_382959E0
+3	sub_38282B20
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38293750
+8	sub_38282130
+9	sub_386137C0
+10	sub_38298CF0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3828DB00
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_382855C0
+19	const CMsgOpenNewTab::`RTTI Complete Object Locator'

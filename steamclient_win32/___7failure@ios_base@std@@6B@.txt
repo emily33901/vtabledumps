@@ -1,0 +1,5 @@
+// ___7failure@ios_base@std@@6B@
+// Auto reconstructed from vtable block @ 0x38882D20
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38484980
+1	public: virtual char const near * thiscall exception::what(void)const

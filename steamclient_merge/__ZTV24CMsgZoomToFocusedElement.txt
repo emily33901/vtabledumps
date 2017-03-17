@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgZoomToFocusedElement
-// Auto reconstructed from vtable block @ 0x00ECD380
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgZoomToFocusedElement::~CMsgZoomToFocusedElement()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgZoomToFocusedElement::New(void)const
-3	CMsgZoomToFocusedElement::Clear(void)
-4	CMsgZoomToFocusedElement::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgZoomToFocusedElement::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgZoomToFocusedElement::ByteSize(void)const
-90	CMsgZoomToFocusedElement::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgZoomToFocusedElement::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgZoomToFocusedElement::GetCachedSize(void)const
-12	CMsgZoomToFocusedElement::CopyFrom(google::protobuf::Message const&)
-13	CMsgZoomToFocusedElement::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgZoomToFocusedElement::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgZoomToFocusedElement::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgZoomToFocusedElement
+// Auto reconstructed from vtable block @ 0x00ECD380
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgZoomToFocusedElement::~CMsgZoomToFocusedElement()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgZoomToFocusedElement::New(void)const
+3	CMsgZoomToFocusedElement::Clear(void)
+4	CMsgZoomToFocusedElement::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgZoomToFocusedElement::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgZoomToFocusedElement::ByteSize(void)const
+90	CMsgZoomToFocusedElement::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgZoomToFocusedElement::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgZoomToFocusedElement::GetCachedSize(void)const
+12	CMsgZoomToFocusedElement::CopyFrom(google::protobuf::Message const&)
+13	CMsgZoomToFocusedElement::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgZoomToFocusedElement::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgZoomToFocusedElement::GetMetadata(void)const
+

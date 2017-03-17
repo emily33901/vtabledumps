@@ -1,20 +1,20 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAPIJobMatchmakingRequestLobbyList
-// Auto reconstructed from vtable block @ 0x00F19A10
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAPIJobMatchmakingRequestLobbyList::~CAPIJobMatchmakingRequestLobbyList()
-1	CJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CBaseAPIJob::BYieldingRunJob(void *)
-8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CBaseAPIJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-12	CAPIJobMatchmakingRequestLobbyList::BYieldingRunAPIJob(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAPIJobMatchmakingRequestLobbyList
+// Auto reconstructed from vtable block @ 0x00F19A10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAPIJobMatchmakingRequestLobbyList::~CAPIJobMatchmakingRequestLobbyList()
+1	CJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CBaseAPIJob::BYieldingRunJob(void *)
+8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CBaseAPIJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CAPIJobMatchmakingRequestLobbyList::BYieldingRunAPIJob(void)
+

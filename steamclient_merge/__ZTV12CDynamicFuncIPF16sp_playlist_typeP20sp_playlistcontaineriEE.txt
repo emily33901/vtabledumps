@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>
-// Auto reconstructed from vtable block @ 0x00F0D910
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::Init(CSysModule *)
-1	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::Release(void)
-2	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>
+// Auto reconstructed from vtable block @ 0x00F0D910
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::Init(CSysModule *)
+1	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::Release(void)
+2	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_playlist_type (*)(sp_playlistcontainer *,int)>::GetNextPointer(void)
+

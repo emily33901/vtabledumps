@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamClient006
-// Auto reconstructed from vtable block @ 0x00F05F60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamClient006::CreateSteamPipe(void)
-1	CAdapterSteamClient006::BReleaseSteamPipe(int)
-2	CAdapterSteamClient006::CreateGlobalUser(int *)
-3	CAdapterSteamClient006::ConnectToGlobalUser(int)
-4	CAdapterSteamClient006::CreateLocalUser(int *)
-5	CAdapterSteamClient006::ReleaseUser(int,int)
-6	CAdapterSteamClient006::GetISteamUser(int,int,char const*)
-7	CAdapterSteamClient006::GetIVAC(int)
-8	CAdapterSteamClient006::GetISteamGameServer(int,int,char const*)
-9	CAdapterSteamClient006::SetLocalIPBinding(unsigned int,unsigned short)
-10	CAdapterSteamClient006::GetUniverseName(EUniverse)
-11	CAdapterSteamClient006::GetISteamFriends(int,int,char const*)
-12	CAdapterSteamClient006::GetISteamUtils(int,char const*)
-13	CAdapterSteamClient006::GetISteamBilling(int,int,char const*)
-14	CAdapterSteamClient006::GetISteamMatchmaking(int,int,char const*)
-15	CAdapterSteamClient006::GetISteamApps(int,int,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamClient006
+// Auto reconstructed from vtable block @ 0x00F05F60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamClient006::CreateSteamPipe(void)
+1	CAdapterSteamClient006::BReleaseSteamPipe(int)
+2	CAdapterSteamClient006::CreateGlobalUser(int *)
+3	CAdapterSteamClient006::ConnectToGlobalUser(int)
+4	CAdapterSteamClient006::CreateLocalUser(int *)
+5	CAdapterSteamClient006::ReleaseUser(int,int)
+6	CAdapterSteamClient006::GetISteamUser(int,int,char const*)
+7	CAdapterSteamClient006::GetIVAC(int)
+8	CAdapterSteamClient006::GetISteamGameServer(int,int,char const*)
+9	CAdapterSteamClient006::SetLocalIPBinding(unsigned int,unsigned short)
+10	CAdapterSteamClient006::GetUniverseName(EUniverse)
+11	CAdapterSteamClient006::GetISteamFriends(int,int,char const*)
+12	CAdapterSteamClient006::GetISteamUtils(int,char const*)
+13	CAdapterSteamClient006::GetISteamBilling(int,int,char const*)
+14	CAdapterSteamClient006::GetISteamMatchmaking(int,int,char const*)
+15	CAdapterSteamClient006::GetISteamApps(int,int,char const*)
+

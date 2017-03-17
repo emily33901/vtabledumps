@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientSetHeartbeatRate_t>
-// Auto reconstructed from vtable block @ 0x00F00E9C
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientSetHeartbeatRate_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientSetHeartbeatRate_t>
+// Auto reconstructed from vtable block @ 0x00F00E9C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientSetHeartbeatRate_t>::~CClientMsg()
+

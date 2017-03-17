@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGameServers_GetServerList_Response
-// Auto reconstructed from vtable block @ 0x00EC4C80
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGameServers_GetServerList_Response::~CGameServers_GetServerList_Response()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CGameServers_GetServerList_Response::New(void)const
-3	CGameServers_GetServerList_Response::Clear(void)
-4	CGameServers_GetServerList_Response::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CGameServers_GetServerList_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CGameServers_GetServerList_Response::ByteSize(void)const
-90	CGameServers_GetServerList_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CGameServers_GetServerList_Response::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CGameServers_GetServerList_Response::GetCachedSize(void)const
-12	CGameServers_GetServerList_Response::CopyFrom(google::protobuf::Message const&)
-13	CGameServers_GetServerList_Response::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CGameServers_GetServerList_Response::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CGameServers_GetServerList_Response::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameServers_GetServerList_Response
+// Auto reconstructed from vtable block @ 0x00EC4C80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGameServers_GetServerList_Response::~CGameServers_GetServerList_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CGameServers_GetServerList_Response::New(void)const
+3	CGameServers_GetServerList_Response::Clear(void)
+4	CGameServers_GetServerList_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CGameServers_GetServerList_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CGameServers_GetServerList_Response::ByteSize(void)const
+90	CGameServers_GetServerList_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CGameServers_GetServerList_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CGameServers_GetServerList_Response::GetCachedSize(void)const
+12	CGameServers_GetServerList_Response::CopyFrom(google::protobuf::Message const&)
+13	CGameServers_GetServerList_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CGameServers_GetServerList_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CGameServers_GetServerList_Response::GetMetadata(void)const
+

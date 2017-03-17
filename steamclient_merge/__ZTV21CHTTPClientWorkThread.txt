@@ -1,18 +1,18 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTTPClientWorkThread
-// Auto reconstructed from vtable block @ 0x00EE61C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTTPClientWorkThread::~CHTTPClientWorkThread()
-1	SteamThreadTools::CThread::Init(void)
-2	CWorkThread::Run(void)
-3	CWorkThread::OnExit(void)
-4	SteamThreadTools::CThread::IsThreadRunning(void)const
-5	SteamThreadTools::CThread::GetThreadProc(void)
-6	CWorkThread::Cancel(void)
-7	CWorkThread::OnStart(void)
-8	CHTTPClientWorkThread::Validate(CValidator &,char const*)
-90	asc_C1CE82
-10	asc_C1B441
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTTPClientWorkThread
+// Auto reconstructed from vtable block @ 0x00EE61C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPClientWorkThread::~CHTTPClientWorkThread()
+1	SteamThreadTools::CThread::Init(void)
+2	CWorkThread::Run(void)
+3	CWorkThread::OnExit(void)
+4	SteamThreadTools::CThread::IsThreadRunning(void)const
+5	SteamThreadTools::CThread::GetThreadProc(void)
+6	CWorkThread::Cancel(void)
+7	CWorkThread::OnStart(void)
+8	CHTTPClientWorkThread::Validate(CValidator &,char const*)
+90	asc_C1CE82
+10	asc_C1B441
+

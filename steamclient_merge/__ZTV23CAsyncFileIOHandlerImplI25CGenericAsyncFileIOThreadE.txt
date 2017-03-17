@@ -1,18 +1,18 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>
-// Auto reconstructed from vtable block @ 0x00EF2750
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::~CAsyncFileIOHandlerImpl()
-1	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::BPostAsyncItem(CAsyncFileIOItem *)
-2	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetCompletedAsyncItem(void)
-3	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetPendingItems(void)
-4	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::CancelAllOutstandingIO(void)
-5	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::BIsFinishedWithIO(void)
-6	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::FreeFileResource(char const*,bool)
-7	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::SetLogFile(CLogFile *)
-8	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetReadDirectory(void)const
-90	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetWriteDirectory(void)const
-10	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>
+// Auto reconstructed from vtable block @ 0x00EF2750
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::~CAsyncFileIOHandlerImpl()
+1	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::BPostAsyncItem(CAsyncFileIOItem *)
+2	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetCompletedAsyncItem(void)
+3	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetPendingItems(void)
+4	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::CancelAllOutstandingIO(void)
+5	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::BIsFinishedWithIO(void)
+6	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::FreeFileResource(char const*,bool)
+7	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::SetLogFile(CLogFile *)
+8	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetReadDirectory(void)const
+90	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::GetWriteDirectory(void)const
+10	CAsyncFileIOHandlerImpl<CGenericAsyncFileIOThread>::Validate(CValidator &,char const*)
+

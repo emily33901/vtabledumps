@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLProtoBufMsg<CMsgPostURL>
-// Auto reconstructed from vtable block @ 0x00F05958
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLProtoBufMsg<CMsgPostURL>::~CHTMLProtoBufMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgPostURL>
+// Auto reconstructed from vtable block @ 0x00F05958
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgPostURL>::~CHTMLProtoBufMsg()
+

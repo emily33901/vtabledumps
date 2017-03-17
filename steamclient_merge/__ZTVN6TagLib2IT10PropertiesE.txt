@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::IT::Properties
-// Auto reconstructed from vtable block @ 0x00EE2FA8
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::IT::Properties::~Properties()
-1	TagLib::IT::Properties::length(void)const
-2	TagLib::IT::Properties::bitrate(void)const
-3	TagLib::IT::Properties::sampleRate(void)const
-4	TagLib::IT::Properties::channels(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::IT::Properties
+// Auto reconstructed from vtable block @ 0x00EE2FA8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::IT::Properties::~Properties()
+1	TagLib::IT::Properties::length(void)const
+2	TagLib::IT::Properties::bitrate(void)const
+3	TagLib::IT::Properties::sampleRate(void)const
+4	TagLib::IT::Properties::channels(void)const
+

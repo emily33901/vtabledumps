@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgRemoteDeviceStreamingResponse
-// Auto reconstructed from vtable block @ 0x00EC9E70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgRemoteDeviceStreamingResponse::~CMsgRemoteDeviceStreamingResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgRemoteDeviceStreamingResponse::New(void)const
-3	CMsgRemoteDeviceStreamingResponse::Clear(void)
-4	CMsgRemoteDeviceStreamingResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgRemoteDeviceStreamingResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgRemoteDeviceStreamingResponse::ByteSize(void)const
-90	CMsgRemoteDeviceStreamingResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgRemoteDeviceStreamingResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgRemoteDeviceStreamingResponse::GetCachedSize(void)const
-12	CMsgRemoteDeviceStreamingResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgRemoteDeviceStreamingResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgRemoteDeviceStreamingResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgRemoteDeviceStreamingResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRemoteDeviceStreamingResponse
+// Auto reconstructed from vtable block @ 0x00EC9E70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteDeviceStreamingResponse::~CMsgRemoteDeviceStreamingResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRemoteDeviceStreamingResponse::New(void)const
+3	CMsgRemoteDeviceStreamingResponse::Clear(void)
+4	CMsgRemoteDeviceStreamingResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRemoteDeviceStreamingResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRemoteDeviceStreamingResponse::ByteSize(void)const
+90	CMsgRemoteDeviceStreamingResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRemoteDeviceStreamingResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRemoteDeviceStreamingResponse::GetCachedSize(void)const
+12	CMsgRemoteDeviceStreamingResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgRemoteDeviceStreamingResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRemoteDeviceStreamingResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRemoteDeviceStreamingResponse::GetMetadata(void)const
+

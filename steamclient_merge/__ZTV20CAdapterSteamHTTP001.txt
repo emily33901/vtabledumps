@@ -1,22 +1,22 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamHTTP001
-// Auto reconstructed from vtable block @ 0x00F07F70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamHTTP001::CreateHTTPRequest(EHTTPMethod,char const*)
-1	CAdapterSteamHTTP001::SetHTTPRequestContextValue(unsigned int,unsigned long long)
-2	CAdapterSteamHTTP001::SetHTTPRequestNetworkActivityTimeout(unsigned int,unsigned int)
-3	CAdapterSteamHTTP001::SetHTTPRequestHeaderValue(unsigned int,char const*,char const*)
-4	CAdapterSteamHTTP001::SetHTTPRequestGetOrPostParameter(unsigned int,char const*,char const*)
-5	CAdapterSteamHTTP001::SendHTTPRequest(unsigned int,unsigned long long *)
-6	CAdapterSteamHTTP001::DeferHTTPRequest(unsigned int)
-7	CAdapterSteamHTTP001::PrioritizeHTTPRequest(unsigned int)
-8	CAdapterSteamHTTP001::GetHTTPResponseHeaderSize(unsigned int,char const*,unsigned int *)
-9	CAdapterSteamHTTP001::GetHTTPResponseHeaderValue(unsigned int,char const*,unsigned char *,unsigned int)
-10	CAdapterSteamHTTP001::GetHTTPResponseBodySize(unsigned int,unsigned int *)
-11	CAdapterSteamHTTP001::GetHTTPResponseBodyData(unsigned int,unsigned char *,unsigned int)
-12	CAdapterSteamHTTP001::ReleaseHTTPRequest(unsigned int)
-13	CAdapterSteamHTTP001::GetHTTPDownloadProgressPct(unsigned int,float *)
-14	CAdapterSteamHTTP001::SetHTTPRequestRawPostBody(unsigned int,char const*,unsigned char *,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamHTTP001
+// Auto reconstructed from vtable block @ 0x00F07F70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamHTTP001::CreateHTTPRequest(EHTTPMethod,char const*)
+1	CAdapterSteamHTTP001::SetHTTPRequestContextValue(unsigned int,unsigned long long)
+2	CAdapterSteamHTTP001::SetHTTPRequestNetworkActivityTimeout(unsigned int,unsigned int)
+3	CAdapterSteamHTTP001::SetHTTPRequestHeaderValue(unsigned int,char const*,char const*)
+4	CAdapterSteamHTTP001::SetHTTPRequestGetOrPostParameter(unsigned int,char const*,char const*)
+5	CAdapterSteamHTTP001::SendHTTPRequest(unsigned int,unsigned long long *)
+6	CAdapterSteamHTTP001::DeferHTTPRequest(unsigned int)
+7	CAdapterSteamHTTP001::PrioritizeHTTPRequest(unsigned int)
+8	CAdapterSteamHTTP001::GetHTTPResponseHeaderSize(unsigned int,char const*,unsigned int *)
+9	CAdapterSteamHTTP001::GetHTTPResponseHeaderValue(unsigned int,char const*,unsigned char *,unsigned int)
+10	CAdapterSteamHTTP001::GetHTTPResponseBodySize(unsigned int,unsigned int *)
+11	CAdapterSteamHTTP001::GetHTTPResponseBodyData(unsigned int,unsigned char *,unsigned int)
+12	CAdapterSteamHTTP001::ReleaseHTTPRequest(unsigned int)
+13	CAdapterSteamHTTP001::GetHTTPDownloadProgressPct(unsigned int,float *)
+14	CAdapterSteamHTTP001::SetHTTPRequestRawPostBody(unsigned int,char const*,unsigned char *,unsigned int)
+

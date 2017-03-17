@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDepotBuildHTTP
-// Auto reconstructed from vtable block @ 0x00ED1F20
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDepotBuildHTTP::~CDepotBuildHTTP()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDepotBuildHTTP
+// Auto reconstructed from vtable block @ 0x00ED1F20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotBuildHTTP::~CDepotBuildHTTP()
+

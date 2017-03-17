@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInventory_ConsumePlaytime_Request
-// Auto reconstructed from vtable block @ 0x00EC5AA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInventory_ConsumePlaytime_Request::~CInventory_ConsumePlaytime_Request()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CInventory_ConsumePlaytime_Request::New(void)const
-3	CInventory_ConsumePlaytime_Request::Clear(void)
-4	CInventory_ConsumePlaytime_Request::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CInventory_ConsumePlaytime_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CInventory_ConsumePlaytime_Request::ByteSize(void)const
-90	CInventory_ConsumePlaytime_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CInventory_ConsumePlaytime_Request::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CInventory_ConsumePlaytime_Request::GetCachedSize(void)const
-12	CInventory_ConsumePlaytime_Request::CopyFrom(google::protobuf::Message const&)
-13	CInventory_ConsumePlaytime_Request::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInventory_ConsumePlaytime_Request
+// Auto reconstructed from vtable block @ 0x00EC5AA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInventory_ConsumePlaytime_Request::~CInventory_ConsumePlaytime_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CInventory_ConsumePlaytime_Request::New(void)const
+3	CInventory_ConsumePlaytime_Request::Clear(void)
+4	CInventory_ConsumePlaytime_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CInventory_ConsumePlaytime_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CInventory_ConsumePlaytime_Request::ByteSize(void)const
+90	CInventory_ConsumePlaytime_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CInventory_ConsumePlaytime_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CInventory_ConsumePlaytime_Request::GetCachedSize(void)const
+12	CInventory_ConsumePlaytime_Request::CopyFrom(google::protobuf::Message const&)
+13	CInventory_ConsumePlaytime_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamController004
-// Auto reconstructed from vtable block @ 0x00F07E50
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamController004::Init(void)
-1	CAdapterSteamController004::Shutdown(void)
-2	CAdapterSteamController004::RunFrame(void)
-3	CAdapterSteamController004::GetConnectedControllers(unsigned long long *)
-4	CAdapterSteamController004::ShowBindingPanel(unsigned long long)
-5	CAdapterSteamController004::GetActionSetHandle(char const*)
-6	CAdapterSteamController004::ActivateActionSet(unsigned long long,unsigned long long)
-7	CAdapterSteamController004::GetCurrentActionSet(unsigned long long)
-8	CAdapterSteamController004::GetDigitalActionHandle(char const*)
-9	CAdapterSteamController004::GetDigitalActionData(unsigned long long,unsigned long long)
-10	CAdapterSteamController004::GetDigitalActionOrigins(unsigned long long,unsigned long long,unsigned long long,EControllerActionOrigin *)
-11	CAdapterSteamController004::GetAnalogActionHandle(char const*)
-12	CAdapterSteamController004::GetAnalogActionData(unsigned long long,unsigned long long)
-13	CAdapterSteamController004::GetAnalogActionOrigins(unsigned long long,unsigned long long,unsigned long long,EControllerActionOrigin *)
-14	CAdapterSteamController004::StopAnalogActionMomentum(unsigned long long,unsigned long long)
-15	CAdapterSteamController004::TriggerHapticPulse(unsigned long long,ESteamControllerPad,unsigned short)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamController004
+// Auto reconstructed from vtable block @ 0x00F07E50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamController004::Init(void)
+1	CAdapterSteamController004::Shutdown(void)
+2	CAdapterSteamController004::RunFrame(void)
+3	CAdapterSteamController004::GetConnectedControllers(unsigned long long *)
+4	CAdapterSteamController004::ShowBindingPanel(unsigned long long)
+5	CAdapterSteamController004::GetActionSetHandle(char const*)
+6	CAdapterSteamController004::ActivateActionSet(unsigned long long,unsigned long long)
+7	CAdapterSteamController004::GetCurrentActionSet(unsigned long long)
+8	CAdapterSteamController004::GetDigitalActionHandle(char const*)
+9	CAdapterSteamController004::GetDigitalActionData(unsigned long long,unsigned long long)
+10	CAdapterSteamController004::GetDigitalActionOrigins(unsigned long long,unsigned long long,unsigned long long,EControllerActionOrigin *)
+11	CAdapterSteamController004::GetAnalogActionHandle(char const*)
+12	CAdapterSteamController004::GetAnalogActionData(unsigned long long,unsigned long long)
+13	CAdapterSteamController004::GetAnalogActionOrigins(unsigned long long,unsigned long long,unsigned long long,EControllerActionOrigin *)
+14	CAdapterSteamController004::StopAnalogActionMomentum(unsigned long long,unsigned long long)
+15	CAdapterSteamController004::TriggerHapticPulse(unsigned long long,ESteamControllerPad,unsigned short)
+

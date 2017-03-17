@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgLoadingResource
-// Auto reconstructed from vtable block @ 0x00ECC4E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgLoadingResource::~CMsgLoadingResource()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgLoadingResource::New(void)const
-3	CMsgLoadingResource::Clear(void)
-4	CMsgLoadingResource::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgLoadingResource::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgLoadingResource::ByteSize(void)const
-90	CMsgLoadingResource::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgLoadingResource::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgLoadingResource::GetCachedSize(void)const
-12	CMsgLoadingResource::CopyFrom(google::protobuf::Message const&)
-13	CMsgLoadingResource::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgLoadingResource
+// Auto reconstructed from vtable block @ 0x00ECC4E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgLoadingResource::~CMsgLoadingResource()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgLoadingResource::New(void)const
+3	CMsgLoadingResource::Clear(void)
+4	CMsgLoadingResource::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgLoadingResource::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgLoadingResource::ByteSize(void)const
+90	CMsgLoadingResource::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgLoadingResource::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgLoadingResource::GetCachedSize(void)const
+12	CMsgLoadingResource::CopyFrom(google::protobuf::Message const&)
+13	CMsgLoadingResource::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

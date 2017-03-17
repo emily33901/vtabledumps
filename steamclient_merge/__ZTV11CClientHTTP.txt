@@ -1,15 +1,15 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientHTTP
-// Auto reconstructed from vtable block @ 0x00ECE8B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientHTTP::CreateHTTPRequest(EHTTPMethod,char const*)
-1	CClientHTTP::SetHTTPRequestContextValue(unsigned int,unsigned long long)
-2	CClientHTTP::SetHTTPRequestNetworkActivityTimeout(unsigned int,unsigned int)
-3	CClientHTTP::SetHTTPRequestHeaderValue(unsigned int,char const*,char const*)
-4	CClientHTTP::SetHTTPRequestGetOrPostParameter(unsigned int,char const*,char const*)
-5	CClientHTTP::SendHTTPRequest(unsigned int,unsigned long long *)
-6	CClientHTTP::SendHTTPRequestAndStreamResponse(unsigned int,unsigned long long *)
-7	CClientHTTP::DeferHTTPRequest(unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientHTTP
+// Auto reconstructed from vtable block @ 0x00ECE8B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientHTTP::CreateHTTPRequest(EHTTPMethod,char const*)
+1	CClientHTTP::SetHTTPRequestContextValue(unsigned int,unsigned long long)
+2	CClientHTTP::SetHTTPRequestNetworkActivityTimeout(unsigned int,unsigned int)
+3	CClientHTTP::SetHTTPRequestHeaderValue(unsigned int,char const*,char const*)
+4	CClientHTTP::SetHTTPRequestGetOrPostParameter(unsigned int,char const*,char const*)
+5	CClientHTTP::SendHTTPRequest(unsigned int,unsigned long long *)
+6	CClientHTTP::SendHTTPRequestAndStreamResponse(unsigned int,unsigned long long *)
+7	CClientHTTP::DeferHTTPRequest(unsigned int)
+

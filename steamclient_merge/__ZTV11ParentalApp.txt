@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'ParentalApp
-// Auto reconstructed from vtable block @ 0x00EC6380
-// from "steamclient.dylib", by ida_vtables.idc
-0	ParentalApp::~ParentalApp()
-1	google::protobuf::Message::GetTypeName(void)const
-2	ParentalApp::New(void)const
-3	ParentalApp::Clear(void)
-4	ParentalApp::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	ParentalApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	ParentalApp::ByteSize(void)const
-90	ParentalApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	ParentalApp::SerializeWithCachedSizesToArray(unsigned char *)const
-11	ParentalApp::GetCachedSize(void)const
-12	ParentalApp::CopyFrom(google::protobuf::Message const&)
-13	ParentalApp::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	ParentalApp::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	ParentalApp::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ParentalApp
+// Auto reconstructed from vtable block @ 0x00EC6380
+// from "steamclient.dylib", by ida_vtables.idc
+0	ParentalApp::~ParentalApp()
+1	google::protobuf::Message::GetTypeName(void)const
+2	ParentalApp::New(void)const
+3	ParentalApp::Clear(void)
+4	ParentalApp::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	ParentalApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	ParentalApp::ByteSize(void)const
+90	ParentalApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	ParentalApp::SerializeWithCachedSizesToArray(unsigned char *)const
+11	ParentalApp::GetCachedSize(void)const
+12	ParentalApp::CopyFrom(google::protobuf::Message const&)
+13	ParentalApp::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	ParentalApp::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	ParentalApp::GetMetadata(void)const
+

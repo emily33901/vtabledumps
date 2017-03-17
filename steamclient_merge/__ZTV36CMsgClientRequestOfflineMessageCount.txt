@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientRequestOfflineMessageCount
-// Auto reconstructed from vtable block @ 0x00EEFB10
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientRequestOfflineMessageCount::~CMsgClientRequestOfflineMessageCount()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientRequestOfflineMessageCount::New(void)const
-3	CMsgClientRequestOfflineMessageCount::Clear(void)
-4	CMsgClientRequestOfflineMessageCount::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientRequestOfflineMessageCount::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientRequestOfflineMessageCount::ByteSize(void)const
-90	CMsgClientRequestOfflineMessageCount::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientRequestOfflineMessageCount::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientRequestOfflineMessageCount::GetCachedSize(void)const
-12	CMsgClientRequestOfflineMessageCount::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientRequestOfflineMessageCount::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientRequestOfflineMessageCount::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientRequestOfflineMessageCount::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRequestOfflineMessageCount
+// Auto reconstructed from vtable block @ 0x00EEFB10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRequestOfflineMessageCount::~CMsgClientRequestOfflineMessageCount()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRequestOfflineMessageCount::New(void)const
+3	CMsgClientRequestOfflineMessageCount::Clear(void)
+4	CMsgClientRequestOfflineMessageCount::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRequestOfflineMessageCount::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRequestOfflineMessageCount::ByteSize(void)const
+90	CMsgClientRequestOfflineMessageCount::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRequestOfflineMessageCount::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRequestOfflineMessageCount::GetCachedSize(void)const
+12	CMsgClientRequestOfflineMessageCount::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRequestOfflineMessageCount::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientRequestOfflineMessageCount::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientRequestOfflineMessageCount::GetMetadata(void)const
+

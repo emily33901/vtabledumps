@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CControllerDisconnectedWorkItem
-// Auto reconstructed from vtable block @ 0x00F01C50
-// from "steamclient.dylib", by ida_vtables.idc
-0	CControllerDisconnectedWorkItem::~CControllerDisconnectedWorkItem()
-1	CControllerDisconnectedWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerDisconnectedWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CControllerDisconnectedWorkItem
+// Auto reconstructed from vtable block @ 0x00F01C50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerDisconnectedWorkItem::~CControllerDisconnectedWorkItem()
+1	CControllerDisconnectedWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerDisconnectedWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'COffline_OfflineLogonTicket
-// Auto reconstructed from vtable block @ 0x00EC6260
-// from "steamclient.dylib", by ida_vtables.idc
-0	COffline_OfflineLogonTicket::~COffline_OfflineLogonTicket()
-1	google::protobuf::Message::GetTypeName(void)const
-2	COffline_OfflineLogonTicket::New(void)const
-3	COffline_OfflineLogonTicket::Clear(void)
-4	COffline_OfflineLogonTicket::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	COffline_OfflineLogonTicket::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	COffline_OfflineLogonTicket::ByteSize(void)const
-90	COffline_OfflineLogonTicket::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	COffline_OfflineLogonTicket::SerializeWithCachedSizesToArray(unsigned char *)const
-11	COffline_OfflineLogonTicket::GetCachedSize(void)const
-12	COffline_OfflineLogonTicket::CopyFrom(google::protobuf::Message const&)
-13	COffline_OfflineLogonTicket::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'COffline_OfflineLogonTicket
+// Auto reconstructed from vtable block @ 0x00EC6260
+// from "steamclient.dylib", by ida_vtables.idc
+0	COffline_OfflineLogonTicket::~COffline_OfflineLogonTicket()
+1	google::protobuf::Message::GetTypeName(void)const
+2	COffline_OfflineLogonTicket::New(void)const
+3	COffline_OfflineLogonTicket::Clear(void)
+4	COffline_OfflineLogonTicket::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	COffline_OfflineLogonTicket::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	COffline_OfflineLogonTicket::ByteSize(void)const
+90	COffline_OfflineLogonTicket::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	COffline_OfflineLogonTicket::SerializeWithCachedSizesToArray(unsigned char *)const
+11	COffline_OfflineLogonTicket::GetCachedSize(void)const
+12	COffline_OfflineLogonTicket::CopyFrom(google::protobuf::Message const&)
+13	COffline_OfflineLogonTicket::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

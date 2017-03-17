@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>
-// Auto reconstructed from vtable block @ 0x00F1F004
-// from "steamclient.dylib", by ida_vtables.idc
-0	sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>::~_signal_base2()
-1	sigslot::single_threaded::lock(void)
-2	sigslot::single_threaded::unlock(void)
-3	sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>::slot_disconnect(sigslot::has_slots<sigslot::single_threaded> *)
-4	sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>::slot_duplicate(sigslot::has_slots<sigslot::single_threaded> const*,sigslot::has_slots<sigslot::single_threaded>*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1F004
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>::~_signal_base2()
+1	sigslot::single_threaded::lock(void)
+2	sigslot::single_threaded::unlock(void)
+3	sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>::slot_disconnect(sigslot::has_slots<sigslot::single_threaded> *)
+4	sigslot::_signal_base2<cricket::TransportChannel *,talk_base::SocketAddress const&,sigslot::single_threaded>::slot_duplicate(sigslot::has_slots<sigslot::single_threaded> const*,sigslot::has_slots<sigslot::single_threaded>*)
+

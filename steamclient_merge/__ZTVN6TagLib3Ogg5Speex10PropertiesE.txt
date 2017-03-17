@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::Ogg::Speex::Properties
-// Auto reconstructed from vtable block @ 0x00EE3808
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::Ogg::Speex::Properties::~Properties()
-1	TagLib::Ogg::Speex::Properties::length(void)const
-2	TagLib::Ogg::Speex::Properties::bitrate(void)const
-3	TagLib::Ogg::Speex::Properties::sampleRate(void)const
-4	TagLib::Ogg::Speex::Properties::channels(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::Speex::Properties
+// Auto reconstructed from vtable block @ 0x00EE3808
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::Speex::Properties::~Properties()
+1	TagLib::Ogg::Speex::Properties::length(void)const
+2	TagLib::Ogg::Speex::Properties::bitrate(void)const
+3	TagLib::Ogg::Speex::Properties::sampleRate(void)const
+4	TagLib::Ogg::Speex::Properties::channels(void)const
+

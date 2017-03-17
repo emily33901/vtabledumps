@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamHTMLSurface003
-// Auto reconstructed from vtable block @ 0x00F07B80
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamHTMLSurface003::~CAdapterSteamHTMLSurface003()
-1	CAdapterSteamHTMLSurface003::Init(void)
-2	CAdapterSteamHTMLSurface003::Shutdown(void)
-3	CAdapterSteamHTMLSurface003::CreateBrowser(char const*,char const*)
-4	CAdapterSteamHTMLSurface003::RemoveBrowser(unsigned int)
-5	CAdapterSteamHTMLSurface003::LoadURL(unsigned int,char const*,char const*)
-6	CAdapterSteamHTMLSurface003::SetSize(unsigned int,unsigned int,unsigned int)
-7	CAdapterSteamHTMLSurface003::StopLoad(unsigned int)
-8	CAdapterSteamHTMLSurface003::Reload(unsigned int)
-90	CAdapterSteamHTMLSurface003::GoBack(unsigned int)
-10	CAdapterSteamHTMLSurface003::GoForward(unsigned int)
-11	CAdapterSteamHTMLSurface003::AddHeader(unsigned int,char const*,char const*)
-12	CAdapterSteamHTMLSurface003::ExecuteJavascript(unsigned int,char const*)
-13	CAdapterSteamHTMLSurface003::MouseUp(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
-14	CAdapterSteamHTMLSurface003::MouseDown(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
-15	CAdapterSteamHTMLSurface003::MouseDoubleClick(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamHTMLSurface003
+// Auto reconstructed from vtable block @ 0x00F07B80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamHTMLSurface003::~CAdapterSteamHTMLSurface003()
+1	CAdapterSteamHTMLSurface003::Init(void)
+2	CAdapterSteamHTMLSurface003::Shutdown(void)
+3	CAdapterSteamHTMLSurface003::CreateBrowser(char const*,char const*)
+4	CAdapterSteamHTMLSurface003::RemoveBrowser(unsigned int)
+5	CAdapterSteamHTMLSurface003::LoadURL(unsigned int,char const*,char const*)
+6	CAdapterSteamHTMLSurface003::SetSize(unsigned int,unsigned int,unsigned int)
+7	CAdapterSteamHTMLSurface003::StopLoad(unsigned int)
+8	CAdapterSteamHTMLSurface003::Reload(unsigned int)
+90	CAdapterSteamHTMLSurface003::GoBack(unsigned int)
+10	CAdapterSteamHTMLSurface003::GoForward(unsigned int)
+11	CAdapterSteamHTMLSurface003::AddHeader(unsigned int,char const*,char const*)
+12	CAdapterSteamHTMLSurface003::ExecuteJavascript(unsigned int,char const*)
+13	CAdapterSteamHTMLSurface003::MouseUp(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+14	CAdapterSteamHTMLSurface003::MouseDown(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+15	CAdapterSteamHTMLSurface003::MouseDoubleClick(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+

@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>
-// Auto reconstructed from vtable block @ 0x00F0EF60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::Init(CSysModule *)
-1	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::Release(void)
-2	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>
+// Auto reconstructed from vtable block @ 0x00F0EF60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::Init(CSysModule *)
+1	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::Release(void)
+2	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_error (*)(sp_session *,sp_bitrate)>::GetNextPointer(void)
+

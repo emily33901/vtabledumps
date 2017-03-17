@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientLogFile
-// Auto reconstructed from vtable block @ 0x00EFD8E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientLogFile::~CClientLogFile()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientLogFile
+// Auto reconstructed from vtable block @ 0x00EFD8E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientLogFile::~CClientLogFile()
+

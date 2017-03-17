@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamMusicRemote001
-// Auto reconstructed from vtable block @ 0x00F065E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamMusicRemote001::RegisterSteamMusicRemote(char const*)
-1	CAdapterSteamMusicRemote001::DeregisterSteamMusicRemote(void)
-2	CAdapterSteamMusicRemote001::BIsCurrentMusicRemote(void)
-3	CAdapterSteamMusicRemote001::BActivationSuccess(bool)
-4	CAdapterSteamMusicRemote001::SetDisplayName(char const*)
-5	CAdapterSteamMusicRemote001::SetPNGIcon_64x64(void *,unsigned int)
-6	CAdapterSteamMusicRemote001::EnablePlayPrevious(bool)
-7	CAdapterSteamMusicRemote001::EnablePlayNext(bool)
-8	CAdapterSteamMusicRemote001::EnableShuffled(bool)
-9	CAdapterSteamMusicRemote001::EnableLooped(bool)
-10	CAdapterSteamMusicRemote001::EnableQueue(bool)
-11	CAdapterSteamMusicRemote001::EnablePlaylists(bool)
-12	CAdapterSteamMusicRemote001::UpdatePlaybackStatus(AudioPlayback_Status)
-13	CAdapterSteamMusicRemote001::UpdateShuffled(bool)
-14	CAdapterSteamMusicRemote001::UpdateLooped(bool)
-15	CAdapterSteamMusicRemote001::UpdateVolume(float)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamMusicRemote001
+// Auto reconstructed from vtable block @ 0x00F065E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMusicRemote001::RegisterSteamMusicRemote(char const*)
+1	CAdapterSteamMusicRemote001::DeregisterSteamMusicRemote(void)
+2	CAdapterSteamMusicRemote001::BIsCurrentMusicRemote(void)
+3	CAdapterSteamMusicRemote001::BActivationSuccess(bool)
+4	CAdapterSteamMusicRemote001::SetDisplayName(char const*)
+5	CAdapterSteamMusicRemote001::SetPNGIcon_64x64(void *,unsigned int)
+6	CAdapterSteamMusicRemote001::EnablePlayPrevious(bool)
+7	CAdapterSteamMusicRemote001::EnablePlayNext(bool)
+8	CAdapterSteamMusicRemote001::EnableShuffled(bool)
+9	CAdapterSteamMusicRemote001::EnableLooped(bool)
+10	CAdapterSteamMusicRemote001::EnableQueue(bool)
+11	CAdapterSteamMusicRemote001::EnablePlaylists(bool)
+12	CAdapterSteamMusicRemote001::UpdatePlaybackStatus(AudioPlayback_Status)
+13	CAdapterSteamMusicRemote001::UpdateShuffled(bool)
+14	CAdapterSteamMusicRemote001::UpdateLooped(bool)
+15	CAdapterSteamMusicRemote001::UpdateVolume(float)
+

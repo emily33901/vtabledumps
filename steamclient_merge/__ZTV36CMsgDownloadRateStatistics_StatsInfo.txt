@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgDownloadRateStatistics_StatsInfo
-// Auto reconstructed from vtable block @ 0x00EEEA30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgDownloadRateStatistics_StatsInfo::~CMsgDownloadRateStatistics_StatsInfo()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgDownloadRateStatistics_StatsInfo::New(void)const
-3	CMsgDownloadRateStatistics_StatsInfo::Clear(void)
-4	CMsgDownloadRateStatistics_StatsInfo::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgDownloadRateStatistics_StatsInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgDownloadRateStatistics_StatsInfo::ByteSize(void)const
-90	CMsgDownloadRateStatistics_StatsInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgDownloadRateStatistics_StatsInfo::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgDownloadRateStatistics_StatsInfo::GetCachedSize(void)const
-12	CMsgDownloadRateStatistics_StatsInfo::CopyFrom(google::protobuf::Message const&)
-13	CMsgDownloadRateStatistics_StatsInfo::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgDownloadRateStatistics_StatsInfo::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgDownloadRateStatistics_StatsInfo::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgDownloadRateStatistics_StatsInfo
+// Auto reconstructed from vtable block @ 0x00EEEA30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgDownloadRateStatistics_StatsInfo::~CMsgDownloadRateStatistics_StatsInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgDownloadRateStatistics_StatsInfo::New(void)const
+3	CMsgDownloadRateStatistics_StatsInfo::Clear(void)
+4	CMsgDownloadRateStatistics_StatsInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgDownloadRateStatistics_StatsInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgDownloadRateStatistics_StatsInfo::ByteSize(void)const
+90	CMsgDownloadRateStatistics_StatsInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgDownloadRateStatistics_StatsInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgDownloadRateStatistics_StatsInfo::GetCachedSize(void)const
+12	CMsgDownloadRateStatistics_StatsInfo::CopyFrom(google::protobuf::Message const&)
+13	CMsgDownloadRateStatistics_StatsInfo::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgDownloadRateStatistics_StatsInfo::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgDownloadRateStatistics_StatsInfo::GetMetadata(void)const
+

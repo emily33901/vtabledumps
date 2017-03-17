@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgTrading_InitiateTradeResponse
-// Auto reconstructed from vtable block @ 0x00EEE4F0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgTrading_InitiateTradeResponse::~CMsgTrading_InitiateTradeResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgTrading_InitiateTradeResponse::New(void)const
-3	CMsgTrading_InitiateTradeResponse::Clear(void)
-4	CMsgTrading_InitiateTradeResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgTrading_InitiateTradeResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgTrading_InitiateTradeResponse::ByteSize(void)const
-90	CMsgTrading_InitiateTradeResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgTrading_InitiateTradeResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgTrading_InitiateTradeResponse::GetCachedSize(void)const
-12	CMsgTrading_InitiateTradeResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgTrading_InitiateTradeResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgTrading_InitiateTradeResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgTrading_InitiateTradeResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTrading_InitiateTradeResponse
+// Auto reconstructed from vtable block @ 0x00EEE4F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgTrading_InitiateTradeResponse::~CMsgTrading_InitiateTradeResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTrading_InitiateTradeResponse::New(void)const
+3	CMsgTrading_InitiateTradeResponse::Clear(void)
+4	CMsgTrading_InitiateTradeResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTrading_InitiateTradeResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTrading_InitiateTradeResponse::ByteSize(void)const
+90	CMsgTrading_InitiateTradeResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTrading_InitiateTradeResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTrading_InitiateTradeResponse::GetCachedSize(void)const
+12	CMsgTrading_InitiateTradeResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgTrading_InitiateTradeResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTrading_InitiateTradeResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTrading_InitiateTradeResponse::GetMetadata(void)const
+

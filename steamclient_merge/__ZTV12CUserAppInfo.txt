@@ -1,17 +1,17 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CUserAppInfo
-// Auto reconstructed from vtable block @ 0x00ECE2C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CUserAppInfo::GetAppData(unsigned int,char const*,char *,int)
-1	CUserAppInfo::SetLocalAppConfig(unsigned int,unsigned char *,int)
-2	CUserAppInfo::GetInternalAppIDFromGameID(CGameID)
-3	CUserAppInfo::GetAllOwnedMultiplayerApps(unsigned int *,int)
-4	CUserAppInfo::GetAppDataSection(unsigned int,int,unsigned char *,int,bool)
-5	CUserAppInfo::RequestAppInfoUpdate(unsigned int const*,int)
-6	CUserAppInfo::GetDLCCount(unsigned int)
-7	CUserAppInfo::BGetDLCDataByIndex(unsigned int,int,unsigned int *,bool *,char *,int)
-8	CUserAppInfo::GetAppType(unsigned int)
-9	CUserAppInfo::~CUserAppInfo()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUserAppInfo
+// Auto reconstructed from vtable block @ 0x00ECE2C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUserAppInfo::GetAppData(unsigned int,char const*,char *,int)
+1	CUserAppInfo::SetLocalAppConfig(unsigned int,unsigned char *,int)
+2	CUserAppInfo::GetInternalAppIDFromGameID(CGameID)
+3	CUserAppInfo::GetAllOwnedMultiplayerApps(unsigned int *,int)
+4	CUserAppInfo::GetAppDataSection(unsigned int,int,unsigned char *,int,bool)
+5	CUserAppInfo::RequestAppInfoUpdate(unsigned int const*,int)
+6	CUserAppInfo::GetDLCCount(unsigned int)
+7	CUserAppInfo::BGetDLCDataByIndex(unsigned int,int,unsigned int *,bool *,char *,int)
+8	CUserAppInfo::GetAppType(unsigned int)
+9	CUserAppInfo::~CUserAppInfo()
+

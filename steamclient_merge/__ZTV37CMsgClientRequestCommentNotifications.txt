@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientRequestCommentNotifications
-// Auto reconstructed from vtable block @ 0x00EEFA50
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientRequestCommentNotifications::~CMsgClientRequestCommentNotifications()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientRequestCommentNotifications::New(void)const
-3	CMsgClientRequestCommentNotifications::Clear(void)
-4	CMsgClientRequestCommentNotifications::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientRequestCommentNotifications::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientRequestCommentNotifications::ByteSize(void)const
-90	CMsgClientRequestCommentNotifications::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientRequestCommentNotifications::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientRequestCommentNotifications::GetCachedSize(void)const
-12	CMsgClientRequestCommentNotifications::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientRequestCommentNotifications::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRequestCommentNotifications
+// Auto reconstructed from vtable block @ 0x00EEFA50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRequestCommentNotifications::~CMsgClientRequestCommentNotifications()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRequestCommentNotifications::New(void)const
+3	CMsgClientRequestCommentNotifications::Clear(void)
+4	CMsgClientRequestCommentNotifications::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRequestCommentNotifications::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRequestCommentNotifications::ByteSize(void)const
+90	CMsgClientRequestCommentNotifications::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRequestCommentNotifications::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRequestCommentNotifications::GetCachedSize(void)const
+12	CMsgClientRequestCommentNotifications::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRequestCommentNotifications::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

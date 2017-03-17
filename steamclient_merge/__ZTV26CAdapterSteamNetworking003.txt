@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamNetworking003
-// Auto reconstructed from vtable block @ 0x00F08230
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamNetworking003::SendP2PPacket(CSteamID,void const*,unsigned int,EP2PSend)
-1	CAdapterSteamNetworking003::IsP2PPacketAvailable(unsigned int *)
-2	CAdapterSteamNetworking003::ReadP2PPacket(void *,unsigned int,unsigned int *,CSteamID *)
-3	CAdapterSteamNetworking003::AcceptP2PSessionWithUser(CSteamID)
-4	CAdapterSteamNetworking003::CloseP2PSessionWithUser(CSteamID)
-5	CAdapterSteamNetworking003::GetP2PSessionState(CSteamID,P2PSessionState_t *)
-6	CAdapterSteamNetworking003::CreateListenSocket(int,unsigned int,unsigned short,bool)
-7	CAdapterSteamNetworking003::CreateP2PConnectionSocket(CSteamID,int,int,bool)
-8	CAdapterSteamNetworking003::CreateConnectionSocket(unsigned int,unsigned short,int)
-9	CAdapterSteamNetworking003::DestroySocket(unsigned int,bool)
-10	CAdapterSteamNetworking003::DestroyListenSocket(unsigned int,bool)
-11	CAdapterSteamNetworking003::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
-12	CAdapterSteamNetworking003::IsDataAvailableOnSocket(unsigned int,unsigned int *)
-13	CAdapterSteamNetworking003::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
-14	CAdapterSteamNetworking003::IsDataAvailable(unsigned int,unsigned int *,unsigned int *)
-15	CAdapterSteamNetworking003::RetrieveData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamNetworking003
+// Auto reconstructed from vtable block @ 0x00F08230
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamNetworking003::SendP2PPacket(CSteamID,void const*,unsigned int,EP2PSend)
+1	CAdapterSteamNetworking003::IsP2PPacketAvailable(unsigned int *)
+2	CAdapterSteamNetworking003::ReadP2PPacket(void *,unsigned int,unsigned int *,CSteamID *)
+3	CAdapterSteamNetworking003::AcceptP2PSessionWithUser(CSteamID)
+4	CAdapterSteamNetworking003::CloseP2PSessionWithUser(CSteamID)
+5	CAdapterSteamNetworking003::GetP2PSessionState(CSteamID,P2PSessionState_t *)
+6	CAdapterSteamNetworking003::CreateListenSocket(int,unsigned int,unsigned short,bool)
+7	CAdapterSteamNetworking003::CreateP2PConnectionSocket(CSteamID,int,int,bool)
+8	CAdapterSteamNetworking003::CreateConnectionSocket(unsigned int,unsigned short,int)
+9	CAdapterSteamNetworking003::DestroySocket(unsigned int,bool)
+10	CAdapterSteamNetworking003::DestroyListenSocket(unsigned int,bool)
+11	CAdapterSteamNetworking003::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
+12	CAdapterSteamNetworking003::IsDataAvailableOnSocket(unsigned int,unsigned int *)
+13	CAdapterSteamNetworking003::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
+14	CAdapterSteamNetworking003::IsDataAvailable(unsigned int,unsigned int *,unsigned int *)
+15	CAdapterSteamNetworking003::RetrieveData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *)
+

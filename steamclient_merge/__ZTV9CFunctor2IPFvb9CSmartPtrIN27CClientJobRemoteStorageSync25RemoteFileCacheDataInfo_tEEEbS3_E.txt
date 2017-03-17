@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CFunctor2<void (*)(bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>
-// Auto reconstructed from vtable block @ 0x00EFD2B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
-1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
-2	CFunctor2<void (*)(bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>::operator()(void)
-3	CFunctor2<void (*)(bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>::~CFunctor2()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFunctor2<void (*)(bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>
+// Auto reconstructed from vtable block @ 0x00EFD2B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+2	CFunctor2<void (*)(bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>::operator()(void)
+3	CFunctor2<void (*)(bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>),bool,CSmartPtr<CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t>>::~CFunctor2()
+

@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgGSComputeNewPlayerCompatibilityResponse
-// Auto reconstructed from vtable block @ 0x00EEF330
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgGSComputeNewPlayerCompatibilityResponse::~CMsgGSComputeNewPlayerCompatibilityResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgGSComputeNewPlayerCompatibilityResponse::New(void)const
-3	CMsgGSComputeNewPlayerCompatibilityResponse::Clear(void)
-4	CMsgGSComputeNewPlayerCompatibilityResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgGSComputeNewPlayerCompatibilityResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgGSComputeNewPlayerCompatibilityResponse::ByteSize(void)const
-90	CMsgGSComputeNewPlayerCompatibilityResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgGSComputeNewPlayerCompatibilityResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgGSComputeNewPlayerCompatibilityResponse::GetCachedSize(void)const
-12	CMsgGSComputeNewPlayerCompatibilityResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgGSComputeNewPlayerCompatibilityResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgGSComputeNewPlayerCompatibilityResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgGSComputeNewPlayerCompatibilityResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGSComputeNewPlayerCompatibilityResponse
+// Auto reconstructed from vtable block @ 0x00EEF330
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGSComputeNewPlayerCompatibilityResponse::~CMsgGSComputeNewPlayerCompatibilityResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGSComputeNewPlayerCompatibilityResponse::New(void)const
+3	CMsgGSComputeNewPlayerCompatibilityResponse::Clear(void)
+4	CMsgGSComputeNewPlayerCompatibilityResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGSComputeNewPlayerCompatibilityResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGSComputeNewPlayerCompatibilityResponse::ByteSize(void)const
+90	CMsgGSComputeNewPlayerCompatibilityResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGSComputeNewPlayerCompatibilityResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGSComputeNewPlayerCompatibilityResponse::GetCachedSize(void)const
+12	CMsgGSComputeNewPlayerCompatibilityResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgGSComputeNewPlayerCompatibilityResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGSComputeNewPlayerCompatibilityResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGSComputeNewPlayerCompatibilityResponse::GetMetadata(void)const
+

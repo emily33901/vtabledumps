@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::Ogg::File
-// Auto reconstructed from vtable block @ 0x00EE3718
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::Ogg::File::~File()
-1	___cxa_pure_virtual
-2	___cxa_pure_virtual
-3	TagLib::Ogg::File::save(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::File
+// Auto reconstructed from vtable block @ 0x00EE3718
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::File::~File()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	TagLib::Ogg::File::save(void)
+

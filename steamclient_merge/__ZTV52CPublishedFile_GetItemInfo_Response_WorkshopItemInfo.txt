@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CPublishedFile_GetItemInfo_Response_WorkshopItemInfo
-// Auto reconstructed from vtable block @ 0x00EC8720
-// from "steamclient.dylib", by ida_vtables.idc
-0	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::~CPublishedFile_GetItemInfo_Response_WorkshopItemInfo()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::New(void)const
-3	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::Clear(void)
-4	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::ByteSize(void)const
-90	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::GetCachedSize(void)const
-12	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::CopyFrom(google::protobuf::Message const&)
-13	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPublishedFile_GetItemInfo_Response_WorkshopItemInfo
+// Auto reconstructed from vtable block @ 0x00EC8720
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::~CPublishedFile_GetItemInfo_Response_WorkshopItemInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::New(void)const
+3	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::Clear(void)
+4	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::ByteSize(void)const
+90	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::GetCachedSize(void)const
+12	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::CopyFrom(google::protobuf::Message const&)
+13	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPublishedFile_GetItemInfo_Response_WorkshopItemInfo::GetMetadata(void)const
+

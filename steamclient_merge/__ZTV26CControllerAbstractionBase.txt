@@ -1,21 +1,21 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CControllerAbstractionBase
-// Auto reconstructed from vtable block @ 0x00F02080
-// from "steamclient.dylib", by ida_vtables.idc
-0	CControllerAbstractionBase::~CControllerAbstractionBase()
-1	CControllerAbstractionBase::SetupController(void)
-2	___cxa_pure_virtual
-3	CControllerAbstractionBase::ReadInput(void)
-4	___cxa_pure_virtual
-5	___cxa_pure_virtual
-6	___cxa_pure_virtual
-7	CControllerAbstractionBase::GetWirelessEvent(void)
-8	___cxa_pure_virtual
-90	___cxa_pure_virtual
-10	CControllerAbstractionBase::SetUserLedColor(unsigned char,unsigned char,unsigned char)
-11	___cxa_pure_virtual
-12	___cxa_pure_virtual
-13	CControllerAbstractionBase::GetSocket(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CControllerAbstractionBase
+// Auto reconstructed from vtable block @ 0x00F02080
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerAbstractionBase::~CControllerAbstractionBase()
+1	CControllerAbstractionBase::SetupController(void)
+2	___cxa_pure_virtual
+3	CControllerAbstractionBase::ReadInput(void)
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	CControllerAbstractionBase::GetWirelessEvent(void)
+8	___cxa_pure_virtual
+90	___cxa_pure_virtual
+10	CControllerAbstractionBase::SetUserLedColor(unsigned char,unsigned char,unsigned char)
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	CControllerAbstractionBase::GetSocket(void)
+

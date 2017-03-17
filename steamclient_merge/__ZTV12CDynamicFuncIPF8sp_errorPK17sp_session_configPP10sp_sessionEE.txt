@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>
-// Auto reconstructed from vtable block @ 0x00F0F290
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::Init(CSysModule *)
-1	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::Release(void)
-2	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>
+// Auto reconstructed from vtable block @ 0x00F0F290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::Init(CSysModule *)
+1	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::Release(void)
+2	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_error (*)(sp_session_config const*,sp_session **)>::GetNextPointer(void)
+

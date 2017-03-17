@@ -1,18 +1,18 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientBluetoothManagerMap
-// Auto reconstructed from vtable block @ 0x00F0B050
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientBluetoothManagerMap::SetDiscovering(bool)
-1	IClientBluetoothManagerMap::EnumerateDevice(unsigned int)
-2	IClientBluetoothManagerMap::GetDeviceType(char const*)
-3	IClientBluetoothManagerMap::GetDeviceName(char const*)
-4	IClientBluetoothManagerMap::IsConnected(char const*)
-5	IClientBluetoothManagerMap::IsPaired(char const*)
-6	IClientBluetoothManagerMap::Pair(char const*)
-7	IClientBluetoothManagerMap::UnPair(char const*)
-8	IClientBluetoothManagerMap::Connect(char const*)
-9	IClientBluetoothManagerMap::Disconnect(char const*)
-10	IClientBluetoothManagerMap::IsAvailable(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientBluetoothManagerMap
+// Auto reconstructed from vtable block @ 0x00F0B050
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientBluetoothManagerMap::SetDiscovering(bool)
+1	IClientBluetoothManagerMap::EnumerateDevice(unsigned int)
+2	IClientBluetoothManagerMap::GetDeviceType(char const*)
+3	IClientBluetoothManagerMap::GetDeviceName(char const*)
+4	IClientBluetoothManagerMap::IsConnected(char const*)
+5	IClientBluetoothManagerMap::IsPaired(char const*)
+6	IClientBluetoothManagerMap::Pair(char const*)
+7	IClientBluetoothManagerMap::UnPair(char const*)
+8	IClientBluetoothManagerMap::Connect(char const*)
+9	IClientBluetoothManagerMap::Disconnect(char const*)
+10	IClientBluetoothManagerMap::IsAvailable(void)
+

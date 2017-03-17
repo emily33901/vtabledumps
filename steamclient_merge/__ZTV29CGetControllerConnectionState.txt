@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGetControllerConnectionState
-// Auto reconstructed from vtable block @ 0x00F01BF0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGetControllerConnectionState::~CGetControllerConnectionState()
-1	CGetControllerConnectionState::RunFunc(IControllerAbstraction *)
-2	CGetControllerConnectionState::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGetControllerConnectionState
+// Auto reconstructed from vtable block @ 0x00F01BF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGetControllerConnectionState::~CGetControllerConnectionState()
+1	CGetControllerConnectionState::RunFunc(IControllerAbstraction *)
+2	CGetControllerConnectionState::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

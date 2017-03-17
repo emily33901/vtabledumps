@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'google::protobuf::FileDescriptorSet
-// Auto reconstructed from vtable block @ 0x00ED5490
-// from "steamclient.dylib", by ida_vtables.idc
-0	google::protobuf::FileDescriptorSet::~FileDescriptorSet()
-1	google::protobuf::Message::GetTypeName(void)const
-2	google::protobuf::FileDescriptorSet::New(void)const
-3	google::protobuf::FileDescriptorSet::Clear(void)
-4	google::protobuf::FileDescriptorSet::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	google::protobuf::FileDescriptorSet::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	google::protobuf::FileDescriptorSet::ByteSize(void)const
-90	google::protobuf::FileDescriptorSet::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	google::protobuf::FileDescriptorSet::SerializeWithCachedSizesToArray(unsigned char *)const
-11	google::protobuf::FileDescriptorSet::GetCachedSize(void)const
-12	google::protobuf::FileDescriptorSet::CopyFrom(google::protobuf::Message const&)
-13	google::protobuf::FileDescriptorSet::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::FileDescriptorSet
+// Auto reconstructed from vtable block @ 0x00ED5490
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::FileDescriptorSet::~FileDescriptorSet()
+1	google::protobuf::Message::GetTypeName(void)const
+2	google::protobuf::FileDescriptorSet::New(void)const
+3	google::protobuf::FileDescriptorSet::Clear(void)
+4	google::protobuf::FileDescriptorSet::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	google::protobuf::FileDescriptorSet::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	google::protobuf::FileDescriptorSet::ByteSize(void)const
+90	google::protobuf::FileDescriptorSet::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	google::protobuf::FileDescriptorSet::SerializeWithCachedSizesToArray(unsigned char *)const
+11	google::protobuf::FileDescriptorSet::GetCachedSize(void)const
+12	google::protobuf::FileDescriptorSet::CopyFrom(google::protobuf::Message const&)
+13	google::protobuf::FileDescriptorSet::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

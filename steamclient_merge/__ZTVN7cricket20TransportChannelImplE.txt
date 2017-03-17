@@ -1,18 +1,18 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::TransportChannelImpl
-// Auto reconstructed from vtable block @ 0x00F1EEAC
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::TransportChannelImpl::~TransportChannelImpl()
-1	sigslot::single_threaded::lock(void)
-2	sigslot::single_threaded::unlock(void)
-3	___cxa_pure_virtual
-4	___cxa_pure_virtual
-5	___cxa_pure_virtual
-6	___cxa_pure_virtual
-7	___cxa_pure_virtual
-8	___cxa_pure_virtual
-90	___cxa_pure_virtual
-10	___cxa_pure_virtual
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::TransportChannelImpl
+// Auto reconstructed from vtable block @ 0x00F1EEAC
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::TransportChannelImpl::~TransportChannelImpl()
+1	sigslot::single_threaded::lock(void)
+2	sigslot::single_threaded::unlock(void)
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+90	___cxa_pure_virtual
+10	___cxa_pure_virtual
+

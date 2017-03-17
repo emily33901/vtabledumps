@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::List<TagLib::MP4::AtomData>
-// Auto reconstructed from vtable block @ 0x00F25FE8
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::List<TagLib::MP4::AtomData>::~List()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::List<TagLib::MP4::AtomData>
+// Auto reconstructed from vtable block @ 0x00F25FE8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::List<TagLib::MP4::AtomData>::~List()
+

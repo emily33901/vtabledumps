@@ -1,13 +1,13 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'OSXHelpers::CIOPollingHelper
-// Auto reconstructed from vtable block @ 0x00EE6360
-// from "steamclient.dylib", by ida_vtables.idc
-0	OSXHelpers::CIOPollingHelper::~CIOPollingHelper()
-1	SteamThreadTools::CThread::Init(void)
-2	OSXHelpers::CIOPollingHelper::Run(void)
-3	SteamThreadTools::CThread::OnExit(void)
-4	SteamThreadTools::CThread::IsThreadRunning(void)const
-5	SteamThreadTools::CThread::GetThreadProc(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'OSXHelpers::CIOPollingHelper
+// Auto reconstructed from vtable block @ 0x00EE6360
+// from "steamclient.dylib", by ida_vtables.idc
+0	OSXHelpers::CIOPollingHelper::~CIOPollingHelper()
+1	SteamThreadTools::CThread::Init(void)
+2	OSXHelpers::CIOPollingHelper::Run(void)
+3	SteamThreadTools::CThread::OnExit(void)
+4	SteamThreadTools::CThread::IsThreadRunning(void)const
+5	SteamThreadTools::CThread::GetThreadProc(void)
+

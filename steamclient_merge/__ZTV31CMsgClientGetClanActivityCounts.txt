@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientGetClanActivityCounts
-// Auto reconstructed from vtable block @ 0x00EEF090
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientGetClanActivityCounts::~CMsgClientGetClanActivityCounts()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientGetClanActivityCounts::New(void)const
-3	CMsgClientGetClanActivityCounts::Clear(void)
-4	CMsgClientGetClanActivityCounts::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientGetClanActivityCounts::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientGetClanActivityCounts::ByteSize(void)const
-90	CMsgClientGetClanActivityCounts::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientGetClanActivityCounts::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientGetClanActivityCounts::GetCachedSize(void)const
-12	CMsgClientGetClanActivityCounts::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientGetClanActivityCounts::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientGetClanActivityCounts::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientGetClanActivityCounts::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientGetClanActivityCounts
+// Auto reconstructed from vtable block @ 0x00EEF090
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientGetClanActivityCounts::~CMsgClientGetClanActivityCounts()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientGetClanActivityCounts::New(void)const
+3	CMsgClientGetClanActivityCounts::Clear(void)
+4	CMsgClientGetClanActivityCounts::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientGetClanActivityCounts::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientGetClanActivityCounts::ByteSize(void)const
+90	CMsgClientGetClanActivityCounts::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientGetClanActivityCounts::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientGetClanActivityCounts::GetCachedSize(void)const
+12	CMsgClientGetClanActivityCounts::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientGetClanActivityCounts::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientGetClanActivityCounts::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientGetClanActivityCounts::GetMetadata(void)const
+

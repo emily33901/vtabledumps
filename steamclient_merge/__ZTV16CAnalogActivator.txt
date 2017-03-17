@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAnalogActivator
-// Auto reconstructed from vtable block @ 0x00F028F0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAnalogActivator::~CAnalogActivator()
-1	CAnalogActivator::Update(SourceState *,IInputGenerator *)
-2	CControllerActivatorImpl::SetBinding(IDigitalBinding const*)
-3	CControllerActivatorImpl::GetBindings(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
-4	CControllerActivatorImpl::GetUISetting(EControllerSetting,int *)const
-5	CControllerActivatorImpl::GetRawSetting(EControllerSetting,int *)const
-6	CControllerActivatorImpl::SetSetting(EControllerSetting,int)
-7	CControllerActivatorImpl::GetSettingUIDefault(EControllerSetting,int *)const
-8	CControllerActivatorImpl::GetSettingRawDefault(EControllerSetting,int *)const
-90	CAnalogActivator::GetActivatorBindings(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,EControllerModeInput)const
-10	CControllerActivatorImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
-11	CAnalogActivator::Connect(IInputGenerator *)
-12	CAnalogActivator::Disconnect(IInputGenerator *,bool)
-13	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
-14	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
-15	CAnalogActivator::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAnalogActivator
+// Auto reconstructed from vtable block @ 0x00F028F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAnalogActivator::~CAnalogActivator()
+1	CAnalogActivator::Update(SourceState *,IInputGenerator *)
+2	CControllerActivatorImpl::SetBinding(IDigitalBinding const*)
+3	CControllerActivatorImpl::GetBindings(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
+4	CControllerActivatorImpl::GetUISetting(EControllerSetting,int *)const
+5	CControllerActivatorImpl::GetRawSetting(EControllerSetting,int *)const
+6	CControllerActivatorImpl::SetSetting(EControllerSetting,int)
+7	CControllerActivatorImpl::GetSettingUIDefault(EControllerSetting,int *)const
+8	CControllerActivatorImpl::GetSettingRawDefault(EControllerSetting,int *)const
+90	CAnalogActivator::GetActivatorBindings(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,EControllerModeInput)const
+10	CControllerActivatorImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
+11	CAnalogActivator::Connect(IInputGenerator *)
+12	CAnalogActivator::Disconnect(IInputGenerator *,bool)
+13	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
+14	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
+15	CAnalogActivator::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
+

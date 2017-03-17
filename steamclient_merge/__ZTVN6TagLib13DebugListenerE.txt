@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::DebugListener
-// Auto reconstructed from vtable block @ 0x00EE3BB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::DebugListener::~DebugListener()
-1	___cxa_pure_virtual
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::DebugListener
+// Auto reconstructed from vtable block @ 0x00EE3BB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::DebugListener::~DebugListener()
+1	___cxa_pure_virtual
+

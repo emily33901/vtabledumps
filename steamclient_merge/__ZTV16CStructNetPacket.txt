@@ -1,31 +1,31 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CStructNetPacket
-// Auto reconstructed from vtable block @ 0x00F2CAB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CStructNetPacket::~CStructNetPacket()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	CStructNetPacket::GetEMsgFormatType(void)const
-3	CStructNetPacket::GetCNetPacket(void)const
-4	CStructNetPacket::GetHConnection(void)const
-5	CStructNetPacket::SetHConnection(unsigned int)
-6	CStructNetPacket::PubData(void)const
-7	CStructNetPacket::CubData(void)const
-8	CStructNetPacket::GetEMsg(void)const
-90	CStructNetPacket::GetSourceJobID(void)const
-10	CStructNetPacket::GetTargetJobID(void)const
-11	CStructNetPacket::SetTargetJobID(unsigned long long)
-12	CStructNetPacket::SetSourceJobID(unsigned long long)
-13	CStructNetPacket::GetSteamID(void)const
-14	CStructNetPacket::SetSteamID(CSteamID)
-15	CStructNetPacket::GetSessionID(void)const
-16	CStructNetPacket::SetSessionID(int)
-17	CStructNetPacket::GetAppIDRouting(void)const
-18	CStructNetPacket::BHasTargetJobName(void)const
-19	CStructNetPacket::GetTargetJobName(void)const
-20	CStructNetPacket::BHasMsgTraceTag(void)const
-21	CStructNetPacket::GetMsgTraceTag(void)const
-22	CStructNetPacket::SetMsgTraceTag(unsigned long long)
-23	CStructNetPacket::BPacketDecodingFailed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CStructNetPacket
+// Auto reconstructed from vtable block @ 0x00F2CAB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CStructNetPacket::~CStructNetPacket()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CStructNetPacket::GetEMsgFormatType(void)const
+3	CStructNetPacket::GetCNetPacket(void)const
+4	CStructNetPacket::GetHConnection(void)const
+5	CStructNetPacket::SetHConnection(unsigned int)
+6	CStructNetPacket::PubData(void)const
+7	CStructNetPacket::CubData(void)const
+8	CStructNetPacket::GetEMsg(void)const
+90	CStructNetPacket::GetSourceJobID(void)const
+10	CStructNetPacket::GetTargetJobID(void)const
+11	CStructNetPacket::SetTargetJobID(unsigned long long)
+12	CStructNetPacket::SetSourceJobID(unsigned long long)
+13	CStructNetPacket::GetSteamID(void)const
+14	CStructNetPacket::SetSteamID(CSteamID)
+15	CStructNetPacket::GetSessionID(void)const
+16	CStructNetPacket::SetSessionID(int)
+17	CStructNetPacket::GetAppIDRouting(void)const
+18	CStructNetPacket::BHasTargetJobName(void)const
+19	CStructNetPacket::GetTargetJobName(void)const
+20	CStructNetPacket::BHasMsgTraceTag(void)const
+21	CStructNetPacket::GetMsgTraceTag(void)const
+22	CStructNetPacket::SetMsgTraceTag(unsigned long long)
+23	CStructNetPacket::BPacketDecodingFailed(void)const
+

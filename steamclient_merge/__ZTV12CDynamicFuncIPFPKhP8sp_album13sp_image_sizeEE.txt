@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>
-// Auto reconstructed from vtable block @ 0x00F0E720
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::Init(CSysModule *)
-1	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::Release(void)
-2	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>
+// Auto reconstructed from vtable block @ 0x00F0E720
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::Init(CSysModule *)
+1	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::Release(void)
+2	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<unsigned char const* (*)(sp_album *,sp_image_size)>::GetNextPointer(void)
+

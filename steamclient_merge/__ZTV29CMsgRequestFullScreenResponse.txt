@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgRequestFullScreenResponse
-// Auto reconstructed from vtable block @ 0x00ECD140
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgRequestFullScreenResponse::~CMsgRequestFullScreenResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgRequestFullScreenResponse::New(void)const
-3	CMsgRequestFullScreenResponse::Clear(void)
-4	CMsgRequestFullScreenResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgRequestFullScreenResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgRequestFullScreenResponse::ByteSize(void)const
-90	CMsgRequestFullScreenResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgRequestFullScreenResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgRequestFullScreenResponse::GetCachedSize(void)const
-12	CMsgRequestFullScreenResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgRequestFullScreenResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgRequestFullScreenResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgRequestFullScreenResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRequestFullScreenResponse
+// Auto reconstructed from vtable block @ 0x00ECD140
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRequestFullScreenResponse::~CMsgRequestFullScreenResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRequestFullScreenResponse::New(void)const
+3	CMsgRequestFullScreenResponse::Clear(void)
+4	CMsgRequestFullScreenResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRequestFullScreenResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRequestFullScreenResponse::ByteSize(void)const
+90	CMsgRequestFullScreenResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRequestFullScreenResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRequestFullScreenResponse::GetCachedSize(void)const
+12	CMsgRequestFullScreenResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgRequestFullScreenResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRequestFullScreenResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRequestFullScreenResponse::GetMetadata(void)const
+

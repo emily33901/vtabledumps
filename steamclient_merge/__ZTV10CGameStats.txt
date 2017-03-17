@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGameStats
-// Auto reconstructed from vtable block @ 0x00ECE840
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGameStats::GetNewSession(signed char,unsigned long long,int,unsigned int)
-1	CGameStats::EndSession(unsigned long long,unsigned int,short)
-2	CGameStats::AddSessionAttributeInt(unsigned long long,char const*,int)
-3	CGameStats::AddSessionAttributeString(unsigned long long,char const*,char const*)
-4	CGameStats::AddSessionAttributeFloat(unsigned long long,char const*,float)
-5	CGameStats::AddNewRow(unsigned long long *,unsigned long long,char const*)
-6	CGameStats::CommitRow(unsigned long long)
-7	CGameStats::CommitOutstandingRows(unsigned long long)
-8	CGameStats::AddRowAttributeInt(unsigned long long,char const*,int)
-9	CGameStats::AddRowAttributeString(unsigned long long,char const*,char const*)
-10	CGameStats::AddRowAttributeFloat(unsigned long long,char const*,float)
-11	CGameStats::AddSessionAttributeInt64(unsigned long long,char const*,long long)
-12	CGameStats::AddRowAttributeInt64(unsigned long long,char const*,long long)
-13	CGameStats::ReportString(unsigned long long,int,char const*,...)
-14	CGameStats::_ReportString(unsigned long long,int,char const*,int,unsigned char const*)
-15	CGameStats::ReportStringAccumulated(unsigned long long,int,char const*,...)
-16	CGameStats::_ReportStringAccumulated(unsigned long long,int,char const*,int,unsigned char const*)
-17	CGameStats::ReportBugScreenshot(unsigned long long,char const*,int,unsigned char const*)
-18	CGameStats::~CGameStats()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameStats
+// Auto reconstructed from vtable block @ 0x00ECE840
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGameStats::GetNewSession(signed char,unsigned long long,int,unsigned int)
+1	CGameStats::EndSession(unsigned long long,unsigned int,short)
+2	CGameStats::AddSessionAttributeInt(unsigned long long,char const*,int)
+3	CGameStats::AddSessionAttributeString(unsigned long long,char const*,char const*)
+4	CGameStats::AddSessionAttributeFloat(unsigned long long,char const*,float)
+5	CGameStats::AddNewRow(unsigned long long *,unsigned long long,char const*)
+6	CGameStats::CommitRow(unsigned long long)
+7	CGameStats::CommitOutstandingRows(unsigned long long)
+8	CGameStats::AddRowAttributeInt(unsigned long long,char const*,int)
+9	CGameStats::AddRowAttributeString(unsigned long long,char const*,char const*)
+10	CGameStats::AddRowAttributeFloat(unsigned long long,char const*,float)
+11	CGameStats::AddSessionAttributeInt64(unsigned long long,char const*,long long)
+12	CGameStats::AddRowAttributeInt64(unsigned long long,char const*,long long)
+13	CGameStats::ReportString(unsigned long long,int,char const*,...)
+14	CGameStats::_ReportString(unsigned long long,int,char const*,int,unsigned char const*)
+15	CGameStats::ReportStringAccumulated(unsigned long long,int,char const*,...)
+16	CGameStats::_ReportStringAccumulated(unsigned long long,int,char const*,int,unsigned char const*)
+17	CGameStats::ReportBugScreenshot(unsigned long long,char const*,int,unsigned char const*)
+18	CGameStats::~CGameStats()
+

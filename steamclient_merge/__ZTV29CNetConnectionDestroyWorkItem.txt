@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CNetConnectionDestroyWorkItem
-// Auto reconstructed from vtable block @ 0x00F2CCC0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CNetConnectionDestroyWorkItem::~CNetConnectionDestroyWorkItem()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	CNetConnectionDestroyWorkItem::GetWorkItemName(void)const
-3	CNetConnectionDestroyWorkItem::GetThreadProcessName(void)const
-4	CNetConnectionDestroyWorkItem::ThreadProcess(CWorkThread *)
-5	CNetConnectionDestroyWorkItem::DispatchCompletedWorkItem(CJobMgr *)
-6	CWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNetConnectionDestroyWorkItem
+// Auto reconstructed from vtable block @ 0x00F2CCC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetConnectionDestroyWorkItem::~CNetConnectionDestroyWorkItem()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CNetConnectionDestroyWorkItem::GetWorkItemName(void)const
+3	CNetConnectionDestroyWorkItem::GetThreadProcessName(void)const
+4	CNetConnectionDestroyWorkItem::ThreadProcess(CWorkThread *)
+5	CNetConnectionDestroyWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

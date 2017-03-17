@@ -1,13 +1,13 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamUserV010
-// Auto reconstructed from vtable block @ 0x00F0ADD0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamUserV010::GetHSteamUser(void)
-1	CSteamUserV010::BLoggedOn(void)
-2	CSteamUserV010::GetSteamID(void)
-3	CSteamUserV010::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
-4	CSteamUserV010::TerminateGameConnection(unsigned int,unsigned short)
-5	CSteamUserV010::TrackAppUsageEvent(CGameID,int,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV010
+// Auto reconstructed from vtable block @ 0x00F0ADD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV010::GetHSteamUser(void)
+1	CSteamUserV010::BLoggedOn(void)
+2	CSteamUserV010::GetSteamID(void)
+3	CSteamUserV010::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
+4	CSteamUserV010::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV010::TrackAppUsageEvent(CGameID,int,char const*)
+

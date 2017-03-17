@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'sigslot::single_threaded
-// Auto reconstructed from vtable block @ 0x00F2D4D0
-// from "steamclient.dylib", by ida_vtables.idc
-0	sigslot::single_threaded::~single_threaded()
-1	sigslot::single_threaded::lock(void)
-2	sigslot::single_threaded::unlock(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'sigslot::single_threaded
+// Auto reconstructed from vtable block @ 0x00F2D4D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::single_threaded::~single_threaded()
+1	sigslot::single_threaded::lock(void)
+2	sigslot::single_threaded::unlock(void)
+

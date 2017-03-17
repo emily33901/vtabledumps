@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CUDPConnectionRouter
-// Auto reconstructed from vtable block @ 0x00EF20D0
-// from "steamclient.dylib", by ida_vtables.idc
-0	ISocketOwnerCallback::Unused(void)
-1	CUDPConnectionRouter::UDPRecvPkt(int,netadr_t const&,unsigned char *,int,void *)
-2	CUDPConnectionRouter::OnUDPFatalError(int,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUDPConnectionRouter
+// Auto reconstructed from vtable block @ 0x00EF20D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	ISocketOwnerCallback::Unused(void)
+1	CUDPConnectionRouter::UDPRecvPkt(int,netadr_t const&,unsigned char *,int,void *)
+2	CUDPConnectionRouter::OnUDPFatalError(int,unsigned int)
+

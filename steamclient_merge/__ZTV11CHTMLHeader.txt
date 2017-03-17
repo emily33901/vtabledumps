@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLHeader
-// Auto reconstructed from vtable block @ 0x00ECBFA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLHeader::~CHTMLHeader()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CHTMLHeader::New(void)const
-3	CHTMLHeader::Clear(void)
-4	CHTMLHeader::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CHTMLHeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CHTMLHeader::ByteSize(void)const
-90	CHTMLHeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CHTMLHeader::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CHTMLHeader::GetCachedSize(void)const
-12	CHTMLHeader::CopyFrom(google::protobuf::Message const&)
-13	CHTMLHeader::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLHeader
+// Auto reconstructed from vtable block @ 0x00ECBFA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLHeader::~CHTMLHeader()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHTMLHeader::New(void)const
+3	CHTMLHeader::Clear(void)
+4	CHTMLHeader::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHTMLHeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHTMLHeader::ByteSize(void)const
+90	CHTMLHeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHTMLHeader::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHTMLHeader::GetCachedSize(void)const
+12	CHTMLHeader::CopyFrom(google::protobuf::Message const&)
+13	CHTMLHeader::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

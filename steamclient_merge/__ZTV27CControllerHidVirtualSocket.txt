@@ -1,20 +1,20 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CControllerHidVirtualSocket
-// Auto reconstructed from vtable block @ 0x00F02200
-// from "steamclient.dylib", by ida_vtables.idc
-0	CControllerHidVirtualSocket::~CControllerHidVirtualSocket()
-1	___cxa_pure_virtual
-2	___cxa_pure_virtual
-3	___cxa_pure_virtual
-4	CControllerHidVirtualSocket::WriteRaw(unsigned char const*,unsigned long)
-5	CControllerHidVirtualSocket::ReadRaw(unsigned char *,unsigned long)
-6	CControllerHidVirtualSocket::GetSerialString(void)
-7	CControllerHidVirtualSocket::GetProductString(void)
-8	___cxa_pure_virtual
-90	___cxa_pure_virtual
-10	CControllerHidVirtualSocket::ReadInputReport(unsigned char *,unsigned long,int)
-11	CControllerHidVirtualSocket::WriteFeatureReport(unsigned char,unsigned char const*,unsigned long)
-12	CControllerHidVirtualSocket::ReadFeatureReport(unsigned char,unsigned char *,unsigned long)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CControllerHidVirtualSocket
+// Auto reconstructed from vtable block @ 0x00F02200
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerHidVirtualSocket::~CControllerHidVirtualSocket()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	CControllerHidVirtualSocket::WriteRaw(unsigned char const*,unsigned long)
+5	CControllerHidVirtualSocket::ReadRaw(unsigned char *,unsigned long)
+6	CControllerHidVirtualSocket::GetSerialString(void)
+7	CControllerHidVirtualSocket::GetProductString(void)
+8	___cxa_pure_virtual
+90	___cxa_pure_virtual
+10	CControllerHidVirtualSocket::ReadInputReport(unsigned char *,unsigned long,int)
+11	CControllerHidVirtualSocket::WriteFeatureReport(unsigned char,unsigned char const*,unsigned long)
+12	CControllerHidVirtualSocket::ReadFeatureReport(unsigned char,unsigned char *,unsigned long)
+

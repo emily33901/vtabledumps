@@ -1,16 +1,16 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CModeSetting<int>
-// Auto reconstructed from vtable block @ 0x00F02530
-// from "steamclient.dylib", by ida_vtables.idc
-0	CModeSetting<int>::Get(void)const
-1	CModeSetting<int>::Set(short)
-2	CModeSetting<int>::MapToUI(void)const
-3	CModeSetting<int>::MapFromUI(unsigned short)
-4	CModeSetting<int>::IsDefault(void)const
-5	CModeSetting<int>::GetDefault(void)
-6	CModeSetting<int>::GetRawDefault(void)
-7	CModeSetting<int>::SetDefault(unsigned short)
-8	CModeSetting<int>::SetMax(short)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CModeSetting<int>
+// Auto reconstructed from vtable block @ 0x00F02530
+// from "steamclient.dylib", by ida_vtables.idc
+0	CModeSetting<int>::Get(void)const
+1	CModeSetting<int>::Set(short)
+2	CModeSetting<int>::MapToUI(void)const
+3	CModeSetting<int>::MapFromUI(unsigned short)
+4	CModeSetting<int>::IsDefault(void)const
+5	CModeSetting<int>::GetDefault(void)
+6	CModeSetting<int>::GetRawDefault(void)
+7	CModeSetting<int>::SetDefault(unsigned short)
+8	CModeSetting<int>::SetMax(short)
+

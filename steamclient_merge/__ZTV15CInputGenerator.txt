@@ -1,30 +1,30 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInputGenerator
-// Auto reconstructed from vtable block @ 0x00ED2530
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInputGenerator::~CInputGenerator()
-1	CInputGenerator::MouseMove(int,int)
-2	CInputGenerator::MouseDown(Voltroller::MouseButtons)
-3	CInputGenerator::MouseUp(Voltroller::MouseButtons)
-4	CInputGenerator::MouseMoveAbsolute(int,int)
-5	CInputGenerator::KeyDown(Voltroller::HIDKeyboardKeys)
-6	CInputGenerator::KeyUp(Voltroller::HIDKeyboardKeys)
-7	CInputGenerator::SendText(char const*)
-8	CInputGenerator::SetXInputConnected(bool)
-90	CInputGenerator::GamePadButtonEvent(Voltroller::GamepadButtons,bool)
-10	CInputGenerator::AxisEvent(IInputGenerator::EAxis,short,short)
-11	CInputGenerator::ResetAxisValues(void)
-12	CInputGenerator::ResetAxisCount(void)
-13	CInputGenerator::TriggerHapticPulse(ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
-14	CInputGenerator::TranslateRumbleEvents(int,int)
-15	CInputGenerator::GetCursorPosition(int *,int *)
-16	IInputGenerator::SetCurrentModeID(int)
-17	IInputGenerator::SetVirtualMode(bool)
-18	CInputGenerator::GetXInputControllerIndex(void)
-19	IInputGenerator::AccessAnalogAction(int)
-20	IInputGenerator::AccessDigitalAction(int)
-21	CInputGenerator::SetGameWindowPos(int,int,int,int)
-22	CInputGenerator::GetGameWindowPos(int *,int *,int *,int *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInputGenerator
+// Auto reconstructed from vtable block @ 0x00ED2530
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInputGenerator::~CInputGenerator()
+1	CInputGenerator::MouseMove(int,int)
+2	CInputGenerator::MouseDown(Voltroller::MouseButtons)
+3	CInputGenerator::MouseUp(Voltroller::MouseButtons)
+4	CInputGenerator::MouseMoveAbsolute(int,int)
+5	CInputGenerator::KeyDown(Voltroller::HIDKeyboardKeys)
+6	CInputGenerator::KeyUp(Voltroller::HIDKeyboardKeys)
+7	CInputGenerator::SendText(char const*)
+8	CInputGenerator::SetXInputConnected(bool)
+90	CInputGenerator::GamePadButtonEvent(Voltroller::GamepadButtons,bool)
+10	CInputGenerator::AxisEvent(IInputGenerator::EAxis,short,short)
+11	CInputGenerator::ResetAxisValues(void)
+12	CInputGenerator::ResetAxisCount(void)
+13	CInputGenerator::TriggerHapticPulse(ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
+14	CInputGenerator::TranslateRumbleEvents(int,int)
+15	CInputGenerator::GetCursorPosition(int *,int *)
+16	IInputGenerator::SetCurrentModeID(int)
+17	IInputGenerator::SetVirtualMode(bool)
+18	CInputGenerator::GetXInputControllerIndex(void)
+19	IInputGenerator::AccessAnalogAction(int)
+20	IInputGenerator::AccessDigitalAction(int)
+21	CInputGenerator::SetGameWindowPos(int,int,int,int)
+22	CInputGenerator::GetGameWindowPos(int *,int *,int *,int *)
+

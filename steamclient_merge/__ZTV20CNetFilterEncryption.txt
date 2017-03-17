@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CNetFilterEncryption
-// Auto reconstructed from vtable block @ 0x00EE6C90
-// from "steamclient.dylib", by ida_vtables.idc
-0	CNetFilter::ConnectCompleted(unsigned int)
-1	CNetFilter::ConnectFailed(unsigned int,EResult,unsigned long long)
-2	CNetFilter::ConnectionDisconnected(unsigned int,EResult)
-3	CNetFilterEncryption::RecvPkt(CNetPacket *)
-4	CNetFilter::BAcceptConnection(netadr_t const&,netadr_t const&)
-5	CNetFilter::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
-6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
-7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
-8	CNetFilterEncryption::~CNetFilterEncryption()
-90	CNetFilter::Init(CNetConnection *)
-10	CNetFilterEncryption::BInternalAsyncSend(unsigned char const*,int,bool)
-11	CNetFilterEncryption::BPollConnection(void)
-12	CNetFilterEncryption::PchFilterType(void)
-13	CNetFilterEncryption::HostStartHandshake(void)
-14	CNetFilterEncryption::BWakeUpCall(void)
-15	CNetFilterEncryption::OnHandshakeFailure(EResult,unsigned long long)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNetFilterEncryption
+// Auto reconstructed from vtable block @ 0x00EE6C90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetFilter::ConnectCompleted(unsigned int)
+1	CNetFilter::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CNetFilter::ConnectionDisconnected(unsigned int,EResult)
+3	CNetFilterEncryption::RecvPkt(CNetPacket *)
+4	CNetFilter::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CNetFilter::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CNetFilterEncryption::~CNetFilterEncryption()
+90	CNetFilter::Init(CNetConnection *)
+10	CNetFilterEncryption::BInternalAsyncSend(unsigned char const*,int,bool)
+11	CNetFilterEncryption::BPollConnection(void)
+12	CNetFilterEncryption::PchFilterType(void)
+13	CNetFilterEncryption::HostStartHandshake(void)
+14	CNetFilterEncryption::BWakeUpCall(void)
+15	CNetFilterEncryption::OnHandshakeFailure(EResult,unsigned long long)
+

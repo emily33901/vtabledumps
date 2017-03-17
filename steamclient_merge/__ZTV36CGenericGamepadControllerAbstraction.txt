@@ -1,21 +1,21 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGenericGamepadControllerAbstraction
-// Auto reconstructed from vtable block @ 0x00F01FD0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGenericGamepadControllerAbstraction::~CGenericGamepadControllerAbstraction()
-1	CControllerAbstractionBase::SetupController(void)
-2	CGenericGamepadControllerAbstraction::TurnOffController(void)
-3	CControllerAbstractionBase::ReadInput(void)
-4	CGenericGamepadControllerAbstraction::GetControllerInfo(ControllerDetails_t &)
-5	CGenericGamepadControllerAbstraction::GetChipId(char *,unsigned long)
-6	CGenericGamepadControllerAbstraction::ProcessState(SteamControllerStateInternal_t &)
-7	CControllerAbstractionBase::GetWirelessEvent(void)
-8	CGenericGamepadControllerAbstraction::GetStatus(Voltroller::SteamControllerStatusEvent_t &)
-90	CGenericGamepadControllerAbstraction::SetSettings(Voltroller::ControllerSetting *,unsigned long)
-10	CGenericGamepadControllerAbstraction::SetUserLedColor(unsigned char,unsigned char,unsigned char)
-11	CGenericGamepadControllerAbstraction::TriggerHapticPulse(int,unsigned short,unsigned short,unsigned short,unsigned char)
-12	CGenericGamepadControllerAbstraction::SetRumble(int,int,unsigned short,unsigned short)
-13	CControllerAbstractionBase::GetSocket(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGenericGamepadControllerAbstraction
+// Auto reconstructed from vtable block @ 0x00F01FD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGenericGamepadControllerAbstraction::~CGenericGamepadControllerAbstraction()
+1	CControllerAbstractionBase::SetupController(void)
+2	CGenericGamepadControllerAbstraction::TurnOffController(void)
+3	CControllerAbstractionBase::ReadInput(void)
+4	CGenericGamepadControllerAbstraction::GetControllerInfo(ControllerDetails_t &)
+5	CGenericGamepadControllerAbstraction::GetChipId(char *,unsigned long)
+6	CGenericGamepadControllerAbstraction::ProcessState(SteamControllerStateInternal_t &)
+7	CControllerAbstractionBase::GetWirelessEvent(void)
+8	CGenericGamepadControllerAbstraction::GetStatus(Voltroller::SteamControllerStatusEvent_t &)
+90	CGenericGamepadControllerAbstraction::SetSettings(Voltroller::ControllerSetting *,unsigned long)
+10	CGenericGamepadControllerAbstraction::SetUserLedColor(unsigned char,unsigned char,unsigned char)
+11	CGenericGamepadControllerAbstraction::TriggerHapticPulse(int,unsigned short,unsigned short,unsigned short,unsigned char)
+12	CGenericGamepadControllerAbstraction::SetRumble(int,int,unsigned short,unsigned short)
+13	CControllerAbstractionBase::GetSocket(void)
+

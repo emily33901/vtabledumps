@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame
-// Auto reconstructed from vtable block @ 0x00EC3FA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::~CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::New(void)const
-3	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::Clear(void)
-4	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::ByteSize(void)const
-90	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::GetCachedSize(void)const
-12	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::CopyFrom(google::protobuf::Message const&)
-13	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame
+// Auto reconstructed from vtable block @ 0x00EC3FA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::~CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::New(void)const
+3	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::Clear(void)
+4	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::ByteSize(void)const
+90	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::GetCachedSize(void)const
+12	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::CopyFrom(google::protobuf::Message const&)
+13	CDeviceAuth_GetExcludedGamesInLibrary_Response_ExcludedGame::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

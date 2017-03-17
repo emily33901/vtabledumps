@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgFinishedRequest
-// Auto reconstructed from vtable block @ 0x00ECC060
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgFinishedRequest::~CMsgFinishedRequest()
-1	google::protobuf::Message::GetTypeName(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgFinishedRequest
+// Auto reconstructed from vtable block @ 0x00ECC060
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgFinishedRequest::~CMsgFinishedRequest()
+1	google::protobuf::Message::GetTypeName(void)const
+

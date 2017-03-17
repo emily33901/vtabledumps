@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgGoForward
-// Auto reconstructed from vtable block @ 0x00ECB880
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgGoForward::~CMsgGoForward()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgGoForward::New(void)const
-3	CMsgGoForward::Clear(void)
-4	CMsgGoForward::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgGoForward::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgGoForward::ByteSize(void)const
-90	CMsgGoForward::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgGoForward::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgGoForward::GetCachedSize(void)const
-12	CMsgGoForward::CopyFrom(google::protobuf::Message const&)
-13	CMsgGoForward::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgGoForward::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgGoForward::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGoForward
+// Auto reconstructed from vtable block @ 0x00ECB880
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGoForward::~CMsgGoForward()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGoForward::New(void)const
+3	CMsgGoForward::Clear(void)
+4	CMsgGoForward::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGoForward::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGoForward::ByteSize(void)const
+90	CMsgGoForward::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGoForward::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGoForward::GetCachedSize(void)const
+12	CMsgGoForward::CopyFrom(google::protobuf::Message const&)
+13	CMsgGoForward::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGoForward::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGoForward::GetMetadata(void)const
+

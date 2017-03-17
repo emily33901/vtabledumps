@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientGameConnectDeny_t>
-// Auto reconstructed from vtable block @ 0x00F00D6C
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientGameConnectDeny_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientGameConnectDeny_t>
+// Auto reconstructed from vtable block @ 0x00F00D6C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientGameConnectDeny_t>::~CClientMsg()
+

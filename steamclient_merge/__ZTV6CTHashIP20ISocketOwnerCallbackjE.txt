@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CTHash<ISocketOwnerCallback *,unsigned int>
-// Auto reconstructed from vtable block @ 0x00F2CCA8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CTHash<ISocketOwnerCallback *,unsigned int>::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTHash<ISocketOwnerCallback *,unsigned int>
+// Auto reconstructed from vtable block @ 0x00F2CCA8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTHash<ISocketOwnerCallback *,unsigned int>::Validate(CValidator &,char const*)
+

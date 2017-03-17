@@ -1,16 +1,16 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CParentalSettings
-// Auto reconstructed from vtable block @ 0x00ED2E30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CParentalSettings::BIsParentalLockEnabled(void)
-1	CParentalSettings::BIsParentalLockLocked(void)
-2	CParentalSettings::BIsAppBlocked(unsigned int)
-3	CParentalSettings::BIsAppInBlockList(unsigned int)
-4	CParentalSettings::BIsFeatureBlocked(EParentalFeature)
-5	CParentalSettings::BIsFeatureInBlockList(EParentalFeature)
-6	CParentalSettings::BGetSerializedParentalSettings(CUtlBuffer *)
-7	CParentalSettings::BGetRecoveryEmail(char *,int)
-8	CParentalSettings::~CParentalSettings()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CParentalSettings
+// Auto reconstructed from vtable block @ 0x00ED2E30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CParentalSettings::BIsParentalLockEnabled(void)
+1	CParentalSettings::BIsParentalLockLocked(void)
+2	CParentalSettings::BIsAppBlocked(unsigned int)
+3	CParentalSettings::BIsAppInBlockList(unsigned int)
+4	CParentalSettings::BIsFeatureBlocked(EParentalFeature)
+5	CParentalSettings::BIsFeatureInBlockList(EParentalFeature)
+6	CParentalSettings::BGetSerializedParentalSettings(CUtlBuffer *)
+7	CParentalSettings::BGetRecoveryEmail(char *,int)
+8	CParentalSettings::~CParentalSettings()
+

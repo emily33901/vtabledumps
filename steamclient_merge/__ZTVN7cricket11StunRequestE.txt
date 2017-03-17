@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::StunRequest
-// Auto reconstructed from vtable block @ 0x00ED68E8
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::StunRequest::~StunRequest()
-1	cricket::StunRequest::OnMessage(talk_base::Message *)
-2	cricket::StunRequest::Prepare(cricket::StunMessage *)
-3	cricket::StunRequest::OnResponse(cricket::StunMessage *)
-4	cricket::StunRequest::OnErrorResponse(cricket::StunMessage *)
-5	cricket::StunRequest::OnTimeout(void)
-6	cricket::StunRequest::GetNextDelay(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::StunRequest
+// Auto reconstructed from vtable block @ 0x00ED68E8
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::StunRequest::~StunRequest()
+1	cricket::StunRequest::OnMessage(talk_base::Message *)
+2	cricket::StunRequest::Prepare(cricket::StunMessage *)
+3	cricket::StunRequest::OnResponse(cricket::StunMessage *)
+4	cricket::StunRequest::OnErrorResponse(cricket::StunMessage *)
+5	cricket::StunRequest::OnTimeout(void)
+6	cricket::StunRequest::GetNextDelay(void)
+

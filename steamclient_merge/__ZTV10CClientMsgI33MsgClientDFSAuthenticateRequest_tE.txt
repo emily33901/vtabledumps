@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientDFSAuthenticateRequest_t>
-// Auto reconstructed from vtable block @ 0x00EF7BD4
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientDFSAuthenticateRequest_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientDFSAuthenticateRequest_t>
+// Auto reconstructed from vtable block @ 0x00EF7BD4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientDFSAuthenticateRequest_t>::~CClientMsg()
+

@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem
-// Auto reconstructed from vtable block @ 0x00ED0E60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem::~CDeferredSetDetailsWorkItem()
-1	CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem::RunFunc(IControllerAbstraction *)
-2	CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem
+// Auto reconstructed from vtable block @ 0x00ED0E60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem::~CDeferredSetDetailsWorkItem()
+1	CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem::RunFunc(IControllerAbstraction *)
+2	CSteamController::SetStreamingControllerDetails(ControllerDetails_t,char const*)::CDeferredSetDetailsWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

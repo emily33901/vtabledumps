@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'HTMLCommandBuffer_t
-// Auto reconstructed from vtable block @ 0x00EF2BB8
-// from "steamclient.dylib", by ida_vtables.idc
-0	HTMLCommandBuffer_t::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'HTMLCommandBuffer_t
+// Auto reconstructed from vtable block @ 0x00EF2BB8
+// from "steamclient.dylib", by ida_vtables.idc
+0	HTMLCommandBuffer_t::Validate(CValidator &,char const*)
+

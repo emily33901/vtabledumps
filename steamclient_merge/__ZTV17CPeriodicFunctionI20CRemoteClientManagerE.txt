@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CPeriodicFunction<CRemoteClientManager>
-// Auto reconstructed from vtable block @ 0x00F10710
-// from "steamclient.dylib", by ida_vtables.idc
-0	CPeriodicFunction<CRemoteClientManager>::~CPeriodicFunction()
-1	CPeriodicFunction<CRemoteClientManager>::Run(void)
-2	CPeriodicFunction<CRemoteClientManager>::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPeriodicFunction<CRemoteClientManager>
+// Auto reconstructed from vtable block @ 0x00F10710
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPeriodicFunction<CRemoteClientManager>::~CPeriodicFunction()
+1	CPeriodicFunction<CRemoteClientManager>::Run(void)
+2	CPeriodicFunction<CRemoteClientManager>::GetInterval(void)const
+

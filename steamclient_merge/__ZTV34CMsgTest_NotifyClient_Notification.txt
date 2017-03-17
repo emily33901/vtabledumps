@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgTest_NotifyClient_Notification
-// Auto reconstructed from vtable block @ 0x00ECAA70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgTest_NotifyClient_Notification::~CMsgTest_NotifyClient_Notification()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgTest_NotifyClient_Notification::New(void)const
-3	CMsgTest_NotifyClient_Notification::Clear(void)
-4	CMsgTest_NotifyClient_Notification::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgTest_NotifyClient_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgTest_NotifyClient_Notification::ByteSize(void)const
-90	CMsgTest_NotifyClient_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgTest_NotifyClient_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgTest_NotifyClient_Notification::GetCachedSize(void)const
-12	CMsgTest_NotifyClient_Notification::CopyFrom(google::protobuf::Message const&)
-13	CMsgTest_NotifyClient_Notification::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgTest_NotifyClient_Notification::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgTest_NotifyClient_Notification::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTest_NotifyClient_Notification
+// Auto reconstructed from vtable block @ 0x00ECAA70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgTest_NotifyClient_Notification::~CMsgTest_NotifyClient_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTest_NotifyClient_Notification::New(void)const
+3	CMsgTest_NotifyClient_Notification::Clear(void)
+4	CMsgTest_NotifyClient_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTest_NotifyClient_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTest_NotifyClient_Notification::ByteSize(void)const
+90	CMsgTest_NotifyClient_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTest_NotifyClient_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTest_NotifyClient_Notification::GetCachedSize(void)const
+12	CMsgTest_NotifyClient_Notification::CopyFrom(google::protobuf::Message const&)
+13	CMsgTest_NotifyClient_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTest_NotifyClient_Notification::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTest_NotifyClient_Notification::GetMetadata(void)const
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::ID3v2::ExtendedHeader
-// Auto reconstructed from vtable block @ 0x00EE3518
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::ID3v2::ExtendedHeader::~ExtendedHeader()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ID3v2::ExtendedHeader
+// Auto reconstructed from vtable block @ 0x00EE3518
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ID3v2::ExtendedHeader::~ExtendedHeader()
+

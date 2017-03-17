@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientRichPresenceInfo_RichPresence
-// Auto reconstructed from vtable block @ 0x00EEDAD0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientRichPresenceInfo_RichPresence::~CMsgClientRichPresenceInfo_RichPresence()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientRichPresenceInfo_RichPresence::New(void)const
-3	CMsgClientRichPresenceInfo_RichPresence::Clear(void)
-4	CMsgClientRichPresenceInfo_RichPresence::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientRichPresenceInfo_RichPresence::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientRichPresenceInfo_RichPresence::ByteSize(void)const
-90	CMsgClientRichPresenceInfo_RichPresence::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientRichPresenceInfo_RichPresence::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientRichPresenceInfo_RichPresence::GetCachedSize(void)const
-12	CMsgClientRichPresenceInfo_RichPresence::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientRichPresenceInfo_RichPresence::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRichPresenceInfo_RichPresence
+// Auto reconstructed from vtable block @ 0x00EEDAD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRichPresenceInfo_RichPresence::~CMsgClientRichPresenceInfo_RichPresence()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRichPresenceInfo_RichPresence::New(void)const
+3	CMsgClientRichPresenceInfo_RichPresence::Clear(void)
+4	CMsgClientRichPresenceInfo_RichPresence::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRichPresenceInfo_RichPresence::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRichPresenceInfo_RichPresence::ByteSize(void)const
+90	CMsgClientRichPresenceInfo_RichPresence::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRichPresenceInfo_RichPresence::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRichPresenceInfo_RichPresence::GetCachedSize(void)const
+12	CMsgClientRichPresenceInfo_RichPresence::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRichPresenceInfo_RichPresence::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

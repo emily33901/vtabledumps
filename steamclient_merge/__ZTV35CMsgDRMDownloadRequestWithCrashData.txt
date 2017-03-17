@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgDRMDownloadRequestWithCrashData
-// Auto reconstructed from vtable block @ 0x00EEF510
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgDRMDownloadRequestWithCrashData::~CMsgDRMDownloadRequestWithCrashData()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgDRMDownloadRequestWithCrashData::New(void)const
-3	CMsgDRMDownloadRequestWithCrashData::Clear(void)
-4	CMsgDRMDownloadRequestWithCrashData::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgDRMDownloadRequestWithCrashData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgDRMDownloadRequestWithCrashData::ByteSize(void)const
-90	CMsgDRMDownloadRequestWithCrashData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgDRMDownloadRequestWithCrashData::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgDRMDownloadRequestWithCrashData::GetCachedSize(void)const
-12	CMsgDRMDownloadRequestWithCrashData::CopyFrom(google::protobuf::Message const&)
-13	CMsgDRMDownloadRequestWithCrashData::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgDRMDownloadRequestWithCrashData::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgDRMDownloadRequestWithCrashData::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgDRMDownloadRequestWithCrashData
+// Auto reconstructed from vtable block @ 0x00EEF510
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgDRMDownloadRequestWithCrashData::~CMsgDRMDownloadRequestWithCrashData()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgDRMDownloadRequestWithCrashData::New(void)const
+3	CMsgDRMDownloadRequestWithCrashData::Clear(void)
+4	CMsgDRMDownloadRequestWithCrashData::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgDRMDownloadRequestWithCrashData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgDRMDownloadRequestWithCrashData::ByteSize(void)const
+90	CMsgDRMDownloadRequestWithCrashData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgDRMDownloadRequestWithCrashData::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgDRMDownloadRequestWithCrashData::GetCachedSize(void)const
+12	CMsgDRMDownloadRequestWithCrashData::CopyFrom(google::protobuf::Message const&)
+13	CMsgDRMDownloadRequestWithCrashData::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgDRMDownloadRequestWithCrashData::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgDRMDownloadRequestWithCrashData::GetMetadata(void)const
+

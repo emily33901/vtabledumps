@@ -1,20 +1,20 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>
-// Auto reconstructed from vtable block @ 0x00F1F574
-// from "steamclient.dylib", by ida_vtables.idc
-0	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::~basic_stringbuf()
-1	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::imbue(std::__1::locale const&)
-2	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::setbuf(char *,int)
-3	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::seekoff(long long,std::__1::ios_base::seekdir,unsigned int)
-4	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::seekpos(std::__1::fpos<__mbstate_t>,unsigned int)
-5	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::sync(void)
-6	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::showmanyc(void)
-7	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::xsgetn(char *,int)
-8	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::underflow(void)
-90	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::uflow(void)
-10	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::pbackfail(int)
-11	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::xsputn(char const*,int)
-12	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::overflow(int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>
+// Auto reconstructed from vtable block @ 0x00F1F574
+// from "steamclient.dylib", by ida_vtables.idc
+0	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::~basic_stringbuf()
+1	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::imbue(std::__1::locale const&)
+2	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::setbuf(char *,int)
+3	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::seekoff(long long,std::__1::ios_base::seekdir,unsigned int)
+4	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::seekpos(std::__1::fpos<__mbstate_t>,unsigned int)
+5	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::sync(void)
+6	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::showmanyc(void)
+7	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::xsgetn(char *,int)
+8	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::underflow(void)
+90	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::uflow(void)
+10	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::pbackfail(int)
+11	std::__1::basic_streambuf<char,std::__1::char_traits<char>>::xsputn(char const*,int)
+12	std::__1::basic_stringbuf<char,std::__1::char_traits<char>,std::__1::allocator<char>>::overflow(int)
+

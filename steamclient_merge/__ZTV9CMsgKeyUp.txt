@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgKeyUp
-// Auto reconstructed from vtable block @ 0x00ECB100
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgKeyUp::~CMsgKeyUp()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgKeyUp::New(void)const
-3	CMsgKeyUp::Clear(void)
-4	CMsgKeyUp::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgKeyUp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgKeyUp::ByteSize(void)const
-90	CMsgKeyUp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgKeyUp::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgKeyUp::GetCachedSize(void)const
-12	CMsgKeyUp::CopyFrom(google::protobuf::Message const&)
-13	CMsgKeyUp::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgKeyUp::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgKeyUp::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgKeyUp
+// Auto reconstructed from vtable block @ 0x00ECB100
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgKeyUp::~CMsgKeyUp()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgKeyUp::New(void)const
+3	CMsgKeyUp::Clear(void)
+4	CMsgKeyUp::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgKeyUp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgKeyUp::ByteSize(void)const
+90	CMsgKeyUp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgKeyUp::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgKeyUp::GetCachedSize(void)const
+12	CMsgKeyUp::CopyFrom(google::protobuf::Message const&)
+13	CMsgKeyUp::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgKeyUp::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgKeyUp::GetMetadata(void)const
+

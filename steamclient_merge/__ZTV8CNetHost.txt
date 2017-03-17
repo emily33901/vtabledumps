@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CNetHost
-// Auto reconstructed from vtable block @ 0x00EE6E00
-// from "steamclient.dylib", by ida_vtables.idc
-0	CNetHost::~CNetHost()
-1	___cxa_pure_virtual
-2	___cxa_pure_virtual
-3	CNetHost::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNetHost
+// Auto reconstructed from vtable block @ 0x00EE6E00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetHost::~CNetHost()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	CNetHost::Validate(CValidator &,char const*)
+

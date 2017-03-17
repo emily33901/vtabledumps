@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CBroadcast_BeginBroadcastSession_Response
-// Auto reconstructed from vtable block @ 0x00EC0D30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CBroadcast_BeginBroadcastSession_Response::~CBroadcast_BeginBroadcastSession_Response()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CBroadcast_BeginBroadcastSession_Response::New(void)const
-3	CBroadcast_BeginBroadcastSession_Response::Clear(void)
-4	CBroadcast_BeginBroadcastSession_Response::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CBroadcast_BeginBroadcastSession_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CBroadcast_BeginBroadcastSession_Response::ByteSize(void)const
-90	CBroadcast_BeginBroadcastSession_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CBroadcast_BeginBroadcastSession_Response::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CBroadcast_BeginBroadcastSession_Response::GetCachedSize(void)const
-12	CBroadcast_BeginBroadcastSession_Response::CopyFrom(google::protobuf::Message const&)
-13	CBroadcast_BeginBroadcastSession_Response::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBroadcast_BeginBroadcastSession_Response
+// Auto reconstructed from vtable block @ 0x00EC0D30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBroadcast_BeginBroadcastSession_Response::~CBroadcast_BeginBroadcastSession_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CBroadcast_BeginBroadcastSession_Response::New(void)const
+3	CBroadcast_BeginBroadcastSession_Response::Clear(void)
+4	CBroadcast_BeginBroadcastSession_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CBroadcast_BeginBroadcastSession_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CBroadcast_BeginBroadcastSession_Response::ByteSize(void)const
+90	CBroadcast_BeginBroadcastSession_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CBroadcast_BeginBroadcastSession_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CBroadcast_BeginBroadcastSession_Response::GetCachedSize(void)const
+12	CBroadcast_BeginBroadcastSession_Response::CopyFrom(google::protobuf::Message const&)
+13	CBroadcast_BeginBroadcastSession_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

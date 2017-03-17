@@ -1,16 +1,16 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHIDDeviceSDLGamepad
-// Auto reconstructed from vtable block @ 0x00EC0970
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHIDDeviceSDLGamepad::~CHIDDeviceSDLGamepad()
-1	CHIDDeviceSDLGamepad::GetLocation(void)
-2	CHIDDeviceSDLGamepad::Write(unsigned char const*,unsigned long)
-3	CHIDDeviceSDLGamepad::Read(unsigned char *,unsigned long,int)
-4	CHIDDeviceSDLGamepad::SendFeatureReport(unsigned char const*,unsigned long)
-5	CHIDDeviceSDLGamepad::GetFeatureReport(unsigned char *,unsigned long)
-6	CHIDDeviceSDLGamepad::GetVendorString(void)
-7	CHIDDeviceSDLGamepad::GetProductString(void)
-8	CHIDDeviceSDLGamepad::GetSerialNumberString(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDDeviceSDLGamepad
+// Auto reconstructed from vtable block @ 0x00EC0970
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceSDLGamepad::~CHIDDeviceSDLGamepad()
+1	CHIDDeviceSDLGamepad::GetLocation(void)
+2	CHIDDeviceSDLGamepad::Write(unsigned char const*,unsigned long)
+3	CHIDDeviceSDLGamepad::Read(unsigned char *,unsigned long,int)
+4	CHIDDeviceSDLGamepad::SendFeatureReport(unsigned char const*,unsigned long)
+5	CHIDDeviceSDLGamepad::GetFeatureReport(unsigned char *,unsigned long)
+6	CHIDDeviceSDLGamepad::GetVendorString(void)
+7	CHIDDeviceSDLGamepad::GetProductString(void)
+8	CHIDDeviceSDLGamepad::GetSerialNumberString(void)
+

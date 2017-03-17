@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CRemoteStorageSyncHelpers::CThreadFuncWrapper
-// Auto reconstructed from vtable block @ 0x00EFD330
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRemoteStorageSyncHelpers::CThreadFuncWrapper::~CThreadFuncWrapper()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	CRemoteStorageSyncHelpers::CThreadFuncWrapper::GetWorkItemName(void)const
-3	CRemoteStorageSyncHelpers::CThreadFuncWrapper::GetThreadProcessName(void)const
-4	CRemoteStorageSyncHelpers::CThreadFuncWrapper::ThreadProcess(CWorkThread *)
-5	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
-6	CWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRemoteStorageSyncHelpers::CThreadFuncWrapper
+// Auto reconstructed from vtable block @ 0x00EFD330
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRemoteStorageSyncHelpers::CThreadFuncWrapper::~CThreadFuncWrapper()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CRemoteStorageSyncHelpers::CThreadFuncWrapper::GetWorkItemName(void)const
+3	CRemoteStorageSyncHelpers::CThreadFuncWrapper::GetThreadProcessName(void)const
+4	CRemoteStorageSyncHelpers::CThreadFuncWrapper::ThreadProcess(CWorkThread *)
+5	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

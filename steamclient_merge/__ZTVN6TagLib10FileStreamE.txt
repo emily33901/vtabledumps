@@ -1,20 +1,20 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::FileStream
-// Auto reconstructed from vtable block @ 0x00EE3C20
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::FileStream::~FileStream()
-1	TagLib::FileStream::name(void)const
-2	TagLib::FileStream::readBlock(unsigned long)
-3	TagLib::FileStream::writeBlock(TagLib::ByteVector const&)
-4	TagLib::FileStream::insert(TagLib::ByteVector const&,unsigned long,unsigned long)
-5	TagLib::FileStream::removeBlock(unsigned long,unsigned long)
-6	TagLib::FileStream::readOnly(void)const
-7	TagLib::FileStream::isOpen(void)const
-8	TagLib::FileStream::seek(long,TagLib::IOStream::Position)
-90	TagLib::FileStream::clear(void)
-10	TagLib::FileStream::tell(void)const
-11	TagLib::FileStream::length(void)
-12	TagLib::FileStream::truncate(long)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::FileStream
+// Auto reconstructed from vtable block @ 0x00EE3C20
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::FileStream::~FileStream()
+1	TagLib::FileStream::name(void)const
+2	TagLib::FileStream::readBlock(unsigned long)
+3	TagLib::FileStream::writeBlock(TagLib::ByteVector const&)
+4	TagLib::FileStream::insert(TagLib::ByteVector const&,unsigned long,unsigned long)
+5	TagLib::FileStream::removeBlock(unsigned long,unsigned long)
+6	TagLib::FileStream::readOnly(void)const
+7	TagLib::FileStream::isOpen(void)const
+8	TagLib::FileStream::seek(long,TagLib::IOStream::Position)
+90	TagLib::FileStream::clear(void)
+10	TagLib::FileStream::tell(void)const
+11	TagLib::FileStream::length(void)
+12	TagLib::FileStream::truncate(long)
+

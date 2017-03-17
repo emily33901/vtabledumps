@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CRebootIntoBootloaderWorkItem
-// Auto reconstructed from vtable block @ 0x00F01B60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRebootIntoBootloaderWorkItem::~CRebootIntoBootloaderWorkItem()
-1	CRebootIntoBootloaderWorkItem::RunFunc(IControllerAbstraction *)
-2	CRebootIntoBootloaderWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRebootIntoBootloaderWorkItem
+// Auto reconstructed from vtable block @ 0x00F01B60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRebootIntoBootloaderWorkItem::~CRebootIntoBootloaderWorkItem()
+1	CRebootIntoBootloaderWorkItem::RunFunc(IControllerAbstraction *)
+2	CRebootIntoBootloaderWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

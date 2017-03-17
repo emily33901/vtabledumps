@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLProtoBufMsg<CMsgLinkAtPosition>
-// Auto reconstructed from vtable block @ 0x00F054D8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLProtoBufMsg<CMsgLinkAtPosition>::~CHTMLProtoBufMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgLinkAtPosition>
+// Auto reconstructed from vtable block @ 0x00F054D8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgLinkAtPosition>::~CHTMLProtoBufMsg()
+

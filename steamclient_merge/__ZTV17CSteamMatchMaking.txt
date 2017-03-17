@@ -1,32 +1,32 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamMatchMaking
-// Auto reconstructed from vtable block @ 0x00ED25F0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamMatchMaking::RequestInternetServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
-1	CSteamMatchMaking::RequestLANServerList(unsigned int,ISteamMatchmakingServerListResponse *)
-2	CSteamMatchMaking::RequestFriendsServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
-3	CSteamMatchMaking::RequestFavoritesServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
-4	CSteamMatchMaking::RequestHistoryServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
-5	CSteamMatchMaking::RequestSpectatorServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
-6	CSteamMatchMaking::ReleaseRequest(void *)
-7	CSteamMatchMaking::GetServerDetails(void *,int)
-8	CSteamMatchMaking::CancelQuery(void *)
-9	CSteamMatchMaking::RefreshQuery(void *)
-10	CSteamMatchMaking::IsRefreshing(void *)
-11	CSteamMatchMaking::GetServerCount(void *)
-12	CSteamMatchMaking::RefreshServer(void *,int)
-13	CSteamMatchMaking::PingServer(unsigned int,unsigned short,ISteamMatchmakingPingResponse *)
-14	CSteamMatchMaking::PlayerDetails(unsigned int,unsigned short,ISteamMatchmakingPlayersResponse *)
-15	CSteamMatchMaking::ServerRules(unsigned int,unsigned short,ISteamMatchmakingRulesResponse *)
-16	CSteamMatchMaking::CancelServerQuery(int)
-17	CSteamMatchMaking::_RequestXxxServerList_v001(_EMatchMakingType_v001,unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
-18	CSteamMatchMaking::_GetServerDetails_v001(_EMatchMakingType_v001,int)
-19	CSteamMatchMaking::_CancelQuery_v001(_EMatchMakingType_v001)
-20	CSteamMatchMaking::_RefreshQuery_v001(_EMatchMakingType_v001)
-21	CSteamMatchMaking::_IsRefreshing_v001(_EMatchMakingType_v001)
-22	CSteamMatchMaking::_GetServerCount_v001(_EMatchMakingType_v001)
-23	CSteamMatchMaking::_RefreshServer_v001(_EMatchMakingType_v001,int)
-24	CSteamMatchMaking::~CSteamMatchMaking()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamMatchMaking
+// Auto reconstructed from vtable block @ 0x00ED25F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamMatchMaking::RequestInternetServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+1	CSteamMatchMaking::RequestLANServerList(unsigned int,ISteamMatchmakingServerListResponse *)
+2	CSteamMatchMaking::RequestFriendsServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+3	CSteamMatchMaking::RequestFavoritesServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+4	CSteamMatchMaking::RequestHistoryServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+5	CSteamMatchMaking::RequestSpectatorServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,ISteamMatchmakingServerListResponse *)
+6	CSteamMatchMaking::ReleaseRequest(void *)
+7	CSteamMatchMaking::GetServerDetails(void *,int)
+8	CSteamMatchMaking::CancelQuery(void *)
+9	CSteamMatchMaking::RefreshQuery(void *)
+10	CSteamMatchMaking::IsRefreshing(void *)
+11	CSteamMatchMaking::GetServerCount(void *)
+12	CSteamMatchMaking::RefreshServer(void *,int)
+13	CSteamMatchMaking::PingServer(unsigned int,unsigned short,ISteamMatchmakingPingResponse *)
+14	CSteamMatchMaking::PlayerDetails(unsigned int,unsigned short,ISteamMatchmakingPlayersResponse *)
+15	CSteamMatchMaking::ServerRules(unsigned int,unsigned short,ISteamMatchmakingRulesResponse *)
+16	CSteamMatchMaking::CancelServerQuery(int)
+17	CSteamMatchMaking::_RequestXxxServerList_v001(_EMatchMakingType_v001,unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+18	CSteamMatchMaking::_GetServerDetails_v001(_EMatchMakingType_v001,int)
+19	CSteamMatchMaking::_CancelQuery_v001(_EMatchMakingType_v001)
+20	CSteamMatchMaking::_RefreshQuery_v001(_EMatchMakingType_v001)
+21	CSteamMatchMaking::_IsRefreshing_v001(_EMatchMakingType_v001)
+22	CSteamMatchMaking::_GetServerCount_v001(_EMatchMakingType_v001)
+23	CSteamMatchMaking::_RefreshServer_v001(_EMatchMakingType_v001,int)
+24	CSteamMatchMaking::~CSteamMatchMaking()
+

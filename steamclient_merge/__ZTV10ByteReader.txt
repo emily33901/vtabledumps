@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'ByteReader
-// Auto reconstructed from vtable block @ 0x00F262B4
-// from "steamclient.dylib", by ida_vtables.idc
-0	ByteReader::~ByteReader()
-1	ByteReader::read(TagLib::File &,unsigned int)
-2	ByteReader::size(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ByteReader
+// Auto reconstructed from vtable block @ 0x00F262B4
+// from "steamclient.dylib", by ida_vtables.idc
+0	ByteReader::~ByteReader()
+1	ByteReader::read(TagLib::File &,unsigned int)
+2	ByteReader::size(void)const
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamMatchmaking006
-// Auto reconstructed from vtable block @ 0x00F09650
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamMatchmaking006::GetFavoriteGameCount(void)
-1	CAdapterSteamMatchmaking006::GetFavoriteGame(int,unsigned int *,unsigned int *,unsigned short *,unsigned short *,unsigned int *,unsigned int *)
-2	CAdapterSteamMatchmaking006::AddFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int,unsigned int)
-3	CAdapterSteamMatchmaking006::RemoveFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int)
-4	CAdapterSteamMatchmaking006::RequestLobbyList(void)
-5	CAdapterSteamMatchmaking006::AddRequestLobbyListFilter(char const*,char const*)
-6	CAdapterSteamMatchmaking006::AddRequestLobbyListNumericalFilter(char const*,int,int)
-7	CAdapterSteamMatchmaking006::AddRequestLobbyListNearValueFilter(char const*,int)
-8	CAdapterSteamMatchmaking006::GetLobbyByIndex(int)
-9	CAdapterSteamMatchmaking006::CreateLobby(ELobbyType)
-10	CAdapterSteamMatchmaking006::JoinLobby(CSteamID)
-11	CAdapterSteamMatchmaking006::LeaveLobby(CSteamID)
-12	CAdapterSteamMatchmaking006::InviteUserToLobby(CSteamID,CSteamID)
-13	CAdapterSteamMatchmaking006::GetNumLobbyMembers(CSteamID)
-14	CAdapterSteamMatchmaking006::GetLobbyMemberByIndex(CSteamID,int)
-15	CAdapterSteamMatchmaking006::GetLobbyData(CSteamID,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamMatchmaking006
+// Auto reconstructed from vtable block @ 0x00F09650
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMatchmaking006::GetFavoriteGameCount(void)
+1	CAdapterSteamMatchmaking006::GetFavoriteGame(int,unsigned int *,unsigned int *,unsigned short *,unsigned short *,unsigned int *,unsigned int *)
+2	CAdapterSteamMatchmaking006::AddFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int,unsigned int)
+3	CAdapterSteamMatchmaking006::RemoveFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int)
+4	CAdapterSteamMatchmaking006::RequestLobbyList(void)
+5	CAdapterSteamMatchmaking006::AddRequestLobbyListFilter(char const*,char const*)
+6	CAdapterSteamMatchmaking006::AddRequestLobbyListNumericalFilter(char const*,int,int)
+7	CAdapterSteamMatchmaking006::AddRequestLobbyListNearValueFilter(char const*,int)
+8	CAdapterSteamMatchmaking006::GetLobbyByIndex(int)
+9	CAdapterSteamMatchmaking006::CreateLobby(ELobbyType)
+10	CAdapterSteamMatchmaking006::JoinLobby(CSteamID)
+11	CAdapterSteamMatchmaking006::LeaveLobby(CSteamID)
+12	CAdapterSteamMatchmaking006::InviteUserToLobby(CSteamID,CSteamID)
+13	CAdapterSteamMatchmaking006::GetNumLobbyMembers(CSteamID)
+14	CAdapterSteamMatchmaking006::GetLobbyMemberByIndex(CSteamID,int)
+15	CAdapterSteamMatchmaking006::GetLobbyData(CSteamID,char const*)
+

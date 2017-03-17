@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CFileWriterThread
-// Auto reconstructed from vtable block @ 0x00F27420
-// from "steamclient.dylib", by ida_vtables.idc
-0	CFileWriterThread::~CFileWriterThread()
-1	SteamThreadTools::CThread::Init(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFileWriterThread
+// Auto reconstructed from vtable block @ 0x00F27420
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFileWriterThread::~CFileWriterThread()
+1	SteamThreadTools::CThread::Init(void)
+

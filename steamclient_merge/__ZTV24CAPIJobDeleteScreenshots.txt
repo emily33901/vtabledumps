@@ -1,21 +1,21 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAPIJobDeleteScreenshots
-// Auto reconstructed from vtable block @ 0x00F1BB60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAPIJobDeleteScreenshots::~CAPIJobDeleteScreenshots()
-1	CJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CBaseAPIJob::BYieldingRunJob(void *)
-8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CBaseAPIJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-12	CAPIJobDeleteScreenshots::BYieldingRunAPIJob(void)
-13	CAPIJobScreenshotAction::Cancel(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAPIJobDeleteScreenshots
+// Auto reconstructed from vtable block @ 0x00F1BB60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAPIJobDeleteScreenshots::~CAPIJobDeleteScreenshots()
+1	CJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CBaseAPIJob::BYieldingRunJob(void *)
+8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CBaseAPIJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CAPIJobDeleteScreenshots::BYieldingRunAPIJob(void)
+13	CAPIJobScreenshotAction::Cancel(void)
+

@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGetChipIDWorkItem
-// Auto reconstructed from vtable block @ 0x00F01EB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGetChipIDWorkItem::~CGetChipIDWorkItem()
-1	CGetChipIDWorkItem::RunFunc(IControllerAbstraction *)
-2	CGetChipIDWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGetChipIDWorkItem
+// Auto reconstructed from vtable block @ 0x00F01EB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGetChipIDWorkItem::~CGetChipIDWorkItem()
+1	CGetChipIDWorkItem::RunFunc(IControllerAbstraction *)
+2	CGetChipIDWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

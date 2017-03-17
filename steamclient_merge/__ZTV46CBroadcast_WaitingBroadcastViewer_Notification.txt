@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CBroadcast_WaitingBroadcastViewer_Notification
-// Auto reconstructed from vtable block @ 0x00EC1750
-// from "steamclient.dylib", by ida_vtables.idc
-0	CBroadcast_WaitingBroadcastViewer_Notification::~CBroadcast_WaitingBroadcastViewer_Notification()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CBroadcast_WaitingBroadcastViewer_Notification::New(void)const
-3	CBroadcast_WaitingBroadcastViewer_Notification::Clear(void)
-4	CBroadcast_WaitingBroadcastViewer_Notification::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CBroadcast_WaitingBroadcastViewer_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CBroadcast_WaitingBroadcastViewer_Notification::ByteSize(void)const
-90	CBroadcast_WaitingBroadcastViewer_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CBroadcast_WaitingBroadcastViewer_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CBroadcast_WaitingBroadcastViewer_Notification::GetCachedSize(void)const
-12	CBroadcast_WaitingBroadcastViewer_Notification::CopyFrom(google::protobuf::Message const&)
-13	CBroadcast_WaitingBroadcastViewer_Notification::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CBroadcast_WaitingBroadcastViewer_Notification::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CBroadcast_WaitingBroadcastViewer_Notification::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBroadcast_WaitingBroadcastViewer_Notification
+// Auto reconstructed from vtable block @ 0x00EC1750
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBroadcast_WaitingBroadcastViewer_Notification::~CBroadcast_WaitingBroadcastViewer_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CBroadcast_WaitingBroadcastViewer_Notification::New(void)const
+3	CBroadcast_WaitingBroadcastViewer_Notification::Clear(void)
+4	CBroadcast_WaitingBroadcastViewer_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CBroadcast_WaitingBroadcastViewer_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CBroadcast_WaitingBroadcastViewer_Notification::ByteSize(void)const
+90	CBroadcast_WaitingBroadcastViewer_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CBroadcast_WaitingBroadcastViewer_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CBroadcast_WaitingBroadcastViewer_Notification::GetCachedSize(void)const
+12	CBroadcast_WaitingBroadcastViewer_Notification::CopyFrom(google::protobuf::Message const&)
+13	CBroadcast_WaitingBroadcastViewer_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CBroadcast_WaitingBroadcastViewer_Notification::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CBroadcast_WaitingBroadcastViewer_Notification::GetMetadata(void)const
+

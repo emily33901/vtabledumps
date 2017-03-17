@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CScheduledFunction<CConfigStore>
-// Auto reconstructed from vtable block @ 0x00F01670
-// from "steamclient.dylib", by ida_vtables.idc
-0	CScheduledFunction<CConfigStore>::~CScheduledFunction()
-1	CScheduledFunction<CConfigStore>::Run(void)
-2	CBaseScheduledFunction::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CConfigStore>
+// Auto reconstructed from vtable block @ 0x00F01670
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CConfigStore>::~CScheduledFunction()
+1	CScheduledFunction<CConfigStore>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

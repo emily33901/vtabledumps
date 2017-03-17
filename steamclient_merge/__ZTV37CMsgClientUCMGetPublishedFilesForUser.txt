@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientUCMGetPublishedFilesForUser
-// Auto reconstructed from vtable block @ 0x00EED650
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientUCMGetPublishedFilesForUser::~CMsgClientUCMGetPublishedFilesForUser()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientUCMGetPublishedFilesForUser::New(void)const
-3	CMsgClientUCMGetPublishedFilesForUser::Clear(void)
-4	CMsgClientUCMGetPublishedFilesForUser::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientUCMGetPublishedFilesForUser::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientUCMGetPublishedFilesForUser::ByteSize(void)const
-90	CMsgClientUCMGetPublishedFilesForUser::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientUCMGetPublishedFilesForUser::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientUCMGetPublishedFilesForUser::GetCachedSize(void)const
-12	CMsgClientUCMGetPublishedFilesForUser::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientUCMGetPublishedFilesForUser::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientUCMGetPublishedFilesForUser::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientUCMGetPublishedFilesForUser::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUCMGetPublishedFilesForUser
+// Auto reconstructed from vtable block @ 0x00EED650
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMGetPublishedFilesForUser::~CMsgClientUCMGetPublishedFilesForUser()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUCMGetPublishedFilesForUser::New(void)const
+3	CMsgClientUCMGetPublishedFilesForUser::Clear(void)
+4	CMsgClientUCMGetPublishedFilesForUser::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUCMGetPublishedFilesForUser::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUCMGetPublishedFilesForUser::ByteSize(void)const
+90	CMsgClientUCMGetPublishedFilesForUser::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUCMGetPublishedFilesForUser::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUCMGetPublishedFilesForUser::GetCachedSize(void)const
+12	CMsgClientUCMGetPublishedFilesForUser::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUCMGetPublishedFilesForUser::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUCMGetPublishedFilesForUser::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUCMGetPublishedFilesForUser::GetMetadata(void)const
+

@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgBrowserReady
-// Auto reconstructed from vtable block @ 0x00ECBEE0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgBrowserReady::~CMsgBrowserReady()
-1	google::protobuf::Message::GetTypeName(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgBrowserReady
+// Auto reconstructed from vtable block @ 0x00ECBEE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgBrowserReady::~CMsgBrowserReady()
+1	google::protobuf::Message::GetTypeName(void)const
+

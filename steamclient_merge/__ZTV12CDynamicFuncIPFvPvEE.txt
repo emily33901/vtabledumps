@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<void (*)(void *)>
-// Auto reconstructed from vtable block @ 0x00EF2E30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<void (*)(void *)>::Init(CSysModule *)
-1	CDynamicFunc<void (*)(void *)>::Release(void)
-2	CDynamicFunc<void (*)(void *)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<void (*)(void *)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<void (*)(void *)>
+// Auto reconstructed from vtable block @ 0x00EF2E30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<void (*)(void *)>::Init(CSysModule *)
+1	CDynamicFunc<void (*)(void *)>::Release(void)
+2	CDynamicFunc<void (*)(void *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<void (*)(void *)>::GetNextPointer(void)
+

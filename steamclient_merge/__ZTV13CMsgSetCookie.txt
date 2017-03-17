@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgSetCookie
-// Auto reconstructed from vtable block @ 0x00ECCF60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgSetCookie::~CMsgSetCookie()
-1	google::protobuf::Message::GetTypeName(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSetCookie
+// Auto reconstructed from vtable block @ 0x00ECCF60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetCookie::~CMsgSetCookie()
+1	google::protobuf::Message::GetTypeName(void)const
+

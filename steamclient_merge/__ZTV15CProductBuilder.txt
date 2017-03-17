@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CProductBuilder
-// Auto reconstructed from vtable block @ 0x00ED2E70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CProductBuilder::SignInstallScript(unsigned int,char const*,char const*)
-1	CProductBuilder::DRMWrap(unsigned int,char const*,char const*,char const*,unsigned int)
-2	CProductBuilder::CEGWrap(unsigned int,char const*,char const*,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CProductBuilder
+// Auto reconstructed from vtable block @ 0x00ED2E70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CProductBuilder::SignInstallScript(unsigned int,char const*,char const*)
+1	CProductBuilder::DRMWrap(unsigned int,char const*,char const*,char const*,unsigned int)
+2	CProductBuilder::CEGWrap(unsigned int,char const*,char const*,char const*)
+

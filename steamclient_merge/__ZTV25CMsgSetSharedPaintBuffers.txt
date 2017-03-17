@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgSetSharedPaintBuffers
-// Auto reconstructed from vtable block @ 0x00ECC8A0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgSetSharedPaintBuffers::~CMsgSetSharedPaintBuffers()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSetSharedPaintBuffers
+// Auto reconstructed from vtable block @ 0x00ECC8A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetSharedPaintBuffers::~CMsgSetSharedPaintBuffers()
+

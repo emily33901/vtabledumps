@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientInstallClientAppResponse
-// Auto reconstructed from vtable block @ 0x00EEA100
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientInstallClientAppResponse::~CMsgClientInstallClientAppResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientInstallClientAppResponse::New(void)const
-3	CMsgClientInstallClientAppResponse::Clear(void)
-4	CMsgClientInstallClientAppResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientInstallClientAppResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientInstallClientAppResponse::ByteSize(void)const
-90	CMsgClientInstallClientAppResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientInstallClientAppResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientInstallClientAppResponse::GetCachedSize(void)const
-12	CMsgClientInstallClientAppResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientInstallClientAppResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientInstallClientAppResponse
+// Auto reconstructed from vtable block @ 0x00EEA100
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientInstallClientAppResponse::~CMsgClientInstallClientAppResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientInstallClientAppResponse::New(void)const
+3	CMsgClientInstallClientAppResponse::Clear(void)
+4	CMsgClientInstallClientAppResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientInstallClientAppResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientInstallClientAppResponse::ByteSize(void)const
+90	CMsgClientInstallClientAppResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientInstallClientAppResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientInstallClientAppResponse::GetCachedSize(void)const
+12	CMsgClientInstallClientAppResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientInstallClientAppResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

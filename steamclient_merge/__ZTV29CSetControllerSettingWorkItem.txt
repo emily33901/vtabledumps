@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSetControllerSettingWorkItem
-// Auto reconstructed from vtable block @ 0x00F01F40
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSetControllerSettingWorkItem::~CSetControllerSettingWorkItem()
-1	CSetControllerSettingWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CSetControllerSettingWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSetControllerSettingWorkItem
+// Auto reconstructed from vtable block @ 0x00F01F40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSetControllerSettingWorkItem::~CSetControllerSettingWorkItem()
+1	CSetControllerSettingWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CSetControllerSettingWorkItem::Validate(CValidator &,char const*)
+

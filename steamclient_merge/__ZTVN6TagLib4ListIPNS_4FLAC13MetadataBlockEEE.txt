@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::List<TagLib::FLAC::MetadataBlock *>
-// Auto reconstructed from vtable block @ 0x00F25F18
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::List<TagLib::FLAC::MetadataBlock *>::~List()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::List<TagLib::FLAC::MetadataBlock *>
+// Auto reconstructed from vtable block @ 0x00F25F18
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::List<TagLib::FLAC::MetadataBlock *>::~List()
+

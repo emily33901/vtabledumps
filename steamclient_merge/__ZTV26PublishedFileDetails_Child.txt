@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'PublishedFileDetails_Child
-// Auto reconstructed from vtable block @ 0x00EC8420
-// from "steamclient.dylib", by ida_vtables.idc
-0	PublishedFileDetails_Child::~PublishedFileDetails_Child()
-1	google::protobuf::Message::GetTypeName(void)const
-2	PublishedFileDetails_Child::New(void)const
-3	PublishedFileDetails_Child::Clear(void)
-4	PublishedFileDetails_Child::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	PublishedFileDetails_Child::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	PublishedFileDetails_Child::ByteSize(void)const
-90	PublishedFileDetails_Child::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	PublishedFileDetails_Child::SerializeWithCachedSizesToArray(unsigned char *)const
-11	PublishedFileDetails_Child::GetCachedSize(void)const
-12	PublishedFileDetails_Child::CopyFrom(google::protobuf::Message const&)
-13	PublishedFileDetails_Child::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'PublishedFileDetails_Child
+// Auto reconstructed from vtable block @ 0x00EC8420
+// from "steamclient.dylib", by ida_vtables.idc
+0	PublishedFileDetails_Child::~PublishedFileDetails_Child()
+1	google::protobuf::Message::GetTypeName(void)const
+2	PublishedFileDetails_Child::New(void)const
+3	PublishedFileDetails_Child::Clear(void)
+4	PublishedFileDetails_Child::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	PublishedFileDetails_Child::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	PublishedFileDetails_Child::ByteSize(void)const
+90	PublishedFileDetails_Child::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	PublishedFileDetails_Child::SerializeWithCachedSizesToArray(unsigned char *)const
+11	PublishedFileDetails_Child::GetCachedSize(void)const
+12	PublishedFileDetails_Child::CopyFrom(google::protobuf::Message const&)
+13	PublishedFileDetails_Child::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

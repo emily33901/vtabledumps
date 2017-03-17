@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientUFSGetFileListForApp
-// Auto reconstructed from vtable block @ 0x00EEA700
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientUFSGetFileListForApp::~CMsgClientUFSGetFileListForApp()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientUFSGetFileListForApp::New(void)const
-3	CMsgClientUFSGetFileListForApp::Clear(void)
-4	CMsgClientUFSGetFileListForApp::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientUFSGetFileListForApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientUFSGetFileListForApp::ByteSize(void)const
-90	CMsgClientUFSGetFileListForApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientUFSGetFileListForApp::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientUFSGetFileListForApp::GetCachedSize(void)const
-12	CMsgClientUFSGetFileListForApp::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientUFSGetFileListForApp::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientUFSGetFileListForApp::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientUFSGetFileListForApp::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUFSGetFileListForApp
+// Auto reconstructed from vtable block @ 0x00EEA700
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSGetFileListForApp::~CMsgClientUFSGetFileListForApp()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUFSGetFileListForApp::New(void)const
+3	CMsgClientUFSGetFileListForApp::Clear(void)
+4	CMsgClientUFSGetFileListForApp::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUFSGetFileListForApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUFSGetFileListForApp::ByteSize(void)const
+90	CMsgClientUFSGetFileListForApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUFSGetFileListForApp::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUFSGetFileListForApp::GetCachedSize(void)const
+12	CMsgClientUFSGetFileListForApp::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUFSGetFileListForApp::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUFSGetFileListForApp::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUFSGetFileListForApp::GetMetadata(void)const
+

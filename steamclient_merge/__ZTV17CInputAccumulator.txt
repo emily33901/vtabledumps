@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInputAccumulator
-// Auto reconstructed from vtable block @ 0x00F02AD0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInputAccumulator::~CInputAccumulator()
-1	CInputAccumulator::MouseMove(int,int)
-2	CInputAccumulator::MouseDown(Voltroller::MouseButtons)
-3	CInputAccumulator::MouseUp(Voltroller::MouseButtons)
-4	CInputAccumulator::MouseMoveAbsolute(int,int)
-5	CInputAccumulator::KeyDown(Voltroller::HIDKeyboardKeys)
-6	CInputAccumulator::KeyUp(Voltroller::HIDKeyboardKeys)
-7	CInputAccumulator::SendText(char const*)
-8	CInputAccumulator::SetXInputConnected(bool)
-90	CInputAccumulator::GamePadButtonEvent(Voltroller::GamepadButtons,bool)
-10	CInputAccumulator::AxisEvent(IInputGenerator::EAxis,short,short)
-11	CInputAccumulator::ResetAxisValues(void)
-12	CInputAccumulator::ResetAxisCount(void)
-13	CInputAccumulator::TriggerHapticPulse(ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
-14	CInputAccumulator::TranslateRumbleEvents(int,int)
-15	CInputAccumulator::GetCursorPosition(int *,int *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInputAccumulator
+// Auto reconstructed from vtable block @ 0x00F02AD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInputAccumulator::~CInputAccumulator()
+1	CInputAccumulator::MouseMove(int,int)
+2	CInputAccumulator::MouseDown(Voltroller::MouseButtons)
+3	CInputAccumulator::MouseUp(Voltroller::MouseButtons)
+4	CInputAccumulator::MouseMoveAbsolute(int,int)
+5	CInputAccumulator::KeyDown(Voltroller::HIDKeyboardKeys)
+6	CInputAccumulator::KeyUp(Voltroller::HIDKeyboardKeys)
+7	CInputAccumulator::SendText(char const*)
+8	CInputAccumulator::SetXInputConnected(bool)
+90	CInputAccumulator::GamePadButtonEvent(Voltroller::GamepadButtons,bool)
+10	CInputAccumulator::AxisEvent(IInputGenerator::EAxis,short,short)
+11	CInputAccumulator::ResetAxisValues(void)
+12	CInputAccumulator::ResetAxisCount(void)
+13	CInputAccumulator::TriggerHapticPulse(ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
+14	CInputAccumulator::TranslateRumbleEvents(int,int)
+15	CInputAccumulator::GetCursorPosition(int *,int *)
+

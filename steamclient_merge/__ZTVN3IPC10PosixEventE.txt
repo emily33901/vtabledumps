@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IPC::PosixEvent
-// Auto reconstructed from vtable block @ 0x00EF2FB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	IPC::PosixEvent::Wait(unsigned int)
-1	IPC::PosixEvent::Destroy(void)
-2	IPC::PosixEvent::~PosixEvent()
-3	IPC::ISyncObject::GetOpaque(void)
-4	IPC::ISyncObject::Validate(CValidator &,char const*)
-5	IPC::PosixEvent::SetEvent(void)
-6	IPC::PosixEvent::ResetEvent(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IPC::PosixEvent
+// Auto reconstructed from vtable block @ 0x00EF2FB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IPC::PosixEvent::Wait(unsigned int)
+1	IPC::PosixEvent::Destroy(void)
+2	IPC::PosixEvent::~PosixEvent()
+3	IPC::ISyncObject::GetOpaque(void)
+4	IPC::ISyncObject::Validate(CValidator &,char const*)
+5	IPC::PosixEvent::SetEvent(void)
+6	IPC::PosixEvent::ResetEvent(void)
+

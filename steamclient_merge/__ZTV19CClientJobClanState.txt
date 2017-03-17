@@ -1,21 +1,21 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientJobClanState
-// Auto reconstructed from vtable block @ 0x00EF9340
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientJobClanState::~CClientJobClanState()
-1	CBaseClientJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CClientJob::BYieldingRunJob(void *)
-8	CClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-12	CClientJobClanState::BYieldingRunClientJob(IMsgNetPacket *)
-13	CBaseClientJob::BYieldingRunClientJob(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientJobClanState
+// Auto reconstructed from vtable block @ 0x00EF9340
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientJobClanState::~CClientJobClanState()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CClientJob::BYieldingRunJob(void *)
+8	CClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CClientJobClanState::BYieldingRunClientJob(IMsgNetPacket *)
+13	CBaseClientJob::BYieldingRunClientJob(void)
+

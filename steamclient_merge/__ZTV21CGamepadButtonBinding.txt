@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGamepadButtonBinding
-// Auto reconstructed from vtable block @ 0x00ED1790
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGamepadButtonBinding::~CGamepadButtonBinding()
-1	CGamepadButtonBinding::SendEvent(IInputGenerator *,bool)const
-2	CGamepadButtonBinding::GetType(void)const
-3	CGamepadButtonBinding::GetAction(BindingAction_t *)const
-4	CGamepadButtonBinding::Save(CUtlString &)const
-5	IDigitalBinding::GetPreset(void)const
-6	IDigitalBinding::SetPreset(int)
-7	IDigitalBinding::SetIconData(IconBindingData_t *)
-8	IDigitalBinding::Disconnect(IInputGenerator *)const
-90	IDigitalBinding::SetActivator(IControllerActivator *)
-10	IDigitalBinding::GetActivator(void)const
-11	IDigitalBinding::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGamepadButtonBinding
+// Auto reconstructed from vtable block @ 0x00ED1790
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGamepadButtonBinding::~CGamepadButtonBinding()
+1	CGamepadButtonBinding::SendEvent(IInputGenerator *,bool)const
+2	CGamepadButtonBinding::GetType(void)const
+3	CGamepadButtonBinding::GetAction(BindingAction_t *)const
+4	CGamepadButtonBinding::Save(CUtlString &)const
+5	IDigitalBinding::GetPreset(void)const
+6	IDigitalBinding::SetPreset(int)
+7	IDigitalBinding::SetIconData(IconBindingData_t *)
+8	IDigitalBinding::Disconnect(IInputGenerator *)const
+90	IDigitalBinding::SetActivator(IControllerActivator *)
+10	IDigitalBinding::GetActivator(void)const
+11	IDigitalBinding::Validate(CValidator &,char const*)
+

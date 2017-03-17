@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'google::protobuf::ServiceDescriptorProto
-// Auto reconstructed from vtable block @ 0x00ED5750
-// from "steamclient.dylib", by ida_vtables.idc
-0	google::protobuf::ServiceDescriptorProto::~ServiceDescriptorProto()
-1	google::protobuf::Message::GetTypeName(void)const
-2	google::protobuf::ServiceDescriptorProto::New(void)const
-3	google::protobuf::ServiceDescriptorProto::Clear(void)
-4	google::protobuf::ServiceDescriptorProto::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	google::protobuf::ServiceDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	google::protobuf::ServiceDescriptorProto::ByteSize(void)const
-90	google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizesToArray(unsigned char *)const
-11	google::protobuf::ServiceDescriptorProto::GetCachedSize(void)const
-12	google::protobuf::ServiceDescriptorProto::CopyFrom(google::protobuf::Message const&)
-13	google::protobuf::ServiceDescriptorProto::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::ServiceDescriptorProto
+// Auto reconstructed from vtable block @ 0x00ED5750
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::ServiceDescriptorProto::~ServiceDescriptorProto()
+1	google::protobuf::Message::GetTypeName(void)const
+2	google::protobuf::ServiceDescriptorProto::New(void)const
+3	google::protobuf::ServiceDescriptorProto::Clear(void)
+4	google::protobuf::ServiceDescriptorProto::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	google::protobuf::ServiceDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	google::protobuf::ServiceDescriptorProto::ByteSize(void)const
+90	google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizesToArray(unsigned char *)const
+11	google::protobuf::ServiceDescriptorProto::GetCachedSize(void)const
+12	google::protobuf::ServiceDescriptorProto::CopyFrom(google::protobuf::Message const&)
+13	google::protobuf::ServiceDescriptorProto::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

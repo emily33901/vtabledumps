@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamUserV012
-// Auto reconstructed from vtable block @ 0x00F0AD40
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamUserV012::GetHSteamUser(void)
-1	CSteamUserV012::BLoggedOn(void)
-2	CSteamUserV012::GetSteamID(void)
-3	CSteamUserV012::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
-4	CSteamUserV012::TerminateGameConnection(unsigned int,unsigned short)
-5	CSteamUserV012::TrackAppUsageEvent(CGameID,int,char const*)
-6	CSteamUserV012::GetUserDataFolder(char *,int)
-7	CSteamUserV012::StartVoiceRecording(void)
-8	CSteamUserV012::StopVoiceRecording(void)
-9	CSteamUserV012::GetCompressedVoice(void *,unsigned int,unsigned int *)
-10	CSteamUserV012::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *)
-11	CSteamUserV012::GetAuthSessionTicket(void *,int,unsigned int *)
-12	CSteamUserV012::BeginAuthSession(void const*,int,CSteamID)
-13	CSteamUserV012::EndAuthSession(CSteamID)
-14	CSteamUserV012::CancelAuthTicket(unsigned int)
-15	CSteamUserV012::UserHasLicenseForApp(CSteamID,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV012
+// Auto reconstructed from vtable block @ 0x00F0AD40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV012::GetHSteamUser(void)
+1	CSteamUserV012::BLoggedOn(void)
+2	CSteamUserV012::GetSteamID(void)
+3	CSteamUserV012::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
+4	CSteamUserV012::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV012::TrackAppUsageEvent(CGameID,int,char const*)
+6	CSteamUserV012::GetUserDataFolder(char *,int)
+7	CSteamUserV012::StartVoiceRecording(void)
+8	CSteamUserV012::StopVoiceRecording(void)
+9	CSteamUserV012::GetCompressedVoice(void *,unsigned int,unsigned int *)
+10	CSteamUserV012::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *)
+11	CSteamUserV012::GetAuthSessionTicket(void *,int,unsigned int *)
+12	CSteamUserV012::BeginAuthSession(void const*,int,CSteamID)
+13	CSteamUserV012::EndAuthSession(CSteamID)
+14	CSteamUserV012::CancelAuthTicket(unsigned int)
+15	CSteamUserV012::UserHasLicenseForApp(CSteamID,unsigned int)
+

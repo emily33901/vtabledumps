@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CActivateStreamingWorkItem
-// Auto reconstructed from vtable block @ 0x00F01BC0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CActivateStreamingWorkItem::~CActivateStreamingWorkItem()
-1	CActivateStreamingWorkItem::RunFunc(IControllerAbstraction *)
-2	CActivateStreamingWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CActivateStreamingWorkItem
+// Auto reconstructed from vtable block @ 0x00F01BC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CActivateStreamingWorkItem::~CActivateStreamingWorkItem()
+1	CActivateStreamingWorkItem::RunFunc(IControllerAbstraction *)
+2	CActivateStreamingWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

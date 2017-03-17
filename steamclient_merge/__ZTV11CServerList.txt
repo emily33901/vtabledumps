@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CServerList
-// Auto reconstructed from vtable block @ 0x00ED26B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CServerList::ServerRespondedWithDetails(netadr_t const&,double,ServerInfoResponse_t const&)
-1	CServerList::AddPlayerToList(char const*,int,float)
-2	CServerList::PlayersRefreshComplete(void)
-3	CServerList::AddRulesToList(char const*,char const*)
-4	CServerList::RulesRefreshComplete(void)
-5	CServerList::ServerFailedToRespond(void)
-6	CServerList::~CServerList()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CServerList
+// Auto reconstructed from vtable block @ 0x00ED26B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CServerList::ServerRespondedWithDetails(netadr_t const&,double,ServerInfoResponse_t const&)
+1	CServerList::AddPlayerToList(char const*,int,float)
+2	CServerList::PlayersRefreshComplete(void)
+3	CServerList::AddRulesToList(char const*,char const*)
+4	CServerList::RulesRefreshComplete(void)
+5	CServerList::ServerFailedToRespond(void)
+6	CServerList::~CServerList()
+

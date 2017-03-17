@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CUserScreenshots
-// Auto reconstructed from vtable block @ 0x00ED4D70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CUserScreenshots::GetShortcutDisplayName(CGameID)
-1	CUserScreenshots::SetShortcutDisplayName(CGameID,char const*)
-2	CUserScreenshots::WriteScreenshot(CGameID,void *,unsigned int,int,int)
-3	CUserScreenshots::AddScreenshotToLibrary(CGameID,EVRScreenshotType,char const*,char const*,char const*,int,int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUserScreenshots
+// Auto reconstructed from vtable block @ 0x00ED4D70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUserScreenshots::GetShortcutDisplayName(CGameID)
+1	CUserScreenshots::SetShortcutDisplayName(CGameID,char const*)
+2	CUserScreenshots::WriteScreenshot(CGameID,void *,unsigned int,int,int)
+3	CUserScreenshots::AddScreenshotToLibrary(CGameID,EVRScreenshotType,char const*,char const*,char const*,int,int)
+

@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CWorkItem
-// Auto reconstructed from vtable block @ 0x00EF2220
-// from "steamclient.dylib", by ida_vtables.idc
-0	CWorkItem::~CWorkItem()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	___cxa_pure_virtual
-3	___cxa_pure_virtual
-4	___cxa_pure_virtual
-5	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
-6	CWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkItem
+// Auto reconstructed from vtable block @ 0x00EF2220
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItem::~CWorkItem()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

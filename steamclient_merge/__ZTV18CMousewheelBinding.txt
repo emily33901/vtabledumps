@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMousewheelBinding
-// Auto reconstructed from vtable block @ 0x00ED17E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMousewheelBinding::~CMousewheelBinding()
-1	CMousewheelBinding::SendEvent(IInputGenerator *,bool)const
-2	CMousewheelBinding::GetType(void)const
-3	CMousewheelBinding::GetAction(BindingAction_t *)const
-4	CMousewheelBinding::Save(CUtlString &)const
-5	IDigitalBinding::GetPreset(void)const
-6	IDigitalBinding::SetPreset(int)
-7	IDigitalBinding::SetIconData(IconBindingData_t *)
-8	CMousewheelBinding::Disconnect(IInputGenerator *)const
-90	IDigitalBinding::SetActivator(IControllerActivator *)
-10	IDigitalBinding::GetActivator(void)const
-11	IDigitalBinding::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMousewheelBinding
+// Auto reconstructed from vtable block @ 0x00ED17E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMousewheelBinding::~CMousewheelBinding()
+1	CMousewheelBinding::SendEvent(IInputGenerator *,bool)const
+2	CMousewheelBinding::GetType(void)const
+3	CMousewheelBinding::GetAction(BindingAction_t *)const
+4	CMousewheelBinding::Save(CUtlString &)const
+5	IDigitalBinding::GetPreset(void)const
+6	IDigitalBinding::SetPreset(int)
+7	IDigitalBinding::SetIconData(IconBindingData_t *)
+8	CMousewheelBinding::Disconnect(IInputGenerator *)const
+90	IDigitalBinding::SetActivator(IControllerActivator *)
+10	IDigitalBinding::GetActivator(void)const
+11	IDigitalBinding::Validate(CValidator &,char const*)
+

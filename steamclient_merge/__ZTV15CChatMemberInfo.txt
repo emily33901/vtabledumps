@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CChatMemberInfo
-// Auto reconstructed from vtable block @ 0x00EE6980
-// from "steamclient.dylib", by ida_vtables.idc
-0	CChatMemberInfo::~CChatMemberInfo()
-1	CMessageObject::BInternalDeserialize(CUtlBuffer &)
-2	CMessageObject::BInternalSerialize(CUtlBuffer &)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CChatMemberInfo
+// Auto reconstructed from vtable block @ 0x00EE6980
+// from "steamclient.dylib", by ida_vtables.idc
+0	CChatMemberInfo::~CChatMemberInfo()
+1	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+2	CMessageObject::BInternalSerialize(CUtlBuffer &)
+

@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CScheduledFunction<CHTTPClientConnection>
-// Auto reconstructed from vtable block @ 0x00F277E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CScheduledFunction<CHTTPClientConnection>::~CScheduledFunction()
-1	CScheduledFunction<CHTTPClientConnection>::Run(void)
-2	CBaseScheduledFunction::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CHTTPClientConnection>
+// Auto reconstructed from vtable block @ 0x00F277E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CHTTPClientConnection>::~CScheduledFunction()
+1	CScheduledFunction<CHTTPClientConnection>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

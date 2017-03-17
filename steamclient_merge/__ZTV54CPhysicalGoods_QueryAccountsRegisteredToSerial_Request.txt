@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CPhysicalGoods_QueryAccountsRegisteredToSerial_Request
-// Auto reconstructed from vtable block @ 0x00EC7530
-// from "steamclient.dylib", by ida_vtables.idc
-0	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::~CPhysicalGoods_QueryAccountsRegisteredToSerial_Request()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::New(void)const
-3	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::Clear(void)
-4	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::ByteSize(void)const
-90	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::GetCachedSize(void)const
-12	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::CopyFrom(google::protobuf::Message const&)
-13	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPhysicalGoods_QueryAccountsRegisteredToSerial_Request
+// Auto reconstructed from vtable block @ 0x00EC7530
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::~CPhysicalGoods_QueryAccountsRegisteredToSerial_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::New(void)const
+3	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::Clear(void)
+4	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::ByteSize(void)const
+90	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::GetCachedSize(void)const
+12	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::CopyFrom(google::protobuf::Message const&)
+13	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPhysicalGoods_QueryAccountsRegisteredToSerial_Request::GetMetadata(void)const
+

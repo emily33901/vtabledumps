@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientInstallUtilsMap
-// Auto reconstructed from vtable block @ 0x00EF2D70
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientInstallUtilsMap::SetUniverse(EUniverse)
-1	IClientInstallUtilsMap::AddShortcut(char const*,char const*,char const*,char const*,char const*)
-2	IClientInstallUtilsMap::RemoveShortcut(char const*)
-3	IClientInstallUtilsMap::AddUninstallEntry(int,char const*,char const*,char const*,char const*,char const*,char const*)
-4	IClientInstallUtilsMap::RemoveUninstallEntry(int)
-5	IClientInstallUtilsMap::AddToFirewall(char const*,char const*)
-6	IClientInstallUtilsMap::RemoveFromFirewall(char const*)
-7	IClientInstallUtilsMap::RegisterSteamProtocolHandler(bool)
-8	IClientInstallUtilsMap::AddInstallScriptToWhiteList(char const*,char const*)
-9	IClientInstallUtilsMap::RunInstallScript(char const*,unsigned int,bool)
-10	IClientInstallUtilsMap::GetInstallScriptExitCode(void)
-11	IClientInstallUtilsMap::ConfigureNetworDeviceIPAddresses(char const*,bool,unsigned int,unsigned int,unsigned int,unsigned int,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientInstallUtilsMap
+// Auto reconstructed from vtable block @ 0x00EF2D70
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientInstallUtilsMap::SetUniverse(EUniverse)
+1	IClientInstallUtilsMap::AddShortcut(char const*,char const*,char const*,char const*,char const*)
+2	IClientInstallUtilsMap::RemoveShortcut(char const*)
+3	IClientInstallUtilsMap::AddUninstallEntry(int,char const*,char const*,char const*,char const*,char const*,char const*)
+4	IClientInstallUtilsMap::RemoveUninstallEntry(int)
+5	IClientInstallUtilsMap::AddToFirewall(char const*,char const*)
+6	IClientInstallUtilsMap::RemoveFromFirewall(char const*)
+7	IClientInstallUtilsMap::RegisterSteamProtocolHandler(bool)
+8	IClientInstallUtilsMap::AddInstallScriptToWhiteList(char const*,char const*)
+9	IClientInstallUtilsMap::RunInstallScript(char const*,unsigned int,bool)
+10	IClientInstallUtilsMap::GetInstallScriptExitCode(void)
+11	IClientInstallUtilsMap::ConfigureNetworDeviceIPAddresses(char const*,bool,unsigned int,unsigned int,unsigned int,unsigned int,unsigned int)
+

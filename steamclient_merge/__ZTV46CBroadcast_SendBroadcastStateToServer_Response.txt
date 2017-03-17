@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CBroadcast_SendBroadcastStateToServer_Response
-// Auto reconstructed from vtable block @ 0x00EC1210
-// from "steamclient.dylib", by ida_vtables.idc
-0	CBroadcast_SendBroadcastStateToServer_Response::~CBroadcast_SendBroadcastStateToServer_Response()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CBroadcast_SendBroadcastStateToServer_Response::New(void)const
-3	CBroadcast_SendBroadcastStateToServer_Response::Clear(void)
-4	CBroadcast_SendBroadcastStateToServer_Response::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CBroadcast_SendBroadcastStateToServer_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CBroadcast_SendBroadcastStateToServer_Response::ByteSize(void)const
-90	CBroadcast_SendBroadcastStateToServer_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CBroadcast_SendBroadcastStateToServer_Response::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CBroadcast_SendBroadcastStateToServer_Response::GetCachedSize(void)const
-12	CBroadcast_SendBroadcastStateToServer_Response::CopyFrom(google::protobuf::Message const&)
-13	CBroadcast_SendBroadcastStateToServer_Response::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CBroadcast_SendBroadcastStateToServer_Response::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CBroadcast_SendBroadcastStateToServer_Response::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBroadcast_SendBroadcastStateToServer_Response
+// Auto reconstructed from vtable block @ 0x00EC1210
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBroadcast_SendBroadcastStateToServer_Response::~CBroadcast_SendBroadcastStateToServer_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CBroadcast_SendBroadcastStateToServer_Response::New(void)const
+3	CBroadcast_SendBroadcastStateToServer_Response::Clear(void)
+4	CBroadcast_SendBroadcastStateToServer_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CBroadcast_SendBroadcastStateToServer_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CBroadcast_SendBroadcastStateToServer_Response::ByteSize(void)const
+90	CBroadcast_SendBroadcastStateToServer_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CBroadcast_SendBroadcastStateToServer_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CBroadcast_SendBroadcastStateToServer_Response::GetCachedSize(void)const
+12	CBroadcast_SendBroadcastStateToServer_Response::CopyFrom(google::protobuf::Message const&)
+13	CBroadcast_SendBroadcastStateToServer_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CBroadcast_SendBroadcastStateToServer_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CBroadcast_SendBroadcastStateToServer_Response::GetMetadata(void)const
+

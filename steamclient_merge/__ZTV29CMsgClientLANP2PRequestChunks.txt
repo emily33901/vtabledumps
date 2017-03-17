@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientLANP2PRequestChunks
-// Auto reconstructed from vtable block @ 0x00EC1BB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientLANP2PRequestChunks::~CMsgClientLANP2PRequestChunks()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientLANP2PRequestChunks::New(void)const
-3	CMsgClientLANP2PRequestChunks::Clear(void)
-4	CMsgClientLANP2PRequestChunks::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientLANP2PRequestChunks::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientLANP2PRequestChunks::ByteSize(void)const
-90	CMsgClientLANP2PRequestChunks::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientLANP2PRequestChunks::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientLANP2PRequestChunks::GetCachedSize(void)const
-12	CMsgClientLANP2PRequestChunks::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientLANP2PRequestChunks::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientLANP2PRequestChunks::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientLANP2PRequestChunks::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientLANP2PRequestChunks
+// Auto reconstructed from vtable block @ 0x00EC1BB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientLANP2PRequestChunks::~CMsgClientLANP2PRequestChunks()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientLANP2PRequestChunks::New(void)const
+3	CMsgClientLANP2PRequestChunks::Clear(void)
+4	CMsgClientLANP2PRequestChunks::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientLANP2PRequestChunks::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientLANP2PRequestChunks::ByteSize(void)const
+90	CMsgClientLANP2PRequestChunks::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientLANP2PRequestChunks::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientLANP2PRequestChunks::GetCachedSize(void)const
+12	CMsgClientLANP2PRequestChunks::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientLANP2PRequestChunks::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientLANP2PRequestChunks::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientLANP2PRequestChunks::GetMetadata(void)const
+

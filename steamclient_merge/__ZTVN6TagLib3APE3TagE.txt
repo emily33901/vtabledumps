@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::APE::Tag
-// Auto reconstructed from vtable block @ 0x00EE2BA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::APE::Tag::~Tag()
-1	TagLib::APE::Tag::title(void)const
-2	TagLib::APE::Tag::artist(void)const
-3	TagLib::APE::Tag::album(void)const
-4	TagLib::APE::Tag::comment(void)const
-5	TagLib::APE::Tag::genre(void)const
-6	TagLib::APE::Tag::year(void)const
-7	TagLib::APE::Tag::track(void)const
-8	TagLib::APE::Tag::setTitle(TagLib::String const&)
-90	TagLib::APE::Tag::setArtist(TagLib::String const&)
-10	TagLib::APE::Tag::setAlbum(TagLib::String const&)
-11	TagLib::APE::Tag::setComment(TagLib::String const&)
-12	TagLib::APE::Tag::setGenre(TagLib::String const&)
-13	TagLib::APE::Tag::setYear(unsigned int)
-14	TagLib::APE::Tag::setTrack(unsigned int)
-15	TagLib::APE::Tag::isEmpty(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::APE::Tag
+// Auto reconstructed from vtable block @ 0x00EE2BA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::APE::Tag::~Tag()
+1	TagLib::APE::Tag::title(void)const
+2	TagLib::APE::Tag::artist(void)const
+3	TagLib::APE::Tag::album(void)const
+4	TagLib::APE::Tag::comment(void)const
+5	TagLib::APE::Tag::genre(void)const
+6	TagLib::APE::Tag::year(void)const
+7	TagLib::APE::Tag::track(void)const
+8	TagLib::APE::Tag::setTitle(TagLib::String const&)
+90	TagLib::APE::Tag::setArtist(TagLib::String const&)
+10	TagLib::APE::Tag::setAlbum(TagLib::String const&)
+11	TagLib::APE::Tag::setComment(TagLib::String const&)
+12	TagLib::APE::Tag::setGenre(TagLib::String const&)
+13	TagLib::APE::Tag::setYear(unsigned int)
+14	TagLib::APE::Tag::setTrack(unsigned int)
+15	TagLib::APE::Tag::isEmpty(void)const
+

@@ -1,32 +1,32 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'ConVar
-// Auto reconstructed from vtable block @ 0x00EE49B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	ConVar::~ConVar()
-1	ConVar::IsCommand(void)const
-2	ConCommandBase::IsBitSet(unsigned int)const
-3	ConCommandBase::AddFlags(unsigned int)
-4	ConCommandBase::GetFlags(void)const
-5	ConCommandBase::GetTargetType(void)const
-6	ConVar::GetName(void)const
-7	ConVar::GetHelpText(void)const
-8	ConVar::IsRegistered(void)const
-90	ConCommandBase::Create(char const*,char const*,unsigned long long)
-10	ConVar::Init(void)
-11	ConVar::SetValue(char const*)
-12	ConVar::SetValue(float)
-13	ConVar::SetValue(int)
-14	ConVar::OverrideValue(char const*)
-15	ConVar::BReplicated(void)
-16	ConVar::SetReplicated(void)
-17	ConVar::BLocalOverride(void)
-18	ConVar::ApplyReplicatedValue(char const*)
-19	ConVar::InternalSetValue(char const*)
-20	ConVar::InternalSetFloatValue(float)
-21	ConVar::InternalSetIntValue(int)
-22	ConVar::ClampValue(float &)
-23	ConVar::ChangeStringValue(char const*)
-24	ConVar::Create(char const*,char const*,unsigned long long,char const*,bool,float,bool,float,void (*)(ConVar*,char const*))
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ConVar
+// Auto reconstructed from vtable block @ 0x00EE49B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	ConVar::~ConVar()
+1	ConVar::IsCommand(void)const
+2	ConCommandBase::IsBitSet(unsigned int)const
+3	ConCommandBase::AddFlags(unsigned int)
+4	ConCommandBase::GetFlags(void)const
+5	ConCommandBase::GetTargetType(void)const
+6	ConVar::GetName(void)const
+7	ConVar::GetHelpText(void)const
+8	ConVar::IsRegistered(void)const
+90	ConCommandBase::Create(char const*,char const*,unsigned long long)
+10	ConVar::Init(void)
+11	ConVar::SetValue(char const*)
+12	ConVar::SetValue(float)
+13	ConVar::SetValue(int)
+14	ConVar::OverrideValue(char const*)
+15	ConVar::BReplicated(void)
+16	ConVar::SetReplicated(void)
+17	ConVar::BLocalOverride(void)
+18	ConVar::ApplyReplicatedValue(char const*)
+19	ConVar::InternalSetValue(char const*)
+20	ConVar::InternalSetFloatValue(float)
+21	ConVar::InternalSetIntValue(int)
+22	ConVar::ClampValue(float &)
+23	ConVar::ChangeStringValue(char const*)
+24	ConVar::Create(char const*,char const*,unsigned long long,char const*,bool,float,bool,float,void (*)(ConVar*,char const*))
+

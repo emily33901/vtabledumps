@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamFriends014
-// Auto reconstructed from vtable block @ 0x00F09F90
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamFriends014::GetPersonaName(void)
-1	CAdapterSteamFriends014::SetPersonaName(char const*)
-2	CAdapterSteamFriends014::GetPersonaState(void)
-3	CAdapterSteamFriends014::GetFriendCount(int)
-4	CAdapterSteamFriends014::GetFriendByIndex(int,int)
-5	CAdapterSteamFriends014::GetFriendRelationship(CSteamID)
-6	CAdapterSteamFriends014::GetFriendPersonaState(CSteamID)
-7	CAdapterSteamFriends014::GetFriendPersonaName(CSteamID)
-8	CAdapterSteamFriends014::GetFriendGamePlayed(CSteamID,FriendGameInfo_t *)
-9	CAdapterSteamFriends014::GetFriendPersonaNameHistory(CSteamID,int)
-10	CAdapterSteamFriends014::GetPlayerNickname(CSteamID)
-11	CAdapterSteamFriends014::HasFriend(CSteamID,int)
-12	CAdapterSteamFriends014::GetClanCount(void)
-13	CAdapterSteamFriends014::GetClanByIndex(int)
-14	CAdapterSteamFriends014::GetClanName(CSteamID)
-15	CAdapterSteamFriends014::GetClanTag(CSteamID)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamFriends014
+// Auto reconstructed from vtable block @ 0x00F09F90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamFriends014::GetPersonaName(void)
+1	CAdapterSteamFriends014::SetPersonaName(char const*)
+2	CAdapterSteamFriends014::GetPersonaState(void)
+3	CAdapterSteamFriends014::GetFriendCount(int)
+4	CAdapterSteamFriends014::GetFriendByIndex(int,int)
+5	CAdapterSteamFriends014::GetFriendRelationship(CSteamID)
+6	CAdapterSteamFriends014::GetFriendPersonaState(CSteamID)
+7	CAdapterSteamFriends014::GetFriendPersonaName(CSteamID)
+8	CAdapterSteamFriends014::GetFriendGamePlayed(CSteamID,FriendGameInfo_t *)
+9	CAdapterSteamFriends014::GetFriendPersonaNameHistory(CSteamID,int)
+10	CAdapterSteamFriends014::GetPlayerNickname(CSteamID)
+11	CAdapterSteamFriends014::HasFriend(CSteamID,int)
+12	CAdapterSteamFriends014::GetClanCount(void)
+13	CAdapterSteamFriends014::GetClanByIndex(int)
+14	CAdapterSteamFriends014::GetClanName(CSteamID)
+15	CAdapterSteamFriends014::GetClanTag(CSteamID)
+

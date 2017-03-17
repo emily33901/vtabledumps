@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientNewLoginKey
-// Auto reconstructed from vtable block @ 0x00EEB600
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientNewLoginKey::~CMsgClientNewLoginKey()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientNewLoginKey::New(void)const
-3	CMsgClientNewLoginKey::Clear(void)
-4	CMsgClientNewLoginKey::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientNewLoginKey::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientNewLoginKey::ByteSize(void)const
-90	CMsgClientNewLoginKey::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientNewLoginKey::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientNewLoginKey::GetCachedSize(void)const
-12	CMsgClientNewLoginKey::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientNewLoginKey::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientNewLoginKey::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientNewLoginKey::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientNewLoginKey
+// Auto reconstructed from vtable block @ 0x00EEB600
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientNewLoginKey::~CMsgClientNewLoginKey()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientNewLoginKey::New(void)const
+3	CMsgClientNewLoginKey::Clear(void)
+4	CMsgClientNewLoginKey::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientNewLoginKey::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientNewLoginKey::ByteSize(void)const
+90	CMsgClientNewLoginKey::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientNewLoginKey::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientNewLoginKey::GetCachedSize(void)const
+12	CMsgClientNewLoginKey::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientNewLoginKey::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientNewLoginKey::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientNewLoginKey::GetMetadata(void)const
+

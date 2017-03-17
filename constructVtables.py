@@ -64,11 +64,11 @@ def ProcessContents(osx, win, file):
     with open(file, "w") as output:
 
         def finishLine():
-            output.write("\r\n");
+            output.write("\n");
 
-        output.write("//=================================\r\n");
-        output.write("// Merged Vtable - Errors expected \r\n");
-        output.write("//=================================\r\n");
+        output.write("//=================================\n");
+        output.write("// Merged Vtable - Errors expected \n");
+        output.write("//=================================\n");
         for i in range(len(osx)):
             osx_line = osx[i];
 

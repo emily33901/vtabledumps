@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::FLAC::Picture
-// Auto reconstructed from vtable block @ 0x00EE2EF8
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::FLAC::Picture::~Picture()
-1	TagLib::FLAC::Picture::code(void)const
-2	TagLib::FLAC::Picture::render(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::FLAC::Picture
+// Auto reconstructed from vtable block @ 0x00EE2EF8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::FLAC::Picture::~Picture()
+1	TagLib::FLAC::Picture::code(void)const
+2	TagLib::FLAC::Picture::render(void)const
+

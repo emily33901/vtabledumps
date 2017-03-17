@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgGetCookiesForURLResponse
-// Auto reconstructed from vtable block @ 0x00ECD2C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgGetCookiesForURLResponse::~CMsgGetCookiesForURLResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgGetCookiesForURLResponse::New(void)const
-3	CMsgGetCookiesForURLResponse::Clear(void)
-4	CMsgGetCookiesForURLResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgGetCookiesForURLResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgGetCookiesForURLResponse::ByteSize(void)const
-90	CMsgGetCookiesForURLResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgGetCookiesForURLResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgGetCookiesForURLResponse::GetCachedSize(void)const
-12	CMsgGetCookiesForURLResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgGetCookiesForURLResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgGetCookiesForURLResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgGetCookiesForURLResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGetCookiesForURLResponse
+// Auto reconstructed from vtable block @ 0x00ECD2C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGetCookiesForURLResponse::~CMsgGetCookiesForURLResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGetCookiesForURLResponse::New(void)const
+3	CMsgGetCookiesForURLResponse::Clear(void)
+4	CMsgGetCookiesForURLResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGetCookiesForURLResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGetCookiesForURLResponse::ByteSize(void)const
+90	CMsgGetCookiesForURLResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGetCookiesForURLResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGetCookiesForURLResponse::GetCachedSize(void)const
+12	CMsgGetCookiesForURLResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgGetCookiesForURLResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGetCookiesForURLResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGetCookiesForURLResponse::GetMetadata(void)const
+

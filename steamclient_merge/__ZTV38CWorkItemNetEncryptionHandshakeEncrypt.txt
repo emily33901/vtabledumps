@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CWorkItemNetEncryptionHandshakeEncrypt
-// Auto reconstructed from vtable block @ 0x00EE6CE0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CWorkItemNetEncryptionHandshakeEncrypt::~CWorkItemNetEncryptionHandshakeEncrypt()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	CWorkItemNetEncryptionHandshakeEncrypt::GetWorkItemName(void)const
-3	CWorkItemNetEncryptionHandshakeEncrypt::GetThreadProcessName(void)const
-4	CWorkItemNetEncryptionHandshakeEncrypt::ThreadProcess(CWorkThread *)
-5	CWorkItemNetEncryptionHandshakeEncrypt::DispatchCompletedWorkItem(CJobMgr *)
-6	CWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkItemNetEncryptionHandshakeEncrypt
+// Auto reconstructed from vtable block @ 0x00EE6CE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemNetEncryptionHandshakeEncrypt::~CWorkItemNetEncryptionHandshakeEncrypt()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CWorkItemNetEncryptionHandshakeEncrypt::GetWorkItemName(void)const
+3	CWorkItemNetEncryptionHandshakeEncrypt::GetThreadProcessName(void)const
+4	CWorkItemNetEncryptionHandshakeEncrypt::ThreadProcess(CWorkThread *)
+5	CWorkItemNetEncryptionHandshakeEncrypt::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

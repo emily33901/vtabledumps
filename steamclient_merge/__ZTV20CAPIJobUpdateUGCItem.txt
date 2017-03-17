@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAPIJobUpdateUGCItem
-// Auto reconstructed from vtable block @ 0x00EFE570
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAPIJobUpdateUGCItem::~CAPIJobUpdateUGCItem()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAPIJobUpdateUGCItem
+// Auto reconstructed from vtable block @ 0x00EFE570
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAPIJobUpdateUGCItem::~CAPIJobUpdateUGCItem()
+

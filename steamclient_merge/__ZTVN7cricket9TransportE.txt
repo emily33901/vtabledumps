@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::Transport
-// Auto reconstructed from vtable block @ 0x00ED6950
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::Transport::~Transport()
-1	cricket::Transport::OnMessage(talk_base::Message *)
-2	___cxa_pure_virtual
-3	___cxa_pure_virtual
-4	___cxa_pure_virtual
-5	___cxa_pure_virtual
-6	___cxa_pure_virtual
-7	___cxa_pure_virtual
-8	___cxa_pure_virtual
-90	___cxa_pure_virtual
-10	cricket::Transport::OnTransportSignalingReady(void)
-11	cricket::Transport::OnTransportChannelMessages(std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::Transport
+// Auto reconstructed from vtable block @ 0x00ED6950
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::Transport::~Transport()
+1	cricket::Transport::OnMessage(talk_base::Message *)
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+90	___cxa_pure_virtual
+10	cricket::Transport::OnTransportSignalingReady(void)
+11	cricket::Transport::OnTransportChannelMessages(std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)
+

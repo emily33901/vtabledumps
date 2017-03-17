@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter
-// Auto reconstructed from vtable block @ 0x00F0D2F0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter::ServerResponded(void *,int)
-1	CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter::ServerFailedToRespond(void *,int)
-2	CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter::RefreshComplete(void *,EMatchMakingServerResponse)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter
+// Auto reconstructed from vtable block @ 0x00F0D2F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter::ServerResponded(void *,int)
+1	CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter::ServerFailedToRespond(void *,int)
+2	CSteamMatchMaking::_CSteamMatchmakingServerListResponse_v001_Adapter::RefreshComplete(void *,EMatchMakingServerResponse)
+

@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'google::protobuf::internal::DescriptorPoolExtensionFinder
-// Auto reconstructed from vtable block @ 0x00ED5DDC
-// from "steamclient.dylib", by ida_vtables.idc
-0	google::protobuf::internal::DescriptorPoolExtensionFinder::~DescriptorPoolExtensionFinder()
-1	google::protobuf::internal::DescriptorPoolExtensionFinder::Find(int,google::protobuf::internal::ExtensionInfo *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::internal::DescriptorPoolExtensionFinder
+// Auto reconstructed from vtable block @ 0x00ED5DDC
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::internal::DescriptorPoolExtensionFinder::~DescriptorPoolExtensionFinder()
+1	google::protobuf::internal::DescriptorPoolExtensionFinder::Find(int,google::protobuf::internal::ExtensionInfo *)
+

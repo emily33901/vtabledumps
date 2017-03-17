@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::AllocationSequence
-// Auto reconstructed from vtable block @ 0x00ED6B48
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::AllocationSequence::~AllocationSequence()
-1	cricket::AllocationSequence::OnMessage(talk_base::Message *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::AllocationSequence
+// Auto reconstructed from vtable block @ 0x00ED6B48
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::AllocationSequence::~AllocationSequence()
+1	cricket::AllocationSequence::OnMessage(talk_base::Message *)
+

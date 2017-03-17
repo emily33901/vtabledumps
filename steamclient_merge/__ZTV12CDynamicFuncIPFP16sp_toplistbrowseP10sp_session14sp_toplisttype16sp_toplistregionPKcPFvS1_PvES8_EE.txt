@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>
-// Auto reconstructed from vtable block @ 0x00F0D670
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::Init(CSysModule *)
-1	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::Release(void)
-2	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>
+// Auto reconstructed from vtable block @ 0x00F0D670
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::Init(CSysModule *)
+1	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::Release(void)
+2	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_toplistbrowse * (*)(sp_session *,sp_toplisttype,sp_toplistregion,char const*,void (*)(sp_toplistbrowse *,void *),void *)>::GetNextPointer(void)
+

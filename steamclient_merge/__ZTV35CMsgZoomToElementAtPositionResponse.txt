@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgZoomToElementAtPositionResponse
-// Auto reconstructed from vtable block @ 0x00ECCBA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgZoomToElementAtPositionResponse::~CMsgZoomToElementAtPositionResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgZoomToElementAtPositionResponse::New(void)const
-3	CMsgZoomToElementAtPositionResponse::Clear(void)
-4	CMsgZoomToElementAtPositionResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgZoomToElementAtPositionResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgZoomToElementAtPositionResponse::ByteSize(void)const
-90	CMsgZoomToElementAtPositionResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgZoomToElementAtPositionResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgZoomToElementAtPositionResponse::GetCachedSize(void)const
-12	CMsgZoomToElementAtPositionResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgZoomToElementAtPositionResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgZoomToElementAtPositionResponse
+// Auto reconstructed from vtable block @ 0x00ECCBA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgZoomToElementAtPositionResponse::~CMsgZoomToElementAtPositionResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgZoomToElementAtPositionResponse::New(void)const
+3	CMsgZoomToElementAtPositionResponse::Clear(void)
+4	CMsgZoomToElementAtPositionResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgZoomToElementAtPositionResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgZoomToElementAtPositionResponse::ByteSize(void)const
+90	CMsgZoomToElementAtPositionResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgZoomToElementAtPositionResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgZoomToElementAtPositionResponse::GetCachedSize(void)const
+12	CMsgZoomToElementAtPositionResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgZoomToElementAtPositionResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

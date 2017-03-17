@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'WeightedMovingAverageFilter
-// Auto reconstructed from vtable block @ 0x00F02F6C
-// from "steamclient.dylib", by ida_vtables.idc
-0	WeightedMovingAverageFilter::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'WeightedMovingAverageFilter
+// Auto reconstructed from vtable block @ 0x00F02F6C
+// from "steamclient.dylib", by ida_vtables.idc
+0	WeightedMovingAverageFilter::Validate(CValidator &,char const*)
+

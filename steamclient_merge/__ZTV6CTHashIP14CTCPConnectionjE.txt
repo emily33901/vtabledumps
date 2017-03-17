@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CTHash<CTCPConnection *,unsigned int>
-// Auto reconstructed from vtable block @ 0x00F2D21C
-// from "steamclient.dylib", by ida_vtables.idc
-0	CTHash<CTCPConnection *,unsigned int>::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTHash<CTCPConnection *,unsigned int>
+// Auto reconstructed from vtable block @ 0x00F2D21C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTHash<CTCPConnection *,unsigned int>::Validate(CValidator &,char const*)
+

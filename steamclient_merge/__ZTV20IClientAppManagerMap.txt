@@ -1,36 +1,36 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientAppManagerMap
-// Auto reconstructed from vtable block @ 0x00F0C260
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientAppManagerMap::InstallApp(unsigned int,int,bool)
-1	IClientAppManagerMap::UninstallApp(unsigned int,bool)
-2	IClientAppManagerMap::LaunchApp(unsigned int,unsigned int,char const*,char const*)
-3	IClientAppManagerMap::ShutdownApp(unsigned int,bool)
-4	IClientAppManagerMap::GetAppInstallState(unsigned int)
-5	IClientAppManagerMap::GetAppBuildID(unsigned int)
-6	IClientAppManagerMap::GetCurrentAppSizeOnDisk(unsigned int)
-7	IClientAppManagerMap::GetRequiredAppsSizeOnDisk(unsigned int const*,int)
-8	IClientAppManagerMap::GetAppInstallDir(unsigned int,char *,unsigned int)
-9	IClientAppManagerMap::IsAppDlcInstalled(unsigned int,unsigned int)
-10	IClientAppManagerMap::GetDlcDownloadProgress(unsigned int,unsigned int,unsigned long long *,unsigned long long *)
-11	IClientAppManagerMap::GetNumInstalledApps(void)
-12	IClientAppManagerMap::GetInstalledApps(unsigned int *,unsigned int)
-13	IClientAppManagerMap::GetAppDependency(unsigned int)
-14	IClientAppManagerMap::GetDependentApps(unsigned int,unsigned int *,unsigned int)
-15	IClientAppManagerMap::GetUpdateInfo(unsigned int,AppUpdateInfo_s *)
-16	IClientAppManagerMap::GetAppConfigValue(unsigned int,char const*,char *,int)
-17	IClientAppManagerMap::SetAppConfigValue(unsigned int,char const*,char const*)
-18	IClientAppManagerMap::BIsAppUpToDate(unsigned int)
-19	IClientAppManagerMap::GetAvailableLaunchOptions(unsigned int,unsigned int *,unsigned int)
-20	IClientAppManagerMap::GetAvailableLanguages(unsigned int,bool,char *,unsigned int)
-21	IClientAppManagerMap::BIsDlcEnabled(unsigned int,unsigned int,bool *)
-22	IClientAppManagerMap::SetDlcEnabled(unsigned int,unsigned int,bool)
-23	IClientAppManagerMap::StartValidatingApp(unsigned int)
-24	IClientAppManagerMap::CancelValidation(unsigned int)
-25	IClientAppManagerMap::MarkContentCorrupt(unsigned int,bool)
-26	IClientAppManagerMap::GetInstalledDepots(unsigned int,unsigned int *,unsigned int)
-27	IClientAppManagerMap::GetFileDetails(unsigned int,char const*)
-28	IClientAppManagerMap::CheckBetaPassword(unsigned int,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientAppManagerMap
+// Auto reconstructed from vtable block @ 0x00F0C260
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientAppManagerMap::InstallApp(unsigned int,int,bool)
+1	IClientAppManagerMap::UninstallApp(unsigned int,bool)
+2	IClientAppManagerMap::LaunchApp(unsigned int,unsigned int,char const*,char const*)
+3	IClientAppManagerMap::ShutdownApp(unsigned int,bool)
+4	IClientAppManagerMap::GetAppInstallState(unsigned int)
+5	IClientAppManagerMap::GetAppBuildID(unsigned int)
+6	IClientAppManagerMap::GetCurrentAppSizeOnDisk(unsigned int)
+7	IClientAppManagerMap::GetRequiredAppsSizeOnDisk(unsigned int const*,int)
+8	IClientAppManagerMap::GetAppInstallDir(unsigned int,char *,unsigned int)
+9	IClientAppManagerMap::IsAppDlcInstalled(unsigned int,unsigned int)
+10	IClientAppManagerMap::GetDlcDownloadProgress(unsigned int,unsigned int,unsigned long long *,unsigned long long *)
+11	IClientAppManagerMap::GetNumInstalledApps(void)
+12	IClientAppManagerMap::GetInstalledApps(unsigned int *,unsigned int)
+13	IClientAppManagerMap::GetAppDependency(unsigned int)
+14	IClientAppManagerMap::GetDependentApps(unsigned int,unsigned int *,unsigned int)
+15	IClientAppManagerMap::GetUpdateInfo(unsigned int,AppUpdateInfo_s *)
+16	IClientAppManagerMap::GetAppConfigValue(unsigned int,char const*,char *,int)
+17	IClientAppManagerMap::SetAppConfigValue(unsigned int,char const*,char const*)
+18	IClientAppManagerMap::BIsAppUpToDate(unsigned int)
+19	IClientAppManagerMap::GetAvailableLaunchOptions(unsigned int,unsigned int *,unsigned int)
+20	IClientAppManagerMap::GetAvailableLanguages(unsigned int,bool,char *,unsigned int)
+21	IClientAppManagerMap::BIsDlcEnabled(unsigned int,unsigned int,bool *)
+22	IClientAppManagerMap::SetDlcEnabled(unsigned int,unsigned int,bool)
+23	IClientAppManagerMap::StartValidatingApp(unsigned int)
+24	IClientAppManagerMap::CancelValidation(unsigned int)
+25	IClientAppManagerMap::MarkContentCorrupt(unsigned int,bool)
+26	IClientAppManagerMap::GetInstalledDepots(unsigned int,unsigned int *,unsigned int)
+27	IClientAppManagerMap::GetFileDetails(unsigned int,char const*)
+28	IClientAppManagerMap::CheckBetaPassword(unsigned int,char const*)
+

@@ -1,24 +1,24 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CP2PVoiceSingleton
-// Auto reconstructed from vtable block @ 0x00ECAEA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CP2PVoiceSingleton::Init(void)
-1	CP2PVoiceSingleton::Shutdown(void)
-2	CP2PVoiceSingleton::MicrophoneThink(void)
-3	CP2PVoiceSingleton::ReinitAudio(void)
-4	CP2PVoiceSingleton::SetNatType(ENatDiscoveryTypes)
-5	CP2PVoiceSingleton::SetAutoReflectVoice(bool)
-6	CP2PVoiceSingleton::MicrophoneStart(void const*)
-7	CP2PVoiceSingleton::MicrophoneEnd(void const*)
-8	CP2PVoiceSingleton::IsMicrophoneActive(void)const
-9	CP2PVoiceSingleton::GetMicrophoneBuffer(void)const
-10	CP2PVoiceSingleton::GetMicrophoneBufferRaw(void)const
-11	CP2PVoiceSingleton::DecompressChunk(CSteamID,void *,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
-12	CP2PVoiceSingleton::FreeUserDecoders(void)
-13	CP2PVoiceSingleton::SetMicBoost(bool)
-14	CP2PVoiceSingleton::GetMicBoost(void)
-15	CP2PVoiceSingleton::HasHardwareMicBoost(void)
-16	CP2PVoiceSingleton::GetMicDeviceName(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CP2PVoiceSingleton
+// Auto reconstructed from vtable block @ 0x00ECAEA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CP2PVoiceSingleton::Init(void)
+1	CP2PVoiceSingleton::Shutdown(void)
+2	CP2PVoiceSingleton::MicrophoneThink(void)
+3	CP2PVoiceSingleton::ReinitAudio(void)
+4	CP2PVoiceSingleton::SetNatType(ENatDiscoveryTypes)
+5	CP2PVoiceSingleton::SetAutoReflectVoice(bool)
+6	CP2PVoiceSingleton::MicrophoneStart(void const*)
+7	CP2PVoiceSingleton::MicrophoneEnd(void const*)
+8	CP2PVoiceSingleton::IsMicrophoneActive(void)const
+9	CP2PVoiceSingleton::GetMicrophoneBuffer(void)const
+10	CP2PVoiceSingleton::GetMicrophoneBufferRaw(void)const
+11	CP2PVoiceSingleton::DecompressChunk(CSteamID,void *,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
+12	CP2PVoiceSingleton::FreeUserDecoders(void)
+13	CP2PVoiceSingleton::SetMicBoost(bool)
+14	CP2PVoiceSingleton::GetMicBoost(void)
+15	CP2PVoiceSingleton::HasHardwareMicBoost(void)
+16	CP2PVoiceSingleton::GetMicDeviceName(void)
+

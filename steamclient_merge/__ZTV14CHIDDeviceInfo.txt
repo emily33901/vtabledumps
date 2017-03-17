@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHIDDeviceInfo
-// Auto reconstructed from vtable block @ 0x00EC4ED0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHIDDeviceInfo::~CHIDDeviceInfo()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CHIDDeviceInfo::New(void)const
-3	CHIDDeviceInfo::Clear(void)
-4	CHIDDeviceInfo::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CHIDDeviceInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CHIDDeviceInfo::ByteSize(void)const
-90	CHIDDeviceInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CHIDDeviceInfo::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CHIDDeviceInfo::GetCachedSize(void)const
-12	CHIDDeviceInfo::CopyFrom(google::protobuf::Message const&)
-13	CHIDDeviceInfo::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CHIDDeviceInfo::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CHIDDeviceInfo::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDDeviceInfo
+// Auto reconstructed from vtable block @ 0x00EC4ED0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceInfo::~CHIDDeviceInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHIDDeviceInfo::New(void)const
+3	CHIDDeviceInfo::Clear(void)
+4	CHIDDeviceInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHIDDeviceInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHIDDeviceInfo::ByteSize(void)const
+90	CHIDDeviceInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHIDDeviceInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHIDDeviceInfo::GetCachedSize(void)const
+12	CHIDDeviceInfo::CopyFrom(google::protobuf::Message const&)
+13	CHIDDeviceInfo::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CHIDDeviceInfo::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CHIDDeviceInfo::GetMetadata(void)const
+

@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::StunUInt16ListAttribute
-// Auto reconstructed from vtable block @ 0x00ED6560
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::StunUInt16ListAttribute::~StunUInt16ListAttribute()
-1	cricket::StunUInt16ListAttribute::Read(talk_base::ByteBuffer *)
-2	cricket::StunUInt16ListAttribute::Write(talk_base::ByteBuffer *)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::StunUInt16ListAttribute
+// Auto reconstructed from vtable block @ 0x00ED6560
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::StunUInt16ListAttribute::~StunUInt16ListAttribute()
+1	cricket::StunUInt16ListAttribute::Read(talk_base::ByteBuffer *)
+2	cricket::StunUInt16ListAttribute::Write(talk_base::ByteBuffer *)const
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientSystemIM_t>
-// Auto reconstructed from vtable block @ 0x00EF8C74
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientSystemIM_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientSystemIM_t>
+// Auto reconstructed from vtable block @ 0x00EF8C74
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientSystemIM_t>::~CClientMsg()
+

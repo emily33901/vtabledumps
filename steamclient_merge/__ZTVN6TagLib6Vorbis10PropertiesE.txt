@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::Vorbis::Properties
-// Auto reconstructed from vtable block @ 0x00EE3868
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::Vorbis::Properties::~Properties()
-1	TagLib::Vorbis::Properties::length(void)const
-2	TagLib::Vorbis::Properties::bitrate(void)const
-3	TagLib::Vorbis::Properties::sampleRate(void)const
-4	TagLib::Vorbis::Properties::channels(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Vorbis::Properties
+// Auto reconstructed from vtable block @ 0x00EE3868
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Vorbis::Properties::~Properties()
+1	TagLib::Vorbis::Properties::length(void)const
+2	TagLib::Vorbis::Properties::bitrate(void)const
+3	TagLib::Vorbis::Properties::sampleRate(void)const
+4	TagLib::Vorbis::Properties::channels(void)const
+

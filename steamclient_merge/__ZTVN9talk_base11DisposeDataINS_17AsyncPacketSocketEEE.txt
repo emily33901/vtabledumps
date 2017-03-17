@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'talk_base::DisposeData<talk_base::AsyncPacketSocket>
-// Auto reconstructed from vtable block @ 0x00F1E8DC
-// from "steamclient.dylib", by ida_vtables.idc
-0	talk_base::DisposeData<talk_base::AsyncPacketSocket>::~DisposeData()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::DisposeData<talk_base::AsyncPacketSocket>
+// Auto reconstructed from vtable block @ 0x00F1E8DC
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::DisposeData<talk_base::AsyncPacketSocket>::~DisposeData()
+

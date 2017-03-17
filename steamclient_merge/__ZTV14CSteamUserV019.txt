@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamUserV019
-// Auto reconstructed from vtable block @ 0x00F0AA20
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamUserV019::GetHSteamUser(void)
-1	CSteamUserV019::BLoggedOn(void)
-2	CSteamUserV019::GetSteamID(void)
-3	CSteamUserV019::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
-4	CSteamUserV019::TerminateGameConnection(unsigned int,unsigned short)
-5	CSteamUserV019::TrackAppUsageEvent(CGameID,int,char const*)
-6	CSteamUserV019::GetUserDataFolder(char *,int)
-7	CSteamUserV019::StartVoiceRecording(void)
-8	CSteamUserV019::StopVoiceRecording(void)
-9	CSteamUserV019::GetAvailableVoice(unsigned int *,unsigned int *,unsigned int)
-10	CSteamUserV019::GetVoice(bool,void *,unsigned int,unsigned int *,bool,void *,unsigned int,unsigned int *,unsigned int)
-11	CSteamUserV019::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
-12	CSteamUserV019::GetVoiceOptimalSampleRate(void)
-13	CSteamUserV019::GetAuthSessionTicket(void *,int,unsigned int *)
-14	CSteamUserV019::BeginAuthSession(void const*,int,CSteamID)
-15	CSteamUserV019::EndAuthSession(CSteamID)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV019
+// Auto reconstructed from vtable block @ 0x00F0AA20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV019::GetHSteamUser(void)
+1	CSteamUserV019::BLoggedOn(void)
+2	CSteamUserV019::GetSteamID(void)
+3	CSteamUserV019::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
+4	CSteamUserV019::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV019::TrackAppUsageEvent(CGameID,int,char const*)
+6	CSteamUserV019::GetUserDataFolder(char *,int)
+7	CSteamUserV019::StartVoiceRecording(void)
+8	CSteamUserV019::StopVoiceRecording(void)
+9	CSteamUserV019::GetAvailableVoice(unsigned int *,unsigned int *,unsigned int)
+10	CSteamUserV019::GetVoice(bool,void *,unsigned int,unsigned int *,bool,void *,unsigned int,unsigned int *,unsigned int)
+11	CSteamUserV019::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
+12	CSteamUserV019::GetVoiceOptimalSampleRate(void)
+13	CSteamUserV019::GetAuthSessionTicket(void *,int,unsigned int *)
+14	CSteamUserV019::BeginAuthSession(void const*,int,CSteamID)
+15	CSteamUserV019::EndAuthSession(CSteamID)
+

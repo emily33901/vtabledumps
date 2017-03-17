@@ -1,21 +1,21 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamGameServer004
-// Auto reconstructed from vtable block @ 0x00F09C70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamGameServer004::LogOn(void)
-1	CAdapterSteamGameServer004::LogOff(void)
-2	CAdapterSteamGameServer004::BLoggedOn(void)
-3	CAdapterSteamGameServer004::BSecure(void)
-4	CAdapterSteamGameServer004::GetSteamID(void)
-5	CAdapterSteamGameServer004::SendUserConnectAndAuthenticate(CSteamID,unsigned int,void *,unsigned int)
-6	CAdapterSteamGameServer004::CreateUnauthenticatedUserConnection(void)
-7	CAdapterSteamGameServer004::SendUserDisconnect(CSteamID)
-8	CAdapterSteamGameServer004::BUpdateUserData(CSteamID,char const*,unsigned int)
-9	CAdapterSteamGameServer004::BSetServerType(int,unsigned int,unsigned int,unsigned short,unsigned short,unsigned short,char const*,char const*,bool)
-10	CAdapterSteamGameServer004::UpdateServerStatus(int,int,int,char const*,char const*,char const*)
-11	CAdapterSteamGameServer004::UpdateSpectatorPort(unsigned short)
-12	CAdapterSteamGameServer004::SetGameType(char const*)
-13	CAdapterSteamGameServer004::BGetUserAchievementStatus(CSteamID,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamGameServer004
+// Auto reconstructed from vtable block @ 0x00F09C70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameServer004::LogOn(void)
+1	CAdapterSteamGameServer004::LogOff(void)
+2	CAdapterSteamGameServer004::BLoggedOn(void)
+3	CAdapterSteamGameServer004::BSecure(void)
+4	CAdapterSteamGameServer004::GetSteamID(void)
+5	CAdapterSteamGameServer004::SendUserConnectAndAuthenticate(CSteamID,unsigned int,void *,unsigned int)
+6	CAdapterSteamGameServer004::CreateUnauthenticatedUserConnection(void)
+7	CAdapterSteamGameServer004::SendUserDisconnect(CSteamID)
+8	CAdapterSteamGameServer004::BUpdateUserData(CSteamID,char const*,unsigned int)
+9	CAdapterSteamGameServer004::BSetServerType(int,unsigned int,unsigned int,unsigned short,unsigned short,unsigned short,char const*,char const*,bool)
+10	CAdapterSteamGameServer004::UpdateServerStatus(int,int,int,char const*,char const*,char const*)
+11	CAdapterSteamGameServer004::UpdateSpectatorPort(unsigned short)
+12	CAdapterSteamGameServer004::SetGameType(char const*)
+13	CAdapterSteamGameServer004::BGetUserAchievementStatus(CSteamID,char const*)
+

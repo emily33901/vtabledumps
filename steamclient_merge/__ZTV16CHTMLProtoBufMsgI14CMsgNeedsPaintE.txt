@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLProtoBufMsg<CMsgNeedsPaint>
-// Auto reconstructed from vtable block @ 0x00F05DD8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLProtoBufMsg<CMsgNeedsPaint>::~CHTMLProtoBufMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgNeedsPaint>
+// Auto reconstructed from vtable block @ 0x00F05DD8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgNeedsPaint>::~CHTMLProtoBufMsg()
+

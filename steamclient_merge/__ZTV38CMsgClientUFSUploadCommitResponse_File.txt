@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientUFSUploadCommitResponse_File
-// Auto reconstructed from vtable block @ 0x00EEA460
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientUFSUploadCommitResponse_File::~CMsgClientUFSUploadCommitResponse_File()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientUFSUploadCommitResponse_File::New(void)const
-3	CMsgClientUFSUploadCommitResponse_File::Clear(void)
-4	CMsgClientUFSUploadCommitResponse_File::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientUFSUploadCommitResponse_File::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientUFSUploadCommitResponse_File::ByteSize(void)const
-90	CMsgClientUFSUploadCommitResponse_File::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientUFSUploadCommitResponse_File::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientUFSUploadCommitResponse_File::GetCachedSize(void)const
-12	CMsgClientUFSUploadCommitResponse_File::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientUFSUploadCommitResponse_File::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientUFSUploadCommitResponse_File::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientUFSUploadCommitResponse_File::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUFSUploadCommitResponse_File
+// Auto reconstructed from vtable block @ 0x00EEA460
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSUploadCommitResponse_File::~CMsgClientUFSUploadCommitResponse_File()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUFSUploadCommitResponse_File::New(void)const
+3	CMsgClientUFSUploadCommitResponse_File::Clear(void)
+4	CMsgClientUFSUploadCommitResponse_File::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUFSUploadCommitResponse_File::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUFSUploadCommitResponse_File::ByteSize(void)const
+90	CMsgClientUFSUploadCommitResponse_File::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUFSUploadCommitResponse_File::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUFSUploadCommitResponse_File::GetCachedSize(void)const
+12	CMsgClientUFSUploadCommitResponse_File::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUFSUploadCommitResponse_File::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUFSUploadCommitResponse_File::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUFSUploadCommitResponse_File::GetMetadata(void)const
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSQLiteStatement
-// Auto reconstructed from vtable block @ 0x00ED2CF8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSQLiteStatement::~CSQLiteStatement()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSQLiteStatement
+// Auto reconstructed from vtable block @ 0x00ED2CF8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSQLiteStatement::~CSQLiteStatement()
+

@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientWorkshopItemInfoRequest
-// Auto reconstructed from vtable block @ 0x00EED530
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientWorkshopItemInfoRequest::~CMsgClientWorkshopItemInfoRequest()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientWorkshopItemInfoRequest::New(void)const
-3	CMsgClientWorkshopItemInfoRequest::Clear(void)
-4	CMsgClientWorkshopItemInfoRequest::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientWorkshopItemInfoRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientWorkshopItemInfoRequest::ByteSize(void)const
-90	CMsgClientWorkshopItemInfoRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientWorkshopItemInfoRequest::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientWorkshopItemInfoRequest::GetCachedSize(void)const
-12	CMsgClientWorkshopItemInfoRequest::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientWorkshopItemInfoRequest::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientWorkshopItemInfoRequest::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientWorkshopItemInfoRequest::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientWorkshopItemInfoRequest
+// Auto reconstructed from vtable block @ 0x00EED530
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientWorkshopItemInfoRequest::~CMsgClientWorkshopItemInfoRequest()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientWorkshopItemInfoRequest::New(void)const
+3	CMsgClientWorkshopItemInfoRequest::Clear(void)
+4	CMsgClientWorkshopItemInfoRequest::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientWorkshopItemInfoRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientWorkshopItemInfoRequest::ByteSize(void)const
+90	CMsgClientWorkshopItemInfoRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientWorkshopItemInfoRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientWorkshopItemInfoRequest::GetCachedSize(void)const
+12	CMsgClientWorkshopItemInfoRequest::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientWorkshopItemInfoRequest::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientWorkshopItemInfoRequest::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientWorkshopItemInfoRequest::GetMetadata(void)const
+

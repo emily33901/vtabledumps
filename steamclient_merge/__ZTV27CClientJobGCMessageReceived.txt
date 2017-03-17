@@ -1,21 +1,21 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientJobGCMessageReceived
-// Auto reconstructed from vtable block @ 0x00EF4D60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientJobGCMessageReceived::~CClientJobGCMessageReceived()
-1	CBaseClientJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CBaseClientJob::BYieldingRunJob(void *)
-8	CBaseClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-12	CClientJobGCMessageReceived::BYieldingRunClientJob(IMsgNetPacket *)
-13	CBaseClientJob::BYieldingRunClientJob(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientJobGCMessageReceived
+// Auto reconstructed from vtable block @ 0x00EF4D60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientJobGCMessageReceived::~CClientJobGCMessageReceived()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CBaseClientJob::BYieldingRunJob(void *)
+8	CBaseClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CClientJobGCMessageReceived::BYieldingRunClientJob(IMsgNetPacket *)
+13	CBaseClientJob::BYieldingRunClientJob(void)
+

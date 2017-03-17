@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgBase_t<ExtendedClientMsgHdr_t>
-// Auto reconstructed from vtable block @ 0x00EF3B04
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgBase_t<ExtendedClientMsgHdr_t>::~CMsgBase_t()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgBase_t<ExtendedClientMsgHdr_t>
+// Auto reconstructed from vtable block @ 0x00EF3B04
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgBase_t<ExtendedClientMsgHdr_t>::~CMsgBase_t()
+

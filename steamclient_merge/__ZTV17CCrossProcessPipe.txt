@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CCrossProcessPipe
-// Auto reconstructed from vtable block @ 0x00EC0BA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CCrossProcessPipe::~CCrossProcessPipe()
-1	CCrossProcessPipe::BCreatePipe(char const*,bool,unsigned int,unsigned int,unsigned int)
-2	CCrossProcessPipe::BAcceptConnection(IProcessPipe **)
-3	CCrossProcessPipe::BConnectToPipe(char const*,bool,unsigned int,unsigned int,unsigned int)
-4	CCrossProcessPipe::BResetPipeState(void)
-5	CCrossProcessPipe::Shutdown(void)
-6	CCrossProcessPipe::BWrite(CUtlBuffer &,bool)
-7	CCrossProcessPipe::BPeek(unsigned char *)
-8	CCrossProcessPipe::BRead(CUtlBuffer &)
-90	CCrossProcessPipe::BWait(unsigned int,bool)
-10	CCrossProcessPipe::Reset(void)
-11	CCrossProcessPipe::HangupPipe(void)
-12	CCrossProcessPipe::GetRecvSyncObject(void)
-13	CCrossProcessPipe::BIsDisconnected(void)
-14	CCrossProcessPipe::Validate(CValidator &,char const*)
-15	aSteam3master
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCrossProcessPipe
+// Auto reconstructed from vtable block @ 0x00EC0BA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCrossProcessPipe::~CCrossProcessPipe()
+1	CCrossProcessPipe::BCreatePipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+2	CCrossProcessPipe::BAcceptConnection(IProcessPipe **)
+3	CCrossProcessPipe::BConnectToPipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+4	CCrossProcessPipe::BResetPipeState(void)
+5	CCrossProcessPipe::Shutdown(void)
+6	CCrossProcessPipe::BWrite(CUtlBuffer &,bool)
+7	CCrossProcessPipe::BPeek(unsigned char *)
+8	CCrossProcessPipe::BRead(CUtlBuffer &)
+90	CCrossProcessPipe::BWait(unsigned int,bool)
+10	CCrossProcessPipe::Reset(void)
+11	CCrossProcessPipe::HangupPipe(void)
+12	CCrossProcessPipe::GetRecvSyncObject(void)
+13	CCrossProcessPipe::BIsDisconnected(void)
+14	CCrossProcessPipe::Validate(CValidator &,char const*)
+15	aSteam3master
+

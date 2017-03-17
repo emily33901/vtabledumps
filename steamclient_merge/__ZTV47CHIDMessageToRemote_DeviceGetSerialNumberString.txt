@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHIDMessageToRemote_DeviceGetSerialNumberString
-// Auto reconstructed from vtable block @ 0x00EC5290
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHIDMessageToRemote_DeviceGetSerialNumberString::~CHIDMessageToRemote_DeviceGetSerialNumberString()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CHIDMessageToRemote_DeviceGetSerialNumberString::New(void)const
-3	CHIDMessageToRemote_DeviceGetSerialNumberString::Clear(void)
-4	CHIDMessageToRemote_DeviceGetSerialNumberString::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CHIDMessageToRemote_DeviceGetSerialNumberString::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CHIDMessageToRemote_DeviceGetSerialNumberString::ByteSize(void)const
-90	CHIDMessageToRemote_DeviceGetSerialNumberString::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CHIDMessageToRemote_DeviceGetSerialNumberString::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CHIDMessageToRemote_DeviceGetSerialNumberString::GetCachedSize(void)const
-12	CHIDMessageToRemote_DeviceGetSerialNumberString::CopyFrom(google::protobuf::Message const&)
-13	CHIDMessageToRemote_DeviceGetSerialNumberString::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CHIDMessageToRemote_DeviceGetSerialNumberString::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CHIDMessageToRemote_DeviceGetSerialNumberString::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDMessageToRemote_DeviceGetSerialNumberString
+// Auto reconstructed from vtable block @ 0x00EC5290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageToRemote_DeviceGetSerialNumberString::~CHIDMessageToRemote_DeviceGetSerialNumberString()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHIDMessageToRemote_DeviceGetSerialNumberString::New(void)const
+3	CHIDMessageToRemote_DeviceGetSerialNumberString::Clear(void)
+4	CHIDMessageToRemote_DeviceGetSerialNumberString::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHIDMessageToRemote_DeviceGetSerialNumberString::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHIDMessageToRemote_DeviceGetSerialNumberString::ByteSize(void)const
+90	CHIDMessageToRemote_DeviceGetSerialNumberString::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHIDMessageToRemote_DeviceGetSerialNumberString::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHIDMessageToRemote_DeviceGetSerialNumberString::GetCachedSize(void)const
+12	CHIDMessageToRemote_DeviceGetSerialNumberString::CopyFrom(google::protobuf::Message const&)
+13	CHIDMessageToRemote_DeviceGetSerialNumberString::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CHIDMessageToRemote_DeviceGetSerialNumberString::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CHIDMessageToRemote_DeviceGetSerialNumberString::GetMetadata(void)const
+

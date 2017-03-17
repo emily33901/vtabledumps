@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CWorkItemThreadedWriteResponseToDisk
-// Auto reconstructed from vtable block @ 0x00F27850
-// from "steamclient.dylib", by ida_vtables.idc
-0	CWorkItemThreadedWriteResponseToDisk::~CWorkItemThreadedWriteResponseToDisk()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	CWorkItemThreadedWriteResponseToDisk::GetWorkItemName(void)const
-3	CWorkItemThreadedWriteResponseToDisk::GetThreadProcessName(void)const
-4	CWorkItemThreadedWriteResponseToDisk::ThreadProcess(CWorkThread *)
-5	CWorkItemThreadedWriteResponseToDisk::DispatchCompletedWorkItem(CJobMgr *)
-6	CWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkItemThreadedWriteResponseToDisk
+// Auto reconstructed from vtable block @ 0x00F27850
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemThreadedWriteResponseToDisk::~CWorkItemThreadedWriteResponseToDisk()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CWorkItemThreadedWriteResponseToDisk::GetWorkItemName(void)const
+3	CWorkItemThreadedWriteResponseToDisk::GetThreadProcessName(void)const
+4	CWorkItemThreadedWriteResponseToDisk::ThreadProcess(CWorkThread *)
+5	CWorkItemThreadedWriteResponseToDisk::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

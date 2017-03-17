@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLProtoBufMsg<CMsgFileLoadDialog>
-// Auto reconstructed from vtable block @ 0x00F05C58
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLProtoBufMsg<CMsgFileLoadDialog>::~CHTMLProtoBufMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgFileLoadDialog>
+// Auto reconstructed from vtable block @ 0x00F05C58
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgFileLoadDialog>::~CHTMLProtoBufMsg()
+

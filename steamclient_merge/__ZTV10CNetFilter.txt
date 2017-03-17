@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CNetFilter
-// Auto reconstructed from vtable block @ 0x00EE6C40
-// from "steamclient.dylib", by ida_vtables.idc
-0	CNetFilter::ConnectCompleted(unsigned int)
-1	CNetFilter::ConnectFailed(unsigned int,EResult,unsigned long long)
-2	CNetFilter::ConnectionDisconnected(unsigned int,EResult)
-3	___cxa_pure_virtual
-4	CNetFilter::BAcceptConnection(netadr_t const&,netadr_t const&)
-5	CNetFilter::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
-6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
-7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
-8	CNetFilter::~CNetFilter()
-90	CNetFilter::Init(CNetConnection *)
-10	___cxa_pure_virtual
-11	CNetFilter::BPollConnection(void)
-12	___cxa_pure_virtual
-13	___cxa_pure_virtual
-14	___cxa_pure_virtual
-15	CNetFilter::OnHandshakeFailure(EResult,unsigned long long)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNetFilter
+// Auto reconstructed from vtable block @ 0x00EE6C40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetFilter::ConnectCompleted(unsigned int)
+1	CNetFilter::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CNetFilter::ConnectionDisconnected(unsigned int,EResult)
+3	___cxa_pure_virtual
+4	CNetFilter::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CNetFilter::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CNetFilter::~CNetFilter()
+90	CNetFilter::Init(CNetConnection *)
+10	___cxa_pure_virtual
+11	CNetFilter::BPollConnection(void)
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	___cxa_pure_virtual
+15	CNetFilter::OnHandshakeFailure(EResult,unsigned long long)
+

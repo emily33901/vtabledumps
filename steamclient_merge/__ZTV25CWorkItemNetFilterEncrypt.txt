@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CWorkItemNetFilterEncrypt
-// Auto reconstructed from vtable block @ 0x00EE6D10
-// from "steamclient.dylib", by ida_vtables.idc
-0	CWorkItemNetFilterEncrypt::~CWorkItemNetFilterEncrypt()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	CWorkItemNetFilterEncrypt::GetWorkItemName(void)const
-3	CWorkItemNetFilterEncrypt::GetThreadProcessName(void)const
-4	CWorkItemNetFilterEncrypt::ThreadProcess(CWorkThread *)
-5	CWorkItemNetFilterEncrypt::DispatchCompletedWorkItem(CJobMgr *)
-6	CWorkItemNetFilterEncrypt::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkItemNetFilterEncrypt
+// Auto reconstructed from vtable block @ 0x00EE6D10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemNetFilterEncrypt::~CWorkItemNetFilterEncrypt()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CWorkItemNetFilterEncrypt::GetWorkItemName(void)const
+3	CWorkItemNetFilterEncrypt::GetThreadProcessName(void)const
+4	CWorkItemNetFilterEncrypt::ThreadProcess(CWorkThread *)
+5	CWorkItemNetFilterEncrypt::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItemNetFilterEncrypt::Validate(CValidator &,char const*)
+

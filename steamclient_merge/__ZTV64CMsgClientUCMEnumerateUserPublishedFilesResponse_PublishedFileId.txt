@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId
-// Auto reconstructed from vtable block @ 0x00EECF30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::~CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::New(void)const
-3	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::Clear(void)
-4	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::ByteSize(void)const
-90	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::GetCachedSize(void)const
-12	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId
+// Auto reconstructed from vtable block @ 0x00EECF30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::~CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::New(void)const
+3	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::Clear(void)
+4	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::ByteSize(void)const
+90	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::GetCachedSize(void)const
+12	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUCMEnumerateUserPublishedFilesResponse_PublishedFileId::GetMetadata(void)const
+

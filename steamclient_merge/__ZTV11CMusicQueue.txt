@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMusicQueue
-// Auto reconstructed from vtable block @ 0x00ED2BB8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMusicQueue::~CMusicQueue()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMusicQueue
+// Auto reconstructed from vtable block @ 0x00ED2BB8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMusicQueue::~CMusicQueue()
+

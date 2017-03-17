@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CCSInterfaceSessionAuth
-// Auto reconstructed from vtable block @ 0x00ED1CA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CCSInterfaceSessionAuth::~CCSInterfaceSessionAuth()
-1	CCSInterface::GetDownloadSourceType(void)
-2	CDepotHTTPDownloadInterface::GetSourceName(void)
-3	CCSInterfaceSessionAuth::BYieldingOpenConnection(void)
-4	CCSInterfaceSessionAuth::CloseConnection(void)
-5	CCSInterfaceSessionAuth::BIsConnected(void)
-6	CDepotHTTPDownloadInterface::GetChunkScore(CSHA const&)
-7	CDepotHTTPDownloadInterface::YieldingRequestDepotManifest(CManifestResponseData *)
-8	CDepotHTTPDownloadInterface::YieldingRequestDepotChunks(unsigned int,CUtlVector<CSHA,CUtlMemory<CSHA>> const&)
-90	CCSInterface::BSetInterfaceWeight(unsigned int)
-10	CCSInterface::GetInterfaceWeight(void)
-11	CCSInterfaceSessionAuth::Validate(CValidator &,char const*)
-12	CDepotHTTPDownloadInterface::Init(CBaseUser *,char const*,char const*,DownloadSourceID_t const&,unsigned int,CUtlVector<unsigned int,CUtlMemory<unsigned int>> &,CDepotDownloadMgr *)
-13	CDepotHTTPDownloadInterface::GetDownloadSourceID(void)
-14	CCSInterfaceSessionAuth::EYieldingAuthenticateDepotID(unsigned int)
-15	CCSInterfaceSessionAuth::CreateChunkRequestURL(unsigned int,char const*,CUtlString &)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCSInterfaceSessionAuth
+// Auto reconstructed from vtable block @ 0x00ED1CA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCSInterfaceSessionAuth::~CCSInterfaceSessionAuth()
+1	CCSInterface::GetDownloadSourceType(void)
+2	CDepotHTTPDownloadInterface::GetSourceName(void)
+3	CCSInterfaceSessionAuth::BYieldingOpenConnection(void)
+4	CCSInterfaceSessionAuth::CloseConnection(void)
+5	CCSInterfaceSessionAuth::BIsConnected(void)
+6	CDepotHTTPDownloadInterface::GetChunkScore(CSHA const&)
+7	CDepotHTTPDownloadInterface::YieldingRequestDepotManifest(CManifestResponseData *)
+8	CDepotHTTPDownloadInterface::YieldingRequestDepotChunks(unsigned int,CUtlVector<CSHA,CUtlMemory<CSHA>> const&)
+90	CCSInterface::BSetInterfaceWeight(unsigned int)
+10	CCSInterface::GetInterfaceWeight(void)
+11	CCSInterfaceSessionAuth::Validate(CValidator &,char const*)
+12	CDepotHTTPDownloadInterface::Init(CBaseUser *,char const*,char const*,DownloadSourceID_t const&,unsigned int,CUtlVector<unsigned int,CUtlMemory<unsigned int>> &,CDepotDownloadMgr *)
+13	CDepotHTTPDownloadInterface::GetDownloadSourceID(void)
+14	CCSInterfaceSessionAuth::EYieldingAuthenticateDepotID(unsigned int)
+15	CCSInterfaceSessionAuth::CreateChunkRequestURL(unsigned int,char const*,CUtlString &)
+

@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamUnifiedMessages001
-// Auto reconstructed from vtable block @ 0x00F07F20
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamUnifiedMessages001::SendMethod(char const*,void const*,unsigned int,unsigned long long)
-1	CAdapterSteamUnifiedMessages001::GetMethodResponseInfo(unsigned long long,unsigned int *,EResult *)
-2	CAdapterSteamUnifiedMessages001::GetMethodResponseData(unsigned long long,void *,unsigned int,bool)
-3	CAdapterSteamUnifiedMessages001::ReleaseMethod(unsigned long long)
-4	CAdapterSteamUnifiedMessages001::SendNotification(char const*,void const*,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUnifiedMessages001
+// Auto reconstructed from vtable block @ 0x00F07F20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUnifiedMessages001::SendMethod(char const*,void const*,unsigned int,unsigned long long)
+1	CAdapterSteamUnifiedMessages001::GetMethodResponseInfo(unsigned long long,unsigned int *,EResult *)
+2	CAdapterSteamUnifiedMessages001::GetMethodResponseData(unsigned long long,void *,unsigned int,bool)
+3	CAdapterSteamUnifiedMessages001::ReleaseMethod(unsigned long long)
+4	CAdapterSteamUnifiedMessages001::SendNotification(char const*,void const*,unsigned int)
+

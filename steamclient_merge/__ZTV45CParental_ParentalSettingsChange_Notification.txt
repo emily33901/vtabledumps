@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CParental_ParentalSettingsChange_Notification
-// Auto reconstructed from vtable block @ 0x00EC6BC0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CParental_ParentalSettingsChange_Notification::~CParental_ParentalSettingsChange_Notification()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CParental_ParentalSettingsChange_Notification::New(void)const
-3	CParental_ParentalSettingsChange_Notification::Clear(void)
-4	CParental_ParentalSettingsChange_Notification::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CParental_ParentalSettingsChange_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CParental_ParentalSettingsChange_Notification::ByteSize(void)const
-90	CParental_ParentalSettingsChange_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CParental_ParentalSettingsChange_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CParental_ParentalSettingsChange_Notification::GetCachedSize(void)const
-12	CParental_ParentalSettingsChange_Notification::CopyFrom(google::protobuf::Message const&)
-13	CParental_ParentalSettingsChange_Notification::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CParental_ParentalSettingsChange_Notification::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CParental_ParentalSettingsChange_Notification::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CParental_ParentalSettingsChange_Notification
+// Auto reconstructed from vtable block @ 0x00EC6BC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CParental_ParentalSettingsChange_Notification::~CParental_ParentalSettingsChange_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CParental_ParentalSettingsChange_Notification::New(void)const
+3	CParental_ParentalSettingsChange_Notification::Clear(void)
+4	CParental_ParentalSettingsChange_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CParental_ParentalSettingsChange_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CParental_ParentalSettingsChange_Notification::ByteSize(void)const
+90	CParental_ParentalSettingsChange_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CParental_ParentalSettingsChange_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CParental_ParentalSettingsChange_Notification::GetCachedSize(void)const
+12	CParental_ParentalSettingsChange_Notification::CopyFrom(google::protobuf::Message const&)
+13	CParental_ParentalSettingsChange_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CParental_ParentalSettingsChange_Notification::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CParental_ParentalSettingsChange_Notification::GetMetadata(void)const
+

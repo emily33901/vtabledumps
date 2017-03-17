@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CContentUpdateContext
-// Auto reconstructed from vtable block @ 0x00ECFD70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CContentUpdateContext::OnDepotChunkReceived(EResult,CChunkResponseData *,char const*)
-1	CContentUpdateContext::OnDepotManifestReceived(EResult,CManifestResponseData *,char const*)
-2	CContentUpdateContext::GetIOCacheAvailable(void)const
-3	CContentUpdateContext::AddToIOCacheUsage(unsigned int)
-4	CContentUpdateContext::RemoveFromIOCacheUsage(unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CContentUpdateContext
+// Auto reconstructed from vtable block @ 0x00ECFD70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CContentUpdateContext::OnDepotChunkReceived(EResult,CChunkResponseData *,char const*)
+1	CContentUpdateContext::OnDepotManifestReceived(EResult,CManifestResponseData *,char const*)
+2	CContentUpdateContext::GetIOCacheAvailable(void)const
+3	CContentUpdateContext::AddToIOCacheUsage(unsigned int)
+4	CContentUpdateContext::RemoveFromIOCacheUsage(unsigned int)
+

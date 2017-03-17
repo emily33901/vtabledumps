@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientModuleManagerMap
-// Auto reconstructed from vtable block @ 0x00EF2D30
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientModuleManagerMap::LoadModule(unsigned int,void const*,unsigned int)
-1	IClientModuleManagerMap::UnloadModule(unsigned int)
-2	IClientModuleManagerMap::CallFunction(unsigned int,unsigned int,unsigned int,void const*,unsigned int,void *,unsigned int,unsigned int *)
-3	IClientModuleManagerMap::CallFunctionAsync(unsigned int,unsigned int,unsigned int,unsigned int,unsigned int,void const*,unsigned int,unsigned int)
-4	IClientModuleManagerMap::PollResponseAsync(void *,unsigned int,unsigned int *,unsigned int,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientModuleManagerMap
+// Auto reconstructed from vtable block @ 0x00EF2D30
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientModuleManagerMap::LoadModule(unsigned int,void const*,unsigned int)
+1	IClientModuleManagerMap::UnloadModule(unsigned int)
+2	IClientModuleManagerMap::CallFunction(unsigned int,unsigned int,unsigned int,void const*,unsigned int,void *,unsigned int,unsigned int *)
+3	IClientModuleManagerMap::CallFunctionAsync(unsigned int,unsigned int,unsigned int,unsigned int,unsigned int,void const*,unsigned int,unsigned int)
+4	IClientModuleManagerMap::PollResponseAsync(void *,unsigned int,unsigned int *,unsigned int,unsigned int)
+

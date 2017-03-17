@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder
-// Auto reconstructed from vtable block @ 0x00F1DB68
-// from "steamclient.dylib", by ida_vtables.idc
-0	google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder::~AggregateOptionFinder()
-1	google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder::FindExtension(google::protobuf::Message *,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder
+// Auto reconstructed from vtable block @ 0x00F1DB68
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder::~AggregateOptionFinder()
+1	google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder::FindExtension(google::protobuf::Message *,std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&)const
+

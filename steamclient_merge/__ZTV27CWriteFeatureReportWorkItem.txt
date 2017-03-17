@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CWriteFeatureReportWorkItem
-// Auto reconstructed from vtable block @ 0x00F01E50
-// from "steamclient.dylib", by ida_vtables.idc
-0	CWriteFeatureReportWorkItem::~CWriteFeatureReportWorkItem()
-1	CWriteFeatureReportWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWriteFeatureReportWorkItem
+// Auto reconstructed from vtable block @ 0x00F01E50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWriteFeatureReportWorkItem::~CWriteFeatureReportWorkItem()
+1	CWriteFeatureReportWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

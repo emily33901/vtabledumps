@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMediaController
-// Auto reconstructed from vtable block @ 0x00ED2B00
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMediaController::~CMediaController()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMediaController
+// Auto reconstructed from vtable block @ 0x00ED2B00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMediaController::~CMediaController()
+

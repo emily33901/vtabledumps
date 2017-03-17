@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgRemoteClientStreamingEnabled
-// Auto reconstructed from vtable block @ 0x00EC9960
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgRemoteClientStreamingEnabled::~CMsgRemoteClientStreamingEnabled()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgRemoteClientStreamingEnabled::New(void)const
-3	CMsgRemoteClientStreamingEnabled::Clear(void)
-4	CMsgRemoteClientStreamingEnabled::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgRemoteClientStreamingEnabled::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgRemoteClientStreamingEnabled::ByteSize(void)const
-90	CMsgRemoteClientStreamingEnabled::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgRemoteClientStreamingEnabled::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgRemoteClientStreamingEnabled::GetCachedSize(void)const
-12	CMsgRemoteClientStreamingEnabled::CopyFrom(google::protobuf::Message const&)
-13	CMsgRemoteClientStreamingEnabled::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgRemoteClientStreamingEnabled::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgRemoteClientStreamingEnabled::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRemoteClientStreamingEnabled
+// Auto reconstructed from vtable block @ 0x00EC9960
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteClientStreamingEnabled::~CMsgRemoteClientStreamingEnabled()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRemoteClientStreamingEnabled::New(void)const
+3	CMsgRemoteClientStreamingEnabled::Clear(void)
+4	CMsgRemoteClientStreamingEnabled::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRemoteClientStreamingEnabled::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRemoteClientStreamingEnabled::ByteSize(void)const
+90	CMsgRemoteClientStreamingEnabled::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRemoteClientStreamingEnabled::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRemoteClientStreamingEnabled::GetCachedSize(void)const
+12	CMsgRemoteClientStreamingEnabled::CopyFrom(google::protobuf::Message const&)
+13	CMsgRemoteClientStreamingEnabled::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRemoteClientStreamingEnabled::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRemoteClientStreamingEnabled::GetMetadata(void)const
+

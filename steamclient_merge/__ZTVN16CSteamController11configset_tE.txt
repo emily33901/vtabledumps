@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamController::configset_t
-// Auto reconstructed from vtable block @ 0x00F01A24
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamController::configset_t::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamController::configset_t
+// Auto reconstructed from vtable block @ 0x00F01A24
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamController::configset_t::Validate(CValidator &,char const*)
+

@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::MPC::File
-// Auto reconstructed from vtable block @ 0x00EE3160
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::MPC::File::~File()
-1	TagLib::MPC::File::tag(void)const
-2	TagLib::MPC::File::audioProperties(void)const
-3	TagLib::MPC::File::save(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::MPC::File
+// Auto reconstructed from vtable block @ 0x00EE3160
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MPC::File::~File()
+1	TagLib::MPC::File::tag(void)const
+2	TagLib::MPC::File::audioProperties(void)const
+3	TagLib::MPC::File::save(void)
+

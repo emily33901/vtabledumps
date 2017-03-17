@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientPurchaseResponse
-// Auto reconstructed from vtable block @ 0x00EEE2B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientPurchaseResponse::~CMsgClientPurchaseResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientPurchaseResponse::New(void)const
-3	CMsgClientPurchaseResponse::Clear(void)
-4	CMsgClientPurchaseResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientPurchaseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientPurchaseResponse::ByteSize(void)const
-90	CMsgClientPurchaseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientPurchaseResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientPurchaseResponse::GetCachedSize(void)const
-12	CMsgClientPurchaseResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientPurchaseResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientPurchaseResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientPurchaseResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientPurchaseResponse
+// Auto reconstructed from vtable block @ 0x00EEE2B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientPurchaseResponse::~CMsgClientPurchaseResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientPurchaseResponse::New(void)const
+3	CMsgClientPurchaseResponse::Clear(void)
+4	CMsgClientPurchaseResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientPurchaseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientPurchaseResponse::ByteSize(void)const
+90	CMsgClientPurchaseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientPurchaseResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientPurchaseResponse::GetCachedSize(void)const
+12	CMsgClientPurchaseResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientPurchaseResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientPurchaseResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientPurchaseResponse::GetMetadata(void)const
+

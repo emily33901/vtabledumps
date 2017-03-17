@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::Ogg::PageHeader
-// Auto reconstructed from vtable block @ 0x00EE3760
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::Ogg::PageHeader::~PageHeader()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::PageHeader
+// Auto reconstructed from vtable block @ 0x00EE3760
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::PageHeader::~PageHeader()
+

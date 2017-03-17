@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgGSGetUserGroupStatus_t>
-// Auto reconstructed from vtable block @ 0x00F049BC
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgGSGetUserGroupStatus_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgGSGetUserGroupStatus_t>
+// Auto reconstructed from vtable block @ 0x00F049BC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgGSGetUserGroupStatus_t>::~CClientMsg()
+

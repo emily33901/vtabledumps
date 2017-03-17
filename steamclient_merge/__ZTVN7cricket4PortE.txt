@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::Port
-// Auto reconstructed from vtable block @ 0x00ED65FC
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::Port::~Port()
-1	cricket::Port::OnMessage(talk_base::Message *)
-2	___cxa_pure_virtual
-3	___cxa_pure_virtual
-4	___cxa_pure_virtual
-5	___cxa_pure_virtual
-6	___cxa_pure_virtual
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::Port
+// Auto reconstructed from vtable block @ 0x00ED65FC
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::Port::~Port()
+1	cricket::Port::OnMessage(talk_base::Message *)
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+

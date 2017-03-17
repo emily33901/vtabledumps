@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamStreamLauncher001
-// Auto reconstructed from vtable block @ 0x00F0739C
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamStreamLauncher001::StartStreaming(char const*)
-1	CAdapterSteamStreamLauncher001::StopStreaming(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamStreamLauncher001
+// Auto reconstructed from vtable block @ 0x00F0739C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamStreamLauncher001::StartStreaming(char const*)
+1	CAdapterSteamStreamLauncher001::StopStreaming(void)
+

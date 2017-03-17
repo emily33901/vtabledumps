@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientVideo
-// Auto reconstructed from vtable block @ 0x00ECF8C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientVideo::BGetUserVideoFolder(char *,int)
-1	CClientVideo::UnlockH264(void)
-2	CClientVideo::EGetBroadcastReady(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientVideo
+// Auto reconstructed from vtable block @ 0x00ECF8C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientVideo::BGetUserVideoFolder(char *,int)
+1	CClientVideo::UnlockH264(void)
+2	CClientVideo::EGetBroadcastReady(void)
+

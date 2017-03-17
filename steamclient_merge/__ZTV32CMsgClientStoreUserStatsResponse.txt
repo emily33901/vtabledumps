@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientStoreUserStatsResponse
-// Auto reconstructed from vtable block @ 0x00EE9B00
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientStoreUserStatsResponse::~CMsgClientStoreUserStatsResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientStoreUserStatsResponse::New(void)const
-3	CMsgClientStoreUserStatsResponse::Clear(void)
-4	CMsgClientStoreUserStatsResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientStoreUserStatsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientStoreUserStatsResponse::ByteSize(void)const
-90	CMsgClientStoreUserStatsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientStoreUserStatsResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientStoreUserStatsResponse::GetCachedSize(void)const
-12	CMsgClientStoreUserStatsResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientStoreUserStatsResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientStoreUserStatsResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientStoreUserStatsResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientStoreUserStatsResponse
+// Auto reconstructed from vtable block @ 0x00EE9B00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientStoreUserStatsResponse::~CMsgClientStoreUserStatsResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientStoreUserStatsResponse::New(void)const
+3	CMsgClientStoreUserStatsResponse::Clear(void)
+4	CMsgClientStoreUserStatsResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientStoreUserStatsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientStoreUserStatsResponse::ByteSize(void)const
+90	CMsgClientStoreUserStatsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientStoreUserStatsResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientStoreUserStatsResponse::GetCachedSize(void)const
+12	CMsgClientStoreUserStatsResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientStoreUserStatsResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientStoreUserStatsResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientStoreUserStatsResponse::GetMetadata(void)const
+

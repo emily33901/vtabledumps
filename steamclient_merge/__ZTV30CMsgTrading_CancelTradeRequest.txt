@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgTrading_CancelTradeRequest
-// Auto reconstructed from vtable block @ 0x00EEE550
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgTrading_CancelTradeRequest::~CMsgTrading_CancelTradeRequest()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgTrading_CancelTradeRequest::New(void)const
-3	CMsgTrading_CancelTradeRequest::Clear(void)
-4	CMsgTrading_CancelTradeRequest::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgTrading_CancelTradeRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgTrading_CancelTradeRequest::ByteSize(void)const
-90	CMsgTrading_CancelTradeRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgTrading_CancelTradeRequest::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgTrading_CancelTradeRequest::GetCachedSize(void)const
-12	CMsgTrading_CancelTradeRequest::CopyFrom(google::protobuf::Message const&)
-13	CMsgTrading_CancelTradeRequest::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgTrading_CancelTradeRequest::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgTrading_CancelTradeRequest::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTrading_CancelTradeRequest
+// Auto reconstructed from vtable block @ 0x00EEE550
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgTrading_CancelTradeRequest::~CMsgTrading_CancelTradeRequest()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTrading_CancelTradeRequest::New(void)const
+3	CMsgTrading_CancelTradeRequest::Clear(void)
+4	CMsgTrading_CancelTradeRequest::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTrading_CancelTradeRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTrading_CancelTradeRequest::ByteSize(void)const
+90	CMsgTrading_CancelTradeRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTrading_CancelTradeRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTrading_CancelTradeRequest::GetCachedSize(void)const
+12	CMsgTrading_CancelTradeRequest::CopyFrom(google::protobuf::Message const&)
+13	CMsgTrading_CancelTradeRequest::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTrading_CancelTradeRequest::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTrading_CancelTradeRequest::GetMetadata(void)const
+

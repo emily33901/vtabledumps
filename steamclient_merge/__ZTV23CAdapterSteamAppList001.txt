@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamAppList001
-// Auto reconstructed from vtable block @ 0x00F06680
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamAppList001::GetNumInstalledApps(void)
-1	CAdapterSteamAppList001::GetInstalledApps(unsigned int *,unsigned int)
-2	CAdapterSteamAppList001::GetAppName(unsigned int,char *,int)
-3	CAdapterSteamAppList001::GetAppInstallDir(unsigned int,char *,int)
-4	CAdapterSteamAppList001::GetAppBuildId(unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamAppList001
+// Auto reconstructed from vtable block @ 0x00F06680
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamAppList001::GetNumInstalledApps(void)
+1	CAdapterSteamAppList001::GetInstalledApps(unsigned int *,unsigned int)
+2	CAdapterSteamAppList001::GetAppName(unsigned int,char *,int)
+3	CAdapterSteamAppList001::GetAppInstallDir(unsigned int,char *,int)
+4	CAdapterSteamAppList001::GetAppBuildId(unsigned int)
+

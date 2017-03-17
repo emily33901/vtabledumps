@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamUtils005
-// Auto reconstructed from vtable block @ 0x00F07180
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamUtils005::GetSecondsSinceAppActive(void)
-1	CAdapterSteamUtils005::GetSecondsSinceComputerActive(void)
-2	CAdapterSteamUtils005::GetConnectedUniverse(void)
-3	CAdapterSteamUtils005::GetServerRealTime(void)
-4	CAdapterSteamUtils005::GetIPCountry(void)
-5	CAdapterSteamUtils005::GetImageSize(int,unsigned int *,unsigned int *)
-6	CAdapterSteamUtils005::GetImageRGBA(int,unsigned char *,int)
-7	CAdapterSteamUtils005::GetCSERIPPort(unsigned int *,unsigned short *)
-8	CAdapterSteamUtils005::GetCurrentBatteryPower(void)
-9	CAdapterSteamUtils005::GetAppID(void)
-10	CAdapterSteamUtils005::SetOverlayNotificationPosition(ENotificationPosition)
-11	CAdapterSteamUtils005::IsAPICallCompleted(unsigned long long,bool *)
-12	CAdapterSteamUtils005::GetAPICallFailureReason(unsigned long long)
-13	CAdapterSteamUtils005::GetAPICallResult(unsigned long long,void *,int,int,bool *)
-14	CAdapterSteamUtils005::RunFrame(void)
-15	CAdapterSteamUtils005::GetIPCCallCount(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUtils005
+// Auto reconstructed from vtable block @ 0x00F07180
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUtils005::GetSecondsSinceAppActive(void)
+1	CAdapterSteamUtils005::GetSecondsSinceComputerActive(void)
+2	CAdapterSteamUtils005::GetConnectedUniverse(void)
+3	CAdapterSteamUtils005::GetServerRealTime(void)
+4	CAdapterSteamUtils005::GetIPCountry(void)
+5	CAdapterSteamUtils005::GetImageSize(int,unsigned int *,unsigned int *)
+6	CAdapterSteamUtils005::GetImageRGBA(int,unsigned char *,int)
+7	CAdapterSteamUtils005::GetCSERIPPort(unsigned int *,unsigned short *)
+8	CAdapterSteamUtils005::GetCurrentBatteryPower(void)
+9	CAdapterSteamUtils005::GetAppID(void)
+10	CAdapterSteamUtils005::SetOverlayNotificationPosition(ENotificationPosition)
+11	CAdapterSteamUtils005::IsAPICallCompleted(unsigned long long,bool *)
+12	CAdapterSteamUtils005::GetAPICallFailureReason(unsigned long long)
+13	CAdapterSteamUtils005::GetAPICallResult(unsigned long long,void *,int,int,bool *)
+14	CAdapterSteamUtils005::RunFrame(void)
+15	CAdapterSteamUtils005::GetIPCCallCount(void)
+

@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'ContentManifestPayload_FileMapping
-// Auto reconstructed from vtable block @ 0x00EE4BE0
-// from "steamclient.dylib", by ida_vtables.idc
-0	ContentManifestPayload_FileMapping::~ContentManifestPayload_FileMapping()
-1	google::protobuf::Message::GetTypeName(void)const
-2	ContentManifestPayload_FileMapping::New(void)const
-3	ContentManifestPayload_FileMapping::Clear(void)
-4	ContentManifestPayload_FileMapping::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	ContentManifestPayload_FileMapping::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	ContentManifestPayload_FileMapping::ByteSize(void)const
-90	ContentManifestPayload_FileMapping::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	ContentManifestPayload_FileMapping::SerializeWithCachedSizesToArray(unsigned char *)const
-11	ContentManifestPayload_FileMapping::GetCachedSize(void)const
-12	ContentManifestPayload_FileMapping::CopyFrom(google::protobuf::Message const&)
-13	ContentManifestPayload_FileMapping::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	ContentManifestPayload_FileMapping::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	ContentManifestPayload_FileMapping::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ContentManifestPayload_FileMapping
+// Auto reconstructed from vtable block @ 0x00EE4BE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	ContentManifestPayload_FileMapping::~ContentManifestPayload_FileMapping()
+1	google::protobuf::Message::GetTypeName(void)const
+2	ContentManifestPayload_FileMapping::New(void)const
+3	ContentManifestPayload_FileMapping::Clear(void)
+4	ContentManifestPayload_FileMapping::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	ContentManifestPayload_FileMapping::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	ContentManifestPayload_FileMapping::ByteSize(void)const
+90	ContentManifestPayload_FileMapping::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	ContentManifestPayload_FileMapping::SerializeWithCachedSizesToArray(unsigned char *)const
+11	ContentManifestPayload_FileMapping::GetCachedSize(void)const
+12	ContentManifestPayload_FileMapping::CopyFrom(google::protobuf::Message const&)
+13	ContentManifestPayload_FileMapping::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	ContentManifestPayload_FileMapping::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	ContentManifestPayload_FileMapping::GetMetadata(void)const
+

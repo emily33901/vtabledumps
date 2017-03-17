@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMemberFunctor1<CAPIJobListHashLoadSave *,void (CAPIJobListHashLoadSave::*)(bool *),bool *,CFuncMemPolicyNone>
-// Auto reconstructed from vtable block @ 0x00F053D0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
-1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
-2	CMemberFunctor1<CAPIJobListHashLoadSave *,void (CAPIJobListHashLoadSave::*)(bool *),bool *,CFuncMemPolicyNone>::operator()(void)
-3	CMemberFunctor1<CAPIJobListHashLoadSave *,void (CAPIJobListHashLoadSave::*)(bool *),bool *,CFuncMemPolicyNone>::~CMemberFunctor1()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMemberFunctor1<CAPIJobListHashLoadSave *,void (CAPIJobListHashLoadSave::*)(bool *),bool *,CFuncMemPolicyNone>
+// Auto reconstructed from vtable block @ 0x00F053D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+2	CMemberFunctor1<CAPIJobListHashLoadSave *,void (CAPIJobListHashLoadSave::*)(bool *),bool *,CFuncMemPolicyNone>::operator()(void)
+3	CMemberFunctor1<CAPIJobListHashLoadSave *,void (CAPIJobListHashLoadSave::*)(bool *),bool *,CFuncMemPolicyNone>::~CMemberFunctor1()
+

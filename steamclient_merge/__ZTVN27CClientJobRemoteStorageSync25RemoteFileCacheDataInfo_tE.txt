@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t
-// Auto reconstructed from vtable block @ 0x00EFD380
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t::~RemoteFileCacheDataInfo_t()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t
+// Auto reconstructed from vtable block @ 0x00EFD380
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientJobRemoteStorageSync::RemoteFileCacheDataInfo_t::~RemoteFileCacheDataInfo_t()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+

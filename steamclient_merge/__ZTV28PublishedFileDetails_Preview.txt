@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'PublishedFileDetails_Preview
-// Auto reconstructed from vtable block @ 0x00EC83C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	PublishedFileDetails_Preview::~PublishedFileDetails_Preview()
-1	google::protobuf::Message::GetTypeName(void)const
-2	PublishedFileDetails_Preview::New(void)const
-3	PublishedFileDetails_Preview::Clear(void)
-4	PublishedFileDetails_Preview::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	PublishedFileDetails_Preview::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	PublishedFileDetails_Preview::ByteSize(void)const
-90	PublishedFileDetails_Preview::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	PublishedFileDetails_Preview::SerializeWithCachedSizesToArray(unsigned char *)const
-11	PublishedFileDetails_Preview::GetCachedSize(void)const
-12	PublishedFileDetails_Preview::CopyFrom(google::protobuf::Message const&)
-13	PublishedFileDetails_Preview::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	PublishedFileDetails_Preview::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	PublishedFileDetails_Preview::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'PublishedFileDetails_Preview
+// Auto reconstructed from vtable block @ 0x00EC83C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	PublishedFileDetails_Preview::~PublishedFileDetails_Preview()
+1	google::protobuf::Message::GetTypeName(void)const
+2	PublishedFileDetails_Preview::New(void)const
+3	PublishedFileDetails_Preview::Clear(void)
+4	PublishedFileDetails_Preview::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	PublishedFileDetails_Preview::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	PublishedFileDetails_Preview::ByteSize(void)const
+90	PublishedFileDetails_Preview::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	PublishedFileDetails_Preview::SerializeWithCachedSizesToArray(unsigned char *)const
+11	PublishedFileDetails_Preview::GetCachedSize(void)const
+12	PublishedFileDetails_Preview::CopyFrom(google::protobuf::Message const&)
+13	PublishedFileDetails_Preview::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	PublishedFileDetails_Preview::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	PublishedFileDetails_Preview::GetMetadata(void)const
+

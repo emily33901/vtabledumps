@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CCDDBAppDetailCommon
-// Auto reconstructed from vtable block @ 0x00EE71C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CCDDBAppDetailCommon::~CCDDBAppDetailCommon()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CCDDBAppDetailCommon::New(void)const
-3	CCDDBAppDetailCommon::Clear(void)
-4	CCDDBAppDetailCommon::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CCDDBAppDetailCommon::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CCDDBAppDetailCommon::ByteSize(void)const
-90	CCDDBAppDetailCommon::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CCDDBAppDetailCommon::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CCDDBAppDetailCommon::GetCachedSize(void)const
-12	CCDDBAppDetailCommon::CopyFrom(google::protobuf::Message const&)
-13	CCDDBAppDetailCommon::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CCDDBAppDetailCommon::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CCDDBAppDetailCommon::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCDDBAppDetailCommon
+// Auto reconstructed from vtable block @ 0x00EE71C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCDDBAppDetailCommon::~CCDDBAppDetailCommon()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CCDDBAppDetailCommon::New(void)const
+3	CCDDBAppDetailCommon::Clear(void)
+4	CCDDBAppDetailCommon::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CCDDBAppDetailCommon::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CCDDBAppDetailCommon::ByteSize(void)const
+90	CCDDBAppDetailCommon::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CCDDBAppDetailCommon::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CCDDBAppDetailCommon::GetCachedSize(void)const
+12	CCDDBAppDetailCommon::CopyFrom(google::protobuf::Message const&)
+13	CCDDBAppDetailCommon::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CCDDBAppDetailCommon::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CCDDBAppDetailCommon::GetMetadata(void)const
+

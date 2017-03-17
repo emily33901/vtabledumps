@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CPhysicalGoods_DeRegisterSteamController_Response
-// Auto reconstructed from vtable block @ 0x00EC78F0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CPhysicalGoods_DeRegisterSteamController_Response::~CPhysicalGoods_DeRegisterSteamController_Response()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CPhysicalGoods_DeRegisterSteamController_Response::New(void)const
-3	CPhysicalGoods_DeRegisterSteamController_Response::Clear(void)
-4	CPhysicalGoods_DeRegisterSteamController_Response::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CPhysicalGoods_DeRegisterSteamController_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CPhysicalGoods_DeRegisterSteamController_Response::ByteSize(void)const
-90	CPhysicalGoods_DeRegisterSteamController_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CPhysicalGoods_DeRegisterSteamController_Response::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CPhysicalGoods_DeRegisterSteamController_Response::GetCachedSize(void)const
-12	CPhysicalGoods_DeRegisterSteamController_Response::CopyFrom(google::protobuf::Message const&)
-13	CPhysicalGoods_DeRegisterSteamController_Response::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CPhysicalGoods_DeRegisterSteamController_Response::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CPhysicalGoods_DeRegisterSteamController_Response::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPhysicalGoods_DeRegisterSteamController_Response
+// Auto reconstructed from vtable block @ 0x00EC78F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPhysicalGoods_DeRegisterSteamController_Response::~CPhysicalGoods_DeRegisterSteamController_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPhysicalGoods_DeRegisterSteamController_Response::New(void)const
+3	CPhysicalGoods_DeRegisterSteamController_Response::Clear(void)
+4	CPhysicalGoods_DeRegisterSteamController_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPhysicalGoods_DeRegisterSteamController_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPhysicalGoods_DeRegisterSteamController_Response::ByteSize(void)const
+90	CPhysicalGoods_DeRegisterSteamController_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPhysicalGoods_DeRegisterSteamController_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPhysicalGoods_DeRegisterSteamController_Response::GetCachedSize(void)const
+12	CPhysicalGoods_DeRegisterSteamController_Response::CopyFrom(google::protobuf::Message const&)
+13	CPhysicalGoods_DeRegisterSteamController_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CPhysicalGoods_DeRegisterSteamController_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPhysicalGoods_DeRegisterSteamController_Response::GetMetadata(void)const
+

@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgDPGetNumberOfCurrentPlayersResponse
-// Auto reconstructed from vtable block @ 0x00EF06B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgDPGetNumberOfCurrentPlayersResponse::~CMsgDPGetNumberOfCurrentPlayersResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgDPGetNumberOfCurrentPlayersResponse::New(void)const
-3	CMsgDPGetNumberOfCurrentPlayersResponse::Clear(void)
-4	CMsgDPGetNumberOfCurrentPlayersResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgDPGetNumberOfCurrentPlayersResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgDPGetNumberOfCurrentPlayersResponse::ByteSize(void)const
-90	CMsgDPGetNumberOfCurrentPlayersResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgDPGetNumberOfCurrentPlayersResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgDPGetNumberOfCurrentPlayersResponse::GetCachedSize(void)const
-12	CMsgDPGetNumberOfCurrentPlayersResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgDPGetNumberOfCurrentPlayersResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgDPGetNumberOfCurrentPlayersResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgDPGetNumberOfCurrentPlayersResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgDPGetNumberOfCurrentPlayersResponse
+// Auto reconstructed from vtable block @ 0x00EF06B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgDPGetNumberOfCurrentPlayersResponse::~CMsgDPGetNumberOfCurrentPlayersResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgDPGetNumberOfCurrentPlayersResponse::New(void)const
+3	CMsgDPGetNumberOfCurrentPlayersResponse::Clear(void)
+4	CMsgDPGetNumberOfCurrentPlayersResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgDPGetNumberOfCurrentPlayersResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgDPGetNumberOfCurrentPlayersResponse::ByteSize(void)const
+90	CMsgDPGetNumberOfCurrentPlayersResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgDPGetNumberOfCurrentPlayersResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgDPGetNumberOfCurrentPlayersResponse::GetCachedSize(void)const
+12	CMsgDPGetNumberOfCurrentPlayersResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgDPGetNumberOfCurrentPlayersResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgDPGetNumberOfCurrentPlayersResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgDPGetNumberOfCurrentPlayersResponse::GetMetadata(void)const
+

@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CScheduledFunction<CUserRemoteStorage>
-// Auto reconstructed from vtable block @ 0x00F1A0E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CScheduledFunction<CUserRemoteStorage>::~CScheduledFunction()
-1	CScheduledFunction<CUserRemoteStorage>::Run(void)
-2	CBaseScheduledFunction::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CUserRemoteStorage>
+// Auto reconstructed from vtable block @ 0x00F1A0E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CUserRemoteStorage>::~CScheduledFunction()
+1	CScheduledFunction<CUserRemoteStorage>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

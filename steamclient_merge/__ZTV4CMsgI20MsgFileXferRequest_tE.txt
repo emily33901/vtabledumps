@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsg<MsgFileXferRequest_t>
-// Auto reconstructed from vtable block @ 0x00F2770C
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsg<MsgFileXferRequest_t>::~CMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsg<MsgFileXferRequest_t>
+// Auto reconstructed from vtable block @ 0x00F2770C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsg<MsgFileXferRequest_t>::~CMsg()
+

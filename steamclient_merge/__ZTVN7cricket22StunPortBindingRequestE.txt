@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'cricket::StunPortBindingRequest
-// Auto reconstructed from vtable block @ 0x00F1E858
-// from "steamclient.dylib", by ida_vtables.idc
-0	cricket::StunPortBindingRequest::~StunPortBindingRequest()
-1	cricket::StunRequest::OnMessage(talk_base::Message *)
-2	cricket::StunPortBindingRequest::Prepare(cricket::StunMessage *)
-3	cricket::StunPortBindingRequest::OnResponse(cricket::StunMessage *)
-4	cricket::StunPortBindingRequest::OnErrorResponse(cricket::StunMessage *)
-5	cricket::StunPortBindingRequest::OnTimeout(void)
-6	cricket::StunRequest::GetNextDelay(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::StunPortBindingRequest
+// Auto reconstructed from vtable block @ 0x00F1E858
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::StunPortBindingRequest::~StunPortBindingRequest()
+1	cricket::StunRequest::OnMessage(talk_base::Message *)
+2	cricket::StunPortBindingRequest::Prepare(cricket::StunMessage *)
+3	cricket::StunPortBindingRequest::OnResponse(cricket::StunMessage *)
+4	cricket::StunPortBindingRequest::OnErrorResponse(cricket::StunMessage *)
+5	cricket::StunPortBindingRequest::OnTimeout(void)
+6	cricket::StunRequest::GetNextDelay(void)
+

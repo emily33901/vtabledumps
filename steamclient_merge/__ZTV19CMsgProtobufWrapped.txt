@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgProtobufWrapped
-// Auto reconstructed from vtable block @ 0x00EE7100
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgProtobufWrapped::~CMsgProtobufWrapped()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgProtobufWrapped::New(void)const
-3	CMsgProtobufWrapped::Clear(void)
-4	CMsgProtobufWrapped::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgProtobufWrapped::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgProtobufWrapped::ByteSize(void)const
-90	CMsgProtobufWrapped::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgProtobufWrapped::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgProtobufWrapped::GetCachedSize(void)const
-12	CMsgProtobufWrapped::CopyFrom(google::protobuf::Message const&)
-13	CMsgProtobufWrapped::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgProtobufWrapped::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgProtobufWrapped::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgProtobufWrapped
+// Auto reconstructed from vtable block @ 0x00EE7100
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgProtobufWrapped::~CMsgProtobufWrapped()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgProtobufWrapped::New(void)const
+3	CMsgProtobufWrapped::Clear(void)
+4	CMsgProtobufWrapped::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgProtobufWrapped::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgProtobufWrapped::ByteSize(void)const
+90	CMsgProtobufWrapped::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgProtobufWrapped::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgProtobufWrapped::GetCachedSize(void)const
+12	CMsgProtobufWrapped::CopyFrom(google::protobuf::Message const&)
+13	CMsgProtobufWrapped::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgProtobufWrapped::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgProtobufWrapped::GetMetadata(void)const
+

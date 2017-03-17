@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientSharedLibraryLockStatus
-// Auto reconstructed from vtable block @ 0x00EF0E30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientSharedLibraryLockStatus::~CMsgClientSharedLibraryLockStatus()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientSharedLibraryLockStatus::New(void)const
-3	CMsgClientSharedLibraryLockStatus::Clear(void)
-4	CMsgClientSharedLibraryLockStatus::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientSharedLibraryLockStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientSharedLibraryLockStatus::ByteSize(void)const
-90	CMsgClientSharedLibraryLockStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientSharedLibraryLockStatus::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientSharedLibraryLockStatus::GetCachedSize(void)const
-12	CMsgClientSharedLibraryLockStatus::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientSharedLibraryLockStatus::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientSharedLibraryLockStatus::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientSharedLibraryLockStatus::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientSharedLibraryLockStatus
+// Auto reconstructed from vtable block @ 0x00EF0E30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientSharedLibraryLockStatus::~CMsgClientSharedLibraryLockStatus()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientSharedLibraryLockStatus::New(void)const
+3	CMsgClientSharedLibraryLockStatus::Clear(void)
+4	CMsgClientSharedLibraryLockStatus::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientSharedLibraryLockStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientSharedLibraryLockStatus::ByteSize(void)const
+90	CMsgClientSharedLibraryLockStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientSharedLibraryLockStatus::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientSharedLibraryLockStatus::GetCachedSize(void)const
+12	CMsgClientSharedLibraryLockStatus::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientSharedLibraryLockStatus::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientSharedLibraryLockStatus::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientSharedLibraryLockStatus::GetMetadata(void)const
+

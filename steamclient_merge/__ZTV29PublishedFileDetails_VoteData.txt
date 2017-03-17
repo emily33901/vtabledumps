@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'PublishedFileDetails_VoteData
-// Auto reconstructed from vtable block @ 0x00EC84E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	PublishedFileDetails_VoteData::~PublishedFileDetails_VoteData()
-1	google::protobuf::Message::GetTypeName(void)const
-2	PublishedFileDetails_VoteData::New(void)const
-3	PublishedFileDetails_VoteData::Clear(void)
-4	PublishedFileDetails_VoteData::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	PublishedFileDetails_VoteData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	PublishedFileDetails_VoteData::ByteSize(void)const
-90	PublishedFileDetails_VoteData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	PublishedFileDetails_VoteData::SerializeWithCachedSizesToArray(unsigned char *)const
-11	PublishedFileDetails_VoteData::GetCachedSize(void)const
-12	PublishedFileDetails_VoteData::CopyFrom(google::protobuf::Message const&)
-13	PublishedFileDetails_VoteData::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'PublishedFileDetails_VoteData
+// Auto reconstructed from vtable block @ 0x00EC84E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	PublishedFileDetails_VoteData::~PublishedFileDetails_VoteData()
+1	google::protobuf::Message::GetTypeName(void)const
+2	PublishedFileDetails_VoteData::New(void)const
+3	PublishedFileDetails_VoteData::Clear(void)
+4	PublishedFileDetails_VoteData::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	PublishedFileDetails_VoteData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	PublishedFileDetails_VoteData::ByteSize(void)const
+90	PublishedFileDetails_VoteData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	PublishedFileDetails_VoteData::SerializeWithCachedSizesToArray(unsigned char *)const
+11	PublishedFileDetails_VoteData::GetCachedSize(void)const
+12	PublishedFileDetails_VoteData::CopyFrom(google::protobuf::Message const&)
+13	PublishedFileDetails_VoteData::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

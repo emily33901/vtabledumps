@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<char const* (*)(sp_artistbrowse *)>
-// Auto reconstructed from vtable block @ 0x00F0E240
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::Init(CSysModule *)
-1	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::Release(void)
-2	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<char const* (*)(sp_artistbrowse *)>
+// Auto reconstructed from vtable block @ 0x00F0E240
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::Init(CSysModule *)
+1	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::Release(void)
+2	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<char const* (*)(sp_artistbrowse *)>::GetNextPointer(void)
+

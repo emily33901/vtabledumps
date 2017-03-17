@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgAppRights
-// Auto reconstructed from vtable block @ 0x00EE7220
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgAppRights::~CMsgAppRights()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgAppRights::New(void)const
-3	CMsgAppRights::Clear(void)
-4	CMsgAppRights::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgAppRights::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgAppRights::ByteSize(void)const
-90	CMsgAppRights::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgAppRights::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgAppRights::GetCachedSize(void)const
-12	CMsgAppRights::CopyFrom(google::protobuf::Message const&)
-13	CMsgAppRights::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgAppRights
+// Auto reconstructed from vtable block @ 0x00EE7220
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgAppRights::~CMsgAppRights()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgAppRights::New(void)const
+3	CMsgAppRights::Clear(void)
+4	CMsgAppRights::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgAppRights::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgAppRights::ByteSize(void)const
+90	CMsgAppRights::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgAppRights::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgAppRights::GetCachedSize(void)const
+12	CMsgAppRights::CopyFrom(google::protobuf::Message const&)
+13	CMsgAppRights::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

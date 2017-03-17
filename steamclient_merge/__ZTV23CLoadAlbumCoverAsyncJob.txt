@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CLoadAlbumCoverAsyncJob
-// Auto reconstructed from vtable block @ 0x00ED27B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CLoadAlbumCoverAsyncJob::~CLoadAlbumCoverAsyncJob()
-1	CJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CLoadAlbumCoverAsyncJob::BYieldingRunJob(void *)
-8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLoadAlbumCoverAsyncJob
+// Auto reconstructed from vtable block @ 0x00ED27B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLoadAlbumCoverAsyncJob::~CLoadAlbumCoverAsyncJob()
+1	CJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CLoadAlbumCoverAsyncJob::BYieldingRunJob(void *)
+8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+

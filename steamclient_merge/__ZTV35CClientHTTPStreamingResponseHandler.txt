@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientHTTPStreamingResponseHandler
-// Auto reconstructed from vtable block @ 0x00EF52B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientHTTPStreamingResponseHandler::~CClientHTTPStreamingResponseHandler()
-1	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
-2	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::Release(void)const
-3	IHTTPStreamingResponseHandler::OnRequestTransmitted(CHTTPRequestHandle *)
-4	CClientHTTPStreamingResponseHandler::OnHeaderComplete(CHTTPRequestHandle *,KeyValues *)
-5	CClientHTTPStreamingResponseHandler::OnBodyDataReceived(CHTTPRequestHandle *,CUtlBuffer &,unsigned int)
-6	CClientHTTPStreamingResponseHandler::OnRequestComplete(CHTTPRequestHandle *,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientHTTPStreamingResponseHandler
+// Auto reconstructed from vtable block @ 0x00EF52B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientHTTPStreamingResponseHandler::~CClientHTTPStreamingResponseHandler()
+1	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+2	CRefCounted1<IHTTPStreamingResponseHandler,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+3	IHTTPStreamingResponseHandler::OnRequestTransmitted(CHTTPRequestHandle *)
+4	CClientHTTPStreamingResponseHandler::OnHeaderComplete(CHTTPRequestHandle *,KeyValues *)
+5	CClientHTTPStreamingResponseHandler::OnBodyDataReceived(CHTTPRequestHandle *,CUtlBuffer &,unsigned int)
+6	CClientHTTPStreamingResponseHandler::OnRequestComplete(CHTTPRequestHandle *,unsigned int)
+

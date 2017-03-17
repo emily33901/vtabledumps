@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::RIFF::AIFF::Properties
-// Auto reconstructed from vtable block @ 0x00EE3928
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::RIFF::AIFF::Properties::~Properties()
-1	TagLib::RIFF::AIFF::Properties::length(void)const
-2	TagLib::RIFF::AIFF::Properties::bitrate(void)const
-3	TagLib::RIFF::AIFF::Properties::sampleRate(void)const
-4	TagLib::RIFF::AIFF::Properties::channels(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::RIFF::AIFF::Properties
+// Auto reconstructed from vtable block @ 0x00EE3928
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::RIFF::AIFF::Properties::~Properties()
+1	TagLib::RIFF::AIFF::Properties::length(void)const
+2	TagLib::RIFF::AIFF::Properties::bitrate(void)const
+3	TagLib::RIFF::AIFF::Properties::sampleRate(void)const
+4	TagLib::RIFF::AIFF::Properties::channels(void)const
+

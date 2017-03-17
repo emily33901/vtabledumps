@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::MPEG::Header::HeaderPrivate
-// Auto reconstructed from vtable block @ 0x00F26088
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::MPEG::Header::HeaderPrivate::~HeaderPrivate()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::MPEG::Header::HeaderPrivate
+// Auto reconstructed from vtable block @ 0x00F26088
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MPEG::Header::HeaderPrivate::~HeaderPrivate()
+

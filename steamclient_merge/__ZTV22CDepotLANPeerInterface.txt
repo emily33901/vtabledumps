@@ -1,15 +1,15 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDepotLANPeerInterface
-// Auto reconstructed from vtable block @ 0x00ED1E20
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDepotLANPeerInterface::~CDepotLANPeerInterface()
-1	CDepotLANPeerInterface::GetDownloadSourceType(void)
-2	CDepotLANPeerInterface::GetSourceName(void)
-3	CDepotLANPeerInterface::BYieldingOpenConnection(void)
-4	CDepotLANPeerInterface::CloseConnection(void)
-5	CDepotLANPeerInterface::BIsConnected(void)
-6	CDepotLANPeerInterface::GetChunkScore(CSHA const&)
-7	CDepotLANPeerInterface::YieldingRequestDepotManifest(CManifestResponseData *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDepotLANPeerInterface
+// Auto reconstructed from vtable block @ 0x00ED1E20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDepotLANPeerInterface::~CDepotLANPeerInterface()
+1	CDepotLANPeerInterface::GetDownloadSourceType(void)
+2	CDepotLANPeerInterface::GetSourceName(void)
+3	CDepotLANPeerInterface::BYieldingOpenConnection(void)
+4	CDepotLANPeerInterface::CloseConnection(void)
+5	CDepotLANPeerInterface::BIsConnected(void)
+6	CDepotLANPeerInterface::GetChunkScore(CSHA const&)
+7	CDepotLANPeerInterface::YieldingRequestDepotManifest(CManifestResponseData *)
+

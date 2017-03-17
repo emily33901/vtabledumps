@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgKeyDown
-// Auto reconstructed from vtable block @ 0x00ECB160
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgKeyDown::~CMsgKeyDown()
-1	google::protobuf::Message::GetTypeName(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgKeyDown
+// Auto reconstructed from vtable block @ 0x00ECB160
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgKeyDown::~CMsgKeyDown()
+1	google::protobuf::Message::GetTypeName(void)const
+

@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDongleFlashFirmwareWorkItem
-// Auto reconstructed from vtable block @ 0x00F01CE0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDongleFlashFirmwareWorkItem::~CDongleFlashFirmwareWorkItem()
-1	CDongleFlashFirmwareWorkItem::RunFunc(IControllerAbstraction *)
-2	CDongleFlashFirmwareWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDongleFlashFirmwareWorkItem
+// Auto reconstructed from vtable block @ 0x00F01CE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDongleFlashFirmwareWorkItem::~CDongleFlashFirmwareWorkItem()
+1	CDongleFlashFirmwareWorkItem::RunFunc(IControllerAbstraction *)
+2	CDongleFlashFirmwareWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

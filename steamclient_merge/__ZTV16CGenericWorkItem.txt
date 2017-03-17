@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGenericWorkItem
-// Auto reconstructed from vtable block @ 0x00F01E10
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGenericWorkItem::~CGenericWorkItem()
-1	CGenericWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGenericWorkItem
+// Auto reconstructed from vtable block @ 0x00F01E10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGenericWorkItem::~CGenericWorkItem()
+1	CGenericWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

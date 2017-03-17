@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<bool (*)(sp_search *)>
-// Auto reconstructed from vtable block @ 0x00F0E060
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<bool (*)(sp_search *)>::Init(CSysModule *)
-1	CDynamicFunc<bool (*)(sp_search *)>::Release(void)
-2	CDynamicFunc<bool (*)(sp_search *)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<bool (*)(sp_search *)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<bool (*)(sp_search *)>
+// Auto reconstructed from vtable block @ 0x00F0E060
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<bool (*)(sp_search *)>::Init(CSysModule *)
+1	CDynamicFunc<bool (*)(sp_search *)>::Release(void)
+2	CDynamicFunc<bool (*)(sp_search *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<bool (*)(sp_search *)>::GetNextPointer(void)
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLProtoBufMsg<CMsgSetHorizontalScroll>
-// Auto reconstructed from vtable block @ 0x00F05658
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLProtoBufMsg<CMsgSetHorizontalScroll>::~CHTMLProtoBufMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgSetHorizontalScroll>
+// Auto reconstructed from vtable block @ 0x00F05658
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgSetHorizontalScroll>::~CHTMLProtoBufMsg()
+

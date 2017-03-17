@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientStreamLauncherMap
-// Auto reconstructed from vtable block @ 0x00F0B85C
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientStreamLauncherMap::StartStreaming(char const*)
-1	IClientStreamLauncherMap::StopStreaming(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientStreamLauncherMap
+// Auto reconstructed from vtable block @ 0x00F0B85C
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientStreamLauncherMap::StartStreaming(char const*)
+1	IClientStreamLauncherMap::StopStreaming(void)
+

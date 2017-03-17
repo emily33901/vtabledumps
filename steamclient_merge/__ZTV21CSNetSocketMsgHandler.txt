@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSNetSocketMsgHandler
-// Auto reconstructed from vtable block @ 0x00EFD9C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSNetSocketMsgHandler::~CSNetSocketMsgHandler()
-1	CSNetSocketMsgHandler::Process(netadr_t *,CMsgBuffer *)
-2	CMsgHandler::GetNext(void)const
-3	CMsgHandler::SetNext(CMsgHandler*)
-4	CMsgHandler::GetSocket(void)const
-5	CMsgHandler::SetSocket(CSocket *)
-6	CMsgHandler::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSNetSocketMsgHandler
+// Auto reconstructed from vtable block @ 0x00EFD9C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSNetSocketMsgHandler::~CSNetSocketMsgHandler()
+1	CSNetSocketMsgHandler::Process(netadr_t *,CMsgBuffer *)
+2	CMsgHandler::GetNext(void)const
+3	CMsgHandler::SetNext(CMsgHandler*)
+4	CMsgHandler::GetSocket(void)const
+5	CMsgHandler::SetSocket(CSocket *)
+6	CMsgHandler::Validate(CValidator &,char const*)
+

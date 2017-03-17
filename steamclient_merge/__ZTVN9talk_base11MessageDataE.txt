@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'talk_base::MessageData
-// Auto reconstructed from vtable block @ 0x00F1EDA8
-// from "steamclient.dylib", by ida_vtables.idc
-0	talk_base::MessageData::~MessageData()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::MessageData
+// Auto reconstructed from vtable block @ 0x00F1EDA8
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::MessageData::~MessageData()
+

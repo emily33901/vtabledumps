@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientFriendProfileInfoResponse
-// Auto reconstructed from vtable block @ 0x00EE89C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientFriendProfileInfoResponse::~CMsgClientFriendProfileInfoResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientFriendProfileInfoResponse::New(void)const
-3	CMsgClientFriendProfileInfoResponse::Clear(void)
-4	CMsgClientFriendProfileInfoResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientFriendProfileInfoResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientFriendProfileInfoResponse::ByteSize(void)const
-90	CMsgClientFriendProfileInfoResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientFriendProfileInfoResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientFriendProfileInfoResponse::GetCachedSize(void)const
-12	CMsgClientFriendProfileInfoResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientFriendProfileInfoResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientFriendProfileInfoResponse
+// Auto reconstructed from vtable block @ 0x00EE89C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientFriendProfileInfoResponse::~CMsgClientFriendProfileInfoResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientFriendProfileInfoResponse::New(void)const
+3	CMsgClientFriendProfileInfoResponse::Clear(void)
+4	CMsgClientFriendProfileInfoResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientFriendProfileInfoResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientFriendProfileInfoResponse::ByteSize(void)const
+90	CMsgClientFriendProfileInfoResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientFriendProfileInfoResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientFriendProfileInfoResponse::GetCachedSize(void)const
+12	CMsgClientFriendProfileInfoResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientFriendProfileInfoResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

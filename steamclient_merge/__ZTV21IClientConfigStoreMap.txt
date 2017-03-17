@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientConfigStoreMap
-// Auto reconstructed from vtable block @ 0x00F0BE00
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientConfigStoreMap::IsSet(EConfigStore,char const*)
-1	IClientConfigStoreMap::GetBool(EConfigStore,char const*,bool)
-2	IClientConfigStoreMap::GetInt(EConfigStore,char const*,int)
-3	IClientConfigStoreMap::GetUint64(EConfigStore,char const*,unsigned long long)
-4	IClientConfigStoreMap::GetFloat(EConfigStore,char const*,float)
-5	IClientConfigStoreMap::GetString(EConfigStore,char const*,char const*)
-6	IClientConfigStoreMap::GetBinary(EConfigStore,char const*,unsigned char *,unsigned int)
-7	IClientConfigStoreMap::GetBinary(EConfigStore,char const*,CUtlBuffer *)
-8	IClientConfigStoreMap::GetBinaryWatermarked(EConfigStore,char const*,unsigned char *,unsigned int)
-9	IClientConfigStoreMap::SetBool(EConfigStore,char const*,bool)
-10	IClientConfigStoreMap::SetInt(EConfigStore,char const*,int)
-11	IClientConfigStoreMap::SetUint64(EConfigStore,char const*,unsigned long long)
-12	IClientConfigStoreMap::SetFloat(EConfigStore,char const*,float)
-13	IClientConfigStoreMap::SetString(EConfigStore,char const*,char const*)
-14	IClientConfigStoreMap::SetBinary(EConfigStore,char const*,unsigned char const*,unsigned int)
-15	IClientConfigStoreMap::SetBinaryWatermarked(EConfigStore,char const*,unsigned char const*,unsigned int)
-16	IClientConfigStoreMap::RemoveKey(EConfigStore,char const*)
-17	IClientConfigStoreMap::GetKeySerialized(EConfigStore,char const*,unsigned char *,int)
-18	IClientConfigStoreMap::FlushToDisk(bool)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientConfigStoreMap
+// Auto reconstructed from vtable block @ 0x00F0BE00
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientConfigStoreMap::IsSet(EConfigStore,char const*)
+1	IClientConfigStoreMap::GetBool(EConfigStore,char const*,bool)
+2	IClientConfigStoreMap::GetInt(EConfigStore,char const*,int)
+3	IClientConfigStoreMap::GetUint64(EConfigStore,char const*,unsigned long long)
+4	IClientConfigStoreMap::GetFloat(EConfigStore,char const*,float)
+5	IClientConfigStoreMap::GetString(EConfigStore,char const*,char const*)
+6	IClientConfigStoreMap::GetBinary(EConfigStore,char const*,unsigned char *,unsigned int)
+7	IClientConfigStoreMap::GetBinary(EConfigStore,char const*,CUtlBuffer *)
+8	IClientConfigStoreMap::GetBinaryWatermarked(EConfigStore,char const*,unsigned char *,unsigned int)
+9	IClientConfigStoreMap::SetBool(EConfigStore,char const*,bool)
+10	IClientConfigStoreMap::SetInt(EConfigStore,char const*,int)
+11	IClientConfigStoreMap::SetUint64(EConfigStore,char const*,unsigned long long)
+12	IClientConfigStoreMap::SetFloat(EConfigStore,char const*,float)
+13	IClientConfigStoreMap::SetString(EConfigStore,char const*,char const*)
+14	IClientConfigStoreMap::SetBinary(EConfigStore,char const*,unsigned char const*,unsigned int)
+15	IClientConfigStoreMap::SetBinaryWatermarked(EConfigStore,char const*,unsigned char const*,unsigned int)
+16	IClientConfigStoreMap::RemoveKey(EConfigStore,char const*)
+17	IClientConfigStoreMap::GetKeySerialized(EConfigStore,char const*,unsigned char *,int)
+18	IClientConfigStoreMap::FlushToDisk(bool)
+

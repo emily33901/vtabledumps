@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CPulseHapticWorkItem
-// Auto reconstructed from vtable block @ 0x00F01DB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CPulseHapticWorkItem::~CPulseHapticWorkItem()
-1	CPulseHapticWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerWorkItem::DispatchCompletion(void)
-3	CPulseHapticWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPulseHapticWorkItem
+// Auto reconstructed from vtable block @ 0x00F01DB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPulseHapticWorkItem::~CPulseHapticWorkItem()
+1	CPulseHapticWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerWorkItem::DispatchCompletion(void)
+3	CPulseHapticWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

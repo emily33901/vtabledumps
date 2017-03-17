@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSetPrngEntropyWorkItem
-// Auto reconstructed from vtable block @ 0x00F01C80
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSetPrngEntropyWorkItem::~CSetPrngEntropyWorkItem()
-1	CSetPrngEntropyWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerWorkItem::DispatchCompletion(void)
-3	CControllerWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSetPrngEntropyWorkItem
+// Auto reconstructed from vtable block @ 0x00F01C80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSetPrngEntropyWorkItem::~CSetPrngEntropyWorkItem()
+1	CSetPrngEntropyWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

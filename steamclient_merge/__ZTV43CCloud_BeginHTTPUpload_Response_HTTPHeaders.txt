@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CCloud_BeginHTTPUpload_Response_HTTPHeaders
-// Auto reconstructed from vtable block @ 0x00EC1E30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CCloud_BeginHTTPUpload_Response_HTTPHeaders::~CCloud_BeginHTTPUpload_Response_HTTPHeaders()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CCloud_BeginHTTPUpload_Response_HTTPHeaders::New(void)const
-3	CCloud_BeginHTTPUpload_Response_HTTPHeaders::Clear(void)
-4	CCloud_BeginHTTPUpload_Response_HTTPHeaders::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CCloud_BeginHTTPUpload_Response_HTTPHeaders::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CCloud_BeginHTTPUpload_Response_HTTPHeaders::ByteSize(void)const
-90	CCloud_BeginHTTPUpload_Response_HTTPHeaders::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CCloud_BeginHTTPUpload_Response_HTTPHeaders::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CCloud_BeginHTTPUpload_Response_HTTPHeaders::GetCachedSize(void)const
-12	CCloud_BeginHTTPUpload_Response_HTTPHeaders::CopyFrom(google::protobuf::Message const&)
-13	CCloud_BeginHTTPUpload_Response_HTTPHeaders::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCloud_BeginHTTPUpload_Response_HTTPHeaders
+// Auto reconstructed from vtable block @ 0x00EC1E30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCloud_BeginHTTPUpload_Response_HTTPHeaders::~CCloud_BeginHTTPUpload_Response_HTTPHeaders()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CCloud_BeginHTTPUpload_Response_HTTPHeaders::New(void)const
+3	CCloud_BeginHTTPUpload_Response_HTTPHeaders::Clear(void)
+4	CCloud_BeginHTTPUpload_Response_HTTPHeaders::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CCloud_BeginHTTPUpload_Response_HTTPHeaders::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CCloud_BeginHTTPUpload_Response_HTTPHeaders::ByteSize(void)const
+90	CCloud_BeginHTTPUpload_Response_HTTPHeaders::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CCloud_BeginHTTPUpload_Response_HTTPHeaders::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CCloud_BeginHTTPUpload_Response_HTTPHeaders::GetCachedSize(void)const
+12	CCloud_BeginHTTPUpload_Response_HTTPHeaders::CopyFrom(google::protobuf::Message const&)
+13	CCloud_BeginHTTPUpload_Response_HTTPHeaders::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

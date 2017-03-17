@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGameNotifications_OnUserStatusChanged_Notification
-// Auto reconstructed from vtable block @ 0x00EC4A10
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGameNotifications_OnUserStatusChanged_Notification::~CGameNotifications_OnUserStatusChanged_Notification()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CGameNotifications_OnUserStatusChanged_Notification::New(void)const
-3	CGameNotifications_OnUserStatusChanged_Notification::Clear(void)
-4	CGameNotifications_OnUserStatusChanged_Notification::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CGameNotifications_OnUserStatusChanged_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CGameNotifications_OnUserStatusChanged_Notification::ByteSize(void)const
-90	CGameNotifications_OnUserStatusChanged_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CGameNotifications_OnUserStatusChanged_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CGameNotifications_OnUserStatusChanged_Notification::GetCachedSize(void)const
-12	CGameNotifications_OnUserStatusChanged_Notification::CopyFrom(google::protobuf::Message const&)
-13	CGameNotifications_OnUserStatusChanged_Notification::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameNotifications_OnUserStatusChanged_Notification
+// Auto reconstructed from vtable block @ 0x00EC4A10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGameNotifications_OnUserStatusChanged_Notification::~CGameNotifications_OnUserStatusChanged_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CGameNotifications_OnUserStatusChanged_Notification::New(void)const
+3	CGameNotifications_OnUserStatusChanged_Notification::Clear(void)
+4	CGameNotifications_OnUserStatusChanged_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CGameNotifications_OnUserStatusChanged_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CGameNotifications_OnUserStatusChanged_Notification::ByteSize(void)const
+90	CGameNotifications_OnUserStatusChanged_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CGameNotifications_OnUserStatusChanged_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CGameNotifications_OnUserStatusChanged_Notification::GetCachedSize(void)const
+12	CGameNotifications_OnUserStatusChanged_Notification::CopyFrom(google::protobuf::Message const&)
+13	CGameNotifications_OnUserStatusChanged_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

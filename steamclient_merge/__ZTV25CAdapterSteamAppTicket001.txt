@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamAppTicket001
-// Auto reconstructed from vtable block @ 0x00F065A8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamAppTicket001::GetAppOwnershipTicketData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *,unsigned int *,unsigned int *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamAppTicket001
+// Auto reconstructed from vtable block @ 0x00F065A8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamAppTicket001::GetAppOwnershipTicketData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *,unsigned int *,unsigned int *)
+

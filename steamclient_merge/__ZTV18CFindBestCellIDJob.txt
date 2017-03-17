@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CFindBestCellIDJob
-// Auto reconstructed from vtable block @ 0x00ED38B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CFindBestCellIDJob::~CFindBestCellIDJob()
-1	CJob::GetServerType(void)
-2	CFindBestCellIDJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CFindBestCellIDJob::BYieldingRunJob(void *)
-8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFindBestCellIDJob
+// Auto reconstructed from vtable block @ 0x00ED38B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFindBestCellIDJob::~CFindBestCellIDJob()
+1	CJob::GetServerType(void)
+2	CFindBestCellIDJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CFindBestCellIDJob::BYieldingRunJob(void *)
+8	CJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+

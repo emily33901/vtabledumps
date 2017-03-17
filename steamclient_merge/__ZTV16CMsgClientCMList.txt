@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientCMList
-// Auto reconstructed from vtable block @ 0x00EE7700
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientCMList::~CMsgClientCMList()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientCMList::New(void)const
-3	CMsgClientCMList::Clear(void)
-4	CMsgClientCMList::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientCMList::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientCMList::ByteSize(void)const
-90	CMsgClientCMList::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientCMList::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientCMList::GetCachedSize(void)const
-12	CMsgClientCMList::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientCMList::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientCMList::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientCMList::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientCMList
+// Auto reconstructed from vtable block @ 0x00EE7700
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientCMList::~CMsgClientCMList()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientCMList::New(void)const
+3	CMsgClientCMList::Clear(void)
+4	CMsgClientCMList::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientCMList::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientCMList::ByteSize(void)const
+90	CMsgClientCMList::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientCMList::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientCMList::GetCachedSize(void)const
+12	CMsgClientCMList::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientCMList::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientCMList::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientCMList::GetMetadata(void)const
+

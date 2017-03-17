@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CBroadcast_StopBroadcastUpload_Notification
-// Auto reconstructed from vtable block @ 0x00EC17B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CBroadcast_StopBroadcastUpload_Notification::~CBroadcast_StopBroadcastUpload_Notification()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CBroadcast_StopBroadcastUpload_Notification::New(void)const
-3	CBroadcast_StopBroadcastUpload_Notification::Clear(void)
-4	CBroadcast_StopBroadcastUpload_Notification::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CBroadcast_StopBroadcastUpload_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CBroadcast_StopBroadcastUpload_Notification::ByteSize(void)const
-90	CBroadcast_StopBroadcastUpload_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CBroadcast_StopBroadcastUpload_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CBroadcast_StopBroadcastUpload_Notification::GetCachedSize(void)const
-12	CBroadcast_StopBroadcastUpload_Notification::CopyFrom(google::protobuf::Message const&)
-13	CBroadcast_StopBroadcastUpload_Notification::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBroadcast_StopBroadcastUpload_Notification
+// Auto reconstructed from vtable block @ 0x00EC17B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBroadcast_StopBroadcastUpload_Notification::~CBroadcast_StopBroadcastUpload_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CBroadcast_StopBroadcastUpload_Notification::New(void)const
+3	CBroadcast_StopBroadcastUpload_Notification::Clear(void)
+4	CBroadcast_StopBroadcastUpload_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CBroadcast_StopBroadcastUpload_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CBroadcast_StopBroadcastUpload_Notification::ByteSize(void)const
+90	CBroadcast_StopBroadcastUpload_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CBroadcast_StopBroadcastUpload_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CBroadcast_StopBroadcastUpload_Notification::GetCachedSize(void)const
+12	CBroadcast_StopBroadcastUpload_Notification::CopyFrom(google::protobuf::Message const&)
+13	CBroadcast_StopBroadcastUpload_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

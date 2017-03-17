@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CProtoBufHConnectionSendHandler
-// Auto reconstructed from vtable block @ 0x00F2CC58
-// from "steamclient.dylib", by ida_vtables.idc
-0	CProtoBufHConnectionSendHandler::BAsyncSend(EMsg,unsigned char const*,unsigned int)
-1	CProtoBufHConnectionSendHandler::BAsyncSendDatagram(EMsg,unsigned char const*,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CProtoBufHConnectionSendHandler
+// Auto reconstructed from vtable block @ 0x00F2CC58
+// from "steamclient.dylib", by ida_vtables.idc
+0	CProtoBufHConnectionSendHandler::BAsyncSend(EMsg,unsigned char const*,unsigned int)
+1	CProtoBufHConnectionSendHandler::BAsyncSendDatagram(EMsg,unsigned char const*,unsigned int)
+

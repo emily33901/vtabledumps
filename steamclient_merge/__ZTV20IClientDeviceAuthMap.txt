@@ -1,19 +1,19 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientDeviceAuthMap
-// Auto reconstructed from vtable block @ 0x00F0B810
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientDeviceAuthMap::AuthorizeLocalDevice(char const*,unsigned int)
-1	IClientDeviceAuthMap::DeauthorizeLocalDevice(unsigned int)
-2	IClientDeviceAuthMap::DeauthorizeRemoteDevice(unsigned long long)
-3	IClientDeviceAuthMap::RequestAuthorizationInfos(void)
-4	IClientDeviceAuthMap::GetDeviceAuthorizations(unsigned long long *,unsigned int,bool)
-5	IClientDeviceAuthMap::GetDeviceAuthorizationInfo(unsigned long long,unsigned int *,unsigned int *,unsigned int *,bool *,char *,int,char *,int,char *,int,unsigned int *)
-6	IClientDeviceAuthMap::GetAuthorizedBorrowers(unsigned int *,unsigned int)
-7	IClientDeviceAuthMap::GetLocalUsers(unsigned int *,unsigned int)
-8	IClientDeviceAuthMap::GetBorrowerInfo(unsigned int,char *,int,bool *)
-9	IClientDeviceAuthMap::UpdateAuthorizedBorrowers(unsigned int const*,unsigned int,bool)
-10	IClientDeviceAuthMap::GetSharedLibraryLockedBy(unsigned int)
-11	IClientDeviceAuthMap::GetSharedLibraryOwners(unsigned int *,unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientDeviceAuthMap
+// Auto reconstructed from vtable block @ 0x00F0B810
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientDeviceAuthMap::AuthorizeLocalDevice(char const*,unsigned int)
+1	IClientDeviceAuthMap::DeauthorizeLocalDevice(unsigned int)
+2	IClientDeviceAuthMap::DeauthorizeRemoteDevice(unsigned long long)
+3	IClientDeviceAuthMap::RequestAuthorizationInfos(void)
+4	IClientDeviceAuthMap::GetDeviceAuthorizations(unsigned long long *,unsigned int,bool)
+5	IClientDeviceAuthMap::GetDeviceAuthorizationInfo(unsigned long long,unsigned int *,unsigned int *,unsigned int *,bool *,char *,int,char *,int,char *,int,unsigned int *)
+6	IClientDeviceAuthMap::GetAuthorizedBorrowers(unsigned int *,unsigned int)
+7	IClientDeviceAuthMap::GetLocalUsers(unsigned int *,unsigned int)
+8	IClientDeviceAuthMap::GetBorrowerInfo(unsigned int,char *,int,bool *)
+9	IClientDeviceAuthMap::UpdateAuthorizedBorrowers(unsigned int const*,unsigned int,bool)
+10	IClientDeviceAuthMap::GetSharedLibraryLockedBy(unsigned int)
+11	IClientDeviceAuthMap::GetSharedLibraryOwners(unsigned int *,unsigned int)
+

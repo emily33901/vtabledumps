@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientStoreUserStatsResponse_Stats_Failed_Validation
-// Auto reconstructed from vtable block @ 0x00EE9AA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::~CMsgClientStoreUserStatsResponse_Stats_Failed_Validation()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::New(void)const
-3	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::Clear(void)
-4	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::ByteSize(void)const
-90	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::GetCachedSize(void)const
-12	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientStoreUserStatsResponse_Stats_Failed_Validation
+// Auto reconstructed from vtable block @ 0x00EE9AA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::~CMsgClientStoreUserStatsResponse_Stats_Failed_Validation()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::New(void)const
+3	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::Clear(void)
+4	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::ByteSize(void)const
+90	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::GetCachedSize(void)const
+12	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientStoreUserStatsResponse_Stats_Failed_Validation::GetMetadata(void)const
+

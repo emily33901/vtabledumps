@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgSetFocus
-// Auto reconstructed from vtable block @ 0x00ECBAC0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgSetFocus::~CMsgSetFocus()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgSetFocus::New(void)const
-3	CMsgSetFocus::Clear(void)
-4	CMsgSetFocus::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgSetFocus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgSetFocus::ByteSize(void)const
-90	CMsgSetFocus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgSetFocus::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgSetFocus::GetCachedSize(void)const
-12	CMsgSetFocus::CopyFrom(google::protobuf::Message const&)
-13	CMsgSetFocus::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgSetFocus::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgSetFocus::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSetFocus
+// Auto reconstructed from vtable block @ 0x00ECBAC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetFocus::~CMsgSetFocus()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSetFocus::New(void)const
+3	CMsgSetFocus::Clear(void)
+4	CMsgSetFocus::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSetFocus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSetFocus::ByteSize(void)const
+90	CMsgSetFocus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSetFocus::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSetFocus::GetCachedSize(void)const
+12	CMsgSetFocus::CopyFrom(google::protobuf::Message const&)
+13	CMsgSetFocus::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgSetFocus::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgSetFocus::GetMetadata(void)const
+

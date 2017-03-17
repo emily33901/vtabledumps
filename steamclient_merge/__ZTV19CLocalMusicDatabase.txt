@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CLocalMusicDatabase
-// Auto reconstructed from vtable block @ 0x00ED2AE8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CLocalMusicDatabase::~CLocalMusicDatabase()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLocalMusicDatabase
+// Auto reconstructed from vtable block @ 0x00ED2AE8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLocalMusicDatabase::~CLocalMusicDatabase()
+

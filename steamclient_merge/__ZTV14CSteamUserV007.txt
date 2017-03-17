@@ -1,20 +1,20 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteamUserV007
-// Auto reconstructed from vtable block @ 0x00F0AE60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteamUserV007::GetHSteamUser(void)
-1	CSteamUserV007::LogOn(CSteamID)
-2	CSteamUserV007::LogOff(void)
-3	CSteamUserV007::BLoggedOn(void)
-4	CSteamUserV007::GetSteamID(void)
-5	CSteamUserV007::SetRegistryString(EConfigSubTree,char const*,char const*)
-6	CSteamUserV007::GetRegistryString(EConfigSubTree,char const*,char *,int)
-7	CSteamUserV007::SetRegistryInt(EConfigSubTree,char const*,int)
-8	CSteamUserV007::GetRegistryInt(EConfigSubTree,char const*,int *)
-9	CSteamUserV007::InitiateGameConnection(void *,int,CSteamID,CGameID,unsigned int,unsigned short,bool,void *,int)
-10	CSteamUserV007::TerminateGameConnection(unsigned int,unsigned short)
-11	CSteamUserV007::TrackAppUsageEvent(CGameID,int,char const*)
-12	CSteamUserV007::RefreshSteam2Login(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV007
+// Auto reconstructed from vtable block @ 0x00F0AE60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV007::GetHSteamUser(void)
+1	CSteamUserV007::LogOn(CSteamID)
+2	CSteamUserV007::LogOff(void)
+3	CSteamUserV007::BLoggedOn(void)
+4	CSteamUserV007::GetSteamID(void)
+5	CSteamUserV007::SetRegistryString(EConfigSubTree,char const*,char const*)
+6	CSteamUserV007::GetRegistryString(EConfigSubTree,char const*,char *,int)
+7	CSteamUserV007::SetRegistryInt(EConfigSubTree,char const*,int)
+8	CSteamUserV007::GetRegistryInt(EConfigSubTree,char const*,int *)
+9	CSteamUserV007::InitiateGameConnection(void *,int,CSteamID,CGameID,unsigned int,unsigned short,bool,void *,int)
+10	CSteamUserV007::TerminateGameConnection(unsigned int,unsigned short)
+11	CSteamUserV007::TrackAppUsageEvent(CGameID,int,char const*)
+12	CSteamUserV007::RefreshSteam2Login(void)
+

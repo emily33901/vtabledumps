@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientInventory
-// Auto reconstructed from vtable block @ 0x00ECE930
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientInventory::GetResultStatus(int)
-1	CClientInventory::DestroyResult(int)
-2	CClientInventory::GetResultItems(int,SteamItemDetails_t *,unsigned int,unsigned int *)
-3	CClientInventory::GetResultTimestamp(int)
-4	CClientInventory::CheckResultSteamID(int,CSteamID)
-5	CClientInventory::SerializeResult(int,void *,unsigned int,unsigned int *)
-6	CClientInventory::DeserializeResult(int *,void const*,unsigned int,bool)
-7	CClientInventory::GetAllItems(int *)
-8	CClientInventory::GetItemsByID(int *,unsigned long long const*,unsigned int)
-9	CClientInventory::GenerateItems(int *,int const*,unsigned int,unsigned int const*,unsigned int)
-10	CClientInventory::AddPromoItems(int *,int const*,unsigned int)
-11	CClientInventory::ConsumeItem(int *,unsigned long long,unsigned int)
-12	CClientInventory::ExchangeItems(int *,int const*,unsigned int,unsigned int const*,unsigned int,unsigned long long const*,unsigned int,unsigned int const*,unsigned int)
-13	CClientInventory::TransferItemQuantity(int *,unsigned long long,unsigned int,unsigned long long)
-14	CClientInventory::SendItemDropHeartbeat(void)
-15	CClientInventory::TriggerItemDrop(int *,int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientInventory
+// Auto reconstructed from vtable block @ 0x00ECE930
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientInventory::GetResultStatus(int)
+1	CClientInventory::DestroyResult(int)
+2	CClientInventory::GetResultItems(int,SteamItemDetails_t *,unsigned int,unsigned int *)
+3	CClientInventory::GetResultTimestamp(int)
+4	CClientInventory::CheckResultSteamID(int,CSteamID)
+5	CClientInventory::SerializeResult(int,void *,unsigned int,unsigned int *)
+6	CClientInventory::DeserializeResult(int *,void const*,unsigned int,bool)
+7	CClientInventory::GetAllItems(int *)
+8	CClientInventory::GetItemsByID(int *,unsigned long long const*,unsigned int)
+9	CClientInventory::GenerateItems(int *,int const*,unsigned int,unsigned int const*,unsigned int)
+10	CClientInventory::AddPromoItems(int *,int const*,unsigned int)
+11	CClientInventory::ConsumeItem(int *,unsigned long long,unsigned int)
+12	CClientInventory::ExchangeItems(int *,int const*,unsigned int,unsigned int const*,unsigned int,unsigned long long const*,unsigned int,unsigned int const*,unsigned int)
+13	CClientInventory::TransferItemQuantity(int *,unsigned long long,unsigned int,unsigned long long)
+14	CClientInventory::SendItemDropHeartbeat(void)
+15	CClientInventory::TriggerItemDrop(int *,int)
+

@@ -1,22 +1,22 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CVideoClient_UnlockedH264_Job
-// Auto reconstructed from vtable block @ 0x00ECF980
-// from "steamclient.dylib", by ida_vtables.idc
-0	CVideoClient_UnlockedH264_Job::~CVideoClient_UnlockedH264_Job()
-1	CBaseClientJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CVideoClient_UnlockedH264_Job::BYieldingRunJob(void *)
-8	CVideoClient_UnlockedH264_Job::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-12	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
-13	CBaseClientJob::BYieldingRunClientJob(void)
-14	CVideoClient_UnlockedH264_Job::YieldingRunMethod(CUser *,CVideo_UnlockedH264_Notification const&)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVideoClient_UnlockedH264_Job
+// Auto reconstructed from vtable block @ 0x00ECF980
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVideoClient_UnlockedH264_Job::~CVideoClient_UnlockedH264_Job()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CVideoClient_UnlockedH264_Job::BYieldingRunJob(void *)
+8	CVideoClient_UnlockedH264_Job::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+13	CBaseClientJob::BYieldingRunClientJob(void)
+14	CVideoClient_UnlockedH264_Job::YieldingRunMethod(CUser *,CVideo_UnlockedH264_Notification const&)
+

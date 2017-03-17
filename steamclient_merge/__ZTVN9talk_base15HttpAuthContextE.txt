@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'talk_base::HttpAuthContext
-// Auto reconstructed from vtable block @ 0x00F1E2E8
-// from "steamclient.dylib", by ida_vtables.idc
-0	talk_base::HttpAuthContext::~HttpAuthContext()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::HttpAuthContext
+// Auto reconstructed from vtable block @ 0x00F1E2E8
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::HttpAuthContext::~HttpAuthContext()
+

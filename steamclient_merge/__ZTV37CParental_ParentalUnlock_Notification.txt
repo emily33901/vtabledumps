@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CParental_ParentalUnlock_Notification
-// Auto reconstructed from vtable block @ 0x00EC6C20
-// from "steamclient.dylib", by ida_vtables.idc
-0	CParental_ParentalUnlock_Notification::~CParental_ParentalUnlock_Notification()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CParental_ParentalUnlock_Notification::New(void)const
-3	CParental_ParentalUnlock_Notification::Clear(void)
-4	CParental_ParentalUnlock_Notification::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CParental_ParentalUnlock_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CParental_ParentalUnlock_Notification::ByteSize(void)const
-90	CParental_ParentalUnlock_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CParental_ParentalUnlock_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CParental_ParentalUnlock_Notification::GetCachedSize(void)const
-12	CParental_ParentalUnlock_Notification::CopyFrom(google::protobuf::Message const&)
-13	CParental_ParentalUnlock_Notification::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CParental_ParentalUnlock_Notification
+// Auto reconstructed from vtable block @ 0x00EC6C20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CParental_ParentalUnlock_Notification::~CParental_ParentalUnlock_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CParental_ParentalUnlock_Notification::New(void)const
+3	CParental_ParentalUnlock_Notification::Clear(void)
+4	CParental_ParentalUnlock_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CParental_ParentalUnlock_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CParental_ParentalUnlock_Notification::ByteSize(void)const
+90	CParental_ParentalUnlock_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CParental_ParentalUnlock_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CParental_ParentalUnlock_Notification::GetCachedSize(void)const
+12	CParental_ParentalUnlock_Notification::CopyFrom(google::protobuf::Message const&)
+13	CParental_ParentalUnlock_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

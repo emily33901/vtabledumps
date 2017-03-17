@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CRemoteClient
-// Auto reconstructed from vtable block @ 0x00ED31D0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRemoteClient::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRemoteClient
+// Auto reconstructed from vtable block @ 0x00ED31D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRemoteClient::Validate(CValidator &,char const*)
+

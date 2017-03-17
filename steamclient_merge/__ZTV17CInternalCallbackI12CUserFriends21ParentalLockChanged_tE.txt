@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInternalCallback<CUserFriends,ParentalLockChanged_t>
-// Auto reconstructed from vtable block @ 0x00F17024
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInternalCallback<CUserFriends,ParentalLockChanged_t>::Run(void *)
-1	CInternalCallbackBase::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInternalCallback<CUserFriends,ParentalLockChanged_t>
+// Auto reconstructed from vtable block @ 0x00F17024
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CUserFriends,ParentalLockChanged_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)
+

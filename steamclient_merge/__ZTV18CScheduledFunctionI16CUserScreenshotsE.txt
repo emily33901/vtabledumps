@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CScheduledFunction<CUserScreenshots>
-// Auto reconstructed from vtable block @ 0x00F1BAF0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CScheduledFunction<CUserScreenshots>::~CScheduledFunction()
-1	CScheduledFunction<CUserScreenshots>::Run(void)
-2	CBaseScheduledFunction::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CUserScreenshots>
+// Auto reconstructed from vtable block @ 0x00F1BAF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CUserScreenshots>::~CScheduledFunction()
+1	CScheduledFunction<CUserScreenshots>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

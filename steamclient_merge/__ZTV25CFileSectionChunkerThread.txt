@@ -1,13 +1,13 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CFileSectionChunkerThread
-// Auto reconstructed from vtable block @ 0x00EE4AE0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CFileSectionChunkerThread::~CFileSectionChunkerThread()
-1	SteamThreadTools::CThread::Init(void)
-2	CFileSectionChunkerThread::Run(void)
-3	SteamThreadTools::CThread::OnExit(void)
-4	SteamThreadTools::CThread::IsThreadRunning(void)const
-5	SteamThreadTools::CThread::GetThreadProc(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFileSectionChunkerThread
+// Auto reconstructed from vtable block @ 0x00EE4AE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFileSectionChunkerThread::~CFileSectionChunkerThread()
+1	SteamThreadTools::CThread::Init(void)
+2	CFileSectionChunkerThread::Run(void)
+3	SteamThreadTools::CThread::OnExit(void)
+4	SteamThreadTools::CThread::IsThreadRunning(void)const
+5	SteamThreadTools::CThread::GetThreadProc(void)
+

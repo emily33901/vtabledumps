@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IControllerSource
-// Auto reconstructed from vtable block @ 0x00F03640
-// from "steamclient.dylib", by ida_vtables.idc
-0	IControllerSource::~IControllerSource()
-1	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
-2	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
-3	IControllerSource::GetHapticLocation(void)
-4	IControllerSource::SetAntiDrift(Vector)
-5	___cxa_pure_virtual
-6	IControllerSource::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IControllerSource
+// Auto reconstructed from vtable block @ 0x00F03640
+// from "steamclient.dylib", by ida_vtables.idc
+0	IControllerSource::~IControllerSource()
+1	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+2	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+3	IControllerSource::GetHapticLocation(void)
+4	IControllerSource::SetAntiDrift(Vector)
+5	___cxa_pure_virtual
+6	IControllerSource::Validate(CValidator &,char const*)
+

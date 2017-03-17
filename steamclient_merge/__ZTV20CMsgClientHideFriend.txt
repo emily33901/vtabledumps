@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientHideFriend
-// Auto reconstructed from vtable block @ 0x00EEBD20
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientHideFriend::~CMsgClientHideFriend()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientHideFriend::New(void)const
-3	CMsgClientHideFriend::Clear(void)
-4	CMsgClientHideFriend::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientHideFriend::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientHideFriend::ByteSize(void)const
-90	CMsgClientHideFriend::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientHideFriend::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientHideFriend::GetCachedSize(void)const
-12	CMsgClientHideFriend::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientHideFriend::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientHideFriend::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientHideFriend::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientHideFriend
+// Auto reconstructed from vtable block @ 0x00EEBD20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientHideFriend::~CMsgClientHideFriend()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientHideFriend::New(void)const
+3	CMsgClientHideFriend::Clear(void)
+4	CMsgClientHideFriend::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientHideFriend::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientHideFriend::ByteSize(void)const
+90	CMsgClientHideFriend::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientHideFriend::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientHideFriend::GetCachedSize(void)const
+12	CMsgClientHideFriend::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientHideFriend::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientHideFriend::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientHideFriend::GetMetadata(void)const
+

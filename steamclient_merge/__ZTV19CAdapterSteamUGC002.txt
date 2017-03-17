@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamUGC002
-// Auto reconstructed from vtable block @ 0x00F07AA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamUGC002::CreateQueryUserUGCRequest(unsigned int,EUserUGCList,EUGCMatchingUGCType,EUserUGCListSortOrder,unsigned int,unsigned int,unsigned int)
-1	CAdapterSteamUGC002::CreateQueryAllUGCRequest(EUGCQuery,EUGCMatchingUGCType,unsigned int,unsigned int,unsigned int)
-2	CAdapterSteamUGC002::SendQueryUGCRequest(unsigned long long)
-3	CAdapterSteamUGC002::GetQueryUGCResult(unsigned long long,unsigned int,SteamUGCDetails_t *)
-4	CAdapterSteamUGC002::ReleaseQueryUGCRequest(unsigned long long)
-5	CAdapterSteamUGC002::AddRequiredTag(unsigned long long,char const*)
-6	CAdapterSteamUGC002::AddExcludedTag(unsigned long long,char const*)
-7	CAdapterSteamUGC002::SetReturnLongDescription(unsigned long long,bool)
-8	CAdapterSteamUGC002::SetReturnTotalOnly(unsigned long long,bool)
-9	CAdapterSteamUGC002::SetAllowCachedResponse(unsigned long long,unsigned int)
-10	CAdapterSteamUGC002::SetCloudFileNameFilter(unsigned long long,char const*)
-11	CAdapterSteamUGC002::SetMatchAnyTag(unsigned long long,bool)
-12	CAdapterSteamUGC002::SetSearchText(unsigned long long,char const*)
-13	CAdapterSteamUGC002::SetRankedByTrendDays(unsigned long long,unsigned int)
-14	CAdapterSteamUGC002::RequestUGCDetails(unsigned long long,unsigned int)
-15	CAdapterSteamUGC002::CreateItem(unsigned int,EWorkshopFileType)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUGC002
+// Auto reconstructed from vtable block @ 0x00F07AA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUGC002::CreateQueryUserUGCRequest(unsigned int,EUserUGCList,EUGCMatchingUGCType,EUserUGCListSortOrder,unsigned int,unsigned int,unsigned int)
+1	CAdapterSteamUGC002::CreateQueryAllUGCRequest(EUGCQuery,EUGCMatchingUGCType,unsigned int,unsigned int,unsigned int)
+2	CAdapterSteamUGC002::SendQueryUGCRequest(unsigned long long)
+3	CAdapterSteamUGC002::GetQueryUGCResult(unsigned long long,unsigned int,SteamUGCDetails_t *)
+4	CAdapterSteamUGC002::ReleaseQueryUGCRequest(unsigned long long)
+5	CAdapterSteamUGC002::AddRequiredTag(unsigned long long,char const*)
+6	CAdapterSteamUGC002::AddExcludedTag(unsigned long long,char const*)
+7	CAdapterSteamUGC002::SetReturnLongDescription(unsigned long long,bool)
+8	CAdapterSteamUGC002::SetReturnTotalOnly(unsigned long long,bool)
+9	CAdapterSteamUGC002::SetAllowCachedResponse(unsigned long long,unsigned int)
+10	CAdapterSteamUGC002::SetCloudFileNameFilter(unsigned long long,char const*)
+11	CAdapterSteamUGC002::SetMatchAnyTag(unsigned long long,bool)
+12	CAdapterSteamUGC002::SetSearchText(unsigned long long,char const*)
+13	CAdapterSteamUGC002::SetRankedByTrendDays(unsigned long long,unsigned int)
+14	CAdapterSteamUGC002::RequestUGCDetails(unsigned long long,unsigned int)
+15	CAdapterSteamUGC002::CreateItem(unsigned int,EWorkshopFileType)
+

@@ -1,16 +1,16 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'COpenSSLConnection
-// Auto reconstructed from vtable block @ 0x00EE6EA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	COpenSSLConnection::~COpenSSLConnection()
-1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
-2	COpenSSLConnection::RemoveSSLConnectionCallback(ISSLConnectionCallback *)
-3	COpenSSLConnection::BeginHandshake(void)
-4	COpenSSLConnection::RecvPkt(CNetPacket *)
-5	COpenSSLConnection::BAsyncSend(unsigned char const*,unsigned int)
-6	COpenSSLConnection::BAsyncSend(CUtlBuffer &)
-7	COpenSSLConnection::BYieldingWaitForSendsCompleted(CJobMgr *,unsigned long long)
-8	COpenSSLConnection::ShutdownConnection(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'COpenSSLConnection
+// Auto reconstructed from vtable block @ 0x00EE6EA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	COpenSSLConnection::~COpenSSLConnection()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	COpenSSLConnection::RemoveSSLConnectionCallback(ISSLConnectionCallback *)
+3	COpenSSLConnection::BeginHandshake(void)
+4	COpenSSLConnection::RecvPkt(CNetPacket *)
+5	COpenSSLConnection::BAsyncSend(unsigned char const*,unsigned int)
+6	COpenSSLConnection::BAsyncSend(CUtlBuffer &)
+7	COpenSSLConnection::BYieldingWaitForSendsCompleted(CJobMgr *,unsigned long long)
+8	COpenSSLConnection::ShutdownConnection(void)
+

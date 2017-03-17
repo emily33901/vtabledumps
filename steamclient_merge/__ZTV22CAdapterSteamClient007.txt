@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamClient007
-// Auto reconstructed from vtable block @ 0x00F05FC0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamClient007::CreateSteamPipe(void)
-1	CAdapterSteamClient007::BReleaseSteamPipe(int)
-2	CAdapterSteamClient007::ConnectToGlobalUser(int)
-3	CAdapterSteamClient007::CreateLocalUser(int *)
-4	CAdapterSteamClient007::ReleaseUser(int,int)
-5	CAdapterSteamClient007::GetISteamUser(int,int,char const*)
-6	CAdapterSteamClient007::GetISteamGameServer(int,int,char const*)
-7	CAdapterSteamClient007::SetLocalIPBinding(unsigned int,unsigned short)
-8	CAdapterSteamClient007::GetISteamFriends(int,int,char const*)
-9	CAdapterSteamClient007::GetISteamUtils(int,char const*)
-10	CAdapterSteamClient007::GetISteamMatchmaking(int,int,char const*)
-11	CAdapterSteamClient007::GetISteamContentServer(int,int,char const*)
-12	CAdapterSteamClient007::GetISteamMasterServerUpdater(int,int,char const*)
-13	CAdapterSteamClient007::GetISteamMatchmakingServers(int,int,char const*)
-14	CAdapterSteamClient007::GetISteamGenericInterface(int,int,char const*)
-15	CAdapterSteamClient007::RunFrame(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamClient007
+// Auto reconstructed from vtable block @ 0x00F05FC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamClient007::CreateSteamPipe(void)
+1	CAdapterSteamClient007::BReleaseSteamPipe(int)
+2	CAdapterSteamClient007::ConnectToGlobalUser(int)
+3	CAdapterSteamClient007::CreateLocalUser(int *)
+4	CAdapterSteamClient007::ReleaseUser(int,int)
+5	CAdapterSteamClient007::GetISteamUser(int,int,char const*)
+6	CAdapterSteamClient007::GetISteamGameServer(int,int,char const*)
+7	CAdapterSteamClient007::SetLocalIPBinding(unsigned int,unsigned short)
+8	CAdapterSteamClient007::GetISteamFriends(int,int,char const*)
+9	CAdapterSteamClient007::GetISteamUtils(int,char const*)
+10	CAdapterSteamClient007::GetISteamMatchmaking(int,int,char const*)
+11	CAdapterSteamClient007::GetISteamContentServer(int,int,char const*)
+12	CAdapterSteamClient007::GetISteamMasterServerUpdater(int,int,char const*)
+13	CAdapterSteamClient007::GetISteamMatchmakingServers(int,int,char const*)
+14	CAdapterSteamClient007::GetISteamGenericInterface(int,int,char const*)
+15	CAdapterSteamClient007::RunFrame(void)
+

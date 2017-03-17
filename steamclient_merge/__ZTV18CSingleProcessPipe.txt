@@ -1,22 +1,22 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSingleProcessPipe
-// Auto reconstructed from vtable block @ 0x00EC0C70
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSingleProcessPipe::~CSingleProcessPipe()
-1	CSingleProcessPipe::BCreatePipe(char const*,bool,unsigned int,unsigned int,unsigned int)
-2	CSingleProcessPipe::BAcceptConnection(IProcessPipe **)
-3	CSingleProcessPipe::BConnectToPipe(char const*,bool,unsigned int,unsigned int,unsigned int)
-4	CSingleProcessPipe::BResetPipeState(void)
-5	CSingleProcessPipe::Shutdown(void)
-6	CSingleProcessPipe::BWrite(CUtlBuffer &,bool)
-7	CSingleProcessPipe::BPeek(unsigned char *)
-8	CSingleProcessPipe::BRead(CUtlBuffer &)
-90	CSingleProcessPipe::BWait(unsigned int,bool)
-10	CSingleProcessPipe::Reset(void)
-11	CSingleProcessPipe::HangupPipe(void)
-12	CSingleProcessPipe::GetRecvSyncObject(void)
-13	CSingleProcessPipe::BIsDisconnected(void)
-14	CSingleProcessPipe::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSingleProcessPipe
+// Auto reconstructed from vtable block @ 0x00EC0C70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSingleProcessPipe::~CSingleProcessPipe()
+1	CSingleProcessPipe::BCreatePipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+2	CSingleProcessPipe::BAcceptConnection(IProcessPipe **)
+3	CSingleProcessPipe::BConnectToPipe(char const*,bool,unsigned int,unsigned int,unsigned int)
+4	CSingleProcessPipe::BResetPipeState(void)
+5	CSingleProcessPipe::Shutdown(void)
+6	CSingleProcessPipe::BWrite(CUtlBuffer &,bool)
+7	CSingleProcessPipe::BPeek(unsigned char *)
+8	CSingleProcessPipe::BRead(CUtlBuffer &)
+90	CSingleProcessPipe::BWait(unsigned int,bool)
+10	CSingleProcessPipe::Reset(void)
+11	CSingleProcessPipe::HangupPipe(void)
+12	CSingleProcessPipe::GetRecvSyncObject(void)
+13	CSingleProcessPipe::BIsDisconnected(void)
+14	CSingleProcessPipe::Validate(CValidator &,char const*)
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientStat2
-// Auto reconstructed from vtable block @ 0x00EE8C00
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientStat2::~CMsgClientStat2()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientStat2::New(void)const
-3	CMsgClientStat2::Clear(void)
-4	CMsgClientStat2::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientStat2::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientStat2::ByteSize(void)const
-90	CMsgClientStat2::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientStat2::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientStat2::GetCachedSize(void)const
-12	CMsgClientStat2::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientStat2::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientStat2
+// Auto reconstructed from vtable block @ 0x00EE8C00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientStat2::~CMsgClientStat2()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientStat2::New(void)const
+3	CMsgClientStat2::Clear(void)
+4	CMsgClientStat2::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientStat2::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientStat2::ByteSize(void)const
+90	CMsgClientStat2::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientStat2::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientStat2::GetCachedSize(void)const
+12	CMsgClientStat2::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientStat2::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

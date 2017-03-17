@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CUserMatchmaking
-// Auto reconstructed from vtable block @ 0x00ED4A30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CUserMatchmaking::RequestLobbyList(void)
-1	CUserMatchmaking::AddRequestLobbyListStringFilter(char const*,char const*,ELobbyComparison)
-2	CUserMatchmaking::AddRequestLobbyListNumericalFilter(char const*,int,ELobbyComparison)
-3	CUserMatchmaking::AddRequestLobbyListNearValueFilter(char const*,int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUserMatchmaking
+// Auto reconstructed from vtable block @ 0x00ED4A30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUserMatchmaking::RequestLobbyList(void)
+1	CUserMatchmaking::AddRequestLobbyListStringFilter(char const*,char const*,ELobbyComparison)
+2	CUserMatchmaking::AddRequestLobbyListNumericalFilter(char const*,int,ELobbyComparison)
+3	CUserMatchmaking::AddRequestLobbyListNearValueFilter(char const*,int)
+

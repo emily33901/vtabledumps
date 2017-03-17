@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientMMSGetLobbyListResponse
-// Auto reconstructed from vtable block @ 0x00EE9020
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientMMSGetLobbyListResponse::~CMsgClientMMSGetLobbyListResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientMMSGetLobbyListResponse::New(void)const
-3	CMsgClientMMSGetLobbyListResponse::Clear(void)
-4	CMsgClientMMSGetLobbyListResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientMMSGetLobbyListResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientMMSGetLobbyListResponse::ByteSize(void)const
-90	CMsgClientMMSGetLobbyListResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientMMSGetLobbyListResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientMMSGetLobbyListResponse::GetCachedSize(void)const
-12	CMsgClientMMSGetLobbyListResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientMMSGetLobbyListResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientMMSGetLobbyListResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientMMSGetLobbyListResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientMMSGetLobbyListResponse
+// Auto reconstructed from vtable block @ 0x00EE9020
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientMMSGetLobbyListResponse::~CMsgClientMMSGetLobbyListResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientMMSGetLobbyListResponse::New(void)const
+3	CMsgClientMMSGetLobbyListResponse::Clear(void)
+4	CMsgClientMMSGetLobbyListResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientMMSGetLobbyListResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientMMSGetLobbyListResponse::ByteSize(void)const
+90	CMsgClientMMSGetLobbyListResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientMMSGetLobbyListResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientMMSGetLobbyListResponse::GetCachedSize(void)const
+12	CMsgClientMMSGetLobbyListResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientMMSGetLobbyListResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientMMSGetLobbyListResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientMMSGetLobbyListResponse::GetMetadata(void)const
+

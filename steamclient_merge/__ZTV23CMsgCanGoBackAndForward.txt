@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgCanGoBackAndForward
-// Auto reconstructed from vtable block @ 0x00ECCEA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgCanGoBackAndForward::~CMsgCanGoBackAndForward()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgCanGoBackAndForward::New(void)const
-3	CMsgCanGoBackAndForward::Clear(void)
-4	CMsgCanGoBackAndForward::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgCanGoBackAndForward::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgCanGoBackAndForward::ByteSize(void)const
-90	CMsgCanGoBackAndForward::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgCanGoBackAndForward::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgCanGoBackAndForward::GetCachedSize(void)const
-12	CMsgCanGoBackAndForward::CopyFrom(google::protobuf::Message const&)
-13	CMsgCanGoBackAndForward::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgCanGoBackAndForward
+// Auto reconstructed from vtable block @ 0x00ECCEA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgCanGoBackAndForward::~CMsgCanGoBackAndForward()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgCanGoBackAndForward::New(void)const
+3	CMsgCanGoBackAndForward::Clear(void)
+4	CMsgCanGoBackAndForward::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgCanGoBackAndForward::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgCanGoBackAndForward::ByteSize(void)const
+90	CMsgCanGoBackAndForward::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgCanGoBackAndForward::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgCanGoBackAndForward::GetCachedSize(void)const
+12	CMsgCanGoBackAndForward::CopyFrom(google::protobuf::Message const&)
+13	CMsgCanGoBackAndForward::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

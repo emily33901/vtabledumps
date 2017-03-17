@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgStatusText
-// Auto reconstructed from vtable block @ 0x00ECC540
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgStatusText::~CMsgStatusText()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgStatusText::New(void)const
-3	CMsgStatusText::Clear(void)
-4	CMsgStatusText::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgStatusText::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgStatusText::ByteSize(void)const
-90	CMsgStatusText::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgStatusText::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgStatusText::GetCachedSize(void)const
-12	CMsgStatusText::CopyFrom(google::protobuf::Message const&)
-13	CMsgStatusText::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgStatusText::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgStatusText::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgStatusText
+// Auto reconstructed from vtable block @ 0x00ECC540
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgStatusText::~CMsgStatusText()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgStatusText::New(void)const
+3	CMsgStatusText::Clear(void)
+4	CMsgStatusText::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgStatusText::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgStatusText::ByteSize(void)const
+90	CMsgStatusText::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgStatusText::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgStatusText::GetCachedSize(void)const
+12	CMsgStatusText::CopyFrom(google::protobuf::Message const&)
+13	CMsgStatusText::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgStatusText::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgStatusText::GetMetadata(void)const
+

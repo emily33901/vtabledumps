@@ -1,38 +1,38 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CValveSocketClient
-// Auto reconstructed from vtable block @ 0x00EF2270
-// from "steamclient.dylib", by ida_vtables.idc
-0	CValveSocketClient::OnTcpOpen(cricket::PseudoTcp *)
-1	SocketClient::OnTcpReadable(cricket::PseudoTcp *)
-2	SocketClient::OnTcpWriteable(cricket::PseudoTcp *)
-3	SocketClient::OnTcpClosed(cricket::PseudoTcp *,unsigned int)
-4	SocketClient::TcpWritePacket(cricket::PseudoTcp *,char const*,unsigned long)
-5	CValveSocketClient::~CValveSocketClient()
-6	CValveSocketClient::GetSocketType(void)const
-7	SocketClient::GetSteamID(void)const
-8	SocketClient::Init(void)
-90	SocketClient::Close(bool,EP2PDisconnectReason)
-10	CValveSocketClient::Think(void)
-11	CValveSocketClient::CanSend(void)const
-12	SocketClient::Send(char const*,unsigned int,eSocketType,bool)
-13	CValveSocketClient::MessageWaiting(void)const
-14	CValveSocketClient::GetMessageSize(void)const
-15	SocketClient::ReceiveMessage(talk_base::ByteBuffer **)
-16	CValveSocketClient::IsWritable(void)const
-17	CValveSocketClient::IsReadable(void)const
-18	CValveSocketClient::IsDead(void)const
-19	CValveSocketClient::GetDisconnectReason(void)const
-20	CValveSocketClient::GetFlow(int)const
-21	CValveSocketClient::OnCandidatesReady(cricket::TransportChannelImpl *,buzz::XmlElement *)
-22	SocketClient::OnTransportSendMessage(cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)
-23	CValveSocketClient::SetTimeout(unsigned int)
-24	CValveSocketClient::GetTimeout(void)const
-25	CValveSocketClient::GetLocalAddress(char *,unsigned long)
-26	CValveSocketClient::GetRemoteAddress(char *,unsigned long)
-27	CValveSocketClient::GetRemoteNetadr(void)const
-28	CValveSocketClient::SetPortTypes(unsigned int)
-29	CValveSocketClient::BUsingRelay(void)const
-30	CValveSocketClient::OnBestConnectionChange(char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CValveSocketClient
+// Auto reconstructed from vtable block @ 0x00EF2270
+// from "steamclient.dylib", by ida_vtables.idc
+0	CValveSocketClient::OnTcpOpen(cricket::PseudoTcp *)
+1	SocketClient::OnTcpReadable(cricket::PseudoTcp *)
+2	SocketClient::OnTcpWriteable(cricket::PseudoTcp *)
+3	SocketClient::OnTcpClosed(cricket::PseudoTcp *,unsigned int)
+4	SocketClient::TcpWritePacket(cricket::PseudoTcp *,char const*,unsigned long)
+5	CValveSocketClient::~CValveSocketClient()
+6	CValveSocketClient::GetSocketType(void)const
+7	SocketClient::GetSteamID(void)const
+8	SocketClient::Init(void)
+90	SocketClient::Close(bool,EP2PDisconnectReason)
+10	CValveSocketClient::Think(void)
+11	CValveSocketClient::CanSend(void)const
+12	SocketClient::Send(char const*,unsigned int,eSocketType,bool)
+13	CValveSocketClient::MessageWaiting(void)const
+14	CValveSocketClient::GetMessageSize(void)const
+15	SocketClient::ReceiveMessage(talk_base::ByteBuffer **)
+16	CValveSocketClient::IsWritable(void)const
+17	CValveSocketClient::IsReadable(void)const
+18	CValveSocketClient::IsDead(void)const
+19	CValveSocketClient::GetDisconnectReason(void)const
+20	CValveSocketClient::GetFlow(int)const
+21	CValveSocketClient::OnCandidatesReady(cricket::TransportChannelImpl *,buzz::XmlElement *)
+22	SocketClient::OnTransportSendMessage(cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)
+23	CValveSocketClient::SetTimeout(unsigned int)
+24	CValveSocketClient::GetTimeout(void)const
+25	CValveSocketClient::GetLocalAddress(char *,unsigned long)
+26	CValveSocketClient::GetRemoteAddress(char *,unsigned long)
+27	CValveSocketClient::GetRemoteNetadr(void)const
+28	CValveSocketClient::SetPortTypes(unsigned int)
+29	CValveSocketClient::BUsingRelay(void)const
+30	CValveSocketClient::OnBestConnectionChange(char const*)
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgBuffer
-// Auto reconstructed from vtable block @ 0x00EE6A60
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgBuffer::~CMsgBuffer()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgBuffer
+// Auto reconstructed from vtable block @ 0x00EE6A60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgBuffer::~CMsgBuffer()
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgFind
-// Auto reconstructed from vtable block @ 0x00ECBCA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgFind::~CMsgFind()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgFind::New(void)const
-3	CMsgFind::Clear(void)
-4	CMsgFind::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgFind::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgFind::ByteSize(void)const
-90	CMsgFind::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgFind::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgFind::GetCachedSize(void)const
-12	CMsgFind::CopyFrom(google::protobuf::Message const&)
-13	CMsgFind::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgFind
+// Auto reconstructed from vtable block @ 0x00ECBCA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgFind::~CMsgFind()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgFind::New(void)const
+3	CMsgFind::Clear(void)
+4	CMsgFind::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgFind::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgFind::ByteSize(void)const
+90	CMsgFind::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgFind::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgFind::GetCachedSize(void)const
+12	CMsgFind::CopyFrom(google::protobuf::Message const&)
+13	CMsgFind::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

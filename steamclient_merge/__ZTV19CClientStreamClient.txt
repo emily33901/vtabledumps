@@ -1,17 +1,17 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientStreamClient
-// Auto reconstructed from vtable block @ 0x00ECF640
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientStreamClient::Launched(CGameID)
-1	CClientStreamClient::FocusGained(CGameID,bool)
-2	CClientStreamClient::FocusLost(CGameID)
-3	CClientStreamClient::Finished(CGameID,EResult)
-4	CClientStreamClient::SaveStreamingClientConfig(char const*)
-5	CClientStreamClient::GetFocusInfo(CGameID *,unsigned long long *)
-6	CClientStreamClient::GetSystemInfo(void)
-7	CClientStreamClient::StartStreamingSession(CGameID)
-8	CClientStreamClient::ReportStreamingSessionEvent(CGameID,char const*)
-9	CClientStreamClient::FinishStreamingSession(CGameID,char const*,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientStreamClient
+// Auto reconstructed from vtable block @ 0x00ECF640
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientStreamClient::Launched(CGameID)
+1	CClientStreamClient::FocusGained(CGameID,bool)
+2	CClientStreamClient::FocusLost(CGameID)
+3	CClientStreamClient::Finished(CGameID,EResult)
+4	CClientStreamClient::SaveStreamingClientConfig(char const*)
+5	CClientStreamClient::GetFocusInfo(CGameID *,unsigned long long *)
+6	CClientStreamClient::GetSystemInfo(void)
+7	CClientStreamClient::StartStreamingSession(CGameID)
+8	CClientStreamClient::ReportStreamingSessionEvent(CGameID,char const*)
+9	CClientStreamClient::FinishStreamingSession(CGameID,char const*,char const*)
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamRemoteStorage010
-// Auto reconstructed from vtable block @ 0x00F08930
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamRemoteStorage010::FileWrite(char const*,void const*,int)
-1	CAdapterSteamRemoteStorage010::FileRead(char const*,void *,int)
-2	CAdapterSteamRemoteStorage010::FileForget(char const*)
-3	CAdapterSteamRemoteStorage010::FileDelete(char const*)
-4	CAdapterSteamRemoteStorage010::FileShare(char const*)
-5	CAdapterSteamRemoteStorage010::SetSyncPlatforms(char const*,ERemoteStoragePlatform)
-6	CAdapterSteamRemoteStorage010::FileWriteStreamOpen(char const*)
-7	CAdapterSteamRemoteStorage010::FileWriteStreamWriteChunk(unsigned long long,void const*,int)
-8	CAdapterSteamRemoteStorage010::FileWriteStreamClose(unsigned long long)
-9	CAdapterSteamRemoteStorage010::FileWriteStreamCancel(unsigned long long)
-10	CAdapterSteamRemoteStorage010::FileExists(char const*)
-11	CAdapterSteamRemoteStorage010::FilePersisted(char const*)
-12	CAdapterSteamRemoteStorage010::GetFileSize(char const*)
-13	CAdapterSteamRemoteStorage010::GetFileTimestamp(char const*)
-14	CAdapterSteamRemoteStorage010::GetSyncPlatforms(char const*)
-15	CAdapterSteamRemoteStorage010::GetFileCount(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamRemoteStorage010
+// Auto reconstructed from vtable block @ 0x00F08930
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamRemoteStorage010::FileWrite(char const*,void const*,int)
+1	CAdapterSteamRemoteStorage010::FileRead(char const*,void *,int)
+2	CAdapterSteamRemoteStorage010::FileForget(char const*)
+3	CAdapterSteamRemoteStorage010::FileDelete(char const*)
+4	CAdapterSteamRemoteStorage010::FileShare(char const*)
+5	CAdapterSteamRemoteStorage010::SetSyncPlatforms(char const*,ERemoteStoragePlatform)
+6	CAdapterSteamRemoteStorage010::FileWriteStreamOpen(char const*)
+7	CAdapterSteamRemoteStorage010::FileWriteStreamWriteChunk(unsigned long long,void const*,int)
+8	CAdapterSteamRemoteStorage010::FileWriteStreamClose(unsigned long long)
+9	CAdapterSteamRemoteStorage010::FileWriteStreamCancel(unsigned long long)
+10	CAdapterSteamRemoteStorage010::FileExists(char const*)
+11	CAdapterSteamRemoteStorage010::FilePersisted(char const*)
+12	CAdapterSteamRemoteStorage010::GetFileSize(char const*)
+13	CAdapterSteamRemoteStorage010::GetFileTimestamp(char const*)
+14	CAdapterSteamRemoteStorage010::GetSyncPlatforms(char const*)
+15	CAdapterSteamRemoteStorage010::GetFileCount(void)
+

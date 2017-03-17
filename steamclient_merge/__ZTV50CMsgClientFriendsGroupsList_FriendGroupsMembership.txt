@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientFriendsGroupsList_FriendGroupsMembership
-// Auto reconstructed from vtable block @ 0x00EE7FA0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientFriendsGroupsList_FriendGroupsMembership::~CMsgClientFriendsGroupsList_FriendGroupsMembership()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientFriendsGroupsList_FriendGroupsMembership::New(void)const
-3	CMsgClientFriendsGroupsList_FriendGroupsMembership::Clear(void)
-4	CMsgClientFriendsGroupsList_FriendGroupsMembership::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientFriendsGroupsList_FriendGroupsMembership::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientFriendsGroupsList_FriendGroupsMembership::ByteSize(void)const
-90	CMsgClientFriendsGroupsList_FriendGroupsMembership::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientFriendsGroupsList_FriendGroupsMembership::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientFriendsGroupsList_FriendGroupsMembership::GetCachedSize(void)const
-12	CMsgClientFriendsGroupsList_FriendGroupsMembership::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientFriendsGroupsList_FriendGroupsMembership::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientFriendsGroupsList_FriendGroupsMembership::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientFriendsGroupsList_FriendGroupsMembership::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientFriendsGroupsList_FriendGroupsMembership
+// Auto reconstructed from vtable block @ 0x00EE7FA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientFriendsGroupsList_FriendGroupsMembership::~CMsgClientFriendsGroupsList_FriendGroupsMembership()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientFriendsGroupsList_FriendGroupsMembership::New(void)const
+3	CMsgClientFriendsGroupsList_FriendGroupsMembership::Clear(void)
+4	CMsgClientFriendsGroupsList_FriendGroupsMembership::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientFriendsGroupsList_FriendGroupsMembership::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientFriendsGroupsList_FriendGroupsMembership::ByteSize(void)const
+90	CMsgClientFriendsGroupsList_FriendGroupsMembership::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientFriendsGroupsList_FriendGroupsMembership::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientFriendsGroupsList_FriendGroupsMembership::GetCachedSize(void)const
+12	CMsgClientFriendsGroupsList_FriendGroupsMembership::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientFriendsGroupsList_FriendGroupsMembership::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientFriendsGroupsList_FriendGroupsMembership::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientFriendsGroupsList_FriendGroupsMembership::GetMetadata(void)const
+

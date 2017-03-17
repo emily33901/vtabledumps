@@ -1,22 +1,22 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CRemoteDeviceJobStartStreaming
-// Auto reconstructed from vtable block @ 0x00ED30F0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRemoteDeviceJobStartStreaming::~CRemoteDeviceJobStartStreaming()
-1	CBaseRemoteClientJob::GetServerType(void)
-2	CJob::Validate(CValidator &,char const*)
-3	CJob::TEST_BIsLongRunning(void)
-4	CJob::MsgTraceReportJobBlocking(char const*)
-5	CJob::MsgTraceReportJobUnblocking(void)
-6	CJob::DescribeWork(CUtlStringBuilder &)
-7	CBaseRemoteClientJob::BYieldingRunJob(void *)
-8	CBaseRemoteClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
-90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
-10	CJob::MsgTraceReportJobStarted(void)
-11	CJob::MsgTraceReportJobFinished(void)
-12	CBaseRemoteClientJob::BYieldingRunClientJob(IMsgNetPacket *)
-13	CRemoteDeviceJobStartStreaming::BYieldingRunClientJob(void)
-14	CBaseRemoteClientJob::TimeoutWaitForUIEvent(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRemoteDeviceJobStartStreaming
+// Auto reconstructed from vtable block @ 0x00ED30F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRemoteDeviceJobStartStreaming::~CRemoteDeviceJobStartStreaming()
+1	CBaseRemoteClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CBaseRemoteClientJob::BYieldingRunJob(void *)
+8	CBaseRemoteClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CBaseRemoteClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+13	CRemoteDeviceJobStartStreaming::BYieldingRunClientJob(void)
+14	CBaseRemoteClientJob::TimeoutWaitForUIEvent(void)
+

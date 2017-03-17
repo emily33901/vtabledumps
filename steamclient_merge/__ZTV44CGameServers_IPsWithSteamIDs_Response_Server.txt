@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CGameServers_IPsWithSteamIDs_Response_Server
-// Auto reconstructed from vtable block @ 0x00EC4D40
-// from "steamclient.dylib", by ida_vtables.idc
-0	CGameServers_IPsWithSteamIDs_Response_Server::~CGameServers_IPsWithSteamIDs_Response_Server()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CGameServers_IPsWithSteamIDs_Response_Server::New(void)const
-3	CGameServers_IPsWithSteamIDs_Response_Server::Clear(void)
-4	CGameServers_IPsWithSteamIDs_Response_Server::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CGameServers_IPsWithSteamIDs_Response_Server::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CGameServers_IPsWithSteamIDs_Response_Server::ByteSize(void)const
-90	CGameServers_IPsWithSteamIDs_Response_Server::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CGameServers_IPsWithSteamIDs_Response_Server::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CGameServers_IPsWithSteamIDs_Response_Server::GetCachedSize(void)const
-12	CGameServers_IPsWithSteamIDs_Response_Server::CopyFrom(google::protobuf::Message const&)
-13	CGameServers_IPsWithSteamIDs_Response_Server::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CGameServers_IPsWithSteamIDs_Response_Server::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CGameServers_IPsWithSteamIDs_Response_Server::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameServers_IPsWithSteamIDs_Response_Server
+// Auto reconstructed from vtable block @ 0x00EC4D40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGameServers_IPsWithSteamIDs_Response_Server::~CGameServers_IPsWithSteamIDs_Response_Server()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CGameServers_IPsWithSteamIDs_Response_Server::New(void)const
+3	CGameServers_IPsWithSteamIDs_Response_Server::Clear(void)
+4	CGameServers_IPsWithSteamIDs_Response_Server::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CGameServers_IPsWithSteamIDs_Response_Server::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CGameServers_IPsWithSteamIDs_Response_Server::ByteSize(void)const
+90	CGameServers_IPsWithSteamIDs_Response_Server::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CGameServers_IPsWithSteamIDs_Response_Server::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CGameServers_IPsWithSteamIDs_Response_Server::GetCachedSize(void)const
+12	CGameServers_IPsWithSteamIDs_Response_Server::CopyFrom(google::protobuf::Message const&)
+13	CGameServers_IPsWithSteamIDs_Response_Server::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CGameServers_IPsWithSteamIDs_Response_Server::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CGameServers_IPsWithSteamIDs_Response_Server::GetMetadata(void)const
+

@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>
-// Auto reconstructed from vtable block @ 0x00F0DAF0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::Init(CSysModule *)
-1	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::Release(void)
-2	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>
+// Auto reconstructed from vtable block @ 0x00F0DAF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::Init(CSysModule *)
+1	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::Release(void)
+2	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<bool (*)(sp_session *,sp_playlist *)>::GetNextPointer(void)
+

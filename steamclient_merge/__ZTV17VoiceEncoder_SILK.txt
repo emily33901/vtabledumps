@@ -1,14 +1,14 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'VoiceEncoder_SILK
-// Auto reconstructed from vtable block @ 0x00ECB040
-// from "steamclient.dylib", by ida_vtables.idc
-0	VoiceEncoder_SILK::~VoiceEncoder_SILK()
-1	VoiceEncoder_SILK::Init(int,int)
-2	VoiceEncoder_SILK::Release(void)
-3	VoiceEncoder_SILK::Compress(char const*,int,char *,int,bool)
-4	VoiceEncoder_SILK::Decompress(char const*,int,char *,int)
-5	VoiceEncoder_SILK::ResetState(void)
-6	VoiceEncoder_SILK::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'VoiceEncoder_SILK
+// Auto reconstructed from vtable block @ 0x00ECB040
+// from "steamclient.dylib", by ida_vtables.idc
+0	VoiceEncoder_SILK::~VoiceEncoder_SILK()
+1	VoiceEncoder_SILK::Init(int,int)
+2	VoiceEncoder_SILK::Release(void)
+3	VoiceEncoder_SILK::Compress(char const*,int,char *,int,bool)
+4	VoiceEncoder_SILK::Decompress(char const*,int,char *,int)
+5	VoiceEncoder_SILK::ResetState(void)
+6	VoiceEncoder_SILK::Validate(CValidator &,char const*)
+

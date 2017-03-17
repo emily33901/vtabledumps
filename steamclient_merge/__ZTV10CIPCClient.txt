@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CIPCClient
-// Auto reconstructed from vtable block @ 0x00EC0A30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CIPCClient::~CIPCClient()
-1	CIPCClient::OnDebugTextArrived(char const*)
-2	CIPCClient::OnThreadLocalRegistration(void)
-3	CIPCClient::OnThreadBuffersOverLimit(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CIPCClient
+// Auto reconstructed from vtable block @ 0x00EC0A30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CIPCClient::~CIPCClient()
+1	CIPCClient::OnDebugTextArrived(char const*)
+2	CIPCClient::OnThreadLocalRegistration(void)
+3	CIPCClient::OnThreadBuffersOverLimit(void)
+

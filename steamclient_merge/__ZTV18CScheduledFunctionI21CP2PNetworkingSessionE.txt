@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CScheduledFunction<CP2PNetworkingSession>
-// Auto reconstructed from vtable block @ 0x00EFD990
-// from "steamclient.dylib", by ida_vtables.idc
-0	CScheduledFunction<CP2PNetworkingSession>::~CScheduledFunction()
-1	CScheduledFunction<CP2PNetworkingSession>::Run(void)
-2	CBaseScheduledFunction::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CP2PNetworkingSession>
+// Auto reconstructed from vtable block @ 0x00EFD990
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CP2PNetworkingSession>::~CScheduledFunction()
+1	CScheduledFunction<CP2PNetworkingSession>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

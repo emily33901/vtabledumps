@@ -1,25 +1,25 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientVRMap
-// Auto reconstructed from vtable block @ 0x00F0B2E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	IClientVRMap::GetCurrentHmd(void)
-1	IClientVRMap::GetCompositor(void)
-2	IClientVRMap::GetOverlay(void)
-3	IClientVRMap::GetChaperone(void)
-4	IClientVRMap::GetSettings(void)
-5	IClientVRMap::GetExternalEventSource(void)
-6	IClientVRMap::GetOverlayHandle(void)
-7	IClientVRMap::IsHmdPresent(void)
-8	IClientVRMap::UpdateHmdStatus(void)
-9	IClientVRMap::IsVRModeActive(void)
-10	IClientVRMap::InitVR(bool,EClientVRError *,vr::EVRInitError *)
-11	IClientVRMap::StartSteamVR(char const*)
-12	IClientVRMap::CleanupVR(void)
-13	IClientVRMap::QuitAllVR(void)
-14	IClientVRMap::QuitApplication(unsigned int)
-15	IClientVRMap::GetStringForHmdError(vr::EVRInitError)
-16	IClientVRMap::LaunchApplication(char const*)
-17	IClientVRMap::GetSteamVRAppId(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientVRMap
+// Auto reconstructed from vtable block @ 0x00F0B2E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientVRMap::GetCurrentHmd(void)
+1	IClientVRMap::GetCompositor(void)
+2	IClientVRMap::GetOverlay(void)
+3	IClientVRMap::GetChaperone(void)
+4	IClientVRMap::GetSettings(void)
+5	IClientVRMap::GetExternalEventSource(void)
+6	IClientVRMap::GetOverlayHandle(void)
+7	IClientVRMap::IsHmdPresent(void)
+8	IClientVRMap::UpdateHmdStatus(void)
+9	IClientVRMap::IsVRModeActive(void)
+10	IClientVRMap::InitVR(bool,EClientVRError *,vr::EVRInitError *)
+11	IClientVRMap::StartSteamVR(char const*)
+12	IClientVRMap::CleanupVR(void)
+13	IClientVRMap::QuitAllVR(void)
+14	IClientVRMap::QuitApplication(unsigned int)
+15	IClientVRMap::GetStringForHmdError(vr::EVRInitError)
+16	IClientVRMap::LaunchApplication(char const*)
+17	IClientVRMap::GetSteamVRAppId(void)
+

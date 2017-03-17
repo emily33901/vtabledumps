@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CAdapterSteamClient013
-// Auto reconstructed from vtable block @ 0x00F06240
-// from "steamclient.dylib", by ida_vtables.idc
-0	CAdapterSteamClient013::CreateSteamPipe(void)
-1	CAdapterSteamClient013::BReleaseSteamPipe(int)
-2	CAdapterSteamClient013::ConnectToGlobalUser(int)
-3	CAdapterSteamClient013::CreateLocalUser(int *,EAccountType)
-4	CAdapterSteamClient013::ReleaseUser(int,int)
-5	CAdapterSteamClient013::GetISteamUser(int,int,char const*)
-6	CAdapterSteamClient013::GetISteamGameServer(int,int,char const*)
-7	CAdapterSteamClient013::SetLocalIPBinding(unsigned int,unsigned short)
-8	CAdapterSteamClient013::GetISteamFriends(int,int,char const*)
-9	CAdapterSteamClient013::GetISteamUtils(int,char const*)
-10	CAdapterSteamClient013::GetISteamMatchmaking(int,int,char const*)
-11	CAdapterSteamClient013::GetISteamMatchmakingServers(int,int,char const*)
-12	CAdapterSteamClient013::GetISteamGenericInterface(int,int,char const*)
-13	CAdapterSteamClient013::GetISteamUserStats(int,int,char const*)
-14	CAdapterSteamClient013::GetISteamGameServerStats(int,int,char const*)
-15	CAdapterSteamClient013::GetISteamApps(int,int,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamClient013
+// Auto reconstructed from vtable block @ 0x00F06240
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamClient013::CreateSteamPipe(void)
+1	CAdapterSteamClient013::BReleaseSteamPipe(int)
+2	CAdapterSteamClient013::ConnectToGlobalUser(int)
+3	CAdapterSteamClient013::CreateLocalUser(int *,EAccountType)
+4	CAdapterSteamClient013::ReleaseUser(int,int)
+5	CAdapterSteamClient013::GetISteamUser(int,int,char const*)
+6	CAdapterSteamClient013::GetISteamGameServer(int,int,char const*)
+7	CAdapterSteamClient013::SetLocalIPBinding(unsigned int,unsigned short)
+8	CAdapterSteamClient013::GetISteamFriends(int,int,char const*)
+9	CAdapterSteamClient013::GetISteamUtils(int,char const*)
+10	CAdapterSteamClient013::GetISteamMatchmaking(int,int,char const*)
+11	CAdapterSteamClient013::GetISteamMatchmakingServers(int,int,char const*)
+12	CAdapterSteamClient013::GetISteamGenericInterface(int,int,char const*)
+13	CAdapterSteamClient013::GetISteamUserStats(int,int,char const*)
+14	CAdapterSteamClient013::GetISteamGameServerStats(int,int,char const*)
+15	CAdapterSteamClient013::GetISteamApps(int,int,char const*)
+

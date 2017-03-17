@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHIDMessageFromRemote
-// Auto reconstructed from vtable block @ 0x00EC5650
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHIDMessageFromRemote::~CHIDMessageFromRemote()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CHIDMessageFromRemote::New(void)const
-3	CHIDMessageFromRemote::Clear(void)
-4	CHIDMessageFromRemote::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CHIDMessageFromRemote::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CHIDMessageFromRemote::ByteSize(void)const
-90	CHIDMessageFromRemote::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CHIDMessageFromRemote::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CHIDMessageFromRemote::GetCachedSize(void)const
-12	CHIDMessageFromRemote::CopyFrom(google::protobuf::Message const&)
-13	CHIDMessageFromRemote::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CHIDMessageFromRemote::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CHIDMessageFromRemote::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDMessageFromRemote
+// Auto reconstructed from vtable block @ 0x00EC5650
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageFromRemote::~CHIDMessageFromRemote()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHIDMessageFromRemote::New(void)const
+3	CHIDMessageFromRemote::Clear(void)
+4	CHIDMessageFromRemote::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHIDMessageFromRemote::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHIDMessageFromRemote::ByteSize(void)const
+90	CHIDMessageFromRemote::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHIDMessageFromRemote::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHIDMessageFromRemote::GetCachedSize(void)const
+12	CHIDMessageFromRemote::CopyFrom(google::protobuf::Message const&)
+13	CHIDMessageFromRemote::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CHIDMessageFromRemote::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CHIDMessageFromRemote::GetMetadata(void)const
+

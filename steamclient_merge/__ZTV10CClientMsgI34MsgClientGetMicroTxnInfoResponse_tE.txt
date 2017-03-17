@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientGetMicroTxnInfoResponse_t>
-// Auto reconstructed from vtable block @ 0x00F146FC
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientGetMicroTxnInfoResponse_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientGetMicroTxnInfoResponse_t>
+// Auto reconstructed from vtable block @ 0x00F146FC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientGetMicroTxnInfoResponse_t>::~CClientMsg()
+

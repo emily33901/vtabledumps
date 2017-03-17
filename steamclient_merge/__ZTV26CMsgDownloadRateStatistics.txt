@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgDownloadRateStatistics
-// Auto reconstructed from vtable block @ 0x00EEEA90
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgDownloadRateStatistics::~CMsgDownloadRateStatistics()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgDownloadRateStatistics::New(void)const
-3	CMsgDownloadRateStatistics::Clear(void)
-4	CMsgDownloadRateStatistics::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgDownloadRateStatistics::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgDownloadRateStatistics::ByteSize(void)const
-90	CMsgDownloadRateStatistics::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgDownloadRateStatistics::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgDownloadRateStatistics::GetCachedSize(void)const
-12	CMsgDownloadRateStatistics::CopyFrom(google::protobuf::Message const&)
-13	CMsgDownloadRateStatistics::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgDownloadRateStatistics::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgDownloadRateStatistics::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgDownloadRateStatistics
+// Auto reconstructed from vtable block @ 0x00EEEA90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgDownloadRateStatistics::~CMsgDownloadRateStatistics()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgDownloadRateStatistics::New(void)const
+3	CMsgDownloadRateStatistics::Clear(void)
+4	CMsgDownloadRateStatistics::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgDownloadRateStatistics::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgDownloadRateStatistics::ByteSize(void)const
+90	CMsgDownloadRateStatistics::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgDownloadRateStatistics::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgDownloadRateStatistics::GetCachedSize(void)const
+12	CMsgDownloadRateStatistics::CopyFrom(google::protobuf::Message const&)
+13	CMsgDownloadRateStatistics::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgDownloadRateStatistics::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgDownloadRateStatistics::GetMetadata(void)const
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CRemoteStorageSyncHelpers
-// Auto reconstructed from vtable block @ 0x00ECF2D0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CRemoteStorageSyncHelpers::ConnectCompleted(unsigned int)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRemoteStorageSyncHelpers
+// Auto reconstructed from vtable block @ 0x00ECF2D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRemoteStorageSyncHelpers::ConnectCompleted(unsigned int)
+

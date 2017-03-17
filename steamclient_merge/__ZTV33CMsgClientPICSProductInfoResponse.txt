@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientPICSProductInfoResponse
-// Auto reconstructed from vtable block @ 0x00EEB1E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientPICSProductInfoResponse::~CMsgClientPICSProductInfoResponse()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientPICSProductInfoResponse::New(void)const
-3	CMsgClientPICSProductInfoResponse::Clear(void)
-4	CMsgClientPICSProductInfoResponse::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientPICSProductInfoResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientPICSProductInfoResponse::ByteSize(void)const
-90	CMsgClientPICSProductInfoResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientPICSProductInfoResponse::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientPICSProductInfoResponse::GetCachedSize(void)const
-12	CMsgClientPICSProductInfoResponse::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientPICSProductInfoResponse::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientPICSProductInfoResponse::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientPICSProductInfoResponse::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientPICSProductInfoResponse
+// Auto reconstructed from vtable block @ 0x00EEB1E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientPICSProductInfoResponse::~CMsgClientPICSProductInfoResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientPICSProductInfoResponse::New(void)const
+3	CMsgClientPICSProductInfoResponse::Clear(void)
+4	CMsgClientPICSProductInfoResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientPICSProductInfoResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientPICSProductInfoResponse::ByteSize(void)const
+90	CMsgClientPICSProductInfoResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientPICSProductInfoResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientPICSProductInfoResponse::GetCachedSize(void)const
+12	CMsgClientPICSProductInfoResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientPICSProductInfoResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientPICSProductInfoResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientPICSProductInfoResponse::GetMetadata(void)const
+

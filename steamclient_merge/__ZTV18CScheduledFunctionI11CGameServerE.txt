@@ -1,10 +1,10 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CScheduledFunction<CGameServer>
-// Auto reconstructed from vtable block @ 0x00F04D10
-// from "steamclient.dylib", by ida_vtables.idc
-0	CScheduledFunction<CGameServer>::~CScheduledFunction()
-1	CScheduledFunction<CGameServer>::Run(void)
-2	CBaseScheduledFunction::GetInterval(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CGameServer>
+// Auto reconstructed from vtable block @ 0x00F04D10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CGameServer>::~CScheduledFunction()
+1	CScheduledFunction<CGameServer>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

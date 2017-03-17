@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgScreenInformationChanged
-// Auto reconstructed from vtable block @ 0x00ECD6E0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgScreenInformationChanged::~CMsgScreenInformationChanged()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgScreenInformationChanged::New(void)const
-3	CMsgScreenInformationChanged::Clear(void)
-4	CMsgScreenInformationChanged::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgScreenInformationChanged::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgScreenInformationChanged::ByteSize(void)const
-90	CMsgScreenInformationChanged::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgScreenInformationChanged::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgScreenInformationChanged::GetCachedSize(void)const
-12	CMsgScreenInformationChanged::CopyFrom(google::protobuf::Message const&)
-13	CMsgScreenInformationChanged::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgScreenInformationChanged
+// Auto reconstructed from vtable block @ 0x00ECD6E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgScreenInformationChanged::~CMsgScreenInformationChanged()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgScreenInformationChanged::New(void)const
+3	CMsgScreenInformationChanged::Clear(void)
+4	CMsgScreenInformationChanged::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgScreenInformationChanged::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgScreenInformationChanged::ByteSize(void)const
+90	CMsgScreenInformationChanged::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgScreenInformationChanged::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgScreenInformationChanged::GetCachedSize(void)const
+12	CMsgScreenInformationChanged::CopyFrom(google::protobuf::Message const&)
+13	CMsgScreenInformationChanged::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

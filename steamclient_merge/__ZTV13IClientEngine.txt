@@ -1,70 +1,70 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'IClientEngine
-// Auto reconstructed from vtable block @ 0x00F10960
-// from "steamclient.dylib", by ida_vtables.idc
-0	___cxa_pure_virtual
-1	___cxa_pure_virtual
-2	___cxa_pure_virtual
-3	___cxa_pure_virtual
-4	___cxa_pure_virtual
-5	___cxa_pure_virtual
-6	___cxa_pure_virtual
-7	___cxa_pure_virtual
-8	___cxa_pure_virtual
-9	___cxa_pure_virtual
-10	___cxa_pure_virtual
-11	___cxa_pure_virtual
-12	___cxa_pure_virtual
-13	___cxa_pure_virtual
-14	___cxa_pure_virtual
-15	___cxa_pure_virtual
-16	___cxa_pure_virtual
-17	___cxa_pure_virtual
-18	___cxa_pure_virtual
-19	___cxa_pure_virtual
-20	___cxa_pure_virtual
-21	___cxa_pure_virtual
-22	___cxa_pure_virtual
-23	___cxa_pure_virtual
-24	___cxa_pure_virtual
-25	___cxa_pure_virtual
-26	___cxa_pure_virtual
-27	___cxa_pure_virtual
-28	___cxa_pure_virtual
-29	___cxa_pure_virtual
-30	___cxa_pure_virtual
-31	___cxa_pure_virtual
-32	___cxa_pure_virtual
-33	___cxa_pure_virtual
-34	___cxa_pure_virtual
-35	___cxa_pure_virtual
-36	___cxa_pure_virtual
-37	___cxa_pure_virtual
-38	___cxa_pure_virtual
-39	___cxa_pure_virtual
-40	___cxa_pure_virtual
-41	___cxa_pure_virtual
-42	___cxa_pure_virtual
-43	___cxa_pure_virtual
-44	___cxa_pure_virtual
-45	___cxa_pure_virtual
-46	___cxa_pure_virtual
-47	___cxa_pure_virtual
-48	___cxa_pure_virtual
-49	___cxa_pure_virtual
-50	___cxa_pure_virtual
-51	___cxa_pure_virtual
-52	___cxa_pure_virtual
-53	___cxa_pure_virtual
-54	___cxa_pure_virtual
-55	___cxa_pure_virtual
-56	___cxa_pure_virtual
-57	___cxa_pure_virtual
-58	___cxa_pure_virtual
-59	___cxa_pure_virtual
-60	___cxa_pure_virtual
-61	___cxa_pure_virtual
-62	___cxa_pure_virtual
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientEngine
+// Auto reconstructed from vtable block @ 0x00F10960
+// from "steamclient.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+9	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	___cxa_pure_virtual
+15	___cxa_pure_virtual
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual
+18	___cxa_pure_virtual
+19	___cxa_pure_virtual
+20	___cxa_pure_virtual
+21	___cxa_pure_virtual
+22	___cxa_pure_virtual
+23	___cxa_pure_virtual
+24	___cxa_pure_virtual
+25	___cxa_pure_virtual
+26	___cxa_pure_virtual
+27	___cxa_pure_virtual
+28	___cxa_pure_virtual
+29	___cxa_pure_virtual
+30	___cxa_pure_virtual
+31	___cxa_pure_virtual
+32	___cxa_pure_virtual
+33	___cxa_pure_virtual
+34	___cxa_pure_virtual
+35	___cxa_pure_virtual
+36	___cxa_pure_virtual
+37	___cxa_pure_virtual
+38	___cxa_pure_virtual
+39	___cxa_pure_virtual
+40	___cxa_pure_virtual
+41	___cxa_pure_virtual
+42	___cxa_pure_virtual
+43	___cxa_pure_virtual
+44	___cxa_pure_virtual
+45	___cxa_pure_virtual
+46	___cxa_pure_virtual
+47	___cxa_pure_virtual
+48	___cxa_pure_virtual
+49	___cxa_pure_virtual
+50	___cxa_pure_virtual
+51	___cxa_pure_virtual
+52	___cxa_pure_virtual
+53	___cxa_pure_virtual
+54	___cxa_pure_virtual
+55	___cxa_pure_virtual
+56	___cxa_pure_virtual
+57	___cxa_pure_virtual
+58	___cxa_pure_virtual
+59	___cxa_pure_virtual
+60	___cxa_pure_virtual
+61	___cxa_pure_virtual
+62	___cxa_pure_virtual
+

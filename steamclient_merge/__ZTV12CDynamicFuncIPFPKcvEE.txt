@@ -1,11 +1,11 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CDynamicFunc<char const* (*)(void)>
-// Auto reconstructed from vtable block @ 0x00F0D4C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CDynamicFunc<char const* (*)(void)>::Init(CSysModule *)
-1	CDynamicFunc<char const* (*)(void)>::Release(void)
-2	CDynamicFunc<char const* (*)(void)>::SetNextPointer(IDynamicFunction *)
-3	CDynamicFunc<char const* (*)(void)>::GetNextPointer(void)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<char const* (*)(void)>
+// Auto reconstructed from vtable block @ 0x00F0D4C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<char const* (*)(void)>::Init(CSysModule *)
+1	CDynamicFunc<char const* (*)(void)>::Release(void)
+2	CDynamicFunc<char const* (*)(void)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<char const* (*)(void)>::GetNextPointer(void)
+

@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientFriendRemovedFromSource_t>
-// Auto reconstructed from vtable block @ 0x00EF81B4
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientFriendRemovedFromSource_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientFriendRemovedFromSource_t>
+// Auto reconstructed from vtable block @ 0x00EF81B4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientFriendRemovedFromSource_t>::~CClientMsg()
+

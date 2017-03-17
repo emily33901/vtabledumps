@@ -1,8 +1,8 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientBroadcastFrames_t>
-// Auto reconstructed from vtable block @ 0x00EF40F8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientBroadcastFrames_t>::~CClientMsg()
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientBroadcastFrames_t>
+// Auto reconstructed from vtable block @ 0x00EF40F8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientBroadcastFrames_t>::~CClientMsg()
+

@@ -1,23 +1,23 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientNetworkingAPI
-// Auto reconstructed from vtable block @ 0x00ECF510
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientNetworkingAPI::SendP2PPacket(CSteamID,void const*,unsigned int,EP2PSend,int)
-1	CClientNetworkingAPI::IsP2PPacketAvailable(unsigned int *,int)
-2	CClientNetworkingAPI::ReadP2PPacket(void *,unsigned int,unsigned int *,CSteamID *,int)
-3	CClientNetworkingAPI::AcceptP2PSessionWithUser(CSteamID)
-4	CClientNetworkingAPI::CloseP2PSessionWithUser(CSteamID)
-5	CClientNetworkingAPI::CloseP2PChannelWithUser(CSteamID,int)
-6	CClientNetworkingAPI::GetP2PSessionState(CSteamID,P2PSessionState_t *)
-7	CClientNetworkingAPI::AllowP2PPacketRelay(bool)
-8	CClientNetworkingAPI::CreateListenSocket(int,unsigned int,unsigned short,bool)
-9	CClientNetworkingAPI::CreateP2PConnectionSocket(CSteamID,int,int,bool)
-10	CClientNetworkingAPI::CreateConnectionSocket(unsigned int,unsigned short,int)
-11	CClientNetworkingAPI::DestroySocket(unsigned int,bool)
-12	CClientNetworkingAPI::DestroyListenSocket(unsigned int,bool)
-13	CClientNetworkingAPI::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
-14	CClientNetworkingAPI::IsDataAvailableOnSocket(unsigned int,unsigned int *)
-15	CClientNetworkingAPI::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientNetworkingAPI
+// Auto reconstructed from vtable block @ 0x00ECF510
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientNetworkingAPI::SendP2PPacket(CSteamID,void const*,unsigned int,EP2PSend,int)
+1	CClientNetworkingAPI::IsP2PPacketAvailable(unsigned int *,int)
+2	CClientNetworkingAPI::ReadP2PPacket(void *,unsigned int,unsigned int *,CSteamID *,int)
+3	CClientNetworkingAPI::AcceptP2PSessionWithUser(CSteamID)
+4	CClientNetworkingAPI::CloseP2PSessionWithUser(CSteamID)
+5	CClientNetworkingAPI::CloseP2PChannelWithUser(CSteamID,int)
+6	CClientNetworkingAPI::GetP2PSessionState(CSteamID,P2PSessionState_t *)
+7	CClientNetworkingAPI::AllowP2PPacketRelay(bool)
+8	CClientNetworkingAPI::CreateListenSocket(int,unsigned int,unsigned short,bool)
+9	CClientNetworkingAPI::CreateP2PConnectionSocket(CSteamID,int,int,bool)
+10	CClientNetworkingAPI::CreateConnectionSocket(unsigned int,unsigned short,int)
+11	CClientNetworkingAPI::DestroySocket(unsigned int,bool)
+12	CClientNetworkingAPI::DestroyListenSocket(unsigned int,bool)
+13	CClientNetworkingAPI::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
+14	CClientNetworkingAPI::IsDataAvailableOnSocket(unsigned int,unsigned int *)
+15	CClientNetworkingAPI::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
+

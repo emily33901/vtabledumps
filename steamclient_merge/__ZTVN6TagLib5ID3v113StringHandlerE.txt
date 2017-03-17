@@ -1,9 +1,9 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::ID3v1::StringHandler
-// Auto reconstructed from vtable block @ 0x00EE31C0
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::ID3v1::StringHandler::parse(TagLib::ByteVector const&)const
-1	TagLib::ID3v1::StringHandler::render(TagLib::String const&)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ID3v1::StringHandler
+// Auto reconstructed from vtable block @ 0x00EE31C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ID3v1::StringHandler::parse(TagLib::ByteVector const&)const
+1	TagLib::ID3v1::StringHandler::render(TagLib::String const&)const
+

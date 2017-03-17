@@ -1,12 +1,12 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSetLEDColorWorkItem
-// Auto reconstructed from vtable block @ 0x00F01D50
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSetLEDColorWorkItem::~CSetLEDColorWorkItem()
-1	CSetLEDColorWorkItem::RunFunc(IControllerAbstraction *)
-2	CControllerWorkItem::DispatchCompletion(void)
-3	CSetLEDColorWorkItem::BHasPotentialSideEffects(void)
-4	CControllerWorkItem::Validate(CValidator &,char const*)
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSetLEDColorWorkItem
+// Auto reconstructed from vtable block @ 0x00F01D50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSetLEDColorWorkItem::~CSetLEDColorWorkItem()
+1	CSetLEDColorWorkItem::RunFunc(IControllerAbstraction *)
+2	CControllerWorkItem::DispatchCompletion(void)
+3	CSetLEDColorWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

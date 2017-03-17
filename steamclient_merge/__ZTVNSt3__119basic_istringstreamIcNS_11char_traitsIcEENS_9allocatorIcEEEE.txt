@@ -1,7 +1,7 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'std::__1::basic_istringstream<char,std::__1::char_traits<char>,std::__1::allocator<char>>
-// Auto reconstructed from vtable block @ 0x00F1DE60
-// from "steamclient.dylib", by ida_vtables.idc
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'std::__1::basic_istringstream<char,std::__1::char_traits<char>,std::__1::allocator<char>>
+// Auto reconstructed from vtable block @ 0x00F1DE60
+// from "steamclient.dylib", by ida_vtables.idc
+

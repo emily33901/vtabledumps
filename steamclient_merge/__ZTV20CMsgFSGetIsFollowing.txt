@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgFSGetIsFollowing
-// Auto reconstructed from vtable block @ 0x00EF04D0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgFSGetIsFollowing::~CMsgFSGetIsFollowing()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgFSGetIsFollowing::New(void)const
-3	CMsgFSGetIsFollowing::Clear(void)
-4	CMsgFSGetIsFollowing::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgFSGetIsFollowing::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgFSGetIsFollowing::ByteSize(void)const
-90	CMsgFSGetIsFollowing::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgFSGetIsFollowing::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgFSGetIsFollowing::GetCachedSize(void)const
-12	CMsgFSGetIsFollowing::CopyFrom(google::protobuf::Message const&)
-13	CMsgFSGetIsFollowing::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgFSGetIsFollowing::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgFSGetIsFollowing::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgFSGetIsFollowing
+// Auto reconstructed from vtable block @ 0x00EF04D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgFSGetIsFollowing::~CMsgFSGetIsFollowing()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgFSGetIsFollowing::New(void)const
+3	CMsgFSGetIsFollowing::Clear(void)
+4	CMsgFSGetIsFollowing::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgFSGetIsFollowing::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgFSGetIsFollowing::ByteSize(void)const
+90	CMsgFSGetIsFollowing::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgFSGetIsFollowing::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgFSGetIsFollowing::GetCachedSize(void)const
+12	CMsgFSGetIsFollowing::CopyFrom(google::protobuf::Message const&)
+13	CMsgFSGetIsFollowing::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgFSGetIsFollowing::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgFSGetIsFollowing::GetMetadata(void)const
+

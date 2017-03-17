@@ -1,26 +1,26 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId
-// Auto reconstructed from vtable block @ 0x00EED6B0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::~CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId()
-1	google::protobuf::Message::GetTypeName(void)const
-2	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::New(void)const
-3	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::Clear(void)
-4	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::IsInitialized(void)const
-5	google::protobuf::Message::InitializationErrorString(void)const
-6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-7	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
-8	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::ByteSize(void)const
-90	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
-10	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::SerializeWithCachedSizesToArray(unsigned char *)const
-11	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::GetCachedSize(void)const
-12	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::CopyFrom(google::protobuf::Message const&)
-13	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::MergeFrom(google::protobuf::Message const&)
-14	google::protobuf::Message::DiscardUnknownFields(void)
-15	google::protobuf::Message::SpaceUsed(void)const
-16	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::SetCachedSize(int)const
-17	google::protobuf::Message::GetReflection(void)const
-18	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::GetMetadata(void)const
-
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId
+// Auto reconstructed from vtable block @ 0x00EED6B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::~CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::New(void)const
+3	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::Clear(void)
+4	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::ByteSize(void)const
+90	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::GetCachedSize(void)const
+12	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUCMGetPublishedFilesForUserResponse_PublishedFileId::GetMetadata(void)const
+

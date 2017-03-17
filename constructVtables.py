@@ -21,43 +21,34 @@ def FindUniqueName(string):
 def FindUniqueMatchingFile(fileName, folder):
     searchedString = FindUniqueName(fileName);
    
-    #print(searchedString);
     for file in os.listdir(folder):
         if(file.find(searchedString) != -1):
-            #print("\n\nmatch: win " + file + " osx " + fileName);
             return searchedString;
         
     for file in os.listdir(folder):
         i = 0;
         while(i < len(file)):
             if(file.find(searchedString[:-i]) != -1):
-                #print("\n\n2match: win " + file + " osx " + searchedString[:-i]);
                 return searchedString[:-i];
             i += 1;
 
 def FindMatchingWindowsFile(fileName, folder):
-
     searchedString = FindUniqueName(fileName);
    
-    #print(searchedString);
     for file in os.listdir(folder):
         if(file.find(searchedString) != -1):
-            #print("\n\nmatch: win " + file + " osx " + fileName);
             return file;
         
     for file in os.listdir(folder):
         i = 0;
         while(i < len(file)):
             if(file.find(searchedString[:-i]) != -1):
-                #print("\n\n2match: win " + file + " osx " + searchedString[:-i]);
                 return file;
             i += 1;
 
     # stage 2
 
 def ProcessContents(osx, win, file):
-    #print(osx);
-    #print(win);
     win_index_offset = 0;
     first_destructor = True;
 
@@ -97,7 +88,7 @@ def ProcessContents(osx, win, file):
             if(win_line == ""):
                 continue;
 
-            #print(osx_line);
+            # print the windows index and the mac function
             index = win_line[0:win_line.find("\t")];
             text = osx_line[len(str(index)):];
             output.write(index + text);
@@ -109,23 +100,14 @@ def ProcessVtablePair(osx, win, file):
         ProcessContents(osx_file.read().split("\n"), win_file.read().split("\n"), file);
     
 def ProcessFolderPair(osx_folder, win_folder, out_folder):
-    #print("osx " + osx_folder + " win " + win_folder);
     i = 0
     for file in os.listdir(osx_folder):
 
         win_file = FindMatchingWindowsFile(file, win_folder);
 
-
-        #print(file + " | " + win_file);
         out_file = out_folder + "\\" + file;
         print(out_file);
         ProcessVtablePair(osx_folder + "\\" + file, win_folder + "\\" + win_file, out_file);
-        
-        # only do one for now
-        i += 1;
-        #if(i > 100):
-        #    break;
-
         
 # main
 for file in os.listdir():

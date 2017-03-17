@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRebootIntoISPWorkItem
+// Auto reconstructed from vtable block @ 0x00F01E80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRebootIntoISPWorkItem::~CRebootIntoISPWorkItem()
+1	CRebootIntoISPWorkItem::RunFunc(IControllerAbstraction *)
+2	CRebootIntoISPWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

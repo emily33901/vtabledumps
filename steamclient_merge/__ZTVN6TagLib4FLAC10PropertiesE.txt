@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::FLAC::Properties
+// Auto reconstructed from vtable block @ 0x00EE2F20
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::FLAC::Properties::~Properties()
+1	TagLib::FLAC::Properties::length(void)const
+2	TagLib::FLAC::Properties::bitrate(void)const
+3	TagLib::FLAC::Properties::sampleRate(void)const
+4	TagLib::FLAC::Properties::channels(void)const
+

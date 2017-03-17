@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUGC001
+// Auto reconstructed from vtable block @ 0x00F07B30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUGC001::CreateQueryUserUGCRequest(unsigned int,EUserUGCList,EUGCMatchingUGCType,EUserUGCListSortOrder,unsigned int,unsigned int,unsigned int)
+1	CAdapterSteamUGC001::CreateQueryAllUGCRequest(EUGCQuery,EUGCMatchingUGCType,unsigned int,unsigned int,unsigned int)
+2	CAdapterSteamUGC001::SendQueryUGCRequest(unsigned long long)
+3	CAdapterSteamUGC001::GetQueryUGCResult(unsigned long long,unsigned int,CAdapterSteamUGC001::SteamUGCDetails_t_v1 *)
+4	CAdapterSteamUGC001::ReleaseQueryUGCRequest(unsigned long long)
+5	CAdapterSteamUGC001::AddRequiredTag(unsigned long long,char const*)
+6	CAdapterSteamUGC001::AddExcludedTag(unsigned long long,char const*)
+7	CAdapterSteamUGC001::SetReturnLongDescription(unsigned long long,bool)
+8	CAdapterSteamUGC001::SetReturnTotalOnly(unsigned long long,bool)
+9	CAdapterSteamUGC001::SetCloudFileNameFilter(unsigned long long,char const*)
+10	CAdapterSteamUGC001::SetMatchAnyTag(unsigned long long,bool)
+11	CAdapterSteamUGC001::SetSearchText(unsigned long long,char const*)
+12	CAdapterSteamUGC001::SetRankedByTrendDays(unsigned long long,unsigned int)
+13	CAdapterSteamUGC001::RequestUGCDetails(unsigned long long)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::MessageHandler
+// Auto reconstructed from vtable block @ 0x00ED60E8
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::MessageHandler::~MessageHandler()
+1	___cxa_pure_virtual
+

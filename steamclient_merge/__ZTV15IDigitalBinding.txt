@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IDigitalBinding
+// Auto reconstructed from vtable block @ 0x00F02A40
+// from "steamclient.dylib", by ida_vtables.idc
+0	IDigitalBinding::~IDigitalBinding()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	IDigitalBinding::GetPreset(void)const
+6	IDigitalBinding::SetPreset(int)
+7	IDigitalBinding::SetIconData(IconBindingData_t *)
+8	IDigitalBinding::Disconnect(IInputGenerator *)const
+90	IDigitalBinding::SetActivator(IControllerActivator *)
+10	IDigitalBinding::GetActivator(void)const
+11	IDigitalBinding::Validate(CValidator &,char const*)
+

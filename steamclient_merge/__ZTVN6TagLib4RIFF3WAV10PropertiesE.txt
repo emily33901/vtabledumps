@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::RIFF::WAV::Properties
+// Auto reconstructed from vtable block @ 0x00EE3A30
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::RIFF::WAV::Properties::~Properties()
+1	TagLib::RIFF::WAV::Properties::length(void)const
+2	TagLib::RIFF::WAV::Properties::bitrate(void)const
+3	TagLib::RIFF::WAV::Properties::sampleRate(void)const
+4	TagLib::RIFF::WAV::Properties::channels(void)const
+

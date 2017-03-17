@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamRemoteStorage008
+// Auto reconstructed from vtable block @ 0x00F08770
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamRemoteStorage008::FileWrite(char const*,void const*,int)
+1	CAdapterSteamRemoteStorage008::FileRead(char const*,void *,int)
+2	CAdapterSteamRemoteStorage008::FileForget(char const*)
+3	CAdapterSteamRemoteStorage008::FileDelete(char const*)
+4	CAdapterSteamRemoteStorage008::FileShare(char const*)
+5	CAdapterSteamRemoteStorage008::SetSyncPlatforms(char const*,ERemoteStoragePlatform)
+6	CAdapterSteamRemoteStorage008::FileWriteStreamOpen(char const*)
+7	CAdapterSteamRemoteStorage008::FileWriteStreamWriteChunk(unsigned long long,void const*,int)
+8	CAdapterSteamRemoteStorage008::FileWriteStreamClose(unsigned long long)
+9	CAdapterSteamRemoteStorage008::FileWriteStreamCancel(unsigned long long)
+10	CAdapterSteamRemoteStorage008::FileExists(char const*)
+11	CAdapterSteamRemoteStorage008::FilePersisted(char const*)
+12	CAdapterSteamRemoteStorage008::GetFileSize(char const*)
+13	CAdapterSteamRemoteStorage008::GetFileTimestamp(char const*)
+14	CAdapterSteamRemoteStorage008::GetSyncPlatforms(char const*)
+15	CAdapterSteamRemoteStorage008::GetFileCount(void)
+

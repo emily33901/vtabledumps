@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ASF::Picture
+// Auto reconstructed from vtable block @ 0x00EE2DB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ASF::Picture::~Picture()
+

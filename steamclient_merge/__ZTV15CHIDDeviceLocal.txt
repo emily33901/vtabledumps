@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDDeviceLocal
+// Auto reconstructed from vtable block @ 0x00EC08F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceLocal::~CHIDDeviceLocal()
+1	CHIDDeviceLocal::GetLocation(void)
+2	CHIDDeviceLocal::Write(unsigned char const*,unsigned long)
+3	CHIDDeviceLocal::Read(unsigned char *,unsigned long,int)
+4	CHIDDeviceLocal::SendFeatureReport(unsigned char const*,unsigned long)
+5	CHIDDeviceLocal::GetFeatureReport(unsigned char *,unsigned long)
+6	CHIDDeviceLocal::GetVendorString(void)
+7	CHIDDeviceLocal::GetProductString(void)
+8	CHIDDeviceLocal::GetSerialNumberString(void)
+

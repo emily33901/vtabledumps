@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgGSGetPlayStatsResponse_t>
+// Auto reconstructed from vtable block @ 0x00F04224
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgGSGetPlayStatsResponse_t>::~CClientMsg()
+

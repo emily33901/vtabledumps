@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTTPRequestCache
+// Auto reconstructed from vtable block @ 0x00F27770
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPRequestCache::Validate(CValidator &,char const*)
+

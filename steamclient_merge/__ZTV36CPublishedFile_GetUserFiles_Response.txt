@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPublishedFile_GetUserFiles_Response
+// Auto reconstructed from vtable block @ 0x00EC8900
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPublishedFile_GetUserFiles_Response::~CPublishedFile_GetUserFiles_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPublishedFile_GetUserFiles_Response::New(void)const
+3	CPublishedFile_GetUserFiles_Response::Clear(void)
+4	CPublishedFile_GetUserFiles_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPublishedFile_GetUserFiles_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPublishedFile_GetUserFiles_Response::ByteSize(void)const
+90	CPublishedFile_GetUserFiles_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPublishedFile_GetUserFiles_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPublishedFile_GetUserFiles_Response::GetCachedSize(void)const
+12	CPublishedFile_GetUserFiles_Response::CopyFrom(google::protobuf::Message const&)
+13	CPublishedFile_GetUserFiles_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CPublishedFile_GetUserFiles_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPublishedFile_GetUserFiles_Response::GetMetadata(void)const
+

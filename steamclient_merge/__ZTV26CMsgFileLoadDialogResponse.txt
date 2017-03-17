@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgFileLoadDialogResponse
+// Auto reconstructed from vtable block @ 0x00ECC660
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgFileLoadDialogResponse::~CMsgFileLoadDialogResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgFileLoadDialogResponse::New(void)const
+3	CMsgFileLoadDialogResponse::Clear(void)
+4	CMsgFileLoadDialogResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgFileLoadDialogResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgFileLoadDialogResponse::ByteSize(void)const
+90	CMsgFileLoadDialogResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgFileLoadDialogResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgFileLoadDialogResponse::GetCachedSize(void)const
+12	CMsgFileLoadDialogResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgFileLoadDialogResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

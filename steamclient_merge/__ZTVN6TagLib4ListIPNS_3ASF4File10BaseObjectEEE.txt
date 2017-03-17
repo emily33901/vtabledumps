@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::List<TagLib::ASF::File::BaseObject *>
+// Auto reconstructed from vtable block @ 0x00F25E78
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::List<TagLib::ASF::File::BaseObject *>::~List()
+

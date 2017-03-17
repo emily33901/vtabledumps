@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDPadMode
+// Auto reconstructed from vtable block @ 0x00F033E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDPadMode::~CDPadMode()
+1	CDPadMode::Update(SourceState *,IInputGenerator *)
+2	CControllerModeImpl::SetBinding(EControllerModeInput,IDigitalBinding const*,int)
+3	CControllerModeImpl::GetBinding(EControllerModeInput,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)
+4	CControllerModeImpl::GetUISetting(EControllerSetting,int *)const
+5	CControllerModeImpl::GetRawSetting(EControllerSetting,int *)const
+6	CControllerModeImpl::SetSetting(EControllerSetting,int)
+7	CControllerModeImpl::GetSettingUIDefault(EControllerSetting,int *)const
+8	CControllerModeImpl::GetSettingRawDefault(EControllerSetting,int *)const
+90	CControllerModeImpl::GetInputs(CUtlHashMap<CUtlString,CUtlPtr<IControllerDigitalInput const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+10	CControllerModeImpl::GetPressureInputs(CUtlHashMap<CUtlString,CUtlPtr<IControllerDigitalInput const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+11	IControllerMode::InsertActivatorBindings(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,IControllerActivator*,CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,CUtlHashMap&<EControllerSetting,short,CDefEquals<CUtlHashMap&>,HashFunctor<CUtlHashMap&>>)const
+12	IControllerMode::InsertActivatorSettings(CCopyableUtlVector<CUtlPtr<IControllerActivator>,CUtlMemory<CUtlPtr<IControllerActivator>>> &,IControllerActivator*,CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)const
+13	CControllerModeImpl::GetInputActivators(EControllerModeInput,CUtlHashMap<CUtlString,CUtlPtr<IControllerActivator>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+14	CControllerModeImpl::GetActivatorBindings(EControllerModeInput,IControllerActivator *,CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,CUtlHashMap&<EControllerSetting,short,CDefEquals<CUtlHashMap&>,HashFunctor<CUtlHashMap&>>)
+15	CControllerModeImpl::GetBindings(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &)
+

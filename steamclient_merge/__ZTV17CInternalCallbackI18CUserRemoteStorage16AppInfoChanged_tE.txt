@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInternalCallback<CUserRemoteStorage,AppInfoChanged_t>
+// Auto reconstructed from vtable block @ 0x00F1A12C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CUserRemoteStorage,AppInfoChanged_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)
+

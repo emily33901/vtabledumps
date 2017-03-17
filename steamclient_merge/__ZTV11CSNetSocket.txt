@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSNetSocket
+// Auto reconstructed from vtable block @ 0x00EFD908
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSNetSocket::NotifyLocalCandidate(IP2PSocket *,char const*,char const*,char const*,unsigned short,float,char const*,char const*,char const*,char const*,unsigned int)
+1	CSNetSocket::OnP2PStateChanged(IP2PSocket *,EP2PState,EP2PState)
+

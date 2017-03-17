@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientP2PIntroducerData_t>
+// Auto reconstructed from vtable block @ 0x00EF3C54
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientP2PIntroducerData_t>::~CClientMsg()
+

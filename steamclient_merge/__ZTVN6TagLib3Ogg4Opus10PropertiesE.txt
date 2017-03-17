@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::Opus::Properties
+// Auto reconstructed from vtable block @ 0x00EE37A8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::Opus::Properties::~Properties()
+1	TagLib::Ogg::Opus::Properties::length(void)const
+2	TagLib::Ogg::Opus::Properties::bitrate(void)const
+3	TagLib::Ogg::Opus::Properties::sampleRate(void)const
+4	TagLib::Ogg::Opus::Properties::channels(void)const
+

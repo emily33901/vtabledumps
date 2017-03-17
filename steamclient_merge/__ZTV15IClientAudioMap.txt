@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientAudioMap
+// Auto reconstructed from vtable block @ 0x00F0BB80
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientAudioMap::StartVoiceRecording(void)
+1	IClientAudioMap::StopVoiceRecording(void)
+2	IClientAudioMap::ResetVoiceRecording(void)
+3	IClientAudioMap::GetAvailableVoice(unsigned int *,unsigned int *,unsigned int)
+4	IClientAudioMap::GetVoice(bool,void *,unsigned int,unsigned int *,bool,void *,unsigned int,unsigned int *,unsigned int)
+5	IClientAudioMap::GetCompressedVoice(void *,unsigned int,unsigned int *)
+6	IClientAudioMap::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
+7	IClientAudioMap::GetVoiceOptimalSampleRate(void)
+

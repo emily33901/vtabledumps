@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ID3v2::RelativeVolumeFrame
+// Auto reconstructed from vtable block @ 0x00EE3388
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ID3v2::RelativeVolumeFrame::~RelativeVolumeFrame()
+1	TagLib::ID3v2::Frame::setText(TagLib::String const&)
+2	TagLib::ID3v2::RelativeVolumeFrame::toString(void)const
+3	TagLib::ID3v2::RelativeVolumeFrame::parseFields(TagLib::ByteVector const&)
+4	TagLib::ID3v2::RelativeVolumeFrame::renderFields(void)const
+

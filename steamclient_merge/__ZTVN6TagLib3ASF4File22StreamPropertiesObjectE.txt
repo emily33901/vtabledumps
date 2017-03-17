@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ASF::File::StreamPropertiesObject
+// Auto reconstructed from vtable block @ 0x00EE2D34
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ASF::File::StreamPropertiesObject::~StreamPropertiesObject()
+1	TagLib::ASF::File::StreamPropertiesObject::guid(void)
+2	TagLib::ASF::File::StreamPropertiesObject::parse(TagLib::ASF::File*,unsigned int)
+3	TagLib::ASF::File::BaseObject::render(TagLib::ASF::File*)
+

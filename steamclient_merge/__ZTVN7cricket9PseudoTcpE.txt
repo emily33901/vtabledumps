@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::PseudoTcp
+// Auto reconstructed from vtable block @ 0x00ED6AD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::PseudoTcp::~PseudoTcp()
+

@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMicroTxnInfo
+// Auto reconstructed from vtable block @ 0x00EE69A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMicroTxnInfo::~CClientMicroTxnInfo()
+1	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+2	CMessageObject::BInternalSerialize(CUtlBuffer &)
+

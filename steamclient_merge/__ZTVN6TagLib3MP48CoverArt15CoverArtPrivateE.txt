@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::MP4::CoverArt::CoverArtPrivate
+// Auto reconstructed from vtable block @ 0x00F25F90
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MP4::CoverArt::CoverArtPrivate::~CoverArtPrivate()
+

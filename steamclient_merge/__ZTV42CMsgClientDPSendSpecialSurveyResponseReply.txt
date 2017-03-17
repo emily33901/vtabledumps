@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientDPSendSpecialSurveyResponseReply
+// Auto reconstructed from vtable block @ 0x00EEF750
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientDPSendSpecialSurveyResponseReply::~CMsgClientDPSendSpecialSurveyResponseReply()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientDPSendSpecialSurveyResponseReply::New(void)const
+3	CMsgClientDPSendSpecialSurveyResponseReply::Clear(void)
+4	CMsgClientDPSendSpecialSurveyResponseReply::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientDPSendSpecialSurveyResponseReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientDPSendSpecialSurveyResponseReply::ByteSize(void)const
+90	CMsgClientDPSendSpecialSurveyResponseReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientDPSendSpecialSurveyResponseReply::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientDPSendSpecialSurveyResponseReply::GetCachedSize(void)const
+12	CMsgClientDPSendSpecialSurveyResponseReply::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientDPSendSpecialSurveyResponseReply::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

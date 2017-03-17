@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgFSEnumerateFollowingList
+// Auto reconstructed from vtable block @ 0x00EF0590
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgFSEnumerateFollowingList::~CMsgFSEnumerateFollowingList()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgFSEnumerateFollowingList::New(void)const
+3	CMsgFSEnumerateFollowingList::Clear(void)
+4	CMsgFSEnumerateFollowingList::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgFSEnumerateFollowingList::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgFSEnumerateFollowingList::ByteSize(void)const
+90	CMsgFSEnumerateFollowingList::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgFSEnumerateFollowingList::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgFSEnumerateFollowingList::GetCachedSize(void)const
+12	CMsgFSEnumerateFollowingList::CopyFrom(google::protobuf::Message const&)
+13	CMsgFSEnumerateFollowingList::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgFSEnumerateFollowingList::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgFSEnumerateFollowingList::GetMetadata(void)const
+

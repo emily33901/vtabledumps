@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamGameStats001
+// Auto reconstructed from vtable block @ 0x00F08060
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameStats001::GetNewSession(signed char,unsigned long long,int,unsigned int)
+1	CAdapterSteamGameStats001::EndSession(unsigned long long,unsigned int,int)
+2	CAdapterSteamGameStats001::AddSessionAttributeInt(unsigned long long,char const*,int)
+3	CAdapterSteamGameStats001::AddSessionAttributeString(unsigned long long,char const*,char const*)
+4	CAdapterSteamGameStats001::AddSessionAttributeFloat(unsigned long long,char const*,float)
+5	CAdapterSteamGameStats001::AddNewRow(unsigned long long *,unsigned long long,char const*)
+6	CAdapterSteamGameStats001::CommitRow(unsigned long long)
+7	CAdapterSteamGameStats001::CommitOutstandingRows(unsigned long long)
+8	CAdapterSteamGameStats001::AddRowAttributeInt(unsigned long long,char const*,int)
+9	CAdapterSteamGameStats001::AddRowAtributeString(unsigned long long,char const*,char const*)
+10	CAdapterSteamGameStats001::AddRowAttributeFloat(unsigned long long,char const*,float)
+11	CAdapterSteamGameStats001::AddSessionAttributeInt64(unsigned long long,char const*,long long)
+12	CAdapterSteamGameStats001::AddRowAttributeInt64(unsigned long long,char const*,long long)
+

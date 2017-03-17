@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientPICSAccessTokenRequest
+// Auto reconstructed from vtable block @ 0x00EEB240
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientPICSAccessTokenRequest::~CMsgClientPICSAccessTokenRequest()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientPICSAccessTokenRequest::New(void)const
+3	CMsgClientPICSAccessTokenRequest::Clear(void)
+4	CMsgClientPICSAccessTokenRequest::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientPICSAccessTokenRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientPICSAccessTokenRequest::ByteSize(void)const
+90	CMsgClientPICSAccessTokenRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientPICSAccessTokenRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientPICSAccessTokenRequest::GetCachedSize(void)const
+12	CMsgClientPICSAccessTokenRequest::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientPICSAccessTokenRequest::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientPICSAccessTokenRequest::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientPICSAccessTokenRequest::GetMetadata(void)const
+

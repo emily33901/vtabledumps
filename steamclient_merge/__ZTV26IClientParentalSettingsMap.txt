@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientParentalSettingsMap
+// Auto reconstructed from vtable block @ 0x00F0B890
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientParentalSettingsMap::BIsParentalLockEnabled(void)
+1	IClientParentalSettingsMap::BIsParentalLockLocked(void)
+2	IClientParentalSettingsMap::BIsAppBlocked(unsigned int)
+3	IClientParentalSettingsMap::BIsAppInBlockList(unsigned int)
+4	IClientParentalSettingsMap::BIsFeatureBlocked(EParentalFeature)
+5	IClientParentalSettingsMap::BIsFeatureInBlockList(EParentalFeature)
+6	IClientParentalSettingsMap::BGetSerializedParentalSettings(CUtlBuffer *)
+7	IClientParentalSettingsMap::BGetRecoveryEmail(char *,int)
+

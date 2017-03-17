@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgJSMethodCall
+// Auto reconstructed from vtable block @ 0x00ECD980
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgJSMethodCall::~CMsgJSMethodCall()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgJSMethodCall::New(void)const
+3	CMsgJSMethodCall::Clear(void)
+4	CMsgJSMethodCall::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgJSMethodCall::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgJSMethodCall::ByteSize(void)const
+90	CMsgJSMethodCall::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgJSMethodCall::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgJSMethodCall::GetCachedSize(void)const
+12	CMsgJSMethodCall::CopyFrom(google::protobuf::Message const&)
+13	CMsgJSMethodCall::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgJSMethodCall::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgJSMethodCall::GetMetadata(void)const
+

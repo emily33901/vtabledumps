@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'COpenSSLContext
+// Auto reconstructed from vtable block @ 0x00EE6E80
+// from "steamclient.dylib", by ida_vtables.idc
+0	COpenSSLContext::~COpenSSLContext()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	COpenSSLContext::Validate(CValidator &,char const*)
+

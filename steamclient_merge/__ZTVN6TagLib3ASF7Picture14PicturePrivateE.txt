@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ASF::Picture::PicturePrivate
+// Auto reconstructed from vtable block @ 0x00F25EA8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ASF::Picture::PicturePrivate::~PicturePrivate()
+

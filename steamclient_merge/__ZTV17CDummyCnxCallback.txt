@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDummyCnxCallback
+// Auto reconstructed from vtable block @ 0x00F2CC70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDummyCnxCallback::ConnectCompleted(unsigned int)
+1	CDummyCnxCallback::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CDummyCnxCallback::ConnectionDisconnected(unsigned int,EResult)
+3	CDummyCnxCallback::RecvPkt(CNetPacket *)
+4	CDummyCnxCallback::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CDummyCnxCallback::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+

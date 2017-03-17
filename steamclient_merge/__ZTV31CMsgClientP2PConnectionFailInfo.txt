@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientP2PConnectionFailInfo
+// Auto reconstructed from vtable block @ 0x00EE77C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientP2PConnectionFailInfo::~CMsgClientP2PConnectionFailInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientP2PConnectionFailInfo::New(void)const
+3	CMsgClientP2PConnectionFailInfo::Clear(void)
+4	CMsgClientP2PConnectionFailInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientP2PConnectionFailInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientP2PConnectionFailInfo::ByteSize(void)const
+90	CMsgClientP2PConnectionFailInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientP2PConnectionFailInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientP2PConnectionFailInfo::GetCachedSize(void)const
+12	CMsgClientP2PConnectionFailInfo::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientP2PConnectionFailInfo::MergeFrom(google::protobuf::Message const&)
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSetZoomLevel
+// Auto reconstructed from vtable block @ 0x00ECBE20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetZoomLevel::~CMsgSetZoomLevel()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSetZoomLevel::New(void)const
+3	CMsgSetZoomLevel::Clear(void)
+4	CMsgSetZoomLevel::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSetZoomLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSetZoomLevel::ByteSize(void)const
+90	CMsgSetZoomLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSetZoomLevel::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSetZoomLevel::GetCachedSize(void)const
+12	CMsgSetZoomLevel::CopyFrom(google::protobuf::Message const&)
+13	CMsgSetZoomLevel::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

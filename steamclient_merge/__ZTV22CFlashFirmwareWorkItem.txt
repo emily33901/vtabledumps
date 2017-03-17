@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFlashFirmwareWorkItem
+// Auto reconstructed from vtable block @ 0x00F01B30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CFlashFirmwareWorkItem::~CFlashFirmwareWorkItem()
+1	CFlashFirmwareWorkItem::RunFunc(IControllerAbstraction *)
+2	CFlashFirmwareWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CFlashFirmwareWorkItem::Validate(CValidator &,char const*)
+

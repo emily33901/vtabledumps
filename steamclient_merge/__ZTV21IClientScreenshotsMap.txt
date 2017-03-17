@@ -1,0 +1,41 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientScreenshotsMap
+// Auto reconstructed from vtable block @ 0x00F0BD50
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientScreenshotsMap::GetShortcutDisplayName(CGameID)
+1	IClientScreenshotsMap::SetShortcutDisplayName(CGameID,char const*)
+2	IClientScreenshotsMap::WriteScreenshot(CGameID,void *,unsigned int,int,int)
+3	IClientScreenshotsMap::AddScreenshotToLibrary(CGameID,EVRScreenshotType,char const*,char const*,char const*,int,int)
+4	IClientScreenshotsMap::TriggerScreenshot(CGameID)
+5	IClientScreenshotsMap::RequestScreenshotFromGame(unsigned int)
+6	IClientScreenshotsMap::SetLocation(CGameID,unsigned int,char const*)
+7	IClientScreenshotsMap::TagUser(CGameID,unsigned int,CSteamID)
+8	IClientScreenshotsMap::TagPublishedFile(CGameID,unsigned int,unsigned long long)
+9	IClientScreenshotsMap::ResolvePath(CGameID,unsigned int,EScreenshotFile,char *,unsigned int)
+10	IClientScreenshotsMap::GetSizeOnDisk(CGameID,unsigned int)
+11	IClientScreenshotsMap::GetSizeInCloud(CGameID,unsigned int)
+12	IClientScreenshotsMap::IsPersisted(CGameID,unsigned int)
+13	IClientScreenshotsMap::GetNumGamesWithLocalScreenshots(void)
+14	IClientScreenshotsMap::GetGameWithLocalScreenshots(int)
+15	IClientScreenshotsMap::GetLocalScreenshotCount(CGameID)
+16	IClientScreenshotsMap::GetLocalScreenshot(CGameID,int,unsigned int *,int *,int *,unsigned int *,EUCMFilePrivacyState *,unsigned long long *,char *,unsigned int,bool *)
+17	IClientScreenshotsMap::GetLocalScreenshotByHandle(CGameID,unsigned int,int *,int *,unsigned int *,EUCMFilePrivacyState *,unsigned long long *,char *,unsigned int,bool *)
+18	IClientScreenshotsMap::SetLocalScreenshotCaption(CGameID,unsigned int,char const*)
+19	IClientScreenshotsMap::SetLocalScreenshotPrivacy(CGameID,unsigned int,EUCMFilePrivacyState)
+20	IClientScreenshotsMap::SetLocalScreenshotSpoiler(CGameID,unsigned int,bool)
+21	IClientScreenshotsMap::StartBatch(CGameID)
+22	IClientScreenshotsMap::AddToBatch(unsigned int)
+23	IClientScreenshotsMap::UploadBatch(EUCMFilePrivacyState)
+24	IClientScreenshotsMap::DeleteBatch(bool)
+25	IClientScreenshotsMap::CancelBatch(void)
+26	IClientScreenshotsMap::RecoverOldScreenshots(void)
+27	IClientScreenshotsMap::GetTaggedUserCount(CGameID,unsigned int)
+28	IClientScreenshotsMap::GetTaggedUser(CGameID,unsigned int,int)
+29	IClientScreenshotsMap::GetLocation(CGameID,unsigned int,char *,unsigned int)
+30	IClientScreenshotsMap::GetTaggedPublishedFileCount(CGameID,unsigned int)
+31	IClientScreenshotsMap::GetTaggedPublishedFile(CGameID,unsigned int,int)
+32	IClientScreenshotsMap::GetScreenshotVRType(CGameID,unsigned int)
+33	IClientScreenshotsMap::BGetUserScreenshotDirectory(char *,unsigned int)
+

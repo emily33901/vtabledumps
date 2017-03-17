@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::io::ArrayInputStream
+// Auto reconstructed from vtable block @ 0x00ED5340
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::io::ArrayInputStream::~ArrayInputStream()
+1	google::protobuf::io::ArrayInputStream::Next(void const**,int *)
+2	google::protobuf::io::ArrayInputStream::BackUp(int)
+3	google::protobuf::io::ArrayInputStream::Skip(int)
+4	google::protobuf::io::ArrayInputStream::ByteCount(void)const
+

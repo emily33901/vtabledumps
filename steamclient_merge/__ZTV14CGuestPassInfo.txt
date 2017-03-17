@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGuestPassInfo
+// Auto reconstructed from vtable block @ 0x00EE6940
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGuestPassInfo::~CGuestPassInfo()
+1	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+2	CMessageObject::BInternalSerialize(CUtlBuffer &)
+

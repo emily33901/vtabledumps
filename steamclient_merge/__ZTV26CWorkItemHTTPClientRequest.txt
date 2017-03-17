@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkItemHTTPClientRequest
+// Auto reconstructed from vtable block @ 0x00EE6290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemHTTPClientRequest::~CWorkItemHTTPClientRequest()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CWorkItemHTTPClientRequest::GetWorkItemName(void)const
+3	CWorkItemHTTPClientRequest::GetThreadProcessName(void)const
+4	CWorkItemHTTPClientRequest::ThreadProcess(CWorkThread *)
+5	CWorkItemHTTPClientRequest::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

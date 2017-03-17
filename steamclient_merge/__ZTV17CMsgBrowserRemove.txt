@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgBrowserRemove
+// Auto reconstructed from vtable block @ 0x00ECB520
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgBrowserRemove::~CMsgBrowserRemove()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgBrowserRemove::New(void)const
+3	CMsgBrowserRemove::Clear(void)
+4	CMsgBrowserRemove::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgBrowserRemove::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgBrowserRemove::ByteSize(void)const
+90	CMsgBrowserRemove::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgBrowserRemove::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgBrowserRemove::GetCachedSize(void)const
+12	CMsgBrowserRemove::CopyFrom(google::protobuf::Message const&)
+13	CMsgBrowserRemove::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

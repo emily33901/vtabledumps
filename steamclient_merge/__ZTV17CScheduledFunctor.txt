@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunctor
+// Auto reconstructed from vtable block @ 0x00F18330
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunctor::~CScheduledFunctor()
+1	CScheduledFunctor::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+3	CScheduledFunctor::ScheduleInternal(CFunctor *,long long)
+

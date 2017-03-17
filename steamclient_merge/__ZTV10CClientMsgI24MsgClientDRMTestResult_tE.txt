@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientDRMTestResult_t>
+// Auto reconstructed from vtable block @ 0x00EFD6DC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientDRMTestResult_t>::~CClientMsg()
+

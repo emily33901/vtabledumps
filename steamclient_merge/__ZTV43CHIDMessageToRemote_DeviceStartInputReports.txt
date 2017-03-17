@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDMessageToRemote_DeviceStartInputReports
+// Auto reconstructed from vtable block @ 0x00EC52F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageToRemote_DeviceStartInputReports::~CHIDMessageToRemote_DeviceStartInputReports()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHIDMessageToRemote_DeviceStartInputReports::New(void)const
+3	CHIDMessageToRemote_DeviceStartInputReports::Clear(void)
+4	CHIDMessageToRemote_DeviceStartInputReports::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHIDMessageToRemote_DeviceStartInputReports::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHIDMessageToRemote_DeviceStartInputReports::ByteSize(void)const
+90	CHIDMessageToRemote_DeviceStartInputReports::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHIDMessageToRemote_DeviceStartInputReports::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHIDMessageToRemote_DeviceStartInputReports::GetCachedSize(void)const
+12	CHIDMessageToRemote_DeviceStartInputReports::CopyFrom(google::protobuf::Message const&)
+13	CHIDMessageToRemote_DeviceStartInputReports::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

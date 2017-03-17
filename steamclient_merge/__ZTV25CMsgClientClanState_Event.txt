@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientClanState_Event
+// Auto reconstructed from vtable block @ 0x00EEBA80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientClanState_Event::~CMsgClientClanState_Event()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientClanState_Event::New(void)const
+3	CMsgClientClanState_Event::Clear(void)
+4	CMsgClientClanState_Event::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientClanState_Event::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientClanState_Event::ByteSize(void)const
+90	CMsgClientClanState_Event::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientClanState_Event::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientClanState_Event::GetCachedSize(void)const
+12	CMsgClientClanState_Event::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientClanState_Event::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

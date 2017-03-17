@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::RelayEntry
+// Auto reconstructed from vtable block @ 0x00ED6878
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::RelayEntry::~RelayEntry()
+1	sigslot::single_threaded::lock(void)
+2	sigslot::single_threaded::unlock(void)
+

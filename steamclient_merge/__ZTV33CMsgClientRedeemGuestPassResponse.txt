@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRedeemGuestPassResponse
+// Auto reconstructed from vtable block @ 0x00EEF030
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRedeemGuestPassResponse::~CMsgClientRedeemGuestPassResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRedeemGuestPassResponse::New(void)const
+3	CMsgClientRedeemGuestPassResponse::Clear(void)
+4	CMsgClientRedeemGuestPassResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRedeemGuestPassResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRedeemGuestPassResponse::ByteSize(void)const
+90	CMsgClientRedeemGuestPassResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRedeemGuestPassResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRedeemGuestPassResponse::GetCachedSize(void)const
+12	CMsgClientRedeemGuestPassResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRedeemGuestPassResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientRedeemGuestPassResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientRedeemGuestPassResponse::GetMetadata(void)const
+

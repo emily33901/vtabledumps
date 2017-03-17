@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPublishedFile_QueryFiles_Request_KVTag
+// Auto reconstructed from vtable block @ 0x00EC8CC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPublishedFile_QueryFiles_Request_KVTag::~CPublishedFile_QueryFiles_Request_KVTag()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPublishedFile_QueryFiles_Request_KVTag::New(void)const
+3	CPublishedFile_QueryFiles_Request_KVTag::Clear(void)
+4	CPublishedFile_QueryFiles_Request_KVTag::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPublishedFile_QueryFiles_Request_KVTag::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPublishedFile_QueryFiles_Request_KVTag::ByteSize(void)const
+90	CPublishedFile_QueryFiles_Request_KVTag::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPublishedFile_QueryFiles_Request_KVTag::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPublishedFile_QueryFiles_Request_KVTag::GetCachedSize(void)const
+12	CPublishedFile_QueryFiles_Request_KVTag::CopyFrom(google::protobuf::Message const&)
+13	CPublishedFile_QueryFiles_Request_KVTag::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

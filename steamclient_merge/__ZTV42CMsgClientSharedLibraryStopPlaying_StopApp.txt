@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientSharedLibraryStopPlaying_StopApp
+// Auto reconstructed from vtable block @ 0x00EF0E90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientSharedLibraryStopPlaying_StopApp::~CMsgClientSharedLibraryStopPlaying_StopApp()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientSharedLibraryStopPlaying_StopApp::New(void)const
+3	CMsgClientSharedLibraryStopPlaying_StopApp::Clear(void)
+4	CMsgClientSharedLibraryStopPlaying_StopApp::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientSharedLibraryStopPlaying_StopApp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientSharedLibraryStopPlaying_StopApp::ByteSize(void)const
+90	CMsgClientSharedLibraryStopPlaying_StopApp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientSharedLibraryStopPlaying_StopApp::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientSharedLibraryStopPlaying_StopApp::GetCachedSize(void)const
+12	CMsgClientSharedLibraryStopPlaying_StopApp::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientSharedLibraryStopPlaying_StopApp::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

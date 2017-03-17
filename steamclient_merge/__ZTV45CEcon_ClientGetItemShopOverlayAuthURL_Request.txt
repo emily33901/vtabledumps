@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEcon_ClientGetItemShopOverlayAuthURL_Request
+// Auto reconstructed from vtable block @ 0x00EC4200
+// from "steamclient.dylib", by ida_vtables.idc
+0	CEcon_ClientGetItemShopOverlayAuthURL_Request::~CEcon_ClientGetItemShopOverlayAuthURL_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CEcon_ClientGetItemShopOverlayAuthURL_Request::New(void)const
+3	CEcon_ClientGetItemShopOverlayAuthURL_Request::Clear(void)
+4	CEcon_ClientGetItemShopOverlayAuthURL_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CEcon_ClientGetItemShopOverlayAuthURL_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CEcon_ClientGetItemShopOverlayAuthURL_Request::ByteSize(void)const
+90	CEcon_ClientGetItemShopOverlayAuthURL_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CEcon_ClientGetItemShopOverlayAuthURL_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CEcon_ClientGetItemShopOverlayAuthURL_Request::GetCachedSize(void)const
+12	CEcon_ClientGetItemShopOverlayAuthURL_Request::CopyFrom(google::protobuf::Message const&)
+13	CEcon_ClientGetItemShopOverlayAuthURL_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CEcon_ClientGetItemShopOverlayAuthURL_Request::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CEcon_ClientGetItemShopOverlayAuthURL_Request::GetMetadata(void)const
+

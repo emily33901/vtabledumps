@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'std::__1::bad_function_call
+// Auto reconstructed from vtable block @ 0x00F017E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	std::__1::bad_function_call::~bad_function_call()
+1	std::exception::what(void)const
+

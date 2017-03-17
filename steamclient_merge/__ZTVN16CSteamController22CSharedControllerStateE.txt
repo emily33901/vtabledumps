@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamController::CSharedControllerState
+// Auto reconstructed from vtable block @ 0x00ED07D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamController::CSharedControllerState::~CSharedControllerState()
+1	CSteamController::CSharedControllerState::GetNumConnectedControllers(void)
+2	CSteamController::CSharedControllerState::GetAllControllersStatus(ControllersStatus_t &)
+3	CSteamController::CSharedControllerState::GetControllerState(unsigned int,SteamControllerStateInternal_t *)
+4	CSteamController::CSharedControllerState::GetControllerStatusEvent(unsigned int,Voltroller::SteamControllerStatusEvent_t *)
+5	CSteamController::CSharedControllerState::BIsControllerWirelessDongle(unsigned int)
+6	CSteamController::CSharedControllerState::SetDonglePairingMode(bool,int)
+7	CSteamController::CSharedControllerState::SetDonglePairingResult(unsigned int,bool)
+8	CSteamController::CSharedControllerState::TriggerHapticPulse(unsigned int,ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
+90	CSteamController::CSharedControllerState::TriggerVibration(unsigned int,unsigned short,unsigned short)
+10	CSteamController::CSharedControllerState::SetLEDColor(unsigned int,unsigned char,unsigned char,unsigned char,unsigned int)
+11	CSteamController::CSharedControllerState::TurnOffController(unsigned int)
+

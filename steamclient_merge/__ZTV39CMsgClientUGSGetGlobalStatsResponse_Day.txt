@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUGSGetGlobalStatsResponse_Day
+// Auto reconstructed from vtable block @ 0x00EEEC70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUGSGetGlobalStatsResponse_Day::~CMsgClientUGSGetGlobalStatsResponse_Day()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUGSGetGlobalStatsResponse_Day::New(void)const
+3	CMsgClientUGSGetGlobalStatsResponse_Day::Clear(void)
+4	CMsgClientUGSGetGlobalStatsResponse_Day::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUGSGetGlobalStatsResponse_Day::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUGSGetGlobalStatsResponse_Day::ByteSize(void)const
+90	CMsgClientUGSGetGlobalStatsResponse_Day::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUGSGetGlobalStatsResponse_Day::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUGSGetGlobalStatsResponse_Day::GetCachedSize(void)const
+12	CMsgClientUGSGetGlobalStatsResponse_Day::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUGSGetGlobalStatsResponse_Day::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUGSGetGlobalStatsResponse_Day::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUGSGetGlobalStatsResponse_Day::GetMetadata(void)const
+

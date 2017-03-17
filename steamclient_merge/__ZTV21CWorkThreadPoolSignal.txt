@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkThreadPoolSignal
+// Auto reconstructed from vtable block @ 0x00EF2C20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkThreadPoolSignal::Signal(void)
+1	CWorkThreadPoolSignal::~CWorkThreadPoolSignal()
+

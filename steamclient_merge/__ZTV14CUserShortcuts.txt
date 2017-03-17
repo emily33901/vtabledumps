@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUserShortcuts
+// Auto reconstructed from vtable block @ 0x00ED4E20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUserShortcuts::GetUniqueLocalAppId(void)
+1	CUserShortcuts::GetGameIDForAppID(unsigned int)
+2	CUserShortcuts::GetAppIDForGameID(CGameID)
+3	CUserShortcuts::GetShortcutCount(void)
+

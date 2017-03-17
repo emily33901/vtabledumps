@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::MP4::Item::ItemPrivate
+// Auto reconstructed from vtable block @ 0x00F25FB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MP4::Item::ItemPrivate::~ItemPrivate()
+

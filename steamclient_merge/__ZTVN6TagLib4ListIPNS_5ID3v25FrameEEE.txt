@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::List<TagLib::ID3v2::Frame *>
+// Auto reconstructed from vtable block @ 0x00F0D468
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::List<TagLib::ID3v2::Frame *>::~List()
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRemoteClientBroadcastStatus
+// Auto reconstructed from vtable block @ 0x00EC9B70
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteClientBroadcastStatus::~CMsgRemoteClientBroadcastStatus()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRemoteClientBroadcastStatus::New(void)const
+3	CMsgRemoteClientBroadcastStatus::Clear(void)
+4	CMsgRemoteClientBroadcastStatus::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRemoteClientBroadcastStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRemoteClientBroadcastStatus::ByteSize(void)const
+90	CMsgRemoteClientBroadcastStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRemoteClientBroadcastStatus::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRemoteClientBroadcastStatus::GetCachedSize(void)const
+12	CMsgRemoteClientBroadcastStatus::CopyFrom(google::protobuf::Message const&)
+13	CMsgRemoteClientBroadcastStatus::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRemoteClientBroadcastStatus::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRemoteClientBroadcastStatus::GetMetadata(void)const
+

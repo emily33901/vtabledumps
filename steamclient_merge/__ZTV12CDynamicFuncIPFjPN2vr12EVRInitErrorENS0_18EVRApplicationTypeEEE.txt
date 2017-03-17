@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<unsigned int (*)(vr::EVRInitError *,vr::EVRApplicationType)>
+// Auto reconstructed from vtable block @ 0x00F27540
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<unsigned int (*)(vr::EVRInitError *,vr::EVRApplicationType)>::Init(CSysModule *)
+1	CDynamicFunc<unsigned int (*)(vr::EVRInitError *,vr::EVRApplicationType)>::Release(void)
+2	CDynamicFunc<unsigned int (*)(vr::EVRInitError *,vr::EVRApplicationType)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<unsigned int (*)(vr::EVRInitError *,vr::EVRApplicationType)>::GetNextPointer(void)
+

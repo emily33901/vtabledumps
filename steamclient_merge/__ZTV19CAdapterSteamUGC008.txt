@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUGC008
+// Auto reconstructed from vtable block @ 0x00F075A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUGC008::CreateQueryUserUGCRequest(unsigned int,EUserUGCList,EUGCMatchingUGCType,EUserUGCListSortOrder,unsigned int,unsigned int,unsigned int)
+1	CAdapterSteamUGC008::CreateQueryAllUGCRequest(EUGCQuery,EUGCMatchingUGCType,unsigned int,unsigned int,unsigned int)
+2	CAdapterSteamUGC008::CreateQueryUGCDetailsRequest(unsigned long long *,unsigned int)
+3	CAdapterSteamUGC008::SendQueryUGCRequest(unsigned long long)
+4	CAdapterSteamUGC008::GetQueryUGCResult(unsigned long long,unsigned int,SteamUGCDetails_t *)
+5	CAdapterSteamUGC008::GetQueryUGCPreviewURL(unsigned long long,unsigned int,char *,unsigned int)
+6	CAdapterSteamUGC008::GetQueryUGCMetadata(unsigned long long,unsigned int,char *,unsigned int)
+7	CAdapterSteamUGC008::GetQueryUGCChildren(unsigned long long,unsigned int,unsigned long long *,unsigned int)
+8	CAdapterSteamUGC008::GetQueryUGCStatistic(unsigned long long,unsigned int,EItemStatistic,unsigned int *)
+9	CAdapterSteamUGC008::GetQueryUGCNumAdditionalPreviews(unsigned long long,unsigned int)
+10	CAdapterSteamUGC008::GetQueryUGCAdditionalPreview(unsigned long long,unsigned int,unsigned int,char *,unsigned int,char *,unsigned int,EItemPreviewType *)
+11	CAdapterSteamUGC008::GetQueryUGCNumKeyValueTags(unsigned long long,unsigned int)
+12	CAdapterSteamUGC008::GetQueryUGCKeyValueTag(unsigned long long,unsigned int,unsigned int,char *,unsigned int,char *,unsigned int)
+13	CAdapterSteamUGC008::ReleaseQueryUGCRequest(unsigned long long)
+14	CAdapterSteamUGC008::AddRequiredTag(unsigned long long,char const*)
+15	CAdapterSteamUGC008::AddExcludedTag(unsigned long long,char const*)
+

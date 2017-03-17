@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamNetworking002
+// Auto reconstructed from vtable block @ 0x00F08290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamNetworking002::CreateListenSocket(int,unsigned int,unsigned short,bool)
+1	CAdapterSteamNetworking002::CreateP2PConnectionSocket(CSteamID,int,int,bool)
+2	CAdapterSteamNetworking002::CreateConnectionSocket(unsigned int,unsigned short,int)
+3	CAdapterSteamNetworking002::DestroySocket(unsigned int,bool)
+4	CAdapterSteamNetworking002::DestroyListenSocket(unsigned int,bool)
+5	CAdapterSteamNetworking002::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
+6	CAdapterSteamNetworking002::IsDataAvailableOnSocket(unsigned int,unsigned int *)
+7	CAdapterSteamNetworking002::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
+8	CAdapterSteamNetworking002::IsDataAvailable(unsigned int,unsigned int *,unsigned int *)
+9	CAdapterSteamNetworking002::RetrieveData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *)
+10	CAdapterSteamNetworking002::GetSocketInfo(unsigned int,CSteamID *,int *,unsigned int *,unsigned short *)
+11	CAdapterSteamNetworking002::GetListenSocketInfo(unsigned int,unsigned int *,unsigned short *)
+12	CAdapterSteamNetworking002::GetSocketConnectionType(unsigned int)
+13	CAdapterSteamNetworking002::GetMaxPacketSize(unsigned int)
+

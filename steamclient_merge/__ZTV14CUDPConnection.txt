@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUDPConnection
+// Auto reconstructed from vtable block @ 0x00EF20F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetConnection::RecvPlaintext(unsigned char *,unsigned int)
+1	CNetConnection::SendEncryptedData(unsigned char *,unsigned int)
+

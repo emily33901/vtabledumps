@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgBrowserCreateResponse>
+// Auto reconstructed from vtable block @ 0x00F05E68
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgBrowserCreateResponse>::~CHTMLProtoBufMsg()
+

@@ -1,0 +1,42 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CReleaseActivator
+// Auto reconstructed from vtable block @ 0x00F022F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CReleaseActivator::~CReleaseActivator()
+1	CReleaseActivator::Update(SourceState *,IInputGenerator *)
+2	CControllerActivatorImpl::SetBinding(IDigitalBinding const*)
+3	CControllerActivatorImpl::GetBindings(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
+4	CControllerActivatorImpl::GetUISetting(EControllerSetting,int *)const
+5	CControllerActivatorImpl::GetRawSetting(EControllerSetting,int *)const
+6	CControllerActivatorImpl::SetSetting(EControllerSetting,int)
+7	CControllerActivatorImpl::GetSettingUIDefault(EControllerSetting,int *)const
+8	CControllerActivatorImpl::GetSettingRawDefault(EControllerSetting,int *)const
+90	CReleaseActivator::GetActivatorBindings(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> &,EControllerModeInput)const
+10	CControllerActivatorImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
+11	CReleaseActivator::Connect(IInputGenerator *)
+12	CReleaseActivator::Disconnect(IInputGenerator *,bool)
+13	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
+14	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
+15	CControllerActivatorImpl::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
+16	CReleaseActivator::ActivationEvent(IControllerMode *,IInputGenerator *,bool)
+17	CControllerActivatorImpl::RemoveModeShiftBindingsForSource(EControllerSource)
+18	IControllerActivator::IsPaused(void)
+19	CControllerActivatorImpl::SetPaused(bool,int)
+20	CReleaseActivator::IsPausable(void)
+21	CControllerActivatorImpl::IsPersistent(void)
+22	CControllerActivatorImpl::ResetFromPause(void)
+23	CControllerActivatorImpl::ClearEventQueue(void)
+24	CControllerActivatorImpl::GetAnalogThreshold(void)
+25	CControllerActivatorImpl::GetInput(void)
+26	CControllerActivatorImpl::GetID(void)
+27	CControllerActivatorImpl::SetHapticLocation(ESteamControllerPad)
+28	CControllerActivatorImpl::GetHapticLocation(void)
+29	CReleaseActivator::GetActivatorType(void)
+30	CReleaseActivator::Validate(CValidator &,char const*)
+31	CControllerActivatorImpl::PopulateBinding(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> const&,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &)
+32	CControllerActivatorImpl::SendInputEvent(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IInputGenerator *,bool)
+33	CControllerActivatorImpl::UpdateBinding(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IDigitalBinding const*)
+34	CControllerActivatorImpl::IsModifierKey(BindingAction_t *)
+

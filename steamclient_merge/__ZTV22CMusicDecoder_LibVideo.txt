@@ -1,0 +1,22 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMusicDecoder_LibVideo
+// Auto reconstructed from vtable block @ 0x00ED2B20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMusicDecoder_LibVideo::~CMusicDecoder_LibVideo()
+1	CMusicDecoder_LibVideo::Init(void)
+2	CMusicDecoder_LibVideo::Reset(void)
+3	CMusicDecoder_LibVideo::SetPlaying(bool)
+4	CMusicDecoder_LibVideo::IsStarted(void)
+5	CMusicDecoder_LibVideo::IsPlaying(void)
+6	CMusicDecoder_LibVideo::IsFinished(void)
+7	CMusicDecoder_LibVideo::GetTrackURI(void)
+8	CMusicDecoder_LibVideo::SetVolume(float)
+90	CMusicDecoder_LibVideo::GetDurationMS(void)
+10	CMusicDecoder_LibVideo::GetOffsetMS(void)
+11	CMusicDecoder_LibVideo::SetOffsetMS(int)
+12	CMusicDecoder_LibVideo::BNeedsOutputBuffer(void)
+13	CMusicDecoder_LibVideo::GetReadAvailable(bool *)
+14	CMusicDecoder_LibVideo::Read(void *,unsigned int)
+

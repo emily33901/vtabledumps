@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::IOStream
+// Auto reconstructed from vtable block @ 0x00EE3C70
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::IOStream::~IOStream()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+90	TagLib::IOStream::clear(void)
+10	___cxa_pure_virtual
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+

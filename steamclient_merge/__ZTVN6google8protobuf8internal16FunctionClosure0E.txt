@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::internal::FunctionClosure0
+// Auto reconstructed from vtable block @ 0x00ED52C8
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::internal::FunctionClosure0::~FunctionClosure0()
+1	google::protobuf::internal::FunctionClosure0::Run(void)
+

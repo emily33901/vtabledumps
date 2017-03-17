@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::TCPConnection
+// Auto reconstructed from vtable block @ 0x00ED6790
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::TCPConnection::~TCPConnection()
+1	cricket::Connection::OnMessage(talk_base::Message *)
+2	cricket::Connection::local_candidate(void)const
+3	cricket::TCPConnection::Send(void const*,unsigned long)
+4	cricket::TCPConnection::GetError(void)
+

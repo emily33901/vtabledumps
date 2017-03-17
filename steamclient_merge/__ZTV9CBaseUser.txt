@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseUser
+// Auto reconstructed from vtable block @ 0x00ECE550
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBaseUser::~CBaseUser()
+1	CBaseUser::Init(void)
+2	CBaseUser::Shutdown(void)
+

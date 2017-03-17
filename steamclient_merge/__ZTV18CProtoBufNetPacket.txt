@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CProtoBufNetPacket
+// Auto reconstructed from vtable block @ 0x00F2CBD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CProtoBufNetPacket::~CProtoBufNetPacket()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CProtoBufNetPacket::GetEMsgFormatType(void)const
+3	CProtoBufNetPacket::GetCNetPacket(void)const
+4	CProtoBufNetPacket::GetHConnection(void)const
+5	CProtoBufNetPacket::SetHConnection(unsigned int)
+6	CProtoBufNetPacket::PubData(void)const
+7	CProtoBufNetPacket::CubData(void)const
+8	CProtoBufNetPacket::GetEMsg(void)const
+90	CProtoBufNetPacket::GetSourceJobID(void)const
+10	CProtoBufNetPacket::GetTargetJobID(void)const
+11	CProtoBufNetPacket::SetTargetJobID(unsigned long long)
+12	CProtoBufNetPacket::SetSourceJobID(unsigned long long)
+13	CProtoBufNetPacket::GetSteamID(void)const
+14	CProtoBufNetPacket::SetSteamID(CSteamID)
+15	CProtoBufNetPacket::GetSessionID(void)const
+

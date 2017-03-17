@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::CryptStringImpl
+// Auto reconstructed from vtable block @ 0x00F1E33C
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::CryptStringImpl::~CryptStringImpl()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+

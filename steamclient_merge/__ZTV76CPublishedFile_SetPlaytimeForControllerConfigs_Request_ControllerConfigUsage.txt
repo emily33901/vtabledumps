@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage
+// Auto reconstructed from vtable block @ 0x00EC9020
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::~CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::New(void)const
+3	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::Clear(void)
+4	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::ByteSize(void)const
+90	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::GetCachedSize(void)const
+12	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::CopyFrom(google::protobuf::Message const&)
+13	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPublishedFile_SetPlaytimeForControllerConfigs_Request_ControllerConfigUsage::GetMetadata(void)const
+

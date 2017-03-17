@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientDepotBuilderMap
+// Auto reconstructed from vtable block @ 0x00F0C1F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientDepotBuilderMap::BGetDepotBuildStatus(unsigned long long,EDepotBuildStatus *,unsigned long long *,unsigned long long *)
+1	IClientDepotBuilderMap::VerifyChunkStore(unsigned int,unsigned int,char const*)
+2	IClientDepotBuilderMap::DownloadDepot(unsigned int,unsigned int,unsigned long long,unsigned long long,unsigned long long,unsigned int)
+3	IClientDepotBuilderMap::StartDepotBuild(unsigned int,unsigned int,unsigned int,char const*)
+4	IClientDepotBuilderMap::CommitAppBuild(unsigned int,unsigned int,unsigned int const*,unsigned long long const*,char const*,char const*)
+

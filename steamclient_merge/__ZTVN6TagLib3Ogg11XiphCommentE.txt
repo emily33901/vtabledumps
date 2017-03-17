@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::XiphComment
+// Auto reconstructed from vtable block @ 0x00EE3898
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::XiphComment::~XiphComment()
+1	TagLib::Ogg::XiphComment::title(void)const
+2	TagLib::Ogg::XiphComment::artist(void)const
+3	TagLib::Ogg::XiphComment::album(void)const
+4	TagLib::Ogg::XiphComment::comment(void)const
+5	TagLib::Ogg::XiphComment::genre(void)const
+6	TagLib::Ogg::XiphComment::year(void)const
+7	TagLib::Ogg::XiphComment::track(void)const
+8	TagLib::Ogg::XiphComment::setTitle(TagLib::String const&)
+90	TagLib::Ogg::XiphComment::setArtist(TagLib::String const&)
+10	TagLib::Ogg::XiphComment::setAlbum(TagLib::String const&)
+11	TagLib::Ogg::XiphComment::setComment(TagLib::String const&)
+12	TagLib::Ogg::XiphComment::setGenre(TagLib::String const&)
+13	TagLib::Ogg::XiphComment::setYear(unsigned int)
+14	TagLib::Ogg::XiphComment::setTrack(unsigned int)
+15	TagLib::Ogg::XiphComment::isEmpty(void)const
+

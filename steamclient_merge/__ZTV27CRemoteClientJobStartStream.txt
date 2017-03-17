@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRemoteClientJobStartStream
+// Auto reconstructed from vtable block @ 0x00ED2F00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRemoteClientJobStartStream::~CRemoteClientJobStartStream()
+1	CBaseRemoteClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+

@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CRemoteClientManager>
+// Auto reconstructed from vtable block @ 0x00F106A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CRemoteClientManager>::~CScheduledFunction()
+1	CScheduledFunction<CRemoteClientManager>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

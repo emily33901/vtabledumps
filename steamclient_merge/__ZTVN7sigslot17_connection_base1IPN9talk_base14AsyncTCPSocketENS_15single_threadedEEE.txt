@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'sigslot::_connection_base1<talk_base::AsyncTCPSocket *,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1E9C4
+// from "steamclient.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+

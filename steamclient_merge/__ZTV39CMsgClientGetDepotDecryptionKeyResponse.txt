@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientGetDepotDecryptionKeyResponse
+// Auto reconstructed from vtable block @ 0x00EEE790
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientGetDepotDecryptionKeyResponse::~CMsgClientGetDepotDecryptionKeyResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientGetDepotDecryptionKeyResponse::New(void)const
+3	CMsgClientGetDepotDecryptionKeyResponse::Clear(void)
+4	CMsgClientGetDepotDecryptionKeyResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientGetDepotDecryptionKeyResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientGetDepotDecryptionKeyResponse::ByteSize(void)const
+90	CMsgClientGetDepotDecryptionKeyResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientGetDepotDecryptionKeyResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientGetDepotDecryptionKeyResponse::GetCachedSize(void)const
+12	CMsgClientGetDepotDecryptionKeyResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientGetDepotDecryptionKeyResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

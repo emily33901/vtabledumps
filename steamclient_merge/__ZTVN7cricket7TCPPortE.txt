@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::TCPPort
+// Auto reconstructed from vtable block @ 0x00ED6750
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::TCPPort::~TCPPort()
+1	cricket::Port::OnMessage(talk_base::Message *)
+2	cricket::TCPPort::PrepareAddress(void)
+3	cricket::TCPPort::CreateConnection(cricket::Candidate const&,cricket::Port::CandidateOrigin)
+4	cricket::TCPPort::SendTo(void const*,unsigned long,talk_base::SocketAddress const&,bool)
+5	cricket::TCPPort::SetOption(talk_base::Socket::Option,int)
+6	cricket::TCPPort::GetError(void)
+

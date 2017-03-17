@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV013
+// Auto reconstructed from vtable block @ 0x00F0ACE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV013::GetHSteamUser(void)
+1	CSteamUserV013::BLoggedOn(void)
+2	CSteamUserV013::GetSteamID(void)
+3	CSteamUserV013::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
+4	CSteamUserV013::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV013::TrackAppUsageEvent(CGameID,int,char const*)
+6	CSteamUserV013::GetUserDataFolder(char *,int)
+7	CSteamUserV013::StartVoiceRecording(void)
+8	CSteamUserV013::StopVoiceRecording(void)
+9	CSteamUserV013::GetAvailableVoice(unsigned int *,unsigned int *)
+10	CSteamUserV013::GetVoice(bool,void *,unsigned int,unsigned int *,bool,void *,unsigned int,unsigned int *)
+11	CSteamUserV013::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *)
+12	CSteamUserV013::GetAuthSessionTicket(void *,int,unsigned int *)
+13	CSteamUserV013::BeginAuthSession(void const*,int,CSteamID)
+14	CSteamUserV013::EndAuthSession(CSteamID)
+15	CSteamUserV013::CancelAuthTicket(unsigned int)
+

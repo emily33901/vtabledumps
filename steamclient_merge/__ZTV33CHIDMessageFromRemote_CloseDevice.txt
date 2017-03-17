@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDMessageFromRemote_CloseDevice
+// Auto reconstructed from vtable block @ 0x00EC5590
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageFromRemote_CloseDevice::~CHIDMessageFromRemote_CloseDevice()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHIDMessageFromRemote_CloseDevice::New(void)const
+3	CHIDMessageFromRemote_CloseDevice::Clear(void)
+4	CHIDMessageFromRemote_CloseDevice::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHIDMessageFromRemote_CloseDevice::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHIDMessageFromRemote_CloseDevice::ByteSize(void)const
+90	CHIDMessageFromRemote_CloseDevice::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHIDMessageFromRemote_CloseDevice::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHIDMessageFromRemote_CloseDevice::GetCachedSize(void)const
+12	CHIDMessageFromRemote_CloseDevice::CopyFrom(google::protobuf::Message const&)
+13	CHIDMessageFromRemote_CloseDevice::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

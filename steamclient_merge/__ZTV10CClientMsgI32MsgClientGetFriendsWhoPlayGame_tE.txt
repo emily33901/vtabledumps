@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientGetFriendsWhoPlayGame_t>
+// Auto reconstructed from vtable block @ 0x00F1644C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientGetFriendsWhoPlayGame_t>::~CClientMsg()
+

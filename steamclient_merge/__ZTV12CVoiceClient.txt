@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVoiceClient
+// Auto reconstructed from vtable block @ 0x00ECB008
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVoiceClient::NotifyLocalCandidate(IP2PSocket *,char const*,char const*,char const*,unsigned short,float,char const*,char const*,char const*,char const*,unsigned int)
+1	CVoiceClient::OnP2PStateChanged(IP2PSocket *,EP2PState,EP2PState)
+

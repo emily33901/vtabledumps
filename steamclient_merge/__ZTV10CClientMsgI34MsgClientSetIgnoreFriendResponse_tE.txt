@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientSetIgnoreFriendResponse_t>
+// Auto reconstructed from vtable block @ 0x00EFC8CC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientSetIgnoreFriendResponse_t>::~CClientMsg()
+

@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDRM
+// Auto reconstructed from vtable block @ 0x00ECE7C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDRM::~CDRM()
+1	CDRM::Notify(IDRMPendingRequest *)
+2	CDRM::ErrorNotify(unsigned int,char *)
+

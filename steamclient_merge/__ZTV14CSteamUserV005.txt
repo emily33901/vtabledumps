@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV005
+// Auto reconstructed from vtable block @ 0x00F0AEF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV005::GetHSteamUser(void)
+1	CSteamUserV005::LogOn(CSteamID)
+2	CSteamUserV005::LogOff(void)
+3	CSteamUserV005::BLoggedOn(void)
+4	CSteamUserV005::GetLogonState(void)
+5	CSteamUserV005::BConnected(void)
+6	CSteamUserV005::GetSteamID(void)
+7	CSteamUserV005::IsVACBanned(int)
+8	CSteamUserV005::RequireShowVACBannedMessage(int)
+9	CSteamUserV005::AcknowledgeVACBanning(int)
+10	CSteamUserV005::SetSteam2Ticket(unsigned char *,int)
+11	CSteamUserV005::AddServerNetAddress(unsigned int,unsigned short)
+12	CSteamUserV005::SetEmail(char const*)
+13	CSteamUserV005::SetRegistryString(EConfigSubTree,char const*,char const*)
+14	CSteamUserV005::GetRegistryString(EConfigSubTree,char const*,char *,int)
+15	CSteamUserV005::SetRegistryInt(EConfigSubTree,char const*,int)
+

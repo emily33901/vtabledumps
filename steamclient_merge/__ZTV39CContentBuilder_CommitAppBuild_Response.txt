@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CContentBuilder_CommitAppBuild_Response
+// Auto reconstructed from vtable block @ 0x00EC34F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CContentBuilder_CommitAppBuild_Response::~CContentBuilder_CommitAppBuild_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CContentBuilder_CommitAppBuild_Response::New(void)const
+3	CContentBuilder_CommitAppBuild_Response::Clear(void)
+4	CContentBuilder_CommitAppBuild_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CContentBuilder_CommitAppBuild_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CContentBuilder_CommitAppBuild_Response::ByteSize(void)const
+90	CContentBuilder_CommitAppBuild_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CContentBuilder_CommitAppBuild_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CContentBuilder_CommitAppBuild_Response::GetCachedSize(void)const
+12	CContentBuilder_CommitAppBuild_Response::CopyFrom(google::protobuf::Message const&)
+13	CContentBuilder_CommitAppBuild_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

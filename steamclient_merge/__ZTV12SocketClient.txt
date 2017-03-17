@@ -1,0 +1,38 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'SocketClient
+// Auto reconstructed from vtable block @ 0x00EF2410
+// from "steamclient.dylib", by ida_vtables.idc
+0	SocketClient::OnTcpOpen(cricket::PseudoTcp *)
+1	SocketClient::OnTcpReadable(cricket::PseudoTcp *)
+2	SocketClient::OnTcpWriteable(cricket::PseudoTcp *)
+3	SocketClient::OnTcpClosed(cricket::PseudoTcp *,unsigned int)
+4	SocketClient::TcpWritePacket(cricket::PseudoTcp *,char const*,unsigned long)
+5	SocketClient::~SocketClient()
+6	SocketClient::GetSocketType(void)const
+7	SocketClient::GetSteamID(void)const
+8	SocketClient::Init(void)
+90	SocketClient::Close(bool,EP2PDisconnectReason)
+10	SocketClient::Think(void)
+11	SocketClient::CanSend(void)const
+12	SocketClient::Send(char const*,unsigned int,eSocketType,bool)
+13	SocketClient::MessageWaiting(void)const
+14	SocketClient::GetMessageSize(void)const
+15	SocketClient::ReceiveMessage(talk_base::ByteBuffer **)
+16	SocketClient::IsWritable(void)const
+17	SocketClient::IsReadable(void)const
+18	SocketClient::IsDead(void)const
+19	SocketClient::GetDisconnectReason(void)const
+20	SocketClient::GetFlow(int)const
+21	SocketClient::OnCandidatesReady(cricket::TransportChannelImpl *,buzz::XmlElement *)
+22	SocketClient::OnTransportSendMessage(cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&)
+23	SocketClient::SetTimeout(unsigned int)
+24	SocketClient::GetTimeout(void)const
+25	SocketClient::GetLocalAddress(char *,unsigned long)
+26	SocketClient::GetRemoteAddress(char *,unsigned long)
+27	SocketClient::GetRemoteNetadr(void)const
+28	SocketClient::SetPortTypes(unsigned int)
+29	SocketClient::BUsingRelay(void)const
+30	SocketClient::OnBestConnectionChange(char const*)
+

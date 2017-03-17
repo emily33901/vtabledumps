@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamHTMLSurface002
+// Auto reconstructed from vtable block @ 0x00F07C40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamHTMLSurface002::~CAdapterSteamHTMLSurface002()
+1	CAdapterSteamHTMLSurface002::Init(void)
+2	CAdapterSteamHTMLSurface002::Shutdown(void)
+3	CAdapterSteamHTMLSurface002::CreateBrowser(char const*,char const*)
+4	CAdapterSteamHTMLSurface002::RemoveBrowser(unsigned int)
+5	CAdapterSteamHTMLSurface002::LoadURL(unsigned int,char const*,char const*)
+6	CAdapterSteamHTMLSurface002::SetSize(unsigned int,unsigned int,unsigned int)
+7	CAdapterSteamHTMLSurface002::StopLoad(unsigned int)
+8	CAdapterSteamHTMLSurface002::Reload(unsigned int)
+90	CAdapterSteamHTMLSurface002::GoBack(unsigned int)
+10	CAdapterSteamHTMLSurface002::GoForward(unsigned int)
+11	CAdapterSteamHTMLSurface002::AddHeader(unsigned int,char const*,char const*)
+12	CAdapterSteamHTMLSurface002::ExecuteJavascript(unsigned int,char const*)
+13	CAdapterSteamHTMLSurface002::MouseUp(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+14	CAdapterSteamHTMLSurface002::MouseDown(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+15	CAdapterSteamHTMLSurface002::MouseDoubleClick(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+

@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::Signaler
+// Auto reconstructed from vtable block @ 0x00F1DC5C
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::EventDispatcher::GetRequestedEvents(void)
+1	talk_base::EventDispatcher::OnPreEvent(unsigned int)
+2	talk_base::Signaler::OnEvent(unsigned int,int)
+3	talk_base::EventDispatcher::GetDescriptor(void)
+4	talk_base::Signaler::~Signaler()
+5	talk_base::EventDispatcher::Signal(void)
+

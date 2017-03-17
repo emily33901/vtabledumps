@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamControllerAbstraction
+// Auto reconstructed from vtable block @ 0x00F02130
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamControllerAbstraction::~CSteamControllerAbstraction()
+1	CSteamControllerAbstraction::SetupController(void)
+2	CSteamControllerAbstraction::TurnOffController(void)
+3	CSteamControllerAbstraction::ReadInput(void)
+4	CSteamControllerAbstraction::GetControllerInfo(ControllerDetails_t &)
+5	CSteamControllerAbstraction::GetChipId(char *,unsigned long)
+6	CSteamControllerAbstraction::ProcessState(SteamControllerStateInternal_t &)
+7	CSteamControllerAbstraction::GetWirelessEvent(void)
+8	CSteamControllerAbstraction::GetStatus(Voltroller::SteamControllerStatusEvent_t &)
+90	CSteamControllerAbstraction::SetSettings(Voltroller::ControllerSetting *,unsigned long)
+10	CSteamControllerAbstraction::SetUserLedColor(unsigned char,unsigned char,unsigned char)
+11	CSteamControllerAbstraction::TriggerHapticPulse(int,unsigned short,unsigned short,unsigned short,unsigned char)
+12	CSteamControllerAbstraction::SetRumble(int,int,unsigned short,unsigned short)
+13	CControllerAbstractionBase::GetSocket(void)
+

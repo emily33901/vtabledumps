@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInternalCallback<CVRManager,AppConfigInitialized_t>
+// Auto reconstructed from vtable block @ 0x00F1DAD8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CVRManager,AppConfigInitialized_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)
+

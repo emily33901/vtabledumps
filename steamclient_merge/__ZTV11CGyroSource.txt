@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGyroSource
+// Auto reconstructed from vtable block @ 0x00F03670
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGyroSource::~CGyroSource()
+1	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+2	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+3	CGyroSource::GetHapticLocation(void)
+4	CGyroSource::SetAntiDrift(Vector)
+5	CGyroSource::Update(SteamControllerStateInternal_t const*)
+6	IControllerSource::Validate(CValidator &,char const*)
+

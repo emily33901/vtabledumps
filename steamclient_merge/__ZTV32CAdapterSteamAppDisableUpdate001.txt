@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamAppDisableUpdate001
+// Auto reconstructed from vtable block @ 0x00F0737C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamAppDisableUpdate001::SetAppUpdateDisabledSecondsRemaining(unsigned int)
+

@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamServiceBaseImpl
+// Auto reconstructed from vtable block @ 0x00ECADC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamServiceBaseImpl::ConnectSteamService(int)
+1	CSteamServiceBaseImpl::ReleaseSteamService(void)
+2	CSteamServiceBaseImpl::IsInstalled(void)
+3	CSteamServiceBaseImpl::InstallService(void)
+

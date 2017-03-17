@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IClientGameNotificationsMap
+// Auto reconstructed from vtable block @ 0x00F0B420
+// from "steamclient.dylib", by ida_vtables.idc
+0	IClientGameNotificationsMap::EnumerateNotifications(unsigned int)
+1	IClientGameNotificationsMap::GetNotificationCount(unsigned int)
+2	IClientGameNotificationsMap::GetNotification(unsigned int,int,GameNotification_t *)
+3	IClientGameNotificationsMap::RemoveSession(unsigned int,unsigned long long)
+4	IClientGameNotificationsMap::UpdateSession(unsigned int,unsigned long long)
+

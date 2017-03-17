@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::SocketDispatcher
+// Auto reconstructed from vtable block @ 0x00F1DD3C
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::SocketDispatcher::GetRequestedEvents(void)
+1	talk_base::SocketDispatcher::OnPreEvent(unsigned int)
+2	talk_base::SocketDispatcher::OnEvent(unsigned int,int)
+3	talk_base::SocketDispatcher::GetDescriptor(void)
+4	talk_base::SocketDispatcher::~SocketDispatcher()
+5	talk_base::SocketDispatcher::Create(int)
+6	talk_base::SocketDispatcher::Close(void)
+

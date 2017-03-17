@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGameServerData_Player
+// Auto reconstructed from vtable block @ 0x00EEED30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGameServerData_Player::~CMsgGameServerData_Player()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGameServerData_Player::New(void)const
+3	CMsgGameServerData_Player::Clear(void)
+4	CMsgGameServerData_Player::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGameServerData_Player::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGameServerData_Player::ByteSize(void)const
+90	CMsgGameServerData_Player::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGameServerData_Player::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGameServerData_Player::GetCachedSize(void)const
+12	CMsgGameServerData_Player::CopyFrom(google::protobuf::Message const&)
+13	CMsgGameServerData_Player::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGameServerData_Player::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGameServerData_Player::GetMetadata(void)const
+

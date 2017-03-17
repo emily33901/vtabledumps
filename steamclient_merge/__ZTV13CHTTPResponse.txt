@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTTPResponse
+// Auto reconstructed from vtable block @ 0x00EE60E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTTPResponse::~CHTTPResponse()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CHTTPResponse::SetResponseHeaderValue(char const*,char const*)
+3	CHTTPResponse::SetStatusCode(EHTTPStatusCode)
+4	CHTTPResponse::Clear(void)
+5	CHTTPResponse::Validate(CValidator &,char const*)
+

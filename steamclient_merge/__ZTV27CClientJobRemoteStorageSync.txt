@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientJobRemoteStorageSync
+// Auto reconstructed from vtable block @ 0x00ECF260
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientJobRemoteStorageSync::~CClientJobRemoteStorageSync()
+

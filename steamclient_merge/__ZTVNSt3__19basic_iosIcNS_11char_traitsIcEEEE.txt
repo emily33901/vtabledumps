@@ -1,0 +1,7 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'std::__1::basic_ios<char,std::__1::char_traits<char>>
+// Auto reconstructed from vtable block @ 0x01B897F0
+// from "steamclient.dylib", by ida_vtables.idc
+

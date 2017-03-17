@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::MP4::File
+// Auto reconstructed from vtable block @ 0x00EE3098
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MP4::File::~File()
+1	TagLib::MP4::File::tag(void)const
+2	TagLib::MP4::File::audioProperties(void)const
+3	TagLib::MP4::File::save(void)
+

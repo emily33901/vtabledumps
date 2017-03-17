@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IRegistryInterfaceMap
+// Auto reconstructed from vtable block @ 0x00EF2CD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	IRegistryInterfaceMap::BGetValueStr(ERegKeyRoot,char const*,char const*,char *,int)
+1	IRegistryInterfaceMap::BGetValueUint(ERegKeyRoot,char const*,char const*,unsigned int *)
+2	IRegistryInterfaceMap::BGetValueBin(ERegKeyRoot,char const*,char const*,unsigned char *,unsigned int *)
+3	IRegistryInterfaceMap::BSetValueStr(ERegKeyRoot,char const*,char const*,char const*)
+4	IRegistryInterfaceMap::BSetValueUint(ERegKeyRoot,char const*,char const*,unsigned int)
+5	IRegistryInterfaceMap::BSetValueBin(ERegKeyRoot,char const*,char const*,unsigned char const*,unsigned int)
+6	IRegistryInterfaceMap::BDeleteValue(ERegKeyRoot,char const*,char const*)
+7	IRegistryInterfaceMap::BDeleteKey(ERegKeyRoot,char const*)
+8	IRegistryInterfaceMap::BKeyExists(ERegKeyRoot,char const*)
+9	IRegistryInterfaceMap::BGetSubKeys(ERegKeyRoot,char const*,unsigned int *,unsigned int *)
+10	IRegistryInterfaceMap::BGetValues(ERegKeyRoot,char const*,unsigned int *,unsigned int *,unsigned int *)
+11	IRegistryInterfaceMap::BEnumerateKey(ERegKeyRoot,char const*,unsigned int,char *,int)
+12	IRegistryInterfaceMap::BEnumerateValue(ERegKeyRoot,char const*,unsigned int,char *,int,unsigned int *)
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientSharedLibraryLockStatus_LockedLibrary
+// Auto reconstructed from vtable block @ 0x00EF0DD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientSharedLibraryLockStatus_LockedLibrary::~CMsgClientSharedLibraryLockStatus_LockedLibrary()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientSharedLibraryLockStatus_LockedLibrary::New(void)const
+3	CMsgClientSharedLibraryLockStatus_LockedLibrary::Clear(void)
+4	CMsgClientSharedLibraryLockStatus_LockedLibrary::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientSharedLibraryLockStatus_LockedLibrary::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientSharedLibraryLockStatus_LockedLibrary::ByteSize(void)const
+90	CMsgClientSharedLibraryLockStatus_LockedLibrary::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientSharedLibraryLockStatus_LockedLibrary::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientSharedLibraryLockStatus_LockedLibrary::GetCachedSize(void)const
+12	CMsgClientSharedLibraryLockStatus_LockedLibrary::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientSharedLibraryLockStatus_LockedLibrary::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgBrowserCreateResponse
+// Auto reconstructed from vtable block @ 0x00ECB4C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgBrowserCreateResponse::~CMsgBrowserCreateResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgBrowserCreateResponse::New(void)const
+3	CMsgBrowserCreateResponse::Clear(void)
+4	CMsgBrowserCreateResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgBrowserCreateResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgBrowserCreateResponse::ByteSize(void)const
+90	CMsgBrowserCreateResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgBrowserCreateResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgBrowserCreateResponse::GetCachedSize(void)const
+12	CMsgBrowserCreateResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgBrowserCreateResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgBrowserCreateResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgBrowserCreateResponse::GetMetadata(void)const
+

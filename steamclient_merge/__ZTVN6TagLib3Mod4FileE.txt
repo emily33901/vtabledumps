@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Mod::File
+// Auto reconstructed from vtable block @ 0x00EE2FD8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Mod::File::~File()
+1	TagLib::Mod::File::tag(void)const
+2	TagLib::Mod::File::audioProperties(void)const
+3	TagLib::Mod::File::save(void)
+

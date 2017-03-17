@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLProtoBufMsg<CMsgMouseUp>
+// Auto reconstructed from vtable block @ 0x00F057D8
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLProtoBufMsg<CMsgMouseUp>::~CHTMLProtoBufMsg()
+

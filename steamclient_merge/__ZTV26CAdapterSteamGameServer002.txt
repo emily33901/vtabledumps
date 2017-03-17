@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamGameServer002
+// Auto reconstructed from vtable block @ 0x00F09D20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameServer002::LogOn(void)
+1	CAdapterSteamGameServer002::LogOff(void)
+2	CAdapterSteamGameServer002::BLoggedOn(void)
+3	CAdapterSteamGameServer002::GSSetSpawnCount(unsigned int)
+4	CAdapterSteamGameServer002::GSGetSteam2GetEncryptionKeyToSendToNewClient(void *,unsigned int *,unsigned int)
+5	CAdapterSteamGameServer002::GSSendSteam2UserConnect(unsigned int,void const*,unsigned int,unsigned int,unsigned short,void const*,unsigned int)
+6	CAdapterSteamGameServer002::GSSendSteam3UserConnect(CSteamID,unsigned int,void const*,unsigned int)
+7	CAdapterSteamGameServer002::GSRemoveUserConnect(unsigned int)
+8	CAdapterSteamGameServer002::GSSendUserDisconnect(CSteamID,unsigned int)
+9	CAdapterSteamGameServer002::GSSendUserStatusResponse(CSteamID,int,int)
+10	CAdapterSteamGameServer002::Obsolete_GSSetStatus(int,unsigned int,int,int,int,int,char const*,char const*,char const*,char const*)
+11	CAdapterSteamGameServer002::GSUpdateStatus(int,int,int,char const*,char const*)
+12	CAdapterSteamGameServer002::BSecure(void)
+13	CAdapterSteamGameServer002::GetSteamID(void)
+14	CAdapterSteamGameServer002::GSSetServerType(int,unsigned int,unsigned int,unsigned int,char const*,char const*)
+15	CAdapterSteamGameServer002::GSSetServerType2(int,unsigned int,unsigned int,unsigned short,unsigned short,unsigned short,char const*,char const*,bool)
+

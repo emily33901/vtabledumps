@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<int (*)(sp_albumbrowse *)>
+// Auto reconstructed from vtable block @ 0x00F0E4B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<int (*)(sp_albumbrowse *)>::Init(CSysModule *)
+1	CDynamicFunc<int (*)(sp_albumbrowse *)>::Release(void)
+2	CDynamicFunc<int (*)(sp_albumbrowse *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<int (*)(sp_albumbrowse *)>::GetNextPointer(void)
+

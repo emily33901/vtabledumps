@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduleCallbackWorkItem<ControllerPacketLossUI_t>
+// Auto reconstructed from vtable block @ 0x00F01920
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduleCallbackWorkItem<ControllerPacketLossUI_t>::~CScheduleCallbackWorkItem()
+1	CScheduleCallbackWorkItem<ControllerPacketLossUI_t>::RunFunc(IControllerAbstraction *)
+2	CScheduleCallbackWorkItem<ControllerPacketLossUI_t>::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CControllerWorkItem::Validate(CValidator &,char const*)
+

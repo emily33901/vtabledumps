@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::EncodedDescriptorDatabase
+// Auto reconstructed from vtable block @ 0x00ED5D18
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::EncodedDescriptorDatabase::~EncodedDescriptorDatabase()
+1	google::protobuf::EncodedDescriptorDatabase::FindFileByName(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&,google::protobuf::FileDescriptorProto *)
+2	google::protobuf::EncodedDescriptorDatabase::FindFileContainingSymbol(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&,google::protobuf::FileDescriptorProto *)
+3	google::protobuf::EncodedDescriptorDatabase::FindFileContainingExtension(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&,int,google::protobuf::FileDescriptorProto *)
+4	google::protobuf::EncodedDescriptorDatabase::FindAllExtensionNumbers(std::__1::basic_string<char,std::__1::char_traits<char>,std::__1::allocator<char>> const&,std::__1::vector<int,std::__1::allocator<int>> *)
+

@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'sigslot::signal2<cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1ED0C
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::signal2<cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&,sigslot::single_threaded>::~signal2()
+1	sigslot::single_threaded::lock(void)
+2	sigslot::single_threaded::unlock(void)
+3	sigslot::_signal_base2<cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&,sigslot::single_threaded>::slot_disconnect(sigslot::has_slots<sigslot::single_threaded> *)
+4	sigslot::_signal_base2<cricket::Transport *,std::__1::vector<buzz::XmlElement *,std::__1::allocator<buzz::XmlElement *>> const&,sigslot::single_threaded>::slot_duplicate(sigslot::has_slots<sigslot::single_threaded> const*,sigslot::has_slots<sigslot::single_threaded>*)
+

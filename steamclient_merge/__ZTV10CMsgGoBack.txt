@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGoBack
+// Auto reconstructed from vtable block @ 0x00ECB8E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgGoBack::~CMsgGoBack()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGoBack::New(void)const
+3	CMsgGoBack::Clear(void)
+4	CMsgGoBack::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGoBack::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGoBack::ByteSize(void)const
+90	CMsgGoBack::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGoBack::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGoBack::GetCachedSize(void)const
+12	CMsgGoBack::CopyFrom(google::protobuf::Message const&)
+13	CMsgGoBack::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

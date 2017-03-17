@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsg<MsgGenericReply_t>
+// Auto reconstructed from vtable block @ 0x00F27980
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsg<MsgGenericReply_t>::~CMsg()
+

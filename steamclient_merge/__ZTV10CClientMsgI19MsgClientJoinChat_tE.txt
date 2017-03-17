@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientJoinChat_t>
+// Auto reconstructed from vtable block @ 0x00F168FC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientJoinChat_t>::~CClientMsg()
+

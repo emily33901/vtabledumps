@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSocketThread::CSocketRunThread
+// Auto reconstructed from vtable block @ 0x00EE7000
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSocketThread::CSocketRunThread::~CSocketRunThread()
+1	SteamThreadTools::CThread::Init(void)
+2	CSocketThread::CSocketRunThread::Run(void)
+3	SteamThreadTools::CThread::OnExit(void)
+4	SteamThreadTools::CThread::IsThreadRunning(void)const
+5	SteamThreadTools::CThread::GetThreadProc(void)
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientAppMinutesPlayedData
+// Auto reconstructed from vtable block @ 0x00EE86C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientAppMinutesPlayedData::~CMsgClientAppMinutesPlayedData()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientAppMinutesPlayedData::New(void)const
+3	CMsgClientAppMinutesPlayedData::Clear(void)
+4	CMsgClientAppMinutesPlayedData::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientAppMinutesPlayedData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientAppMinutesPlayedData::ByteSize(void)const
+90	CMsgClientAppMinutesPlayedData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientAppMinutesPlayedData::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientAppMinutesPlayedData::GetCachedSize(void)const
+12	CMsgClientAppMinutesPlayedData::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientAppMinutesPlayedData::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientAppMinutesPlayedData::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientAppMinutesPlayedData::GetMetadata(void)const
+

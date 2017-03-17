@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRequestWebAPIAuthenticateUserNonceResponse
+// Auto reconstructed from vtable block @ 0x00EE75E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::~CMsgClientRequestWebAPIAuthenticateUserNonceResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::New(void)const
+3	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::Clear(void)
+4	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::ByteSize(void)const
+90	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::GetCachedSize(void)const
+12	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientRequestWebAPIAuthenticateUserNonceResponse::GetMetadata(void)const
+

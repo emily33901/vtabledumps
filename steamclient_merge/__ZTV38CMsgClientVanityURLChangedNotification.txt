@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientVanityURLChangedNotification
+// Auto reconstructed from vtable block @ 0x00EF0890
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientVanityURLChangedNotification::~CMsgClientVanityURLChangedNotification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientVanityURLChangedNotification::New(void)const
+3	CMsgClientVanityURLChangedNotification::Clear(void)
+4	CMsgClientVanityURLChangedNotification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientVanityURLChangedNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientVanityURLChangedNotification::ByteSize(void)const
+90	CMsgClientVanityURLChangedNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientVanityURLChangedNotification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientVanityURLChangedNotification::GetCachedSize(void)const
+12	CMsgClientVanityURLChangedNotification::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientVanityURLChangedNotification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

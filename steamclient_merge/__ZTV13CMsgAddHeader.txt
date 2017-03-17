@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgAddHeader
+// Auto reconstructed from vtable block @ 0x00ECB760
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgAddHeader::~CMsgAddHeader()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgAddHeader::New(void)const
+3	CMsgAddHeader::Clear(void)
+4	CMsgAddHeader::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgAddHeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgAddHeader::ByteSize(void)const
+90	CMsgAddHeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgAddHeader::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgAddHeader::GetCachedSize(void)const
+12	CMsgAddHeader::CopyFrom(google::protobuf::Message const&)
+13	CMsgAddHeader::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

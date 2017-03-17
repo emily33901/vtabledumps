@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientGetLegacyGameKeyResponse_t>
+// Auto reconstructed from vtable block @ 0x00F00C3C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientGetLegacyGameKeyResponse_t>::~CClientMsg()
+

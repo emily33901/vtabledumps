@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgHorizontalScrollBarSize
+// Auto reconstructed from vtable block @ 0x00ECBB20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgHorizontalScrollBarSize::~CMsgHorizontalScrollBarSize()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgHorizontalScrollBarSize::New(void)const
+3	CMsgHorizontalScrollBarSize::Clear(void)
+4	CMsgHorizontalScrollBarSize::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgHorizontalScrollBarSize::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgHorizontalScrollBarSize::ByteSize(void)const
+90	CMsgHorizontalScrollBarSize::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgHorizontalScrollBarSize::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgHorizontalScrollBarSize::GetCachedSize(void)const
+12	CMsgHorizontalScrollBarSize::CopyFrom(google::protobuf::Message const&)
+13	CMsgHorizontalScrollBarSize::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgHorizontalScrollBarSize::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgHorizontalScrollBarSize::GetMetadata(void)const
+

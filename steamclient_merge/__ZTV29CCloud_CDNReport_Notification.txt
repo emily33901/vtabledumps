@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCloud_CDNReport_Notification
+// Auto reconstructed from vtable block @ 0x00EC2310
+// from "steamclient.dylib", by ida_vtables.idc
+0	CCloud_CDNReport_Notification::~CCloud_CDNReport_Notification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CCloud_CDNReport_Notification::New(void)const
+3	CCloud_CDNReport_Notification::Clear(void)
+4	CCloud_CDNReport_Notification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CCloud_CDNReport_Notification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CCloud_CDNReport_Notification::ByteSize(void)const
+90	CCloud_CDNReport_Notification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CCloud_CDNReport_Notification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CCloud_CDNReport_Notification::GetCachedSize(void)const
+12	CCloud_CDNReport_Notification::CopyFrom(google::protobuf::Message const&)
+13	CCloud_CDNReport_Notification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CCloud_CDNReport_Notification::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CCloud_CDNReport_Notification::GetMetadata(void)const
+

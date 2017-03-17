@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ConCommand
+// Auto reconstructed from vtable block @ 0x00EE4960
+// from "steamclient.dylib", by ida_vtables.idc
+0	ConCommand::~ConCommand()
+1	ConCommand::IsCommand(void)const
+2	ConCommandBase::IsBitSet(unsigned int)const
+3	ConCommandBase::AddFlags(unsigned int)
+4	ConCommandBase::GetFlags(void)const
+5	ConCommandBase::GetTargetType(void)const
+6	ConCommandBase::GetName(void)const
+7	ConCommandBase::GetHelpText(void)const
+8	ConCommandBase::IsRegistered(void)const
+90	ConCommandBase::Create(char const*,char const*,unsigned long long)
+10	ConCommandBase::Init(void)
+11	ConCommand::AutoCompleteSuggest(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString>> &)
+

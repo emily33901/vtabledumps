@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamApps005
+// Auto reconstructed from vtable block @ 0x00F06BA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamApps005::BIsSubscribed(void)
+1	CAdapterSteamApps005::BIsLowViolence(void)
+2	CAdapterSteamApps005::BIsCybercafe(void)
+3	CAdapterSteamApps005::BIsVACBanned(void)
+4	CAdapterSteamApps005::GetCurrentGameLanguage(void)
+5	CAdapterSteamApps005::GetAvailableGameLanguages(void)
+6	CAdapterSteamApps005::BIsSubscribedApp(unsigned int)
+7	CAdapterSteamApps005::BIsDlcInstalled(unsigned int)
+8	CAdapterSteamApps005::GetEarliestPurchaseUnixTime(unsigned int)
+9	CAdapterSteamApps005::BIsSubscribedFromFreeWeekend(void)
+10	CAdapterSteamApps005::GetDLCCount(void)
+11	CAdapterSteamApps005::BGetDLCDataByIndex(int,unsigned int *,bool *,char *,int)
+12	CAdapterSteamApps005::InstallDLC(unsigned int)
+13	CAdapterSteamApps005::UninstallDLC(unsigned int)
+14	CAdapterSteamApps005::RequestAppProofOfPurchaseKey(unsigned int)
+15	CAdapterSteamApps005::GetCurrentBetaName(char *,int)
+

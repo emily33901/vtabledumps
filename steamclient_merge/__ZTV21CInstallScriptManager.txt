@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInstallScriptManager
+// Auto reconstructed from vtable block @ 0x00ED25B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInstallScriptManager::~CInstallScriptManager()
+1	CInstallScriptManager::RunInstallScript(CUser *,unsigned int *,int,char const*,char const*)
+2	CInstallScriptManager::RunInstallScriptCleanUp(CUser *,unsigned int *,int,char const*,char const*)
+3	CInstallScriptManager::IsInstallScriptRunning(void)
+4	CInstallScriptManager::GetInstallScriptState(char *,unsigned int,unsigned int *,unsigned int *)
+5	CInstallScriptManager::EnableServiceForInstallScripts(bool)
+6	CInstallScriptManager::Validate(CValidator &,char const*)
+

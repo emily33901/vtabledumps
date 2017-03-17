@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientInventory::DeserializeResult(int *,void const*,unsigned int,bool)::DeserializeJob
+// Auto reconstructed from vtable block @ 0x00ECED10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientInventory::DeserializeResult(int *,void const*,unsigned int,bool)::DeserializeJob::~DeserializeJob()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CClientInventoryAsyncJob::BYieldingRunJob(void *)
+8	CBaseClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+13	CBaseClientJob::BYieldingRunClientJob(void)
+14	CClientInventory::DeserializeResult(int *,void const*,unsigned int,bool)::DeserializeJob::EYieldingRunClientInventoryJob(ClientInventoryResultSet_t *)
+15	CClientInventoryAsyncJob::PostCallbacks(int,ClientInventoryResultSet_t const*)
+

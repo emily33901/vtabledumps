@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgPageSecurity
+// Auto reconstructed from vtable block @ 0x00ECC120
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgPageSecurity::~CMsgPageSecurity()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgPageSecurity::New(void)const
+3	CMsgPageSecurity::Clear(void)
+4	CMsgPageSecurity::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgPageSecurity::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgPageSecurity::ByteSize(void)const
+90	CMsgPageSecurity::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgPageSecurity::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgPageSecurity::GetCachedSize(void)const
+12	CMsgPageSecurity::CopyFrom(google::protobuf::Message const&)
+13	CMsgPageSecurity::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

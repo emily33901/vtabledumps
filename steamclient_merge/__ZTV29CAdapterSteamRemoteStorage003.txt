@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamRemoteStorage003
+// Auto reconstructed from vtable block @ 0x00F08470
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamRemoteStorage003::FileWrite(char const*,void const*,int)
+1	CAdapterSteamRemoteStorage003::FileRead(char const*,void *,int)
+2	CAdapterSteamRemoteStorage003::FileForget(char const*)
+3	CAdapterSteamRemoteStorage003::FileDelete(char const*)
+4	CAdapterSteamRemoteStorage003::FileShare(char const*)
+5	CAdapterSteamRemoteStorage003::FileExists(char const*)
+6	CAdapterSteamRemoteStorage003::FilePersisted(char const*)
+7	CAdapterSteamRemoteStorage003::GetFileSize(char const*)
+8	CAdapterSteamRemoteStorage003::GetFileTimestamp(char const*)
+9	CAdapterSteamRemoteStorage003::GetFileCount(void)
+10	CAdapterSteamRemoteStorage003::GetFileNameAndSize(int,int *)
+11	CAdapterSteamRemoteStorage003::GetQuota(int *,int *)
+12	CAdapterSteamRemoteStorage003::IsCloudEnabledForAccount(void)
+13	CAdapterSteamRemoteStorage003::IsCloudEnabledForApp(void)
+14	CAdapterSteamRemoteStorage003::SetCloudEnabledForApp(bool)
+15	CAdapterSteamRemoteStorage003::UGCDownload(unsigned long long)
+

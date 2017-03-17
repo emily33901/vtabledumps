@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFunctor4<void (*)(char const*,unsigned int *,unsigned int *,bool *),char *,unsigned int *,unsigned int *,bool *>
+// Auto reconstructed from vtable block @ 0x00F1B960
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::AddRef(void)const
+1	CRefCounted1<CFunctor,CRefCountServiceBase<true,CRefMT>>::Release(void)const
+2	CFunctor4<void (*)(char const*,unsigned int *,unsigned int *,bool *),char *,unsigned int *,unsigned int *,bool *>::operator()(void)
+3	CFunctor4<void (*)(char const*,unsigned int *,unsigned int *,bool *),char *,unsigned int *,unsigned int *,bool *>::~CFunctor4()
+

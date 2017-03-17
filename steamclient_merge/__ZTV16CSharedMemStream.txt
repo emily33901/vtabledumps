@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSharedMemStream
+// Auto reconstructed from vtable block @ 0x00ECAE60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSharedMemStream::~CSharedMemStream()
+1	CSharedMemStream::GetBytesRemaining(void)
+2	CSharedMemStream::GetBytesAvailable(void)
+3	CSharedMemStream::Put(void const*,unsigned int)
+4	CSharedMemStream::Get(void *,unsigned int)
+5	CSharedMemStream::Clear(unsigned int)
+6	CSharedMemStream::BWaitForDataToGet(void)
+

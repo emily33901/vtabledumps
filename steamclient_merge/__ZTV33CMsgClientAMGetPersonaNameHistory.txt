@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientAMGetPersonaNameHistory
+// Auto reconstructed from vtable block @ 0x00EEB7E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientAMGetPersonaNameHistory::~CMsgClientAMGetPersonaNameHistory()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientAMGetPersonaNameHistory::New(void)const
+3	CMsgClientAMGetPersonaNameHistory::Clear(void)
+4	CMsgClientAMGetPersonaNameHistory::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientAMGetPersonaNameHistory::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientAMGetPersonaNameHistory::ByteSize(void)const
+90	CMsgClientAMGetPersonaNameHistory::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientAMGetPersonaNameHistory::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientAMGetPersonaNameHistory::GetCachedSize(void)const
+12	CMsgClientAMGetPersonaNameHistory::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientAMGetPersonaNameHistory::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientAMGetPersonaNameHistory::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientAMGetPersonaNameHistory::GetMetadata(void)const
+

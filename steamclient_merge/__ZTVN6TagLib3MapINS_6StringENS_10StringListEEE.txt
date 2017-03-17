@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Map<TagLib::String,TagLib::StringList>
+// Auto reconstructed from vtable block @ 0x00F260F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Map<TagLib::String,TagLib::StringList>::~Map()
+

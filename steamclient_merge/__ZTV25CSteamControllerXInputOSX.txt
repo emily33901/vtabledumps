@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamControllerXInputOSX
+// Auto reconstructed from vtable block @ 0x00ED1170
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamControllerXInputOSX::~CSteamControllerXInputOSX()
+1	CSteamControllerXInputOSX::BIsConnected(unsigned int)
+2	CSteamControllerXInputOSX::SetConnected(unsigned int,bool)
+3	CSteamControllerXInputOSX::SendGamePadButtonEvent(unsigned int,Voltroller::GamepadButtons,bool)
+4	CSteamControllerXInputOSX::SendAxisEvent(unsigned int,ISpoofControllerXInput::EAxis,short)
+5	CSteamControllerXInputOSX::SetEnabledByAppID(unsigned int,bool,bool)
+6	CSteamControllerXInputOSX::BGetRumbleRequest(unsigned int,unsigned short *,unsigned short *)
+7	CSteamControllerXInputOSX::Validate(CValidator &,char const*)
+

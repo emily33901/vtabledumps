@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientBroadcastUploadConfig_t>
+// Auto reconstructed from vtable block @ 0x00EF413C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientBroadcastUploadConfig_t>::~CClientMsg()
+

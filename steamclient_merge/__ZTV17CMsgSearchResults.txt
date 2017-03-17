@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSearchResults
+// Auto reconstructed from vtable block @ 0x00ECC7E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSearchResults::~CMsgSearchResults()
+1	google::protobuf::Message::GetTypeName(void)const
+

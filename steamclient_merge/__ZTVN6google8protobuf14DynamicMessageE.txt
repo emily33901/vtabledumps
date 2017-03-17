@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::DynamicMessage
+// Auto reconstructed from vtable block @ 0x00ED5D50
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::DynamicMessage::~DynamicMessage()
+1	google::protobuf::Message::GetTypeName(void)const
+2	google::protobuf::DynamicMessage::New(void)const
+3	google::protobuf::Message::Clear(void)
+4	google::protobuf::Message::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	google::protobuf::Message::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	google::protobuf::Message::ByteSize(void)const
+90	google::protobuf::Message::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	google::protobuf::MessageLite::SerializeWithCachedSizesToArray(unsigned char *)const
+11	google::protobuf::DynamicMessage::GetCachedSize(void)const
+12	google::protobuf::Message::CopyFrom(google::protobuf::Message const&)
+13	google::protobuf::Message::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

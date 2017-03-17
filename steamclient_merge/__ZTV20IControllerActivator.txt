@@ -1,0 +1,38 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IControllerActivator
+// Auto reconstructed from vtable block @ 0x00F02450
+// from "steamclient.dylib", by ida_vtables.idc
+0	IControllerActivator::~IControllerActivator()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+90	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	___cxa_pure_virtual
+15	___cxa_pure_virtual
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual
+18	IControllerActivator::IsPaused(void)
+19	___cxa_pure_virtual
+20	___cxa_pure_virtual
+21	___cxa_pure_virtual
+22	___cxa_pure_virtual
+23	___cxa_pure_virtual
+24	___cxa_pure_virtual
+25	___cxa_pure_virtual
+26	___cxa_pure_virtual
+27	___cxa_pure_virtual
+28	___cxa_pure_virtual
+29	___cxa_pure_virtual
+30	IControllerActivator::Validate(CValidator &,char const*)
+

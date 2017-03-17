@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ASF::Attribute::AttributePrivate
+// Auto reconstructed from vtable block @ 0x00F25E58
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ASF::Attribute::AttributePrivate::~AttributePrivate()
+

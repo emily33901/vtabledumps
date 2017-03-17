@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTest_MessageToServer_Request
+// Auto reconstructed from vtable block @ 0x00ECAAD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgTest_MessageToServer_Request::~CMsgTest_MessageToServer_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTest_MessageToServer_Request::New(void)const
+3	CMsgTest_MessageToServer_Request::Clear(void)
+4	CMsgTest_MessageToServer_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTest_MessageToServer_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTest_MessageToServer_Request::ByteSize(void)const
+90	CMsgTest_MessageToServer_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTest_MessageToServer_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTest_MessageToServer_Request::GetCachedSize(void)const
+12	CMsgTest_MessageToServer_Request::CopyFrom(google::protobuf::Message const&)
+13	CMsgTest_MessageToServer_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

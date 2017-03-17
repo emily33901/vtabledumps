@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'buzz::XmlText
+// Auto reconstructed from vtable block @ 0x00ED6BA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	buzz::XmlText::IsTextImpl(void)const
+1	buzz::XmlText::AsElementImpl(void)const
+2	buzz::XmlText::AsTextImpl(void)const
+3	buzz::XmlText::~XmlText()
+

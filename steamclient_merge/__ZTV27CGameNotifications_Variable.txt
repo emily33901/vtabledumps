@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameNotifications_Variable
+// Auto reconstructed from vtable block @ 0x00EC42F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGameNotifications_Variable::~CGameNotifications_Variable()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CGameNotifications_Variable::New(void)const
+3	CGameNotifications_Variable::Clear(void)
+4	CGameNotifications_Variable::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CGameNotifications_Variable::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CGameNotifications_Variable::ByteSize(void)const
+90	CGameNotifications_Variable::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CGameNotifications_Variable::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CGameNotifications_Variable::GetCachedSize(void)const
+12	CGameNotifications_Variable::CopyFrom(google::protobuf::Message const&)
+13	CGameNotifications_Variable::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CGameNotifications_Variable::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CGameNotifications_Variable::GetMetadata(void)const
+

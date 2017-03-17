@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPurchaseLineItemInfo
+// Auto reconstructed from vtable block @ 0x00EE6900
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPurchaseLineItemInfo::~CPurchaseLineItemInfo()
+1	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+2	CMessageObject::BInternalSerialize(CUtlBuffer &)
+

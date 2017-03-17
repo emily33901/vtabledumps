@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::AsyncUDPSocket
+// Auto reconstructed from vtable block @ 0x00ED6098
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::AsyncUDPSocket::~AsyncUDPSocket()
+1	sigslot::single_threaded::lock(void)
+2	sigslot::single_threaded::unlock(void)
+3	talk_base::AsyncPacketSocket::GetLocalAddress(void)const
+4	talk_base::AsyncPacketSocket::GetRemoteAddress(void)const
+5	talk_base::AsyncPacketSocket::Bind(talk_base::SocketAddress const&)
+6	talk_base::AsyncPacketSocket::Connect(talk_base::SocketAddress const&)
+7	talk_base::AsyncPacketSocket::Send(void const*,unsigned long)
+8	talk_base::AsyncPacketSocket::SendTo(void const*,unsigned long,talk_base::SocketAddress const&)
+90	talk_base::AsyncPacketSocket::Close(void)
+10	talk_base::AsyncPacketSocket::SetOption(talk_base::Socket::Option,int)
+11	talk_base::AsyncPacketSocket::GetError(void)const
+12	talk_base::AsyncPacketSocket::SetError(int)
+

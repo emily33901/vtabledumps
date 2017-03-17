@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgBase_t<UDPPktHdr_t>
+// Auto reconstructed from vtable block @ 0x00F2D320
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgBase_t<UDPPktHdr_t>::~CMsgBase_t()
+

@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamController001
+// Auto reconstructed from vtable block @ 0x00F07D80
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamController001::Init(char const*)
+1	CAdapterSteamController001::Shutdown(void)
+2	CAdapterSteamController001::RunFrame(void)
+3	CAdapterSteamController001::GetControllerState(unsigned int,SteamControllerState001_t *)
+4	CAdapterSteamController001::TriggerHapticPulse(unsigned int,ESteamControllerPad,unsigned short)
+5	CAdapterSteamController001::SetOverrideMode(char const*)
+

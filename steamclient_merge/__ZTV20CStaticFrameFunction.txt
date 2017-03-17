@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CStaticFrameFunction
+// Auto reconstructed from vtable block @ 0x00F27730
+// from "steamclient.dylib", by ida_vtables.idc
+0	CStaticFrameFunction::~CStaticFrameFunction()
+1	CStaticFrameFunction::BRun(CReliableTimer &)
+2	CStaticFrameFunction::BAllocedSeparately(void)
+

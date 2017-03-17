@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamVideo001
+// Auto reconstructed from vtable block @ 0x00F073C4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamVideo001::GetVideoURL(unsigned int)
+1	CAdapterSteamVideo001::IsBroadcasting(int *)
+

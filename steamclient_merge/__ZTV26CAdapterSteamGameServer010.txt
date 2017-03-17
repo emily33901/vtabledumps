@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamGameServer010
+// Auto reconstructed from vtable block @ 0x00F09A50
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameServer010::LogOn(void)
+1	CAdapterSteamGameServer010::LogOff(void)
+2	CAdapterSteamGameServer010::BLoggedOn(void)
+3	CAdapterSteamGameServer010::BSecure(void)
+4	CAdapterSteamGameServer010::GetSteamID(void)
+5	CAdapterSteamGameServer010::SendUserConnectAndAuthenticate(unsigned int,void const*,unsigned int,CSteamID *)
+6	CAdapterSteamGameServer010::CreateUnauthenticatedUserConnection(void)
+7	CAdapterSteamGameServer010::SendUserDisconnect(CSteamID)
+8	CAdapterSteamGameServer010::BUpdateUserData(CSteamID,char const*,unsigned int)
+9	CAdapterSteamGameServer010::BSetServerType(unsigned int,unsigned int,unsigned short,unsigned short,unsigned short,char const*,char const*,bool)
+10	CAdapterSteamGameServer010::UpdateServerStatus(int,int,int,char const*,char const*,char const*)
+11	CAdapterSteamGameServer010::UpdateSpectatorPort(unsigned short)
+12	CAdapterSteamGameServer010::SetGameTags(char const*)
+13	CAdapterSteamGameServer010::GetGameplayStats(void)
+14	CAdapterSteamGameServer010::GetServerReputation(void)
+15	CAdapterSteamGameServer010::RequestUserGroupStatus(CSteamID,CSteamID)
+

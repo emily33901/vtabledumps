@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUCMUpdatePublishedFile_KeyValueTag
+// Auto reconstructed from vtable block @ 0x00EECC90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMUpdatePublishedFile_KeyValueTag::~CMsgClientUCMUpdatePublishedFile_KeyValueTag()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUCMUpdatePublishedFile_KeyValueTag::New(void)const
+3	CMsgClientUCMUpdatePublishedFile_KeyValueTag::Clear(void)
+4	CMsgClientUCMUpdatePublishedFile_KeyValueTag::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUCMUpdatePublishedFile_KeyValueTag::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUCMUpdatePublishedFile_KeyValueTag::ByteSize(void)const
+90	CMsgClientUCMUpdatePublishedFile_KeyValueTag::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUCMUpdatePublishedFile_KeyValueTag::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUCMUpdatePublishedFile_KeyValueTag::GetCachedSize(void)const
+12	CMsgClientUCMUpdatePublishedFile_KeyValueTag::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUCMUpdatePublishedFile_KeyValueTag::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

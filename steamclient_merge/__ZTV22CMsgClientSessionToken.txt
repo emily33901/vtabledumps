@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientSessionToken
+// Auto reconstructed from vtable block @ 0x00EE78E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientSessionToken::~CMsgClientSessionToken()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientSessionToken::New(void)const
+3	CMsgClientSessionToken::Clear(void)
+4	CMsgClientSessionToken::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientSessionToken::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientSessionToken::ByteSize(void)const
+90	CMsgClientSessionToken::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientSessionToken::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientSessionToken::GetCachedSize(void)const
+12	CMsgClientSessionToken::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientSessionToken::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientSessionToken::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientSessionToken::GetMetadata(void)const
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHTMLPageSecurityInfo
+// Auto reconstructed from vtable block @ 0x00ECC000
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHTMLPageSecurityInfo::~CHTMLPageSecurityInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHTMLPageSecurityInfo::New(void)const
+3	CHTMLPageSecurityInfo::Clear(void)
+4	CHTMLPageSecurityInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHTMLPageSecurityInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHTMLPageSecurityInfo::ByteSize(void)const
+90	CHTMLPageSecurityInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHTMLPageSecurityInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHTMLPageSecurityInfo::GetCachedSize(void)const
+12	CHTMLPageSecurityInfo::CopyFrom(google::protobuf::Message const&)
+13	CHTMLPageSecurityInfo::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CHTMLPageSecurityInfo::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CHTMLPageSecurityInfo::GetMetadata(void)const
+

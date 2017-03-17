@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<sp_error (*)(sp_session *,sp_social_provider,char const*,char const*)>
+// Auto reconstructed from vtable block @ 0x00F0EE40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<sp_error (*)(sp_session *,sp_social_provider,char const*,char const*)>::Init(CSysModule *)
+1	CDynamicFunc<sp_error (*)(sp_session *,sp_social_provider,char const*,char const*)>::Release(void)
+2	CDynamicFunc<sp_error (*)(sp_session *,sp_social_provider,char const*,char const*)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<sp_error (*)(sp_session *,sp_social_provider,char const*,char const*)>::GetNextPointer(void)
+

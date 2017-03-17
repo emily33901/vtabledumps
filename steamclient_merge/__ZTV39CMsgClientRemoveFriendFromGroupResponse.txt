@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRemoveFriendFromGroupResponse
+// Auto reconstructed from vtable block @ 0x00EEE1F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRemoveFriendFromGroupResponse::~CMsgClientRemoveFriendFromGroupResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRemoveFriendFromGroupResponse::New(void)const
+3	CMsgClientRemoveFriendFromGroupResponse::Clear(void)
+4	CMsgClientRemoveFriendFromGroupResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRemoveFriendFromGroupResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRemoveFriendFromGroupResponse::ByteSize(void)const
+90	CMsgClientRemoveFriendFromGroupResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRemoveFriendFromGroupResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRemoveFriendFromGroupResponse::GetCachedSize(void)const
+12	CMsgClientRemoveFriendFromGroupResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRemoveFriendFromGroupResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientRemoveFriendFromGroupResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientRemoveFriendFromGroupResponse::GetMetadata(void)const
+

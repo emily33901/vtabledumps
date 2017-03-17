@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUCMPublishedFileDeleted
+// Auto reconstructed from vtable block @ 0x00EED2F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMPublishedFileDeleted::~CMsgClientUCMPublishedFileDeleted()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUCMPublishedFileDeleted::New(void)const
+3	CMsgClientUCMPublishedFileDeleted::Clear(void)
+4	CMsgClientUCMPublishedFileDeleted::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUCMPublishedFileDeleted::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUCMPublishedFileDeleted::ByteSize(void)const
+90	CMsgClientUCMPublishedFileDeleted::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUCMPublishedFileDeleted::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUCMPublishedFileDeleted::GetCachedSize(void)const
+12	CMsgClientUCMPublishedFileDeleted::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUCMPublishedFileDeleted::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUCMPublishedFileDeleted::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUCMPublishedFileDeleted::GetMetadata(void)const
+

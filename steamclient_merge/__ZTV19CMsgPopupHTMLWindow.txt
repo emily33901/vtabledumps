@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgPopupHTMLWindow
+// Auto reconstructed from vtable block @ 0x00ECC3C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgPopupHTMLWindow::~CMsgPopupHTMLWindow()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgPopupHTMLWindow::New(void)const
+3	CMsgPopupHTMLWindow::Clear(void)
+4	CMsgPopupHTMLWindow::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgPopupHTMLWindow::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgPopupHTMLWindow::ByteSize(void)const
+90	CMsgPopupHTMLWindow::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgPopupHTMLWindow::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgPopupHTMLWindow::GetCachedSize(void)const
+12	CMsgPopupHTMLWindow::CopyFrom(google::protobuf::Message const&)
+13	CMsgPopupHTMLWindow::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgPopupHTMLWindow::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgPopupHTMLWindow::GetMetadata(void)const
+

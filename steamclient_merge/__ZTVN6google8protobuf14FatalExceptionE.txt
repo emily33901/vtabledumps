@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::FatalException
+// Auto reconstructed from vtable block @ 0x00ED52AC
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::FatalException::~FatalException()
+1	google::protobuf::FatalException::what(void)const
+

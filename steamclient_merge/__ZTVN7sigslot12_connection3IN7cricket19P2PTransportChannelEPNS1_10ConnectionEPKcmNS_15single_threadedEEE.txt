@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'sigslot::_connection3<cricket::P2PTransportChannel,cricket::Connection *,char const*,unsigned long,sigslot::single_threaded>
+// Auto reconstructed from vtable block @ 0x00F1F1E4
+// from "steamclient.dylib", by ida_vtables.idc
+0	sigslot::_connection3<cricket::P2PTransportChannel,cricket::Connection *,char const*,unsigned long,sigslot::single_threaded>::getdest(void)const
+1	sigslot::_connection3<cricket::P2PTransportChannel,cricket::Connection *,char const*,unsigned long,sigslot::single_threaded>::emit(cricket::Connection *,char const*,unsigned long)
+2	sigslot::_connection3<cricket::P2PTransportChannel,cricket::Connection *,char const*,unsigned long,sigslot::single_threaded>::clone(void)
+3	sigslot::_connection3<cricket::P2PTransportChannel,cricket::Connection *,char const*,unsigned long,sigslot::single_threaded>::duplicate(sigslot::has_slots<sigslot::single_threaded> *)
+

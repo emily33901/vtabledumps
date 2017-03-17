@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CControllerActivatorImpl
+// Auto reconstructed from vtable block @ 0x00F023B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CControllerActivatorImpl::~CControllerActivatorImpl()
+1	___cxa_pure_virtual
+2	CControllerActivatorImpl::SetBinding(IDigitalBinding const*)
+3	CControllerActivatorImpl::GetBindings(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> *)const
+4	CControllerActivatorImpl::GetUISetting(EControllerSetting,int *)const
+5	CControllerActivatorImpl::GetRawSetting(EControllerSetting,int *)const
+6	CControllerActivatorImpl::SetSetting(EControllerSetting,int)
+7	CControllerActivatorImpl::GetSettingUIDefault(EControllerSetting,int *)const
+8	CControllerActivatorImpl::GetSettingRawDefault(EControllerSetting,int *)const
+90	___cxa_pure_virtual
+10	CControllerActivatorImpl::GetSettings(CUtlHashMap<EControllerSetting,short,CDefEquals<EControllerSetting>,HashFunctor<EControllerSetting>> &)
+11	CControllerActivatorImpl::Connect(IInputGenerator *)
+12	CControllerActivatorImpl::Disconnect(IInputGenerator *,bool)
+13	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
+14	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
+15	CControllerActivatorImpl::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
+

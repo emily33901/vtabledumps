@@ -1,0 +1,28 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CIPCServer
+// Auto reconstructed from vtable block @ 0x00EC0A60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CIPCServer::GetName(void)
+1	CIPCServer::BThreadedMainLoop(void)
+2	CIPCServer::BMainLoopActive(void)
+3	CIPCServer::Run(void)
+4	CIPCServer::CallSerializedFunction(int,CUtlBuffer &,CUtlBuffer &)
+5	CIPCServer::CreateLocalServerPipe(void)
+6	CIPCServer::FinishedCreateLocalServerPipe(CServerPipe *)
+7	CIPCServer::ReleaseLocalServerPipe(int)
+8	CIPCServer::GetIPCServerMap(void)
+9	CIPCServer::~CIPCServer()
+10	CIPCServer::Thread_Init(void)
+11	CIPCServer::Thread_Shutdown(void)
+12	CIPCServer::GetCurrentCommandPipe(void)
+13	CIPCServer::InitIPC(char const*,bool,bool,bool)
+14	CIPCServer::ShutdownIPC(void)
+15	CIPCServer::CallSerializedFunctionInternal(int,CUtlBuffer &,CUtlBuffer &)
+16	CIPCServer::BMainLoop(CCycleCount *,CCycleCount *)
+17	___cxa_pure_virtual
+18	CIPCServer::GetDesiredFrameTimeMicroSec(void)
+19	CIPCServer::TerminatePipe(int)
+20	CIPCServer::ActivateThread(void)
+

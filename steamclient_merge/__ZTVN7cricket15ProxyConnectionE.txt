@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::ProxyConnection
+// Auto reconstructed from vtable block @ 0x00ED6674
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::ProxyConnection::~ProxyConnection()
+1	cricket::Connection::OnMessage(talk_base::Message *)
+2	cricket::Connection::local_candidate(void)const
+3	cricket::ProxyConnection::Send(void const*,unsigned long)
+4	cricket::ProxyConnection::GetError(void)
+

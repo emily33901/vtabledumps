@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTClientJob_0<CDepotDownloadMgr>
+// Auto reconstructed from vtable block @ 0x00F03F00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTClientJob_0<CDepotDownloadMgr>::~CTClientJob_0()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CTClientJob_0<CDepotDownloadMgr>::BYieldingRunJob(void *)
+8	CBaseClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+13	CBaseClientJob::BYieldingRunClientJob(void)
+

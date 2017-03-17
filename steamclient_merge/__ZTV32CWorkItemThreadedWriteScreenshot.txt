@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkItemThreadedWriteScreenshot
+// Auto reconstructed from vtable block @ 0x00F1C1E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkItemThreadedWriteScreenshot::~CWorkItemThreadedWriteScreenshot()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CWorkItemThreadedWriteScreenshot::GetWorkItemName(void)const
+3	CWorkItemThreadedWriteScreenshot::GetThreadProcessName(void)const
+4	CWorkItemThreadedWriteScreenshot::ThreadProcess(CWorkThread *)
+5	CWorkItem::DispatchCompletedWorkItem(CJobMgr *)
+6	CWorkItem::Validate(CValidator &,char const*)
+

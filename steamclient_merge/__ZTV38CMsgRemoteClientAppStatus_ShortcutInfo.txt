@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRemoteClientAppStatus_ShortcutInfo
+// Auto reconstructed from vtable block @ 0x00EC9480
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteClientAppStatus_ShortcutInfo::~CMsgRemoteClientAppStatus_ShortcutInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRemoteClientAppStatus_ShortcutInfo::New(void)const
+3	CMsgRemoteClientAppStatus_ShortcutInfo::Clear(void)
+4	CMsgRemoteClientAppStatus_ShortcutInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRemoteClientAppStatus_ShortcutInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRemoteClientAppStatus_ShortcutInfo::ByteSize(void)const
+90	CMsgRemoteClientAppStatus_ShortcutInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRemoteClientAppStatus_ShortcutInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRemoteClientAppStatus_ShortcutInfo::GetCachedSize(void)const
+12	CMsgRemoteClientAppStatus_ShortcutInfo::CopyFrom(google::protobuf::Message const&)
+13	CMsgRemoteClientAppStatus_ShortcutInfo::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamMatchmaking005
+// Auto reconstructed from vtable block @ 0x00F096D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMatchmaking005::GetFavoriteGameCount(void)
+1	CAdapterSteamMatchmaking005::GetFavoriteGame(int,unsigned int *,unsigned int *,unsigned short *,unsigned short *,unsigned int *,unsigned int *)
+2	CAdapterSteamMatchmaking005::AddFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int,unsigned int)
+3	CAdapterSteamMatchmaking005::RemoveFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int)
+4	CAdapterSteamMatchmaking005::RequestLobbyList(void)
+5	CAdapterSteamMatchmaking005::AddRequestLobbyListFilter(char const*,char const*)
+6	CAdapterSteamMatchmaking005::AddRequestLobbyListNumericalFilter(char const*,int,int)
+7	CAdapterSteamMatchmaking005::AddRequestLobbyListSlotsAvailableFilter(void)
+8	CAdapterSteamMatchmaking005::AddRequestLobbyListNearValueFilter(char const*,int)
+9	CAdapterSteamMatchmaking005::GetLobbyByIndex(int)
+10	CAdapterSteamMatchmaking005::CreateLobby(ELobbyType)
+11	CAdapterSteamMatchmaking005::JoinLobby(CSteamID)
+12	CAdapterSteamMatchmaking005::LeaveLobby(CSteamID)
+13	CAdapterSteamMatchmaking005::InviteUserToLobby(CSteamID,CSteamID)
+14	CAdapterSteamMatchmaking005::GetNumLobbyMembers(CSteamID)
+15	CAdapterSteamMatchmaking005::GetLobbyMemberByIndex(CSteamID,int)
+

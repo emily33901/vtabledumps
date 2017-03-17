@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamGameCoordinator001
+// Auto reconstructed from vtable block @ 0x00F08120
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameCoordinator001::SendMessage(unsigned int,void const*,unsigned int)
+1	CAdapterSteamGameCoordinator001::IsMessageAvailable(unsigned int *)
+2	CAdapterSteamGameCoordinator001::RetrieveMessage(unsigned int *,void *,unsigned int,unsigned int *)
+

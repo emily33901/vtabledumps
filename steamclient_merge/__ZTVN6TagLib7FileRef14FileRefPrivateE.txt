@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::FileRef::FileRefPrivate
+// Auto reconstructed from vtable block @ 0x00F25EE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::FileRef::FileRefPrivate::~FileRefPrivate()
+

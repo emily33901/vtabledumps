@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInternalCallback<CClientVideo,AppLifetimeNotice_t>
+// Auto reconstructed from vtable block @ 0x00EFF0CC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CClientVideo,AppLifetimeNotice_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)
+

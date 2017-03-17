@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPeriodicFunctor
+// Auto reconstructed from vtable block @ 0x00F18370
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPeriodicFunctor::~CPeriodicFunctor()
+1	CPeriodicFunctor::Run(void)
+2	CPeriodicFunctor::GetInterval(void)const
+3	CPeriodicFunctor::ScheduleInternal(CFunctor *,long long)
+

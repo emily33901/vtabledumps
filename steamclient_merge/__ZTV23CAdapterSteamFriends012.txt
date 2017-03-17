@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamFriends012
+// Auto reconstructed from vtable block @ 0x00F0A1B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamFriends012::GetPersonaName(void)
+1	CAdapterSteamFriends012::SetPersonaName(char const*)
+2	CAdapterSteamFriends012::GetPersonaState(void)
+3	CAdapterSteamFriends012::GetFriendCount(int)
+4	CAdapterSteamFriends012::GetFriendByIndex(int,int)
+5	CAdapterSteamFriends012::GetFriendRelationship(CSteamID)
+6	CAdapterSteamFriends012::GetFriendPersonaState(CSteamID)
+7	CAdapterSteamFriends012::GetFriendPersonaName(CSteamID)
+8	CAdapterSteamFriends012::GetFriendGamePlayed(CSteamID,FriendGameInfo_t *)
+9	CAdapterSteamFriends012::GetFriendPersonaNameHistory(CSteamID,int)
+10	CAdapterSteamFriends012::HasFriend(CSteamID,int)
+11	CAdapterSteamFriends012::GetClanCount(void)
+12	CAdapterSteamFriends012::GetClanByIndex(int)
+13	CAdapterSteamFriends012::GetClanName(CSteamID)
+14	CAdapterSteamFriends012::GetClanTag(CSteamID)
+15	CAdapterSteamFriends012::GetClanActivityCounts(CSteamID,int *,int *,int *)
+

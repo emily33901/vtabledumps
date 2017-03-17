@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUserWorkshopItems
+// Auto reconstructed from vtable block @ 0x00ED3900
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUserWorkshopItems::~CUserWorkshopItems()
+

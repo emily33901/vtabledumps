@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBroadcast_EndBroadcastSession_Request
+// Auto reconstructed from vtable block @ 0x00EC0D90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBroadcast_EndBroadcastSession_Request::~CBroadcast_EndBroadcastSession_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CBroadcast_EndBroadcastSession_Request::New(void)const
+3	CBroadcast_EndBroadcastSession_Request::Clear(void)
+4	CBroadcast_EndBroadcastSession_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CBroadcast_EndBroadcastSession_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CBroadcast_EndBroadcastSession_Request::ByteSize(void)const
+90	CBroadcast_EndBroadcastSession_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CBroadcast_EndBroadcastSession_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CBroadcast_EndBroadcastSession_Request::GetCachedSize(void)const
+12	CBroadcast_EndBroadcastSession_Request::CopyFrom(google::protobuf::Message const&)
+13	CBroadcast_EndBroadcastSession_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CBroadcast_EndBroadcastSession_Request::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CBroadcast_EndBroadcastSession_Request::GetMetadata(void)const
+

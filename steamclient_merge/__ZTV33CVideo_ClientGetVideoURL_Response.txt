@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVideo_ClientGetVideoURL_Response
+// Auto reconstructed from vtable block @ 0x00ECACC0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVideo_ClientGetVideoURL_Response::~CVideo_ClientGetVideoURL_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CVideo_ClientGetVideoURL_Response::New(void)const
+3	CVideo_ClientGetVideoURL_Response::Clear(void)
+4	CVideo_ClientGetVideoURL_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CVideo_ClientGetVideoURL_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CVideo_ClientGetVideoURL_Response::ByteSize(void)const
+90	CVideo_ClientGetVideoURL_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CVideo_ClientGetVideoURL_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CVideo_ClientGetVideoURL_Response::GetCachedSize(void)const
+12	CVideo_ClientGetVideoURL_Response::CopyFrom(google::protobuf::Message const&)
+13	CVideo_ClientGetVideoURL_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

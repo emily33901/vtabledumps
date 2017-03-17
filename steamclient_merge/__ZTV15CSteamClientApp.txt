@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamClientApp
+// Auto reconstructed from vtable block @ 0x00ECE340
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamClientApp::~CSteamClientApp()
+

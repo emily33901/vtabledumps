@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkThread
+// Auto reconstructed from vtable block @ 0x00EF21D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CWorkThread::~CWorkThread()
+1	SteamThreadTools::CThread::Init(void)
+2	CWorkThread::Run(void)
+3	CWorkThread::OnExit(void)
+4	SteamThreadTools::CThread::IsThreadRunning(void)const
+5	SteamThreadTools::CThread::GetThreadProc(void)
+6	CWorkThread::Cancel(void)
+7	CWorkThread::OnStart(void)
+8	CWorkThread::Validate(CValidator &,char const*)
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgMouseDblClick
+// Auto reconstructed from vtable block @ 0x00ECB2E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgMouseDblClick::~CMsgMouseDblClick()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgMouseDblClick::New(void)const
+3	CMsgMouseDblClick::Clear(void)
+4	CMsgMouseDblClick::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgMouseDblClick::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgMouseDblClick::ByteSize(void)const
+90	CMsgMouseDblClick::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgMouseDblClick::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgMouseDblClick::GetCachedSize(void)const
+12	CMsgMouseDblClick::CopyFrom(google::protobuf::Message const&)
+13	CMsgMouseDblClick::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

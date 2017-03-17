@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientRequestMachineAuth
+// Auto reconstructed from vtable block @ 0x00EEDDD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientRequestMachineAuth::~CMsgClientRequestMachineAuth()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientRequestMachineAuth::New(void)const
+3	CMsgClientRequestMachineAuth::Clear(void)
+4	CMsgClientRequestMachineAuth::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientRequestMachineAuth::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientRequestMachineAuth::ByteSize(void)const
+90	CMsgClientRequestMachineAuth::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientRequestMachineAuth::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientRequestMachineAuth::GetCachedSize(void)const
+12	CMsgClientRequestMachineAuth::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientRequestMachineAuth::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientRequestMachineAuth::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientRequestMachineAuth::GetMetadata(void)const
+

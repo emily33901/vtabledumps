@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CModeSetting<short>
+// Auto reconstructed from vtable block @ 0x00F034E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CModeSetting<short>::Get(void)const
+1	CModeSetting<short>::Set(short)
+2	CModeSetting<short>::MapToUI(void)const
+3	CModeSetting<short>::MapFromUI(unsigned short)
+4	CModeSetting<short>::IsDefault(void)const
+5	CModeSetting<short>::GetDefault(void)
+6	CModeSetting<short>::GetRawDefault(void)
+7	CModeSetting<short>::SetDefault(unsigned short)
+8	CModeSetting<short>::SetMax(short)
+

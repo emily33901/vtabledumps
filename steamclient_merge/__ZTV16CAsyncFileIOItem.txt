@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAsyncFileIOItem
+// Auto reconstructed from vtable block @ 0x00EF27B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAsyncFileIOItem::~CAsyncFileIOItem()
+

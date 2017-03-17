@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVDFControllerMappingErrorHandler
+// Auto reconstructed from vtable block @ 0x00F02AA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVDFControllerMappingErrorHandler::~CVDFControllerMappingErrorHandler()
+1	CVDFControllerMappingErrorHandler::OnError(char const*)
+

@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGenericAsyncFileIOThread
+// Auto reconstructed from vtable block @ 0x00EC0840
+// from "steamclient.dylib", by ida_vtables.idc
+0	CGenericAsyncFileIOThread::~CGenericAsyncFileIOThread()
+1	SteamThreadTools::CThread::Init(void)
+2	CGenericAsyncFileIOThread::Run(void)
+3	SteamThreadTools::CThread::OnExit(void)
+4	SteamThreadTools::CThread::IsThreadRunning(void)const
+5	SteamThreadTools::CThread::GetThreadProc(void)
+6	CGenericAsyncFileIOThread::Validate(CValidator &,char const*)
+

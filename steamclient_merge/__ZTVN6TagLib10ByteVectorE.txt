@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ByteVector
+// Auto reconstructed from vtable block @ 0x00EE3B78
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ByteVector::~ByteVector()
+

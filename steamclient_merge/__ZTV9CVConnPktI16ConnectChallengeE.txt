@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVConnPkt<ConnectChallenge>
+// Auto reconstructed from vtable block @ 0x00F2D290
+// from "steamclient.dylib", by ida_vtables.idc
+0	CVConnPkt<ConnectChallenge>::~CVConnPkt()
+

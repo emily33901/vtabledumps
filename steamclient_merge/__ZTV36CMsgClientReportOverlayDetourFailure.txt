@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientReportOverlayDetourFailure
+// Auto reconstructed from vtable block @ 0x00EE9E00
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientReportOverlayDetourFailure::~CMsgClientReportOverlayDetourFailure()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientReportOverlayDetourFailure::New(void)const
+3	CMsgClientReportOverlayDetourFailure::Clear(void)
+4	CMsgClientReportOverlayDetourFailure::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientReportOverlayDetourFailure::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientReportOverlayDetourFailure::ByteSize(void)const
+90	CMsgClientReportOverlayDetourFailure::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientReportOverlayDetourFailure::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientReportOverlayDetourFailure::GetCachedSize(void)const
+12	CMsgClientReportOverlayDetourFailure::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientReportOverlayDetourFailure::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientReportOverlayDetourFailure::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientReportOverlayDetourFailure::GetMetadata(void)const
+

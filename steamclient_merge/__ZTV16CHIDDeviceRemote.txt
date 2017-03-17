@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDDeviceRemote
+// Auto reconstructed from vtable block @ 0x00EC0930
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDDeviceRemote::~CHIDDeviceRemote()
+1	CHIDDeviceRemote::GetLocation(void)
+2	CHIDDeviceRemote::Write(unsigned char const*,unsigned long)
+3	CHIDDeviceRemote::Read(unsigned char *,unsigned long,int)
+4	CHIDDeviceRemote::SendFeatureReport(unsigned char const*,unsigned long)
+5	CHIDDeviceRemote::GetFeatureReport(unsigned char *,unsigned long)
+6	CHIDDeviceRemote::GetVendorString(void)
+7	CHIDDeviceRemote::GetProductString(void)
+8	CHIDDeviceRemote::GetSerialNumberString(void)
+

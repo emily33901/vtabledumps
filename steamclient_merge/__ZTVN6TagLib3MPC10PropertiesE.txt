@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::MPC::Properties
+// Auto reconstructed from vtable block @ 0x00EE3190
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::MPC::Properties::~Properties()
+1	TagLib::MPC::Properties::length(void)const
+2	TagLib::MPC::Properties::bitrate(void)const
+3	TagLib::MPC::Properties::sampleRate(void)const
+4	TagLib::MPC::Properties::channels(void)const
+

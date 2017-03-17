@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamClientDLLValidate
+// Auto reconstructed from vtable block @ 0x00F10790
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamClientDLLValidate::Validate(CValidator &)
+

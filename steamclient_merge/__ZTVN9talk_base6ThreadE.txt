@@ -1,0 +1,22 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::Thread
+// Auto reconstructed from vtable block @ 0x00ED6148
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::Thread::~Thread()
+1	talk_base::Thread::Stop(void)
+2	talk_base::MessageQueue::IsStopping(void)
+3	talk_base::MessageQueue::Restart(void)
+4	talk_base::MessageQueue::Get(talk_base::Message *,int)
+5	talk_base::MessageQueue::Peek(talk_base::Message *,int)
+6	talk_base::MessageQueue::Post(talk_base::MessageHandler *,unsigned int,talk_base::MessageData *,bool)
+7	talk_base::MessageQueue::PostDelayed(int,talk_base::MessageHandler *,unsigned int,talk_base::MessageData *)
+8	talk_base::Thread::Clear(talk_base::MessageHandler *,unsigned int)
+90	talk_base::MessageQueue::Dispatch(talk_base::Message *)
+10	talk_base::Thread::ReceiveSends(void)
+11	talk_base::MessageQueue::GetDelay(void)
+12	talk_base::Thread::Start(void)
+13	talk_base::Thread::Run(void)
+14	talk_base::Thread::Send(talk_base::MessageHandler *,unsigned int,talk_base::MessageData *)
+

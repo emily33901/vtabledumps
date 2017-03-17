@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'SkipReader
+// Auto reconstructed from vtable block @ 0x00F26218
+// from "steamclient.dylib", by ida_vtables.idc
+0	SkipReader::~SkipReader()
+1	SkipReader::read(TagLib::File &,unsigned int)
+2	SkipReader::size(void)const
+

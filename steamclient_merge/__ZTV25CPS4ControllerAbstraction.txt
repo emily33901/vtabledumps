@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPS4ControllerAbstraction
+// Auto reconstructed from vtable block @ 0x00F020D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPS4ControllerAbstraction::~CPS4ControllerAbstraction()
+1	CPS4ControllerAbstraction::SetupController(void)
+2	CPS4ControllerAbstraction::TurnOffController(void)
+3	CPS4ControllerAbstraction::ReadInput(void)
+4	CPS4ControllerAbstraction::GetControllerInfo(ControllerDetails_t &)
+5	CPS4ControllerAbstraction::GetChipId(char *,unsigned long)
+6	CPS4ControllerAbstraction::ProcessState(SteamControllerStateInternal_t &)
+7	CControllerAbstractionBase::GetWirelessEvent(void)
+8	CPS4ControllerAbstraction::GetStatus(Voltroller::SteamControllerStatusEvent_t &)
+90	CPS4ControllerAbstraction::SetSettings(Voltroller::ControllerSetting *,unsigned long)
+10	CPS4ControllerAbstraction::SetUserLedColor(unsigned char,unsigned char,unsigned char)
+11	CPS4ControllerAbstraction::TriggerHapticPulse(int,unsigned short,unsigned short,unsigned short,unsigned char)
+12	CPS4ControllerAbstraction::SetRumble(int,int,unsigned short,unsigned short)
+13	CControllerAbstractionBase::GetSocket(void)
+

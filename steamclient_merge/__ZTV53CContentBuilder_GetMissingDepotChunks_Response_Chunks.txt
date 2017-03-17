@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CContentBuilder_GetMissingDepotChunks_Response_Chunks
+// Auto reconstructed from vtable block @ 0x00EC32B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CContentBuilder_GetMissingDepotChunks_Response_Chunks::~CContentBuilder_GetMissingDepotChunks_Response_Chunks()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CContentBuilder_GetMissingDepotChunks_Response_Chunks::New(void)const
+3	CContentBuilder_GetMissingDepotChunks_Response_Chunks::Clear(void)
+4	CContentBuilder_GetMissingDepotChunks_Response_Chunks::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CContentBuilder_GetMissingDepotChunks_Response_Chunks::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CContentBuilder_GetMissingDepotChunks_Response_Chunks::ByteSize(void)const
+90	CContentBuilder_GetMissingDepotChunks_Response_Chunks::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CContentBuilder_GetMissingDepotChunks_Response_Chunks::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CContentBuilder_GetMissingDepotChunks_Response_Chunks::GetCachedSize(void)const
+12	CContentBuilder_GetMissingDepotChunks_Response_Chunks::CopyFrom(google::protobuf::Message const&)
+13	CContentBuilder_GetMissingDepotChunks_Response_Chunks::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

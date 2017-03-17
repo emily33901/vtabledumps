@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientEmailChangeResponse
+// Auto reconstructed from vtable block @ 0x00EEE670
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientEmailChangeResponse::~CMsgClientEmailChangeResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientEmailChangeResponse::New(void)const
+3	CMsgClientEmailChangeResponse::Clear(void)
+4	CMsgClientEmailChangeResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientEmailChangeResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientEmailChangeResponse::ByteSize(void)const
+90	CMsgClientEmailChangeResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientEmailChangeResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientEmailChangeResponse::GetCachedSize(void)const
+12	CMsgClientEmailChangeResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientEmailChangeResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientEmailChangeResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientEmailChangeResponse::GetMetadata(void)const
+

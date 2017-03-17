@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAppUpdateDepotsJob
+// Auto reconstructed from vtable block @ 0x00ECF3A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAppUpdateDepotsJob::~CAppUpdateDepotsJob()
+1	CBaseClientJob::GetServerType(void)
+2	CAppUpdateDepotsJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CClientJob::BYieldingRunJob(void *)
+8	CClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPlayer_GetGameBadgeLevels_Response_Badge
+// Auto reconstructed from vtable block @ 0x00EC7C60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPlayer_GetGameBadgeLevels_Response_Badge::~CPlayer_GetGameBadgeLevels_Response_Badge()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPlayer_GetGameBadgeLevels_Response_Badge::New(void)const
+3	CPlayer_GetGameBadgeLevels_Response_Badge::Clear(void)
+4	CPlayer_GetGameBadgeLevels_Response_Badge::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPlayer_GetGameBadgeLevels_Response_Badge::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPlayer_GetGameBadgeLevels_Response_Badge::ByteSize(void)const
+90	CPlayer_GetGameBadgeLevels_Response_Badge::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPlayer_GetGameBadgeLevels_Response_Badge::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPlayer_GetGameBadgeLevels_Response_Badge::GetCachedSize(void)const
+12	CPlayer_GetGameBadgeLevels_Response_Badge::CopyFrom(google::protobuf::Message const&)
+13	CPlayer_GetGameBadgeLevels_Response_Badge::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNetworkDeviceManagerOSX
+// Auto reconstructed from vtable block @ 0x00ED2D20
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetworkDeviceManagerOSX::IsInterfaceValid(void)
+1	CNetworkDeviceManager::RefreshDevices(void)
+2	CNetworkDeviceManager::EnumerateNetworkDevices(unsigned int,unsigned int *)
+3	CNetworkDeviceManager::GetDeviceType(unsigned int)
+4	CNetworkDeviceManager::IsCurrentDevice(unsigned int)
+5	CNetworkDeviceManager::IsCurrentlyConnected(unsigned int)
+6	CNetworkDeviceManager::GetDeviceIP4(unsigned int,unsigned int,unsigned int *)
+7	CNetworkDeviceManager::GetDeviceBroadcastIP4(unsigned int,unsigned int,unsigned int *)
+8	CNetworkDeviceManager::GetDeviceVendor(unsigned int)
+9	CNetworkDeviceManager::GetDeviceProduct(unsigned int)
+10	CNetworkDeviceManager::GetMacAddress(unsigned int)
+11	CNetworkDeviceManager::GetSubnetMaskBitCount(unsigned int,unsigned int,unsigned int *)
+12	CNetworkDeviceManager::GetRouterAddressIP4(unsigned int,unsigned int,unsigned int *)
+13	CNetworkDeviceManager::GetDNSResolversIP4(unsigned int,unsigned int,unsigned int *)
+14	CNetworkDeviceManager::GetDeviceState(unsigned int)
+15	CNetworkDeviceManager::GetDevicePluggedState(unsigned int)
+

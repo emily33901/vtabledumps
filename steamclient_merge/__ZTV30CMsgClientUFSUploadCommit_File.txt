@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUFSUploadCommit_File
+// Auto reconstructed from vtable block @ 0x00EEA3A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSUploadCommit_File::~CMsgClientUFSUploadCommit_File()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUFSUploadCommit_File::New(void)const
+3	CMsgClientUFSUploadCommit_File::Clear(void)
+4	CMsgClientUFSUploadCommit_File::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUFSUploadCommit_File::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUFSUploadCommit_File::ByteSize(void)const
+90	CMsgClientUFSUploadCommit_File::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUFSUploadCommit_File::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUFSUploadCommit_File::GetCachedSize(void)const
+12	CMsgClientUFSUploadCommit_File::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUFSUploadCommit_File::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUFSUploadCommit_File::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUFSUploadCommit_File::GetMetadata(void)const
+

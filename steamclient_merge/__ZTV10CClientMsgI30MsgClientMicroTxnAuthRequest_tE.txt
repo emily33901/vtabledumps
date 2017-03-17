@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientMicroTxnAuthRequest_t>
+// Auto reconstructed from vtable block @ 0x00EF752C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientMicroTxnAuthRequest_t>::~CClientMsg()
+

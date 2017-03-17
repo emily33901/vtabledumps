@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<COpenSSLConnection>
+// Auto reconstructed from vtable block @ 0x00F2CFB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<COpenSSLConnection>::~CScheduledFunction()
+1	CScheduledFunction<COpenSSLConnection>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

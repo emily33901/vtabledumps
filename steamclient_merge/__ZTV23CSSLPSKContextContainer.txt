@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSSLPSKContextContainer
+// Auto reconstructed from vtable block @ 0x00ED33A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSSLPSKContextContainer::GetSSLContext(void)
+1	CSSLPSKContextContainer::BVerifyCertificate(CNetConnection *,COpenSSLConnection *,COpenSSLCertificate const&)
+2	CSSLPSKContextContainer::~CSSLPSKContextContainer()
+

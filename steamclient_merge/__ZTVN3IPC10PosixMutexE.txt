@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IPC::PosixMutex
+// Auto reconstructed from vtable block @ 0x00EF3000
+// from "steamclient.dylib", by ida_vtables.idc
+0	IPC::PosixMutex::Wait(unsigned int)
+1	IPC::PosixMutex::Destroy(void)
+2	IPC::PosixMutex::~PosixMutex()
+3	IPC::ISyncObject::GetOpaque(void)
+4	IPC::ISyncObject::Validate(CValidator &,char const*)
+5	IPC::PosixMutex::Release(void)
+

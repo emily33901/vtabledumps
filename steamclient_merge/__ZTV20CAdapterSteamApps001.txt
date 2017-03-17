@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamApps001
+// Auto reconstructed from vtable block @ 0x00F08DBC
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamApps001::GetAppData(unsigned int,char const*,char *,int)
+

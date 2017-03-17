@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CServerPlayerListMsgHandler
+// Auto reconstructed from vtable block @ 0x00ED2730
+// from "steamclient.dylib", by ida_vtables.idc
+0	CServerPlayerListMsgHandler::~CServerPlayerListMsgHandler()
+1	CServerPlayerListMsgHandler::Process(netadr_t *,CMsgBuffer *)
+2	CMsgHandler::GetNext(void)const
+3	CMsgHandler::SetNext(CMsgHandler*)
+4	CMsgHandler::GetSocket(void)const
+5	CMsgHandler::SetSocket(CSocket *)
+6	CServerPlayerListMsgHandler::Validate(CValidator &,char const*)
+

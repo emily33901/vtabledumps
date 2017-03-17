@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<int (*)(sp_playlistcontainer *)>
+// Auto reconstructed from vtable block @ 0x00F0D9A0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<int (*)(sp_playlistcontainer *)>::Init(CSysModule *)
+1	CDynamicFunc<int (*)(sp_playlistcontainer *)>::Release(void)
+2	CDynamicFunc<int (*)(sp_playlistcontainer *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<int (*)(sp_playlistcontainer *)>::GetNextPointer(void)
+

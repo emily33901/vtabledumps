@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientAckGuestPass_t>
+// Auto reconstructed from vtable block @ 0x00EFC85C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientAckGuestPass_t>::~CClientMsg()
+

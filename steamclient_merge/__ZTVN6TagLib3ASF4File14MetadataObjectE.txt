@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::ASF::File::MetadataObject
+// Auto reconstructed from vtable block @ 0x00EE2CAC
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::ASF::File::MetadataObject::~MetadataObject()
+1	TagLib::ASF::File::MetadataObject::guid(void)
+2	TagLib::ASF::File::MetadataObject::parse(TagLib::ASF::File*,unsigned int)
+3	TagLib::ASF::File::MetadataObject::render(TagLib::ASF::File*)
+

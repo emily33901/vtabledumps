@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientUGC
+// Auto reconstructed from vtable block @ 0x00ECF6B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientUGC::CreateQueryUserUGCRequest(unsigned int,EUserUGCList,EUGCMatchingUGCType,EUserUGCListSortOrder,unsigned int,unsigned int,unsigned int)
+1	CClientUGC::CreateQueryAllUGCRequest(EUGCQuery,EUGCMatchingUGCType,unsigned int,unsigned int,unsigned int)
+2	CClientUGC::CreateQueryUGCDetailsRequest(unsigned long long *,unsigned int)
+3	CClientUGC::SendQueryUGCRequest(unsigned long long)
+4	CClientUGC::GetQueryUGCResult(unsigned long long,unsigned int,SteamUGCDetails_t *)
+5	CClientUGC::GetQueryUGCPreviewURL(unsigned long long,unsigned int,char *,unsigned int)
+6	CClientUGC::GetQueryUGCMetadata(unsigned long long,unsigned int,char *,unsigned int)
+7	CClientUGC::GetQueryUGCChildren(unsigned long long,unsigned int,unsigned long long *,unsigned int)
+8	CClientUGC::GetQueryUGCStatistic(unsigned long long,unsigned int,EItemStatistic,unsigned long long *)
+9	CClientUGC::GetQueryUGCNumAdditionalPreviews(unsigned long long,unsigned int)
+10	CClientUGC::GetQueryUGCAdditionalPreview(unsigned long long,unsigned int,unsigned int,char *,unsigned int,char *,unsigned int,EItemPreviewType *)
+11	CClientUGC::GetQueryUGCNumKeyValueTags(unsigned long long,unsigned int)
+12	CClientUGC::GetQueryUGCKeyValueTag(unsigned long long,unsigned int,unsigned int,char *,unsigned int,char *,unsigned int)
+

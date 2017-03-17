@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CContentBuilder_StartDepotUpload_Request
+// Auto reconstructed from vtable block @ 0x00EC3190
+// from "steamclient.dylib", by ida_vtables.idc
+0	CContentBuilder_StartDepotUpload_Request::~CContentBuilder_StartDepotUpload_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CContentBuilder_StartDepotUpload_Request::New(void)const
+3	CContentBuilder_StartDepotUpload_Request::Clear(void)
+4	CContentBuilder_StartDepotUpload_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CContentBuilder_StartDepotUpload_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CContentBuilder_StartDepotUpload_Request::ByteSize(void)const
+90	CContentBuilder_StartDepotUpload_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CContentBuilder_StartDepotUpload_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CContentBuilder_StartDepotUpload_Request::GetCachedSize(void)const
+12	CContentBuilder_StartDepotUpload_Request::CopyFrom(google::protobuf::Message const&)
+13	CContentBuilder_StartDepotUpload_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CContentBuilder_StartDepotUpload_Request::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CContentBuilder_StartDepotUpload_Request::GetMetadata(void)const
+

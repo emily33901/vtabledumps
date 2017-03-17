@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientMsg<MsgClientOGSEndSessionResponse_t>
+// Auto reconstructed from vtable block @ 0x00EF517C
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientMsg<MsgClientOGSEndSessionResponse_t>::~CClientMsg()
+

@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::Speex::File
+// Auto reconstructed from vtable block @ 0x00EE37D8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::Speex::File::~File()
+1	TagLib::Ogg::Speex::File::tag(void)const
+2	TagLib::Ogg::Speex::File::audioProperties(void)const
+3	TagLib::Ogg::Speex::File::save(void)
+

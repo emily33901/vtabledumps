@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamRemoteStorage001
+// Auto reconstructed from vtable block @ 0x00F08410
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamRemoteStorage001::FileWrite(char const*,void const*,int)
+1	CAdapterSteamRemoteStorage001::GetFileSize(char const*)
+2	CAdapterSteamRemoteStorage001::FileRead(char const*,void *,int)
+3	CAdapterSteamRemoteStorage001::FileExists(char const*)
+4	CAdapterSteamRemoteStorage001::FileDelete(char const*)
+5	CAdapterSteamRemoteStorage001::GetFileCount(void)
+6	CAdapterSteamRemoteStorage001::GetFileNameAndSize(int,int *)
+7	CAdapterSteamRemoteStorage001::GetQuota(int *,int *)
+

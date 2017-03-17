@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLoadControllerConfigWorkItem
+// Auto reconstructed from vtable block @ 0x00F01F10
+// from "steamclient.dylib", by ida_vtables.idc
+0	CLoadControllerConfigWorkItem::~CLoadControllerConfigWorkItem()
+1	CLoadControllerConfigWorkItem::RunFunc(IControllerAbstraction *)
+2	CLoadControllerConfigWorkItem::DispatchCompletion(void)
+3	CControllerWorkItem::BHasPotentialSideEffects(void)
+4	CLoadControllerConfigWorkItem::Validate(CValidator &,char const*)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUGCDownloadHelper
+// Auto reconstructed from vtable block @ 0x00ED3970
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUGCDownloadHelper::~CUGCDownloadHelper()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+

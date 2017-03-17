@@ -1,0 +1,37 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTCPConnection
+// Auto reconstructed from vtable block @ 0x00EF1FD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetConnection::RecvPlaintext(unsigned char *,unsigned int)
+1	CNetConnection::SendEncryptedData(unsigned char *,unsigned int)
+2	CNetConnection::HandleSSLFailure(EResult)
+3	CNetConnection::SSLHandshakeCompleted(void)
+4	CNetConnection::SSLShutdownCompleted(void)
+5	CNetConnection::BVerifyCertificate(COpenSSLConnection *,COpenSSLCertificate const&)
+6	CTCPConnection::~CTCPConnection()
+7	CTCPConnection::GetConnectionType(void)
+8	CTCPConnection::GetPingResults(CUtlVector<NetConnectPingResults_t,CUtlMemory<NetConnectPingResults_t>> &)
+90	CNetConnection::OnMessageComplete(unsigned char const*,unsigned int)
+10	CTCPConnection::BAsyncUnbufferedSend(unsigned char const*,int,IUnbufferedSendCallback *)
+11	CTCPConnection::BInternalAsyncConnect(netadr_t const*,int,netadr_t const&,unsigned int)
+12	CTCPConnection::BInternalAsyncSend(unsigned char const*,int,bool)
+13	CTCPConnection::BInternalAsyncDisconnect(void)
+14	CTCPConnection::SetIncoming(int,netadr_t const&)
+15	CTCPConnection::Destroy(void)
+16	CTCPConnection::BPollConnection(void)
+17	CTCPConnection::IsIntraProcessConnection(void)
+18	CTCPConnection::BIsSendBlocked(int)
+19	CTCPConnection::SetConnectionBlackHoled(void)
+20	CTCPConnection::SetConnectionPostedBufferSize(int)
+21	CTCPConnection::GetConnectionPostedBufferSize(void)
+22	CTCPConnection::GetDisconnectLogText(void)
+23	CTCPConnection::OnDisconnect(EResult)
+24	CNetConnection::OnDisconnectDispatch(EResult)
+25	CTCPConnection::OnConnectionSucceeded(void)
+26	CTCPConnection::OnConnectFailure(EResult,unsigned long long)
+27	CTCPConnection::CloseSocket(void)
+28	CNetConnection::OnNetQOSLevelChanged(ENetQOSLevel,ENetQOSLevel)
+29	CTCPConnection::Validate(CValidator &,char const*)
+

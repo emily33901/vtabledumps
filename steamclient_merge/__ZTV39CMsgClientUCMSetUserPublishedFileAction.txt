@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUCMSetUserPublishedFileAction
+// Auto reconstructed from vtable block @ 0x00EED770
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUCMSetUserPublishedFileAction::~CMsgClientUCMSetUserPublishedFileAction()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUCMSetUserPublishedFileAction::New(void)const
+3	CMsgClientUCMSetUserPublishedFileAction::Clear(void)
+4	CMsgClientUCMSetUserPublishedFileAction::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUCMSetUserPublishedFileAction::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUCMSetUserPublishedFileAction::ByteSize(void)const
+90	CMsgClientUCMSetUserPublishedFileAction::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUCMSetUserPublishedFileAction::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUCMSetUserPublishedFileAction::GetCachedSize(void)const
+12	CMsgClientUCMSetUserPublishedFileAction::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUCMSetUserPublishedFileAction::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUCMSetUserPublishedFileAction::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUCMSetUserPublishedFileAction::GetMetadata(void)const
+

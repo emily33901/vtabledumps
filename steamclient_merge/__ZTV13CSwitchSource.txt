@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSwitchSource
+// Auto reconstructed from vtable block @ 0x00F037B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSwitchSource::~CSwitchSource()
+1	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+2	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+3	CSwitchSource::GetHapticLocation(void)
+4	IControllerSource::SetAntiDrift(Vector)
+5	CSwitchSource::Update(SteamControllerStateInternal_t const*)
+6	IControllerSource::Validate(CValidator &,char const*)
+

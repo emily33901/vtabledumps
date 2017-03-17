@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUtils003
+// Auto reconstructed from vtable block @ 0x00F070C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUtils003::GetSecondsSinceAppActive(void)
+1	CAdapterSteamUtils003::GetSecondsSinceComputerActive(void)
+2	CAdapterSteamUtils003::GetConnectedUniverse(void)
+3	CAdapterSteamUtils003::GetServerRealTime(void)
+4	CAdapterSteamUtils003::GetIPCountry(void)
+5	CAdapterSteamUtils003::GetImageSize(int,unsigned int *,unsigned int *)
+6	CAdapterSteamUtils003::GetImageRGBA(int,unsigned char *,int)
+7	CAdapterSteamUtils003::GetCSERIPPort(unsigned int *,unsigned short *)
+8	CAdapterSteamUtils003::GetCurrentBatteryPower(void)
+9	CAdapterSteamUtils003::GetAppID(void)
+10	CAdapterSteamUtils003::SetOverlayNotificationPosition(ENotificationPosition)
+11	CAdapterSteamUtils003::IsAPICallCompleted(unsigned long long,bool *)
+12	CAdapterSteamUtils003::GetAPICallFailureReason(unsigned long long)
+13	CAdapterSteamUtils003::GetAPICallResult(unsigned long long,void *,int,int,bool *)
+14	CAdapterSteamUtils003::RunFrame(void)
+15	CAdapterSteamUtils003::GetIPCCallCount(void)
+

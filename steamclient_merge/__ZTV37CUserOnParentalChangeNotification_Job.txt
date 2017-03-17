@@ -1,0 +1,22 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CUserOnParentalChangeNotification_Job
+// Auto reconstructed from vtable block @ 0x00ED4310
+// from "steamclient.dylib", by ida_vtables.idc
+0	CUserOnParentalChangeNotification_Job::~CUserOnParentalChangeNotification_Job()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+5	CJob::MsgTraceReportJobUnblocking(void)
+6	CJob::DescribeWork(CUtlStringBuilder &)
+7	CUserOnParentalChangeNotification_Job::BYieldingRunJob(void *)
+8	CUserOnParentalChangeNotification_Job::BYieldingRunJobFromMsg(IMsgNetPacket *)
+90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+13	CBaseClientJob::BYieldingRunClientJob(void)
+14	CUserOnParentalChangeNotification_Job::YieldingRunMethod(CUser *,CParental_ParentalSettingsChange_Notification const&)
+

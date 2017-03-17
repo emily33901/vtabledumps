@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientLicenseList_License
+// Auto reconstructed from vtable block @ 0x00EE81E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientLicenseList_License::~CMsgClientLicenseList_License()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientLicenseList_License::New(void)const
+3	CMsgClientLicenseList_License::Clear(void)
+4	CMsgClientLicenseList_License::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientLicenseList_License::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientLicenseList_License::ByteSize(void)const
+90	CMsgClientLicenseList_License::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientLicenseList_License::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientLicenseList_License::GetCachedSize(void)const
+12	CMsgClientLicenseList_License::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientLicenseList_License::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientLicenseList_License::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientLicenseList_License::GetMetadata(void)const
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUFSGetUGCDetails
+// Auto reconstructed from vtable block @ 0x00EEB3C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUFSGetUGCDetails::~CMsgClientUFSGetUGCDetails()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUFSGetUGCDetails::New(void)const
+3	CMsgClientUFSGetUGCDetails::Clear(void)
+4	CMsgClientUFSGetUGCDetails::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUFSGetUGCDetails::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUFSGetUGCDetails::ByteSize(void)const
+90	CMsgClientUFSGetUGCDetails::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUFSGetUGCDetails::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUFSGetUGCDetails::GetCachedSize(void)const
+12	CMsgClientUFSGetUGCDetails::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUFSGetUGCDetails::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUFSGetUGCDetails::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUFSGetUGCDetails::GetMetadata(void)const
+

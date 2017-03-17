@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgCloseDevTools
+// Auto reconstructed from vtable block @ 0x00ECD620
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgCloseDevTools::~CMsgCloseDevTools()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgCloseDevTools::New(void)const
+3	CMsgCloseDevTools::Clear(void)
+4	CMsgCloseDevTools::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgCloseDevTools::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgCloseDevTools::ByteSize(void)const
+90	CMsgCloseDevTools::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgCloseDevTools::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgCloseDevTools::GetCachedSize(void)const
+12	CMsgCloseDevTools::CopyFrom(google::protobuf::Message const&)
+13	CMsgCloseDevTools::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Mod::FileBase
+// Auto reconstructed from vtable block @ 0x00F25F40
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Mod::FileBase::~FileBase()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+

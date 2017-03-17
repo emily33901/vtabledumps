@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgPersonaChangeResponse
+// Auto reconstructed from vtable block @ 0x00EE8840
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgPersonaChangeResponse::~CMsgPersonaChangeResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgPersonaChangeResponse::New(void)const
+3	CMsgPersonaChangeResponse::Clear(void)
+4	CMsgPersonaChangeResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgPersonaChangeResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgPersonaChangeResponse::ByteSize(void)const
+90	CMsgPersonaChangeResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgPersonaChangeResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgPersonaChangeResponse::GetCachedSize(void)const
+12	CMsgPersonaChangeResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgPersonaChangeResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgPersonaChangeResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgPersonaChangeResponse::GetMetadata(void)const
+

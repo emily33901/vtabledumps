@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<void * (*)(char const*,vr::EVRInitError *)>
+// Auto reconstructed from vtable block @ 0x00F274E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<void * (*)(char const*,vr::EVRInitError *)>::Init(CSysModule *)
+1	CDynamicFunc<void * (*)(char const*,vr::EVRInitError *)>::Release(void)
+2	CDynamicFunc<void * (*)(char const*,vr::EVRInitError *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<void * (*)(char const*,vr::EVRInitError *)>::GetNextPointer(void)
+

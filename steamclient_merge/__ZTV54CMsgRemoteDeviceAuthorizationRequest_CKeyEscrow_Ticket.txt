@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket
+// Auto reconstructed from vtable block @ 0x00EC9C30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::~CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::New(void)const
+3	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::Clear(void)
+4	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::ByteSize(void)const
+90	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::GetCachedSize(void)const
+12	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::CopyFrom(google::protobuf::Message const&)
+13	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRemoteDeviceAuthorizationRequest_CKeyEscrow_Ticket::GetMetadata(void)const
+

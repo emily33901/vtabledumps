@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamScreenshots001
+// Auto reconstructed from vtable block @ 0x00F08360
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamScreenshots001::WriteScreenshot(void *,unsigned int,int,int)
+1	CAdapterSteamScreenshots001::AddScreenshotToLibrary(char const*,char const*,int,int)
+2	CAdapterSteamScreenshots001::TriggerScreenshot(void)
+3	CAdapterSteamScreenshots001::HookScreenshots(bool)
+4	CAdapterSteamScreenshots001::SetLocation(unsigned int,char const*)
+5	CAdapterSteamScreenshots001::TagUser(unsigned int,CSteamID)
+

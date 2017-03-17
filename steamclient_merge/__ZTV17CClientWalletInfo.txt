@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientWalletInfo
+// Auto reconstructed from vtable block @ 0x00EE69C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientWalletInfo::~CClientWalletInfo()
+1	CMessageObject::BInternalDeserialize(CUtlBuffer &)
+2	CMessageObject::BInternalSerialize(CUtlBuffer &)
+

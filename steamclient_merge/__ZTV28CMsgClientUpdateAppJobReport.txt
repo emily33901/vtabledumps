@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientUpdateAppJobReport
+// Auto reconstructed from vtable block @ 0x00EEE910
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientUpdateAppJobReport::~CMsgClientUpdateAppJobReport()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientUpdateAppJobReport::New(void)const
+3	CMsgClientUpdateAppJobReport::Clear(void)
+4	CMsgClientUpdateAppJobReport::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientUpdateAppJobReport::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientUpdateAppJobReport::ByteSize(void)const
+90	CMsgClientUpdateAppJobReport::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientUpdateAppJobReport::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientUpdateAppJobReport::GetCachedSize(void)const
+12	CMsgClientUpdateAppJobReport::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientUpdateAppJobReport::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUpdateAppJobReport::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUpdateAppJobReport::GetMetadata(void)const
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBroadcast_WatchBroadcast_Response
+// Auto reconstructed from vtable block @ 0x00EC0FD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBroadcast_WatchBroadcast_Response::~CBroadcast_WatchBroadcast_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CBroadcast_WatchBroadcast_Response::New(void)const
+3	CBroadcast_WatchBroadcast_Response::Clear(void)
+4	CBroadcast_WatchBroadcast_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CBroadcast_WatchBroadcast_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CBroadcast_WatchBroadcast_Response::ByteSize(void)const
+90	CBroadcast_WatchBroadcast_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CBroadcast_WatchBroadcast_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CBroadcast_WatchBroadcast_Response::GetCachedSize(void)const
+12	CBroadcast_WatchBroadcast_Response::CopyFrom(google::protobuf::Message const&)
+13	CBroadcast_WatchBroadcast_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CBroadcast_WatchBroadcast_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CBroadcast_WatchBroadcast_Response::GetMetadata(void)const
+

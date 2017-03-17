@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTriggerSource
+// Auto reconstructed from vtable block @ 0x00F036B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CTriggerSource::~CTriggerSource()
+1	IControllerSource::GetMappings(CUtlVector<Voltroller::DigitalMapping,CUtlMemory<Voltroller::DigitalMapping>> &)const
+2	IControllerSource::GetSettings(CUtlVector<Voltroller::ControllerSetting,CUtlMemory<Voltroller::ControllerSetting>> &)const
+3	CTriggerSource::GetHapticLocation(void)
+4	IControllerSource::SetAntiDrift(Vector)
+5	CTriggerSource::Update(SteamControllerStateInternal_t const*)
+6	IControllerSource::Validate(CValidator &,char const*)
+

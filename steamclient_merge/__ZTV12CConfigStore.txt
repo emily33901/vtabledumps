@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CConfigStore
+// Auto reconstructed from vtable block @ 0x00ECFCD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CConfigStore::IsSet(EConfigStore,char const*)
+1	CConfigStore::GetBool(EConfigStore,char const*,bool)
+2	CConfigStore::GetInt(EConfigStore,char const*,int)
+3	CConfigStore::GetUint64(EConfigStore,char const*,unsigned long long)
+

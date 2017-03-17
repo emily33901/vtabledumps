@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::io::StringOutputStream
+// Auto reconstructed from vtable block @ 0x00ED5384
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::io::StringOutputStream::~StringOutputStream()
+1	google::protobuf::io::StringOutputStream::Next(void **,int *)
+2	google::protobuf::io::StringOutputStream::BackUp(int)
+3	google::protobuf::io::StringOutputStream::ByteCount(void)const
+4	google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*,int)
+5	google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing(void)const
+

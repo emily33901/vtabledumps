@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientStreamLauncher
+// Auto reconstructed from vtable block @ 0x00ECF690
+// from "steamclient.dylib", by ida_vtables.idc
+0	CClientStreamLauncher::StartStreaming(char const*)
+1	CClientStreamLauncher::StopStreaming(void)
+

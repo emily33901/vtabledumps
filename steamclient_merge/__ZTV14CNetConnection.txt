@@ -1,0 +1,37 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNetConnection
+// Auto reconstructed from vtable block @ 0x00EE6B90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CNetConnection::RecvPlaintext(unsigned char *,unsigned int)
+1	CNetConnection::SendEncryptedData(unsigned char *,unsigned int)
+2	CNetConnection::HandleSSLFailure(EResult)
+3	CNetConnection::SSLHandshakeCompleted(void)
+4	CNetConnection::SSLShutdownCompleted(void)
+5	CNetConnection::BVerifyCertificate(COpenSSLConnection *,COpenSSLCertificate const&)
+6	CNetConnection::~CNetConnection()
+7	___cxa_pure_virtual
+8	CNetConnection::GetPingResults(CUtlVector<NetConnectPingResults_t,CUtlMemory<NetConnectPingResults_t>> &)
+90	CNetConnection::OnMessageComplete(unsigned char const*,unsigned int)
+10	CNetConnection::BAsyncUnbufferedSend(unsigned char const*,int,IUnbufferedSendCallback *)
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	CNetConnection::SetIncoming(int,netadr_t const&)
+15	___cxa_pure_virtual
+16	___cxa_pure_virtual
+17	___cxa_pure_virtual
+18	___cxa_pure_virtual
+19	CNetConnection::SetConnectionBlackHoled(void)
+20	CNetConnection::SetConnectionPostedBufferSize(int)
+21	CNetConnection::GetConnectionPostedBufferSize(void)
+22	CNetConnection::GetDisconnectLogText(void)
+23	CNetConnection::OnDisconnect(EResult)
+24	CNetConnection::OnDisconnectDispatch(EResult)
+25	CNetConnection::OnConnectionSucceeded(void)
+26	CNetConnection::OnConnectFailure(EResult,unsigned long long)
+27	___cxa_pure_virtual
+28	CNetConnection::OnNetQOSLevelChanged(ENetQOSLevel,ENetQOSLevel)
+29	CNetConnection::Validate(CValidator &,char const*)
+

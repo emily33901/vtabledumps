@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBackupAppJob
+// Auto reconstructed from vtable block @ 0x00ECF1C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBackupAppJob::~CBackupAppJob()
+1	CBaseClientJob::GetServerType(void)
+2	CJob::Validate(CValidator &,char const*)
+3	CJob::TEST_BIsLongRunning(void)
+4	CJob::MsgTraceReportJobBlocking(char const*)
+

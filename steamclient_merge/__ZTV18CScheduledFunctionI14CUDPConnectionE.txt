@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CUDPConnection>
+// Auto reconstructed from vtable block @ 0x00F2D2B0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CUDPConnection>::~CScheduledFunction()
+1	CScheduledFunction<CUDPConnection>::Run(void)
+2	CBaseScheduledFunction::GetInterval(void)const
+

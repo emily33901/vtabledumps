@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPartnerApps_FinishUploadLegacyDRM_Request
+// Auto reconstructed from vtable block @ 0x00EC6FF0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CPartnerApps_FinishUploadLegacyDRM_Request::~CPartnerApps_FinishUploadLegacyDRM_Request()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CPartnerApps_FinishUploadLegacyDRM_Request::New(void)const
+3	CPartnerApps_FinishUploadLegacyDRM_Request::Clear(void)
+4	CPartnerApps_FinishUploadLegacyDRM_Request::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CPartnerApps_FinishUploadLegacyDRM_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CPartnerApps_FinishUploadLegacyDRM_Request::ByteSize(void)const
+90	CPartnerApps_FinishUploadLegacyDRM_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CPartnerApps_FinishUploadLegacyDRM_Request::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CPartnerApps_FinishUploadLegacyDRM_Request::GetCachedSize(void)const
+12	CPartnerApps_FinishUploadLegacyDRM_Request::CopyFrom(google::protobuf::Message const&)
+13	CPartnerApps_FinishUploadLegacyDRM_Request::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CPartnerApps_FinishUploadLegacyDRM_Request::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPartnerApps_FinishUploadLegacyDRM_Request::GetMetadata(void)const
+

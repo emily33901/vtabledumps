@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicFunc<SDL_bool (*)(_SDL_GameController *)>
+// Auto reconstructed from vtable block @ 0x00EF2B30
+// from "steamclient.dylib", by ida_vtables.idc
+0	CDynamicFunc<SDL_bool (*)(_SDL_GameController *)>::Init(CSysModule *)
+1	CDynamicFunc<SDL_bool (*)(_SDL_GameController *)>::Release(void)
+2	CDynamicFunc<SDL_bool (*)(_SDL_GameController *)>::SetNextPointer(IDynamicFunction *)
+3	CDynamicFunc<SDL_bool (*)(_SDL_GameController *)>::GetNextPointer(void)
+

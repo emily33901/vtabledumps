@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'cricket::ConnectionRequest
+// Auto reconstructed from vtable block @ 0x00F1E4C4
+// from "steamclient.dylib", by ida_vtables.idc
+0	cricket::ConnectionRequest::~ConnectionRequest()
+1	cricket::StunRequest::OnMessage(talk_base::Message *)
+2	cricket::ConnectionRequest::Prepare(cricket::StunMessage *)
+3	cricket::ConnectionRequest::OnResponse(cricket::StunMessage *)
+4	cricket::ConnectionRequest::OnErrorResponse(cricket::StunMessage *)
+5	cricket::ConnectionRequest::OnTimeout(void)
+6	cricket::ConnectionRequest::GetNextDelay(void)
+

@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHIDMessageToRemote_DeviceGetProductString
+// Auto reconstructed from vtable block @ 0x00EC5230
+// from "steamclient.dylib", by ida_vtables.idc
+0	CHIDMessageToRemote_DeviceGetProductString::~CHIDMessageToRemote_DeviceGetProductString()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CHIDMessageToRemote_DeviceGetProductString::New(void)const
+3	CHIDMessageToRemote_DeviceGetProductString::Clear(void)
+4	CHIDMessageToRemote_DeviceGetProductString::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CHIDMessageToRemote_DeviceGetProductString::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CHIDMessageToRemote_DeviceGetProductString::ByteSize(void)const
+90	CHIDMessageToRemote_DeviceGetProductString::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CHIDMessageToRemote_DeviceGetProductString::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CHIDMessageToRemote_DeviceGetProductString::GetCachedSize(void)const
+12	CHIDMessageToRemote_DeviceGetProductString::CopyFrom(google::protobuf::Message const&)
+13	CHIDMessageToRemote_DeviceGetProductString::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

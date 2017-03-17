@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::AudioProperties
+// Auto reconstructed from vtable block @ 0x00EE2E68
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::AudioProperties::~AudioProperties()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+

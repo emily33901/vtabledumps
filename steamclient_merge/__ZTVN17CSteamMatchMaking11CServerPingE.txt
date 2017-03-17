@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamMatchMaking::CServerPing
+// Auto reconstructed from vtable block @ 0x00ED2670
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamMatchMaking::CServerPing::ServerRespondedWithDetails(netadr_t const&,double,ServerInfoResponse_t const&)
+1	CSteamMatchMaking::CServerPing::AddPlayerToList(char const*,int,float)
+2	CSteamMatchMaking::CServerPing::PlayersRefreshComplete(void)
+3	CSteamMatchMaking::CServerPing::AddRulesToList(char const*,char const*)
+4	CSteamMatchMaking::CServerPing::RulesRefreshComplete(void)
+5	CSteamMatchMaking::CServerPing::ServerFailedToRespond(void)
+6	CSteamMatchMaking::CServerPing::~CServerPing()
+

@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::Ogg::FLAC::File
+// Auto reconstructed from vtable block @ 0x00EE36E8
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::Ogg::FLAC::File::~File()
+1	TagLib::Ogg::FLAC::File::tag(void)const
+2	TagLib::Ogg::FLAC::File::audioProperties(void)const
+3	TagLib::Ogg::FLAC::File::save(void)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInternalCallback<CClientMusic,VoiceCallInitiated_t>
+// Auto reconstructed from vtable block @ 0x00F0D3D4
+// from "steamclient.dylib", by ida_vtables.idc
+0	CInternalCallback<CClientMusic,VoiceCallInitiated_t>::Run(void *)
+1	CInternalCallbackBase::Validate(CValidator &,char const*)
+

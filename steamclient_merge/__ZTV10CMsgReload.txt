@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgReload
+// Auto reconstructed from vtable block @ 0x00ECB820
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgReload::~CMsgReload()
+1	google::protobuf::Message::GetTypeName(void)const
+

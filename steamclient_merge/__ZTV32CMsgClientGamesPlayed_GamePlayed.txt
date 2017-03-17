@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientGamesPlayed_GamePlayed
+// Auto reconstructed from vtable block @ 0x00EE7BE0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgClientGamesPlayed_GamePlayed::~CMsgClientGamesPlayed_GamePlayed()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientGamesPlayed_GamePlayed::New(void)const
+3	CMsgClientGamesPlayed_GamePlayed::Clear(void)
+4	CMsgClientGamesPlayed_GamePlayed::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientGamesPlayed_GamePlayed::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientGamesPlayed_GamePlayed::ByteSize(void)const
+90	CMsgClientGamesPlayed_GamePlayed::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientGamesPlayed_GamePlayed::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientGamesPlayed_GamePlayed::GetCachedSize(void)const
+12	CMsgClientGamesPlayed_GamePlayed::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientGamesPlayed_GamePlayed::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientGamesPlayed_GamePlayed::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientGamesPlayed_GamePlayed::GetMetadata(void)const
+

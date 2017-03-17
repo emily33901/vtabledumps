@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'TagLib::List<TagLib::Ogg::Page *>
+// Auto reconstructed from vtable block @ 0x00F260C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	TagLib::List<TagLib::Ogg::Page *>::~List()
+

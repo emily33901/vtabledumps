@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSetHorizontalScroll
+// Auto reconstructed from vtable block @ 0x00ECBD60
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMsgSetHorizontalScroll::~CMsgSetHorizontalScroll()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSetHorizontalScroll::New(void)const
+3	CMsgSetHorizontalScroll::Clear(void)
+4	CMsgSetHorizontalScroll::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSetHorizontalScroll::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSetHorizontalScroll::ByteSize(void)const
+90	CMsgSetHorizontalScroll::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSetHorizontalScroll::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSetHorizontalScroll::GetCachedSize(void)const
+12	CMsgSetHorizontalScroll::CopyFrom(google::protobuf::Message const&)
+13	CMsgSetHorizontalScroll::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

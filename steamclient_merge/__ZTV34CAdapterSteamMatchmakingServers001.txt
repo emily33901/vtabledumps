@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamMatchmakingServers001
+// Auto reconstructed from vtable block @ 0x00F09400
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMatchmakingServers001::RequestInternetServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+1	CAdapterSteamMatchmakingServers001::RequestLANServerList(unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+2	CAdapterSteamMatchmakingServers001::RequestFriendsServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+3	CAdapterSteamMatchmakingServers001::RequestFavoritesServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+4	CAdapterSteamMatchmakingServers001::RequestHistoryServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+5	CAdapterSteamMatchmakingServers001::RequestSpectatorServerList(unsigned int,MatchMakingKeyValuePair_t **,unsigned int,_ISteamMatchmakingServerListResponse_v001 *)
+6	CAdapterSteamMatchmakingServers001::GetServerDetails(_EMatchMakingType_v001,int)
+7	CAdapterSteamMatchmakingServers001::CancelQuery(_EMatchMakingType_v001)
+8	CAdapterSteamMatchmakingServers001::RefreshQuery(_EMatchMakingType_v001)
+9	CAdapterSteamMatchmakingServers001::IsRefreshing(_EMatchMakingType_v001)
+10	CAdapterSteamMatchmakingServers001::GetServerCount(_EMatchMakingType_v001)
+11	CAdapterSteamMatchmakingServers001::RefreshServer(_EMatchMakingType_v001,int)
+12	CAdapterSteamMatchmakingServers001::PingServer(unsigned int,unsigned short,ISteamMatchmakingPingResponse *)
+13	CAdapterSteamMatchmakingServers001::PlayerDetails(unsigned int,unsigned short,ISteamMatchmakingPlayersResponse *)
+14	CAdapterSteamMatchmakingServers001::ServerRules(unsigned int,unsigned short,ISteamMatchmakingRulesResponse *)
+15	CAdapterSteamMatchmakingServers001::CancelServerQuery(int)
+

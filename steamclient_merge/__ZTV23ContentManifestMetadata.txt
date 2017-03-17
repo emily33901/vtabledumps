@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ContentManifestMetadata
+// Auto reconstructed from vtable block @ 0x00EE4CA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	ContentManifestMetadata::~ContentManifestMetadata()
+1	google::protobuf::Message::GetTypeName(void)const
+2	ContentManifestMetadata::New(void)const
+3	ContentManifestMetadata::Clear(void)
+4	ContentManifestMetadata::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	ContentManifestMetadata::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	ContentManifestMetadata::ByteSize(void)const
+90	ContentManifestMetadata::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	ContentManifestMetadata::SerializeWithCachedSizesToArray(unsigned char *)const
+11	ContentManifestMetadata::GetCachedSize(void)const
+12	ContentManifestMetadata::CopyFrom(google::protobuf::Message const&)
+13	ContentManifestMetadata::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+

@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseScheduledFunction
+// Auto reconstructed from vtable block @ 0x00EE6FB0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CBaseScheduledFunction::~CBaseScheduledFunction()
+1	___cxa_pure_virtual
+2	CBaseScheduledFunction::GetInterval(void)const
+

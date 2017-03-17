@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUserStats011
+// Auto reconstructed from vtable block @ 0x00F08DD0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUserStats011::RequestCurrentStats(void)
+1	CAdapterSteamUserStats011::GetStat(char const*,int *)
+2	CAdapterSteamUserStats011::GetStat(char const*,float *)
+3	CAdapterSteamUserStats011::SetStat(char const*,int)
+4	CAdapterSteamUserStats011::SetStat(char const*,float)
+5	CAdapterSteamUserStats011::UpdateAvgRateStat(char const*,float,double)
+6	CAdapterSteamUserStats011::GetAchievement(char const*,bool *)
+7	CAdapterSteamUserStats011::SetAchievement(char const*)
+8	CAdapterSteamUserStats011::ClearAchievement(char const*)
+9	CAdapterSteamUserStats011::GetAchievementAndUnlockTime(char const*,bool *,unsigned int *)
+10	CAdapterSteamUserStats011::StoreStats(void)
+11	CAdapterSteamUserStats011::GetAchievementIcon(char const*)
+12	CAdapterSteamUserStats011::GetAchievementDisplayAttribute(char const*,char const*)
+13	CAdapterSteamUserStats011::IndicateAchievementProgress(char const*,unsigned int,unsigned int)
+14	CAdapterSteamUserStats011::GetNumAchievements(void)
+15	CAdapterSteamUserStats011::GetAchievementName(unsigned int)
+

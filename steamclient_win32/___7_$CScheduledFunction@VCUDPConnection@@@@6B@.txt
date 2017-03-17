@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCUDPConnection@@@@6B@
+// Auto reconstructed from vtable block @ 0x388C7160
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3863B0B0
+1	sub_3864E380
+2	sub_38548480
+3	const CTHash<class CUDPConnection near *,unsigned int>::`RTTI Complete Object Locator'

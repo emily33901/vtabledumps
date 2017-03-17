@@ -1,0 +1,4 @@
+// ___7PortConfiguration@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE5E8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EF040

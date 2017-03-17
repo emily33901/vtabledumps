@@ -1,0 +1,39 @@
+// ___7CDoublePressActivator@@6B@
+// Auto reconstructed from vtable block @ 0x3881AEF0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3821C620
+1	sub_3821E6E0
+2	sub_3821E460
+3	sub_3821DC70
+4	sub_3821DEC0
+5	sub_3821DD30
+6	sub_3821E5D0
+7	sub_3821DDD0
+8	sub_3821DD80
+9	sub_3821D4F0
+10	sub_3821DE20
+11	nullsub_2
+12	sub_3821D350
+13	nullsub_3
+14	sub_3821CE80
+15	nullsub_6
+16	sub_3821C7E0
+17	sub_3821E390
+18	sub_3821E060
+19	sub_3821E550
+20	Steam_GSSendUserStatusResponse
+21	Steam_GSSendUserStatusResponse
+22	nullsub_1
+23	sub_3821CF70
+24	sub_38075800
+25	sub_38075800
+26	sub_386404C0
+27	public: void thiscall Concurrency::details::SchedulerProxy::SetQueueLength(unsigned int)
+28	sub_3821DCE0
+29	sub_38431730
+30	sub_3821F6E0
+31	sub_3821E160
+32	sub_3823DBF0
+33	sub_382436F0
+34	sub_3823BFF0
+35	const CReleaseActivator::`RTTI Complete Object Locator'

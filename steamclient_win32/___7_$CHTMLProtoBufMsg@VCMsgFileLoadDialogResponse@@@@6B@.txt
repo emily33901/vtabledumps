@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgFileLoadDialogResponse@@@@6B@
+// Auto reconstructed from vtable block @ 0x38830424
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A0B40
+1	const CHTMLProtoBufMsg<class CMsgSetCookie>::`RTTI Complete Object Locator'

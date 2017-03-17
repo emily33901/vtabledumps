@@ -1,0 +1,18 @@
+// ___7CAdapterSteamMasterServerUpdater001@@6B@
+// Auto reconstructed from vtable block @ 0x38833FDC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B4B50
+1	sub_382B62C0
+2	sub_382B4C00
+3	sub_382B40F0
+4	sub_382B6150
+5	sub_382ADD60
+6	sub_382B3FF0
+7	sub_382B5460
+8	sub_382B77C0
+9	sub_382B4830
+10	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+11	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+12	sub_38075800
+13	sub_38347A30
+14	const CAdapterSteamUserStats001::`RTTI Complete Object Locator'

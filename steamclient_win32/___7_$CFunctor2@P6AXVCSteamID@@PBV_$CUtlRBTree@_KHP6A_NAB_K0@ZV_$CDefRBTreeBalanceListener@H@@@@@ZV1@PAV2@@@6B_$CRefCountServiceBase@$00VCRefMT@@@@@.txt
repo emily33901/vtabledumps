@@ -1,0 +1,5 @@
+// ___7_$CFunctor2@P6AXVCSteamID@@PBV_$CUtlRBTree@_KHP6A_NAB_K0@ZV_$CDefRBTreeBalanceListener@H@@@@@ZV1@PAV2@@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x3884D9E8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837EC68
+1	sub_38285B60

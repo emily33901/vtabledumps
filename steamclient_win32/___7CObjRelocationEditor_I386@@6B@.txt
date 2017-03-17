@@ -1,0 +1,9 @@
+// ___7CObjRelocationEditor_I386@@6B@
+// Auto reconstructed from vtable block @ 0x3887C0F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38431630
+1	sub_38431730
+2	sub_3842EE20
+3	sub_384313A0
+4	sub_38431930
+5	const CObjRelocationEditor_AMD64::`RTTI Complete Object Locator'

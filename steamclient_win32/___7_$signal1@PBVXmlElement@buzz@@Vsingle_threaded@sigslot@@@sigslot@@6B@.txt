@@ -1,0 +1,9 @@
+// ___7_$signal1@PBVXmlElement@buzz@@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FE8B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F1F90
+1	nullsub_1
+2	nullsub_1
+3	sub_386F7030
+4	sub_386F70D0
+5	const sigslot::_signal_base0<class sigslot::single_threaded>::`RTTI Complete Object Locator'

@@ -5,4 +5,22 @@
 // Auto reconstructed from vtable block @ 0x00ECC8A0
 // from "steamclient.dylib", by ida_vtables.idc
 0	CMsgSetSharedPaintBuffers::~CMsgSetSharedPaintBuffers()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSetSharedPaintBuffers::New(void)const
+3	CMsgSetSharedPaintBuffers::Clear(void)
+4	CMsgSetSharedPaintBuffers::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSetSharedPaintBuffers::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSetSharedPaintBuffers::ByteSize(void)const
+90	CMsgSetSharedPaintBuffers::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSetSharedPaintBuffers::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSetSharedPaintBuffers::GetCachedSize(void)const
+12	CMsgSetSharedPaintBuffers::CopyFrom(google::protobuf::Message const&)
+13	CMsgSetSharedPaintBuffers::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgSetSharedPaintBuffers::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgSetSharedPaintBuffers::GetMetadata(void)const
 

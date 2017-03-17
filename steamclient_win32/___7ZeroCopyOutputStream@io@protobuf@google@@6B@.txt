@@ -1,0 +1,10 @@
+// ___7ZeroCopyOutputStream@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x38881DE0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38475AB0
+1	sub_386AE988
+2	sub_386AE988
+3	sub_386AE988
+4	sub_38486B90
+5	Steam_GSSendUserStatusResponse
+6	const google::protobuf::io::ArrayInputStream::`RTTI Complete Object Locator'

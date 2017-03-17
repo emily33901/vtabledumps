@@ -1,0 +1,22 @@
+// ___7PhysicalSocket@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x38900424
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38706560
+1	sub_38706E70
+2	sub_38706F20
+3	sub_387067C0
+4	sub_387069E0
+5	sub_38707350
+6	sub_387073A0
+7	sub_387071C0
+8	sub_38707230
+9	sub_38707080
+10	sub_38706750
+11	sub_38706870
+12	sub_38706FD0
+13	unknown_libname_66
+14	sub_38541630
+15	sub_38706D50
+16	sub_38707430
+17	sub_38706AE0
+18	const talk_base::PhysicalSocket::`RTTI Complete Object Locator'{for `sigslot::has_slots<class sigslot::single_threaded>'}

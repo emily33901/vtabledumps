@@ -1,0 +1,7 @@
+// ___7CPeriodicFunctor@@6B@
+// Auto reconstructed from vtable block @ 0x388554D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383AF820
+1	sub_383C0260
+2	sub_383B7820
+3	sub_383C0620

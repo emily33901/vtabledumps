@@ -1,0 +1,12 @@
+// ___7BasicPortAllocatorSession@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE5B8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EEFE0
+1	nullsub_1
+2	nullsub_1
+3	sub_386EF660
+4	sub_386F06C0
+5	sub_386F07B0
+6	sub_386EF930
+7	sub_386EF6B0
+8	const cricket::BasicPortAllocatorSession::`RTTI Complete Object Locator'{for `talk_base::MessageHandler'}

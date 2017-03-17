@@ -1,0 +1,5 @@
+// ___7_$CClientMsg@UMsgClientChatDeclined_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38855F70
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420
+1	const CProtoBufMsg<class CMsgClientRemoveFriend>::`RTTI Complete Object Locator'

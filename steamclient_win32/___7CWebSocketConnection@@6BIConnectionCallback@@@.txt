@@ -1,0 +1,11 @@
+// ___7CWebSocketConnection@@6BIConnectionCallback@@@
+// Auto reconstructed from vtable block @ 0x388CBB34
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864EEF0
+1	sub_3864EF10
+2	sub_3864EF50
+3	sub_3864FAD0
+4	sub_3864EAA0
+5	sub_3864EF30
+6	nullsub_6
+7	nullsub_3

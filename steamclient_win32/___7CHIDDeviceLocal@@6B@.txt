@@ -1,0 +1,13 @@
+// ___7CHIDDeviceLocal@@6B@
+// Auto reconstructed from vtable block @ 0x3882A898
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38278840
+1	sub_38075800
+2	sub_38279360
+3	sub_38279160
+4	sub_38279180
+5	sub_38278D80
+6	sub_382789B0
+7	sub_38278F00
+8	sub_38278DA0
+9	sub_38278E50

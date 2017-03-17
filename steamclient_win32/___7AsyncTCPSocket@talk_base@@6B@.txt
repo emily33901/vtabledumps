@@ -1,0 +1,17 @@
+// ___7AsyncTCPSocket@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FF570
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386FB6A0
+1	nullsub_1
+2	nullsub_1
+3	sub_38707D60
+4	sub_38707D80
+5	sub_38707D20
+6	sub_38707D40
+7	sub_386FB9F0
+8	sub_386FBA70
+9	sub_38707D30
+10	sub_38707DD0
+11	sub_38707D50
+12	sub_38707DC0
+13	sub_386FB8D0

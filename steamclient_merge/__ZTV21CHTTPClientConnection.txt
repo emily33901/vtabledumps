@@ -11,4 +11,7 @@
 4	CHTTPClientConnection::BAcceptConnection(netadr_t const&,netadr_t const&)
 5	CHTTPClientConnection::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
 6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	CHTTPClientConnection::ConnectionDataSent(unsigned int,unsigned int)
+8	CHTTPClientConnection::RecvPlaintext(unsigned char *,unsigned int)
+9	CHTTPClientConnection::SendEncryptedData(unsigned char *,unsigned int)
 

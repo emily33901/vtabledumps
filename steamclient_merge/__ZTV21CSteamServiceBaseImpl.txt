@@ -8,4 +8,18 @@
 1	CSteamServiceBaseImpl::ReleaseSteamService(void)
 2	CSteamServiceBaseImpl::IsInstalled(void)
 3	CSteamServiceBaseImpl::InstallService(void)
+4	CSteamServiceBaseImpl::IsRunningAsLocalThread(void)
+5	CSteamServiceBaseImpl::ServiceStart(void)
+6	CSteamServiceBaseImpl::StopService(void)
+7	CSteamServiceBaseImpl::BTestService(void)
+8	CSteamServiceBaseImpl::GetIClientInstallUtils(void)
+9	CSteamServiceBaseImpl::GetIClientModuleManager(void)
+10	CSteamServiceBaseImpl::GetIClientProcessMonitor(void)
+11	CSteamServiceBaseImpl::GetIClientRegistry(void)
+12	CSteamServiceBaseImpl::ConsumeCallbacks(void)
+13	CSteamServiceBaseImpl::~CSteamServiceBaseImpl()
+14	CSteamServiceBaseImpl::Validate(CValidator &,char const*)
+15	CSteamServiceBaseImpl::CheckSteamService(void)
+16	CSteamServiceBaseImpl::BCanRunLocalThread(void)const
+17	CSteamServiceBaseImpl::BStartAsExternalService(void)
 

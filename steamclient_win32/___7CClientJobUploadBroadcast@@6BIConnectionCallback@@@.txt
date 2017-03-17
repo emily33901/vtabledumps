@@ -1,0 +1,11 @@
+// ___7CClientJobUploadBroadcast@@6BIConnectionCallback@@@
+// Auto reconstructed from vtable block @ 0x387F709C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3818BF00
+1	sub_3818BF30
+2	sub_3818BF60
+3	sub_3818C430
+4	sub_382ADCE0
+5	nullsub_6
+6	nullsub_6
+7	nullsub_3

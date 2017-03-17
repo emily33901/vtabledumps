@@ -1,0 +1,5 @@
+// ___7_$CMemberFunctor1@PAVCUser@@P81@AEXI@ZIVCFuncMemPolicyNone@@@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x38855248
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837EC68
+1	sub_38285B60

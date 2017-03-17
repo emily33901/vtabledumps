@@ -1,0 +1,23 @@
+// ___7CMsgClientLBSSetScoreResponse@@6B@
+// Auto reconstructed from vtable block @ 0x388A40C0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38562D00
+1	sub_3844EEB0
+2	sub_3859A7C0
+3	sub_3856E670
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3858D740
+8	sub_38568380
+9	sub_3859E980
+10	sub_385A4EE0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3857AE30
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38571B10
+19	const CMsgClientLBSSetUGC::`RTTI Complete Object Locator'

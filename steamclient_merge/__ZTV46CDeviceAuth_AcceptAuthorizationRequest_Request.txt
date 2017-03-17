@@ -20,4 +20,7 @@
 13	CDeviceAuth_AcceptAuthorizationRequest_Request::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CDeviceAuth_AcceptAuthorizationRequest_Request::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CDeviceAuth_AcceptAuthorizationRequest_Request::GetMetadata(void)const
 

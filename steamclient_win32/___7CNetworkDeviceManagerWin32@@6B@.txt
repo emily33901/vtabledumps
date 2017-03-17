@@ -1,0 +1,36 @@
+// ___7CNetworkDeviceManagerWin32@@6B@
+// Auto reconstructed from vtable block @ 0x388435C4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38285B60
+1	sub_38347F80
+2	sub_38347410
+3	sub_383478C0
+4	sub_38347DF0
+5	sub_38347E30
+6	sub_38347830
+7	sub_383477F0
+8	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+9	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+10	sub_383478E0
+11	sub_38347A40
+12	sub_383479F0
+13	sub_383477A0
+14	sub_383478A0
+15	sub_38347870
+16	sub_38347480
+17	sub_383476A0
+18	sub_38347BB0
+19	sub_38347A70
+20	sub_38347AD0
+21	sub_38347E60
+22	sub_38347690
+23	sub_382ADCE0
+24	sub_38349120
+25	sub_38346F20
+26	sub_38347F00
+27	sub_383475E0
+28	sub_38347EB0
+29	sub_38347710
+30	sub_38346EA0
+31	sub_38349000
+32	sub_38349230

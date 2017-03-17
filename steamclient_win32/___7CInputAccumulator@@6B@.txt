@@ -1,0 +1,27 @@
+// ___7CInputAccumulator@@6B@
+// Auto reconstructed from vtable block @ 0x3881CD50
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382206A0
+1	sub_3822B2B0
+2	sub_382AD420
+3	sub_3822B380
+4	sub_382B58E0
+5	sub_3822A920
+6	sub_3822A950
+7	sub_382B3310
+8	sub_382B0620
+9	sub_382B58D0
+10	sub_38228690
+11	sub_38221320
+12	sub_3822BAB0
+13	sub_3822BAA0
+14	sub_382B5610
+15	sub_382B5440
+16	sub_382B5430
+17	sub_385D53A0
+18	sub_3822DBC0
+19	sub_38229F90
+20	sub_382207B0
+21	sub_38220810
+22	sub_382B62D0
+23	sub_382B6E50

@@ -1,0 +1,4 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgScalePageToValue@@@@6B@
+// Auto reconstructed from vtable block @ 0x38830434
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A11C0

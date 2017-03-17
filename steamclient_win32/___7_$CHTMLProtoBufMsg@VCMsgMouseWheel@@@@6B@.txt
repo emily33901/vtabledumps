@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgMouseWheel@@@@6B@
+// Auto reconstructed from vtable block @ 0x388303B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A1000
+1	const CHTMLProtoBufMsg<class CMsgKeyDown>::`RTTI Complete Object Locator'

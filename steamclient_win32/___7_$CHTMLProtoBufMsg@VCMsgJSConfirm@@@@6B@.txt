@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgJSConfirm@@@@6B@
+// Auto reconstructed from vtable block @ 0x388302B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A0D40
+1	const CHTMLProtoBufMsg<class CMsgHorizontalScrollBarSizeResponse>::`RTTI Complete Object Locator'

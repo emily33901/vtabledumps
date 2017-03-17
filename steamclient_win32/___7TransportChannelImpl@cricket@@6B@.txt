@@ -1,0 +1,15 @@
+// ___7TransportChannelImpl@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FE9F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F4DE0
+1	nullsub_1
+2	nullsub_1
+3	sub_386AE988
+4	sub_386AE988
+5	sub_386AE988
+6	sub_386AE988
+7	sub_386AE988
+8	sub_386AE988
+9	sub_386AE988
+10	sub_386AE988
+11	const sigslot::_signal_base1<class cricket::P2PTransportChannel near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

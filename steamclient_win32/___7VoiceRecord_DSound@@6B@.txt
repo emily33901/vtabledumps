@@ -1,0 +1,9 @@
+// ___7VoiceRecord_DSound@@6B@
+// Auto reconstructed from vtable block @ 0x387C40A8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38099FA0
+1	unknown_libname_2
+2	sub_3809A3F0
+3	sub_3809A420
+4	sub_3809A1D0
+5	sub_3809A060

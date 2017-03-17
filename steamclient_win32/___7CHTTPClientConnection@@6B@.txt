@@ -1,0 +1,13 @@
+// ___7CHTTPClientConnection@@6B@
+// Auto reconstructed from vtable block @ 0x388B0B60
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385CE660
+1	sub_385CE750
+2	sub_385CE860
+3	sub_385D3530
+4	sub_385CA9B0
+5	sub_385CE7B0
+6	nullsub_6
+7	sub_385CE7D0
+8	sub_385D6C90
+9	const CHTTPClientConnection::`RTTI Complete Object Locator'{for `ISSLConnectionCallback'}

@@ -1,0 +1,6 @@
+// ___7ErrorCollector@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x3887D3B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3843BE80
+1	sub_386AE988
+2	nullsub_6

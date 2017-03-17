@@ -1,0 +1,15 @@
+// ___7_$ctype@D@std@@6B@
+// Auto reconstructed from vtable block @ 0x38882CD8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38484920
+1	sub_38484B10
+2	sub_384849B0
+3	sub_38485070
+4	sub_38485050
+5	sub_384850E0
+6	sub_384850C0
+7	sub_38485140
+8	protected: virtual char thiscall std::ctype<char>::do_widen(char)const
+9	sub_38485030
+10	protected: virtual char thiscall std::ctype<char>::do_narrow(char,char)const
+11	const std::_System_error::`RTTI Complete Object Locator'

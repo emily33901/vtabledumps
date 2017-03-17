@@ -1,0 +1,5 @@
+// ___7_$CCoffModifier@VCPEParser@@@@6BIPEParseEvents@@@
+// Auto reconstructed from vtable block @ 0x3887A974
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	const CPEModifier::`RTTI Complete Object Locator'

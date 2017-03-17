@@ -1,0 +1,4 @@
+// ___7CPEFileWrapper@@6BIPEParseEvents@@@
+// Auto reconstructed from vtable block @ 0x3887A99C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3842E3B0

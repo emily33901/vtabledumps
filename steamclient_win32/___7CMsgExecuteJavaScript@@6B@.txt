@@ -1,0 +1,23 @@
+// ___7CMsgExecuteJavaScript@@6B@
+// Auto reconstructed from vtable block @ 0x3882BB64
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827E8E0
+1	sub_3844EEB0
+2	sub_382947F0
+3	sub_385E8E10
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38292F50
+8	sub_382809F0
+9	sub_385A1940
+10	sub_38546DF0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_382875C0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38283880
+19	const CMsgSetFocus::`RTTI Complete Object Locator'

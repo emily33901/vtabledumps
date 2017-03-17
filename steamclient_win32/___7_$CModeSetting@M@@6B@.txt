@@ -1,0 +1,13 @@
+// ___7_$CModeSetting@M@@6B@
+// Auto reconstructed from vtable block @ 0x3881E794
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38237C40
+1	sub_3823DC50
+2	sub_3823C3F0
+3	sub_3823C380
+4	sub_3823BFD0
+5	sub_382380B0
+6	sub_38238B30
+7	sub_3823DE80
+8	sub_3823DFF0
+9	const CRelativeMouseMode::`RTTI Complete Object Locator'

@@ -1,0 +1,20 @@
+// ___7Tag@MP4@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DDC40
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38671AB0
+1	sub_38676620
+2	sub_38672070
+3	sub_38671E20
+4	sub_386722B0
+5	sub_38672DD0
+6	sub_38676DE0
+7	sub_38676750
+8	sub_386763F0
+9	sub_386761E0
+10	sub_38676130
+11	sub_38676290
+12	sub_38676340
+13	sub_38676540
+14	sub_386764A0
+15	sub_3867F000
+16	const TagLib::Map<class TagLib::String,class TagLib::MP4::Item>::`RTTI Complete Object Locator'

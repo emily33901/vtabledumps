@@ -1,0 +1,5 @@
+// ___7String@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DD1F0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3866A0D0
+1	const std::codecvt_utf8_utf16<unsigned short,1114111,0>::`RTTI Complete Object Locator'

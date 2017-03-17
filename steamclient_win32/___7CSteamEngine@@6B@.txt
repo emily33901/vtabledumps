@@ -1,0 +1,26 @@
+// ___7CSteamEngine@@6B@
+// Auto reconstructed from vtable block @ 0x3884A92C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38340700
+1	sub_383401F0
+2	sub_38340120
+3	sub_38340DC0
+4	sub_38340240
+5	sub_38340620
+6	sub_38340690
+7	sub_38340C10
+8	sub_38371B70
+9	sub_3836DEA0
+10	sub_38376680
+11	sub_38376740
+12	sub_383406E0
+13	sub_383407D0
+14	sub_38375DB0
+15	sub_3836F380
+16	sub_3836E930
+17	sub_383740A0
+18	sub_38371890
+19	sub_383764A0
+20	sub_3836DF10
+21	sub_38372750
+22	const CSteamEngine::`RTTI Complete Object Locator'{for `IClientUtils'}

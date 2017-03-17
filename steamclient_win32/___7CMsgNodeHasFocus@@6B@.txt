@@ -1,0 +1,23 @@
+// ___7CMsgNodeHasFocus@@6B@
+// Auto reconstructed from vtable block @ 0x3882D004
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827F580
+1	sub_3844EEB0
+2	sub_382951E0
+3	sub_38282B50
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_382918B0
+8	sub_38281540
+9	sub_38296880
+10	sub_38298320
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3828AEA0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38284900
+19	const CMsgZoomToFocusedElement::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7CHTTPDefaultRedirectEnableHandler@@6B@
+// Auto reconstructed from vtable block @ 0x388B0AE4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385CA9E0
+1	nullsub_3
+2	sub_385C9BF0
+3	sub_38252640
+4	const CHTTPClientRequest::`RTTI Complete Object Locator'

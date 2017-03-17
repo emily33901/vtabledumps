@@ -1,0 +1,18 @@
+// ___7CBaseRemoteClientJob@@6B@
+// Auto reconstructed from vtable block @ 0x38846600
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38356160
+1	sub_380AB080
+2	sub_38553830
+3	sub_380AE7E0
+4	nullsub_2
+5	nullsub_1
+6	nullsub_2
+7	sub_380A9B70
+8	sub_380A9C20
+9	sub_38552AA0
+10	nullsub_1
+11	nullsub_1
+12	Steam_GSSendUserStatusResponse
+13	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+14	const CBaseRemoteClientJob::`RTTI Complete Object Locator'{for `IWakeableByUIEvent'}

@@ -1,0 +1,12 @@
+// ___7_$numpunct@D@std@@6B@
+// Auto reconstructed from vtable block @ 0x388E5A38
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_84
+1	sub_38484B10
+2	sub_384849B0
+3	sub_383B0FF0
+4	sub_386AB223
+5	sub_386AAB09
+6	sub_386AA1E7
+7	sub_386AB227
+8	const std::codecvt<char,char,int>::`RTTI Complete Object Locator'

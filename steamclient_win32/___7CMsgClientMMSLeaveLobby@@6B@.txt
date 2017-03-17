@@ -1,0 +1,23 @@
+// ___7CMsgClientMMSLeaveLobby@@6B@
+// Auto reconstructed from vtable block @ 0x388A4A20
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38563250
+1	sub_3844EEB0
+2	sub_3859AD10
+3	sub_3856DFA0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3858FB90
+8	sub_385695C0
+9	sub_3859F910
+10	sub_385A6120
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3857D030
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38572290
+19	const CMsgClientMMSLeaveLobbyResponse::`RTTI Complete Object Locator'

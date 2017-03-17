@@ -20,4 +20,7 @@
 13	CMsgClientAMGetPersonaNameHistoryResponse_NameTableInstance_NameInstance::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientAMGetPersonaNameHistoryResponse_NameTableInstance_NameInstance::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientAMGetPersonaNameHistoryResponse_NameTableInstance_NameInstance::GetMetadata(void)const
 

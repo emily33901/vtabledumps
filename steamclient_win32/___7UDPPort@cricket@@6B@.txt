@@ -1,0 +1,11 @@
+// ___7UDPPort@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FDB04
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E4990
+1	sub_386E4AD0
+2	sub_386E4BB0
+3	sub_386E49C0
+4	sub_386E4CA0
+5	sub_386E4E00
+6	sub_386E4AA0
+7	const cricket::UDPPort::`RTTI Complete Object Locator'{for `sigslot::has_slots<class sigslot::single_threaded>'}

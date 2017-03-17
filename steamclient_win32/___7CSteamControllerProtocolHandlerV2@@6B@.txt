@@ -1,0 +1,18 @@
+// ___7CSteamControllerProtocolHandlerV2@@6B@
+// Auto reconstructed from vtable block @ 0x38820878
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824DEA0
+1	sub_3824E390
+2	sub_3824E540
+3	sub_3824E080
+4	sub_382B58E0
+5	sub_382AD770
+6	sub_382B58E0
+7	sub_382B5E80
+8	sub_382B47F0
+9	sub_3824E040
+10	sub_3824E030
+11	sub_3824E010
+12	sub_3822B380
+13	sub_3824E610
+14	sub_3824E2B0

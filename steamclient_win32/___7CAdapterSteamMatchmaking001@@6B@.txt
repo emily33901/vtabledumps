@@ -1,0 +1,26 @@
+// ___7CAdapterSteamMatchmaking001@@6B@
+// Auto reconstructed from vtable block @ 0x388339EC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B41D0
+1	sub_382B30C0
+2	sub_382AD400
+3	sub_382B5910
+4	sub_382B0770
+5	sub_382AD420
+6	sub_382B5930
+7	sub_382B5CA0
+8	sub_382B3E40
+9	sub_382B0630
+10	sub_382B5310
+11	sub_382B5370
+12	sub_382B50C0
+13	sub_382B3D80
+14	sub_382B3F30
+15	sub_382B3EA0
+16	sub_382B5EA0
+17	sub_382B3F80
+18	sub_382B5EA0
+19	sub_382B5EA0
+20	sub_382B3E60
+21	sub_382ADCE0
+22	const CAdapterSteamMatchmaking002::`RTTI Complete Object Locator'

@@ -1,0 +1,6 @@
+// ___7_$CFunctor5@P6AXVCSteamID@@PAUDownloadedUGC_t@@PADIPA_N@ZV1@PAU2@PADIPA_N@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x3884EF18
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837EC68
+1	sub_38285B60
+2	const CFunctor2<void (cdecl *)(class CSteamID,unsigned __int64),class CSteamID,unsigned __int64>::`RTTI Complete Object Locator'

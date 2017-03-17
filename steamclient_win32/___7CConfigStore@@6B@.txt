@@ -1,0 +1,27 @@
+// ___7CConfigStore@@6B@
+// Auto reconstructed from vtable block @ 0x38812930
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381FE7E0
+1	sub_381FDF40
+2	sub_381FE060
+3	sub_381FE6F0
+4	sub_381FDF70
+5	sub_381FE350
+6	sub_381FDC90
+7	sub_381FDB80
+8	sub_381FDDC0
+9	sub_381FF0E0
+10	sub_381FF250
+11	sub_381FF500
+12	sub_381FF100
+13	sub_381FF390
+14	sub_381FEED0
+15	sub_381FEF70
+16	sub_381FEC70
+17	sub_381FE140
+18	sub_381FD4A0
+19	sub_381FF650
+20	sub_381FEEC0
+21	sub_381FF670
+22	sub_381FF720
+23	sub_381FF7D0

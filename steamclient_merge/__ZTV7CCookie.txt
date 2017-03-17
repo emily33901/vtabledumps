@@ -6,4 +6,21 @@
 // from "steamclient.dylib", by ida_vtables.idc
 0	CCookie::~CCookie()
 1	google::protobuf::Message::GetTypeName(void)const
+2	CCookie::New(void)const
+3	CCookie::Clear(void)
+4	CCookie::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CCookie::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CCookie::ByteSize(void)const
+90	CCookie::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CCookie::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CCookie::GetCachedSize(void)const
+12	CCookie::CopyFrom(google::protobuf::Message const&)
+13	CCookie::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CCookie::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CCookie::GetMetadata(void)const
 

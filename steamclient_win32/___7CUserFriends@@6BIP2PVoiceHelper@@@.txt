@@ -1,0 +1,11 @@
+// ___7CUserFriends@@6BIP2PVoiceHelper@@@
+// Auto reconstructed from vtable block @ 0x38855AEC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383C13E0
+1	sub_383BCC80
+2	sub_383BCBE0
+3	sub_383B4E30
+4	sub_383BCD10
+5	sub_383BCD50
+6	sub_383B0A80
+7	sub_383BD210

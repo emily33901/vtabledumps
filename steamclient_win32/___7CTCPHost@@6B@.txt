@@ -1,0 +1,8 @@
+// ___7CTCPHost@@6B@
+// Auto reconstructed from vtable block @ 0x388C88DC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38641370
+1	sub_38641480
+2	sub_38252640
+3	sub_38641780
+4	const CTCPHost::`RTTI Complete Object Locator'{for `ITCPHostCallback'}

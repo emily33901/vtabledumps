@@ -1,0 +1,8 @@
+// ___7_$_connection3@VRelayEntry@cricket@@PBXIPAVStunRequest@2@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x38900198
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3835D8D0
+1	sub_38702C70
+2	sub_38702B10
+3	sub_38702BF0
+4	const sigslot::_connection4<class cricket::RelayEntry,char const near *,unsigned int,class talk_base::SocketAddress const near &,class talk_base::AsyncPacketSocket near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

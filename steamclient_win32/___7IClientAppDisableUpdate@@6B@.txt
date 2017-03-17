@@ -1,0 +1,5 @@
+// ___7IClientAppDisableUpdate@@6B@
+// Auto reconstructed from vtable block @ 0x38837D5C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	const IClientUserMap::`RTTI Complete Object Locator'

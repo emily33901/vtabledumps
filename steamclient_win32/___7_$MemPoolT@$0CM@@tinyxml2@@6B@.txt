@@ -1,0 +1,8 @@
+// ___7_$MemPoolT@$0CM@@tinyxml2@@6B@
+// Auto reconstructed from vtable block @ 0x3887CAE4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384331D0
+1	sub_38434230
+2	sub_38433650
+3	sub_38433BE0
+4	const tinyxml2::XMLDocument::`RTTI Complete Object Locator'

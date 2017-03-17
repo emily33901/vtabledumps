@@ -1,0 +1,8 @@
+// ___7EncodedDescriptorDatabase@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x38881FD0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38477340
+1	sub_38477FE0
+2	sub_38478060
+3	sub_38478020
+4	public: virtual void thiscall std::_Func_impl<struct std::_Callable_obj<class _lambda_61710bb2f65fa5c843243e2ef45f5091_,0>,class std::allocator<class std::_Func_class<void,unsigned int const near &,struct std::_Nil,struct std::_Nil,struct std::_Nil,struct std::_Nil,struct std::_Nil,struct std::_Nil>>,void,unsigned int const near &,struct std::_Nil,struct std::_Nil,struct std::_Nil,struct std::_Nil,struct std::_Nil,struct std::_Nil>::_Do_call(unsigned int const near &)

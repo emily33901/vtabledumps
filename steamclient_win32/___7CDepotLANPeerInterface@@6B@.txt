@@ -1,0 +1,17 @@
+// ___7CDepotLANPeerInterface@@6B@
+// Auto reconstructed from vtable block @ 0x38820F9C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824FAD0
+1	__RTC_NumErrors_0
+2	sub_38252660
+3	sub_382507A0
+4	sub_38251770
+5	sub_3824FF60
+6	sub_382525D0
+7	sub_38254960
+8	sub_38254200
+9	Steam_GSSendUserStatusResponse
+10	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+11	sub_38252640
+12	sub_38253E70
+13	const CDepotLANPeerInterface::`RTTI Complete Object Locator'{for `IConnectionCallback'}

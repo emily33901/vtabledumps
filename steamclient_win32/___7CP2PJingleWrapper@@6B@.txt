@@ -1,0 +1,14 @@
+// ___7CP2PJingleWrapper@@6B@
+// Auto reconstructed from vtable block @ 0x388895E8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384C9DB0
+1	sub_384CA340
+2	sub_384CA410
+3	sub_384C9980
+4	sub_384C9B70
+5	j_GetTickCount_0
+6	sub_384CA290
+7	sub_384CA320
+8	sub_384CA2B0
+9	sub_384CA790
+10	const CValveSocketClient::`RTTI Complete Object Locator'

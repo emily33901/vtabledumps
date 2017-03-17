@@ -1,0 +1,9 @@
+// ___7_$signal6@PAVTransport@cricket@@PBVXmlElement@buzz@@ABVQName@4@ABV_$basic_string@DU_$char_traits@D@std@@V_$allocator@D@2@@std@@ABV67@PBV34@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FDEBC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E71F0
+1	nullsub_1
+2	nullsub_1
+3	sub_386F7030
+4	sub_386F70D0
+5	const sigslot::_signal_base2<class cricket::Transport near *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char>> const near &,class sigslot::single_threaded>::`RTTI Complete Object Locator'

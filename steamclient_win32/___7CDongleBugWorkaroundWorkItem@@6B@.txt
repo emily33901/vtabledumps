@@ -1,0 +1,9 @@
+// ___7CDongleBugWorkaroundWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x38819658
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	sub_38215640
+2	nullsub_1
+3	sub_38285B60
+4	nullsub_3
+5	const CDongleFlashFirmwareWorkItem::`RTTI Complete Object Locator'

@@ -1,0 +1,15 @@
+// ___7CDRMPendingRequest@CDRMSignal@@6B@
+// Auto reconstructed from vtable block @ 0x3882830C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3826E1A0
+1	sub_3826E310
+2	sub_3826E3A0
+3	sub_3826E340
+4	sub_38202A30
+5	sub_3826E370
+6	sub_3826E380
+7	sub_3826E390
+8	sub_38706FD0
+9	sub_38541630
+10	sub_383B7EB0
+11	sub_381ED220

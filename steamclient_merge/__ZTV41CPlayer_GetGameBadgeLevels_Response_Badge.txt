@@ -20,4 +20,7 @@
 13	CPlayer_GetGameBadgeLevels_Response_Badge::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CPlayer_GetGameBadgeLevels_Response_Badge::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CPlayer_GetGameBadgeLevels_Response_Badge::GetMetadata(void)const
 

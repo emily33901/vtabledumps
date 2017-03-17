@@ -1,0 +1,4 @@
+// ___7_$Map@$$CBVString@TagLib@@VItem@APE@2@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DF56C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3868F180

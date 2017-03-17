@@ -1,0 +1,24 @@
+// ___7CCSInterfaceSessionAuth@@6B@
+// Auto reconstructed from vtable block @ 0x38820DB8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824F970
+1	sub_38252640
+2	sub_38252650
+3	sub_38250300
+4	sub_38251230
+5	sub_3824FF10
+6	sub_38252580
+7	sub_382547F0
+8	sub_38253EC0
+9	sub_38250980
+10	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+11	sub_38252640
+12	sub_382538D0
+13	sub_38252670
+14	sub_3866CAB0
+15	sub_38251DE0
+16	sub_38251A50
+17	sub_38251A70
+18	sub_38251B20
+19	sub_38253120
+20	sub_3824FF80

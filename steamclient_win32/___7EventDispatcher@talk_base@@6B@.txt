@@ -1,0 +1,11 @@
+// ___7EventDispatcher@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x38900540
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38075800
+1	sub_38707190
+2	nullsub_3
+3	sub_38342180
+4	sub_386E9490
+5	Steam_GSSendUserStatusResponse
+6	sub_387074A0
+7	const talk_base::SocketDispatcher::`RTTI Complete Object Locator'

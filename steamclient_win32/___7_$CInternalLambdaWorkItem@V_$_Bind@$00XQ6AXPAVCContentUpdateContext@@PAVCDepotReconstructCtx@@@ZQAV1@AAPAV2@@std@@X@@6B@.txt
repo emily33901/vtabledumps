@@ -1,0 +1,11 @@
+// ___7_$CInternalLambdaWorkItem@V_$_Bind@$00XQ6AXPAVCContentUpdateContext@@PAVCDepotReconstructCtx@@@ZQAV1@AAPAV2@@std@@X@@6B@
+// Auto reconstructed from vtable block @ 0x388145E4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38665730
+1	sub_38285B60
+2	sub_38202A30
+3	sub_38202A30
+4	sub_382032D0
+5	sub_385B9770
+6	nullsub_3
+7	??_R4?$_Func_impl@U?$_Callable_obj@V_lambda_c2c65edb1fa6f8417984491e8747c5a2_@@$0A@@std@@V?$allocator@V?$_Func_class@X$$$V@std@@@2@X$$$V@std@@6B@

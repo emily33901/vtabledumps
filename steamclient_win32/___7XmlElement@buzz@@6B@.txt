@@ -1,0 +1,8 @@
+// ___7XmlElement@buzz@@6B@
+// Auto reconstructed from vtable block @ 0x388FE828
+// from "steamclient.dll", by ida_vtables.idc
+0	Steam_GSSendUserStatusResponse
+1	sub_386E3260
+2	sub_38075800
+3	sub_386F15F0
+4	const sigslot::_signal_base1<class cricket::Session near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

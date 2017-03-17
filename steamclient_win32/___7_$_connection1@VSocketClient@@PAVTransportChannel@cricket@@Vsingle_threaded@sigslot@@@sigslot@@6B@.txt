@@ -1,0 +1,7 @@
+// ___7_$_connection1@VSocketClient@@PAVTransportChannel@cricket@@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x38889D9C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384CD6F0
+1	sub_384CD6D0
+2	sub_384CD370
+3	sub_384CD590

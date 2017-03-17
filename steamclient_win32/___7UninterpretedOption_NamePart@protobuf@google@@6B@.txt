@@ -1,0 +1,23 @@
+// ___7UninterpretedOption_NamePart@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x3888096C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38466C20
+1	sub_3844EEB0
+2	sub_38470D00
+3	sub_38468C70
+4	sub_38469E40
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38470100
+8	sub_381344D0
+9	sub_38471C20
+10	sub_38473160
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3846C770
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38469910
+19	const google::protobuf::UninterpretedOption::`RTTI Complete Object Locator'

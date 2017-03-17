@@ -1,0 +1,44 @@
+// ___7CClientVideo@@6B@
+// Auto reconstructed from vtable block @ 0x3880E1F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381EB6C0
+1	sub_381EF5E0
+2	sub_381ECD00
+3	sub_381EC6D0
+4	sub_381ECDC0
+5	sub_381EE730
+6	sub_381ED2C0
+7	sub_381EECB0
+8	sub_381EEA20
+9	sub_381EE930
+10	sub_381EDA20
+11	sub_381ED840
+12	sub_381EF650
+13	sub_381EF6D0
+14	sub_381ECC60
+15	sub_381EF360
+16	sub_381EF3F0
+17	sub_381EF430
+18	sub_381EC930
+19	sub_381EE780
+20	sub_381EF1D0
+21	sub_381ED230
+22	sub_381ED220
+23	sub_38202A30
+24	sub_381EB670
+25	sub_381ED210
+26	sub_381ED250
+27	sub_381ED240
+28	sub_38706FD0
+29	sub_381ED2D0
+30	sub_38538270
+31	sub_381ED1F0
+32	sub_381EE640
+33	sub_381ED720
+34	sub_381EC800
+35	sub_381EF380
+36	sub_381EF740
+37	sub_381ED450
+38	public: int thiscall Concurrency::details::SchedulingRing::Id(void)const
+39	sub_381ED150
+40	sub_381ED3D0

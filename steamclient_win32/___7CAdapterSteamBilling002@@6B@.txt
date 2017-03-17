@@ -1,0 +1,46 @@
+// ___7CAdapterSteamBilling002@@6B@
+// Auto reconstructed from vtable block @ 0x388330F8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B4220
+1	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+2	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+3	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+4	Steam_GSSendUserStatusResponse
+5	Steam_GSSendUserStatusResponse
+6	Steam_GSSendUserStatusResponse
+7	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+8	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+9	Steam_GSSendUserStatusResponse
+10	Steam_GSSendUserStatusResponse
+11	sub_382ADCE0
+12	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+13	sub_382B6160
+14	sub_382B6160
+15	sub_382B6760
+16	sub_382B6760
+17	sub_382B29D0
+18	sub_382B29D0
+19	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+20	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+21	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+22	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+23	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+24	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+25	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+26	sub_382B45E0
+27	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+28	sub_382B45F0
+29	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+30	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+31	sub_382B4600
+32	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+33	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+34	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+35	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+36	public: virtual void near * thiscall std::_Ref_count_base::_Get_deleter(class type_info const near &)const
+37	sub_382B45E0
+38	sub_38075800
+39	sub_38075800
+40	sub_382ADCE0
+41	sub_382B4D00
+42	sub_382B4220

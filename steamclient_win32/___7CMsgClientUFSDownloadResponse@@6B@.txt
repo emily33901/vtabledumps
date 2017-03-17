@@ -1,0 +1,23 @@
+// ___7CMsgClientUFSDownloadResponse@@6B@
+// Auto reconstructed from vtable block @ 0x388A6000
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385647C0
+1	sub_3844EEB0
+2	sub_3859BFA0
+3	sub_3856FA50
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_385968B0
+8	sub_3856C500
+9	sub_385A1370
+10	sub_385A87F0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38583890
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38573F10
+19	const CMsgClientUFSLoginRequest::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7_$TypedMessageData@H@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x38900628
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E4900
+1	const sigslot::_signal_base4<char const near *,unsigned int,class talk_base::SocketAddress const near &,class talk_base::AsyncPacketSocket near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

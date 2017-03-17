@@ -1,0 +1,23 @@
+// ___7CGameNotifications_CreateSession_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387DC2D4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380F8B10
+1	sub_3844EEB0
+2	sub_380FD770
+3	sub_380F9C10
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380FBF50
+8	sub_380F8FD0
+9	sub_380FDBF0
+10	sub_380FE3A0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380FA5B0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380F9D20
+19	const CGameNotifications_CreateSession_Response::`RTTI Complete Object Locator'

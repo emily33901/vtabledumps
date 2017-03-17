@@ -20,4 +20,7 @@
 13	CMsgClientWorkshopItemInfoRequest_WorkshopItem::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientWorkshopItemInfoRequest_WorkshopItem::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientWorkshopItemInfoRequest_WorkshopItem::GetMetadata(void)const
 

@@ -1,0 +1,20 @@
+// ___7ConCommand@@6B@
+// Auto reconstructed from vtable block @ 0x38892118
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385380F0
+1	sub_38285B60
+2	sub_38538A40
+3	sub_38538190
+4	sub_380BF820
+5	sub_385386E0
+6	sub_384CC2B0
+7	sub_38468DC0
+8	sub_383B0FF0
+9	sub_385384B0
+10	sub_385386F0
+11	sub_38538210
+12	sub_38538C90
+13	sub_38538330
+14	sub_38538680
+15	sub_38538470
+16	const ConVar::`RTTI Complete Object Locator'

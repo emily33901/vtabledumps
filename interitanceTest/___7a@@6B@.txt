@@ -1,0 +1,6 @@
+// ___7a@@6B@
+// Auto reconstructed from vtable block @ 0x004031D0
+// from "inheritanceTest.exe", by ida_vtables.idc
+0	public: virtual void thiscall a::f(void)
+1	public: virtual void thiscall a::g(void)
+2	const c::`RTTI Complete Object Locator'{for `a'}

@@ -1,0 +1,5 @@
+// ___7CUser@@6BIClientAppDisableUpdate@@@
+// Auto reconstructed from vtable block @ 0x3884FD50
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383A4410
+1	const CUser::`RTTI Complete Object Locator'{for `IClientBilling'}

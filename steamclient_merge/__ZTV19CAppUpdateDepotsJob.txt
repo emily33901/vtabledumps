@@ -14,4 +14,9 @@
 7	CClientJob::BYieldingRunJob(void *)
 8	CClientJob::BYieldingRunJobFromMsg(IMsgNetPacket *)
 90	CJob::CMicrosecBeforeTimeout(EJobPauseReason)
+10	CJob::MsgTraceReportJobStarted(void)
+11	CJob::MsgTraceReportJobFinished(void)
+12	CBaseClientJob::BYieldingRunClientJob(IMsgNetPacket *)
+13	CAppUpdateDepotsJob::BYieldingRunClientJob(void)
+14	CAppUpdateDepotsJob::BIsCancelled(void)
 

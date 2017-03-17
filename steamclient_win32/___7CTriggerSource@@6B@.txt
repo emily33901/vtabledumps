@@ -1,0 +1,11 @@
+// ___7CTriggerSource@@6B@
+// Auto reconstructed from vtable block @ 0x388202A4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38248300
+1	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+2	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+3	sub_38248600
+4	nullsub_6
+5	sub_38249940
+6	sub_3824A870
+7	const CGyroSource::`RTTI Complete Object Locator'

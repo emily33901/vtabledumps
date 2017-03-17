@@ -1,0 +1,10 @@
+// ___7UserUrlLinkFrame@ID3v2@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E01F8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386969A0
+1	unknown_libname_77
+2	sub_38696E70
+3	sub_38696A70
+4	sub_38696CE0
+5	sub_38696F50
+6	sub_38699750

@@ -1,0 +1,7 @@
+// ___7_$_connection2@VAsyncSocketAdapter@talk_base@@PAVAsyncSocket@2@HVsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FFC20
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384CD6F0
+1	sub_384CD6D0
+2	sub_386FE270
+3	sub_386FE2F0

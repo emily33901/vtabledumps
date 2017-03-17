@@ -1,0 +1,8 @@
+// ___7_$_connection0@VTransport@cricket@@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x388FE068
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386ED8C0
+1	sub_386E8CB0
+2	sub_386E8B30
+3	sub_386E8BC0
+4	const sigslot::_connection2<class cricket::Transport,class cricket::TransportChannelImpl near *,class buzz::XmlElement near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

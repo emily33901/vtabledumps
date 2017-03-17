@@ -1,0 +1,16 @@
+// ___7CRegistryDefault@@6B@
+// Auto reconstructed from vtable block @ 0x38848A58
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38354D80
+1	sub_38542DE0
+2	sub_38542DC0
+3	sub_38543090
+4	sub_385430B0
+5	sub_38543070
+6	sub_385426E0
+7	sub_38542570
+8	sub_38542E00
+9	sub_38354D60
+10	sub_38354DA0
+11	sub_38354D40
+12	sub_38542800

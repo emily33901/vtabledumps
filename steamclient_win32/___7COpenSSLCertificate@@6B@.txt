@@ -1,0 +1,12 @@
+// ___7COpenSSLCertificate@@6B@
+// Auto reconstructed from vtable block @ 0x388C93E4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38645550
+1	sub_38645340
+2	sub_386454B0
+3	sub_386464F0
+4	sub_386457B0
+5	sub_38645380
+6	sub_386457E0
+7	sub_38645590
+8	const COpenSSLContext::`RTTI Complete Object Locator'

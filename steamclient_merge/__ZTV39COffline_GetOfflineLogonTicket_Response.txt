@@ -20,4 +20,7 @@
 13	COffline_GetOfflineLogonTicket_Response::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	COffline_GetOfflineLogonTicket_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	COffline_GetOfflineLogonTicket_Response::GetMetadata(void)const
 

@@ -1,0 +1,5 @@
+// ___7CHTTPClientMgr@@6B@
+// Auto reconstructed from vtable block @ 0x38842444
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386421D0
+1	const CScheduledFunction<class CIPCServer>::`RTTI Complete Object Locator'

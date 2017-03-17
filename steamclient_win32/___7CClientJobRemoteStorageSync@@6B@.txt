@@ -1,0 +1,18 @@
+// ___7CClientJobRemoteStorageSync@@6B@
+// Auto reconstructed from vtable block @ 0x38804728
+// from "steamclient.dll", by ida_vtables.idc
+0	loc_381C2600
+1	sub_380AB080
+2	sub_381C9B80
+3	sub_380AE7E0
+4	nullsub_2
+5	nullsub_1
+6	nullsub_2
+7	sub_380A9B80
+8	sub_380A9C30
+9	sub_381C4AC0
+10	nullsub_1
+11	nullsub_1
+12	sub_381C43D0
+13	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+14	const CClientJobRemoteStorageSync::`RTTI Complete Object Locator'{for `CRemoteStorageSyncHelpers::ISyncProgressCallback'}

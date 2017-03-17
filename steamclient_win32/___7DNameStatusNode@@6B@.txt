@@ -1,0 +1,7 @@
+// ___7DNameStatusNode@@6B@
+// Auto reconstructed from vtable block @ 0x388FB090
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38342180
+1	public: virtual char thiscall DNameStatusNode::getLastChar(void)const
+2	public: virtual char near * thiscall DNameStatusNode::getString(char near *,char near *)const
+3	const pairNode::`RTTI Complete Object Locator'

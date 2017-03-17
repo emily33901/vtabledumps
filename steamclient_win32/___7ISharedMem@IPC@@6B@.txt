@@ -1,0 +1,8 @@
+// ___7ISharedMem@IPC@@6B@
+// Auto reconstructed from vtable block @ 0x38842988
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	sub_386AE988
+2	sub_386AE988
+3	sub_38341EC0
+4	nullsub_3

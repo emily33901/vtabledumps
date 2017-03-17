@@ -1,0 +1,5 @@
+// ___7CSQLiteDatabase@@6B@
+// Auto reconstructed from vtable block @ 0x387D1E74
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C61E0
+1	const CSQLiteStatement::`RTTI Complete Object Locator'

@@ -1,0 +1,23 @@
+// ___7CMsgClientGetAuthorizedDevicesResponse@@6B@
+// Auto reconstructed from vtable block @ 0x388B8F58
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385DFA30
+1	sub_3844EEB0
+2	sub_3860F490
+3	sub_385E8CA0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38602ED0
+8	sub_385E3660
+9	sub_38611B20
+10	sub_38616C60
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_385F3840
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_385EBBF0
+19	const CMsgClientGetEmoticonList::`RTTI Complete Object Locator'

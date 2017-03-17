@@ -1,0 +1,5 @@
+// ___7Attribute@ASF@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E0304
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38697BB0
+1	const TagLib::ASF::Attribute::AttributePrivate::`RTTI Complete Object Locator'

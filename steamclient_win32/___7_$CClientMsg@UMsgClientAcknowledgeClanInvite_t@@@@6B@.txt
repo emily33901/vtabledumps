@@ -1,0 +1,4 @@
+// ___7_$CClientMsg@UMsgClientAcknowledgeClanInvite_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38856FAC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420

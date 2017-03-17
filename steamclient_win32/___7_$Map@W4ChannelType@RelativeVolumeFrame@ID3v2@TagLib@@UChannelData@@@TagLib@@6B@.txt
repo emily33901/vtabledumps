@@ -1,0 +1,5 @@
+// ___7_$Map@W4ChannelType@RelativeVolumeFrame@ID3v2@TagLib@@UChannelData@@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E0F64
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386A2D30
+1	const TagLib::ID3v2::UnknownFrame::`RTTI Complete Object Locator'

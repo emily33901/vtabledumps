@@ -1,0 +1,8 @@
+// ___7_$_connection3@VStunPort@cricket@@PBXIPAVStunRequest@2@Vsingle_threaded@sigslot@@@sigslot@@6B@
+// Auto reconstructed from vtable block @ 0x38900278
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386ED8C0
+1	sub_384CD6D0
+2	sub_38703800
+3	sub_38703860
+4	const cricket::TCPPort::`RTTI Complete Object Locator'

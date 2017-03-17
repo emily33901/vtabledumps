@@ -1,0 +1,10 @@
+// ___7CWorkItemRunSSLConnection@@6B@
+// Auto reconstructed from vtable block @ 0x388C9418
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38644B10
+1	sub_38285B60
+2	sub_386466D0
+3	sub_386466C0
+4	sub_38647DD0
+5	sub_38645C90
+6	sub_38649440

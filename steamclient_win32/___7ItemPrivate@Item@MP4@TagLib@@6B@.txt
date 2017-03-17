@@ -1,0 +1,4 @@
+// ___7ItemPrivate@Item@MP4@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DD5FC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38670240

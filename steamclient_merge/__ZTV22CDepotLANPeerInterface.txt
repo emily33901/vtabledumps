@@ -12,4 +12,10 @@
 5	CDepotLANPeerInterface::BIsConnected(void)
 6	CDepotLANPeerInterface::GetChunkScore(CSHA const&)
 7	CDepotLANPeerInterface::YieldingRequestDepotManifest(CManifestResponseData *)
+8	CDepotLANPeerInterface::YieldingRequestDepotChunks(unsigned int,CUtlVector<CSHA,CUtlMemory<CSHA>> const&)
+90	IDepotDownloadInterface::BSetInterfaceWeight(unsigned int)
+10	IDepotDownloadInterface::GetInterfaceWeight(void)
+11	CDepotLANPeerInterface::Validate(CValidator &,char const*)
+12	CDepotLANPeerInterface::ConnectCompleted(unsigned int)
+13	CDepotLANPeerInterface::ConnectFailed(unsigned int,EResult,unsigned long long)
 

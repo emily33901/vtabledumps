@@ -1,0 +1,23 @@
+// ___7CDeviceAuth_GetAuthorizedBorrowers_Response_Borrower@@6B@
+// Auto reconstructed from vtable block @ 0x387DA8A4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380EF330
+1	sub_3844EEB0
+2	sub_380F45B0
+3	sub_380EFDC0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380F31A0
+8	sub_380EF930
+9	sub_380F4BA0
+10	sub_380F5200
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380F1960
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380F0420
+19	const CDeviceAuth_GetAuthorizedBorrowers_Response::`RTTI Complete Object Locator'

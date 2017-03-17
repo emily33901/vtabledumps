@@ -1,0 +1,7 @@
+// ___7COpenSSLConnection@@6B@
+// Auto reconstructed from vtable block @ 0x388C9490
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38644AB0
+1	sub_38285B60
+2	sub_38649090
+3	const COpenSSLConnection::`RTTI Complete Object Locator'{for `ISSLConnection'}

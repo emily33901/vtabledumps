@@ -1,0 +1,23 @@
+// ___7Message@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x387D2048
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380C8550
+1	sub_3844EEB0
+2	sub_386AE988
+3	sub_3844EAE0
+4	sub_3844F1C0
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3844F2E0
+8	sub_3844EAB0
+9	sub_3844F490
+10	sub_384358A0
+11	sub_386AE988
+12	sub_3844EAF0
+13	sub_3844F1D0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_3844F4B0
+17	sub_380CA080
+18	sub_386AE988
+19	const CBroadcast_BeginBroadcastSession_Request::`RTTI Complete Object Locator'

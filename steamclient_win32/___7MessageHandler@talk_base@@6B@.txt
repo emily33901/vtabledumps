@@ -1,0 +1,6 @@
+// ___7MessageHandler@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FEB18
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386F8BD0
+1	sub_386AE988
+2	const talk_base::MessageQueue::`RTTI Complete Object Locator'

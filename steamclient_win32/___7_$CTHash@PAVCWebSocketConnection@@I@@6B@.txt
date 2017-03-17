@@ -1,0 +1,5 @@
+// ___7_$CTHash@PAVCWebSocketConnection@@I@@6B@
+// Auto reconstructed from vtable block @ 0x388CBA9C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864FD90
+1	const CWebSocketConnection::CDummySSLConnectionCallback::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7CUserWorkshopItems@@6B@
+// Auto reconstructed from vtable block @ 0x3884CFCC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837D2B0
+1	const CUpdateSubscribedItemsJob::`RTTI Complete Object Locator'

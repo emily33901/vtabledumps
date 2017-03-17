@@ -1,0 +1,4 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgHideToolTip@@@@6B@
+// Auto reconstructed from vtable block @ 0x388302F4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A0C80

@@ -1,0 +1,25 @@
+// ___7AsyncSocketAdapter@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FF7B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386FCAA0
+1	sub_386FCE80
+2	sub_386FCEA0
+3	sub_386FCB90
+4	sub_386FCC50
+5	sub_386FDAF0
+6	sub_386FE210
+7	sub_386FDA50
+8	sub_386FDAE0
+9	sub_386FCEF0
+10	sub_386FCB80
+11	sub_386FCBF0
+12	sub_386FCE40
+13	sub_386FE220
+14	sub_386FCEE0
+15	sub_386FCE30
+16	sub_386FE230
+17	sub_386FD030
+18	sub_386FD0D0
+19	sub_386FD1C0
+20	sub_386FCF40
+21	const talk_base::AsyncSocketAdapter::`RTTI Complete Object Locator'{for `sigslot::has_slots<class sigslot::single_threaded>'}

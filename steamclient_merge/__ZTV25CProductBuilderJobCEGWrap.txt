@@ -20,4 +20,5 @@
 13	CProductBuilderJobBase<CEGWrapResponse_t>::BFireCallback(EResult,CEGWrapResponse_t*)
 14	CProductBuilderJobBase<CEGWrapResponse_t>::InitComplete(unsigned long long,unsigned long long,char const*)
 15	CProductBuilderJobCEGWrap::EYldInitialize(void)
+16	CProductBuilderJobCEGWrap::EYldFinish(void)
 

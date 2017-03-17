@@ -20,4 +20,7 @@
 13	CCloud_BeginHTTPUpload_Response_HTTPHeaders::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CCloud_BeginHTTPUpload_Response_HTTPHeaders::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CCloud_BeginHTTPUpload_Response_HTTPHeaders::GetMetadata(void)const
 

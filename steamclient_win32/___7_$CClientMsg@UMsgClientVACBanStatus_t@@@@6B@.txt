@@ -1,0 +1,5 @@
+// ___7_$CClientMsg@UMsgClientVACBanStatus_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x387FC740
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420
+1	const CClientJobFriendsList::`RTTI Complete Object Locator'

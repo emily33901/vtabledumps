@@ -1,0 +1,23 @@
+// ___7CHIDMessageFromRemote_DeviceInputReports_DeviceInputReport@@6B@
+// Auto reconstructed from vtable block @ 0x387DF548
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38105510
+1	sub_3844EEB0
+2	sub_3810AA70
+3	sub_3856F4B0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_381099E0
+8	sub_38105F10
+9	sub_381426A0
+10	sub_3810B770
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38107AB0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_381068A0
+19	const CHIDMessageFromRemote_DeviceInputReports::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7_$CClientMsg@UMsgClientUpdateGuestPassesList_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x387FF274
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381A9420
+1	const CClientJobChatInvite::`RTTI Complete Object Locator'

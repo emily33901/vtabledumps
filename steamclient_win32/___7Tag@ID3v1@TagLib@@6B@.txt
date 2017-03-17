@@ -1,0 +1,19 @@
+// ___7Tag@ID3v1@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DF44C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3868D660
+1	sub_386A1BB0
+2	sub_3868D6C0
+3	sub_3868D690
+4	sub_3868D6F0
+5	sub_3868D750
+6	sub_3868DF40
+7	sub_3868DF30
+8	sub_3868DE40
+9	sub_3868DE00
+10	sub_3868DDF0
+11	sub_3868DE10
+12	sub_3868DE20
+13	sub_3868DE70
+14	sub_3868DE50
+15	sub_3867F000

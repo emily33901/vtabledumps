@@ -1,0 +1,6 @@
+// ___7CStaticFrameFunction@@6B@
+// Auto reconstructed from vtable block @ 0x388C8944
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38641AC0
+1	sub_38641D90
+2	sub_38285B60

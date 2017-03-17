@@ -19,5 +19,4 @@
 12	CCrossProcessPipe::GetRecvSyncObject(void)
 13	CCrossProcessPipe::BIsDisconnected(void)
 14	CCrossProcessPipe::Validate(CValidator &,char const*)
-15	aSteam3master
 

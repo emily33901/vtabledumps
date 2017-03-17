@@ -1,0 +1,28 @@
+// ___7CClientNetworkingAPI@@6B@
+// Auto reconstructed from vtable block @ 0x38807B44
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D5A70
+1	sub_381D33F0
+2	sub_381D4CF0
+3	sub_381D19E0
+4	sub_381D2110
+5	sub_381D20E0
+6	sub_381D2F80
+7	sub_381D1F90
+8	sub_381D2350
+9	sub_381D2570
+10	sub_381D2140
+11	sub_381D2BC0
+12	sub_381D2A10
+13	sub_381D5660
+14	sub_381D3320
+15	sub_381D51A0
+16	sub_381D3240
+17	sub_381D50B0
+18	sub_381D30A0
+19	sub_381D2E50
+20	sub_381D3000
+21	sub_381D2ED0
+22	sub_381D5000
+23	sub_381D5FA0
+24	const CScheduledFunction<class CP2PNetworkingSession>::`RTTI Complete Object Locator'

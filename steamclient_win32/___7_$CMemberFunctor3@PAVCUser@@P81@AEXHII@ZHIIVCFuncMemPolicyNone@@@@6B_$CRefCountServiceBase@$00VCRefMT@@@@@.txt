@@ -1,0 +1,6 @@
+// ___7_$CMemberFunctor3@PAVCUser@@P81@AEXHII@ZHIIVCFuncMemPolicyNone@@@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x3885522C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837EC68
+1	sub_38285B60
+2	const CMemberFunctor1<class CUser near *,void (thiscall CUser::*)(unsigned int),unsigned int,class CFuncMemPolicyNone>::`RTTI Complete Object Locator'

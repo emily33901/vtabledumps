@@ -1,0 +1,23 @@
+// ___7CPartnerApps_FinishUploadLegacyDRM_Response@@6B@
+// Auto reconstructed from vtable block @ 0x387E41E0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38120790
+1	sub_3844EEB0
+2	sub_38122F70
+3	sub_38162190
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3815ED00
+8	sub_380F71C0
+9	sub_380DEBA0
+10	sub_38162B90
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38121E10
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_381212A0
+19	const CPartnerApps_FinishUpload_Response::`RTTI Complete Object Locator'

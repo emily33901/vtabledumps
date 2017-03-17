@@ -1,0 +1,6 @@
+// ___7CBaseScheduledFunction@@6B@
+// Auto reconstructed from vtable block @ 0x38896358
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38547E10
+1	sub_386AE988
+2	sub_38548480

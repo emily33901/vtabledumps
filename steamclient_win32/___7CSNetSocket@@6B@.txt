@@ -1,0 +1,5 @@
+// ___7CSNetSocket@@6B@
+// Auto reconstructed from vtable block @ 0x38807D48
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381D36F0
+1	sub_381D3C90

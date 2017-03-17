@@ -1,0 +1,16 @@
+// ___7P2PTransport@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FDBD8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E5020
+1	sub_386E8160
+2	sub_386E5120
+3	sub_386E5120
+4	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+5	sub_386E5310
+6	sub_386E5530
+7	sub_386E5460
+8	sub_386E50A0
+9	sub_386E5190
+10	nullsub_1
+11	sub_386E5330
+12	const cricket::P2PTransport::`RTTI Complete Object Locator'{for `sigslot::has_slots<class sigslot::single_threaded>'}

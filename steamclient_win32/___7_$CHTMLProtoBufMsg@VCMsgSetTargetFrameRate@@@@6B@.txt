@@ -1,0 +1,5 @@
+// ___7_$CHTMLProtoBufMsg@VCMsgSetTargetFrameRate@@@@6B@
+// Auto reconstructed from vtable block @ 0x38830244
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382A13C0
+1	const CHTMLProtoBufMsg<class CMsgPopupHTMLWindow>::`RTTI Complete Object Locator'

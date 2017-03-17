@@ -1,0 +1,6 @@
+// ___7CCoffModifierBase@@6B@
+// Auto reconstructed from vtable block @ 0x3887A960
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386AE988
+1	sub_3842E2D0
+2	const CPEParser::`RTTI Complete Object Locator'

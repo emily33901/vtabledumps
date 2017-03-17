@@ -1,0 +1,4 @@
+// ___7_$TypedMessageData@PAUChannelParams@_A0xf1918a7c@@@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FDF88
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E4900

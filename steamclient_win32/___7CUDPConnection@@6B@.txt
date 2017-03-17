@@ -1,0 +1,34 @@
+// ___7CUDPConnection@@6B@
+// Auto reconstructed from vtable block @ 0x388C7178
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3864E240
+1	sub_3864E450
+2	sub_3864DBB0
+3	sub_3864E3E0
+4	sub_3864E420
+5	sub_3864D890
+6	sub_3863B0F0
+7	sub_385C9BF0
+8	sub_3863C050
+9	sub_3864D270
+10	sub_3864D670
+11	sub_3863B590
+12	sub_3863B7E0
+13	sub_3863B7C0
+14	sub_3864E4D0
+15	sub_3863BCE0
+16	sub_3863B950
+17	Steam_GSSendUserStatusResponse
+18	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_5
+19	sub_3863E480
+20	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_14
+21	sub_3863BF20
+22	sub_3863BF30
+23	sub_3864E0B0
+24	sub_3864E110
+25	sub_3864DF70
+26	sub_3864DED0
+27	sub_3863BC10
+28	sub_3863CE20
+29	sub_3863E910
+30	const CUDPConnection::`RTTI Complete Object Locator'{for `IStreamParserMessageCallback'}

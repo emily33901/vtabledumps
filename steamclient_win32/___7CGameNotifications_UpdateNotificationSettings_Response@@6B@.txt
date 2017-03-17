@@ -1,0 +1,23 @@
+// ___7CGameNotifications_UpdateNotificationSettings_Response@@6B@
+// Auto reconstructed from vtable block @ 0x387DC734
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380F8E60
+1	sub_3844EEB0
+2	sub_380FDAC0
+3	sub_38119530
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38109790
+8	sub_38125650
+9	sub_380F4A40
+10	sub_3815A400
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380FB7A0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380FA260
+19	const CGameNotifications_OnNotificationsRequested_Notification::`RTTI Complete Object Locator'

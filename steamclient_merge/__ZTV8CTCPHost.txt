@@ -5,4 +5,7 @@
 // Auto reconstructed from vtable block @ 0x00EF2080
 // from "steamclient.dylib", by ida_vtables.idc
 0	CTCPHost::~CTCPHost()
+1	CTCPHost::BInit(IConnectionCallback *,netadr_t const&,unsigned int,INetFilterKeyCallback *,INetSSLConnectionCallback *)
+2	CTCPHost::GetConnectionType(void)
+3	CTCPHost::Validate(CValidator &,char const*)
 

@@ -1,0 +1,23 @@
+// ___7CMsgClientEmailAddrInfo@@6B@
+// Auto reconstructed from vtable block @ 0x388B8378
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385DF5B0
+1	sub_3844EEB0
+2	sub_3860F100
+3	sub_385E8A50
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38601E60
+8	sub_385E3000
+9	sub_386122A0
+10	sub_386166F0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_385F2570
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_385EB650
+19	const CMsgCREEnumeratePublishedFiles::`RTTI Complete Object Locator'

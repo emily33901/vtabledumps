@@ -1,0 +1,23 @@
+// ___7CMsgSetLocalFileRequestMapping@@6B@
+// Auto reconstructed from vtable block @ 0x3882B7A4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827FCE0
+1	sub_3844EEB0
+2	sub_382957F0
+3	sub_38282EF0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_382930A0
+8	sub_38281F20
+9	sub_38296FD0
+10	sub_38298AE0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3828D080
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_382852C0
+19	const CMsgBrowserErrorStrings::`RTTI Complete Object Locator'

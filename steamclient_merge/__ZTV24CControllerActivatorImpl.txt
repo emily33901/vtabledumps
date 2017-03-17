@@ -20,4 +20,23 @@
 13	CControllerActivatorImpl::UpdateDefaults(EControllerSource,EControllerType)
 14	CControllerActivatorImpl::AddBinding(CUtlPtr<IDigitalBinding const> &)
 15	CControllerActivatorImpl::RegisterAnalogActivator(IControllerMode *,EControllerSource,EControllerModeInput)
+16	___cxa_pure_virtual
+17	CControllerActivatorImpl::RemoveModeShiftBindingsForSource(EControllerSource)
+18	IControllerActivator::IsPaused(void)
+19	CControllerActivatorImpl::SetPaused(bool,int)
+20	CControllerActivatorImpl::IsPausable(void)
+21	CControllerActivatorImpl::IsPersistent(void)
+22	CControllerActivatorImpl::ResetFromPause(void)
+23	CControllerActivatorImpl::ClearEventQueue(void)
+24	CControllerActivatorImpl::GetAnalogThreshold(void)
+25	CControllerActivatorImpl::GetInput(void)
+26	CControllerActivatorImpl::GetID(void)
+27	CControllerActivatorImpl::SetHapticLocation(ESteamControllerPad)
+28	CControllerActivatorImpl::GetHapticLocation(void)
+29	___cxa_pure_virtual
+30	CControllerActivatorImpl::Validate(CValidator &,char const*)
+31	CControllerActivatorImpl::PopulateBinding(CUtlHashMap<CUtlString,CUtlPtr<IDigitalBinding const>,CCaselessStringCmp,HashFunctorStringCaseless> const&,CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &)
+32	CControllerActivatorImpl::SendInputEvent(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IInputGenerator *,bool)
+33	CControllerActivatorImpl::UpdateBinding(CUtlVector<CUtlPtr<IDigitalBinding const>,CUtlMemory<CUtlPtr<IDigitalBinding const>>> &,IDigitalBinding const*)
+34	CControllerActivatorImpl::IsModifierKey(BindingAction_t *)
 

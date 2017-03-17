@@ -1,0 +1,5 @@
+// ___7CXInputBaseMemStream@@6B@
+// Auto reconstructed from vtable block @ 0x388639D4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383FE2D0
+1	const CXInputSteamMemStream::`RTTI Complete Object Locator'

@@ -1,0 +1,30 @@
+// ___7CClientHTTP@@6B@
+// Auto reconstructed from vtable block @ 0x387FA994
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3819D3C0
+1	sub_3819E350
+2	sub_3819E5A0
+3	sub_3819E510
+4	sub_3819E440
+5	sub_3819E060
+6	sub_3819E080
+7	sub_3819D4C0
+8	sub_3819DE00
+9	sub_3819D300
+10	sub_3819D890
+11	sub_3819D930
+12	sub_3819D830
+13	sub_3819D7B0
+14	sub_3819D9E0
+15	sub_3819DED0
+16	sub_3819D6C0
+17	sub_3819E600
+18	sub_3819D360
+19	sub_3819DE60
+20	sub_3819E280
+21	sub_3819E3B0
+22	sub_3819E6F0
+23	sub_3819E6A0
+24	sub_3819E2F0
+25	sub_3819D730
+26	const CClientHTTPWaitRequestJob::`RTTI Complete Object Locator'

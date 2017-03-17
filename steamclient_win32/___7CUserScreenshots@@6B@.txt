@@ -1,0 +1,37 @@
+// ___7CUserScreenshots@@6B@
+// Auto reconstructed from vtable block @ 0x3885E2C8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383DEBD0
+1	sub_383E1490
+2	sub_383E2B80
+3	sub_383DB9C0
+4	sub_383E1CA0
+5	sub_383E1070
+6	sub_383E13B0
+7	sub_383E1850
+8	sub_383E1790
+9	sub_383E10A0
+10	sub_383DEDD0
+11	sub_383DEC70
+12	sub_383DF9B0
+13	sub_383DEB90
+14	sub_383DE700
+15	sub_383DE910
+16	sub_383DE760
+17	sub_383DE870
+18	sub_383E12D0
+19	sub_383E1320
+20	sub_383E1360
+21	sub_383E1760
+22	sub_383DBD00
+23	sub_383E1D10
+24	sub_383DE140
+25	sub_383DDF20
+26	sub_383E08E0
+27	sub_383DF0B0
+28	sub_383DF010
+29	sub_383DEAF0
+30	sub_383DEFA0
+31	sub_383DEF20
+32	sub_383DEBA0
+33	sub_383DC200

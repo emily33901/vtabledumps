@@ -1,0 +1,22 @@
+// ___7CMsgClientLANP2PRequestChunksResponse@@6B@
+// Auto reconstructed from vtable block @ 0x387D4C78
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380D3790
+1	sub_3844EEB0
+2	sub_380D48F0
+3	sub_38468AE0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_380D43C0
+8	sub_380D38F0
+9	sub_380FE160
+10	sub_380D4B30
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_380D3E40
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_380D3B80

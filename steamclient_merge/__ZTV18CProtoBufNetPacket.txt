@@ -20,4 +20,12 @@
 13	CProtoBufNetPacket::GetSteamID(void)const
 14	CProtoBufNetPacket::SetSteamID(CSteamID)
 15	CProtoBufNetPacket::GetSessionID(void)const
+16	CProtoBufNetPacket::SetSessionID(int)
+17	CProtoBufNetPacket::GetAppIDRouting(void)const
+18	CProtoBufNetPacket::BHasTargetJobName(void)const
+19	CProtoBufNetPacket::GetTargetJobName(void)const
+20	CProtoBufNetPacket::BHasMsgTraceTag(void)const
+21	CProtoBufNetPacket::GetMsgTraceTag(void)const
+22	CProtoBufNetPacket::SetMsgTraceTag(unsigned long long)
+23	CProtoBufNetPacket::BPacketDecodingFailed(void)const
 

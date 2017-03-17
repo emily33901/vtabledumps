@@ -20,4 +20,7 @@
 13	CMsgClientAppInfoResponse_App_Section::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientAppInfoResponse_App_Section::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientAppInfoResponse_App_Section::GetMetadata(void)const
 

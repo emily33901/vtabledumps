@@ -20,4 +20,8 @@
 13	CDepotHTTPDownloadInterface::GetDownloadSourceID(void)
 14	CCSInterfaceSessionAuth::EYieldingAuthenticateDepotID(unsigned int)
 15	CCSInterfaceSessionAuth::CreateChunkRequestURL(unsigned int,char const*,CUtlString &)
+16	CCSInterfaceSessionAuth::CreateManifestRequestURL(unsigned int,unsigned long long,CUtlString &)
+17	CCSInterfaceSessionAuth::CreateNextRequestHeader(CHTTPClientRequest *)
+18	CDepotHTTPDownloadInterface::OnHTTPResponse(unsigned int,EHTTPStatusCode)
+19	CCSInterfaceSessionAuth::BResponseCameFromProxyCache(CHTTPRequestHandle *)
 

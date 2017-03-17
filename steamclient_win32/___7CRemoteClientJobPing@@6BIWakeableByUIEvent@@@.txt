@@ -1,0 +1,5 @@
+// ___7CRemoteClientJobPing@@6BIWakeableByUIEvent@@@
+// Auto reconstructed from vtable block @ 0x38846B14
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38358360
+1	sub_38358390

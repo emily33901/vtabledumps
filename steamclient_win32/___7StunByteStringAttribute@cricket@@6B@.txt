@@ -1,0 +1,7 @@
+// ___7StunByteStringAttribute@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FFC8C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386FEF70
+1	sub_386FF7C0
+2	sub_386FFC30
+3	const cricket::StunErrorCodeAttribute::`RTTI Complete Object Locator'

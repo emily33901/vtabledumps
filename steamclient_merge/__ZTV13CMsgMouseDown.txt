@@ -6,4 +6,21 @@
 // from "steamclient.dylib", by ida_vtables.idc
 0	CMsgMouseDown::~CMsgMouseDown()
 1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgMouseDown::New(void)const
+3	CMsgMouseDown::Clear(void)
+4	CMsgMouseDown::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgMouseDown::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgMouseDown::ByteSize(void)const
+90	CMsgMouseDown::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgMouseDown::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgMouseDown::GetCachedSize(void)const
+12	CMsgMouseDown::CopyFrom(google::protobuf::Message const&)
+13	CMsgMouseDown::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgMouseDown::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgMouseDown::GetMetadata(void)const
 

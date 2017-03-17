@@ -20,4 +20,11 @@
 13	CInputAccumulator::TriggerHapticPulse(ESteamControllerPad,unsigned short,unsigned short,unsigned short,unsigned int)
 14	CInputAccumulator::TranslateRumbleEvents(int,int)
 15	CInputAccumulator::GetCursorPosition(int *,int *)
+16	CInputAccumulator::SetCurrentModeID(int)
+17	CInputAccumulator::SetVirtualMode(bool)
+18	CInputAccumulator::GetXInputControllerIndex(void)
+19	CInputAccumulator::AccessAnalogAction(int)
+20	CInputAccumulator::AccessDigitalAction(int)
+21	CInputAccumulator::SetGameWindowPos(int,int,int,int)
+22	CInputAccumulator::GetGameWindowPos(int *,int *,int *,int *)
 

@@ -16,4 +16,8 @@
 90	ConCommandBase::Create(char const*,char const*,unsigned long long)
 10	ConCommandBase::Init(void)
 11	ConCommand::AutoCompleteSuggest(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString>> &)
+12	ConCommand::SetCompletionFunc(int (*)(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString>> &))
+13	ConCommand::CanAutoComplete(void)
+14	ConCommand::Dispatch(void *,ConParams &)
+15	ConCommand::Create(char const*,void (*)(void *,ConParams &,ConCommand&),char const*,unsigned long long,int (*)(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString>> &),void (*)(void *,CRemoteCmd *))
 

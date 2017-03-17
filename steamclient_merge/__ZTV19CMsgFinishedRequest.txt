@@ -6,4 +6,21 @@
 // from "steamclient.dylib", by ida_vtables.idc
 0	CMsgFinishedRequest::~CMsgFinishedRequest()
 1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgFinishedRequest::New(void)const
+3	CMsgFinishedRequest::Clear(void)
+4	CMsgFinishedRequest::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgFinishedRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgFinishedRequest::ByteSize(void)const
+90	CMsgFinishedRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgFinishedRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgFinishedRequest::GetCachedSize(void)const
+12	CMsgFinishedRequest::CopyFrom(google::protobuf::Message const&)
+13	CMsgFinishedRequest::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgFinishedRequest::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgFinishedRequest::GetMetadata(void)const
 

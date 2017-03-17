@@ -1,0 +1,10 @@
+// ___7CLocalLibraryCrawlerThread@@6B@
+// Auto reconstructed from vtable block @ 0x387CA024
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380B47E0
+1	sub_380B6160
+2	sub_380B6FD0
+3	protected: virtual void thiscall CThread::OnExit(void)
+4	protected: virtual bool thiscall CThread::IsThreadRunning(void)const
+5	private: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	sub_380B73F0

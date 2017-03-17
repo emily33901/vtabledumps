@@ -1,0 +1,27 @@
+// ___7CProtoBufNetPacket@@6B@
+// Auto reconstructed from vtable block @ 0x3889B108
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3854BCE0
+1	sub_38285B60
+2	sub_38252630
+3	sub_3815BBA0
+4	sub_38682C80
+5	sub_3854C900
+6	sub_3854C7D0
+7	sub_3854BEA0
+8	sub_3854BEC0
+9	sub_380AA750
+10	sub_3854C130
+11	sub_3854CAB0
+12	sub_3854C9C0
+13	sub_3854C0A0
+14	sub_3854CA20
+15	sub_380AB0C0
+16	sub_3854C940
+17	sub_380AB060
+18	sub_3854BE90
+19	sub_380AB130
+20	sub_3854BE50
+21	sub_380AAEF0
+22	sub_380AE5F0
+23	sub_380BFAE0

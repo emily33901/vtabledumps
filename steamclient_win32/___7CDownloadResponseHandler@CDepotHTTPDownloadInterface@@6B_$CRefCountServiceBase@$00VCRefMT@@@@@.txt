@@ -1,0 +1,6 @@
+// ___7CDownloadResponseHandler@CDepotHTTPDownloadInterface@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x38820CB0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3824F7EB
+1	sub_38285B60
+2	const CDepotHTTPDownloadInterface::`RTTI Complete Object Locator'

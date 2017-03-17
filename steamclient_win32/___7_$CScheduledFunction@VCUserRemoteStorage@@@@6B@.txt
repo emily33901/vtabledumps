@@ -1,0 +1,7 @@
+// ___7_$CScheduledFunction@VCUserRemoteStorage@@@@6B@
+// Auto reconstructed from vtable block @ 0x3885A2B4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383CA480
+1	sub_3817AA90
+2	sub_38548480
+3	const CUserRemoteStorage::`RTTI Complete Object Locator'

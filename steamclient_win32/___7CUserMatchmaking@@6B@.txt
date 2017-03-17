@@ -1,0 +1,39 @@
+// ___7CUserMatchmaking@@6B@
+// Auto reconstructed from vtable block @ 0x387C6688
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380AD290
+1	sub_380A8130
+2	sub_380A7F20
+3	sub_380A7E10
+4	sub_380A7C40
+5	sub_380A7B40
+6	sub_380A8030
+7	sub_380A79B0
+8	sub_380AA760
+9	sub_380A9FD0
+10	sub_380AC700
+11	sub_380AC7A0
+12	sub_380AC4E0
+13	sub_380AAF00
+14	sub_380AAC40
+15	sub_380AA8C0
+16	sub_380ADE60
+17	sub_380AAA90
+18	sub_380AA990
+19	sub_380AA0B0
+20	sub_380AACF0
+21	sub_380AE200
+22	sub_380AD680
+23	sub_380AA7B0
+24	sub_380AD130
+25	sub_380AE050
+26	sub_380AAB20
+27	sub_380AE340
+28	sub_380AAD60
+29	sub_380AE530
+30	sub_380AE190
+31	sub_380AAE60
+32	sub_380AE3D0
+33	sub_380ADD10
+34	sub_380AD0D0
+35	const CAPIJobMatchmakingRequestLobbyList::`RTTI Complete Object Locator'

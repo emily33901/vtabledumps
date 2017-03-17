@@ -1,0 +1,6 @@
+// ___7_$CInternalCallback@VCRemoteClientManager@@UNetworkDeviceStateChange_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x38847450
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383615A0
+1	sub_383491F0
+2	const CInternalCallback<class CRemoteClientManager,struct LicensesUpdated_t>::`RTTI Complete Object Locator'

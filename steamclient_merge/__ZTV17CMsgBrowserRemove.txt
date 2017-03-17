@@ -20,4 +20,7 @@
 13	CMsgBrowserRemove::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgBrowserRemove::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgBrowserRemove::GetMetadata(void)const
 

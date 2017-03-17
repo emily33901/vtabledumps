@@ -1,0 +1,10 @@
+// ___7CAsyncIOAndDecodeThread@CMusicDecoder_LibVideo@@6B@
+// Auto reconstructed from vtable block @ 0x387CDCCC
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_380BF760
+1	protected: virtual bool thiscall CThread::Init(void)
+2	sub_380BFBF0
+3	protected: virtual void thiscall CThread::OnExit(void)
+4	protected: virtual bool thiscall CThread::IsThreadRunning(void)const
+5	private: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	const CMusicDecoder_LibVideo::`RTTI Complete Object Locator'

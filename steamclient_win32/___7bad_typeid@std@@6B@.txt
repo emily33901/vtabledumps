@@ -1,0 +1,6 @@
+// ___7bad_typeid@std@@6B@
+// Auto reconstructed from vtable block @ 0x388EB7B8
+// from "steamclient.dll", by ida_vtables.idc
+0	unknown_libname_95
+1	public: virtual char const near * thiscall exception::what(void)const
+2	const std::__non_rtti_object::`RTTI Complete Object Locator'

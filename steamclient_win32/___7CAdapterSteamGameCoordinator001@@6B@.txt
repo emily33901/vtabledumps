@@ -1,0 +1,6 @@
+// ___7CAdapterSteamGameCoordinator001@@6B@
+// Auto reconstructed from vtable block @ 0x38835828
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382B5ED0
+1	sub_382B51C0
+2	sub_382B5E00

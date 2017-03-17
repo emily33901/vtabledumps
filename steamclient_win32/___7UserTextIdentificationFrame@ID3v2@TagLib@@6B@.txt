@@ -1,0 +1,9 @@
+// ___7UserTextIdentificationFrame@ID3v2@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388E0174
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386957E0
+1	sub_38695DE0
+2	sub_38695F20
+3	sub_386959E0
+4	sub_38695BA0
+5	const TagLib::ID3v2::CommentsFrame::`RTTI Complete Object Locator'

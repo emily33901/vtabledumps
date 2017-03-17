@@ -1,0 +1,5 @@
+// ___7CHTTPClient@@6B@
+// Auto reconstructed from vtable block @ 0x388B0EA4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385CEB00
+1	sub_385D6420

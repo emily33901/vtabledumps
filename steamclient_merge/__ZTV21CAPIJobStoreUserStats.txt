@@ -17,5 +17,4 @@
 10	CJob::MsgTraceReportJobStarted(void)
 11	CJob::MsgTraceReportJobFinished(void)
 12	CAPIJobStoreUserStats::BYieldingRunAPIJob(void)
-13	aCclientjobstat
 

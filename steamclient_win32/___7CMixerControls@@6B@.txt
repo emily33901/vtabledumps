@@ -1,0 +1,9 @@
+// ___7CMixerControls@@6B@
+// Auto reconstructed from vtable block @ 0x387C4018
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38099340
+1	unknown_libname_2
+2	sub_380998E0
+3	sub_38099D90
+4	sub_38099780
+5	sub_38099F20

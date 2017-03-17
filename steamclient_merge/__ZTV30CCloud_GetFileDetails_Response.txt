@@ -20,4 +20,7 @@
 13	CCloud_GetFileDetails_Response::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CCloud_GetFileDetails_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CCloud_GetFileDetails_Response::GetMetadata(void)const
 

@@ -1,0 +1,8 @@
+// ___7CRebootIntoISPWorkItem@@6B@
+// Auto reconstructed from vtable block @ 0x38819780
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_382080E0
+1	sub_38215FC0
+2	sub_3820DBB0
+3	sub_38285B60
+4	nullsub_3

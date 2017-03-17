@@ -1,0 +1,6 @@
+// ___7CWorkThreadPool@@6B@
+// Auto reconstructed from vtable block @ 0x388AE338
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385B9120
+1	sub_385B95C0
+2	sub_385B9960

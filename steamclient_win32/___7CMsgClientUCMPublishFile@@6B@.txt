@@ -1,0 +1,23 @@
+// ___7CMsgClientUCMPublishFile@@6B@
+// Auto reconstructed from vtable block @ 0x388B5998
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_385E0EC0
+1	sub_3844EEB0
+2	sub_38610770
+3	sub_385E9780
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38607C30
+8	sub_385E57E0
+9	sub_38613AD0
+10	sub_38618530
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_385F9BD0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_385ED870
+19	const CMsgClientUCMPublishFileResponse::`RTTI Complete Object Locator'

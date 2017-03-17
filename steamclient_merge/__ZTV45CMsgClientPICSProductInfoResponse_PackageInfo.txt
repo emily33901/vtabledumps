@@ -20,4 +20,7 @@
 13	CMsgClientPICSProductInfoResponse_PackageInfo::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientPICSProductInfoResponse_PackageInfo::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientPICSProductInfoResponse_PackageInfo::GetMetadata(void)const
 

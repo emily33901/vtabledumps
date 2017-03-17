@@ -1,0 +1,7 @@
+// ___7CGameServer@@6BIUDPSocketCallback@@@
+// Auto reconstructed from vtable block @ 0x38828878
+// from "steamclient.dll", by ida_vtables.idc
+0	nullsub_1
+1	sub_38345F90
+2	nullsub_3
+3	const CAPIJobGSGetGameplayStats::`RTTI Complete Object Locator'

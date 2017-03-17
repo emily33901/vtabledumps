@@ -20,4 +20,7 @@
 13	ClientCloudFileUploadBlockDetails_HTTPHeaders::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	ClientCloudFileUploadBlockDetails_HTTPHeaders::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	ClientCloudFileUploadBlockDetails_HTTPHeaders::GetMetadata(void)const
 

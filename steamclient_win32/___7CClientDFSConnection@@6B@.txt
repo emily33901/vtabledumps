@@ -1,0 +1,12 @@
+// ___7CClientDFSConnection@@6B@
+// Auto reconstructed from vtable block @ 0x387FC094
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_381B61F0
+1	sub_381B6290
+2	sub_381B6370
+3	sub_381BC660
+4	sub_382ADCE0
+5	nullsub_6
+6	nullsub_6
+7	nullsub_3
+8	const CClientDFSConnection::`RTTI Complete Object Locator'{for `IFileTransferCallback'}

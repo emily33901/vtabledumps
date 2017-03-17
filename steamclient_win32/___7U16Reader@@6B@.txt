@@ -1,0 +1,7 @@
+// ___7U16Reader@@6B@
+// Auto reconstructed from vtable block @ 0x388DEF8C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386897E0
+1	sub_3868A350
+2	sub_385C9BF0
+3	const U32Reader::`RTTI Complete Object Locator'

@@ -1,0 +1,23 @@
+// ___7CInventory_ConsumePlaytime_Request@@6B@
+// Auto reconstructed from vtable block @ 0x387E062C
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3810E850
+1	sub_3844EEB0
+2	sub_381125A0
+3	sub_3856DFA0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38111CB0
+8	sub_3810F120
+9	sub_380ECD70
+10	sub_380ED1F0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38110250
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_3810F840
+19	const CInventory_ConsumeItem_Request::`RTTI Complete Object Locator'

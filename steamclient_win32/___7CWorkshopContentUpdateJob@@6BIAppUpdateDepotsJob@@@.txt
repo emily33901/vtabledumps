@@ -1,0 +1,12 @@
+// ___7CWorkshopContentUpdateJob@@6BIAppUpdateDepotsJob@@@
+// Auto reconstructed from vtable block @ 0x38863624
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383FC8E0
+1	sub_383FC8F0
+2	sub_383FCE00
+3	sub_383FCBC0
+4	sub_383FC8A0
+5	sub_383FCFD0
+6	sub_383FCDE0
+7	sub_381CE320
+8	sub_3835D8D0

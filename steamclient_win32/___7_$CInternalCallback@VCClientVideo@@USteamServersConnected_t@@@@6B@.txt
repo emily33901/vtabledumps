@@ -1,0 +1,6 @@
+// ___7_$CInternalCallback@VCClientVideo@@USteamServersConnected_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x3880E1D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383D6D40
+1	sub_383491F0
+2	const CScheduledFunction<class CClientVideo>::`RTTI Complete Object Locator'

@@ -17,6 +17,4 @@
 10	CJob::MsgTraceReportJobStarted(void)
 11	CJob::MsgTraceReportJobFinished(void)
 12	aActive
-13	aNotStarted
-14	aNetmsg
 

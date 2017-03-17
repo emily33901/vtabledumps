@@ -1,0 +1,6 @@
+// ___7_$CInternalCallback@VCUser@@URemoteStorageAppSyncedServer_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x3884F828
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_383615A0
+1	sub_383491F0
+2	const CInternalCallback<class CUser,struct RemoteStorageAppSyncedClient_t>::`RTTI Complete Object Locator'

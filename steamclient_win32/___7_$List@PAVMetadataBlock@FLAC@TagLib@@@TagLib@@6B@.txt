@@ -1,0 +1,4 @@
+// ___7_$List@PAVMetadataBlock@FLAC@TagLib@@@TagLib@@6B@
+// Auto reconstructed from vtable block @ 0x388DDEE8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38677A50

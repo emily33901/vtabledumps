@@ -9,4 +9,8 @@
 2	CClientDFSConnection::ConnectionDisconnected(unsigned int,EResult)
 3	CClientDFSConnection::RecvPkt(CNetPacket *)
 4	CClientDFSConnection::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CClientDFSConnection::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CClientDFSConnection::BAllowFileReceive(unsigned int,char const*)
 

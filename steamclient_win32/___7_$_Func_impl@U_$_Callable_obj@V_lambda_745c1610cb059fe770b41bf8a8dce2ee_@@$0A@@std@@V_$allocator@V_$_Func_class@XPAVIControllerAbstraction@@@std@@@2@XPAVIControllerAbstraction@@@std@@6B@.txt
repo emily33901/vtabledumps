@@ -1,0 +1,11 @@
+// ___7_$_Func_impl@U_$_Callable_obj@V_lambda_745c1610cb059fe770b41bf8a8dce2ee_@@$0A@@std@@V_$allocator@V_$_Func_class@XPAVIControllerAbstraction@@@std@@@2@XPAVIControllerAbstraction@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x3881AAF8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3821AD40
+1	sub_3821AD40
+2	sub_3821ACD0
+3	sub_3821AD90
+4	sub_38205A10
+5	sub_38208110
+6	sub_3821AD30
+7	const std::_Func_impl<struct std::_Callable_obj<class _lambda_27068f4a13c21316e70b34cd88a49675_,0>,class std::allocator<class std::_Func_class<void,class IControllerAbstraction near *>>,void,class IControllerAbstraction near *>::`RTTI Complete Object Locator'

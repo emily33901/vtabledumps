@@ -20,4 +20,7 @@
 13	CMsgClientUCMPublishedFileUpdated::MergeFrom(google::protobuf::Message const&)
 14	google::protobuf::Message::DiscardUnknownFields(void)
 15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientUCMPublishedFileUpdated::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientUCMPublishedFileUpdated::GetMetadata(void)const
 

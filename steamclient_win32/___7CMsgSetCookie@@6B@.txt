@@ -1,0 +1,23 @@
+// ___7CMsgSetCookie@@6B@
+// Auto reconstructed from vtable block @ 0x3882CCE4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827FB40
+1	sub_3844EEB0
+2	sub_382956E0
+3	sub_38282DD0
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_38292A00
+8	sub_38281C90
+9	sub_38296DC0
+10	sub_38298880
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_3828C9C0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_382850E0
+19	const CMsgSetTargetFrameRate::`RTTI Complete Object Locator'

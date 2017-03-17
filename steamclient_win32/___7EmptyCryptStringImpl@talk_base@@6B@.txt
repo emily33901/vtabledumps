@@ -1,0 +1,9 @@
+// ___7EmptyCryptStringImpl@talk_base@@6B@
+// Auto reconstructed from vtable block @ 0x388FE0C4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386EBB50
+1	sub_38075800
+2	sub_386EBDF0
+3	sub_386ED5E0
+4	sub_386EBDD0
+5	const sigslot::_signal_base1<class cricket::Port near *,class sigslot::single_threaded>::`RTTI Complete Object Locator'

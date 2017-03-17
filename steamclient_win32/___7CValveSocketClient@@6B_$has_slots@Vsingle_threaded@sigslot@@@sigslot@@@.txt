@@ -1,0 +1,7 @@
+// ___7CValveSocketClient@@6B_$has_slots@Vsingle_threaded@sigslot@@@sigslot@@@
+// Auto reconstructed from vtable block @ 0x38889690
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_384C94D6
+1	nullsub_1
+2	nullsub_1
+3	const CValveSocketClient::`RTTI Complete Object Locator'{for `IP2PSocket'}

@@ -1,0 +1,18 @@
+// ___7CCrossProcessPipe@@6B@
+// Auto reconstructed from vtable block @ 0x38845780
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38352300
+1	sub_38352830
+2	sub_38352360
+3	sub_383523A0
+4	sub_38285B60
+5	sub_38353240
+6	sub_38352D20
+7	sub_38352B90
+8	sub_38352BF0
+9	sub_38352CB0
+10	sub_383531E0
+11	sub_383531D0
+12	protected: class Concurrency::details::VirtualProcessor near * thiscall Concurrency::details::InternalContextBase::UNSAFE_CurrentVirtualProcessor(void)const
+13	Steam_GSSendUserStatusResponse
+14	sub_38353320

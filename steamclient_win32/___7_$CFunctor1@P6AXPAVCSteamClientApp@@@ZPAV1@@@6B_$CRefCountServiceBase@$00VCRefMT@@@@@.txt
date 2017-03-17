@@ -1,0 +1,6 @@
+// ___7_$CFunctor1@P6AXPAVCSteamClientApp@@@ZPAV1@@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x388079D8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3837EC68
+1	sub_38285B60
+2	const CInternalLambdaWorkItem<class _lambda_52356b596d9be1bb6a5dce93ed6d355d_,void>::`RTTI Complete Object Locator'

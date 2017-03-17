@@ -1,0 +1,4 @@
+// ___7UDPMessage@cricket@@6B@
+// Auto reconstructed from vtable block @ 0x388FDB34
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_386E4930

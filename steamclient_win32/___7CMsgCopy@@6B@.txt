@@ -1,0 +1,23 @@
+// ___7CMsgCopy@@6B@
+// Auto reconstructed from vtable block @ 0x3882BAC4
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3827E8A0
+1	sub_3844EEB0
+2	sub_382947B0
+3	sub_38116760
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_386044A0
+8	sub_3856B9B0
+9	sub_38115AA0
+10	sub_385A94A0
+11	sub_3815BBA0
+12	sub_38163510
+13	sub_38287480
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_382990B0
+17	sub_380CA080
+18	sub_38283820
+19	const CMsgPaste::`RTTI Complete Object Locator'

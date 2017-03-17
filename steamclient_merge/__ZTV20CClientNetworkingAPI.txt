@@ -20,4 +20,12 @@
 13	CClientNetworkingAPI::SendDataOnSocket(unsigned int,void *,unsigned int,bool)
 14	CClientNetworkingAPI::IsDataAvailableOnSocket(unsigned int,unsigned int *)
 15	CClientNetworkingAPI::RetrieveDataFromSocket(unsigned int,void *,unsigned int,unsigned int *)
+16	CClientNetworkingAPI::IsDataAvailable(unsigned int,unsigned int *,unsigned int *)
+17	CClientNetworkingAPI::RetrieveData(unsigned int,void *,unsigned int,unsigned int *,unsigned int *)
+18	CClientNetworkingAPI::GetSocketInfo(unsigned int,CSteamID *,int *,unsigned int *,unsigned short *)
+19	CClientNetworkingAPI::GetListenSocketInfo(unsigned int,unsigned int *,unsigned short *)
+20	CClientNetworkingAPI::GetSocketConnectionType(unsigned int)
+21	CClientNetworkingAPI::GetMaxPacketSize(unsigned int)
+22	CClientNetworkingAPI::RenderState(void)
+23	CClientNetworkingAPI::Validate(CValidator &,char const*)
 

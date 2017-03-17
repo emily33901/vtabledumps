@@ -14,5 +14,4 @@
 7	CWorkThread::OnStart(void)
 8	CHTTPClientWorkThread::Validate(CValidator &,char const*)
 90	asc_C1CE82
-10	asc_C1B441
 

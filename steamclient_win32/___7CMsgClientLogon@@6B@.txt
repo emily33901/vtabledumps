@@ -1,0 +1,23 @@
+// ___7CMsgClientLogon@@6B@
+// Auto reconstructed from vtable block @ 0x388A34E0
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_38562EE0
+1	sub_3844EEB0
+2	sub_3859A9D0
+3	sub_3856E720
+4	sub_38285B60
+5	sub_3844EFB0
+6	sub_3844EAD0
+7	sub_3858E1A0
+8	sub_38568880
+9	sub_3859EC50
+10	sub_385A5290
+11	public: unsigned int thiscall Concurrency::details::SchedulerProxy::GetNumNestedThreadSubscriptions(void)
+12	sub_38163510
+13	sub_3857BBF0
+14	sub_3844EC00
+15	sub_3844F590
+16	sub_385A9890
+17	sub_380CA080
+18	sub_38571DB0
+19	const CMsgClientLogonResponse::`RTTI Complete Object Locator'

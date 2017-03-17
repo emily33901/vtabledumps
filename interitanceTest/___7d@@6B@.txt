@@ -1,0 +1,5 @@
+// ___7d@@6B@
+// Auto reconstructed from vtable block @ 0x004031E8
+// from "inheritanceTest.exe", by ida_vtables.idc
+0	public: virtual void thiscall d::f(void)
+1	public: virtual void thiscall a::g(void)

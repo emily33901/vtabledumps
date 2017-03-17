@@ -1,0 +1,16 @@
+// ___7CRemoteClientManager@@6B@
+// Auto reconstructed from vtable block @ 0x38847488
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3835C350
+1	sub_3835C3A0
+2	sub_3835C6B0
+3	sub_38360280
+4	sub_3835A5B0
+5	sub_3835C610
+6	nullsub_6
+7	nullsub_3
+8	sub_3835A0C0
+9	sub_38362770
+10	nullsub_2
+11	sub_38362E80
+12	const CRemoteClientManager::`RTTI Complete Object Locator'{for `IClientRemoteClientManager'}

@@ -1,0 +1,5 @@
+// ___7CApplicationManager@@6B@
+// Auto reconstructed from vtable block @ 0x387F31B8
+// from "steamclient.dll", by ida_vtables.idc
+0	sub_3816CD80
+1	const CInternalCallback<class CUserAppManager,struct AppInfoChanged_t>::`RTTI Complete Object Locator'

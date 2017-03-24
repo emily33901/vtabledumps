@@ -5057,3 +5057,22 @@ __cxa_demangle(const char *mangled_name, char *buf, size_t *n, int *status) {
 }
 
 }  // __cxxabiv1
+
+#include <cstdio>
+int main(int argc, char **argv) {
+  if(argc == 1) {
+    return 0;
+  }
+  
+  for(int i = 1; i < argc; i++) {
+    int status = 0;
+    char *name = __cxxabiv1::__cxa_demangle(argv[i], nullptr, 0, &status);
+    if(status == 0) {
+      printf("%s", name);
+      free(name);
+    } else {
+      printf("%d", status);
+    }
+  }
+  return 0;
+}

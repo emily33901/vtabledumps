@@ -1,5 +1,6 @@
 import os
 import re
+import msvcDemangler
 
 def FileExists(filename):
     for file in os.listdir():
@@ -22,6 +23,8 @@ def TryMatchName(string1, string2):
         i += 1;
 
 def FindUniqueName(string):
+    # demangle names here
+    # this is impled for msvc but notmfor g++ or clang yet
     i = FindLastNumber(string);
     return string[i:string.find(".")];
 
@@ -58,7 +61,7 @@ def UsesMultipleInheritance(fileName, folder):
     for file in os.listdir(folder):
         foundIndex = file.find(searchedString)
         if(foundIndex != -1):
-            if(file.find("@", 0, foundIndex) != -1 || file.find("@", 0, foundIndex) != foundIndex + 1):
+            if(file.find("@", 0, foundIndex) != -1 or file.find("@", 0, foundIndex) != foundIndex + 1):
                 # this is from inheritance not actual class name
                 # or
                 # this name is longer than we are expecting
@@ -124,15 +127,19 @@ def ProcessFolderPair(osx_folder, win_folder, out_folder):
         mi, found = UsesMultipleInheritance(file, win_folder);
         if(mi):
            print("----> Uses multiple inheritance!");
-           print("----> Unique name: " + FindUniqueName(file));
+           print("---->    Unique name: " + FindUniqueName(file));
+           print("----> Demangled name: " + symbol_demangle(file, False));
            for f in found:
                print("----> ----> " + f);
 
+        n, _ = msvcDemangler.symbol_demangle("??" + file[2:-3], False);
+        print("----> Demangled name: " + n);
+
         win_file = FindMatchingWindowsFile(file, win_folder);
 
-        out_file = out_folder + "\\" + file;
+        out_file = out_folder + "/" + file;
         print(out_file);
-        ProcessVtablePair(osx_folder + "\\" + file, win_folder + "\\" + win_file, out_file);
+        ProcessVtablePair(osx_folder + "/" + file, win_folder + "/" + win_file, out_file);
         
 # main
 for file in os.listdir():
@@ -155,4 +162,4 @@ for file in os.listdir():
 
         if(exists):
             output = fileSplit[0] + "_" + "merge";
-            ProcessFolderPair("." + "\\" + file, "." + "\\" + newFile, "." + "\\" + output);
+            ProcessFolderPair("." + "/" + file, "." + "/" + newFile, "." + "/" + output);

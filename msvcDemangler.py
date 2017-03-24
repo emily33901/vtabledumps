@@ -904,11 +904,11 @@ calling_convention = {
     'Q': '__vectorcall ',
     }
 
-if __name__ == "__main__":
-    import sys
-    verbose = False
-    for s in sys.argv[1:]:
-        if s == '-v': verbose = True; continue
-        n, r = symbol_demangle(s, verbose=verbose)
-        if r: n += ' Rest(%s)'%r
-        print(n)
+#if __name__ == "__main__":
+#    import sys
+#    verbose = False
+#    for s in sys.argv[1:]:
+#        if s == '-v': verbose = True; continue
+#        n, r = symbol_demangle(s, verbose=verbose)
+#        if r: n += ' Rest(%s)'%r
+#        print(n)

@@ -132,13 +132,13 @@ def ProcessFolderPair(osx_folder, win_folder, out_folder):
            for f in found:
                print("----> ----> " + f);
 
-        n, _ = msvcDemangler.symbol_demangle("??" + file[2:-3], False);
+        n, _ = msvcDemangler.symbol_demangle("??" + FindMatchingWindowsFile(FindUniqueName(file), win_folder)[2:-4], False);
         print("----> Demangled name: " + n);
 
         win_file = FindMatchingWindowsFile(file, win_folder);
 
         out_file = out_folder + "/" + file;
-        print(out_file);
+        #print(out_file);
         ProcessVtablePair(osx_folder + "/" + file, win_folder + "/" + win_file, out_file);
         
 # main

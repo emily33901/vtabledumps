@@ -1,5 +1,6 @@
 import os
 import re
+import subprocess
 import msvcDemangler
 
 def FileExists(filename):
@@ -22,53 +23,39 @@ def TryMatchName(string1, string2):
             return string2[:-i];
         i += 1;
 
-def FindUniqueName(string):
-    # demangle names here
-    # this is impled for msvc but notmfor g++ or clang yet
-    i = FindLastNumber(string);
-    return string[i:string.find(".")];
+def FindUniqueWindowsName(string):
+    if(string.find("___7_") != -1):
+        string = string[3:]; # only remove 3 as the next 2 will be removed next
+    n, _ = msvcDemangler.symbol_demangle("??" + string[2:-4], False);
 
-def FindUniqueMatchingFile(fileName, folder):
-    searchedString = FindUniqueName(fileName);
-   
-    for file in os.listdir(folder):
-        if(file.find(searchedString) != -1):
-            return searchedString;
-        
-    for file in os.listdir(folder):
-        found = TryMatchName(file, searchedString);
-        if(found):
-            return found;
+    # if the demangled name contains a for then that is what is unique for this vtable
+    forindex = n.find("for");
+    if(forindex != -1):
+        #print(n[n.find("`", forindex) + 1:n.find("'", forindex)]);
+        return n[n.find("`", forindex) + 1:n.find("'", forindex)];
+    # otherwise we want to return the first item before the ::
+    else:
+        return n[n.find(" ") + 1:n.find("::")];
+    
 
-def FindMatchingWindowsFile(fileName, folder):
-    searchedString = FindUniqueName(fileName);
-   
+def FindUniqueOSXName(string):
+    c = subprocess.run(["__cxa_demangle", string[1:-4]], stdout=subprocess.PIPE, shell=True);
+    if(c.stdout != None and c.stdout[0] != "-"):
+        #print(c.stdout);
+        # vtable name is whatever is after the for to the end
+        n = str(c.stdout);
+        return n[n.find("for ") + 5:-1];
+
+def CreateOSXFileMapping
+
+
+# assumes string is already unique
+def FindMatchingOSXFile(string, folder):
     for file in os.listdir(folder):
-        if(file.find(searchedString) != -1):
+        uniqueName = FindUniqueOSXName(file);
+        if(uniqueName == string):
+            print(string + " -- " + uniqueName);
             return file;
-        
-    for file in os.listdir(folder):
-        i = 0;
-        while(i < len(file)):
-            if(file.find(searchedString[:-i]) != -1):
-                return file;
-            i += 1;
-
-def UsesMultipleInheritance(fileName, folder):
-    searchedString = FindUniqueName(fileName);
-    foundFiles = [];
-    i = 0;
-    for file in os.listdir(folder):
-        foundIndex = file.find(searchedString)
-        if(foundIndex != -1):
-            if(file.find("@", 0, foundIndex) != -1 or file.find("@", 0, foundIndex) != foundIndex + 1):
-                # this is from inheritance not actual class name
-                # or
-                # this name is longer than we are expecting
-                continue;
-            foundFiles.append(file);
-            i += 1;
-    return i > 1, foundFiles;
 
 def ProcessContents(osx, win, file):
     win_index_offset = 0;
@@ -120,26 +107,19 @@ def ProcessContents(osx, win, file):
 def ProcessVtablePair(osx, win, file):
     with open(osx) as osx_file, open(win) as win_file:
         ProcessContents(osx_file.read().split("\n"), win_file.read().split("\n"), file);
-    
+
+# process everything windows first
 def ProcessFolderPair(osx_folder, win_folder, out_folder):
     i = 0
-    for file in os.listdir(osx_folder):
-        mi, found = UsesMultipleInheritance(file, win_folder);
-        if(mi):
-           print("----> Uses multiple inheritance!");
-           print("---->    Unique name: " + FindUniqueName(file));
-           print("----> Demangled name: " + symbol_demangle(file, False));
-           for f in found:
-               print("----> ----> " + f);
+    for file in os.listdir(win_folder):
+        if(file.find("CUser") != -1):
+            print(FindMatchingOSXFile(FindUniqueWindowsName(file), osx_folder));
 
-        n, _ = msvcDemangler.symbol_demangle("??" + FindMatchingWindowsFile(FindUniqueName(file), win_folder)[2:-4], False);
-        print("----> Demangled name: " + n);
+        #osx_file = FindMatchingWindowsFile(file, win_folder);
 
-        win_file = FindMatchingWindowsFile(file, win_folder);
-
-        out_file = out_folder + "/" + file;
+        #out_file = out_folder + "/" + file;
         #print(out_file);
-        ProcessVtablePair(osx_folder + "/" + file, win_folder + "/" + win_file, out_file);
+        #ProcessVtablePair(osx_folder + "/" + file, win_folder + "/" + win_file, out_file);
         
 # main
 for file in os.listdir():

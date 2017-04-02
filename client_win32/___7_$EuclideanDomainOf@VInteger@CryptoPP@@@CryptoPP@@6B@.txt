@@ -1,0 +1,29 @@
+// ___7_$EuclideanDomainOf@VInteger@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE2C84
+// from "client.dll", by ida_vtables.idc
+0	sub_108E0770
+1	sub_108E3B90
+2	sub_108EF3A0
+3	sub_108E08C0
+4	sub_108E3D10
+5	sub_10017FE0
+6	sub_108E3900
+7	sub_108EF0D0
+8	sub_108E0810
+9	sub_108E5D30
+10	sub_108DE4C0
+11	sub_108DD440
+12	sub_108DE590
+13	sub_108E4290
+14	sub_108E4920
+15	sub_108E4AF0
+16	sub_108E4930
+17	sub_108EEFB0
+18	sub_108E31E0
+19	sub_108DDC40
+20	sub_108DD3D0
+21	sub_108DE570
+22	sub_108DDFA0
+23	sub_108E38E0
+24	sub_108E45B0
+25	sub_108DDD70

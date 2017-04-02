@@ -1,0 +1,34 @@
+// ___7C_PhysPropClientside@@6BIBreakableWithPropData@@@
+// Auto reconstructed from vtable block @ 0x109CF268
+// from "client.dll", by ida_vtables.idc
+0	sub_106A9D80
+1	sub_10236D50
+2	sub_10330790
+3	sub_1032F580
+4	sub_10662410
+5	sub_1032F590
+6	sub_103307D0
+7	sub_103307B0
+8	sub_1032F5B0
+9	sub_1032F5A0
+10	sub_10330830
+11	sub_10824810
+12	sub_10330770
+13	sub_10697450
+14	public: void thiscall Concurrency::details::ContextBase::SetExecutingCollection(class Concurrency::details::_TaskCollectionBase near *)
+15	sub_1032F570
+16	sub_107B6860
+17	sub_10922570
+18	public: void thiscall Concurrency::source_link_manager<class Concurrency::multi_link_registry<class Concurrency::ISource<enum  Concurrency::agent_status>>>::set_bound(unsigned int)
+19	sub_1032F5F0
+20	sub_10330860
+21	sub_10330880
+22	sub_10330800
+23	sub_1032F600
+24	sub_10330840
+25	sub_106BCB50
+26	nullsub_4
+27	sub_10091570
+28	sub_1020B8A0
+29	sub_1032F560
+30	const C_PhysPropClientside::`RTTI Complete Object Locator'{for `IMultiplayerPhysics'}

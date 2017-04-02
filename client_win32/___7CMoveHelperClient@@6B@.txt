@@ -1,0 +1,16 @@
+// ___7CMoveHelperClient@@6B@
+// Auto reconstructed from vtable block @ 0x109CC384
+// from "client.dll", by ida_vtables.idc
+0	sub_1030CE50
+1	sub_1030D030
+2	sub_1030CC90
+3	sub_1030CF50
+4	sub_1030CE00
+5	sub_1030D0C0
+6	sub_1030D040
+7	nullsub_13
+8	sub_100166E0
+9	nullsub_4
+10	sub_1030CE60
+11	sub_1030CF00
+12	sub_1030CC20

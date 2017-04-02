@@ -1,0 +1,5 @@
+// ___7CBaseRopePhysics@@6B@
+// Auto reconstructed from vtable block @ 0x109D31A8
+// from "client.dll", by ida_vtables.idc
+0	sub_10344A50
+1	sub_103448E0

@@ -1,0 +1,19 @@
+// ___7CHudBowChargeMeter@@6B@
+// Auto reconstructed from vtable block @ 0x10A5FEE4
+// from "client.dll", by ida_vtables.idc
+0	sub_10516A20
+1	sub_10518FF0
+2	sub_10519450
+3	nullsub_1
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_10519560
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CHudBowChargeMeter::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

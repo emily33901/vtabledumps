@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@PrecacheSmokeFogOverlay@@6B@
+// Auto reconstructed from vtable block @ 0x10A20920
+// from "client.dll", by ida_vtables.idc
+0	sub_10493850

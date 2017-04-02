@@ -1,0 +1,34 @@
+// ___7IBreakableWithPropData@@6B@
+// Auto reconstructed from vtable block @ 0x109CED84
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	sub_108A465B
+7	sub_108A465B
+8	sub_108A465B
+9	sub_108A465B
+10	sub_108A465B
+11	sub_108A465B
+12	sub_108A465B
+13	sub_108A465B
+14	sub_108A465B
+15	sub_108A465B
+16	sub_108A465B
+17	sub_108A465B
+18	sub_108A465B
+19	sub_108A465B
+20	sub_108A465B
+21	sub_108A465B
+22	sub_108A465B
+23	sub_108A465B
+24	sub_108A465B
+25	sub_108A465B
+26	sub_108A465B
+27	sub_108A465B
+28	sub_108A465B
+29	sub_108A465B
+30	const C_PhysPropClientside::`RTTI Complete Object Locator'

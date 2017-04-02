@@ -1,0 +1,6 @@
+// ___7CHudMainMenuOverride@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A75DF0
+// from "client.dll", by ida_vtables.idc
+0	loc_1053A2FE
+1	sub_1053C100
+2	const CHudMainMenuOverride::`RTTI Complete Object Locator'{for `CLocalSteamSharedObjectListener'}

@@ -1,0 +1,5 @@
+// ___7C_TFTankBoss@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10AB6248
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const C_TFTankBoss::`RTTI Complete Object Locator'{for `C_TFMvMBossProgressUser'}

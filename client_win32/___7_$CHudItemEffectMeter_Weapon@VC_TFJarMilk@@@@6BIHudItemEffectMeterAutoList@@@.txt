@@ -1,0 +1,4 @@
+// ___7_$CHudItemEffectMeter_Weapon@VC_TFJarMilk@@@@6BIHudItemEffectMeterAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A6E7D8
+// from "client.dll", by ida_vtables.idc
+0	sub_105335D5

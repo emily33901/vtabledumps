@@ -1,0 +1,15 @@
+// ___7FocusNavGroup@vgui@@6B@
+// Auto reconstructed from vtable block @ 0x10BD02C8
+// from "client.dll", by ida_vtables.idc
+0	sub_1087FAD0
+1	sub_108801F0
+2	sub_1087FAC0
+3	sub_1087FA70
+4	sub_1087F9F0
+5	sub_1087FDF0
+6	sub_1087FB20
+7	sub_1087FA80
+8	sub_10880180
+9	sub_10880240
+10	sub_108800A0
+11	const vgui::BuildModeDialog::`RTTI Complete Object Locator'

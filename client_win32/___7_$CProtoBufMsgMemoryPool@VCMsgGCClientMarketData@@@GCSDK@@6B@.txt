@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGCClientMarketData@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F4160
+// from "client.dll", by ida_vtables.idc
+0	sub_1040B3E0
+1	sub_1040BA20
+2	sub_1040C060
+3	sub_1039C610
+4	const CConfirmDeleteDialog::`RTTI Complete Object Locator'

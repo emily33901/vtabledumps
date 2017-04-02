@@ -1,0 +1,44 @@
+// ___7CViewRender@@6B@
+// Auto reconstructed from vtable block @ 0x109DC748
+// from "client.dll", by ida_vtables.idc
+0	sub_10367360
+1	sub_10367450
+2	sub_103674B0
+3	sub_10368470
+4	sub_10367510
+5	sub_10367670
+6	sub_1037DD00
+7	sub_10367190
+8	sub_10368530
+9	sub_10368590
+10	sub_103671D0
+11	sub_103800B0
+12	sub_103F2A70
+13	sub_103672D0
+14	sub_10366F50
+15	sub_10366B90
+16	sub_1037F360
+17	sub_1037F340
+18	sub_1037C8F0
+19	sub_10366F70
+20	sub_1037F540
+21	sub_1037C5C0
+22	sub_10368630
+23	sub_10368650
+24	sub_10368610
+25	sub_103685B0
+26	sub_1037DAF0
+27	sub_10367350
+28	sub_103672E0
+29	sub_1037C590
+30	sub_1037BFB0
+31	sub_1037F450
+32	sub_103801F0
+33	sub_1037BF10
+34	sub_102AB7A0
+35	sub_1037DC80
+36	nullsub_4
+37	nullsub_4
+38	sub_10368460
+39	sub_10380500
+40	const CViewRender::`RTTI Complete Object Locator'{for `IReplayScreenshotSystem'}

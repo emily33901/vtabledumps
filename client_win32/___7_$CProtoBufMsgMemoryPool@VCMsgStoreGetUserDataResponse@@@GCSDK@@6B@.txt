@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgStoreGetUserDataResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A04310
+// from "client.dll", by ida_vtables.idc
+0	sub_10437620
+1	sub_10439B40
+2	sub_1043A310
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgGCStorePurchaseInit>::`RTTI Complete Object Locator'

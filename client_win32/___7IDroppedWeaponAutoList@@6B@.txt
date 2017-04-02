@@ -1,0 +1,5 @@
+// ___7IDroppedWeaponAutoList@@6B@
+// Auto reconstructed from vtable block @ 0x10AEF6D0
+// from "client.dll", by ida_vtables.idc
+0	sub_1065E060
+1	const C_TFDroppedWeapon::NetworkVar_m_Item::`RTTI Complete Object Locator'

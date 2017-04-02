@@ -1,0 +1,6 @@
+// ___7ISteamMatchmakingPingResponse@@6B@
+// Auto reconstructed from vtable block @ 0x10A9DAA8
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	const CQuickplayPanelBase::`RTTI Complete Object Locator'

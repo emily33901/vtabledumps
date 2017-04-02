@@ -1,0 +1,22 @@
+// ___7ConVar_m_pitch@@6B@
+// Auto reconstructed from vtable block @ 0x109C9948
+// from "client.dll", by ida_vtables.idc
+0	sub_10282120
+1	sub_10017FE0
+2	sub_108075D0
+3	sub_10806D90
+4	sub_10807280
+5	sub_10807270
+6	sub_108075F0
+7	sub_10807250
+8	sub_108071C0
+9	sub_10807290
+10	sub_108074F0
+11	sub_10807360
+12	sub_10807430
+13	sub_10806F40
+14	sub_10806E50
+15	sub_10302B50
+16	sub_10282410
+17	sub_10282150
+18	const ConVar_m_pitch::`RTTI Complete Object Locator'{for `IConVar'}

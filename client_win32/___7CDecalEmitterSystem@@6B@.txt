@@ -1,0 +1,7 @@
+// ___7CDecalEmitterSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109B657C
+// from "client.dll", by ida_vtables.idc
+0	sub_102A84B0
+1	sub_102A85B0
+2	sub_102A9B00
+3	const CDecalEmitterSystem::`RTTI Complete Object Locator'{for `CAutoGameSystem'}

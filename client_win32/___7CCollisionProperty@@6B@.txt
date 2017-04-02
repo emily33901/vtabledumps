@@ -1,0 +1,27 @@
+// ___7CCollisionProperty@@6B@
+// Auto reconstructed from vtable block @ 0x109B53B8
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_103F2A70
+2	sub_10803230
+3	sub_102443A0
+4	sub_10244390
+5	sub_102A3EE0
+6	sub_102A3BA0
+7	sub_102A3BC0
+8	sub_102A29D0
+9	sub_102A29C0
+10	sub_102A29E0
+11	sub_102A2990
+12	sub_102A2430
+13	sub_102A2A30
+14	sub_102429D0
+15	sub_102A29F0
+16	sub_102A29B0
+17	sub_102A3DC0
+18	sub_102A3B40
+19	sub_102A2A10
+20	nullsub_4
+21	nullsub_1
+22	sub_102A2A00
+23	const CDirtySpatialPartitionEntityList::`RTTI Complete Object Locator'

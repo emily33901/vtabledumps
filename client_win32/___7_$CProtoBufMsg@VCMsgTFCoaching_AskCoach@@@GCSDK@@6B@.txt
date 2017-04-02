@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgTFCoaching_AskCoach@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4DF1C
+// from "client.dll", by ida_vtables.idc
+0	sub_104F4440
+1	sub_103E0260
+2	const CGCCoaching_CoachJoinGame::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7C_BaseFlex@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x1099BE14
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const CFlexSceneFileManager::`RTTI Complete Object Locator'

@@ -1,0 +1,19 @@
+// ___7CHudItemAttributeTracker@@6B@
+// Auto reconstructed from vtable block @ 0x10A6C430
+// from "client.dll", by ida_vtables.idc
+0	loc_1052E430
+1	sub_1052EF00
+2	nullsub_1
+3	nullsub_1
+4	sub_1052FE90
+5	sub_1052FEE0
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_10532240
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CHudItemAttributeTracker::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

@@ -1,0 +1,5 @@
+// ___7C_RobotDispenser@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10AA2118
+// from "client.dll", by ida_vtables.idc
+0	sub_105A62A8
+1	const C_TFRobotDestruction_Robot::`RTTI Complete Object Locator'

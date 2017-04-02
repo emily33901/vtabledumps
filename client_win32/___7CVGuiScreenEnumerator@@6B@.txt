@@ -1,0 +1,4 @@
+// ___7CVGuiScreenEnumerator@@6B@
+// Auto reconstructed from vtable block @ 0x109B0C74
+// from "client.dll", by ida_vtables.idc
+0	sub_1027F960

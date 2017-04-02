@@ -1,0 +1,4 @@
+// ___7C_TFViewModel@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10AA8D08
+// from "client.dll", by ida_vtables.idc
+0	sub_10218F60

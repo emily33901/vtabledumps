@@ -1,0 +1,6 @@
+// ___7C_TFPlayer@@6BC_TFMvMBossProgressUser@@@
+// Auto reconstructed from vtable block @ 0x10A433A8
+// from "client.dll", by ida_vtables.idc
+0	sub_104CAC14
+1	sub_104D2FB0
+2	sub_104D2FD0

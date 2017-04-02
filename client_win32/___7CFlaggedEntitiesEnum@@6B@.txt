@@ -1,0 +1,4 @@
+// ___7CFlaggedEntitiesEnum@@6B@
+// Auto reconstructed from vtable block @ 0x109B2C50
+// from "client.dll", by ida_vtables.idc
+0	sub_10284D90

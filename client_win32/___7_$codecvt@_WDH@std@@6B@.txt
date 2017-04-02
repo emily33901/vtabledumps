@@ -1,0 +1,5 @@
+// ___7_$codecvt@_WDH@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD4764
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_83
+1	sub_103DAF70

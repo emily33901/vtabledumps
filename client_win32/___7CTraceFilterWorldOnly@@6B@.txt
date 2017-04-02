@@ -1,0 +1,6 @@
+// ___7CTraceFilterWorldOnly@@6B@
+// Auto reconstructed from vtable block @ 0x109AB1B4
+// from "client.dll", by ida_vtables.idc
+0	sub_10887630
+1	sub_10073060
+2	const C_RopeKeyframe::CPhysicsDelegate::`RTTI Complete Object Locator'

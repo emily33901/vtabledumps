@@ -1,0 +1,12 @@
+// ___7_$CAttributeIterator_GetTypedAttributeValue@VCAttribute_WorldItemPlacement@@V1@@@6B@
+// Auto reconstructed from vtable block @ 0x109E9620
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C260
+1	sub_103C3930
+2	sub_1038D8D0
+3	sub_1038D8D0
+4	sub_1038D8D0
+5	sub_1038D8D0
+6	sub_1038D8D0
+7	sub_1038D8D0
+8	const CAttributeIterator_GetTypedAttributeValue<float,float>::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7C_ObjectSapper@@6BITargetIDProvidesHint@@@
+// Auto reconstructed from vtable block @ 0x10A3D12C
+// from "client.dll", by ida_vtables.idc
+0	sub_104B8190
+1	const C_ObjectSapper::`RTTI Complete Object Locator'{for `IBaseObjectAutoList'}

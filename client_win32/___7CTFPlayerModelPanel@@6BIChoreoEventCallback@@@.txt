@@ -1,0 +1,8 @@
+// ___7CTFPlayerModelPanel@@6BIChoreoEventCallback@@@
+// Auto reconstructed from vtable block @ 0x10ADEB30
+// from "client.dll", by ida_vtables.idc
+0	sub_10642A70
+1	sub_1063F290
+2	sub_10640F10
+3	sub_102735A0
+4	const CTFPlayerModelPanel::`RTTI Complete Object Locator'{for `IHasLocalToGlobalFlexSettings'}

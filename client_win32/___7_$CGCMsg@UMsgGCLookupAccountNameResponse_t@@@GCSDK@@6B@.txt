@@ -1,0 +1,5 @@
+// ___7_$CGCMsg@UMsgGCLookupAccountNameResponse_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E50A0
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const CGCLookupMultipleAccountsNameResponse::`RTTI Complete Object Locator'

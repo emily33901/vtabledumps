@@ -1,0 +1,14 @@
+// ___7CAchievementMgr@@6BIAchievementMgr@@@
+// Auto reconstructed from vtable block @ 0x10986E20
+// from "client.dll", by ida_vtables.idc
+0	sub_101FE570
+1	sub_101FE530
+2	sub_1020F5B0
+3	sub_101FE750
+4	sub_101FD7A0
+5	sub_101FFC20
+6	sub_101FDE40
+7	sub_101FDE60
+8	sub_10200AF0
+9	sub_101FE640
+10	sub_102011C0

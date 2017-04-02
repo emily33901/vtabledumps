@@ -1,0 +1,11 @@
+// ___7CTFPlayerShared@@6B@
+// Auto reconstructed from vtable block @ 0x10A99E68
+// from "client.dll", by ida_vtables.idc
+0	sub_10588660
+1	nullsub_4
+2	sub_1058C630
+3	nullsub_4
+4	nullsub_1
+5	sub_10591330
+6	sub_10590E40
+7	const CTargetOnlyFilter::`RTTI Complete Object Locator'

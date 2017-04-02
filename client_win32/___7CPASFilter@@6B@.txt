@@ -1,0 +1,9 @@
+// ___7CPASFilter@@6B@
+// Auto reconstructed from vtable block @ 0x109942C4
+// from "client.dll", by ida_vtables.idc
+0	sub_102151C0
+1	sub_101D8A70
+2	sub_10017FE0
+3	sub_1034EAB0
+4	sub_10471350
+5	const CPASAttenuationFilter::`RTTI Complete Object Locator'

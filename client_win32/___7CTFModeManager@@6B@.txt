@@ -1,0 +1,8 @@
+// ___7CTFModeManager@@6B@
+// Auto reconstructed from vtable block @ 0x10A4708C
+// from "client.dll", by ida_vtables.idc
+0	sub_104E4630
+1	nullsub_2
+2	sub_104E4C10
+3	sub_104E4C70
+4	nullsub_4

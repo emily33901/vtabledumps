@@ -1,0 +1,6 @@
+// ___7C_CTFGameStats@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A40528
+// from "client.dll", by ida_vtables.idc
+0	sub_104C2030
+1	sub_104C3160
+2	const C_CTFGameStats::`RTTI Complete Object Locator'{for `CAutoGameSystem'}

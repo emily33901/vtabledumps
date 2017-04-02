@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgCraftHalloweenOffering@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC6C88
+// from "client.dll", by ida_vtables.idc
+0	loc_10600F30
+1	sub_103E0260

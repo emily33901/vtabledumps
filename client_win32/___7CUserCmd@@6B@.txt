@@ -1,0 +1,5 @@
+// ___7CUserCmd@@6B@
+// Auto reconstructed from vtable block @ 0x10973B90
+// from "client.dll", by ida_vtables.idc
+0	sub_102FF730
+1	const C_ReplayCamera::`RTTI Complete Object Locator'

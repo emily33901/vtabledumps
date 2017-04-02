@@ -1,0 +1,13 @@
+// ___7CBasePresence@@6B@
+// Auto reconstructed from vtable block @ 0x10995850
+// from "client.dll", by ida_vtables.idc
+0	nullsub_3
+1	nullsub_11
+2	nullsub_2
+3	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+4	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+5	nullsub_3
+6	nullsub_2
+7	nullsub_5
+8	nullsub_1
+9	const CBasePresence::`RTTI Complete Object Locator'{for `CAutoGameSystemPerFrame'}

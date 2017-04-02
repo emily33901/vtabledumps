@@ -1,0 +1,4 @@
+// ___7CTFWeaponInfo@@6B@
+// Auto reconstructed from vtable block @ 0x10B05AFC
+// from "client.dll", by ida_vtables.idc
+0	sub_10673300

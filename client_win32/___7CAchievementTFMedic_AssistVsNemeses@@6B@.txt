@@ -1,0 +1,29 @@
+// ___7CAchievementTFMedic_AssistVsNemeses@@6B@
+// Auto reconstructed from vtable block @ 0x10A2BC3C
+// from "client.dll", by ida_vtables.idc
+0	sub_104B3700
+1	sub_10495440
+2	sub_104A4D80
+3	nullsub_1
+4	sub_104A3A00
+5	sub_100166E0
+6	nullsub_1
+7	sub_1020B810
+8	sub_1020B7E0
+9	sub_1020B5C0
+10	sub_10495F70
+11	sub_10017FE0
+12	sub_10017FE0
+13	sub_10017FE0
+14	nullsub_1
+15	sub_1020B7B0
+16	nullsub_1
+17	nullsub_1
+18	nullsub_4
+19	sub_1020B330
+20	sub_1020AF60
+21	nullsub_1
+22	nullsub_4
+23	sub_1020B030
+24	sub_1020B320
+25	const CAchievementTFMedic_AssistVsNemeses::`RTTI Complete Object Locator'{for `IAchievement'}

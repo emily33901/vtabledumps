@@ -1,0 +1,5 @@
+// ___7CFlexAnimationTrack@@6B@
+// Auto reconstructed from vtable block @ 0x10B6BA54
+// from "client.dll", by ida_vtables.idc
+0	sub_106A5E40
+1	const CChoreoEvent::`RTTI Complete Object Locator'

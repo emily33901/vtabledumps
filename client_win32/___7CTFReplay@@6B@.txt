@@ -1,0 +1,33 @@
+// ___7CTFReplay@@6B@
+// Auto reconstructed from vtable block @ 0x10A15ACC
+// from "client.dll", by ida_vtables.idc
+0	sub_1045ED10
+1	unknown_libname_9
+2	sub_10007190
+3	sub_1045F9A0
+4	sub_1045F9C0
+5	sub_10802640
+6	sub_108021F0
+7	sub_10802560
+8	sub_10802210
+9	sub_102D5170
+10	sub_102A0800
+11	sub_101D3030
+12	nullsub_1
+13	sub_104D0A90
+14	nullsub_1
+15	sub_1045EDA0
+16	unknown_libname_15
+17	sub_1045F910
+18	sub_1045F960
+19	sub_1045F950
+20	sub_101D3340
+21	sub_1045F6F0
+22	sub_1045F710
+23	sub_1045F720
+24	sub_1045F6B0
+25	sub_1045F810
+26	sub_1045F830
+27	sub_1045F5E0
+28	sub_1045F790
+29	const CTFReplay::`RTTI Complete Object Locator'{for `IQueryableReplayItem'}

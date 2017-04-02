@@ -1,0 +1,8 @@
+// ___7C_EconWearableGib@@6BIHasAttributes@@@
+// Auto reconstructed from vtable block @ 0x109EBB3C
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F360
+1	sub_1020F360
+2	sub_1020F370
+3	sub_1020F350
+4	sub_103896E0

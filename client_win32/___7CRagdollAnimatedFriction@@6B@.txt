@@ -1,0 +1,5 @@
+// ___7CRagdollAnimatedFriction@@6B@
+// Auto reconstructed from vtable block @ 0x109D2FA0
+// from "client.dll", by ida_vtables.idc
+0	sub_103425A0
+1	nullsub_4

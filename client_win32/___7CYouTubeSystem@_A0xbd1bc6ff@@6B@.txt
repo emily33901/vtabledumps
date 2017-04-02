@@ -1,0 +1,21 @@
+// ___7CYouTubeSystem@_A0xbd1bc6ff@@6B@
+// Auto reconstructed from vtable block @ 0x1097422C
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_101DB470
+2	nullsub_1
+3	sub_101DD380
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	nullsub_1
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	sub_101DA1B0
+14	nullsub_1
+15	sub_101DD6A0
+16	nullsub_1
+17	const CYouTubeJob::`RTTI Complete Object Locator'

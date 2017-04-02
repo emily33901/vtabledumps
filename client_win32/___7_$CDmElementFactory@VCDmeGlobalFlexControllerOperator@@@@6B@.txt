@@ -1,0 +1,7 @@
+// ___7_$CDmElementFactory@VCDmeGlobalFlexControllerOperator@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB2234
+// from "client.dll", by ida_vtables.idc
+0	sub_107CB4A0
+1	sub_107CB550
+2	sub_107CBE90
+3	sub_10017FE0

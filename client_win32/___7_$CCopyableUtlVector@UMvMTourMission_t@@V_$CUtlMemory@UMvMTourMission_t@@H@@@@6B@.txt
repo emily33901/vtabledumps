@@ -1,0 +1,5 @@
+// ___7_$CCopyableUtlVector@UMvMTourMission_t@@V_$CUtlMemory@UMvMTourMission_t@@H@@@@6B@
+// Auto reconstructed from vtable block @ 0x109E96BC
+// from "client.dll", by ida_vtables.idc
+0	sub_103CDD40
+1	const CEconItemSystem::`RTTI Complete Object Locator'

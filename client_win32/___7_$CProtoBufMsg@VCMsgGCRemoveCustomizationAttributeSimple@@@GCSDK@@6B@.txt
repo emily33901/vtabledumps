@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgGCRemoveCustomizationAttributeSimple@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F32E4
+// from "client.dll", by ida_vtables.idc
+0	loc_103FC640
+1	sub_103E0260
+2	const GCSDK::CGCMsg<struct MsgGCRemoveItemName_t>::`RTTI Complete Object Locator'

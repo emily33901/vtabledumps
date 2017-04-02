@@ -1,0 +1,5 @@
+// ___7CRagdollExplosionEnumerator@@6B@
+// Auto reconstructed from vtable block @ 0x10A1E1A4
+// from "client.dll", by ida_vtables.idc
+0	sub_1047FC10
+1	const C_TEExplosion::`RTTI Complete Object Locator'

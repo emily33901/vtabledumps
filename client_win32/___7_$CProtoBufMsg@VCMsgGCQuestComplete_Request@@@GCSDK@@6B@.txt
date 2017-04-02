@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgGCQuestComplete_Request@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10ACAB54
+// from "client.dll", by ida_vtables.idc
+0	loc_10607600
+1	sub_103E0260

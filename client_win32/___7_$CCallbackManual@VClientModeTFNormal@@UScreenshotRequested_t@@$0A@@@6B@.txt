@@ -1,0 +1,7 @@
+// ___7_$CCallbackManual@VClientModeTFNormal@@UScreenshotRequested_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x10A46D98
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_105BDCE0
+2	sub_10073060
+3	const ClientModeTFNormal::`RTTI Complete Object Locator'

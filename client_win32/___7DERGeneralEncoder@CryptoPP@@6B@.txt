@@ -1,0 +1,8 @@
+// ___7DERGeneralEncoder@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE2E68
+// from "client.dll", by ida_vtables.idc
+0	sub_108EFDB0
+1	loc_10887290
+2	sub_10887010
+3	loc_108D7D90
+4	sub_10017FE0

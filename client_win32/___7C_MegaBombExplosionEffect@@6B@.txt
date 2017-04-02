@@ -1,0 +1,10 @@
+// ___7C_MegaBombExplosionEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109B96DC
+// from "client.dll", by ida_vtables.idc
+0	sub_102B6D70
+1	nullsub_1
+2	sub_102B8710
+3	nullsub_1
+4	nullsub_1
+5	sub_102B9EA0
+6	const PrecacheEffectExplosion::ClientEffectRegister::`RTTI Complete Object Locator'

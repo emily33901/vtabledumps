@@ -1,0 +1,8 @@
+// ___7CDmeOperator@@6B@
+// Auto reconstructed from vtable block @ 0x10BB10D0
+// from "client.dll", by ida_vtables.idc
+0	sub_107C8490
+1	nullsub_1
+2	nullsub_4
+3	nullsub_4
+4	const CDmeOperator::`RTTI Complete Object Locator'{for `CDmElement'}

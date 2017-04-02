@@ -1,0 +1,11 @@
+// ___7CIconRenderReceiver@@6B@
+// Auto reconstructed from vtable block @ 0x109FBEEC
+// from "client.dll", by ida_vtables.idc
+0	sub_1041AA10
+1	sub_104203D0
+2	sub_1041E320
+3	nullsub_2
+4	nullsub_3
+5	nullsub_5
+6	sub_10007190
+7	sub_1041A940

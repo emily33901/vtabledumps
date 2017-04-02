@@ -1,0 +1,6 @@
+// ___7C_TFThrowable@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B1C1D4
+// from "client.dll", by ida_vtables.idc
+0	sub_10678D2C
+1	sub_10683170
+2	const C_TFThrowable::`RTTI Complete Object Locator'{for `ITFChargeUpWeapon'}

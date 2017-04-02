@@ -1,0 +1,8 @@
+// ___7CUniformNoiseProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109CB5AC
+// from "client.dll", by ida_vtables.idc
+0	sub_10307CD0
+1	sub_10308AC0
+2	sub_1059A8D0
+3	sub_103850F0
+4	sub_10307940

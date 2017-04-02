@@ -1,0 +1,19 @@
+// ___7CHudDamageIndicator@@6B@
+// Auto reconstructed from vtable block @ 0x10A6468C
+// from "client.dll", by ida_vtables.idc
+0	sub_1051E4C0
+1	nullsub_4
+2	sub_1051ECF0
+3	nullsub_1
+4	nullsub_1
+5	nullsub_1
+6	sub_1051F330
+7	nullsub_1
+8	sub_103E0260
+9	sub_1051F380
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CHudDamageIndicator::`RTTI Complete Object Locator'{for `vgui::Panel'}

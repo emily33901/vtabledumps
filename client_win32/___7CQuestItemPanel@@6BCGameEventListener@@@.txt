@@ -1,0 +1,5 @@
+// ___7CQuestItemPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10ACA2C0
+// from "client.dll", by ida_vtables.idc
+0	sub_106075F3
+1	sub_106081D0

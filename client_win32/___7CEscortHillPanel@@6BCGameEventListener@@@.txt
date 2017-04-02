@@ -1,0 +1,5 @@
+// ___7CEscortHillPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A67A04
+// from "client.dll", by ida_vtables.idc
+0	sub_102F6B43
+1	sub_10524EA0

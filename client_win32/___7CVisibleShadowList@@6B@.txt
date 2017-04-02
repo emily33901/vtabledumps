@@ -1,0 +1,4 @@
+// ___7CVisibleShadowList@@6B@
+// Auto reconstructed from vtable block @ 0x109B4728
+// from "client.dll", by ida_vtables.idc
+0	sub_1029AFC0

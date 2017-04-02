@@ -1,0 +1,6 @@
+// ___7C_TFWearable@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109EE46C
+// from "client.dll", by ida_vtables.idc
+0	sub_1067F566
+1	sub_103F1400
+2	const C_TFWearableVM::`RTTI Complete Object Locator'

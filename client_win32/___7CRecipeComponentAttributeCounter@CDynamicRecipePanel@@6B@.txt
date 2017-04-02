@@ -1,0 +1,12 @@
+// ___7CRecipeComponentAttributeCounter@CDynamicRecipePanel@@6B@
+// Auto reconstructed from vtable block @ 0x10AC56E8
+// from "client.dll", by ida_vtables.idc
+0	sub_105FCA80
+1	sub_1038D8D0
+2	sub_1038D8D0
+3	sub_105FF170
+4	sub_1038D8D0
+5	sub_1038D8D0
+6	sub_1038D8D0
+7	sub_1038D8D0
+8	const CDynamicRecipePanel::CDynamicRecipeItemMatchFind::`RTTI Complete Object Locator'

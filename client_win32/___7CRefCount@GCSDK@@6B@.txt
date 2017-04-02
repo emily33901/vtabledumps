@@ -1,0 +1,6 @@
+// ___7CRefCount@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6CAE4
+// from "client.dll", by ida_vtables.idc
+0	sub_106BC860
+1	unknown_libname_35
+2	const GCSDK::CProtoBufNetPacket::`RTTI Complete Object Locator'

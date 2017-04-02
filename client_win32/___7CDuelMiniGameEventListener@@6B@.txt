@@ -1,0 +1,5 @@
+// ___7CDuelMiniGameEventListener@@6B@
+// Auto reconstructed from vtable block @ 0x10A4F9B8
+// from "client.dll", by ida_vtables.idc
+0	sub_10330F00
+1	sub_104FA130

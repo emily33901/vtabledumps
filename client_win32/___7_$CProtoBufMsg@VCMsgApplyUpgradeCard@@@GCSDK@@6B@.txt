@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgApplyUpgradeCard@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A0C3B4
+// from "client.dll", by ida_vtables.idc
+0	sub_10449F80
+1	sub_103E0260

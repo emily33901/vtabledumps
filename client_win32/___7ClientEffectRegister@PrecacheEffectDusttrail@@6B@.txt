@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@PrecacheEffectDusttrail@@6B@
+// Auto reconstructed from vtable block @ 0x10A1C4E8
+// from "client.dll", by ida_vtables.idc
+0	sub_10472F20

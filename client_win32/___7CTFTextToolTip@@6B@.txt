@@ -1,0 +1,14 @@
+// ___7CTFTextToolTip@@6B@
+// Auto reconstructed from vtable block @ 0x10A50EB0
+// from "client.dll", by ida_vtables.idc
+0	sub_104FE2A0
+1	sub_10091570
+2	sub_10876BC0
+3	sub_1053C820
+4	sub_10624FA0
+5	sub_10625130
+6	nullsub_4
+7	sub_104FE0C0
+8	sub_104FDEC0
+9	sub_104FDF90
+10	sub_1060C4E0

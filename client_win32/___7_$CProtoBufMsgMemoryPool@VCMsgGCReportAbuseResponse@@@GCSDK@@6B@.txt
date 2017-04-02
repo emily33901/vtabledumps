@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGCReportAbuseResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109866E4
+// from "client.dll", by ida_vtables.idc
+0	sub_101FA390
+1	sub_101FB4B0
+2	sub_101FB6F0
+3	sub_1039C610
+4	const CAchievementNotificationPanel::`RTTI Complete Object Locator'

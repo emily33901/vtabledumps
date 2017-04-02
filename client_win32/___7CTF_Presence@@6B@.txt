@@ -1,0 +1,13 @@
+// ___7CTF_Presence@@6B@
+// Auto reconstructed from vtable block @ 0x10A9C2DC
+// from "client.dll", by ida_vtables.idc
+0	nullsub_3
+1	nullsub_11
+2	sub_10599AA0
+3	sub_105997E0
+4	sub_10599980
+5	sub_10599860
+6	nullsub_2
+7	nullsub_5
+8	nullsub_1
+9	const CTF_Presence::`RTTI Complete Object Locator'{for `CAutoGameSystemPerFrame'}

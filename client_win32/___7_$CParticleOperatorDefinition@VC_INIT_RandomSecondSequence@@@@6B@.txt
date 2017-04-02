@@ -1,0 +1,10 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_RandomSecondSequence@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB7FF0
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1BF0
+2	sub_107F2390
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107F1F00
+6	const C_INIT_RemapCPtoScalar::`RTTI Complete Object Locator'

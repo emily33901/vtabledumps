@@ -1,0 +1,5 @@
+// ___7CTFHudPasstimeBallStatus@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A85BB8
+// from "client.dll", by ida_vtables.idc
+0	sub_1055B434
+1	sub_1055C360

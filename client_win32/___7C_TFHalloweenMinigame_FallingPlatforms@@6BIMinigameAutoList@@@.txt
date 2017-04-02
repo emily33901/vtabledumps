@@ -1,0 +1,5 @@
+// ___7C_TFHalloweenMinigame_FallingPlatforms@@6BIMinigameAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A96B68
+// from "client.dll", by ida_vtables.idc
+0	sub_105818C5
+1	const C_TFMinigameLogic::`RTTI Complete Object Locator'

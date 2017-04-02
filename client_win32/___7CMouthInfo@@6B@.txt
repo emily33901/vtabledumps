@@ -1,0 +1,5 @@
+// ___7CMouthInfo@@6B@
+// Auto reconstructed from vtable block @ 0x10997360
+// from "client.dll", by ida_vtables.idc
+0	sub_1022CA90
+1	const CInterpolatedVarArrayBase<float,1>::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7CTFTeamMenu@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AE38EC
+// from "client.dll", by ida_vtables.idc
+0	loc_10650D0B
+1	sub_106510E0

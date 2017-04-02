@@ -1,0 +1,9 @@
+// ___7CClassMap@@6B@
+// Auto reconstructed from vtable block @ 0x109B2CAC
+// from "client.dll", by ida_vtables.idc
+0	sub_10285F20
+1	sub_10285F90
+2	sub_10286D30
+3	sub_102860B0
+4	sub_10286440
+5	const CClientThinkList::`RTTI Complete Object Locator'

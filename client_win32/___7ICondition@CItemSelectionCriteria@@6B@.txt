@@ -1,0 +1,10 @@
+// ___7ICondition@CItemSelectionCriteria@@6B@
+// Auto reconstructed from vtable block @ 0x109EC150
+// from "client.dll", by ida_vtables.idc
+0	sub_103E0580
+1	sub_108A465B
+2	sub_100196D0
+3	sub_10674DE0
+4	sub_10674DE0
+5	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+6	const CItemSelectionCriteria::CCondition::`RTTI Complete Object Locator'

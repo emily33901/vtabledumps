@@ -1,0 +1,5 @@
+// ___7C_TFPlayer@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10A43358
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const C_TFPlayer::`RTTI Complete Object Locator'{for `CGameEventListener'}

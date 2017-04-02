@@ -1,0 +1,7 @@
+// ___7pcharNode@@6B@
+// Auto reconstructed from vtable block @ 0x10BE0BF4
+// from "client.dll", by ida_vtables.idc
+0	sub_106BCB50
+1	public: virtual char thiscall pcharNode::getLastChar(void)const
+2	public: virtual char near * thiscall pcharNode::getString(char near *,char near *)const
+3	const pDNameNode::`RTTI Complete Object Locator'

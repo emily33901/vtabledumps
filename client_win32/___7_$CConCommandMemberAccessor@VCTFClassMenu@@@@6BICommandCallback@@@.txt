@@ -1,0 +1,5 @@
+// ___7_$CConCommandMemberAccessor@VCTFClassMenu@@@@6BICommandCallback@@@
+// Auto reconstructed from vtable block @ 0x10ACFEF8
+// from "client.dll", by ida_vtables.idc
+0	sub_1061B540
+1	const CConCommandMemberAccessor<class CTFClassMenu>::`RTTI Complete Object Locator'{for `ICommandCompletionCallback'}

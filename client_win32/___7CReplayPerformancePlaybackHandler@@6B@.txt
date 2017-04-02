@@ -1,0 +1,10 @@
+// ___7CReplayPerformancePlaybackHandler@@6B@
+// Auto reconstructed from vtable block @ 0x10973D14
+// from "client.dll", by ida_vtables.idc
+0	sub_101E47E0
+1	sub_101D79E0
+2	sub_101D7A40
+3	sub_101D7A10
+4	sub_101D79C0
+5	sub_101D7A70
+6	sub_101D7AB0

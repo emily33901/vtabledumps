@@ -1,0 +1,16 @@
+// ___7CTFClientScoreBoardDialog@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x10AD1630
+// from "client.dll", by ida_vtables.idc
+0	sub_1061DD06
+1	sub_10456556
+2	nullsub_4
+3	sub_1061FFC0
+4	sub_10620380
+5	sub_10456E90
+6	sub_100166E0
+7	sub_106201E0
+8	sub_10534B20
+9	sub_10456608
+10	sub_1060CF90
+11	sub_10457625
+12	const CTFClientScoreBoardDialog::`RTTI Complete Object Locator'{for `CGameEventListener'}

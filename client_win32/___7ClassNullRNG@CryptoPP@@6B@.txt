@@ -1,0 +1,14 @@
+// ___7ClassNullRNG@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE1D08
+// from "client.dll", by ida_vtables.idc
+0	sub_108DD350
+1	loc_10887290
+2	sub_108D5260
+3	byte_108D5D40
+4	sub_10017FE0
+5	sub_108D5900
+6	sub_108D5740
+7	sub_108D5A50
+8	byte_108D5750
+9	sub_108D5620
+10	sub_108D5920

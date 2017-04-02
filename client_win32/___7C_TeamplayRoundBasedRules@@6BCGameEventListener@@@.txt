@@ -1,0 +1,5 @@
+// ___7C_TeamplayRoundBasedRules@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109D702C
+// from "client.dll", by ida_vtables.idc
+0	sub_10357F9A
+1	nullsub_4

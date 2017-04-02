@@ -1,0 +1,24 @@
+// ___7CDetailObjectSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109B68A0
+// from "client.dll", by ida_vtables.idc
+0	sub_102ACB30
+1	sub_102ABE50
+2	nullsub_1
+3	nullsub_1
+4	sub_102AC710
+5	sub_102AC5F0
+6	nullsub_1
+7	sub_102AC9A0
+8	sub_102AC990
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_10017FE0
+13	sub_102AA140
+14	sub_102AB9A0
+15	sub_102AA2D0
+16	nullsub_2
+17	sub_102AA2A0
+18	sub_102AE320
+19	sub_102AE8E0
+20	const CDetailObjectSystem::`RTTI Complete Object Locator'{for `ISpatialLeafEnumerator'}

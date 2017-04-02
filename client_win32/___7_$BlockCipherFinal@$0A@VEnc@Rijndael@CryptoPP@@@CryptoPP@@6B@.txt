@@ -1,0 +1,19 @@
+// ___7_$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2D24
+// from "client.dll", by ida_vtables.idc
+0	sub_10886CB0
+1	sub_1001AD20
+2	sub_10017040
+3	sub_1001AD20
+4	sub_10887540
+5	sub_10887610
+6	sub_108D63C0
+7	__RTC_NumErrors
+8	sub_10091570
+9	sub_10887830
+10	sub_10887830
+11	loc_10887E10
+12	sub_108D5C50
+13	sub_102AB7A0
+14	sub_108DA1E0
+15	const CryptoPP::BlockCipherFinal<0,class CryptoPP::Rijndael::Enc>::`RTTI Complete Object Locator'{for `CryptoPP::BlockTransformation'}

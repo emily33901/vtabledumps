@@ -1,0 +1,5 @@
+// ___7_$CConCommandMemberAccessor@VCBasePresence@@@@6BICommandCompletionCallback@@@
+// Auto reconstructed from vtable block @ 0x10995848
+// from "client.dll", by ida_vtables.idc
+0	sub_10217FD0
+1	const CBasePresence::`RTTI Complete Object Locator'

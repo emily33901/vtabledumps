@@ -1,0 +1,11 @@
+// ___7CGCSOCreateJob@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6D0CC
+// from "client.dll", by ida_vtables.idc
+0	sub_106BD8D0
+1	sub_101FABC0
+2	sub_101FABE0
+3	sub_101FACB0
+4	sub_10017FE0
+5	sub_106BFB60
+6	sub_100187C0
+7	const GCSDK::CProtoBufMsg<class CMsgSOSingleObject>::`RTTI Complete Object Locator'

@@ -1,0 +1,9 @@
+// ___7CP4File_Dummy@@6B@
+// Auto reconstructed from vtable block @ 0x10BBA2E0
+// from "client.dll", by ida_vtables.idc
+0	sub_108191B0
+1	sub_100166E0
+2	sub_100166E0
+3	sub_108192D0
+4	sub_10017FE0
+5	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6

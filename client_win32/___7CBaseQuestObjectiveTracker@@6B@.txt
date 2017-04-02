@@ -1,0 +1,25 @@
+// ___7CBaseQuestObjectiveTracker@@6B@
+// Auto reconstructed from vtable block @ 0x10A4C33C
+// from "client.dll", by ida_vtables.idc
+0	sub_104EC840
+1	sub_103F4CF0
+2	sub_104EC950
+3	sub_10674DE0
+4	sub_1038D8D0
+5	sub_103F7A60
+6	sub_104D3820
+7	sub_104EC970
+8	sub_10017FE0
+9	sub_100166E0
+10	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+11	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+12	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+13	sub_103F57D0
+14	sub_103F4FC0
+15	sub_103F6AE0
+16	sub_103F64E0
+17	sub_10091570
+18	sub_10091570
+19	nullsub_4
+20	nullsub_2
+21	sub_104ECB10

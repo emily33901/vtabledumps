@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgSetHatEffectUseHeadOrigin@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC1864
+// from "client.dll", by ida_vtables.idc
+0	loc_105EDE80
+1	sub_105EEE00
+2	sub_105EF190
+3	sub_1039C610
+4	const RealTimeCountdownTimer::`RTTI Complete Object Locator'

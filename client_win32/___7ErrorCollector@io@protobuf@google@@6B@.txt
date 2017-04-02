@@ -1,0 +1,7 @@
+// ___7ErrorCollector@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA8690
+// from "client.dll", by ida_vtables.idc
+0	sub_1072D830
+1	sub_108A465B
+2	nullsub_5
+3	const google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::`RTTI Complete Object Locator'

@@ -1,0 +1,15 @@
+// ___7_$CProtoBufSharedObject@VCSOTFMatchResultPlayerStats@@$0CI@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109EEAC4
+// from "client.dll", by ida_vtables.idc
+0	sub_103F2980
+1	sub_103F2AE0
+2	sub_106C4640
+3	sub_106C4650
+4	sub_106C4670
+5	sub_106C4590
+6	sub_106C46A0
+7	sub_106C4840
+8	sub_100166E0
+9	sub_1038D1D0
+10	sub_103F2A70
+11	const CSOTFMatchResultPlayerInfo::`RTTI Complete Object Locator'

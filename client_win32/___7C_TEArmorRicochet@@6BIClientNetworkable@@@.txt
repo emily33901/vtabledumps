@@ -1,0 +1,17 @@
+// ___7C_TEArmorRicochet@@6BIClientNetworkable@@@
+// Auto reconstructed from vtable block @ 0x10A1D0F0
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F500
+1	nullsub_1
+2	sub_1047AF40
+3	nullsub_4
+4	nullsub_4
+5	nullsub_4
+6	nullsub_4
+7	sub_1047AF60
+8	sub_10017FE0
+9	sub_10091570
+10	nullsub_2
+11	sub_1020F500
+12	nullsub_1
+13	nullsub_1

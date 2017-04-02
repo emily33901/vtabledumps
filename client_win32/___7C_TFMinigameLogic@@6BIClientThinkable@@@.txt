@@ -1,0 +1,9 @@
+// ___7C_TFMinigameLogic@@6BIClientThinkable@@@
+// Auto reconstructed from vtable block @ 0x10A96EE4
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F50C
+1	nullsub_1
+2	?GetNumberOfBoundContexts@SchedulerBase@details@Concurrency@@IBEKXZ_0
+3	sub_102D7F90
+4	sub_102158A6
+5	const CTFHalloweenFortuneTeller::`RTTI Complete Object Locator'

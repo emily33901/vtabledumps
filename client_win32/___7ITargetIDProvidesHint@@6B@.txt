@@ -1,0 +1,5 @@
+// ___7ITargetIDProvidesHint@@6B@
+// Auto reconstructed from vtable block @ 0x10A38968
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	const IHasBuildPoints::`RTTI Complete Object Locator'

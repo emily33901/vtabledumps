@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgNotificationAcknowledgeReply@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB2A50
+// from "client.dll", by ida_vtables.idc
+0	loc_105B9000
+1	sub_103E0260
+2	const CJobSendMsgUntilConfirmed<class CMsgNotificationAcknowledge,class CMsgNotificationAcknowledgeReply,6530>::`RTTI Complete Object Locator'

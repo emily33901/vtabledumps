@@ -1,0 +1,16 @@
+// ___7C_ParticleSmokeGrenade@@6BIParticleEffect@@@
+// Auto reconstructed from vtable block @ 0x10A19DAC
+// from "client.dll", by ida_vtables.idc
+0	sub_1046E5B2
+1	sub_1046F770
+2	nullsub_4
+3	sub_102158C0
+4	sub_102158B0
+5	sub_1046F5F0
+6	sub_1046F1E0
+7	sub_1046F180
+8	nullsub_4
+9	sub_10215880
+10	sub_10215860
+11	sub_10215850
+12	const C_ParticleSmokeGrenade::`RTTI Complete Object Locator'{for `IPrototypeAppEffect'}

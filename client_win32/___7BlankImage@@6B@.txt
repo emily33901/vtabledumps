@@ -1,0 +1,16 @@
+// ___7BlankImage@@6B@
+// Auto reconstructed from vtable block @ 0x10BC2A7C
+// from "client.dll", by ida_vtables.idc
+0	nullsub_1
+1	nullsub_2
+2	sub_1084E400
+3	sub_1084E400
+4	nullsub_2
+5	nullsub_4
+6	sub_1085FCD0
+7	sub_10017FE0
+8	sub_10091570
+9	nullsub_4
+10	sub_10091570
+11	nullsub_4
+12	const vgui::Menu::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7CBeamSegDraw@@6B@
+// Auto reconstructed from vtable block @ 0x109969F4
+// from "client.dll", by ida_vtables.idc
+0	sub_10818020

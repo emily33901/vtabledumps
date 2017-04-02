@@ -1,0 +1,6 @@
+// ___7Exception@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2520
+// from "client.dll", by ida_vtables.idc
+0	sub_10886E40
+1	sub_10888310
+2	const CryptoPP::InvalidArgument::`RTTI Complete Object Locator'

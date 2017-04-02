@@ -1,0 +1,5 @@
+// ___7VoteBarPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109C6C44
+// from "client.dll", by ida_vtables.idc
+0	sub_102F6B43
+1	sub_102F78B0

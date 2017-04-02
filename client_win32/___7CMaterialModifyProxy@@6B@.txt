@@ -1,0 +1,10 @@
+// ___7CMaterialModifyProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109A693C
+// from "client.dll", by ida_vtables.idc
+0	sub_10264FD0
+1	sub_10265240
+2	sub_1059A8D0
+3	sub_1034EAB0
+4	sub_10264F00
+5	sub_10264F60
+6	sub_10264F30

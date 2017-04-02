@@ -1,0 +1,5 @@
+// ___7CClientEffect@@6B@
+// Auto reconstructed from vtable block @ 0x1099F068
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	const PrecacheEffectBuild::ClientEffectRegister::`RTTI Complete Object Locator'

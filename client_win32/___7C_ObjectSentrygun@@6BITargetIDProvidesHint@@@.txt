@@ -1,0 +1,5 @@
+// ___7C_ObjectSentrygun@@6BITargetIDProvidesHint@@@
+// Auto reconstructed from vtable block @ 0x10A3D700
+// from "client.dll", by ida_vtables.idc
+0	sub_104BC8E0
+1	const C_ObjectSentrygun::`RTTI Complete Object Locator'{for `IBaseObjectAutoList'}

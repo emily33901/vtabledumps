@@ -1,0 +1,4 @@
+// ___7_$CGCMsg@UMsgGCGiftWrapItem_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A07EEC
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820

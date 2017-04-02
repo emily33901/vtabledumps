@@ -1,0 +1,5 @@
+// ___7CDucksLeaderboardManager@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A51A5C
+// from "client.dll", by ida_vtables.idc
+0	sub_104FD909
+1	sub_10614420

@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgTFCoaching_AskCoachResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4DED4
+// from "client.dll", by ida_vtables.idc
+0	sub_104F4490
+1	sub_103E0260

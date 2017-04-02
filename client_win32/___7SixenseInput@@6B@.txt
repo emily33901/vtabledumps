@@ -1,0 +1,6 @@
+// ___7SixenseInput@@6B@
+// Auto reconstructed from vtable block @ 0x10A15D1C
+// from "client.dll", by ida_vtables.idc
+0	sub_10330F00
+1	sub_10460130
+2	const SixenseGUIFrame::`RTTI Complete Object Locator'

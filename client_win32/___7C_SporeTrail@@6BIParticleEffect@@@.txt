@@ -1,0 +1,15 @@
+// ___7C_SporeTrail@@6BIParticleEffect@@@
+// Auto reconstructed from vtable block @ 0x10A1C384
+// from "client.dll", by ida_vtables.idc
+0	sub_10472888
+1	sub_10476730
+2	sub_104749D0
+3	sub_102158C0
+4	sub_102158B0
+5	sub_10474380
+6	sub_10474170
+7	nullsub_1
+8	nullsub_4
+9	sub_10215880
+10	sub_10215860
+11	sub_10215850

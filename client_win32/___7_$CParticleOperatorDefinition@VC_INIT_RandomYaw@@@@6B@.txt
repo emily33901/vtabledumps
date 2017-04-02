@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_RandomYaw@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB70D8
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1CB0
+2	sub_107F23C0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_10800A20

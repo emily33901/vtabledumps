@@ -1,0 +1,29 @@
+// ___7BuildGroup@vgui@@6B@
+// Auto reconstructed from vtable block @ 0x10BC32EC
+// from "client.dll", by ida_vtables.idc
+0	sub_10854D20
+1	sub_102A0800
+2	sub_10853440
+3	sub_10853D50
+4	sub_10854C30
+5	sub_10852990
+6	sub_108535C0
+7	sub_10854B40
+8	sub_10854D10
+9	sub_101D7290
+10	sub_106EC420
+11	sub_108547A0
+12	sub_10854080
+13	sub_10854570
+14	sub_10853430
+15	sub_10854DD0
+16	sub_10854D80
+17	sub_10853660
+18	sub_10853020
+19	sub_10852CD0
+20	sub_10854070
+21	sub_10853870
+22	sub_108537C0
+23	sub_1031CE00
+24	sub_10853CD0
+25	sub_10853450

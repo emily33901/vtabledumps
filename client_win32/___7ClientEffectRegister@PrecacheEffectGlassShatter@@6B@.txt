@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecacheEffectGlassShatter@@6B@
+// Auto reconstructed from vtable block @ 0x10A1E3E8
+// from "client.dll", by ida_vtables.idc
+0	sub_10480900
+1	const C_TEShatterSurface::`RTTI Complete Object Locator'

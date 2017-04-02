@@ -1,0 +1,5 @@
+// ___7CDynamicRecipePanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AC5BF0
+// from "client.dll", by ida_vtables.idc
+0	sub_105FC8DB
+1	sub_103FFF80

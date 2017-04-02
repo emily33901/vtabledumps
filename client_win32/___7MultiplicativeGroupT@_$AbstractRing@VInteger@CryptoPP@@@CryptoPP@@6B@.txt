@@ -1,0 +1,17 @@
+// ___7MultiplicativeGroupT@_$AbstractRing@VInteger@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE24C4
+// from "client.dll", by ida_vtables.idc
+0	sub_108DD350
+1	sub_108DDC30
+2	sub_108DDEE0
+3	sub_108DD390
+4	sub_108DDEF0
+5	sub_10017FE0
+6	sub_108DDC00
+7	sub_108DEAE0
+8	sub_108DD370
+9	sub_108DE230
+10	sub_108DE540
+11	sub_108DD980
+12	sub_108DE9D0
+13	const CryptoPP::ModularArithmetic::`RTTI Complete Object Locator'

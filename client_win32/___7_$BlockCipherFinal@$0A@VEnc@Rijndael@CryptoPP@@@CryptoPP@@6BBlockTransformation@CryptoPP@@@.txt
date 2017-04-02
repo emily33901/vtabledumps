@@ -1,0 +1,13 @@
+// ___7_$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@6BBlockTransformation@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BD2D64
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C0D
+1	sub_10887220
+2	sub_10886FC0
+3	sub_108D9580
+4	sub_1001AD20
+5	sub_10073060
+6	sub_100166E0
+7	sub_100166E0
+8	sub_10073060
+9	sub_108D9100

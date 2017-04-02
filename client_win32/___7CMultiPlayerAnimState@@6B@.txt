@@ -1,0 +1,36 @@
+// ___7CMultiPlayerAnimState@@6B@
+// Auto reconstructed from vtable block @ 0x10A4ACCC
+// from "client.dll", by ida_vtables.idc
+0	sub_104E9950
+1	sub_104E9D90
+2	sub_104EAC00
+3	sub_104E9C30
+4	sub_104EBF20
+5	unknown_libname_35
+6	sub_104EBEA0
+7	sub_104EBC70
+8	sub_104EBCB0
+9	sub_104EBC90
+10	sub_104EBDC0
+11	sub_104EA5E0
+12	sub_104EB630
+13	sub_104EBC60
+14	sub_104EBB60
+15	sub_104EB3F0
+16	sub_104EB4F0
+17	sub_104EB430
+18	sub_104EB580
+19	sub_104EB5D0
+20	sub_104EB4A0
+21	sub_104EBAC0
+22	sub_102C7FB0
+23	sub_104EB8A0
+24	sub_104E9D30
+25	sub_104E9CA0
+26	sub_104EA110
+27	sub_104E9F20
+28	sub_104E9F70
+29	sub_104EB0C0
+30	sub_104EB1D0
+31	sub_104EA3E0
+32	sub_104EBD70

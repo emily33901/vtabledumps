@@ -1,0 +1,4 @@
+// ___7_$CPanelFactory@VCDispenserControlPanel_Red@@UVGuiScreenInitData_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10A3CB48
+// from "client.dll", by ida_vtables.idc
+0	sub_104BADE0

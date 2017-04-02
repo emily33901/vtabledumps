@@ -1,0 +1,17 @@
+// ___7CSchemaAttributeType_Float@@6B@
+// Auto reconstructed from vtable block @ 0x109E6DC8
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4990
+1	sub_103B6020
+2	sub_103C2A80
+3	unknown_libname_13
+4	sub_103A5150
+5	sub_103B0AF0
+6	sub_103C2900
+7	sub_103B62E0
+8	sub_103CD370
+9	sub_103C39B0
+10	sub_100166E0
+11	sub_103B0CA0
+12	sub_103B09B0
+13	const ISchemaAttributeTypeBase<unsigned __int64>::`RTTI Complete Object Locator'

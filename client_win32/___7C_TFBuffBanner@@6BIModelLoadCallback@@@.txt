@@ -1,0 +1,4 @@
+// ___7C_TFBuffBanner@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10A3F764
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50

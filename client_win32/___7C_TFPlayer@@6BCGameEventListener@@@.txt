@@ -1,0 +1,6 @@
+// ___7C_TFPlayer@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A43360
+// from "client.dll", by ida_vtables.idc
+0	sub_104CAC1F
+1	sub_104D1D30
+2	const C_TFPlayer::`RTTI Complete Object Locator'{for `IHasAttributes'}

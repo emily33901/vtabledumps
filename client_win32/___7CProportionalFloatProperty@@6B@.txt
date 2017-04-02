@@ -1,0 +1,7 @@
+// ___7CProportionalFloatProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBD40
+// from "client.dll", by ida_vtables.idc
+0	sub_10824620
+1	sub_1082EFE0
+2	sub_108266F0
+3	const CIntProperty::`RTTI Complete Object Locator'

@@ -1,0 +1,10 @@
+// ___7CSpyInvisProxy@@6B@
+// Auto reconstructed from vtable block @ 0x10A444C8
+// from "client.dll", by ida_vtables.idc
+0	sub_104D5240
+1	sub_1033A4B0
+2	sub_1059A8D0
+3	sub_102088F0
+4	sub_102B1C20
+5	sub_104D81C0
+6	sub_104D88F0

@@ -1,0 +1,6 @@
+// ___7CDateBasedHoliday@@6B@
+// Auto reconstructed from vtable block @ 0x109E1C98
+// from "client.dll", by ida_vtables.idc
+0	sub_1038B770
+1	sub_1038B8E0
+2	const CDateBasedHolidayNoSpecificYear::`RTTI Complete Object Locator'

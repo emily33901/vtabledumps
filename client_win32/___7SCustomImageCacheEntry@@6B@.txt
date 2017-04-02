@@ -1,0 +1,6 @@
+// ___7SCustomImageCacheEntry@@6B@
+// Auto reconstructed from vtable block @ 0x10A05804
+// from "client.dll", by ida_vtables.idc
+0	sub_1043F060
+1	nullsub_1
+2	sub_1043DAF0

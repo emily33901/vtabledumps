@@ -1,0 +1,5 @@
+// ___7CStoreViewCartPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A055D8
+// from "client.dll", by ida_vtables.idc
+0	sub_1043CB79
+1	sub_1043CD80

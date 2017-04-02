@@ -1,0 +1,5 @@
+// ___7_$CGCMsg@UMsgGCNameItem_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A09B30
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const GCSDK::CGCMsg<struct MsgGCNameBaseItem_t>::`RTTI Complete Object Locator'

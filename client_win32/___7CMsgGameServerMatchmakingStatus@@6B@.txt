@@ -1,0 +1,23 @@
+// ___7CMsgGameServerMatchmakingStatus@@6B@
+// Auto reconstructed from vtable block @ 0x1095E6BC
+// from "client.dll", by ida_vtables.idc
+0	sub_1013DEC0
+1	sub_106FA390
+2	sub_10166E50
+3	sub_10145C40
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_1015C5D0
+8	sub_10141440
+9	sub_10169A50
+10	sub_1016DFA0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1014F340
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10148300
+19	const CMsgMatchmakingProgress::`RTTI Complete Object Locator'

@@ -1,0 +1,27 @@
+// ___7NetworkVar_m_Item@CAttributeContainer@@6B_$CMaterialOverrideContainer@VIEconItemInterface@@@@@
+// Auto reconstructed from vtable block @ 0x109E0B20
+// from "client.dll", by ida_vtables.idc
+0	sub_1050909B
+1	sub_10388920
+2	sub_10397960
+3	sub_103982F0
+4	sub_10397D20
+5	sub_10397D50
+6	sub_10398300
+7	sub_10397E00
+8	sub_10388CF0
+9	sub_10388CA0
+10	sub_1032F570
+11	sub_103D3820
+12	sub_103D3C70
+13	sub_103D2E50
+14	sub_103D3680
+15	sub_103D3960
+16	sub_10015E10
+17	sub_10388CB0
+18	sub_103D2BE0
+19	sub_103D2BB0
+20	sub_103D41E0
+21	sub_10388CE0
+22	sub_10388D00
+23	const CAttributeContainer::`RTTI Complete Object Locator'

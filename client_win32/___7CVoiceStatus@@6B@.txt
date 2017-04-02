@@ -1,0 +1,6 @@
+// ___7CVoiceStatus@@6B@
+// Auto reconstructed from vtable block @ 0x109DF9C0
+// from "client.dll", by ida_vtables.idc
+0	sub_10381150
+1	sub_10381960
+2	nullsub_1

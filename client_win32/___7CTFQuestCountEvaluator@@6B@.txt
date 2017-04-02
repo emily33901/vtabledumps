@@ -1,0 +1,26 @@
+// ___7CTFQuestCountEvaluator@@6B@
+// Auto reconstructed from vtable block @ 0x109F0180
+// from "client.dll", by ida_vtables.idc
+0	sub_103F3270
+1	sub_103F4CF0
+2	sub_103F4DD0
+3	sub_10674DE0
+4	sub_103F3760
+5	sub_103F7A60
+6	sub_103F55B0
+7	sub_103F7240
+8	sub_10017FE0
+9	sub_100166E0
+10	sub_103F3350
+11	sub_103F4D40
+12	sub_103F7C30
+13	sub_103F5710
+14	sub_103F4F90
+15	sub_103F6AE0
+16	sub_103F6430
+17	sub_10672EA0
+18	sub_10091570
+19	nullsub_4
+20	sub_103F48F0
+21	sub_103F7CA0
+22	sub_1001DBD0

@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFThankedBySomeone@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A3FF08
+// from "client.dll", by ida_vtables.idc
+0	sub_104C0690
+1	sub_104C0BC0
+2	sub_104C0D80
+3	sub_1039C610
+4	const C_TEFireBullets::`RTTI Complete Object Locator'

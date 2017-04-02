@@ -1,0 +1,5 @@
+// ___7_$CGCMsg@UMsgGCTrading_InitiateTradeRequest_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A0D7B8
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const CEconNotificationVisitor_RemoveTradeRequest::`RTTI Complete Object Locator'

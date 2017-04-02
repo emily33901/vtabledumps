@@ -1,0 +1,4 @@
+// ___7C_TFBaseRocket@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10B228C4
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50

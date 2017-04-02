@@ -1,0 +1,35 @@
+// ___7_$CDmeTypedLogLayer@VVector@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BAF5A0
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_10792460
+6	sub_10784270
+7	nullsub_1
+8	sub_10769FF0
+9	sub_10768E00
+10	sub_1079F960
+11	j_nullsub_1
+12	sub_1076F2A0
+13	sub_1076FB90
+14	sub_10771D40
+15	sub_1078B7D0
+16	sub_1001C6C0
+17	sub_107B6620
+18	sub_107B51C0
+19	sub_1078B120
+20	sub_10786BC0
+21	sub_107828D0
+22	sub_107A14E0
+23	sub_1076E660
+24	sub_10792790
+25	sub_107A9A70
+26	sub_107AB140
+27	sub_107ADA20
+28	sub_10774600
+29	sub_107733A0
+30	sub_107B6860
+31	const CDmeTypedLogLayer<class Quaternion>::`RTTI Complete Object Locator'

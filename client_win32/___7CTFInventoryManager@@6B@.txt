@@ -1,0 +1,42 @@
+// ___7CTFInventoryManager@@6B@
+// Auto reconstructed from vtable block @ 0x109EC2C0
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_100166E0
+2	unknown_libname_14
+3	sub_1039ED00
+4	sub_1039CB20
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_1039CB90
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	sub_103E1A00
+14	nullsub_1
+15	sub_103E4800
+16	nullsub_1
+17	sub_1039B220
+18	sub_103E1B20
+19	sub_103E20B0
+20	sub_103E24D0
+21	sub_1039F2C0
+22	sub_103E3000
+23	sub_1039D410
+24	sub_1039D1D0
+25	sub_1039D490
+26	sub_1039B340
+27	sub_1039CD70
+28	sub_1039E880
+29	sub_1039ED70
+30	sub_1039F1C0
+31	sub_1039F0A0
+32	sub_103E3060
+33	sub_103E4540
+34	sub_103E4390
+35	sub_103E1D00
+36	sub_103E1A80
+37	sub_103E2A90
+38	const CEconNotification_HasNewItems::`RTTI Complete Object Locator'

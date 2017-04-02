@@ -1,0 +1,8 @@
+// ___7EncodedDescriptorDatabase@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA8B50
+// from "client.dll", by ida_vtables.idc
+0	sub_10733BF0
+1	sub_10734870
+2	sub_107348F0
+3	sub_107348B0
+4	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_7

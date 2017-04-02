@@ -1,0 +1,7 @@
+// ___7C_DustTrail@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x10A1BB50
+// from "client.dll", by ida_vtables.idc
+0	sub_10472825
+1	sub_10474420
+2	sub_10887630
+3	const CExplosionOverlay::`RTTI Complete Object Locator'

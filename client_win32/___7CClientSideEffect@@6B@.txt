@@ -1,0 +1,10 @@
+// ___7CClientSideEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109B4D5C
+// from "client.dll", by ida_vtables.idc
+0	sub_102A05B0
+1	sub_108A465B
+2	sub_10007190
+3	sub_102A0800
+4	sub_102A0650
+5	unknown_libname_9
+6	const IEffectsList::`RTTI Complete Object Locator'

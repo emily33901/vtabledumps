@@ -1,0 +1,6 @@
+// ___7CTFQuestObjectiveConditionsDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109ECBE4
+// from "client.dll", by ida_vtables.idc
+0	sub_103E6060
+1	sub_103E7000
+2	const CTFQuestObjectiveDefinition::`RTTI Complete Object Locator'

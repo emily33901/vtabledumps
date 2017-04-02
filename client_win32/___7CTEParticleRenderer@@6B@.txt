@@ -1,0 +1,16 @@
+// ___7CTEParticleRenderer@@6B@
+// Auto reconstructed from vtable block @ 0x10A1F388
+// from "client.dll", by ida_vtables.idc
+0	sub_10489770
+1	nullsub_4
+2	nullsub_4
+3	sub_102607F0
+4	sub_102607E0
+5	sub_10489A00
+6	sub_10489880
+7	sub_1031EA10
+8	sub_1031E9D0
+9	sub_1031E9C0
+10	sub_10215860
+11	sub_10007190
+12	sub_1031EC80

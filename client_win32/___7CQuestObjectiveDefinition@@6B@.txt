@@ -1,0 +1,6 @@
+// ___7CQuestObjectiveDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109E56FC
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4C30
+1	sub_103AC0D0
+2	const CEconItemDefinition::`RTTI Complete Object Locator'

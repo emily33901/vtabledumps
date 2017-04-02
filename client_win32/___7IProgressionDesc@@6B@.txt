@@ -1,0 +1,8 @@
+// ___7IProgressionDesc@@6B@
+// Auto reconstructed from vtable block @ 0x10AB419C
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_105C0D50
+2	sub_108A465B
+3	sub_105C0820
+4	const CMvMMatchGroupDescription::`RTTI Complete Object Locator'

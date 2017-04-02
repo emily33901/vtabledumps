@@ -1,0 +1,5 @@
+// ___7NullNameValuePairs@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE1C54
+// from "client.dll", by ida_vtables.idc
+0	sub_108DD350
+1	sub_1091F590

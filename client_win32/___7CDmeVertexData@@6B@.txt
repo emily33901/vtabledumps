@@ -1,0 +1,17 @@
+// ___7CDmeVertexData@@6B@
+// Auto reconstructed from vtable block @ 0x10BAE394
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	sub_10750890
+5	sub_10750600
+6	sub_1074FEA0
+7	nullsub_1
+8	sub_1074F780
+9	sub_1074F610
+10	unknown_libname_43
+11	j_nullsub_1
+12	sub_10017FE0
+13	const CDmeVertexDeltaData::`RTTI Complete Object Locator'

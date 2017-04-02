@@ -1,0 +1,23 @@
+// ___7CHudUpgradePanel@@6B@
+// Auto reconstructed from vtable block @ 0x10AB66C0
+// from "client.dll", by ida_vtables.idc
+0	sub_105C2B40
+1	sub_105C35C0
+2	nullsub_1
+3	nullsub_1
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_105C4EE0
+10	sub_102A0800
+11	sub_105C4A50
+12	sub_10091570
+13	sub_108029C0
+14	sub_1052D260
+15	sub_105C4210
+16	sub_105C4290
+17	sub_105C42F0
+18	sub_105C4D00
+19	const CHudUpgradePanel::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

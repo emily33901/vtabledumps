@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFQuickplay_ScoreServersResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AA15EC
+// from "client.dll", by ida_vtables.idc
+0	sub_1059CC10
+1	sub_1059F2A0
+2	sub_105A0250
+3	sub_1039C610

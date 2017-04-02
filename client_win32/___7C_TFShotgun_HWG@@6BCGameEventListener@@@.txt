@@ -1,0 +1,6 @@
+// ___7C_TFShotgun_HWG@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B136C0
+// from "client.dll", by ida_vtables.idc
+0	sub_10678D2C
+1	sub_10683170
+2	const C_TFShotgun_Pyro::`RTTI Complete Object Locator'

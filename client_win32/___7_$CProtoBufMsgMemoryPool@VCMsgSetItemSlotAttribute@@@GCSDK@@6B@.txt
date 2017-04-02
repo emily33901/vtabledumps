@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgSetItemSlotAttribute@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC8290
+// from "client.dll", by ida_vtables.idc
+0	loc_10604420
+1	sub_106045C0
+2	sub_10604870
+3	sub_1039C610
+4	const CLoadoutPresetPanel::`RTTI Complete Object Locator'

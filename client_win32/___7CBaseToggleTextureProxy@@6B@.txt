@@ -1,0 +1,8 @@
+// ___7CBaseToggleTextureProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109D7DA8
+// from "client.dll", by ida_vtables.idc
+0	sub_10359250
+1	sub_103592F0
+2	sub_1059A8D0
+3	sub_10359240
+4	sub_1020BA30

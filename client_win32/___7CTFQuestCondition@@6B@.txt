@@ -1,0 +1,24 @@
+// ___7CTFQuestCondition@@6B@
+// Auto reconstructed from vtable block @ 0x109EEC78
+// from "client.dll", by ida_vtables.idc
+0	sub_103F3320
+1	sub_108A465B
+2	sub_106BCB50
+3	sub_10674DE0
+4	sub_1038D8D0
+5	sub_103F7A60
+6	sub_103F55B0
+7	sub_103F71C0
+8	sub_10017FE0
+9	sub_10017FE0
+10	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+11	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+12	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+13	nullsub_4
+14	nullsub_4
+15	sub_108A465B
+16	sub_108A465B
+17	sub_10091570
+18	sub_10091570
+19	nullsub_4
+20	const CTFQuestEvaluator::`RTTI Complete Object Locator'

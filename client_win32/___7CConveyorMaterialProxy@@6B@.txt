@@ -1,0 +1,8 @@
+// ___7CConveyorMaterialProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109A371C
+// from "client.dll", by ida_vtables.idc
+0	sub_1025F220
+1	sub_1025F270
+2	sub_1059A8D0
+3	sub_1025F210
+4	sub_102B1C20

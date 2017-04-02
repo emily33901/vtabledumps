@@ -1,0 +1,4 @@
+// ___7C_TFWeaponAttachmentModel@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B1FC08
+// from "client.dll", by ida_vtables.idc
+0	sub_106837B0

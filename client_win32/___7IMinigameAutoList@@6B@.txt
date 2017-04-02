@@ -1,0 +1,5 @@
+// ___7IMinigameAutoList@@6B@
+// Auto reconstructed from vtable block @ 0x10A960AC
+// from "client.dll", by ida_vtables.idc
+0	sub_105819B0
+1	const C_TFMiniGame::`RTTI Complete Object Locator'

@@ -1,0 +1,35 @@
+// ___7C_OP_Orient2DRelToCP@@6B@
+// Auto reconstructed from vtable block @ 0x10BB5784
+// from "client.dll", by ida_vtables.idc
+0	nullsub_2
+1	sub_10091570
+2	nullsub_2
+3	sub_1001AD20
+4	sub_10073060
+5	sub_107DBD20
+6	sub_10091570
+7	sub_107DFE50
+8	nullsub_4
+9	nullsub_5
+10	sub_100166E0
+11	nullsub_15
+12	sub_107DBB40
+13	sub_108298F0
+14	nullsub_5
+15	nullsub_5
+16	nullsub_2
+17	nullsub_2
+18	nullsub_11
+19	nullsub_2
+20	sub_107DBAD0
+21	sub_10017FE0
+22	sub_10017FE0
+23	sub_10017FE0
+24	nullsub_11
+25	sub_107DC060
+26	sub_10887630
+27	sub_10017FE0
+28	sub_10017FE0
+29	nullsub_5
+30	sub_107F10A0
+31	const CParticleOperatorDefinition<class C_OP_Orient2DRelToCP>::`RTTI Complete Object Locator'

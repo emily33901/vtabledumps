@@ -1,0 +1,5 @@
+// ___7C_TFBuffItem@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AF540C
+// from "client.dll", by ida_vtables.idc
+0	sub_106615F0
+1	sub_106618F0

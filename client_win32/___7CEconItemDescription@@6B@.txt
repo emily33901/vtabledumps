@@ -1,0 +1,45 @@
+// ___7CEconItemDescription@@6B@
+// Auto reconstructed from vtable block @ 0x109E3340
+// from "client.dll", by ida_vtables.idc
+0	sub_1038FF90
+1	sub_10396F90
+2	sub_10390C20
+3	sub_10390190
+4	sub_10390310
+5	sub_103969C0
+6	sub_10390070
+7	sub_10394070
+8	sub_10393C50
+9	sub_10392240
+10	sub_10395920
+11	sub_10393A20
+12	sub_10395260
+13	sub_10394140
+14	sub_10395BD0
+15	sub_10393AB0
+16	sub_10391F10
+17	sub_10393820
+18	sub_10392530
+19	sub_10394920
+20	sub_10393700
+21	sub_103953C0
+22	sub_10394CB0
+23	sub_10395720
+24	sub_10392750
+25	sub_10394550
+26	sub_10395CA0
+27	sub_10394FF0
+28	sub_103959E0
+29	sub_103945F0
+30	sub_10392E60
+31	sub_10394250
+32	sub_10391FA0
+33	sub_10392EB0
+34	nullsub_2
+35	sub_10393000
+36	sub_103923B0
+37	sub_10395B60
+38	sub_10392320
+39	sub_10393CC0
+40	sub_103903A0
+41	const CEconItemDescription::`RTTI Complete Object Locator'{for `IAccountPersonaLocalizer'}

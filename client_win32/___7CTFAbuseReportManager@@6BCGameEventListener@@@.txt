@@ -1,0 +1,5 @@
+// ___7CTFAbuseReportManager@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109D7CE4
+// from "client.dll", by ida_vtables.idc
+0	sub_10358EDF
+1	sub_101F8F90

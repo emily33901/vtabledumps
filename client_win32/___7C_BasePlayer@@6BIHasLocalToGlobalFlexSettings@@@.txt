@@ -1,0 +1,5 @@
+// ___7C_BasePlayer@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x1099CC3C
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const C_BasePlayer::`RTTI Complete Object Locator'{for `CGameEventListener'}

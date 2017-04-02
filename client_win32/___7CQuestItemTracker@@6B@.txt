@@ -1,0 +1,8 @@
+// ___7CQuestItemTracker@@6B@
+// Auto reconstructed from vtable block @ 0x10A4C3A0
+// from "client.dll", by ida_vtables.idc
+0	sub_104EC880
+1	sub_104EC8C0
+2	sub_104EC9D0
+3	nullsub_1
+4	const CBaseSOTracker::`RTTI Complete Object Locator'

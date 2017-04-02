@@ -1,0 +1,5 @@
+// ___7CProgressPanel@CTFHUDRobotDestruction@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A8AF24
+// from "client.dll", by ida_vtables.idc
+0	sub_102E6D59
+1	sub_10566DA0

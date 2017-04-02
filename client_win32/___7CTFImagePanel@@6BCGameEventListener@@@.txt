@@ -1,0 +1,5 @@
+// ___7CTFImagePanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A9440C
+// from "client.dll", by ida_vtables.idc
+0	sub_1057D546
+1	sub_1057D690

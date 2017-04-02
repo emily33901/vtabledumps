@@ -1,0 +1,8 @@
+// ___7C_SceneEntity@@6BIChoreoEventCallback@@@
+// Auto reconstructed from vtable block @ 0x109AC184
+// from "client.dll", by ida_vtables.idc
+0	sub_10275740
+1	sub_10273B70
+2	sub_10274E10
+3	sub_102735A0
+4	const CChoreoStringPool::`RTTI Complete Object Locator'

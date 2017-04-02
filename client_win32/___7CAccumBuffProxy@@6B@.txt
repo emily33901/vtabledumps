@@ -1,0 +1,8 @@
+// ___7CAccumBuffProxy@@6B@
+// Auto reconstructed from vtable block @ 0x10973D78
+// from "client.dll", by ida_vtables.idc
+0	sub_101D8770
+1	sub_101D8DC0
+2	sub_1059A8D0
+3	sub_101D8610
+4	sub_102B1C20

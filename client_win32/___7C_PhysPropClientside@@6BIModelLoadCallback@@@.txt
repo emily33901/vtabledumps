@@ -1,0 +1,5 @@
+// ___7C_PhysPropClientside@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109CF260
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_PhysPropClientside::`RTTI Complete Object Locator'{for `IBreakableWithPropData'}

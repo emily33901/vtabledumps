@@ -1,0 +1,5 @@
+// ___7CYouTubeGetStatsHandler@@6B@
+// Auto reconstructed from vtable block @ 0x10978EF8
+// from "client.dll", by ida_vtables.idc
+0	sub_101E17D0
+1	sub_101E05E0

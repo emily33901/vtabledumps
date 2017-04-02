@@ -1,0 +1,7 @@
+// ___7Walker@ByteQueue@CryptoPP@@6BWaitable@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BE1F10
+// from "client.dll", by ida_vtables.idc
+0	loc_108D7AEA
+1	sub_108D5C30
+2	sub_108D5CA0
+3	const CryptoPP::ByteQueue::`RTTI Complete Object Locator'

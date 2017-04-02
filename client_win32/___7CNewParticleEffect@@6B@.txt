@@ -1,0 +1,17 @@
+// ___7CNewParticleEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109CDD64
+// from "client.dll", by ida_vtables.idc
+0	sub_1031D0D0
+1	sub_1031E470
+2	nullsub_4
+3	sub_1031E3C0
+4	sub_1031E3A0
+5	nullsub_4
+6	nullsub_4
+7	sub_1031DB30
+8	nullsub_4
+9	sub_1031DB00
+10	sub_10215860
+11	sub_1031DA40
+12	nullsub_4
+13	const CNewParticleEffect::`RTTI Complete Object Locator'{for `CDefaultClientRenderable'}

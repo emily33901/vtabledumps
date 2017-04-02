@@ -1,0 +1,10 @@
+// ___7CDmSerializerKeyValues2@@6B@
+// Auto reconstructed from vtable block @ 0x10BE5B60
+// from "client.dll", by ida_vtables.idc
+0	sub_10928830
+1	sub_10928810
+2	sub_10017FE0
+3	sub_100166E0
+4	sub_10073060
+5	sub_10928DA0
+6	sub_10929970

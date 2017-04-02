@@ -1,0 +1,22 @@
+// ___7CBaseGameStats_Driver@@6B@
+// Auto reconstructed from vtable block @ 0x109BA924
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_102C8B50
+2	nullsub_1
+3	sub_102C92F0
+4	sub_102C8CB0
+5	nullsub_1
+6	nullsub_1
+7	sub_105A8580
+8	nullsub_1
+9	sub_102C8E70
+10	sub_102C8E60
+11	nullsub_1
+12	sub_100166E0
+13	sub_102C8420
+14	nullsub_1
+15	nullsub_4
+16	nullsub_1
+17	sub_102C8D70
+18	sub_102C8A40

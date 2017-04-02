@@ -1,0 +1,23 @@
+// ___7CMsgTFCoaching_LikeCurrentCoach@@6B@
+// Auto reconstructed from vtable block @ 0x1095D35C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013E740
+1	sub_106FA390
+2	sub_10167700
+3	sub_101463B0
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10158950
+8	sub_10142C00
+9	sub_101C81F0
+10	sub_1016F2B0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10152170
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10148B40
+19	const CMsgTFCoaching_RemoveCurrentCoach::`RTTI Complete Object Locator'

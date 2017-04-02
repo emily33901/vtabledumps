@@ -1,0 +1,6 @@
+// ___7CTFArenaWinPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A5F478
+// from "client.dll", by ida_vtables.idc
+0	sub_10517037
+1	sub_10517170
+2	const CTFArenaWinPanel::`RTTI Complete Object Locator'{for `IViewPortPanel'}

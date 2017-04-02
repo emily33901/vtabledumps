@@ -1,0 +1,11 @@
+// ___7CQuestNotification@@6B@
+// Auto reconstructed from vtable block @ 0x10ACBBB8
+// from "client.dll", by ida_vtables.idc
+0	sub_1060F390
+1	sub_10610DD0
+2	sub_108A465B
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	sub_108A465B
+7	const CQuestNotification_NewQuest::`RTTI Complete Object Locator'

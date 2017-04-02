@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_DistanceBetweenCPs@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB4F20
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107DB2D0
+2	sub_107DBDF0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107DBB00

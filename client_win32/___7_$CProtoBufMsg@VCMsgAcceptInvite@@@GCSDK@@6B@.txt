@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgAcceptInvite@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB3ACC
+// from "client.dll", by ida_vtables.idc
+0	loc_105B8C90
+1	sub_103E0260
+2	const CGCClientAcceptInviteResponse::`RTTI Complete Object Locator'

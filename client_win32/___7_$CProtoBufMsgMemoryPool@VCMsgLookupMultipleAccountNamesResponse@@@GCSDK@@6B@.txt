@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgLookupMultipleAccountNamesResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E5234
+// from "client.dll", by ida_vtables.idc
+0	sub_10399B50
+1	sub_1039B4B0
+2	sub_1039C590
+3	sub_1039C610

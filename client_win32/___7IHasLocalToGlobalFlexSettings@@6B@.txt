@@ -1,0 +1,5 @@
+// ___7IHasLocalToGlobalFlexSettings@@6B@
+// Auto reconstructed from vtable block @ 0x1099B95C
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	const CInterpolatedVarArray<float,96>::`RTTI Complete Object Locator'

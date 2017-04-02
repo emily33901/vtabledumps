@@ -1,0 +1,6 @@
+// ___7CTFRenderTargets@@6B@
+// Auto reconstructed from vtable block @ 0x10AA1614
+// from "client.dll", by ida_vtables.idc
+0	sub_105A5430
+1	sub_105A55B0
+2	sub_1020BC10

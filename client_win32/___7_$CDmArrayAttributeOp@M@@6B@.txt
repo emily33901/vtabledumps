@@ -1,0 +1,22 @@
+// ___7_$CDmArrayAttributeOp@M@@6B@
+// Auto reconstructed from vtable block @ 0x10BE36F0
+// from "client.dll", by ida_vtables.idc
+0	sub_10903340
+1	sub_109036D0
+2	sub_10914860
+3	sub_10903600
+4	sub_10903600
+5	sub_10017FE0
+6	sub_10917D70
+7	sub_10901480
+8	sub_109175C0
+9	sub_10914EF0
+10	sub_10913500
+11	sub_10917040
+12	sub_10912920
+13	sub_1091D3A0
+14	sub_10912FF0
+15	sub_1091E300
+16	sub_1091E240
+17	sub_1090A0E0
+18	const CDmArrayAttributeOp<bool>::`RTTI Complete Object Locator'

@@ -1,0 +1,13 @@
+// ___7CItemModelPanelToolTip@@6B@
+// Auto reconstructed from vtable block @ 0x109FBEA8
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	sub_10091570
+2	sub_10422D70
+3	sub_1041C3F0
+4	sub_104201C0
+5	sub_108768C0
+6	nullsub_4
+7	sub_1041BB70
+8	sub_1041B900
+9	sub_1041B9F0

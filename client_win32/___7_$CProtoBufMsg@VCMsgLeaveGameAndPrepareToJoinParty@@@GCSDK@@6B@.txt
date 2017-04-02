@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgLeaveGameAndPrepareToJoinParty@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB3D18
+// from "client.dll", by ida_vtables.idc
+0	loc_105B8EC0
+1	sub_103E0260
+2	const CGCWorldStatusBroadcast::`RTTI Complete Object Locator'

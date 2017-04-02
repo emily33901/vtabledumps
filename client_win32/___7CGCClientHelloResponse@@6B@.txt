@@ -1,0 +1,11 @@
+// ___7CGCClientHelloResponse@@6B@
+// Auto reconstructed from vtable block @ 0x10AB3D7C
+// from "client.dll", by ida_vtables.idc
+0	sub_106BD8D0
+1	sub_101FABC0
+2	sub_105BAB50
+3	sub_101FACB0
+4	sub_10017FE0
+5	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+6	sub_100187C0
+7	const GCSDK::CProtoBufMsg<class CGCMsgTFHelloResponse>::`RTTI Complete Object Locator'

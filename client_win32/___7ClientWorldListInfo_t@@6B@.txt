@@ -1,0 +1,6 @@
+// ___7ClientWorldListInfo_t@@6B@
+// Auto reconstructed from vtable block @ 0x109DF050
+// from "client.dll", by ida_vtables.idc
+0	sub_10886E90
+1	sub_1037D1D0
+2	const CSkyboxView::`RTTI Complete Object Locator'

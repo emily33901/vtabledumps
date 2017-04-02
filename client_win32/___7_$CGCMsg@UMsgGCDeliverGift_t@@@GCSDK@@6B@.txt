@@ -1,0 +1,5 @@
+// ___7_$CGCMsg@UMsgGCDeliverGift_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4F1EC
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const CDeliverGiftSelectDialog::`RTTI Complete Object Locator'

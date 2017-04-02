@@ -1,0 +1,22 @@
+// ___7CEmberEmitter@@6B@
+// Auto reconstructed from vtable block @ 0x10A18198
+// from "client.dll", by ida_vtables.idc
+0	sub_10465780
+1	nullsub_4
+2	nullsub_4
+3	sub_102607F0
+4	sub_102607E0
+5	sub_1031CD30
+6	sub_1031EA50
+7	sub_1031EA10
+8	sub_1031E9D0
+9	sub_1031E9C0
+10	sub_10215860
+11	sub_10007190
+12	sub_1031EC80
+13	sub_1031ED40
+14	sub_1031EE20
+15	sub_1031EE00
+16	sub_104694D0
+17	sub_104693A0
+18	const C_Embers::`RTTI Complete Object Locator'

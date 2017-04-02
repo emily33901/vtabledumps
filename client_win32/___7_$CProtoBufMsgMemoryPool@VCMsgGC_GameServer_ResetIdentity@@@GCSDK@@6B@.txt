@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGC_GameServer_ResetIdentity@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A58A00
+// from "client.dll", by ida_vtables.idc
+0	sub_1050DB60
+1	sub_1050E270
+2	sub_1050E390
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgGC_GameServer_CreateIdentityResponse>::`RTTI Complete Object Locator'

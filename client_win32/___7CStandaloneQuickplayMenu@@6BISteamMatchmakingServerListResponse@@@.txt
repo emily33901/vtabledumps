@@ -1,0 +1,7 @@
+// ___7CStandaloneQuickplayMenu@@6BISteamMatchmakingServerListResponse@@@
+// Auto reconstructed from vtable block @ 0x10AA0260
+// from "client.dll", by ida_vtables.idc
+0	sub_105A3890
+1	nullsub_2
+2	sub_105A2000
+3	const CStandaloneQuickplayMenu::`RTTI Complete Object Locator'{for `ISteamMatchmakingPingResponse'}

@@ -1,0 +1,6 @@
+// ___7C_TFGameRules@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A53B58
+// from "client.dll", by ida_vtables.idc
+0	sub_10509088
+1	sub_1050A270
+2	const C_BonusRoundLogic::NetworkVar_m_Item::`RTTI Complete Object Locator'

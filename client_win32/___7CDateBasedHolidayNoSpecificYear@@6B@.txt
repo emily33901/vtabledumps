@@ -1,0 +1,5 @@
+// ___7CDateBasedHolidayNoSpecificYear@@6B@
+// Auto reconstructed from vtable block @ 0x109E1CA4
+// from "client.dll", by ida_vtables.idc
+0	sub_1038B770
+1	sub_1038B900

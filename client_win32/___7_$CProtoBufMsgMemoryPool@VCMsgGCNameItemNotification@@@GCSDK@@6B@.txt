@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGCNameItemNotification@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A5043C
+// from "client.dll", by ida_vtables.idc
+0	sub_104F82E0
+1	sub_104FA700
+2	sub_104FAB80
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgGCClientDisplayNotification>::`RTTI Complete Object Locator'

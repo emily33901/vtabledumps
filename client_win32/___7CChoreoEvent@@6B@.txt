@@ -1,0 +1,7 @@
+// ___7CChoreoEvent@@6B@
+// Auto reconstructed from vtable block @ 0x10B6BA5C
+// from "client.dll", by ida_vtables.idc
+0	sub_106A5E10
+1	sub_106A6B10
+2	sub_106A6500
+3	sub_106A6A00

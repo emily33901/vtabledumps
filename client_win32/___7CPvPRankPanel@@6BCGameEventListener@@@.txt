@@ -1,0 +1,5 @@
+// ___7CPvPRankPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10ADF938
+// from "client.dll", by ida_vtables.idc
+0	sub_1064528D
+1	sub_106457C0

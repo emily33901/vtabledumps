@@ -1,0 +1,5 @@
+// ___7CRagdollCollisionRules@@6B@
+// Auto reconstructed from vtable block @ 0x109D2F74
+// from "client.dll", by ida_vtables.idc
+0	sub_10342690
+1	nullsub_4

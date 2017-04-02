@@ -1,0 +1,11 @@
+// ___7CStringCondition@CItemSelectionCriteria@@6B@
+// Auto reconstructed from vtable block @ 0x109EC18C
+// from "client.dll", by ida_vtables.idc
+0	sub_103E0540
+1	sub_103E0DF0
+2	sub_106BCB50
+3	sub_103E1020
+4	sub_105D3030
+5	sub_103E0F80
+6	sub_103E0DA0
+7	const CItemSelectionCriteria::CFloatCondition::`RTTI Complete Object Locator'

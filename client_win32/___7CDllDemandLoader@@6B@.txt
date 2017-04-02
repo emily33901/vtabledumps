@@ -1,0 +1,4 @@
+// ___7CDllDemandLoader@@6B@
+// Auto reconstructed from vtable block @ 0x10BB92FC
+// from "client.dll", by ida_vtables.idc
+0	sub_10803450

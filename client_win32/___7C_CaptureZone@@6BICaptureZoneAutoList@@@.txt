@@ -1,0 +1,4 @@
+// ___7C_CaptureZone@@6BICaptureZoneAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A3A414
+// from "client.dll", by ida_vtables.idc
+0	sub_104B9FEF

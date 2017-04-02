@@ -1,0 +1,4 @@
+// ___7C_BaseObjectUpgrade@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A995C0
+// from "client.dll", by ida_vtables.idc
+0	sub_104BB8C9

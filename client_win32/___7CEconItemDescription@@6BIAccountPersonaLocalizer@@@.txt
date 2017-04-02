@@ -1,0 +1,5 @@
+// ___7CEconItemDescription@@6BIAccountPersonaLocalizer@@@
+// Auto reconstructed from vtable block @ 0x109E33E8
+// from "client.dll", by ida_vtables.idc
+0	sub_10390B80
+1	const CSteamAccountIDAttributeCollector::`RTTI Complete Object Locator'

@@ -1,0 +1,6 @@
+// ___7GeneratedExtensionFinder@internal@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA6F80
+// from "client.dll", by ida_vtables.idc
+0	sub_10719570
+1	sub_1071A4B0
+2	const google::protobuf::internal::FieldSkipper::`RTTI Complete Object Locator'

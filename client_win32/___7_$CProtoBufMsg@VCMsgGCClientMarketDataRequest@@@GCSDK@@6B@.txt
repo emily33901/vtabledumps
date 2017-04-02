@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgGCClientMarketDataRequest@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F4114
+// from "client.dll", by ida_vtables.idc
+0	sub_1040B390
+1	sub_103E0260
+2	const CGCClientRequestMarketDataResponse::`RTTI Complete Object Locator'

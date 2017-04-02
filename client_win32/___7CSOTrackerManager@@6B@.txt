@@ -1,0 +1,21 @@
+// ___7CSOTrackerManager@@6B@
+// Auto reconstructed from vtable block @ 0x10A4C3C8
+// from "client.dll", by ida_vtables.idc
+0	sub_104EEF40
+1	nullsub_2
+2	sub_104EEF40
+3	nullsub_2
+4	sub_104EEF70
+5	sub_104EEF30
+6	sub_104EEF30
+7	sub_104ECEF0
+8	sub_104ED530
+9	sub_108A465B
+10	sub_108A465B
+11	sub_108A465B
+12	sub_108A465B
+13	sub_108A465B
+14	sub_108A465B
+15	sub_108A465B
+16	sub_108A465B
+17	const CSOTrackerManager::`RTTI Complete Object Locator'{for `CGameEventListener'}

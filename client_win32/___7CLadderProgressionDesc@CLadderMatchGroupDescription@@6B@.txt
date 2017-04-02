@@ -1,0 +1,8 @@
+// ___7CLadderProgressionDesc@CLadderMatchGroupDescription@@6B@
+// Auto reconstructed from vtable block @ 0x10AB41D4
+// from "client.dll", by ida_vtables.idc
+0	sub_105C0C50
+1	sub_105C0D50
+2	sub_105C0740
+3	sub_105C0820
+4	const CLadderMatchGroupDescription::`RTTI Complete Object Locator'

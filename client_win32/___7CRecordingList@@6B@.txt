@@ -1,0 +1,8 @@
+// ___7CRecordingList@@6B@
+// Auto reconstructed from vtable block @ 0x1099AC60
+// from "client.dll", by ida_vtables.idc
+0	sub_1023E720
+1	sub_1023F000
+2	sub_10245830
+3	sub_103E0260
+4	sub_102418C0

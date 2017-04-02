@@ -1,0 +1,18 @@
+// ___7CDmeShape@@6B@
+// Auto reconstructed from vtable block @ 0x10BAE54C
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_10755A40
+6	sub_10755450
+7	nullsub_1
+8	sub_107DBB20
+9	sub_10751890
+10	unknown_libname_44
+11	unknown_libname_45
+12	nullsub_2
+13	sub_107C3050
+14	const CDmeMesh::`RTTI Complete Object Locator'

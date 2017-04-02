@@ -1,0 +1,27 @@
+// ___7CViewRenderBeams@@6B@
+// Auto reconstructed from vtable block @ 0x109DCDE0
+// from "client.dll", by ida_vtables.idc
+0	sub_1036BA70
+1	sub_1036C0C0
+2	sub_10368C40
+3	sub_1036C730
+4	sub_1036A3D0
+5	sub_1036A8C0
+6	sub_1036BAD0
+7	sub_10369850
+8	sub_103696A0
+9	sub_103694E0
+10	sub_103692E0
+11	sub_10369CB0
+12	sub_10369BB0
+13	sub_10369F70
+14	sub_10369DC0
+15	sub_1036A1C0
+16	sub_1036A0B0
+17	sub_103691D0
+18	sub_10369130
+19	sub_10369AC0
+20	sub_10369990
+21	sub_1036B8E0
+22	sub_1036C690
+23	sub_10368B80

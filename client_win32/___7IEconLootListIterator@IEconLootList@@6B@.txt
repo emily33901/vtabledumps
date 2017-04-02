@@ -1,0 +1,6 @@
+// ___7IEconLootListIterator@IEconLootList@@6B@
+// Auto reconstructed from vtable block @ 0x109E32D4
+// from "client.dll", by ida_vtables.idc
+0	sub_105FA1C0
+1	sub_108A465B
+2	const IEconItemDescription::`RTTI Complete Object Locator'

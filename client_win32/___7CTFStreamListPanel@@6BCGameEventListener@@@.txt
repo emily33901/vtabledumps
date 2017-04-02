@@ -1,0 +1,5 @@
+// ___7CTFStreamListPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AE27CC
+// from "client.dll", by ida_vtables.idc
+0	sub_1064EBCA
+1	sub_1064ED70

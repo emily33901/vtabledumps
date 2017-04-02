@@ -1,0 +1,5 @@
+// ___7_$C_EntityClassList@VC_FuncReflectiveGlass@@@@6B@
+// Auto reconstructed from vtable block @ 0x109A4C20
+// from "client.dll", by ida_vtables.idc
+0	sub_10261080
+1	const C_FuncRotating::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7C_BonusPack@@6BIBonusPackAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A48500
+// from "client.dll", by ida_vtables.idc
+0	sub_104E6259

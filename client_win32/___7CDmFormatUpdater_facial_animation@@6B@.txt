@@ -1,0 +1,9 @@
+// ___7CDmFormatUpdater_facial_animation@@6B@
+// Auto reconstructed from vtable block @ 0x10BE5F50
+// from "client.dll", by ida_vtables.idc
+0	sub_109303C0
+1	sub_10930330
+2	sub_109303B0
+3	sub_10073060
+4	sub_10930300
+5	sub_1038D8D0

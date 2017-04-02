@@ -1,0 +1,15 @@
+// ___7CSaveRestoreBlockSet@@6B@
+// Auto reconstructed from vtable block @ 0x109D3618
+// from "client.dll", by ida_vtables.idc
+0	sub_108DDFA0
+1	sub_103460A0
+2	sub_103478B0
+3	sub_103492F0
+4	sub_10345ED0
+5	sub_10345F30
+6	sub_10346EA0
+7	sub_10347680
+8	sub_10345E50
+9	sub_103454C0
+10	sub_103473D0
+11	sub_10345540

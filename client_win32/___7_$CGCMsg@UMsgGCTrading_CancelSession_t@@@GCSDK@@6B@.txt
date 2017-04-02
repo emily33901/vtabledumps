@@ -1,0 +1,4 @@
+// ___7_$CGCMsg@UMsgGCTrading_CancelSession_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A0D6A0
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820

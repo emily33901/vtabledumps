@@ -1,0 +1,10 @@
+// ___7CEconLootListDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109E5688
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4A50
+1	sub_103B02C0
+2	sub_106BCB50
+3	sub_103B59E0
+4	sub_103E0260
+5	sub_103B1740
+6	const CEconCraftingRecipeDefinition::`RTTI Complete Object Locator'

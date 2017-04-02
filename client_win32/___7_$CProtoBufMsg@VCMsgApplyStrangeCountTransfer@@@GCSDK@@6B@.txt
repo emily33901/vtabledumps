@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgApplyStrangeCountTransfer@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A0A418
+// from "client.dll", by ida_vtables.idc
+0	sub_10449DF0
+1	sub_103E0260

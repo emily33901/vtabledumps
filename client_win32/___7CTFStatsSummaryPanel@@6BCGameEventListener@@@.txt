@@ -1,0 +1,5 @@
+// ___7CTFStatsSummaryPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AE1984
+// from "client.dll", by ida_vtables.idc
+0	sub_1064B5B4
+1	sub_1064BE50

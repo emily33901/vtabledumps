@@ -1,0 +1,12 @@
+// ___7XPState_t@CPvPRankPanel@@6BCLocalSteamSharedObjectListener@@@
+// Auto reconstructed from vtable block @ 0x10ADF528
+// from "client.dll", by ida_vtables.idc
+0	sub_10646C10
+1	nullsub_2
+2	sub_10646C80
+3	nullsub_2
+4	nullsub_5
+5	nullsub_2
+6	nullsub_2
+7	loc_10645298
+8	const CPvPRankPanel::`RTTI Complete Object Locator'

@@ -1,0 +1,10 @@
+// ___7CAnimatedEntityTextureProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109932A0
+// from "client.dll", by ida_vtables.idc
+0	sub_1020BA60
+1	sub_1020BB20
+2	sub_1059A8D0
+3	sub_103850F0
+4	sub_10208E20
+5	sub_10264F60
+6	sub_10264F30

@@ -1,0 +1,6 @@
+// ___7C_TFBat@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AF0BB8
+// from "client.dll", by ida_vtables.idc
+0	sub_10678D2C
+1	sub_10683170
+2	const C_TFBat_Fish::`RTTI Complete Object Locator'

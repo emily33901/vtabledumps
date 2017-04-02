@@ -1,0 +1,8 @@
+// ___7IVoiceStatusHelper@@6B@
+// Auto reconstructed from vtable block @ 0x109B2260
+// from "client.dll", by ida_vtables.idc
+0	sub_102825D0
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	const ISave::`RTTI Complete Object Locator'

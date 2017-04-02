@@ -1,0 +1,9 @@
+// ___7CTFPartyInvite@@6BIPlayerGroupInvite@GCSDK@@@
+// Auto reconstructed from vtable block @ 0x10AB2A38
+// from "client.dll", by ida_vtables.idc
+0	loc_105B8BB4
+1	sub_105BCD60
+2	sub_105BC140
+3	sub_105BCD90
+4	sub_105BCDB0
+5	const GCSDK::CProtoBufMsg<class CMsgNotificationAcknowledgeReply>::`RTTI Complete Object Locator'

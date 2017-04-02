@@ -1,0 +1,19 @@
+// ___7CHudVoiceStatus@@6B@
+// Auto reconstructed from vtable block @ 0x109C6360
+// from "client.dll", by ida_vtables.idc
+0	sub_102F5110
+1	nullsub_4
+2	sub_102F54D0
+3	sub_102F5E00
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_102F5DD0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CHudVoiceStatus::`RTTI Complete Object Locator'{for `vgui::Panel'}

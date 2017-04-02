@@ -1,0 +1,7 @@
+// ___7_$CCallbackImpl@$00@@6B@
+// Auto reconstructed from vtable block @ 0x109B51FC
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_108A465B
+2	sub_10073060
+3	const CCallback<class CClientSteamContext,struct SteamServersConnected_t,0>::`RTTI Complete Object Locator'

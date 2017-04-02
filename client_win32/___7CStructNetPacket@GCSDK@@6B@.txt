@@ -1,0 +1,19 @@
+// ___7CStructNetPacket@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6D6D0
+// from "client.dll", by ida_vtables.idc
+0	sub_106C92D0
+1	unknown_libname_35
+2	sub_10091570
+3	sub_106BCB50
+4	sub_106BCE80
+5	sub_106C9300
+6	sub_106C9310
+7	sub_106C9370
+8	sub_106C93A0
+9	sub_106C9540
+10	sub_106C9380
+11	sub_106C9520
+12	sub_10091570
+13	nullsub_4
+14	sub_10017FE0
+15	sub_10091570

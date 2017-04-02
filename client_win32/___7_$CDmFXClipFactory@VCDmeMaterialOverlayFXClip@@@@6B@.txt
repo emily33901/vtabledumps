@@ -1,0 +1,7 @@
+// ___7_$CDmFXClipFactory@VCDmeMaterialOverlayFXClip@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB1828
+// from "client.dll", by ida_vtables.idc
+0	sub_107C7780
+1	sub_107CB520
+2	sub_107C7B60
+3	sub_10017FE0

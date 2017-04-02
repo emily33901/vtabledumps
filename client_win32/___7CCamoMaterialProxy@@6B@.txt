@@ -1,0 +1,10 @@
+// ___7CCamoMaterialProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109B1F80
+// from "client.dll", by ida_vtables.idc
+0	sub_10887630
+1	sub_1033A4B0
+2	sub_1059A8D0
+3	sub_106BCB50
+4	sub_10281B30
+5	sub_10282060
+6	nullsub_4

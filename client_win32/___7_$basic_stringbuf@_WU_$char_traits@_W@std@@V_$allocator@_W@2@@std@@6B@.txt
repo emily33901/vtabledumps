@@ -1,0 +1,19 @@
+// ___7_$basic_stringbuf@_WU_$char_traits@_W@std@@V_$allocator@_W@2@@std@@6B@
+// Auto reconstructed from vtable block @ 0x109EAA44
+// from "client.dll", by ida_vtables.idc
+0	sub_103D6050
+1	nullsub_1
+2	nullsub_1
+3	sub_103DCC10
+4	sub_103DCE30
+5	sub_107DBBD0
+6	sub_103DD3C0
+7	sub_103DD380
+8	sub_103DD430
+9	sub_103DD520
+10	sub_103DCF00
+11	sub_103DD120
+12	sub_103DD270
+13	sub_10091570
+14	nullsub_4
+15	const std::basic_ostringstream<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t>>::`RTTI Complete Object Locator'{for `std::basic_ios<wchar_t,struct std::char_traits<wchar_t>>'}

@@ -1,0 +1,23 @@
+// ___7CTargetID@@6B@
+// Auto reconstructed from vtable block @ 0x10A8D8E8
+// from "client.dll", by ida_vtables.idc
+0	sub_10516A20
+1	sub_1056F800
+2	nullsub_1
+3	sub_10572050
+4	nullsub_1
+5	sub_105702E0
+6	sub_10570F70
+7	nullsub_1
+8	sub_103E0260
+9	sub_105711F0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_1056FBE0
+15	sub_1056F6C0
+16	sub_10091570
+17	sub_1056F7C0
+18	sub_1056FBF0
+19	const CTargetID::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

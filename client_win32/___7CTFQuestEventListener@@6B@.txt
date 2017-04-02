@@ -1,0 +1,26 @@
+// ___7CTFQuestEventListener@@6B@
+// Auto reconstructed from vtable block @ 0x109F0088
+// from "client.dll", by ida_vtables.idc
+0	sub_103F32B0
+1	sub_103F4CF0
+2	sub_103F4DE0
+3	sub_10015E10
+4	sub_103F3940
+5	sub_103F7A60
+6	sub_103F55B0
+7	sub_103F7290
+8	sub_10017FE0
+9	sub_100166E0
+10	sub_103F3380
+11	sub_103F4D10
+12	sub_103F7C00
+13	sub_103F58A0
+14	sub_103F4FE0
+15	sub_103F6AE0
+16	sub_103F64E0
+17	sub_10073060
+18	sub_10015E10
+19	public: void thiscall Concurrency::details::ExecutionResource::MarkAsVirtualProcessorRoot(class Concurrency::details::VirtualProcessorRoot near *)
+20	sub_103F49A0
+21	nullsub_1
+22	const CTFQuestEventListener::`RTTI Complete Object Locator'{for `CGameEventListener'}

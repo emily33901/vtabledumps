@@ -1,0 +1,5 @@
+// ___7CAsyncCaptionResourceManager@@6B_$CManagedDataCacheClient@UAsyncCaptionData_t@@Uasynccaptionparams_t@@PAU1@@@@
+// Auto reconstructed from vtable block @ 0x109C0E50
+// from "client.dll", by ida_vtables.idc
+0	sub_102E1B30
+1	sub_102E1850

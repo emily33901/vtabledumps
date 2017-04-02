@@ -1,0 +1,5 @@
+// ___7CHudTexture@@6B@
+// Auto reconstructed from vtable block @ 0x109BBE30
+// from "client.dll", by ida_vtables.idc
+0	sub_102D0DD0
+1	const CHudElement::`RTTI Complete Object Locator'

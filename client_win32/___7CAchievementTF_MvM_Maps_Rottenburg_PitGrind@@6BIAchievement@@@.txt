@@ -1,0 +1,14 @@
+// ___7CAchievementTF_MvM_Maps_Rottenburg_PitGrind@@6BIAchievement@@@
+// Auto reconstructed from vtable block @ 0x10A2E57C
+// from "client.dll", by ida_vtables.idc
+0	sub_103B59E0
+1	sub_10007190
+2	sub_103E0260
+3	sub_1034EAB0
+4	sub_1020B310
+5	sub_1020B5B0
+6	sub_1088A460
+7	sub_1020B940
+8	sub_10345E40
+9	sub_1020B970
+10	sub_1020B8D0

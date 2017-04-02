@@ -1,0 +1,5 @@
+// ___7CCraftingPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AC3B4C
+// from "client.dll", by ida_vtables.idc
+0	sub_105F5840
+1	sub_1040A0E0

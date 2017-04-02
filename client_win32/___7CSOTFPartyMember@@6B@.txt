@@ -1,0 +1,23 @@
+// ___7CSOTFPartyMember@@6B@
+// Auto reconstructed from vtable block @ 0x1095DD5C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013F2B0
+1	sub_106FA390
+2	sub_10168260
+3	sub_10146F30
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10165260
+8	sub_10144D40
+9	sub_1016BF80
+10	sub_10171460
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101560C0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10149580
+19	const CMsgMatchSearchCriteria::`RTTI Complete Object Locator'

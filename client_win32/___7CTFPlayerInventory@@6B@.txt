@@ -1,0 +1,29 @@
+// ___7CTFPlayerInventory@@6B@
+// Auto reconstructed from vtable block @ 0x109EC258
+// from "client.dll", by ida_vtables.idc
+0	sub_103E4210
+1	nullsub_2
+2	sub_103E4320
+3	sub_103E3D40
+4	sub_1039E480
+5	sub_103E41D0
+6	sub_1039E200
+7	sub_103E1A50
+8	sub_103E1C90
+9	sub_103E3010
+10	sub_103E2EC0
+11	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+12	sub_103E1F50
+13	sub_103E21A0
+14	sub_103E30C0
+15	sub_1039E240
+16	sub_103E3C50
+17	sub_103E30F0
+18	sub_103E1B70
+19	sub_1039D7C0
+20	sub_103E3C60
+21	nullsub_2
+22	sub_103E4B80
+23	sub_103E3840
+24	sub_103E3AD0
+25	const CTFInventoryManager::`RTTI Complete Object Locator'

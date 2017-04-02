@@ -1,0 +1,17 @@
+// ___7CDmeGameSprite@@6B@
+// Auto reconstructed from vtable block @ 0x10BB21C4
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107CB9A0
+6	sub_107CB7A0
+7	nullsub_1
+8	sub_1074F790
+9	sub_107CB390
+10	sub_107CBDF0
+11	unknown_libname_58
+12	sub_10756A10
+13	const CDmeGamePortal::`RTTI Complete Object Locator'

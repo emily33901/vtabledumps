@@ -1,0 +1,5 @@
+// ___7IBaseInterface@@6B@
+// Auto reconstructed from vtable block @ 0x10972FD4
+// from "client.dll", by ida_vtables.idc
+0	sub_101E47E0
+1	const CClientReplayImp::`RTTI Complete Object Locator'

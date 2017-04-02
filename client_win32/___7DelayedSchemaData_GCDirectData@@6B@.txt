@@ -1,0 +1,6 @@
+// ___7DelayedSchemaData_GCDirectData@@6B@
+// Auto reconstructed from vtable block @ 0x109E98A4
+// from "client.dll", by ida_vtables.idc
+0	sub_103CDE50
+1	sub_103CE710
+2	const DelayedSchemaData_HTTPResponseData::`RTTI Complete Object Locator'

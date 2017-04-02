@@ -1,0 +1,5 @@
+// ___7CCollisionEvent@@6BIPhysicsObjectEvent@@@
+// Auto reconstructed from vtable block @ 0x109CE598
+// from "client.dll", by ida_vtables.idc
+0	sub_103214F0
+1	sub_10321400

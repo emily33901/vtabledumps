@@ -1,0 +1,9 @@
+// ___7CCustomTextureOnItemProxy@@6B@
+// Auto reconstructed from vtable block @ 0x10A0594C
+// from "client.dll", by ida_vtables.idc
+0	sub_1043E360
+1	sub_1043EB70
+2	sub_1043F5B0
+3	sub_103850F0
+4	sub_102B1C20
+5	sub_1043EBF0

@@ -1,0 +1,26 @@
+// ___7CTFGCClientSystem@@6B@
+// Auto reconstructed from vtable block @ 0x10AB28B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_105BCDE0
+2	sub_105BD810
+3	sub_105BEEA0
+4	j_nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	j_nullsub_1
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	loc_105B9440
+14	nullsub_1
+15	sub_105BEF50
+16	nullsub_1
+17	sub_103DF9B0
+18	sub_105BD8B0
+19	sub_105BD820
+20	sub_103DFB00
+21	sub_103DFAA0
+22	const CTFGCClientSystem::`RTTI Complete Object Locator'{for `GCSDK::ISharedObjectListener'}

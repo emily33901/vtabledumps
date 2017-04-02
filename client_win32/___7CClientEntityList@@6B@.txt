@@ -1,0 +1,7 @@
+// ___7CClientEntityList@@6B@
+// Auto reconstructed from vtable block @ 0x109B3848
+// from "client.dll", by ida_vtables.idc
+0	sub_1028D490
+1	sub_1028D590
+2	sub_1028C630
+3	const CClientEntityList::`RTTI Complete Object Locator'{for `IClientEntityList'}

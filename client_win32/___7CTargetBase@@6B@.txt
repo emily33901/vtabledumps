@@ -1,0 +1,25 @@
+// ___7CTargetBase@@6B@
+// Auto reconstructed from vtable block @ 0x10B6FB10
+// from "client.dll", by ida_vtables.idc
+0	sub_106EF4A0
+1	sub_106E67F0
+2	sub_108A465B
+3	sub_10017FE0
+4	sub_100166E0
+5	sub_106EC2E0
+6	sub_108A465B
+7	sub_106E7840
+8	sub_106EBC30
+9	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+10	sub_10091570
+11	sub_10091570
+12	sub_106EC450
+13	sub_105DA020
+14	sub_105D3030
+15	sub_105D8F50
+16	sub_105D29C0
+17	sub_106EAD10
+18	sub_108A465B
+19	sub_106E7070
+20	sub_106EB410
+21	const CTargetTGA::`RTTI Complete Object Locator'

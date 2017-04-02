@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgCraftCommonStatClock@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC2FF8
+// from "client.dll", by ida_vtables.idc
+0	sub_105F1ED0
+1	sub_103E0260
+2	const GCSDK::CProtoBufMsgMemoryPool<class CMsgCraftCollectionUpgrade>::`RTTI Complete Object Locator'

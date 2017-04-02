@@ -1,0 +1,18 @@
+// ___7CTFStatPanel@@6BCHudElement@@@
+// Auto reconstructed from vtable block @ 0x10A8D3BC
+// from "client.dll", by ida_vtables.idc
+0	sub_1056C27E
+1	sub_1056C630
+2	sub_1056CCF0
+3	nullsub_1
+4	nullsub_1
+5	sub_1056D080
+6	sub_1056D880
+7	nullsub_1
+8	sub_103E0260
+9	sub_1056D9B0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_103F2AE0

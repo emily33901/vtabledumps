@@ -1,0 +1,37 @@
+// ___7C_CTFGameStats@@6B@
+// Auto reconstructed from vtable block @ 0x10A404A0
+// from "client.dll", by ida_vtables.idc
+0	sub_10017FE0
+1	sub_104C2070
+2	sub_10017FE0
+3	sub_100166E0
+4	nullsub_1
+5	nullsub_1
+6	sub_102C8A00
+7	sub_104C2660
+8	sub_104C26D0
+9	sub_102C8A20
+10	nullsub_1
+11	sub_102C8E50
+12	sub_104C2160
+13	sub_10017FE0
+14	sub_100166E0
+15	sub_100166E0
+16	sub_102C8B30
+17	sub_102C8B40
+18	sub_10017FE0
+19	sub_104C21B0
+20	sub_104C29F0
+21	sub_104C2A30
+22	sub_104C2700
+23	sub_104C2830
+24	sub_104C2750
+25	sub_104C2260
+26	sub_104C23A0
+27	sub_104C2A50
+28	sub_104C2500
+29	sub_104C2C50
+30	sub_104C2E10
+31	sub_104C2EC0
+32	sub_104C2E60
+33	const C_CTFGameStats::`RTTI Complete Object Locator'{for `CGameEventListener'}

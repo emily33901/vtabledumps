@@ -1,0 +1,6 @@
+// ___7vehicleview_t@@6B@
+// Auto reconstructed from vtable block @ 0x109AF8EC
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1
+2	const C_PropVehicleChoreoGeneric::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@PrecachePostProcessingGlowEffects@@6B@
+// Auto reconstructed from vtable block @ 0x10AA8FD4
+// from "client.dll", by ida_vtables.idc
+0	sub_105AEA20

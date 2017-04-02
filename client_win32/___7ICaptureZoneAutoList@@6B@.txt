@@ -1,0 +1,5 @@
+// ___7ICaptureZoneAutoList@@6B@
+// Auto reconstructed from vtable block @ 0x10A3A080
+// from "client.dll", by ida_vtables.idc
+0	sub_104BA040
+1	const C_CaptureZone::`RTTI Complete Object Locator'

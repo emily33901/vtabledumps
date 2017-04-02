@@ -1,0 +1,8 @@
+// ___7CPhysObjSaveRestoreOps@@6B@
+// Auto reconstructed from vtable block @ 0x109CEBE0
+// from "client.dll", by ida_vtables.idc
+0	sub_1032CAD0
+1	sub_1032B7A0
+2	sub_1034ED50
+3	sub_1034EDB0
+4	sub_10887630

@@ -1,0 +1,9 @@
+// ___7CChildOperatorDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x10BB2DE4
+// from "client.dll", by ida_vtables.idc
+0	sub_10091570
+1	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+2	sub_107CF560
+3	sub_107CF3D0
+4	sub_10017FE0
+5	sub_10091570

@@ -1,0 +1,9 @@
+// ___7CMovieItemManager@@6B@
+// Auto reconstructed from vtable block @ 0x109794C8
+// from "client.dll", by ida_vtables.idc
+0	sub_101E47E0
+1	sub_101E48F0
+2	sub_101E4910
+3	sub_101E48B0
+4	sub_100166E0
+5	sub_101E4810

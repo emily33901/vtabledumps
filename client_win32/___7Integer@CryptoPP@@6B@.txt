@@ -1,0 +1,7 @@
+// ___7Integer@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE2C54
+// from "client.dll", by ida_vtables.idc
+0	sub_108E0790
+1	byte_108E1200
+2	sub_108E2F10
+3	sub_1035DA90

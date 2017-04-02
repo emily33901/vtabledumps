@@ -1,0 +1,12 @@
+// ___7IGameMovement@@6B@
+// Auto reconstructed from vtable block @ 0x109BA088
+// from "client.dll", by ida_vtables.idc
+0	sub_102BF6C0
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	sub_108A465B
+7	sub_108A465B
+8	const CGameMovement::`RTTI Complete Object Locator'

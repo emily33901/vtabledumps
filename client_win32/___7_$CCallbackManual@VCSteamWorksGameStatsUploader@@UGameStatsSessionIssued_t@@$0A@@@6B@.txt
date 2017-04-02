@@ -1,0 +1,7 @@
+// ___7_$CCallbackManual@VCSteamWorksGameStatsUploader@@UGameStatsSessionIssued_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x10A4C48C
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_105BDCE0
+2	sub_1001AD20
+3	const CCallbackManual<class CSteamWorksGameStatsUploader,struct GameStatsSessionClosed_t,0>::`RTTI Complete Object Locator'

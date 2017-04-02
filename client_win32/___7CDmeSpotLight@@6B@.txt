@@ -1,0 +1,19 @@
+// ___7CDmeSpotLight@@6B@
+// Auto reconstructed from vtable block @ 0x10BB1C58
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107C93E0
+6	sub_107C8D60
+7	nullsub_1
+8	sub_107DBB00
+9	sub_107C85E0
+10	sub_107C9740
+11	unknown_libname_58
+12	sub_10756A10
+13	sub_107C98C0
+14	sub_107C90C0
+15	const CDmeAmbientLight::`RTTI Complete Object Locator'

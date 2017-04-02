@@ -1,0 +1,5 @@
+// ___7ITFMvMBossProgressUserAutoList@@6B@
+// Auto reconstructed from vtable block @ 0x10A4174C
+// from "client.dll", by ida_vtables.idc
+0	sub_104C63A0
+1	const CClientNotification::`RTTI Complete Object Locator'

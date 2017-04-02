@@ -1,0 +1,7 @@
+// ___7CChoreoScene@@6B@
+// Auto reconstructed from vtable block @ 0x10B6BB98
+// from "client.dll", by ida_vtables.idc
+0	sub_106AA940
+1	sub_106AC230
+2	sub_100166E0
+3	sub_10800A40

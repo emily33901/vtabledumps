@@ -1,0 +1,11 @@
+// ___7CTFCondition_CritBoost@@6B@
+// Auto reconstructed from vtable block @ 0x10A4E664
+// from "client.dll", by ida_vtables.idc
+0	sub_104F68B0
+1	sub_104F68E0
+2	sub_104F6A20
+3	sub_104F6A90
+4	sub_104F6AB0
+5	nullsub_1
+6	sub_10017FE0
+7	sub_100166E0

@@ -1,0 +1,31 @@
+// ___7MontgomeryRepresentation@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE256C
+// from "client.dll", by ida_vtables.idc
+0	sub_108DD330
+1	sub_108DDC10
+2	sub_108DDED0
+3	sub_108E0960
+4	sub_108E3DB0
+5	sub_10017FE0
+6	sub_108DDBF0
+7	sub_108EF170
+8	sub_108E0820
+9	sub_108E5D40
+10	sub_108DE4C0
+11	sub_108DD440
+12	sub_108DE590
+13	sub_108DDF00
+14	sub_108DDFC0
+15	sub_108E4C10
+16	sub_108E4A30
+17	sub_108EF050
+18	sub_108DDBD0
+19	sub_108DDC40
+20	sub_108DD410
+21	sub_108DE570
+22	sub_108DDFA0
+23	sub_108DDA60
+24	sub_100166E0
+25	sub_108DDB00
+26	sub_108E2DD0
+27	const CryptoPP::BERSequenceDecoder::`RTTI Complete Object Locator'

@@ -1,0 +1,9 @@
+// ___7_$CUtlVectorDataOps@V_$CUtlVector@V_$CHandle@VC_BaseEntity@@@@V_$CUtlMemory@V_$CHandle@VC_BaseEntity@@@@H@@@@$0N@@@6B@
+// Auto reconstructed from vtable block @ 0x109E04B4
+// from "client.dll", by ida_vtables.idc
+0	sub_10386B70
+1	sub_10386A90
+2	sub_10386770
+3	sub_10386790
+4	sub_10887630
+5	const CAttributeIterator_HasAttribute::`RTTI Complete Object Locator'

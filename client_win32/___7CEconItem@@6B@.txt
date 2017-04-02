@@ -1,0 +1,14 @@
+// ___7CEconItem@@6B@
+// Auto reconstructed from vtable block @ 0x109E1F60
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C2C0
+1	sub_10073060
+2	sub_1038C730
+3	sub_1038C7A0
+4	sub_1038C810
+5	sub_1038C700
+6	sub_1038C830
+7	sub_1038CE00
+8	sub_100166E0
+9	sub_1038D1A0
+10	const CEconItem::`RTTI Complete Object Locator'{for `CMaterialOverrideContainer<class IEconItemInterface>'}

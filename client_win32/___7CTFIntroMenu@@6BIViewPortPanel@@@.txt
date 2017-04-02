@@ -1,0 +1,15 @@
+// ___7CTFIntroMenu@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x10AD50B4
+// from "client.dll", by ida_vtables.idc
+0	sub_10626596
+1	sub_10458BF6
+2	nullsub_4
+3	sub_1082C7F0
+4	nullsub_1
+5	sub_10017FE0
+6	sub_100166E0
+7	sub_10627000
+8	sub_100187C0
+9	sub_1045AC26
+10	sub_104552E5
+11	sub_1045B119

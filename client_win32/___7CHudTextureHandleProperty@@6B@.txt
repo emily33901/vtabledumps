@@ -1,0 +1,6 @@
+// ___7CHudTextureHandleProperty@@6B@
+// Auto reconstructed from vtable block @ 0x109DA0C8
+// from "client.dll", by ida_vtables.idc
+0	sub_10361500
+1	sub_103615E0
+2	sub_103615A0

@@ -1,0 +1,21 @@
+// ___7CAchievementMgr@@6B@
+// Auto reconstructed from vtable block @ 0x10986DCC
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_101FE670
+2	sub_101FFD60
+3	sub_10200C20
+4	sub_101FF2B0
+5	nullsub_1
+6	nullsub_1
+7	sub_101FF510
+8	nullsub_1
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	loc_101FD740
+14	nullsub_1
+15	sub_10200EA0
+16	nullsub_1
+17	const CAchievementMgr::`RTTI Complete Object Locator'{for `CGameEventListener'}

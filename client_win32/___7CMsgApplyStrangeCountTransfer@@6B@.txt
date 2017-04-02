@@ -1,0 +1,23 @@
+// ___7CMsgApplyStrangeCountTransfer@@6B@
+// Auto reconstructed from vtable block @ 0x10967580
+// from "client.dll", by ida_vtables.idc
+0	sub_1017FA90
+1	sub_106FA390
+2	sub_101960B0
+3	sub_10183F50
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_1018E950
+8	sub_10181490
+9	sub_10197CE0
+10	sub_10199C60
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10186D40
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101852D0
+19	const CMsgApplyStrangePart::`RTTI Complete Object Locator'

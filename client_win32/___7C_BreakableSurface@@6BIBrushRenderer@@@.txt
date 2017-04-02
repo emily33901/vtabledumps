@@ -1,0 +1,4 @@
+// ___7C_BreakableSurface@@6BIBrushRenderer@@@
+// Auto reconstructed from vtable block @ 0x109A2E1C
+// from "client.dll", by ida_vtables.idc
+0	sub_1025ED20

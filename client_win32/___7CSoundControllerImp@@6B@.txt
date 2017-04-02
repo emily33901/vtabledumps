@@ -1,0 +1,25 @@
+// ___7CSoundControllerImp@@6B@
+// Auto reconstructed from vtable block @ 0x109D4D70
+// from "client.dll", by ida_vtables.idc
+0	sub_1034FDE0
+1	sub_1034FEB0
+2	sub_1034EEA0
+3	sub_1034E8C0
+4	sub_1034E930
+5	sub_1034F580
+6	sub_1034F6E0
+7	sub_1034F8D0
+8	sub_1034F7E0
+9	sub_1034F990
+10	sub_1034FA50
+11	sub_1034F600
+12	sub_1034F6A0
+13	sub_1034FA90
+14	sub_1034FB30
+15	sub_1034FB40
+16	sub_1034FB50
+17	sub_1034FB70
+18	sub_1034E750
+19	sub_1034FB20
+20	sub_1034FD00
+21	const CSoundControllerImp::`RTTI Complete Object Locator'{for `CAutoGameSystemPerFrame'}

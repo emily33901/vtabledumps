@@ -1,0 +1,5 @@
+// ___7IPredictionSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109B7EF4
+// from "client.dll", by ida_vtables.idc
+0	sub_10479A80
+1	const CEffectsClient::`RTTI Complete Object Locator'

@@ -1,0 +1,10 @@
+// ___7CP4File@@6B@
+// Auto reconstructed from vtable block @ 0x10BBA2C4
+// from "client.dll", by ida_vtables.idc
+0	sub_108191B0
+1	sub_10819270
+2	sub_10819240
+3	sub_108192D0
+4	sub_108192A0
+5	sub_10819300
+6	const CP4File_Dummy::`RTTI Complete Object Locator'

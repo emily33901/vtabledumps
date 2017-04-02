@@ -1,0 +1,11 @@
+// ___7CRefractiveGlassView@@6B@
+// Auto reconstructed from vtable block @ 0x109DF1BC
+// from "client.dll", by ida_vtables.idc
+0	sub_1036E7D0
+1	sub_100166E0
+2	public: void near * thiscall Concurrency::details::UMSSchedulerProxy::GetCompletionList(void)const
+3	sub_10377240
+4	sub_10375FD0
+5	sub_1037DA20
+6	sub_1037D560
+7	const PrecachePostProcessingEffects::ClientEffectRegister::`RTTI Complete Object Locator'

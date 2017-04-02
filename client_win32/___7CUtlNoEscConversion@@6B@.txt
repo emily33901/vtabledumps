@@ -1,0 +1,4 @@
+// ___7CUtlNoEscConversion@@6B@
+// Auto reconstructed from vtable block @ 0x10BB9B2C
+// from "client.dll", by ida_vtables.idc
+0	sub_1080C3A0

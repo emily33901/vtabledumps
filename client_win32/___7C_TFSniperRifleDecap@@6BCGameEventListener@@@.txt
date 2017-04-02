@@ -1,0 +1,5 @@
+// ___7C_TFSniperRifleDecap@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B18A80
+// from "client.dll", by ida_vtables.idc
+0	sub_1067AD94
+1	sub_10683170

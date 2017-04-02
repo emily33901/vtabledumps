@@ -1,0 +1,25 @@
+// ___7CReplay@@6B@
+// Auto reconstructed from vtable block @ 0x10973248
+// from "client.dll", by ida_vtables.idc
+0	sub_101D29E0
+1	unknown_libname_9
+2	sub_10007190
+3	sub_10802720
+4	sub_108029D0
+5	sub_10802640
+6	sub_108021F0
+7	sub_10802560
+8	sub_10802210
+9	sub_102D5170
+10	sub_102A0800
+11	sub_108026A0
+12	nullsub_1
+13	sub_104D0A90
+14	nullsub_1
+15	nullsub_1
+16	nullsub_1
+17	nullsub_1
+18	nullsub_1
+19	sub_10802670
+20	sub_100166E0
+21	const CReplay::`RTTI Complete Object Locator'{for `IQueryableReplayItem'}

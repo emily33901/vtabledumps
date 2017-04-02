@@ -1,0 +1,14 @@
+// ___7CScreenSpaceEffectManager@@6B@
+// Auto reconstructed from vtable block @ 0x109D3758
+// from "client.dll", by ida_vtables.idc
+0	sub_10349F40
+1	sub_1034A150
+2	sub_10349EF0
+3	sub_1034A0F0
+4	sub_1034A110
+5	sub_10349EB0
+6	sub_10349ED0
+7	sub_10349E70
+8	sub_10349E90
+9	sub_10349E40
+10	sub_1034A090

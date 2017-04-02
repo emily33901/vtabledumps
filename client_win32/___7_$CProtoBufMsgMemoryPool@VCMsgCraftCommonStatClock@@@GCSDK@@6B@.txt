@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgCraftCommonStatClock@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC3018
+// from "client.dll", by ida_vtables.idc
+0	sub_105F1F50
+1	sub_105F2DE0
+2	sub_105F30B0
+3	sub_1039C610

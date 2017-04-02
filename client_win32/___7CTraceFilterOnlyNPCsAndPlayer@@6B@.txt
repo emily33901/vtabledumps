@@ -1,0 +1,8 @@
+// ___7CTraceFilterOnlyNPCsAndPlayer@@6B@
+// Auto reconstructed from vtable block @ 0x10A42CD0
+// from "client.dll", by ida_vtables.idc
+0	sub_1035BF00
+1	sub_100187C0
+2	unknown_libname_9
+3	sub_1019C4F0
+4	const C_TFPlayerClass::`RTTI Complete Object Locator'

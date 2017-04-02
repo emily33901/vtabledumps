@@ -1,0 +1,5 @@
+// ___7C_TFWeaponBaseGun@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B212D0
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFWeaponBaseGun::`RTTI Complete Object Locator'{for `CGameEventListener'}

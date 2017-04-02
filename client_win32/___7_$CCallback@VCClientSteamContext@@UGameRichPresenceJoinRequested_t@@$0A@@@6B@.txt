@@ -1,0 +1,6 @@
+// ___7_$CCallback@VCClientSteamContext@@UGameRichPresenceJoinRequested_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x109B522C
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_102A1BD0
+2	sub_102A16F0

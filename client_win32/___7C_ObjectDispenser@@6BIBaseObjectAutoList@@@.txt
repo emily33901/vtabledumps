@@ -1,0 +1,5 @@
+// ___7C_ObjectDispenser@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A3BD04
+// from "client.dll", by ida_vtables.idc
+0	sub_105A62A8
+1	const CDispenserControlPanel::`RTTI Complete Object Locator'

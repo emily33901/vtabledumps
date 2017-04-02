@@ -1,0 +1,7 @@
+// ___7_$CCallback@VCAvatarImage@@UPersonaStateChange_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x109D85D8
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_102A1BD0
+2	sub_1001AD20
+3	const CAvatarImage::`RTTI Complete Object Locator'

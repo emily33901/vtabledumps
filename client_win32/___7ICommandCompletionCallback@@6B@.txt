@@ -1,0 +1,5 @@
+// ___7ICommandCompletionCallback@@6B@
+// Auto reconstructed from vtable block @ 0x109957D8
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	const IPresence::`RTTI Complete Object Locator'

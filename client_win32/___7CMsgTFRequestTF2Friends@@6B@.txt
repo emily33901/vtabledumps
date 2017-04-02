@@ -1,0 +1,23 @@
+// ___7CMsgTFRequestTF2Friends@@6B@
+// Auto reconstructed from vtable block @ 0x1095CD6C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013EDA0
+1	sub_106FA390
+2	sub_10167D30
+3	sub_101B4480
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10158A20
+8	sub_10142360
+9	sub_10168D80
+10	sub_1016CDF0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10153C50
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101490C0
+19	const CMsgTFRequestTF2FriendsResponse::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7CDefaultAccessor@@6B@
+// Auto reconstructed from vtable block @ 0x10BB9548
+// from "client.dll", by ida_vtables.idc
+0	sub_10807610

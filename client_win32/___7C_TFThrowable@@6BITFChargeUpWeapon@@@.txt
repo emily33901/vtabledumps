@@ -1,0 +1,7 @@
+// ___7C_TFThrowable@@6BITFChargeUpWeapon@@@
+// Auto reconstructed from vtable block @ 0x10B1C1E0
+// from "client.dll", by ida_vtables.idc
+0	sub_1067EC10
+1	sub_1067EC60
+2	sub_1067ED20
+3	sub_105AF310

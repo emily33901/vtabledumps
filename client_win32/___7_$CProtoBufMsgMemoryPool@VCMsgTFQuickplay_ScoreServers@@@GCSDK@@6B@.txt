@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFQuickplay_ScoreServers@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AA15D8
+// from "client.dll", by ida_vtables.idc
+0	sub_1059CBE0
+1	sub_1059F250
+2	sub_105A0230
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgTFQuickplay_ScoreServersResponse>::`RTTI Complete Object Locator'

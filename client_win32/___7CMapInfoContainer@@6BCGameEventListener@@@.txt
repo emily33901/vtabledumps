@@ -1,0 +1,5 @@
+// ___7CMapInfoContainer@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A99010
+// from "client.dll", by ida_vtables.idc
+0	sub_105836F1
+1	sub_10584050

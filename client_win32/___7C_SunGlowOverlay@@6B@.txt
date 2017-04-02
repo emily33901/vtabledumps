@@ -1,0 +1,9 @@
+// ___7C_SunGlowOverlay@@6B@
+// Auto reconstructed from vtable block @ 0x109AD9B4
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A920
+1	sub_100166E0
+2	sub_1027A950
+3	sub_102CB550
+4	sub_102CB990
+5	const C_Sun::`RTTI Complete Object Locator'

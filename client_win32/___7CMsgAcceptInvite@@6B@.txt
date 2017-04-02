@@ -1,0 +1,23 @@
+// ___7CMsgAcceptInvite@@6B@
+// Auto reconstructed from vtable block @ 0x1095E11C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013CFB0
+1	sub_106FA390
+2	sub_10166040
+3	sub_10145420
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101582F0
+8	sub_1013FF20
+9	sub_10168B80
+10	sub_1016CB90
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1014AF80
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10147640
+19	const CMsgAcceptInviteResponse::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7CHudItemEffectMeter_Rune@@6BIHudItemEffectMeterAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A6D674
+// from "client.dll", by ida_vtables.idc
+0	sub_105335D5

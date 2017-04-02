@@ -1,0 +1,5 @@
+// ___7CBaseLobbyContainerFrame@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AD6420
+// from "client.dll", by ida_vtables.idc
+0	sub_10628D95
+1	sub_10628F70

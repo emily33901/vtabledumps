@@ -1,0 +1,22 @@
+// ___7_$CDmArrayAttributeOp@VVector4D@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BE386C
+// from "client.dll", by ida_vtables.idc
+0	sub_10903340
+1	sub_109036D0
+2	sub_10914860
+3	sub_10903600
+4	sub_10903600
+5	sub_10017FE0
+6	sub_10918170
+7	sub_10901510
+8	sub_10917800
+9	sub_109166B0
+10	sub_10913FC0
+11	sub_10917290
+12	sub_10912A80
+13	sub_1091DA80
+14	sub_10913230
+15	sub_1091F0F0
+16	sub_1091F030
+17	sub_1090A0E0
+18	const CDmArrayAttributeOp<class QAngle>::`RTTI Complete Object Locator'

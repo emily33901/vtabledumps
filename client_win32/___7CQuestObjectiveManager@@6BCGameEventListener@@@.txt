@@ -1,0 +1,6 @@
+// ___7CQuestObjectiveManager@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A4C2C4
+// from "client.dll", by ida_vtables.idc
+0	sub_104EC3F0
+1	sub_104ED390
+2	const CQuestObjectiveManager::`RTTI Complete Object Locator'{for `CAutoGameSystemPerFrame'}

@@ -1,0 +1,5 @@
+// ___7CWorkThreadPool@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6DDEC
+// from "client.dll", by ida_vtables.idc
+0	sub_106D7130
+1	sub_106D7300

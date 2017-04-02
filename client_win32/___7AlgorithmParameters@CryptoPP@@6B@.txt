@@ -1,0 +1,5 @@
+// ___7AlgorithmParameters@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE1FFC
+// from "client.dll", by ida_vtables.idc
+0	sub_108D8990
+1	sub_108D89C0

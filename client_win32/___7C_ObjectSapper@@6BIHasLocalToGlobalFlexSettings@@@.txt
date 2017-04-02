@@ -1,0 +1,5 @@
+// ___7C_ObjectSapper@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10A3D0F4
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const C_ObjectSapper::`RTTI Complete Object Locator'{for `IHasBuildPoints'}

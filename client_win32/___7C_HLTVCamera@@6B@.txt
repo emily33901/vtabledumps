@@ -1,0 +1,5 @@
+// ___7C_HLTVCamera@@6B@
+// Auto reconstructed from vtable block @ 0x109BBCA8
+// from "client.dll", by ida_vtables.idc
+0	sub_102CEB20
+1	sub_102CFAD0

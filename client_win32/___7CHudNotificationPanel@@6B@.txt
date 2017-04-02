@@ -1,0 +1,19 @@
+// ___7CHudNotificationPanel@@6B@
+// Auto reconstructed from vtable block @ 0x10A837B4
+// from "client.dll", by ida_vtables.idc
+0	sub_10557FA0
+1	nullsub_4
+2	sub_10558640
+3	nullsub_1
+4	sub_10558DC0
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_10559C30
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CHudNotificationPanel::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

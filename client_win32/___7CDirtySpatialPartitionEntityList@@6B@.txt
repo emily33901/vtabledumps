@@ -1,0 +1,21 @@
+// ___7CDirtySpatialPartitionEntityList@@6B@
+// Auto reconstructed from vtable block @ 0x109B5418
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_102A2C40
+2	nullsub_1
+3	sub_102A3B70
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_102A2CE0
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_10017FE0
+13	sub_102A2200
+14	nullsub_1
+15	nullsub_4
+16	nullsub_1
+17	const CDirtySpatialPartitionEntityList::`RTTI Complete Object Locator'{for `IPartitionQueryCallback'}

@@ -1,0 +1,12 @@
+// ___7CReplayRenderer@@6B@
+// Auto reconstructed from vtable block @ 0x10973D3C
+// from "client.dll", by ida_vtables.idc
+0	sub_101D7E40
+1	sub_101D95A0
+2	sub_101D98E0
+3	sub_101D9030
+4	sub_101D8E50
+5	sub_101D9240
+6	sub_101D8A70
+7	sub_101D86B0
+8	const IMaterialProxy::`RTTI Complete Object Locator'

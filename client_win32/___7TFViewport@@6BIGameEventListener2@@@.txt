@@ -1,0 +1,5 @@
+// ___7TFViewport@@6BIGameEventListener2@@@
+// Auto reconstructed from vtable block @ 0x10AE7B00
+// from "client.dll", by ida_vtables.idc
+0	loc_10657A5C
+1	sub_10453DF0

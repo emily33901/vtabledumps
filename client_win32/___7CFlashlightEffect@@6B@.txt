@@ -1,0 +1,6 @@
+// ___7CFlashlightEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109B8930
+// from "client.dll", by ida_vtables.idc
+0	sub_102B2EB0
+1	sub_102B3040
+2	const CHeadlightEffect::`RTTI Complete Object Locator'

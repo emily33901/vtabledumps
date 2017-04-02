@@ -1,0 +1,6 @@
+// ___7CHairballDelegate@C_Hairball@@6B@
+// Auto reconstructed from vtable block @ 0x109A588C
+// from "client.dll", by ida_vtables.idc
+0	sub_102640E0
+1	sub_102632F0
+2	const C_Hairball::`RTTI Complete Object Locator'

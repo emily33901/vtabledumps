@@ -1,0 +1,4 @@
+// ___7C_ViewmodelAttachmentModel@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x109E19B8
+// from "client.dll", by ida_vtables.idc
+0	sub_10388D80

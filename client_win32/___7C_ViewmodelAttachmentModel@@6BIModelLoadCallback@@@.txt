@@ -1,0 +1,5 @@
+// ___7C_ViewmodelAttachmentModel@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109E19B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_ViewmodelAttachmentModel::`RTTI Complete Object Locator'{for `IHasOwner'}

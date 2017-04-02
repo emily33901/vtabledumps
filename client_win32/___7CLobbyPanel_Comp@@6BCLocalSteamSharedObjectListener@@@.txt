@@ -1,0 +1,11 @@
+// ___7CLobbyPanel_Comp@@6BCLocalSteamSharedObjectListener@@@
+// Auto reconstructed from vtable block @ 0x10ADAC9C
+// from "client.dll", by ida_vtables.idc
+0	sub_10634460
+1	nullsub_2
+2	sub_10634460
+3	nullsub_2
+4	nullsub_5
+5	nullsub_2
+6	nullsub_2
+7	loc_1063399E

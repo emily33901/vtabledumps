@@ -1,0 +1,20 @@
+// ___7CClientNotification@@6B@
+// Auto reconstructed from vtable block @ 0x10A41754
+// from "client.dll", by ida_vtables.idc
+0	sub_104C6510
+1	sub_10418BB0
+2	sub_10415C10
+3	sub_10415C10
+4	sub_10017FE0
+5	sub_10416680
+6	sub_10017FE0
+7	sub_104C6570
+8	sub_10017FE0
+9	sub_104C6570
+10	sub_104C6570
+11	sub_104C6550
+12	sub_104C6550
+13	nullsub_1
+14	sub_10415EE0
+15	sub_10415880
+16	const C_TFObjectiveResource::`RTTI Complete Object Locator'

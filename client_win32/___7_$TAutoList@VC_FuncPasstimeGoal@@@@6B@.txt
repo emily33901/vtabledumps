@@ -1,0 +1,5 @@
+// ___7_$TAutoList@VC_FuncPasstimeGoal@@@@6B@
+// Auto reconstructed from vtable block @ 0x10A3A7EC
+// from "client.dll", by ida_vtables.idc
+0	sub_104BA4C0
+1	const C_FuncPasstimeGoal::`RTTI Complete Object Locator'

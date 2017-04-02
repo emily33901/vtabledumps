@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgSelectPresetForClass@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E51D0
+// from "client.dll", by ida_vtables.idc
+0	sub_10399B80
+1	sub_1039B500
+2	sub_1039C5B0
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgSortItems>::`RTTI Complete Object Locator'

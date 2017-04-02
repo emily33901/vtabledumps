@@ -1,0 +1,20 @@
+// ___7CBasePresence@@6BCAutoGameSystemPerFrame@@@
+// Auto reconstructed from vtable block @ 0x10995878
+// from "client.dll", by ida_vtables.idc
+0	sub_102180C0
+1	sub_102180A0
+2	nullsub_1
+3	nullsub_1
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	nullsub_1
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	sub_10217F36
+14	nullsub_1
+15	nullsub_4
+16	nullsub_1

@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFCoaching_AskCoach@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4E5C4
+// from "client.dll", by ida_vtables.idc
+0	sub_104F46F0
+1	sub_104F58E0
+2	sub_104F5C30
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgTFCoaching_CoachJoinGame>::`RTTI Complete Object Locator'

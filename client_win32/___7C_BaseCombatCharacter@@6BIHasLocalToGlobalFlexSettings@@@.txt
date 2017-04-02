@@ -1,0 +1,4 @@
+// ___7C_BaseCombatCharacter@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10999FE8
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080

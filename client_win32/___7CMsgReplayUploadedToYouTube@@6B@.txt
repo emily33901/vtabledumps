@@ -1,0 +1,23 @@
+// ___7CMsgReplayUploadedToYouTube@@6B@
+// Auto reconstructed from vtable block @ 0x10967B20
+// from "client.dll", by ida_vtables.idc
+0	sub_10180800
+1	sub_106FA390
+2	sub_10196F90
+3	sub_10184590
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10191880
+8	sub_101823A0
+9	sub_101987D0
+10	sub_1019A970
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1018AB80
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10185F10
+19	const CMsgConsumableExhausted::`RTTI Complete Object Locator'

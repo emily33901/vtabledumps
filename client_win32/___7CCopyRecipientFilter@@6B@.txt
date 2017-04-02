@@ -1,0 +1,9 @@
+// ___7CCopyRecipientFilter@@6B@
+// Auto reconstructed from vtable block @ 0x109D4B0C
+// from "client.dll", by ida_vtables.idc
+0	sub_1034E4F0
+1	sub_1034ED90
+2	sub_1034ED80
+3	sub_1034EAB0
+4	sub_1034EAC0
+5	sub_1034E590

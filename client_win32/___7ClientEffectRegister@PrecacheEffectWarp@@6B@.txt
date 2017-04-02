@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecacheEffectWarp@@6B@
+// Auto reconstructed from vtable block @ 0x109DFC78
+// from "client.dll", by ida_vtables.idc
+0	sub_10381EB0
+1	const CWaterLODMaterialProxy::`RTTI Complete Object Locator'

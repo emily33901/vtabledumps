@@ -1,0 +1,5 @@
+// ___7CModelPresetGroupManager@@6B@
+// Auto reconstructed from vtable block @ 0x10BB2130
+// from "client.dll", by ida_vtables.idc
+0	sub_107C9F20
+1	sub_107C9D90

@@ -1,0 +1,6 @@
+// ___7_$CCallResult@VCHelperStreamDownloadUrlToLocalFile@@UHTTPRequestCompleted_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10AE2B90
+// from "client.dll", by ida_vtables.idc
+0	sub_105E4B50
+1	sub_105E4B20
+2	sub_10017040

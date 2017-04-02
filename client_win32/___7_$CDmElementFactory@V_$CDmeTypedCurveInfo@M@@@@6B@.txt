@@ -1,0 +1,7 @@
+// ___7_$CDmElementFactory@V_$CDmeTypedCurveInfo@M@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB0050
+// from "client.dll", by ida_vtables.idc
+0	sub_1076FDB0
+1	sub_107CB520
+2	sub_107B52B0
+3	sub_10017FE0

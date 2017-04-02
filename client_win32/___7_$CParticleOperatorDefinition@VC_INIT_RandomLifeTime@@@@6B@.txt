@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_RandomLifeTime@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB6C44
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1AF0
+2	sub_107F2350
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107DBAF0

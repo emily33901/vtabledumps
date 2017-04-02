@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_MaintainSequentialPath@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB5970
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107DB490
+2	sub_107DBE60
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_1076A000

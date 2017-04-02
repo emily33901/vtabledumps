@@ -1,0 +1,11 @@
+// ___7TFViewport@@6BIViewPort@@@
+// Auto reconstructed from vtable block @ 0x10AE7AE0
+// from "client.dll", by ida_vtables.idc
+0	sub_10454A40
+1	sub_104547F0
+2	sub_104548B0
+3	sub_104547E0
+4	sub_10453D80
+5	sub_10697450
+6	sub_104544A0
+7	const TFViewport::`RTTI Complete Object Locator'{for `IGameEventListener2'}

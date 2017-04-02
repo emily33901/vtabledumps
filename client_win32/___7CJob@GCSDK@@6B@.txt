@@ -1,0 +1,7 @@
+// ___7CJob@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6CCA8
+// from "client.dll", by ida_vtables.idc
+0	sub_106BD8D0
+1	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+2	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+3	__RTC_NumErrors

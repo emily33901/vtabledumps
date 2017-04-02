@@ -1,0 +1,7 @@
+// ___7CHLVoiceStatusHelper@@6B@
+// Auto reconstructed from vtable block @ 0x109B25C4
+// from "client.dll", by ida_vtables.idc
+0	sub_102825D0
+1	sub_10282CE0
+2	nullsub_1
+3	sub_100166E0

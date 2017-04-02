@@ -1,0 +1,31 @@
+// ___7CClientLeafSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109B39B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10290710
+1	sub_10292540
+2	sub_1028F3D0
+3	sub_1028FE60
+4	sub_1028F290
+5	sub_10291060
+6	sub_102927B0
+7	sub_10290F70
+8	sub_10292700
+9	sub_10290DD0
+10	sub_102909F0
+11	sub_10292800
+12	sub_102926A0
+13	sub_10292730
+14	sub_102903F0
+15	sub_1028FB90
+16	sub_102902E0
+17	sub_10290A30
+18	sub_10290A20
+19	sub_1028F4C0
+20	sub_10292650
+21	sub_10291B00
+22	sub_102919F0
+23	sub_10290C70
+24	sub_10290ED0
+25	sub_10290E00
+26	sub_10290A40
+27	const CClientLeafSystem::`RTTI Complete Object Locator'{for `IGameSystemPerFrame'}

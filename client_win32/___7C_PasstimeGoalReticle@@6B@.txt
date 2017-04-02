@@ -1,0 +1,6 @@
+// ___7C_PasstimeGoalReticle@@6B@
+// Auto reconstructed from vtable block @ 0x10A87704
+// from "client.dll", by ida_vtables.idc
+0	sub_1055FAF0
+1	sub_10560600
+2	const C_PasstimePassReticle::`RTTI Complete Object Locator'

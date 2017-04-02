@@ -1,0 +1,26 @@
+// ___7CTFHudDeathNotice@@6B@
+// Auto reconstructed from vtable block @ 0x10A6532C
+// from "client.dll", by ida_vtables.idc
+0	sub_1051F810
+1	sub_1051FB70
+2	sub_10520100
+3	sub_102DEDE0
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_100166E0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	sub_10521AD0
+16	sub_1051FFB0
+17	sub_10520290
+18	sub_1051FB10
+19	sub_10522400
+20	sub_1051FC10
+21	sub_102DD530
+22	const CTFHudDeathNotice::`RTTI Complete Object Locator'{for `vgui::Panel'}

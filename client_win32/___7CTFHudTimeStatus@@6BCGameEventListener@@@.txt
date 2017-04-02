@@ -1,0 +1,5 @@
+// ___7CTFHudTimeStatus@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AA7EEC
+// from "client.dll", by ida_vtables.idc
+0	sub_1054476E
+1	sub_105AB0E0

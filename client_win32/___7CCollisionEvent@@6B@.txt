@@ -1,0 +1,14 @@
+// ___7CCollisionEvent@@6B@
+// Auto reconstructed from vtable block @ 0x109CE554
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	sub_103227A0
+2	sub_10321250
+3	sub_10322AE0
+4	sub_10321060
+5	sub_103211F0
+6	sub_103211E0
+7	nullsub_1
+8	nullsub_2
+9	nullsub_2
+10	const CCollisionEvent::`RTTI Complete Object Locator'{for `IPhysicsCollisionSolver'}

@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgSOSingleObject@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6D0EC
+// from "client.dll", by ida_vtables.idc
+0	sub_106BF0A0
+1	sub_103E0260
+2	const GCSDK::CGCSODestroyJob::`RTTI Complete Object Locator'

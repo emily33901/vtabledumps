@@ -1,0 +1,6 @@
+// ___7CNoHoliday@@6B@
+// Auto reconstructed from vtable block @ 0x109E1C74
+// from "client.dll", by ida_vtables.idc
+0	sub_1038B770
+1	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+2	const CCyclicalHoliday::`RTTI Complete Object Locator'

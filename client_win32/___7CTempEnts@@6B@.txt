@@ -1,0 +1,35 @@
+// ___7CTempEnts@@6B@
+// Auto reconstructed from vtable block @ 0x10A1EDA8
+// from "client.dll", by ida_vtables.idc
+0	sub_10481FC0
+1	sub_10484D20
+2	sub_1082C7F0
+3	nullsub_1
+4	sub_10485530
+5	sub_10489270
+6	sub_10483190
+7	sub_10483CC0
+8	sub_10482450
+9	sub_10487F90
+10	sub_104855D0
+11	sub_104856A0
+12	sub_104838C0
+13	sub_10488530
+14	sub_104825D0
+15	sub_10482D10
+16	sub_10482B10
+17	sub_10488640
+18	sub_10483D10
+19	sub_10483360
+20	sub_10488740
+21	sub_10489070
+22	sub_10482270
+23	sub_10485450
+24	sub_104887E0
+25	sub_10488A10
+26	sub_104880F0
+27	nullsub_3
+28	nullsub_11
+29	sub_10487AC0
+30	sub_104879E0
+31	sub_10483200

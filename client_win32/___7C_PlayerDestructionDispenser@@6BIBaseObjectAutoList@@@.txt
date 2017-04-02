@@ -1,0 +1,4 @@
+// ___7C_PlayerDestructionDispenser@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A97EF8
+// from "client.dll", by ida_vtables.idc
+0	sub_105A62A8

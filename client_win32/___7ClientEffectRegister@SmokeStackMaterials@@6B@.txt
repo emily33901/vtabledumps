@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@SmokeStackMaterials@@6B@
+// Auto reconstructed from vtable block @ 0x109A1FC4
+// from "client.dll", by ida_vtables.idc
+0	sub_1025AAB0

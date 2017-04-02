@@ -1,0 +1,8 @@
+// ___7_$CFunctor6@P6AXHHHH_N0@ZHHHH_N_NV_$CRefCounted1@VCFunctor@@V_$CRefCountServiceBase@$00VCRefMT@@@@@@@@6B@
+// Auto reconstructed from vtable block @ 0x109DEB4C
+// from "client.dll", by ida_vtables.idc
+0	sub_1022CD90
+1	sub_10236090
+2	sub_1022CA60
+3	sub_1036FE00
+4	const CFunctor6<void (cdecl *)(int,int,int,int,bool,bool),int,int,int,int,bool,bool,class CRefCounted1<class CFunctor,class CRefCountServiceBase<1,class CRefMT>>>::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

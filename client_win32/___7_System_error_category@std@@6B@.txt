@@ -1,0 +1,9 @@
+// ___7_System_error_category@std@@6B@
+// Auto reconstructed from vtable block @ 0x1095B9B8
+// from "client.dll", by ida_vtables.idc
+0	sub_101373D0
+1	sub_10137A70
+2	sub_101379E0
+3	sub_101377C0
+4	sub_10137820
+5	sub_10137840

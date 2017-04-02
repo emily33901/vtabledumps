@@ -1,0 +1,19 @@
+// ___7CDmeDirectionalLight@@6B@
+// Auto reconstructed from vtable block @ 0x10BB1BD8
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107C9300
+6	sub_107C8C90
+7	nullsub_1
+8	sub_107C8AC0
+9	sub_107C85E0
+10	sub_107C9690
+11	unknown_libname_58
+12	sub_10756A10
+13	sub_107C98C0
+14	sub_107C8E00
+15	const CDmePointLight::`RTTI Complete Object Locator'

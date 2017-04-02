@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgGCQuestObjective_RequestLoanerResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10ACABB8
+// from "client.dll", by ida_vtables.idc
+0	loc_106076A0
+1	sub_103E0260
+2	const GCSDK::CProtoBufMsgMemoryPool<class CMsgGCQuestObjective_RequestLoanerItems>::`RTTI Complete Object Locator'

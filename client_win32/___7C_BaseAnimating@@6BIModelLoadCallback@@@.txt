@@ -1,0 +1,5 @@
+// ___7C_BaseAnimating@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109978C8
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_ClientRagdoll::`RTTI Complete Object Locator'

@@ -1,0 +1,18 @@
+// ___7CHudVote@@6BCHudElement@@@
+// Auto reconstructed from vtable block @ 0x109C7580
+// from "client.dll", by ida_vtables.idc
+0	sub_102F6B38
+1	sub_102F7600
+2	sub_102F7C70
+3	nullsub_1
+4	sub_102F8280
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_102FA910
+10	sub_102A0800
+11	sub_102D5170
+12	sub_102F7B40
+13	sub_108029C0
+14	sub_10091570

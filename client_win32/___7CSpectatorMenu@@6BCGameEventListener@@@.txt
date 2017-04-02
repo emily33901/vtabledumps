@@ -1,0 +1,5 @@
+// ___7CSpectatorMenu@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A12678
+// from "client.dll", by ida_vtables.idc
+0	loc_1045961F
+1	sub_10459900

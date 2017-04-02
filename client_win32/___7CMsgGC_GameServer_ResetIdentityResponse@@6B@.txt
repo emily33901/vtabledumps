@@ -1,0 +1,23 @@
+// ___7CMsgGC_GameServer_ResetIdentityResponse@@6B@
+// Auto reconstructed from vtable block @ 0x1095D8AC
+// from "client.dll", by ida_vtables.idc
+0	sub_1013D960
+1	sub_106FA390
+2	sub_10166920
+3	sub_101458E0
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_1015A910
+8	sub_10140A10
+9	sub_101692D0
+10	sub_1016F3C0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1014D660
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10147E00
+19	const CMsgGC_GameServer_AckPolicy::`RTTI Complete Object Locator'

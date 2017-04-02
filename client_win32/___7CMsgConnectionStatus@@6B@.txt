@@ -1,0 +1,23 @@
+// ___7CMsgConnectionStatus@@6B@
+// Auto reconstructed from vtable block @ 0x10B6E6F8
+// from "client.dll", by ida_vtables.idc
+0	sub_106D88B0
+1	sub_106FA390
+2	sub_106DF690
+3	sub_10146620
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_106DD900
+8	sub_106D9140
+9	sub_106DFD90
+10	sub_106E0940
+11	sub_106BCB50
+12	sub_10147180
+13	sub_106DB380
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_106DA560
+19	const CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::`RTTI Complete Object Locator'

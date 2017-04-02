@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGC_ReportPlayer@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10ACC8A8
+// from "client.dll", by ida_vtables.idc
+0	sub_10611C20
+1	sub_10612060
+2	sub_10612200
+3	sub_1039C610
+4	const CSCHintIcon::`RTTI Complete Object Locator'

@@ -1,0 +1,15 @@
+// ___7IParticleEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109951E4
+// from "client.dll", by ida_vtables.idc
+0	sub_102157D0
+1	nullsub_4
+2	nullsub_4
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	sub_108A465B
+7	nullsub_1
+8	nullsub_4
+9	sub_108A465B
+10	sub_10215860
+11	sub_10215850

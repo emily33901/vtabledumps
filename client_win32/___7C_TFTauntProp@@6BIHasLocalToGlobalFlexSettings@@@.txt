@@ -1,0 +1,4 @@
+// ___7C_TFTauntProp@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10A4687C
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080

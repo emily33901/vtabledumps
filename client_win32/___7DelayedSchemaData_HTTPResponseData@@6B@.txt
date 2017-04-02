@@ -1,0 +1,6 @@
+// ___7DelayedSchemaData_HTTPResponseData@@6B@
+// Auto reconstructed from vtable block @ 0x109E98B0
+// from "client.dll", by ida_vtables.idc
+0	sub_103CDEA0
+1	sub_103CE730
+2	const CCallResult<class CGCUpdateItemSchema,struct HTTPRequestCompleted_t>::`RTTI Complete Object Locator'

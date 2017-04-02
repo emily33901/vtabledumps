@@ -1,0 +1,4 @@
+// ___7C_Merasmus@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10AAB628
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080

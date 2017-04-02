@@ -1,0 +1,9 @@
+// ___7C_TFWearableRobotArm@@6BIHasAttributes@@@
+// Auto reconstructed from vtable block @ 0x10B1EDF8
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F360
+1	sub_1020F360
+2	sub_1020F370
+3	sub_1020F350
+4	sub_103F1DA0
+5	const C_TFWearableRobotArm::`RTTI Complete Object Locator'{for `CGameEventListener'}

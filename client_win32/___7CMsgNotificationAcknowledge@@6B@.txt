@@ -1,0 +1,23 @@
+// ___7CMsgNotificationAcknowledge@@6B@
+// Auto reconstructed from vtable block @ 0x1095F1FC
+// from "client.dll", by ida_vtables.idc
+0	sub_1013E2B0
+1	sub_106FA390
+2	sub_10167250
+3	sub_101B5730
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10157600
+8	sub_1013FA40
+9	sub_106DFFF0
+10	sub_1016C700
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10150CF0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10148700
+19	const CMsgNotificationAcknowledgeReply::`RTTI Complete Object Locator'

@@ -1,0 +1,19 @@
+// ___7CDmeSingleIndexedComponent@@6B@
+// Auto reconstructed from vtable block @ 0x10BB159C
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107C5D20
+6	sub_107C5C80
+7	nullsub_1
+8	sub_107DBD80
+9	sub_107C5A20
+10	sub_107C5E20
+11	j_nullsub_1
+12	sub_107C5AD0
+13	sub_107C5D60
+14	sub_107C5A80
+15	const CDmElementFactory<class CDmeComponent>::`RTTI Complete Object Locator'

@@ -1,0 +1,35 @@
+// ___7CDmeLogLayer@@6B@
+// Auto reconstructed from vtable block @ 0x10BAF220
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_10792540
+6	sub_10784410
+7	nullsub_1
+8	sub_107C9D80
+9	sub_10769580
+10	sub_1079FA20
+11	j_nullsub_1
+12	sub_108A465B
+13	sub_108A465B
+14	sub_108A465B
+15	sub_108A465B
+16	sub_108A465B
+17	sub_108A465B
+18	sub_108A465B
+19	sub_108A465B
+20	sub_108A465B
+21	sub_108A465B
+22	sub_108A465B
+23	sub_108A465B
+24	sub_108A465B
+25	sub_108A465B
+26	sub_108A465B
+27	sub_108A465B
+28	sub_108A465B
+29	sub_108A465B
+30	sub_108A465B
+31	const CDmeCurveInfo::`RTTI Complete Object Locator'

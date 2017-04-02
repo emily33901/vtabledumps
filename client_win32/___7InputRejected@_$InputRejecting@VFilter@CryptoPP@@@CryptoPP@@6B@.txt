@@ -1,0 +1,6 @@
+// ___7InputRejected@_$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2E84
+// from "client.dll", by ida_vtables.idc
+0	sub_10886E40
+1	sub_10888310
+2	const CryptoPP::PK_MessageAccumulatorImpl<class CryptoPP::SHA256>::`RTTI Complete Object Locator'

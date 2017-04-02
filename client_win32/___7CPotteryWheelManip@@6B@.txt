@@ -1,0 +1,14 @@
+// ___7CPotteryWheelManip@@6B@
+// Auto reconstructed from vtable block @ 0x10BAE280
+// from "client.dll", by ida_vtables.idc
+0	sub_1074A0B0
+1	sub_1074EAD0
+2	sub_1074EAC0
+3	sub_1074EB10
+4	sub_1074EE60
+5	sub_1074EBB0
+6	sub_1074ED10
+7	sub_1074ED50
+8	sub_1074EDB0
+9	sub_1074B8B0
+10	const CDmeFaceSet::`RTTI Complete Object Locator'

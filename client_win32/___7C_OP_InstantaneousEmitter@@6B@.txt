@@ -1,0 +1,35 @@
+// ___7C_OP_InstantaneousEmitter@@6B@
+// Auto reconstructed from vtable block @ 0x10BB8518
+// from "client.dll", by ida_vtables.idc
+0	sub_107FC400
+1	sub_1001AD20
+2	sub_107FC480
+3	sub_107F1F40
+4	sub_10091570
+5	sub_107FC370
+6	sub_10091570
+7	nullsub_5
+8	nullsub_4
+9	nullsub_5
+10	sub_100166E0
+11	nullsub_15
+12	sub_107DBB40
+13	sub_107FBDB0
+14	sub_107FCA00
+15	sub_107FC9D0
+16	sub_107FC5F0
+17	nullsub_2
+18	nullsub_11
+19	nullsub_2
+20	sub_107DBAD0
+21	sub_10017FE0
+22	sub_10017FE0
+23	sub_10017FE0
+24	nullsub_11
+25	sub_107DC060
+26	sub_107FC580
+27	sub_10017FE0
+28	sub_10017FE0
+29	sub_107FC8B0
+30	sub_107F10A0
+31	const CParticleOperatorDefinition<class C_OP_InstantaneousEmitter>::`RTTI Complete Object Locator'

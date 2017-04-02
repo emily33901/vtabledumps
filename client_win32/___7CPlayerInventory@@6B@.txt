@@ -1,0 +1,29 @@
+// ___7CPlayerInventory@@6B@
+// Auto reconstructed from vtable block @ 0x109E46F4
+// from "client.dll", by ida_vtables.idc
+0	sub_1039E350
+1	nullsub_2
+2	sub_1039E530
+3	nullsub_2
+4	sub_1039E480
+5	sub_1039E090
+6	sub_1039E200
+7	sub_10399D10
+8	sub_1039A570
+9	sub_10094850
+10	sub_10457D40
+11	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+12	sub_1039A9A0
+13	unknown_libname_5
+14	sub_10091570
+15	sub_1039E240
+16	nullsub_1
+17	sub_108298F0
+18	sub_10399E30
+19	sub_1039D7C0
+20	nullsub_1
+21	nullsub_2
+22	nullsub_1
+23	sub_1039C980
+24	nullsub_4
+25	const CCallback<class CInventoryManager,struct PersonaStateChange_t,0>::`RTTI Complete Object Locator'

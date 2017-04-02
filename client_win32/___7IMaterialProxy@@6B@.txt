@@ -1,0 +1,9 @@
+// ___7IMaterialProxy@@6B@
+// Auto reconstructed from vtable block @ 0x10973D60
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_102B1C20
+5	const CAccumBuffProxy::`RTTI Complete Object Locator'

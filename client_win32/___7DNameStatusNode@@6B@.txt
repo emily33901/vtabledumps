@@ -1,0 +1,7 @@
+// ___7DNameStatusNode@@6B@
+// Auto reconstructed from vtable block @ 0x10BE0C14
+// from "client.dll", by ida_vtables.idc
+0	sub_106BCB50
+1	public: virtual char thiscall DNameStatusNode::getLastChar(void)const
+2	public: virtual char near * thiscall DNameStatusNode::getString(char near *,char near *)const
+3	const pairNode::`RTTI Complete Object Locator'

@@ -1,0 +1,12 @@
+// ___7CClientEntityList@@6BIClientEntityList@@@
+// Auto reconstructed from vtable block @ 0x109B3858
+// from "client.dll", by ida_vtables.idc
+0	sub_1028CBC0
+1	sub_1028CBD0
+2	sub_1028CC60
+3	sub_1028CB60
+4	sub_1028CB90
+5	sub_1028D470
+6	sub_106AC270
+7	public: void thiscall Concurrency::details::ExecutionResource::MarkAsVirtualProcessorRoot(class Concurrency::details::VirtualProcessorRoot near *)
+8	sub_10015E10

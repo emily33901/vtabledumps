@@ -1,0 +1,11 @@
+// ___7BaseTooltip@vgui@@6B@
+// Auto reconstructed from vtable block @ 0x10BCD2A4
+// from "client.dll", by ida_vtables.idc
+0	sub_10876A00
+1	sub_106BCB50
+2	sub_10876BC0
+3	sub_108767C0
+4	nullsub_1
+5	sub_108768C0
+6	nullsub_4
+7	const vgui::TextTooltip::`RTTI Complete Object Locator'

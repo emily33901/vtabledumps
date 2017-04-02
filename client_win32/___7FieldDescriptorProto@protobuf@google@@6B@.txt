@@ -1,0 +1,23 @@
+// ___7FieldDescriptorProto@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA7270
+// from "client.dll", by ida_vtables.idc
+0	sub_107213E0
+1	sub_106FA390
+2	sub_10729B00
+3	sub_10722A50
+4	sub_107237B0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10726F90
+8	sub_10721B50
+9	sub_1072A3C0
+10	sub_1072B060
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10724860
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10723290
+19	const google::protobuf::EnumDescriptorProto::`RTTI Complete Object Locator'

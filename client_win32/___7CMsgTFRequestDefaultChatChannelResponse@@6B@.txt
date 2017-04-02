@@ -1,0 +1,23 @@
+// ___7CMsgTFRequestDefaultChatChannelResponse@@6B@
+// Auto reconstructed from vtable block @ 0x1095E52C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013ED30
+1	sub_106FA390
+2	sub_10167CE0
+3	sub_10146710
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10161720
+8	sub_10143470
+9	sub_1016AED0
+10	sub_1016FBD0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10153B30
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10149080
+19	const CMsgTFRequestChatChannelList::`RTTI Complete Object Locator'

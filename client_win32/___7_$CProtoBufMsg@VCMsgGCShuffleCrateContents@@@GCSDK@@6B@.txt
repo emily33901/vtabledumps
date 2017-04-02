@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgGCShuffleCrateContents@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC4B08
+// from "client.dll", by ida_vtables.idc
+0	loc_105FA110
+1	sub_103E0260

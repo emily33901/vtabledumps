@@ -1,0 +1,4 @@
+// ___7CParticleMgr@@6B@
+// Auto reconstructed from vtable block @ 0x109CD658
+// from "client.dll", by ida_vtables.idc
+0	sub_10316ED0

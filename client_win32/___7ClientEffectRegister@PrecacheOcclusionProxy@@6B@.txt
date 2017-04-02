@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecacheOcclusionProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109A7D20
+// from "client.dll", by ida_vtables.idc
+0	sub_10266C40
+1	const CPixelVisibilitySystem::`RTTI Complete Object Locator'

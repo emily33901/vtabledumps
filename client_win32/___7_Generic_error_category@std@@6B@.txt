@@ -1,0 +1,9 @@
+// ___7_Generic_error_category@std@@6B@
+// Auto reconstructed from vtable block @ 0x1095B944
+// from "client.dll", by ida_vtables.idc
+0	sub_101373D0
+1	sub_10137A50
+2	sub_10137920
+3	public: virtual class std::error_condition thiscall std::error_category::default_error_condition(int)const
+4	sub_10137820
+5	sub_10137840

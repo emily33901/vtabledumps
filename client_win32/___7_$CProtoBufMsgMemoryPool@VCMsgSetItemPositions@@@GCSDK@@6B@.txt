@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgSetItemPositions@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E51F8
+// from "client.dll", by ida_vtables.idc
+0	sub_10399BB0
+1	sub_1039B550
+2	sub_1039C5D0
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgLookupMultipleAccountNames>::`RTTI Complete Object Locator'

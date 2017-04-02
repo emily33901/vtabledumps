@@ -1,0 +1,7 @@
+// ___7CSceneTokenProcessor@@6B@
+// Auto reconstructed from vtable block @ 0x109D36A4
+// from "client.dll", by ida_vtables.idc
+0	sub_103F2A70
+1	sub_10349D60
+2	sub_10349E00
+3	sub_10349D20

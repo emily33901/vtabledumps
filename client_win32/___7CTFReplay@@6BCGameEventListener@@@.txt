@@ -1,0 +1,5 @@
+// ___7CTFReplay@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A15B78
+// from "client.dll", by ida_vtables.idc
+0	sub_1045ECFD
+1	sub_1045EDB0

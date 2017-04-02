@@ -1,0 +1,9 @@
+// ___7ConVar@@6BIConVar@@@
+// Auto reconstructed from vtable block @ 0x10BB9530
+// from "client.dll", by ida_vtables.idc
+0	sub_10807720
+1	sub_10807730
+2	sub_10807750
+3	sub_1028241C
+4	sub_10282424
+5	const CDefaultAccessor::`RTTI Complete Object Locator'

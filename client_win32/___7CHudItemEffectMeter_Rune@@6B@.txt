@@ -1,0 +1,29 @@
+// ___7CHudItemEffectMeter_Rune@@6B@
+// Auto reconstructed from vtable block @ 0x10A6D258
+// from "client.dll", by ida_vtables.idc
+0	sub_105335F0
+1	nullsub_4
+2	nullsub_1
+3	nullsub_1
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_10538360
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	sub_10539230
+16	sub_10534F00
+17	sub_10534D50
+18	sub_10535460
+19	sub_105380A0
+20	sub_10535500
+21	sub_10534B20
+22	sub_10538580
+23	sub_10017FE0
+24	sub_10017FE0
+25	const CHudItemEffectMeter_Rune::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

@@ -1,0 +1,4 @@
+// ___7_$CPanelFactory@VCBasicControlPanel@@UVGuiScreenInitData_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10A39710
+// from "client.dll", by ida_vtables.idc
+0	sub_104B8130

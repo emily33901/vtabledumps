@@ -1,0 +1,35 @@
+// ___7_$CDmeTypedLogLayer@VColor@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BAF7A0
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107922E0
+6	sub_10783FD0
+7	nullsub_1
+8	sub_10769FF0
+9	sub_10768C20
+10	sub_1079F780
+11	j_nullsub_1
+12	sub_1076F120
+13	sub_1076F5F0
+14	sub_10771590
+15	sub_1078B420
+16	sub_1001CD50
+17	sub_107B5BB0
+18	sub_107B4F80
+19	sub_1078AD70
+20	sub_10785F60
+21	sub_10782810
+22	sub_107A12A0
+23	sub_1076E540
+24	sub_10792630
+25	sub_107A9A70
+26	sub_107A9B40
+27	sub_107AC3E0
+28	sub_10773D00
+29	sub_10772650
+30	sub_107B6860
+31	const CDmeTypedLogLayer<class VMatrix>::`RTTI Complete Object Locator'

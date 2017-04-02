@@ -1,0 +1,9 @@
+// ___7CTFConditionList@@6B@
+// Auto reconstructed from vtable block @ 0x10A4E628
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1
+2	sub_104F6980
+3	nullsub_1
+4	sub_104F6A60
+5	const CTFCondition::`RTTI Complete Object Locator'

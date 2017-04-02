@@ -1,0 +1,10 @@
+// ___7CClassFilterTooltip@@6B@
+// Auto reconstructed from vtable block @ 0x10B26D6C
+// from "client.dll", by ida_vtables.idc
+0	sub_10692020
+1	sub_106BCB50
+2	sub_106920E0
+3	sub_10691460
+4	nullsub_1
+5	sub_108768C0
+6	nullsub_4

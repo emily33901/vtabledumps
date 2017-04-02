@@ -1,0 +1,23 @@
+// ___7CGCToGCMsgRoutedReply@@6B@
+// Auto reconstructed from vtable block @ 0x10B6E4C8
+// from "client.dll", by ida_vtables.idc
+0	sub_106D8840
+1	sub_106FA390
+2	sub_106DF640
+3	sub_106D9F30
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_106DD7C0
+8	sub_106D9020
+9	sub_101C77F0
+10	sub_1016D2D0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_106DB1F0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_106DA520
+19	const CMsgGCUpdateSubGCSessionInfo_CMsgUpdate::`RTTI Complete Object Locator'

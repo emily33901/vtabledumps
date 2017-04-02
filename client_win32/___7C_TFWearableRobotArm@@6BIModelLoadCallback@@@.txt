@@ -1,0 +1,5 @@
+// ___7C_TFWearableRobotArm@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10B1EDF0
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFWearableRobotArm::`RTTI Complete Object Locator'{for `IHasAttributes'}

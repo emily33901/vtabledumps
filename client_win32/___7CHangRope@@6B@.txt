@@ -1,0 +1,6 @@
+// ___7CHangRope@@6B@
+// Auto reconstructed from vtable block @ 0x109D319C
+// from "client.dll", by ida_vtables.idc
+0	sub_102640E0
+1	sub_10344520
+2	const CBaseRopePhysics::`RTTI Complete Object Locator'

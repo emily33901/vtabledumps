@@ -1,0 +1,35 @@
+// ___7C_INIT_PositionWarp@@6B@
+// Auto reconstructed from vtable block @ 0x10BB73B8
+// from "client.dll", by ida_vtables.idc
+0	sub_107FAA90
+1	sub_10091570
+2	nullsub_2
+3	__RTC_NumErrors_0
+4	sub_1001CD50
+5	sub_107F2150
+6	sub_10091570
+7	nullsub_5
+8	nullsub_4
+9	nullsub_5
+10	sub_100166E0
+11	nullsub_15
+12	sub_107DBB40
+13	sub_108298F0
+14	nullsub_5
+15	nullsub_5
+16	nullsub_2
+17	nullsub_2
+18	nullsub_11
+19	nullsub_2
+20	sub_107DBAD0
+21	sub_10017FE0
+22	sub_100166E0
+23	sub_10017FE0
+24	sub_107F8BF0
+25	sub_107DC060
+26	sub_10887630
+27	sub_10017FE0
+28	sub_10017FE0
+29	nullsub_5
+30	sub_107F10A0
+31	const CParticleOperatorDefinition<class C_INIT_PositionWarp>::`RTTI Complete Object Locator'

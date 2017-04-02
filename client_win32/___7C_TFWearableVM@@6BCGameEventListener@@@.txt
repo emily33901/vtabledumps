@@ -1,0 +1,5 @@
+// ___7C_TFWearableVM@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109EE950
+// from "client.dll", by ida_vtables.idc
+0	sub_1067F566
+1	sub_103F1400

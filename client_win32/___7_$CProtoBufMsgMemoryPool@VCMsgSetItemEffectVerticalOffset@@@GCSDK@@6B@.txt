@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgSetItemEffectVerticalOffset@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC1850
+// from "client.dll", by ida_vtables.idc
+0	loc_105EDEB0
+1	sub_105EEE50
+2	sub_105EF1B0
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgSetHatEffectUseHeadOrigin>::`RTTI Complete Object Locator'

@@ -1,0 +1,9 @@
+// ___7ArrayInputStream@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA8CA0
+// from "client.dll", by ida_vtables.idc
+0	sub_107354A0
+1	sub_10735950
+2	sub_10735530
+3	sub_10735A50
+4	sub_10735930
+5	const google::protobuf::io::ArrayOutputStream::`RTTI Complete Object Locator'

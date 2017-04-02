@@ -1,0 +1,4 @@
+// ___7_$CPanelFactory@VCPDAPanel_Spy_Invis@@UVGuiScreenInitData_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10AEAAC4
+// from "client.dll", by ida_vtables.idc
+0	sub_1065AAA0

@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCGCMsgGC_War_GlobalStatsResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F04C4
+// from "client.dll", by ida_vtables.idc
+0	sub_103F8730
+1	sub_103F9330
+2	sub_103F9F30
+3	sub_1039C610

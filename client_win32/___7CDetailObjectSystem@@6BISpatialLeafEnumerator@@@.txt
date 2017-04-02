@@ -1,0 +1,4 @@
+// ___7CDetailObjectSystem@@6BISpatialLeafEnumerator@@@
+// Auto reconstructed from vtable block @ 0x109B68F4
+// from "client.dll", by ida_vtables.idc
+0	sub_102AB2C0

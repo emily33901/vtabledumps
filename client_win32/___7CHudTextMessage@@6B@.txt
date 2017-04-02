@@ -1,0 +1,7 @@
+// ___7CHudTextMessage@@6B@
+// Auto reconstructed from vtable block @ 0x109D7C00
+// from "client.dll", by ida_vtables.idc
+0	sub_10358B30
+1	sub_10358B10
+2	sub_10358C30
+3	const CTextureScrollMaterialProxy::`RTTI Complete Object Locator'

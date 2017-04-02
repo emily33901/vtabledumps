@@ -1,0 +1,8 @@
+// ___7CDmeGlobalFlexControllerOperator@@6B@
+// Auto reconstructed from vtable block @ 0x10BB2144
+// from "client.dll", by ida_vtables.idc
+0	sub_107C8490
+1	sub_107CBD40
+2	sub_107CB880
+3	sub_107CB8F0
+4	const CDmeGlobalFlexControllerOperator::`RTTI Complete Object Locator'{for `CDmElement'}

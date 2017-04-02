@@ -1,0 +1,22 @@
+// ___7_$CDmAttributeOp@W4DmElementHandle_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BE3CE0
+// from "client.dll", by ida_vtables.idc
+0	sub_10903540
+1	sub_10903760
+2	sub_10534D40
+3	sub_1001CD50
+4	__RTC_NumErrors
+5	sub_10017FE0
+6	sub_10918470
+7	sub_109015D0
+8	sub_10917AB0
+9	nullsub_11
+10	nullsub_3
+11	sub_10917540
+12	sub_10912EB0
+13	sub_1091E040
+14	sub_1091F590
+15	sub_1091F590
+16	sub_10887630
+17	sub_1090A180
+18	const CUndoAttributeSetValueElement<class CUtlString>::`RTTI Complete Object Locator'

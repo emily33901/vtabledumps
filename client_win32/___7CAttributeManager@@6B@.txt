@@ -1,0 +1,21 @@
+// ___7CAttributeManager@@6B@
+// Auto reconstructed from vtable block @ 0x109E02B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10386670
+1	nullsub_4
+2	nullsub_1
+3	sub_104CADF0
+4	sub_103866E0
+5	sub_10385B80
+6	sub_10386190
+7	sub_103868F0
+8	sub_103867B0
+9	nullsub_4
+10	nullsub_1
+11	nullsub_4
+12	nullsub_1
+13	nullsub_4
+14	nullsub_1
+15	sub_104D6BB0
+16	sub_10385DE0
+17	sub_103863D0

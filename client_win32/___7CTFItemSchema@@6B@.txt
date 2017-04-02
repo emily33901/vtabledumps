@@ -1,0 +1,22 @@
+// ___7CTFItemSchema@@6B@
+// Auto reconstructed from vtable block @ 0x109ECC04
+// from "client.dll", by ida_vtables.idc
+0	sub_103E6030
+1	sub_103A56E0
+2	sub_103B5E10
+3	sub_103B5EB0
+4	sub_103B5E40
+5	sub_103B5C80
+6	sub_103B5E20
+7	sub_1020B310
+8	sub_103EAC50
+9	sub_103E9A10
+10	sub_103E99E0
+11	sub_103E9A50
+12	sub_103E9B30
+13	sub_103E9A70
+14	sub_103E6160
+15	sub_103EF7C0
+16	sub_103E93F0
+17	sub_103E9860
+18	const CEconTool_TFSpellbookPage::`RTTI Complete Object Locator'

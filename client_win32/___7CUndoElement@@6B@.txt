@@ -1,0 +1,13 @@
+// ___7CUndoElement@@6B@
+// Auto reconstructed from vtable block @ 0x10BAF1F8
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	sub_107BA450
+3	sub_107A0170
+4	sub_10007190
+5	public: virtual void thiscall Concurrency::details::VirtualProcessorRoot::DeleteThis(void)
+6	sub_107DC700
+7	sub_107B54B0
+8	sub_10900B30
+9	const CDmeLogLayer::`RTTI Complete Object Locator'

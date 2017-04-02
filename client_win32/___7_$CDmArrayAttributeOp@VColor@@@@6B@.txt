@@ -1,0 +1,22 @@
+// ___7_$CDmArrayAttributeOp@VColor@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BE3788
+// from "client.dll", by ida_vtables.idc
+0	sub_10903340
+1	sub_109036D0
+2	sub_10914860
+3	sub_10903600
+4	sub_10903600
+5	sub_10017FE0
+6	sub_10917F70
+7	sub_109014C0
+8	sub_109176C0
+9	sub_10915940
+10	sub_10913970
+11	sub_109171A0
+12	sub_109129E0
+13	sub_1091D6C0
+14	sub_109130F0
+15	sub_1091E960
+16	sub_1091E890
+17	sub_1090A0E0
+18	const CDmArrayAttributeOp<class Vector2D>::`RTTI Complete Object Locator'

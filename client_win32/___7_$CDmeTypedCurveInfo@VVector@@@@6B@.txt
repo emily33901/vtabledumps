@@ -1,0 +1,16 @@
+// ___7_$CDmeTypedCurveInfo@VVector@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BAF4B8
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_10791EE0
+6	sub_107838D0
+7	nullsub_1
+8	sub_10769FA0
+9	sub_10768AA0
+10	sub_1079F4F0
+11	j_nullsub_1
+12	const CDmeTypedCurveInfo<class Quaternion>::`RTTI Complete Object Locator'

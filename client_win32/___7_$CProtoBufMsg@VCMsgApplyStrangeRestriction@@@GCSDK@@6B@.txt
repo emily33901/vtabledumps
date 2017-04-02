@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgApplyStrangeRestriction@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A0ADC8
+// from "client.dll", by ida_vtables.idc
+0	sub_10449E90
+1	sub_103E0260

@@ -1,0 +1,15 @@
+// ___7_$TF_VerifierImpl@U_$TF_SignatureSchemeOptions@V_$TF_SS@UPKCS1v15@CryptoPP@@VSHA256@2@URSA@2@H@CryptoPP@@URSA@2@VPKCS1v15_SignatureMessageEncodingMethod@2@VSHA256@2@@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2DF0
+// from "client.dll", by ida_vtables.idc
+0	sub_10886DA0
+1	sub_10887EC0
+2	sub_10887820
+3	sub_10887780
+4	sub_10887810
+5	sub_108875E0
+6	sub_10887040
+7	sub_10017FE0
+8	sub_10887D70
+9	sub_108878C0
+10	sub_108EF680
+11	sub_108D6C60

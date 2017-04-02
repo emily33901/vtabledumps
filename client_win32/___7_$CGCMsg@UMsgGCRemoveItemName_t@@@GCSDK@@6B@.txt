@@ -1,0 +1,4 @@
+// ___7_$CGCMsg@UMsgGCRemoveItemName_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F32F0
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820

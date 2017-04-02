@@ -1,0 +1,23 @@
+// ___7CDmeChannelsClip@@6B@
+// Auto reconstructed from vtable block @ 0x10BAEF04
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	sub_1075F1E0
+3	sub_1075F250
+4	nullsub_1
+5	sub_1075F0B0
+6	sub_1075ED00
+7	nullsub_1
+8	sub_107C8AC0
+9	sub_1075E650
+10	sub_1075F7E0
+11	j_nullsub_1
+12	sub_10091570
+13	sub_1075EA80
+14	sub_1075E8D0
+15	sub_1075E9A0
+16	sub_10091570
+17	sub_10091570
+18	sub_10073060
+19	const CDmeFXClip::`RTTI Complete Object Locator'

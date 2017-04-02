@@ -1,0 +1,4 @@
+// ___7C_PhysMagnet@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109A7BA8
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50

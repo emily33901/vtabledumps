@@ -1,0 +1,5 @@
+// ___7C_TFWeaponPDA@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10B071A4
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFWeaponPDA::`RTTI Complete Object Locator'{for `IHasAttributes'}

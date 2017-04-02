@@ -1,0 +1,7 @@
+// ___7_$CDmAbstractElementFactory@VCDmeInput@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB1E0C
+// from "client.dll", by ida_vtables.idc
+0	sub_107C8480
+1	nullsub_4
+2	sub_107C9920
+3	sub_100166E0

@@ -1,0 +1,5 @@
+// ___7C_BaseAttributableItem@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109E1548
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_BaseAttributableItem::`RTTI Complete Object Locator'{for `IHasAttributes'}

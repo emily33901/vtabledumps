@@ -1,0 +1,5 @@
+// ___7C_TFGrapplingHook@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10AFA640
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFGrapplingHook::`RTTI Complete Object Locator'{for `CGameEventListener'}

@@ -1,0 +1,13 @@
+// ___7CPhysSaveRestoreBlockHandler@@6B@
+// Auto reconstructed from vtable block @ 0x109CEA58
+// from "client.dll", by ida_vtables.idc
+0	sub_10327AA0
+1	sub_10329D20
+2	sub_1032CB60
+3	sub_1032D380
+4	sub_10329CB0
+5	sub_10329CF0
+6	sub_10329F90
+7	sub_1032B830
+8	sub_10329BD0
+9	const CPhysSaveRestoreBlockHandler::`RTTI Complete Object Locator'{for `IPhysSaveRestoreManager'}

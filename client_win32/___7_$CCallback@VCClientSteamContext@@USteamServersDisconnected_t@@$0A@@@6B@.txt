@@ -1,0 +1,7 @@
+// ___7_$CCallback@VCClientSteamContext@@USteamServersDisconnected_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x109B51CC
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_102A1BD0
+2	__RTC_NumErrors
+3	const CCallbackImpl<8>::`RTTI Complete Object Locator'

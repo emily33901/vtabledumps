@@ -1,0 +1,7 @@
+// ___7IReplayScreenshotSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109DEBFC
+// from "client.dll", by ida_vtables.idc
+0	sub_101E47E0
+1	sub_108A465B
+2	sub_108A465B
+3	const CSimpleRenderExecutor::`RTTI Complete Object Locator'

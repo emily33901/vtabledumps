@@ -1,0 +1,5 @@
+// ___7CGenericClassBasedReplay@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10973380
+// from "client.dll", by ida_vtables.idc
+0	sub_101D298E
+1	nullsub_4

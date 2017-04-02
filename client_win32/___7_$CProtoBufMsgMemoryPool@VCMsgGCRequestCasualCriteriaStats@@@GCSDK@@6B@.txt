@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGCRequestCasualCriteriaStats@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB3F2C
+// from "client.dll", by ida_vtables.idc
+0	loc_105B9220
+1	sub_105BC960
+2	sub_105BD050
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgMatchmakingProgress>::`RTTI Complete Object Locator'

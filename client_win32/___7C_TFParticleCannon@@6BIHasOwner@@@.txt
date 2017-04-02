@@ -1,0 +1,5 @@
+// ___7C_TFParticleCannon@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B06748
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFParticleCannon::`RTTI Complete Object Locator'{for `CGameEventListener'}

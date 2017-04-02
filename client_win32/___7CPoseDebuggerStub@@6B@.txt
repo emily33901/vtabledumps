@@ -1,0 +1,6 @@
+// ___7CPoseDebuggerStub@@6B@
+// Auto reconstructed from vtable block @ 0x109D0018
+// from "client.dll", by ida_vtables.idc
+0	nullsub_2
+1	nullsub_14
+2	const CCopyableUtlVector<struct ModelPoseDebugInfo::InfoText,class CUtlMemory<struct ModelPoseDebugInfo::InfoText,int>>::`RTTI Complete Object Locator'

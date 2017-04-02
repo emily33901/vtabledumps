@@ -1,0 +1,6 @@
+// ___7CPhysicsGameTrace@@6B@
+// Auto reconstructed from vtable block @ 0x109CED64
+// from "client.dll", by ida_vtables.idc
+0	sub_1032E880
+1	sub_1032E8F0
+2	sub_1032E850

@@ -1,0 +1,7 @@
+// ___7CDescription@@6B@
+// Auto reconstructed from vtable block @ 0x109D3B5C
+// from "client.dll", by ida_vtables.idc
+0	sub_1034A390
+1	sub_108A465B
+2	sub_108A465B
+3	const mpcontrol_t::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7CImpactOverlay@@6B@
+// Auto reconstructed from vtable block @ 0x10A203BC
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A920
+1	sub_104902F0
+2	sub_102CB7E0
+3	sub_102CB550
+4	sub_10381F10

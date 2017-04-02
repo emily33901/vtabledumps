@@ -1,0 +1,8 @@
+// ___7NetworkVar_m_Particles@C_BaseEntity@@6B@
+// Auto reconstructed from vtable block @ 0x1099A700
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1
+2	sub_10314F70
+3	sub_10314EF0
+4	const CInterpolatedVarArrayBase<class QAngle,0>::`RTTI Complete Object Locator'

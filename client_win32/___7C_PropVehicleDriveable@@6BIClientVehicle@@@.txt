@@ -1,0 +1,18 @@
+// ___7C_PropVehicleDriveable@@6BIClientVehicle@@@
+// Auto reconstructed from vtable block @ 0x10A1A648
+// from "client.dll", by ida_vtables.idc
+0	sub_1027E030
+1	sub_1027E070
+2	sub_10470CE0
+3	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+4	nullsub_3
+5	nullsub_2
+6	nullsub_5
+7	nullsub_4
+8	sub_1027E5C0
+9	sub_10471050
+10	sub_10470800
+11	sub_10017FE0
+12	sub_1027E5B0
+13	sub_10470CD0
+14	sub_10470CC0

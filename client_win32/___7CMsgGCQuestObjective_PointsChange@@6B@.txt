@@ -1,0 +1,23 @@
+// ___7CMsgGCQuestObjective_PointsChange@@6B@
+// Auto reconstructed from vtable block @ 0x1096C028
+// from "client.dll", by ida_vtables.idc
+0	sub_101A4A80
+1	sub_106FA390
+2	sub_104EC480
+3	sub_101A5890
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101A9170
+8	sub_101A5400
+9	sub_101AA860
+10	sub_101AAD20
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101A6FB0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101A5CE0
+19	const CMsgGCQuestComplete_Request::`RTTI Complete Object Locator'

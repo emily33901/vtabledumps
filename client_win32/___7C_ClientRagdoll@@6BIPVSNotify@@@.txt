@@ -1,0 +1,5 @@
+// ___7C_ClientRagdoll@@6BIPVSNotify@@@
+// Auto reconstructed from vtable block @ 0x10997D20
+// from "client.dll", by ida_vtables.idc
+0	sub_102354E0
+1	const CFunctor::`RTTI Complete Object Locator'

@@ -1,0 +1,6 @@
+// ___7C_TFWeaponPDA_Spy@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B08A68
+// from "client.dll", by ida_vtables.idc
+0	sub_10678D2C
+1	sub_10683170
+2	const C_TFWeaponPDAExpansion_Dispenser::`RTTI Complete Object Locator'

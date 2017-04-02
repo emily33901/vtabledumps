@@ -1,0 +1,6 @@
+// ___7CClientRenderablesList@@6B@
+// Auto reconstructed from vtable block @ 0x109DEBF0
+// from "client.dll", by ida_vtables.idc
+0	sub_10375BA0
+1	sub_100166E0
+2	const IReplayScreenshotSystem::`RTTI Complete Object Locator'

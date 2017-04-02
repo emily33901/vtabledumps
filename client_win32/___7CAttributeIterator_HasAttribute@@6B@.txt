@@ -1,0 +1,12 @@
+// ___7CAttributeIterator_HasAttribute@@6B@
+// Auto reconstructed from vtable block @ 0x109E04CC
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C260
+1	sub_103872B0
+2	sub_103872B0
+3	sub_103872B0
+4	sub_103872B0
+5	sub_103872B0
+6	sub_103872B0
+7	sub_103872B0
+8	sub_103872D0

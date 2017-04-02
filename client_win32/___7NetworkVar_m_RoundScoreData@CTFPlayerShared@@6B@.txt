@@ -1,0 +1,6 @@
+// ___7NetworkVar_m_RoundScoreData@CTFPlayerShared@@6B@
+// Auto reconstructed from vtable block @ 0x10A99E44
+// from "client.dll", by ida_vtables.idc
+0	sub_1058E180
+1	sub_1058E190
+2	const CTFPlayerShared::NetworkVar_m_ConditionList::`RTTI Complete Object Locator'

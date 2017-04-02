@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgSetHatEffectUseHeadOrigin@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC1504
+// from "client.dll", by ida_vtables.idc
+0	loc_105EDDE0
+1	sub_103E0260

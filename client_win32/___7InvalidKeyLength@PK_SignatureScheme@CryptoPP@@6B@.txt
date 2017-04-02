@@ -1,0 +1,6 @@
+// ___7InvalidKeyLength@PK_SignatureScheme@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE2D54
+// from "client.dll", by ida_vtables.idc
+0	sub_108EF630
+1	sub_10888310
+2	const CryptoPP::PK_SignatureScheme::KeyTooShort::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgGCQuestObjective_RequestLoanerItems@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10ACA9F0
+// from "client.dll", by ida_vtables.idc
+0	loc_10607650
+1	sub_103E0260

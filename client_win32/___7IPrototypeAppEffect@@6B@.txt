@@ -1,0 +1,7 @@
+// ___7IPrototypeAppEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109A5010
+// from "client.dll", by ida_vtables.idc
+0	sub_102615A0
+1	sub_108A465B
+2	sub_10887630
+3	const C_FuncSmokeVolume::`RTTI Complete Object Locator'

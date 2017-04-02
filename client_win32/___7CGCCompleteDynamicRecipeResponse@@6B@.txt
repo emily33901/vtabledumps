@@ -1,0 +1,11 @@
+// ___7CGCCompleteDynamicRecipeResponse@@6B@
+// Auto reconstructed from vtable block @ 0x10AC638C
+// from "client.dll", by ida_vtables.idc
+0	sub_106BD8D0
+1	sub_101FABC0
+2	sub_101FABE0
+3	sub_101FACB0
+4	sub_10017FE0
+5	sub_105FD2D0
+6	sub_100187C0
+7	const GCSDK::CProtoBufMsgMemoryPool<class CMsgFulfillDynamicRecipeComponent>::`RTTI Complete Object Locator'

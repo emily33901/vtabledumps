@@ -1,0 +1,5 @@
+// ___7CSteamWorksGameStatsUploader@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A4C504
+// from "client.dll", by ida_vtables.idc
+0	sub_104EF531
+1	sub_104F01B0

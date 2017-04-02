@@ -1,0 +1,9 @@
+// ___7CDmFormatUpdater_preset@@6B@
+// Auto reconstructed from vtable block @ 0x10BE5F28
+// from "client.dll", by ida_vtables.idc
+0	sub_10930400
+1	sub_10930370
+2	sub_109303B0
+3	sub_10073060
+4	sub_10930310
+5	sub_1038D8D0

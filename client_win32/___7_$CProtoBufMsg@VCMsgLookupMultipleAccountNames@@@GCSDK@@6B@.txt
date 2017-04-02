@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgLookupMultipleAccountNames@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E5054
+// from "client.dll", by ida_vtables.idc
+0	sub_10399960
+1	sub_103E0260
+2	const GCSDK::CProtoBufMsg<class CMsgAdjustItemEquippedState>::`RTTI Complete Object Locator'

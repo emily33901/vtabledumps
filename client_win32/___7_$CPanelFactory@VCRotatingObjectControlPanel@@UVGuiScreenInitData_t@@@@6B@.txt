@@ -1,0 +1,4 @@
+// ___7_$CPanelFactory@VCRotatingObjectControlPanel@@UVGuiScreenInitData_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10AC96A4
+// from "client.dll", by ida_vtables.idc
+0	sub_10606370

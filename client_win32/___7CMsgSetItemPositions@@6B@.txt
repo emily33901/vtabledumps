@@ -1,0 +1,23 @@
+// ___7CMsgSetItemPositions@@6B@
+// Auto reconstructed from vtable block @ 0x10967CB0
+// from "client.dll", by ida_vtables.idc
+0	sub_10180A70
+1	sub_106FA390
+2	sub_10197280
+3	sub_10184600
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10191EC0
+8	sub_10182590
+9	sub_1016AC90
+10	sub_1019AB90
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1018B720
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10186190
+19	const CSOEconItemPresetInstance::`RTTI Complete Object Locator'

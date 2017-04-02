@@ -1,0 +1,22 @@
+// ___7_$CDmAttributeOp@VCUtlBinaryBlock@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BE3C48
+// from "client.dll", by ida_vtables.idc
+0	sub_109033D0
+1	sub_109036F0
+2	sub_10914880
+3	sub_1001AD20
+4	sub_1001AD20
+5	sub_100166E0
+6	sub_109182F0
+7	sub_10930300
+8	sub_109179A0
+9	nullsub_11
+10	nullsub_3
+11	sub_10917350
+12	sub_10912B00
+13	sub_1091DE40
+14	sub_1091F590
+15	sub_1091F590
+16	sub_10887630
+17	sub_1090A180
+18	const CDmAttributeOp<struct UniqueId_t>::`RTTI Complete Object Locator'

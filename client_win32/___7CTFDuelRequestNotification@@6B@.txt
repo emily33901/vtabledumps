@@ -1,0 +1,19 @@
+// ___7CTFDuelRequestNotification@@6B@
+// Auto reconstructed from vtable block @ 0x10A4F924
+// from "client.dll", by ida_vtables.idc
+0	loc_102F6C00
+1	sub_10418BB0
+2	sub_10415C10
+3	sub_10415C10
+4	sub_100166E0
+5	sub_10416680
+6	sub_104F99E0
+7	sub_104FC000
+8	sub_104F99D0
+9	sub_104F84A0
+10	sub_104F9D40
+11	nullsub_1
+12	nullsub_1
+13	nullsub_1
+14	sub_10415EE0
+15	sub_10415880

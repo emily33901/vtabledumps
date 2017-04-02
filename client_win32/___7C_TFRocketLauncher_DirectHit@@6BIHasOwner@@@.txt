@@ -1,0 +1,5 @@
+// ___7C_TFRocketLauncher_DirectHit@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B0EF9C
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFRocketLauncher_DirectHit::`RTTI Complete Object Locator'{for `CGameEventListener'}

@@ -1,0 +1,18 @@
+// ___7C_ServerRagdollAttached@@6BIClientNetworkable@@@
+// Auto reconstructed from vtable block @ 0x109D2D60
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F504
+1	sub_102360C0
+2	sub_1033FBF0
+3	sub_10234C20
+4	sub_10235510
+5	sub_103407D0
+6	sub_10235A60
+7	sub_10340900
+8	sub_10243D10
+9	sub_10784470
+10	sub_10245230
+11	sub_10241BB0
+12	sub_10246160
+13	sub_102443E0
+14	const C_ServerRagdollAttached::`RTTI Complete Object Locator'{for `IClientThinkable'}

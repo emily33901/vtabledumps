@@ -1,0 +1,9 @@
+// ___7CPartyInvite@GCSDK@@6BIPlayerGroupInvite@GCSDK@@@
+// Auto reconstructed from vtable block @ 0x10AB29B0
+// from "client.dll", by ida_vtables.idc
+0	sub_105B8BA1
+1	sub_105BCD40
+2	sub_105BC130
+3	sub_105BCD80
+4	sub_105BCDA0
+5	const GCSDK::CProtoBufSharedObject<class CSOTFPartyInvite,2006>::`RTTI Complete Object Locator'

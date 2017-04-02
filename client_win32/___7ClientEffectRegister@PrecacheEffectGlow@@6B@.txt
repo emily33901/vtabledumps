@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecacheEffectGlow@@6B@
+// Auto reconstructed from vtable block @ 0x109BB458
+// from "client.dll", by ida_vtables.idc
+0	sub_102CB4E0
+1	const CGlowOverlaySystem::`RTTI Complete Object Locator'

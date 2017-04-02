@@ -1,0 +1,24 @@
+// ___7CTFQuestOrOperatorRestriction@@6B@
+// Auto reconstructed from vtable block @ 0x109EF02C
+// from "client.dll", by ida_vtables.idc
+0	sub_103F3230
+1	sub_103F4D00
+2	sub_106BCB50
+3	sub_10674DE0
+4	sub_103F3D00
+5	sub_103F7AF0
+6	sub_103F55B0
+7	sub_103F7390
+8	sub_100166E0
+9	sub_10017FE0
+10	sub_103F33B0
+11	sub_103F4D40
+12	sub_103F7C30
+13	nullsub_4
+14	nullsub_4
+15	sub_103F64E0
+16	sub_103F64E0
+17	sub_10672EA0
+18	sub_103E0260
+19	unknown_libname_41
+20	sub_103F7930

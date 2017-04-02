@@ -1,0 +1,25 @@
+// ___7CTFPrediction@@6B@
+// Auto reconstructed from vtable block @ 0x10A9C000
+// from "client.dll", by ida_vtables.idc
+0	sub_10599440
+1	sub_10334230
+2	nullsub_1
+3	sub_10335800
+4	sub_10334910
+5	sub_10334500
+6	sub_10334560
+7	sub_103342F0
+8	sub_103341E0
+9	sub_103352A0
+10	sub_10334190
+11	sub_10335270
+12	sub_10334150
+13	sub_10335250
+14	sub_102A0800
+15	sub_103342E0
+16	sub_10015E10
+17	sub_10334BD0
+18	sub_10599480
+19	sub_10599470
+20	sub_10334F80
+21	sub_10335950

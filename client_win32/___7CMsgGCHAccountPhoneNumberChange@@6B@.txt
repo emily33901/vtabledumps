@@ -1,0 +1,23 @@
+// ___7CMsgGCHAccountPhoneNumberChange@@6B@
+// Auto reconstructed from vtable block @ 0x1096FF6C
+// from "client.dll", by ida_vtables.idc
+0	sub_101B1040
+1	sub_106FA390
+2	sub_101C6A00
+3	sub_101B4F40
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101C2550
+8	sub_101B3050
+9	sub_101C84F0
+10	sub_101CAB00
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101BB380
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101B65D0
+19	const CMsgGCHAccountTwoFactorChange::`RTTI Complete Object Locator'

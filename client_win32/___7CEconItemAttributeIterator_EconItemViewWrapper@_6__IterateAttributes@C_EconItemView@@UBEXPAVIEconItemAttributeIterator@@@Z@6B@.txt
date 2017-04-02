@@ -1,0 +1,11 @@
+// ___7CEconItemAttributeIterator_EconItemViewWrapper@_6__IterateAttributes@C_EconItemView@@UBEXPAVIEconItemAttributeIterator@@@Z@6B@
+// Auto reconstructed from vtable block @ 0x109EA420
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C260
+1	sub_103D43E0
+2	sub_103D4360
+3	sub_103D4320
+4	sub_103D43A0
+5	sub_103D4420
+6	sub_103D44A0
+7	sub_103D4460

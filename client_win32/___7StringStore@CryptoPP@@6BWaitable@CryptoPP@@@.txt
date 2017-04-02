@@ -1,0 +1,6 @@
+// ___7StringStore@CryptoPP@@6BWaitable@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BD28F8
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C35
+1	sub_108D5C30
+2	sub_108D5CA0

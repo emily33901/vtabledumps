@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgLookupMultipleAccountNamesResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E50C8
+// from "client.dll", by ida_vtables.idc
+0	sub_103999B0
+1	sub_103E0260

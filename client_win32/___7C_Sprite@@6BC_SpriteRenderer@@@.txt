@@ -1,0 +1,5 @@
+// ___7C_Sprite@@6BC_SpriteRenderer@@@
+// Auto reconstructed from vtable block @ 0x109D5458
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A2F0
+1	const C_SpriteOriented::`RTTI Complete Object Locator'

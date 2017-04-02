@@ -1,0 +1,10 @@
+// ___7CPrepareFileThread@@6B@
+// Auto reconstructed from vtable block @ 0x10ABBCCC
+// from "client.dll", by ida_vtables.idc
+0	sub_105DD3F0
+1	public: virtual bool thiscall CThread::Start(unsigned int)
+2	protected: virtual bool thiscall CThread::Init(void)
+3	sub_105DE5E0
+4	protected: virtual void thiscall CThread::OnExit(void)
+5	protected: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	protected: virtual bool thiscall CThread::IsThreadRunning(void)

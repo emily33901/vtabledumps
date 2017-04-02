@@ -1,0 +1,5 @@
+// ___7C_EntityDissolve@@6BIMotionEvent@@@
+// Auto reconstructed from vtable block @ 0x1099F060
+// from "client.dll", by ida_vtables.idc
+0	sub_102575C0
+1	const CClientEffect::`RTTI Complete Object Locator'

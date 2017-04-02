@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_RandomTrailLength@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB72B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1C70
+2	sub_107F23B0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107DBAF0

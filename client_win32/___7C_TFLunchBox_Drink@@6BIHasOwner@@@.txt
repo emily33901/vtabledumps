@@ -1,0 +1,5 @@
+// ___7C_TFLunchBox_Drink@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B015E4
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFLunchBox_Drink::`RTTI Complete Object Locator'{for `CGameEventListener'}

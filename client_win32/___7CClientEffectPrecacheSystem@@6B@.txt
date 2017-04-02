@@ -1,0 +1,17 @@
+// ___7CClientEffectPrecacheSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109B37C8
+// from "client.dll", by ida_vtables.idc
+0	sub_1028C2F0
+1	sub_100166E0
+2	nullsub_1
+3	sub_1028C360
+4	sub_1028C280
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_1028C2C0
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_10017FE0
+13	sub_1028C1E0

@@ -1,0 +1,7 @@
+// ___7_$CCallbackImpl@$0CA@@@6B@
+// Auto reconstructed from vtable block @ 0x10AB2890
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_108A465B
+2	sub_10017040
+3	const CCallback<class CTFGCClientSystem,struct LobbyChatUpdate_t,0>::`RTTI Complete Object Locator'

@@ -1,0 +1,22 @@
+// ___7CEconItemSchema@@6B@
+// Auto reconstructed from vtable block @ 0x109E5764
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4A20
+1	sub_103A56E0
+2	sub_103B5E10
+3	sub_103B5EB0
+4	sub_103B5E40
+5	sub_103B5C80
+6	sub_103B5E20
+7	sub_1020B310
+8	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+9	sub_103B0DC0
+10	sub_103B0DA0
+11	sub_103B0DE0
+12	sub_103B1590
+13	sub_103B0E00
+14	sub_103A4F30
+15	sub_103C6EA0
+16	sub_103AECF0
+17	sub_103B0810
+18	const CEconTool_DuelingMinigame::`RTTI Complete Object Locator'

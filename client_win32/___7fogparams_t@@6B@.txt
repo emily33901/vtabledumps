@@ -1,0 +1,6 @@
+// ___7fogparams_t@@6B@
+// Auto reconstructed from vtable block @ 0x1099C594
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1
+2	const fogplayerparams_t::`RTTI Complete Object Locator'

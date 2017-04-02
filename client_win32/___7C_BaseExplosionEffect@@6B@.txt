@@ -1,0 +1,10 @@
+// ___7C_BaseExplosionEffect@@6B@
+// Auto reconstructed from vtable block @ 0x109B96A4
+// from "client.dll", by ida_vtables.idc
+0	sub_102B6D70
+1	sub_102BABF0
+2	sub_102B7150
+3	sub_102B9110
+4	nullsub_1
+5	sub_102B9EA0
+6	const C_WaterExplosionEffect::`RTTI Complete Object Locator'

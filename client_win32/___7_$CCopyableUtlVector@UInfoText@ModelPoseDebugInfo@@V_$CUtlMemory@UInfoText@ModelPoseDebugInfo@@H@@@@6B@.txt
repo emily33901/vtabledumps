@@ -1,0 +1,5 @@
+// ___7_$CCopyableUtlVector@UInfoText@ModelPoseDebugInfo@@V_$CUtlMemory@UInfoText@ModelPoseDebugInfo@@H@@@@6B@
+// Auto reconstructed from vtable block @ 0x109D0024
+// from "client.dll", by ida_vtables.idc
+0	sub_10331AE0
+1	const CPoseDebuggerImpl::`RTTI Complete Object Locator'

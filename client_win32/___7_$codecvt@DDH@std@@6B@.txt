@@ -1,0 +1,5 @@
+// ___7_$codecvt@DDH@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BAEE38
+// from "client.dll", by ida_vtables.idc
+0	sub_103D6100
+1	sub_103DAF70

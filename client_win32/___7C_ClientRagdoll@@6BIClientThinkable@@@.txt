@@ -1,0 +1,9 @@
+// ___7C_ClientRagdoll@@6BIClientThinkable@@@
+// Auto reconstructed from vtable block @ 0x10997D00
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F50C
+1	sub_1022E7C0
+2	?GetNumberOfBoundContexts@SchedulerBase@details@Concurrency@@IBEKXZ_0
+3	sub_102D7F90
+4	sub_10236197
+5	const C_ClientRagdoll::`RTTI Complete Object Locator'{for `IModelLoadCallback'}

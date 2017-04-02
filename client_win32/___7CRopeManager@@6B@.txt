@@ -1,0 +1,11 @@
+// ___7CRopeManager@@6B@
+// Auto reconstructed from vtable block @ 0x109ABA74
+// from "client.dll", by ida_vtables.idc
+0	sub_1026DA90
+1	sub_10271D90
+2	sub_1026DB20
+3	sub_1026FD60
+4	sub_10271590
+5	sub_10271EB0
+6	sub_10271310
+7	public: virtual unsigned int thiscall Concurrency::details::SchedulerBase::Id(void)const

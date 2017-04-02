@@ -1,0 +1,23 @@
+// ___7CMsgUpdateHalloweenMerasmusLootLevel_Player@@6B@
+// Auto reconstructed from vtable block @ 0x1095EC5C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013F020
+1	sub_106FA390
+2	sub_10167FC0
+3	sub_101455F0
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101C0AE0
+8	sub_101822B0
+9	sub_106E0540
+10	sub_1019A7F0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10154750
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10149300
+19	const CMsgUpdateHalloweenMerasmusLootLevel::`RTTI Complete Object Locator'

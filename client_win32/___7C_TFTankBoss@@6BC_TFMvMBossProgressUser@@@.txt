@@ -1,0 +1,6 @@
+// ___7C_TFTankBoss@@6BC_TFMvMBossProgressUser@@@
+// Auto reconstructed from vtable block @ 0x10AB6250
+// from "client.dll", by ida_vtables.idc
+0	sub_105C1E4E
+1	sub_105C2050
+2	sub_1065D5F0

@@ -1,0 +1,5 @@
+// ___7C_PasstimeAskForBallReticle@@6B@
+// Auto reconstructed from vtable block @ 0x10A87734
+// from "client.dll", by ida_vtables.idc
+0	sub_1055FAF0
+1	sub_10560140

@@ -1,0 +1,4 @@
+// ___7CBuildLog@@6B@
+// Auto reconstructed from vtable block @ 0x10AB8C44
+// from "client.dll", by ida_vtables.idc
+0	sub_105D4CB0

@@ -1,0 +1,7 @@
+// ___7CDynamicRecipeComponentDefinedItem@CEconTool_ItemDynamicRecipe@@6B@
+// Auto reconstructed from vtable block @ 0x109E9C08
+// from "client.dll", by ida_vtables.idc
+0	sub_103CF920
+1	sub_103D15D0
+2	sub_103CFCC0
+3	const CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::`RTTI Complete Object Locator'

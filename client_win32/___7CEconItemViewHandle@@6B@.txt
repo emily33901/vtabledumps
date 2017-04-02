@@ -1,0 +1,4 @@
+// ___7CEconItemViewHandle@@6B@
+// Auto reconstructed from vtable block @ 0x109F139C
+// from "client.dll", by ida_vtables.idc
+0	sub_103FC870

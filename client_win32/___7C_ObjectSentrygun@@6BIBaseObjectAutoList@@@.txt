@@ -1,0 +1,5 @@
+// ___7C_ObjectSentrygun@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A3D708
+// from "client.dll", by ida_vtables.idc
+0	sub_104BBF05
+1	const C_TFProjectile_SentryRocket::`RTTI Complete Object Locator'

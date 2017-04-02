@@ -1,0 +1,5 @@
+// ___7CTFStorePage2@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B26D38
+// from "client.dll", by ida_vtables.idc
+0	sub_10690B2D
+1	sub_10431730

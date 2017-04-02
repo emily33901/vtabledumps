@@ -1,0 +1,5 @@
+// ___7C_TFPumpkinBomb@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10A9D76C
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFPumpkinBomb::`RTTI Complete Object Locator'{for `ITFPumpkinBomb'}

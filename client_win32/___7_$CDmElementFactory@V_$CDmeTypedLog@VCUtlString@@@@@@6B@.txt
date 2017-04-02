@@ -1,0 +1,7 @@
+// ___7_$CDmElementFactory@V_$CDmeTypedLog@VCUtlString@@@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB09D8
+// from "client.dll", by ida_vtables.idc
+0	sub_107700B0
+1	sub_107CB520
+2	sub_107B5370
+3	sub_10017FE0

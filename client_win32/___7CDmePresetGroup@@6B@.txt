@@ -1,0 +1,16 @@
+// ___7CDmePresetGroup@@6B@
+// Auto reconstructed from vtable block @ 0x10BB1ED0
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107CA770
+6	sub_107CA360
+7	nullsub_1
+8	sub_10672EA0
+9	sub_107C9CD0
+10	unknown_libname_56
+11	j_nullsub_1
+12	const CDmeAnimationSet::`RTTI Complete Object Locator'

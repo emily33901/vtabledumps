@@ -1,0 +1,8 @@
+// ___7CShadowDepthView@@6B@
+// Auto reconstructed from vtable block @ 0x109DF074
+// from "client.dll", by ida_vtables.idc
+0	sub_1036E7D0
+1	sub_100166E0
+2	public: void near * thiscall Concurrency::details::UMSSchedulerProxy::GetCompletionList(void)const
+3	sub_103772A0
+4	const CFreezeFrameView::`RTTI Complete Object Locator'

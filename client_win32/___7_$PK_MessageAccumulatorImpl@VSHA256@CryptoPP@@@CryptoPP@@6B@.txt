@@ -1,0 +1,22 @@
+// ___7_$PK_MessageAccumulatorImpl@VSHA256@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2E90
+// from "client.dll", by ida_vtables.idc
+0	sub_10886D00
+1	loc_10887290
+2	sub_10887010
+3	sub_10888250
+4	sub_10887320
+5	sub_10887460
+6	sub_10887E00
+7	loc_108873E0
+8	sub_10091570
+9	sub_10073060
+10	sub_10073060
+11	sub_10887130
+12	sub_10888290
+13	sub_108882B0
+14	loc_108881D0
+15	sub_10887150
+16	sub_108D6BB0
+17	sub_108882E0
+18	sub_10886F40

@@ -1,0 +1,6 @@
+// ___7C_SteamJet@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x10A1CE68
+// from "client.dll", by ida_vtables.idc
+0	sub_10478465
+1	sub_10478C10
+2	sub_104784B0

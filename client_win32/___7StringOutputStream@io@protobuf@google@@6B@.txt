@@ -1,0 +1,7 @@
+// ___7StringOutputStream@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA8CCC
+// from "client.dll", by ida_vtables.idc
+0	sub_10735500
+1	sub_107359B0
+2	sub_10735800
+3	sub_10735940

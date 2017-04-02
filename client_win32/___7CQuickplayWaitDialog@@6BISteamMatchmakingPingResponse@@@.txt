@@ -1,0 +1,5 @@
+// ___7CQuickplayWaitDialog@@6BISteamMatchmakingPingResponse@@@
+// Auto reconstructed from vtable block @ 0x10A9F550
+// from "client.dll", by ida_vtables.idc
+0	sub_105A3340
+1	sub_105A3240

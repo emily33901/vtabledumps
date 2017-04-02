@@ -1,0 +1,5 @@
+// ___7C_TFStickBomb@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10AF49E4
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFStickBomb::`RTTI Complete Object Locator'{for `IHasAttributes'}

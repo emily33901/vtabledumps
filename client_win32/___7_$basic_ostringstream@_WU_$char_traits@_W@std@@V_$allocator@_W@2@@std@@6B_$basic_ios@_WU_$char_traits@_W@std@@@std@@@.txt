@@ -1,0 +1,4 @@
+// ___7_$basic_ostringstream@_WU_$char_traits@_W@std@@V_$allocator@_W@2@@std@@6B_$basic_ios@_WU_$char_traits@_W@std@@@std@@@
+// Auto reconstructed from vtable block @ 0x109EAA84
+// from "client.dll", by ida_vtables.idc
+0	loc_103D5EFD

@@ -1,0 +1,5 @@
+// ___7C_BasePlayer@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x1099CC34
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_BasePlayer::`RTTI Complete Object Locator'{for `IHasLocalToGlobalFlexSettings'}

@@ -1,0 +1,23 @@
+// ___7Message@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x1095CA4C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013F3E0
+1	sub_106FA390
+2	sub_108A465B
+3	sub_106F9FC0
+4	sub_106FA5E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_106FA770
+8	sub_106F9F90
+9	sub_106FA920
+10	sub_1070E2E0
+11	sub_108A465B
+12	sub_106F9FD0
+13	sub_106FA660
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_106FA940
+17	sub_10149680
+18	sub_108A465B
+19	const CMsgTFGoldenWrenchBroadcast::`RTTI Complete Object Locator'

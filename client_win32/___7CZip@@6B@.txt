@@ -1,0 +1,23 @@
+// ___7CZip@@6B@
+// Auto reconstructed from vtable block @ 0x10B7263C
+// from "client.dll", by ida_vtables.idc
+0	sub_106F7C80
+1	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_2
+2	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_3
+3	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_4
+4	sub_106F6B10
+5	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_5
+6	sub_106F5510
+7	sub_106F6A50
+8	sub_106F4FD0
+9	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_1
+10	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_6
+11	sub_106F8630
+12	sub_106F8600
+13	sub_106F5FD0
+14	sub_106F6520
+15	sub_106F54D0
+16	sub_106F5500
+17	sub_106F8660
+18	sub_106F4810
+19	sub_106F47E0

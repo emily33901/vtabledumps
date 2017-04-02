@@ -1,0 +1,35 @@
+// ___7_$CDmeTypedLogLayer@VVector2D@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BAFCB8
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107923E0
+6	sub_10784190
+7	nullsub_1
+8	sub_10769FF0
+9	sub_10768D60
+10	sub_1079F8C0
+11	j_nullsub_1
+12	sub_1076F220
+13	sub_1076F9B0
+14	sub_10771AA0
+15	sub_1078B680
+16	sub_10018F20
+17	sub_107B6290
+18	sub_107B50F0
+19	sub_1078AFD0
+20	sub_10786770
+21	sub_10782890
+22	sub_107A1420
+23	sub_1076E600
+24	sub_10792710
+25	sub_107A9A70
+26	sub_107AA9A0
+27	sub_107AD2B0
+28	sub_107742C0
+29	sub_10772F40
+30	sub_107B6860
+31	const CDmElementFactory<class CDmeTypedLogLayer<class Vector2D>>::`RTTI Complete Object Locator'

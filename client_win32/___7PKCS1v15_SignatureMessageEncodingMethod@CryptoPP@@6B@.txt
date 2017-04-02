@@ -1,0 +1,13 @@
+// ___7PKCS1v15_SignatureMessageEncodingMethod@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2C20
+// from "client.dll", by ida_vtables.idc
+0	sub_10886E90
+1	sub_10887840
+2	sub_108298F0
+3	loc_10887CF0
+4	nullsub_5
+5	sub_10887970
+6	sub_108F0C70
+7	sub_108EFA80
+8	loc_10887CF0
+9	loc_10887CF0

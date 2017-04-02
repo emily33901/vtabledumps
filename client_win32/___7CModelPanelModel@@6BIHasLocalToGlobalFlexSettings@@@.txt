@@ -1,0 +1,5 @@
+// ___7CModelPanelModel@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10A0EFC4
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const CModelPanel::`RTTI Complete Object Locator'

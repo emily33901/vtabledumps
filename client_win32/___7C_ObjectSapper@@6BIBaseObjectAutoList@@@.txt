@@ -1,0 +1,4 @@
+// ___7C_ObjectSapper@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A3D134
+// from "client.dll", by ida_vtables.idc
+0	sub_104BB8C9

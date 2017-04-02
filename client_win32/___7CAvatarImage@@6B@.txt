@@ -1,0 +1,16 @@
+// ___7CAvatarImage@@6B@
+// Auto reconstructed from vtable block @ 0x109D85E8
+// from "client.dll", by ida_vtables.idc
+0	sub_1035E610
+1	sub_1035EEC0
+2	sub_1035DA00
+3	sub_1035DA90
+4	sub_1035EF20
+5	unknown_libname_9
+6	sub_1035D720
+7	sub_10017FE0
+8	sub_10091570
+9	nullsub_4
+10	sub_10091570
+11	nullsub_4
+12	const CAvatarImagePanel::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7_$CUtlVectorDataOps@V_$CUtlVector@HV_$CUtlMemory@HH@@@@$04@@6B@
+// Auto reconstructed from vtable block @ 0x109D4EBC
+// from "client.dll", by ida_vtables.idc
+0	sub_1034F3C0
+1	sub_1034F110
+2	sub_10386770
+3	sub_10386790
+4	sub_10887630

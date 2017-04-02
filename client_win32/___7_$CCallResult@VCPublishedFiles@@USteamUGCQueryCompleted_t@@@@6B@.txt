@@ -1,0 +1,7 @@
+// ___7_$CCallResult@VCPublishedFiles@@USteamUGCQueryCompleted_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10ABC4DC
+// from "client.dll", by ida_vtables.idc
+0	sub_105E4B50
+1	sub_105E4B20
+2	sub_101FE630
+3	const CCallResult<class CPublishedFiles,struct RemoteStorageDeletePublishedFileResult_t>::`RTTI Complete Object Locator'

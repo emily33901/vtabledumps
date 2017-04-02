@@ -1,0 +1,6 @@
+// ___7logic_error@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD366C
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_64
+1	public: virtual char const near * thiscall exception::what(void)const
+2	const std::length_error::`RTTI Complete Object Locator'

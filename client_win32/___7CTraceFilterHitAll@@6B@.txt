@@ -1,0 +1,6 @@
+// ___7CTraceFilterHitAll@@6B@
+// Auto reconstructed from vtable block @ 0x10A1FB10
+// from "client.dll", by ida_vtables.idc
+0	sub_1038D8D0
+1	sub_10091570
+2	const C_TEProjectedDecal::`RTTI Complete Object Locator'

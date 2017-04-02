@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_InitialRepulsionVelocity@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB7D78
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F18D0
+2	sub_107F22D0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107F1ED0

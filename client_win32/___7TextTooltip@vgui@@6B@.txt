@@ -1,0 +1,11 @@
+// ___7TextTooltip@vgui@@6B@
+// Auto reconstructed from vtable block @ 0x10BCD2C4
+// from "client.dll", by ida_vtables.idc
+0	sub_10876B30
+1	sub_106BCB50
+2	sub_10876BD0
+3	sub_108767D0
+4	sub_10876810
+5	sub_108768C0
+6	sub_10876750
+7	sub_10876CB0

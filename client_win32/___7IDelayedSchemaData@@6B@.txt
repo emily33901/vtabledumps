@@ -1,0 +1,6 @@
+// ___7IDelayedSchemaData@@6B@
+// Auto reconstructed from vtable block @ 0x109E96B0
+// from "client.dll", by ida_vtables.idc
+0	sub_103CDEF0
+1	sub_108A465B
+2	const CCopyableUtlVector<struct MvMTourMission_t,class CUtlMemory<struct MvMTourMission_t,int>>::`RTTI Complete Object Locator'

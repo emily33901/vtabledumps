@@ -1,0 +1,20 @@
+// ___7CPhysicsSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109CE5F4
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_100166E0
+2	nullsub_1
+3	nullsub_1
+4	sub_10321370
+5	sub_10321360
+6	nullsub_1
+7	sub_103213E0
+8	sub_10321380
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	sub_104FEDD0
+14	nullsub_1
+15	nullsub_4
+16	nullsub_1

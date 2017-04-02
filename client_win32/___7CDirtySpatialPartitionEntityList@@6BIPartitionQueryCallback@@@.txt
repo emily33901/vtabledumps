@@ -1,0 +1,6 @@
+// ___7CDirtySpatialPartitionEntityList@@6BIPartitionQueryCallback@@@
+// Auto reconstructed from vtable block @ 0x109B5460
+// from "client.dll", by ida_vtables.idc
+0	nullsub_1
+1	sub_102A2E60
+2	sub_102A2E10

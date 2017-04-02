@@ -1,0 +1,5 @@
+// ___7CItemSlotPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AC8204
+// from "client.dll", by ida_vtables.idc
+0	sub_106043B7
+1	sub_1040A0E0

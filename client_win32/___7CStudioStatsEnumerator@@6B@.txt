@@ -1,0 +1,4 @@
+// ___7CStudioStatsEnumerator@@6B@
+// Auto reconstructed from vtable block @ 0x109D6244
+// from "client.dll", by ida_vtables.idc
+0	sub_10355E30

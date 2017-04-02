@@ -1,0 +1,4 @@
+// ___7C_ObjectTeleporter@@6BIBaseObjectAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A3E410
+// from "client.dll", by ida_vtables.idc
+0	sub_104BD75D

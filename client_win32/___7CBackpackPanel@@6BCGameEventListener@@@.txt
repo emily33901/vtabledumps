@@ -1,0 +1,5 @@
+// ___7CBackpackPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109F1870
+// from "client.dll", by ida_vtables.idc
+0	sub_103FC628
+1	sub_103FFF80

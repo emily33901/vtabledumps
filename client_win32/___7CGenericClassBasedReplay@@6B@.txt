@@ -1,0 +1,33 @@
+// ___7CGenericClassBasedReplay@@6B@
+// Auto reconstructed from vtable block @ 0x109732D4
+// from "client.dll", by ida_vtables.idc
+0	sub_101D29B0
+1	unknown_libname_9
+2	sub_10007190
+3	sub_101D3070
+4	sub_101D3380
+5	sub_10802640
+6	sub_108021F0
+7	sub_10802560
+8	sub_10802210
+9	sub_102D5170
+10	sub_102A0800
+11	sub_101D3030
+12	nullsub_1
+13	sub_104D0A90
+14	nullsub_1
+15	sub_101D2EC0
+16	sub_101D3360
+17	sub_101D2FF0
+18	sub_101D3040
+19	sub_101D3020
+20	sub_101D3340
+21	sub_108A465B
+22	sub_101D2FE0
+23	sub_108A465B
+24	sub_101D2FD0
+25	sub_108A465B
+26	sub_108A465B
+27	sub_108A465B
+28	sub_108A465B
+29	const CGenericClassBasedReplay::`RTTI Complete Object Locator'{for `IQueryableReplayItem'}

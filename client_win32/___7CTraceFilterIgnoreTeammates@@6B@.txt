@@ -1,0 +1,8 @@
+// ___7CTraceFilterIgnoreTeammates@@6B@
+// Auto reconstructed from vtable block @ 0x10B1EF60
+// from "client.dll", by ida_vtables.idc
+0	sub_10686A70
+1	sub_10091570
+2	unknown_libname_9
+3	sub_1019C4F0
+4	const C_TFWeaponBase::`RTTI Complete Object Locator'

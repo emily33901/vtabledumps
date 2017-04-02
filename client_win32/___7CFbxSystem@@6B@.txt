@@ -1,0 +1,10 @@
+// ___7CFbxSystem@@6B@
+// Auto reconstructed from vtable block @ 0x10B6CA74
+// from "client.dll", by ida_vtables.idc
+0	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+1	nullsub_1
+2	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+3	sub_106BC170
+4	sub_106BC190
+5	dword_106BC110
+6	sub_106BC0E0

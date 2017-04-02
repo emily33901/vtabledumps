@@ -1,0 +1,6 @@
+// ___7C_ParticleSmokeGrenade@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x10A19DE0
+// from "client.dll", by ida_vtables.idc
+0	sub_1046E5BD
+1	sub_1046F630
+2	sub_10887630

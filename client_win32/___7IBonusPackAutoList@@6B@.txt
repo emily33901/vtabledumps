@@ -1,0 +1,5 @@
+// ___7IBonusPackAutoList@@6B@
+// Auto reconstructed from vtable block @ 0x10A480A8
+// from "client.dll", by ida_vtables.idc
+0	sub_104E62B0
+1	const C_BonusPack::`RTTI Complete Object Locator'

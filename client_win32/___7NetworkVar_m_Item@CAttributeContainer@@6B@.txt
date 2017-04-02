@@ -1,0 +1,16 @@
+// ___7NetworkVar_m_Item@CAttributeContainer@@6B@
+// Auto reconstructed from vtable block @ 0x109E0A34
+// from "client.dll", by ida_vtables.idc
+0	sub_10509190
+1	nullsub_4
+2	sub_10091570
+3	sub_10091570
+4	sub_10091570
+5	sub_102AB7A0
+6	sub_10091570
+7	sub_10091570
+8	sub_10091570
+9	sub_10389340
+10	sub_10389350
+11	sub_103D2D50
+12	const CAttributeContainer::NetworkVar_m_Item::`RTTI Complete Object Locator'{for `IClientRenderable'}

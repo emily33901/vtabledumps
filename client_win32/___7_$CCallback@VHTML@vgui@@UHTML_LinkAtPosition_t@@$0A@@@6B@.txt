@@ -1,0 +1,7 @@
+// ___7_$CCallback@VHTML@vgui@@UHTML_LinkAtPosition_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x10BCD41C
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_1087B690
+2	sub_10903600
+3	const CCallback<class vgui::HTML,struct HTML_JSAlert_t,0>::`RTTI Complete Object Locator'

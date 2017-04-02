@@ -1,0 +1,6 @@
+// ___7ITextureRegenerator@@6B@
+// Auto reconstructed from vtable block @ 0x109B1F68
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	const CCamoTextureRegen::`RTTI Complete Object Locator'

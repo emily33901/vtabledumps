@@ -1,0 +1,7 @@
+// ___7CLCDItemText@@6B@
+// Auto reconstructed from vtable block @ 0x109C4E40
+// from "client.dll", by ida_vtables.idc
+0	sub_102EE0B0
+1	sub_102EE690
+2	sub_102F2D10
+3	const CLCDItemIcon::`RTTI Complete Object Locator'

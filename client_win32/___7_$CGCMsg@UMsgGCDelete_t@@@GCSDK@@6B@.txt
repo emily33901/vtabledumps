@@ -1,0 +1,5 @@
+// ___7_$CGCMsg@UMsgGCDelete_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E4B7C
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const CWaitForBackpackSortFinishDialog::`RTTI Complete Object Locator'

@@ -1,0 +1,7 @@
+// ___7CTraceFilterEntityIgnoreOther@@6B@
+// Auto reconstructed from vtable block @ 0x109D83FC
+// from "client.dll", by ida_vtables.idc
+0	sub_1035BE80
+1	sub_10091570
+2	unknown_libname_9
+3	sub_1019C4F0

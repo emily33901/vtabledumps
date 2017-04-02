@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_RenderSpritesTrail@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB62E8
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107E4930
+2	sub_107E4C70
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107F1F20

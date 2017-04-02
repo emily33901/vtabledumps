@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_RemapCPtoVector@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB8128
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1D70
+2	sub_107F23F0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107F1F10

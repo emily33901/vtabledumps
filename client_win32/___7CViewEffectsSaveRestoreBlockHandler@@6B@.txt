@@ -1,0 +1,12 @@
+// ___7CViewEffectsSaveRestoreBlockHandler@@6B@
+// Auto reconstructed from vtable block @ 0x109DD004
+// from "client.dll", by ida_vtables.idc
+0	sub_1036D160
+1	nullsub_4
+2	sub_1036D4B0
+3	sub_1036D580
+4	nullsub_1
+5	nullsub_1
+6	sub_1036D260
+7	sub_1036D3F0
+8	nullsub_1

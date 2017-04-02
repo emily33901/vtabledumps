@@ -1,0 +1,5 @@
+// ___7_$CMsgBase_t@UGCMsgHdrEx_t@GCSDK@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E46A8
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const GCSDK::ISharedObjectListener::`RTTI Complete Object Locator'

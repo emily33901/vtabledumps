@@ -1,0 +1,5 @@
+// ___7C_RobotDispenser@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10AA20D8
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080
+1	const C_RobotDispenser::`RTTI Complete Object Locator'{for `IHasBuildPoints'}

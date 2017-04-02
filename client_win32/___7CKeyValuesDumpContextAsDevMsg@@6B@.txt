@@ -1,0 +1,8 @@
+// ___7CKeyValuesDumpContextAsDevMsg@@6B@
+// Auto reconstructed from vtable block @ 0x10AA5658
+// from "client.dll", by ida_vtables.idc
+0	sub_10809170
+1	sub_10809340
+2	sub_10809260
+3	sub_108092B0
+4	sub_10809300

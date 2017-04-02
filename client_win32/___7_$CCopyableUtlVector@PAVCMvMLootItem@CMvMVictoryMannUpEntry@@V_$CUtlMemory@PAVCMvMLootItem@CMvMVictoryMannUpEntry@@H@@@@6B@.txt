@@ -1,0 +1,4 @@
+// ___7_$CCopyableUtlVector@PAVCMvMLootItem@CMvMVictoryMannUpEntry@@V_$CUtlMemory@PAVCMvMLootItem@CMvMVictoryMannUpEntry@@H@@@@6B@
+// Auto reconstructed from vtable block @ 0x10A7ED84
+// from "client.dll", by ida_vtables.idc
+0	sub_105494D0

@@ -1,0 +1,23 @@
+// ___7CMsgGCMsgMasterSetClientMsgRouting_Entry@@6B@
+// Auto reconstructed from vtable block @ 0x1097019C
+// from "client.dll", by ida_vtables.idc
+0	sub_101B1220
+1	sub_106FA390
+2	sub_101C6C80
+3	sub_101B5110
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101C31E0
+8	sub_101B3480
+9	sub_101C8800
+10	sub_101CB040
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101BBEB0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101B67D0
+19	const CMsgGCMsgMasterSetClientMsgRouting::`RTTI Complete Object Locator'

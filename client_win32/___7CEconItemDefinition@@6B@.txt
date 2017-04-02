@@ -1,0 +1,14 @@
+// ___7CEconItemDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109E5708
+// from "client.dll", by ida_vtables.idc
+0	sub_103A49F0
+1	sub_103A96B0
+2	sub_103AC4E0
+3	sub_103B4890
+4	sub_103B4BA0
+5	sub_103B0D70
+6	sub_103B52A0
+7	sub_103B5270
+8	sub_103B5610
+9	sub_103BEBF0
+10	const ISchemaAttributeType::`RTTI Complete Object Locator'

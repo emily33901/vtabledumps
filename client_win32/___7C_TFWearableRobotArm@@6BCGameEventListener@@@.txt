@@ -1,0 +1,5 @@
+// ___7C_TFWearableRobotArm@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B1EE10
+// from "client.dll", by ida_vtables.idc
+0	sub_1067F566
+1	sub_103F1400

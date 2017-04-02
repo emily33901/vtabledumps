@@ -1,0 +1,5 @@
+// ___7ClientModeTFNormal@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A46E80
+// from "client.dll", by ida_vtables.idc
+0	sub_104E2867
+1	sub_104E2BB0

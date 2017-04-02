@@ -1,0 +1,4 @@
+// ___7_$CCopyableUtlVector@PBVC_EconItemView@@V_$CUtlMemory@PBVC_EconItemView@@H@@@@6B@
+// Auto reconstructed from vtable block @ 0x10AC1CF0
+// from "client.dll", by ida_vtables.idc
+0	sub_105F1E50

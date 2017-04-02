@@ -1,0 +1,6 @@
+// ___7pairNode@@6B@
+// Auto reconstructed from vtable block @ 0x10BE0C24
+// from "client.dll", by ida_vtables.idc
+0	sub_108CDE5C
+1	public: virtual char thiscall pairNode::getLastChar(void)const
+2	sub_108CCC38

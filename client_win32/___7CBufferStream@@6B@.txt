@@ -1,0 +1,6 @@
+// ___7CBufferStream@@6B@
+// Auto reconstructed from vtable block @ 0x10B724D8
+// from "client.dll", by ida_vtables.idc
+0	sub_106F6AB0
+1	public: virtual unsigned int thiscall Concurrency::details::GlobalNode::TopologyObject::GetId(void)const
+2	const CFileStream::`RTTI Complete Object Locator'

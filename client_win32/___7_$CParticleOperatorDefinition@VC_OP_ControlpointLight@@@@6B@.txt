@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_ControlpointLight@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB458C
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107DB1A0
+2	sub_107DBDB0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107DBAE0

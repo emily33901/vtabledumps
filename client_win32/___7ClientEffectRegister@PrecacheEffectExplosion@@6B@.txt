@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecacheEffectExplosion@@6B@
+// Auto reconstructed from vtable block @ 0x109B96F8
+// from "client.dll", by ida_vtables.idc
+0	sub_102B6D00
+1	const CExplosionParticle::`RTTI Complete Object Locator'

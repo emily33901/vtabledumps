@@ -1,0 +1,7 @@
+// ___7CTFViewRender@@6BIReplayScreenshotSystem@@@
+// Auto reconstructed from vtable block @ 0x10AA8FC4
+// from "client.dll", by ida_vtables.idc
+0	sub_105AE9B6
+1	sub_10368627
+2	sub_103685FE
+3	const PrecachePostProcessingGlowEffects::ClientEffectRegister::`RTTI Complete Object Locator'

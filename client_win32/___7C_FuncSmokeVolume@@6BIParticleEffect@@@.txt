@@ -1,0 +1,16 @@
+// ___7C_FuncSmokeVolume@@6BIParticleEffect@@@
+// Auto reconstructed from vtable block @ 0x109A53AC
+// from "client.dll", by ida_vtables.idc
+0	sub_10261512
+1	sub_10262460
+2	nullsub_4
+3	sub_102158C0
+4	sub_102158B0
+5	sub_102623A0
+6	sub_10262060
+7	sub_10261B70
+8	nullsub_4
+9	sub_10215880
+10	sub_10215860
+11	sub_10215850
+12	const C_FuncSmokeVolume::`RTTI Complete Object Locator'{for `IPrototypeAppEffect'}

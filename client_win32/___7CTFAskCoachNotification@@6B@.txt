@@ -1,0 +1,19 @@
+// ___7CTFAskCoachNotification@@6B@
+// Auto reconstructed from vtable block @ 0x10A4DE38
+// from "client.dll", by ida_vtables.idc
+0	loc_102F6C00
+1	sub_10418BB0
+2	sub_10415C10
+3	sub_10415C10
+4	sub_100166E0
+5	sub_10416680
+6	sub_100166E0
+7	sub_104F65B0
+8	sub_100166E0
+9	sub_104F48F0
+10	sub_104F5640
+11	nullsub_1
+12	nullsub_1
+13	nullsub_1
+14	sub_10415EE0
+15	sub_10415880

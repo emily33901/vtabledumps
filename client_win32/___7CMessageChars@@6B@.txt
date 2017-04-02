@@ -1,0 +1,12 @@
+// ___7CMessageChars@@6B@
+// Auto reconstructed from vtable block @ 0x109DA9B4
+// from "client.dll", by ida_vtables.idc
+0	sub_10362100
+1	sub_10360BA0
+2	sub_10362180
+3	sub_10362140
+4	sub_10362220
+5	sub_103621B0
+6	sub_10362440
+7	sub_10362260
+8	unknown_libname_12

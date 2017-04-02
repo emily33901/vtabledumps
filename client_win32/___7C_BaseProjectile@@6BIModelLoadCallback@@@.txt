@@ -1,0 +1,4 @@
+// ___7C_BaseProjectile@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10995E20
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50

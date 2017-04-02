@@ -1,0 +1,10 @@
+// ___7CClientVirtualReality@@6B@
+// Auto reconstructed from vtable block @ 0x109B2D40
+// from "client.dll", by ida_vtables.idc
+0	sub_10289460
+1	sub_10289670
+2	sub_1028B540
+3	sub_10289D70
+4	sub_1028C130
+5	sub_10289020
+6	sub_102896A0

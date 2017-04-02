@@ -1,0 +1,28 @@
+// ___7CTFAbuseReportManager@@6B@
+// Auto reconstructed from vtable block @ 0x109D7C80
+// from "client.dll", by ida_vtables.idc
+0	sub_101F9440
+1	sub_101F9230
+2	nullsub_1
+3	sub_101F9C00
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	sub_101F93F0
+8	nullsub_1
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	loc_10358EF0
+14	nullsub_1
+15	sub_101F9C90
+16	nullsub_1
+17	sub_101F9A80
+18	sub_101F9C30
+19	sub_10358F20
+20	sub_101F8EF0
+21	sub_101F9BE0
+22	sub_101F8E70
+23	sub_10358FB0
+24	const CTFAbuseReportManager::`RTTI Complete Object Locator'{for `CGameEventListener'}

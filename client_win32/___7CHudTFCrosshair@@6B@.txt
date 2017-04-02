@@ -1,0 +1,24 @@
+// ___7CHudTFCrosshair@@6B@
+// Auto reconstructed from vtable block @ 0x10A64250
+// from "client.dll", by ida_vtables.idc
+0	sub_1051DAB0
+1	sub_1051DB50
+2	sub_1051DC50
+3	nullsub_1
+4	nullsub_1
+5	sub_1051DC80
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_1051DED0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	sub_102EB1A0
+16	sub_102EB180
+17	sub_102EB160
+18	nullsub_1
+19	sub_102EAFE0
+20	const CHudTFCrosshair::`RTTI Complete Object Locator'{for `vgui::Panel'}

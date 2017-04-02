@@ -1,0 +1,13 @@
+// ___7_$CUndoAttributeArrayInsertCopyBefore@W4DmElementHandle_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BE3F30
+// from "client.dll", by ida_vtables.idc
+0	sub_1091BC70
+1	sub_1090DCF0
+2	sub_107BA450
+3	sub_107A0170
+4	sub_10007190
+5	public: virtual void thiscall Concurrency::details::VirtualProcessorRoot::DeleteThis(void)
+6	sub_107DC700
+7	sub_107B54B0
+8	sub_10900BE0
+9	const CUndoAttributeArrayInsertBefore<enum  DmElementHandle_t>::`RTTI Complete Object Locator'

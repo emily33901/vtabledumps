@@ -1,0 +1,4 @@
+// ___7CountdownTimer@@6B@
+// Auto reconstructed from vtable block @ 0x109A2178
+// from "client.dll", by ida_vtables.idc
+0	sub_1035BC60

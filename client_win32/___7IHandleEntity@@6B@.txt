@@ -1,0 +1,7 @@
+// ___7IHandleEntity@@6B@
+// Auto reconstructed from vtable block @ 0x1099A514
+// from "client.dll", by ida_vtables.idc
+0	sub_10316E70
+1	sub_108A465B
+2	sub_108A465B
+3	const IClientNetworkable::`RTTI Complete Object Locator'

@@ -1,0 +1,7 @@
+// ___7CEntitySaveUtils@@6B@
+// Auto reconstructed from vtable block @ 0x109D35CC
+// from "client.dll", by ida_vtables.idc
+0	sub_10345520
+1	sub_10345BD0
+2	sub_10345BC0
+3	const CEntitySaveRestoreBlockHandler::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7_$CEntityDataInstantiator@VCWatcherList@@@@6B@
+// Auto reconstructed from vtable block @ 0x109CE81C
+// from "client.dll", by ida_vtables.idc
+0	sub_10323880
+1	sub_10324460
+2	sub_10323FC0
+3	sub_103241C0
+4	const CEntityDataInstantiator<struct physicspushlist_t>::`RTTI Complete Object Locator'

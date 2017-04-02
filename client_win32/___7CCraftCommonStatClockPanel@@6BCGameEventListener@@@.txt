@@ -1,0 +1,6 @@
+// ___7CCraftCommonStatClockPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AC2B18
+// from "client.dll", by ida_vtables.idc
+0	sub_105F1E2E
+1	sub_105F2AD0
+2	const CCraftCommonStatClockPanel::`RTTI Complete Object Locator'{for `CLocalSteamSharedObjectListener'}

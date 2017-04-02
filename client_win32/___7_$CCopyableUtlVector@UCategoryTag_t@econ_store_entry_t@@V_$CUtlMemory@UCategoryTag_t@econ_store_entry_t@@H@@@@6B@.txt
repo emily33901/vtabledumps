@@ -1,0 +1,4 @@
+// ___7_$CCopyableUtlVector@UCategoryTag_t@econ_store_entry_t@@V_$CUtlMemory@UCategoryTag_t@econ_store_entry_t@@H@@@@6B@
+// Auto reconstructed from vtable block @ 0x109EA808
+// from "client.dll", by ida_vtables.idc
+0	loc_103D5F10

@@ -1,0 +1,5 @@
+// ___7C_TFViewModel@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10AA8D00
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFViewModel::`RTTI Complete Object Locator'{for `IHasOwner'}

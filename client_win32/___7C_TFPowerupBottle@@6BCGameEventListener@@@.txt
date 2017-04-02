@@ -1,0 +1,5 @@
+// ___7C_TFPowerupBottle@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A95D88
+// from "client.dll", by ida_vtables.idc
+0	sub_10580BA9
+1	sub_10580F30

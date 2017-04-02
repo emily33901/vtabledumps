@@ -1,0 +1,6 @@
+// ___7AbuseIncidentData_t@@6B@
+// Auto reconstructed from vtable block @ 0x10985104
+// from "client.dll", by ida_vtables.idc
+0	sub_101F8C70
+1	sub_101F9460
+2	const CAbuseReportManager::`RTTI Complete Object Locator'

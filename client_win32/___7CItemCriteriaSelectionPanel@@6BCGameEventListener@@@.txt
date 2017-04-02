@@ -1,0 +1,5 @@
+// ___7CItemCriteriaSelectionPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109FE8D0
+// from "client.dll", by ida_vtables.idc
+0	loc_104284C1
+1	sub_1040A0E0

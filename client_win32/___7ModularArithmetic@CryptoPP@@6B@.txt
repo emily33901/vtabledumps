@@ -1,0 +1,31 @@
+// ___7ModularArithmetic@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE24FC
+// from "client.dll", by ida_vtables.idc
+0	sub_108DD310
+1	sub_108DDC10
+2	sub_108DDED0
+3	sub_108E0960
+4	sub_108E3DB0
+5	sub_10017FE0
+6	sub_108DDBF0
+7	sub_108EF170
+8	sub_108E0820
+9	sub_108E5D40
+10	sub_108DE4C0
+11	sub_108DD440
+12	sub_108DE590
+13	sub_108DDF00
+14	sub_108DDFB0
+15	sub_108DE140
+16	sub_108DE0A0
+17	sub_108DE9E0
+18	sub_108DDBD0
+19	sub_108DDC40
+20	sub_108E2B70
+21	sub_108EEE30
+22	sub_108DDFA0
+23	sub_108DD9B0
+24	sub_10017FE0
+25	sub_108DDAD0
+26	sub_108DDBB0
+27	const CryptoPP::MontgomeryRepresentation::`RTTI Complete Object Locator'

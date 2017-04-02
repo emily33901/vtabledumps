@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_CreateWithinBox@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB687C
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1790
+2	sub_107F2280
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_10800A20

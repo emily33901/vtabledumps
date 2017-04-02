@@ -1,0 +1,7 @@
+// ___7ZeroCopyOutputStream@io@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA89AC
+// from "client.dll", by ida_vtables.idc
+0	sub_10730900
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B

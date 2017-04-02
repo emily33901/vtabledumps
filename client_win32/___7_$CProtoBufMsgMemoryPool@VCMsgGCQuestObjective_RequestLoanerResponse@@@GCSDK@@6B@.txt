@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGCQuestObjective_RequestLoanerResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10ACABEC
+// from "client.dll", by ida_vtables.idc
+0	loc_10607750
+1	sub_10608910
+2	sub_10608D10
+3	sub_1039C610

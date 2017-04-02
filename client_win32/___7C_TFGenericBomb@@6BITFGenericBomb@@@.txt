@@ -1,0 +1,4 @@
+// ___7C_TFGenericBomb@@6BITFGenericBomb@@@
+// Auto reconstructed from vtable block @ 0x10A59774
+// from "client.dll", by ida_vtables.idc
+0	sub_1050E9BC

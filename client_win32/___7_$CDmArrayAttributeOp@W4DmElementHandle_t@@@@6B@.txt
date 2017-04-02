@@ -1,0 +1,21 @@
+// ___7_$CDmArrayAttributeOp@W4DmElementHandle_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BE3644
+// from "client.dll", by ida_vtables.idc
+0	sub_10903380
+1	sub_109036D0
+2	sub_10914860
+3	sub_101FE630
+4	sub_10903600
+5	sub_10017FE0
+6	sub_109181F0
+7	sub_10901530
+8	sub_10917880
+9	sub_10916C20
+10	sub_10914200
+11	sub_109172F0
+12	sub_10912AC0
+13	sub_1091DC00
+14	sub_1091F590
+15	sub_1091F390
+16	sub_1091F340
+17	sub_1090A130

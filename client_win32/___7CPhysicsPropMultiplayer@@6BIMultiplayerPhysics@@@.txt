@@ -1,0 +1,6 @@
+// ___7CPhysicsPropMultiplayer@@6BIMultiplayerPhysics@@@
+// Auto reconstructed from vtable block @ 0x109AAD84
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_1026C9C0
+2	sub_1026CB00

@@ -1,0 +1,5 @@
+// ___7C_FireSprite@@6BC_SpriteRenderer@@@
+// Auto reconstructed from vtable block @ 0x109A1504
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A2F0
+1	const C_FireFromAboveSprite::`RTTI Complete Object Locator'

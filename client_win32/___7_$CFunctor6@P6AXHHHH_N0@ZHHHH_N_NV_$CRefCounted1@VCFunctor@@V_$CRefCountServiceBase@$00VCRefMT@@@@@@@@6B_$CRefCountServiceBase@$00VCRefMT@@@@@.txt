@@ -1,0 +1,5 @@
+// ___7_$CFunctor6@P6AXHHHH_N0@ZHHHH_N_NV_$CRefCounted1@VCFunctor@@V_$CRefCountServiceBase@$00VCRefMT@@@@@@@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x109DEB60
+// from "client.dll", by ida_vtables.idc
+0	sub_1026DA81
+1	sub_100166E0

@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGC_GameServer_ResetIdentityResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A58A3C
+// from "client.dll", by ida_vtables.idc
+0	sub_1050DB90
+1	sub_1050E2C0
+2	sub_1050E3B0
+3	sub_1039C610

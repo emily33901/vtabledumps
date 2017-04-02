@@ -1,0 +1,17 @@
+// ___7CSchemaAttributeType_String@@6B@
+// Auto reconstructed from vtable block @ 0x109E6C08
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4990
+1	sub_103B60B0
+2	sub_103C2AE0
+3	sub_103B0A00
+4	sub_103A5210
+5	sub_103B0B60
+6	sub_103C29B0
+7	sub_103B63A0
+8	sub_103CD3F0
+9	sub_103C3A10
+10	sub_10017FE0
+11	private: void thiscall Concurrency::details::UMSSchedulingContext::SetUMSBlocked(class Concurrency::details::UMSThreadInternalContext near *,bool)
+12	sub_103B0960
+13	const ISchemaAttributeTypeBase<class CAttribute_DynamicRecipeComponent>::`RTTI Complete Object Locator'

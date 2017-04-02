@@ -1,0 +1,5 @@
+// ___7CSimpleRenderExecutor@@6B@
+// Auto reconstructed from vtable block @ 0x109DEC0C
+// from "client.dll", by ida_vtables.idc
+0	sub_10375CD0
+1	nullsub_1

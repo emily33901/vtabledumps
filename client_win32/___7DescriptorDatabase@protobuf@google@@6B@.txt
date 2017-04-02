@@ -1,0 +1,9 @@
+// ___7DescriptorDatabase@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA8B38
+// from "client.dll", by ida_vtables.idc
+0	sub_10733BC0
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_10887630
+5	const google::protobuf::EncodedDescriptorDatabase::`RTTI Complete Object Locator'

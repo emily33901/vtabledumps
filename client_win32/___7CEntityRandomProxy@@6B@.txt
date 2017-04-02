@@ -1,0 +1,8 @@
+// ___7CEntityRandomProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109D1430
+// from "client.dll", by ida_vtables.idc
+0	sub_104B8CF0
+1	sub_1033AFF0
+2	sub_1059A8D0
+3	sub_103850F0
+4	sub_10307940

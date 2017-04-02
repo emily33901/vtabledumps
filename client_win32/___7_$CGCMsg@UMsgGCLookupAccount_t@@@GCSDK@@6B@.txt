@@ -1,0 +1,4 @@
+// ___7_$CGCMsg@UMsgGCLookupAccount_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109FF990
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820

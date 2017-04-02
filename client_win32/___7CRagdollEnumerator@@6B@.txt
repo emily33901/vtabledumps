@@ -1,0 +1,4 @@
+// ___7CRagdollEnumerator@@6B@
+// Auto reconstructed from vtable block @ 0x109B9998
+// from "client.dll", by ida_vtables.idc
+0	sub_102BB8B0

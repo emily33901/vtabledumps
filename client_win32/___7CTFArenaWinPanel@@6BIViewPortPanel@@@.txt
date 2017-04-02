@@ -1,0 +1,15 @@
+// ___7CTFArenaWinPanel@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x10A5F484
+// from "client.dll", by ida_vtables.idc
+0	loc_10517042
+1	sub_10517ED6
+2	nullsub_4
+3	sub_10518230
+4	nullsub_1
+5	sub_10017FE0
+6	sub_100166E0
+7	nullsub_4
+8	sub_10534B20
+9	sub_105650D4
+10	sub_105650DF
+11	sub_1051823E

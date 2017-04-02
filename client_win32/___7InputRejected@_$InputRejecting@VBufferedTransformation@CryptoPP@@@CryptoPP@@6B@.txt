@@ -1,0 +1,6 @@
+// ___7InputRejected@_$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2E78
+// from "client.dll", by ida_vtables.idc
+0	sub_10886E40
+1	sub_10888310
+2	const CryptoPP::InputRejecting<class CryptoPP::Filter>::InputRejected::`RTTI Complete Object Locator'

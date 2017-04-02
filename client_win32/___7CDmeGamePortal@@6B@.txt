@@ -1,0 +1,17 @@
+// ___7CDmeGamePortal@@6B@
+// Auto reconstructed from vtable block @ 0x10BB21FC
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107CB960
+6	sub_107CB730
+7	nullsub_1
+8	sub_1074F780
+9	sub_107C85E0
+10	sub_107CBDD0
+11	unknown_libname_58
+12	sub_10756A10
+13	const CDmElementFactory<class CDmeGlobalFlexControllerOperator>::`RTTI Complete Object Locator'

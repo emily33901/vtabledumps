@@ -1,0 +1,5 @@
+// ___7MessageFactory@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA4800
+// from "client.dll", by ida_vtables.idc
+0	sub_106F9F30
+1	sub_108A465B

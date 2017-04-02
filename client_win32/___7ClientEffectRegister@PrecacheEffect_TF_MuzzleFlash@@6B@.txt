@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@PrecacheEffect_TF_MuzzleFlash@@6B@
+// Auto reconstructed from vtable block @ 0x10A524F4
+// from "client.dll", by ida_vtables.idc
+0	sub_10500770

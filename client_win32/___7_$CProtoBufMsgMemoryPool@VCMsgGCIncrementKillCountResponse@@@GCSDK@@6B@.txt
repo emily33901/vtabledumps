@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgGCIncrementKillCountResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B204DC
+// from "client.dll", by ida_vtables.idc
+0	sub_106808A0
+1	sub_10683760
+2	sub_10684920
+3	sub_1039C610

@@ -1,0 +1,5 @@
+// ___7CTestItemRoot@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10ACECB4
+// from "client.dll", by ida_vtables.idc
+0	loc_10616F2E
+1	sub_106176E0

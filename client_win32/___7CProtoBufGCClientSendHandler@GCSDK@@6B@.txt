@@ -1,0 +1,4 @@
+// ___7CProtoBufGCClientSendHandler@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6D050
+// from "client.dll", by ida_vtables.idc
+0	sub_106BF500

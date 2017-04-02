@@ -1,0 +1,14 @@
+// ___7CMainMenuToolTip@@6B@
+// Auto reconstructed from vtable block @ 0x10A50E6C
+// from "client.dll", by ida_vtables.idc
+0	sub_1053F560
+1	sub_10091570
+2	sub_10876BC0
+3	sub_1053C820
+4	sub_1053EB80
+5	sub_108768C0
+6	nullsub_4
+7	sub_104FE090
+8	sub_104FDEB0
+9	sub_104FDF60
+10	sub_1060C4E0

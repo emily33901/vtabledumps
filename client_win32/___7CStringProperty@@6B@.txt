@@ -1,0 +1,7 @@
+// ___7CStringProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBDE8
+// from "client.dll", by ida_vtables.idc
+0	sub_108246C0
+1	sub_1082F150
+2	sub_10826840
+3	const CHFontProperty::`RTTI Complete Object Locator'

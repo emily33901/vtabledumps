@@ -1,0 +1,4 @@
+// ___7C_SpriteTrail@@6BC_SpriteRenderer@@@
+// Auto reconstructed from vtable block @ 0x109D5DA4
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A2F0

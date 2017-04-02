@@ -1,0 +1,10 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_SpinUpdate@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB4130
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107DB990
+2	sub_107DBFA0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_10800A30
+6	const C_OP_SpinYaw::`RTTI Complete Object Locator'

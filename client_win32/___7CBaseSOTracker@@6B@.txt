@@ -1,0 +1,8 @@
+// ___7CBaseSOTracker@@6B@
+// Auto reconstructed from vtable block @ 0x10A4C3B4
+// from "client.dll", by ida_vtables.idc
+0	sub_104ECEC0
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	const CSOTrackerManager::`RTTI Complete Object Locator'

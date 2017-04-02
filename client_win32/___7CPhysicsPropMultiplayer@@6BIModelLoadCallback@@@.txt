@@ -1,0 +1,5 @@
+// ___7CPhysicsPropMultiplayer@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109AAD7C
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const CPhysicsPropMultiplayer::`RTTI Complete Object Locator'{for `IMultiplayerPhysics'}

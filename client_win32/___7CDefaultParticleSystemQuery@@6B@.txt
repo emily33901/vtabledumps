@@ -1,0 +1,19 @@
+// ___7CDefaultParticleSystemQuery@@6B@
+// Auto reconstructed from vtable block @ 0x10BB31C8
+// from "client.dll", by ida_vtables.idc
+0	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+1	nullsub_1
+2	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+3	sub_10073060
+4	nullsub_1
+5	sub_107CF3F0
+6	sub_107D2ED0
+7	sub_102735A0
+8	sub_10320260
+9	?_Get_deleter@_Ref_count_base@std@@UBEPAXABVtype_info@@@Z_0
+10	sub_107CF4B0
+11	sub_1031F310
+12	sub_1031F570
+13	sub_1031F490
+14	sub_107CF4A0
+15	nullsub_4

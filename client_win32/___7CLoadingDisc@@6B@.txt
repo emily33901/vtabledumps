@@ -1,0 +1,7 @@
+// ___7CLoadingDisc@@6B@
+// Auto reconstructed from vtable block @ 0x109DA604
+// from "client.dll", by ida_vtables.idc
+0	sub_108029C0
+1	sub_10361BF0
+2	sub_10361C90
+3	sub_10361CF0

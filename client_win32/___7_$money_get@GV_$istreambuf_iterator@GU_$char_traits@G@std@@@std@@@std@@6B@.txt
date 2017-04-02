@@ -1,0 +1,5 @@
+// ___7_$money_get@GV_$istreambuf_iterator@GU_$char_traits@G@std@@@std@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD4A44
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_83
+1	sub_103DAF70

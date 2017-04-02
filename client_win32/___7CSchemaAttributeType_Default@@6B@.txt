@@ -1,0 +1,16 @@
+// ___7CSchemaAttributeType_Default@@6B@
+// Auto reconstructed from vtable block @ 0x109E6EA8
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4990
+1	sub_103B5FF0
+2	sub_103C2A60
+3	unknown_libname_13
+4	sub_103A50E0
+5	sub_103B0A40
+6	sub_103C28D0
+7	sub_103B62C0
+8	sub_103CD350
+9	sub_103C3990
+10	sub_100166E0
+11	sub_103B0C40
+12	sub_103B0980

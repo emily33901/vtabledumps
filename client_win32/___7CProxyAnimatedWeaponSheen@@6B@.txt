@@ -1,0 +1,10 @@
+// ___7CProxyAnimatedWeaponSheen@@6B@
+// Auto reconstructed from vtable block @ 0x10A4481C
+// from "client.dll", by ida_vtables.idc
+0	sub_104D50B0
+1	sub_104D6BC0
+2	sub_1059A8D0
+3	sub_103850F0
+4	sub_104CACF0
+5	sub_10208F50
+6	nullsub_4

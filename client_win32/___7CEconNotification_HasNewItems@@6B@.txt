@@ -1,0 +1,19 @@
+// ___7CEconNotification_HasNewItems@@6B@
+// Auto reconstructed from vtable block @ 0x109EC35C
+// from "client.dll", by ida_vtables.idc
+0	sub_103E19B0
+1	sub_10418BB0
+2	sub_103E2DE0
+3	sub_10415C10
+4	sub_103E1C30
+5	sub_103E3C40
+6	sub_100166E0
+7	sub_103E47D0
+8	sub_10017FE0
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	nullsub_1
+13	nullsub_1
+14	sub_10415EE0
+15	sub_10415880

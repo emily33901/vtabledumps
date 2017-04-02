@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgCreateOrUpdatePartyReply@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB2BE0
+// from "client.dll", by ida_vtables.idc
+0	loc_105B8D80
+1	sub_103E0260
+2	const CSendCreateOrUpdatePartyMsgJob::`RTTI Complete Object Locator'

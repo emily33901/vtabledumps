@@ -1,0 +1,10 @@
+// ___7CAchievementSaveThread@@6B@
+// Auto reconstructed from vtable block @ 0x10986E98
+// from "client.dll", by ida_vtables.idc
+0	sub_101FD770
+1	public: virtual bool thiscall CThread::Start(unsigned int)
+2	protected: virtual bool thiscall CThread::Init(void)
+3	sub_10200840
+4	protected: virtual void thiscall CThread::OnExit(void)
+5	protected: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	protected: virtual bool thiscall CThread::IsThreadRunning(void)

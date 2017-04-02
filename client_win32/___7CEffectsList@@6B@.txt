@@ -1,0 +1,8 @@
+// ___7CEffectsList@@6B@
+// Auto reconstructed from vtable block @ 0x109B4D90
+// from "client.dll", by ida_vtables.idc
+0	sub_102A05E0
+1	sub_102A0610
+2	sub_102A0810
+3	sub_102A0660
+4	sub_102A07A0

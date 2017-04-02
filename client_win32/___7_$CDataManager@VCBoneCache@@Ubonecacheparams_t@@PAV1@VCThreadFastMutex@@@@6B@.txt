@@ -1,0 +1,9 @@
+// ___7_$CDataManager@VCBoneCache@@Ubonecacheparams_t@@PAV1@VCThreadFastMutex@@@@6B@
+// Auto reconstructed from vtable block @ 0x10996B34
+// from "client.dll", by ida_vtables.idc
+0	sub_10225BE0
+1	sub_1022A1C0
+2	sub_1022A1F0
+3	sub_1021FDC0
+4	sub_10224620
+5	sub_10225550

@@ -1,0 +1,7 @@
+// ___7_$CCallResult@VHTML@vgui@@UHTML_BrowserReady_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BCD868
+// from "client.dll", by ida_vtables.idc
+0	sub_105DE590
+1	sub_105DE550
+2	__RTC_NumErrors
+3	const vgui::HTML::`RTTI Complete Object Locator'

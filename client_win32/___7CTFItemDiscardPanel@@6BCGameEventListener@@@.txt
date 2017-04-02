@@ -1,0 +1,5 @@
+// ___7CTFItemDiscardPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B23D60
+// from "client.dll", by ida_vtables.idc
+0	sub_1042528F
+1	sub_10425810

@@ -1,0 +1,5 @@
+// ___7ICaptureFlagAutoList@@6B@
+// Auto reconstructed from vtable block @ 0x10A48E3C
+// from "client.dll", by ida_vtables.idc
+0	sub_104E6B60
+1	const C_CaptureFlag::`RTTI Complete Object Locator'

@@ -1,0 +1,6 @@
+// ___7C_TFWeaponPDAExpansion_Dispenser@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B08F4C
+// from "client.dll", by ida_vtables.idc
+0	sub_1067F566
+1	sub_103F1400
+2	const C_TFWeaponPDAExpansion_Teleporter::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7_$CGCMsg@UMsgGCMOTDRequest_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A772D8
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820

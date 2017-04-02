@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgMatchmakingProgress@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB3770
+// from "client.dll", by ida_vtables.idc
+0	loc_105B8F10
+1	sub_103E0260
+2	const CGCClientCasualCriteriaStats::`RTTI Complete Object Locator'

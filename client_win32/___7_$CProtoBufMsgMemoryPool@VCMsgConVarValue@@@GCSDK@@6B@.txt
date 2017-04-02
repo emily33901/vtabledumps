@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgConVarValue@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109EC03C
+// from "client.dll", by ida_vtables.idc
+0	sub_103DFFD0
+1	sub_103E0270
+2	sub_103E0310
+3	sub_1039C610

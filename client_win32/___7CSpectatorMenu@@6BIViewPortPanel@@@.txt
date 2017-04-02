@@ -1,0 +1,16 @@
+// ___7CSpectatorMenu@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x10A12644
+// from "client.dll", by ida_vtables.idc
+0	loc_10459614
+1	sub_10459BB6
+2	nullsub_4
+3	sub_10459F60
+4	sub_1045A4C0
+5	sub_10017FE0
+6	sub_100166E0
+7	sub_1045A010
+8	sub_1001DBD0
+9	sub_1045AC26
+10	sub_104552E5
+11	sub_1045B119
+12	const CSpectatorMenu::`RTTI Complete Object Locator'{for `CGameEventListener'}

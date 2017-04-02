@@ -1,0 +1,10 @@
+// ___7CReplayItemManager@@6B@
+// Auto reconstructed from vtable block @ 0x109794AC
+// from "client.dll", by ida_vtables.idc
+0	sub_101E47E0
+1	sub_101E4900
+2	sub_101E4920
+3	sub_101E48C0
+4	sub_10017FE0
+5	sub_101E4830
+6	const CMovieItemManager::`RTTI Complete Object Locator'

@@ -1,0 +1,7 @@
+// ___7C_TFMvMBossProgressUser@@6B@
+// Auto reconstructed from vtable block @ 0x10A42D14
+// from "client.dll", by ida_vtables.idc
+0	sub_104CAD60
+1	sub_10091570
+2	sub_1045C290
+3	const C_TFPlayer::NetworkVar_m_AttributeManager::`RTTI Complete Object Locator'

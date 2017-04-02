@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecachePrecipitation@@6B@
+// Auto reconstructed from vtable block @ 0x10A175D8
+// from "client.dll", by ida_vtables.idc
+0	sub_10465C20
+1	const AshDebrisEffect::`RTTI Complete Object Locator'

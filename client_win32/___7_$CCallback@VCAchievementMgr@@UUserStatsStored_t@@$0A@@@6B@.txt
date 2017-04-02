@@ -1,0 +1,7 @@
+// ___7_$CCallback@VCAchievementMgr@@UUserStatsStored_t@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x10986DBC
+// from "client.dll", by ida_vtables.idc
+0	sub_102A1BE0
+1	sub_105BDCE0
+2	sub_1001AD20
+3	const CAchievementMgr::`RTTI Complete Object Locator'

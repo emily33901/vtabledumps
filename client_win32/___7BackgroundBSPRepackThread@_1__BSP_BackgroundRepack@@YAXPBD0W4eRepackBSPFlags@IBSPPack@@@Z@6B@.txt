@@ -1,0 +1,11 @@
+// ___7BackgroundBSPRepackThread@_1__BSP_BackgroundRepack@@YAXPBD0W4eRepackBSPFlags@IBSPPack@@@Z@6B@
+// Auto reconstructed from vtable block @ 0x10AB7978
+// from "client.dll", by ida_vtables.idc
+0	sub_105CBE30
+1	public: virtual bool thiscall CThread::Start(unsigned int)
+2	protected: virtual bool thiscall CThread::Init(void)
+3	sub_105CC060
+4	protected: virtual void thiscall CThread::OnExit(void)
+5	protected: virtual unsigned int (stdcall *thiscall CThread::GetThreadProc(void))(void near *)
+6	protected: virtual bool thiscall CThread::IsThreadRunning(void)
+7	const `void cdecl BSP_BackgroundRepack(char const near *,char const near *,enum  IBSPPack::eRepackBSPFlags)'::`2'::BackgroundBSPRepackThread::`RTTI Complete Object Locator'{for `CAutoGameSystemPerFrame'}

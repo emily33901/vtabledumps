@@ -1,0 +1,5 @@
+// ___7CTFMedicCallerPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10A8015C
+// from "client.dll", by ida_vtables.idc
+0	sub_10550CFD
+1	sub_10550F10

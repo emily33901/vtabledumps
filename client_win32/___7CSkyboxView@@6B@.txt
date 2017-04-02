@@ -1,0 +1,9 @@
+// ___7CSkyboxView@@6B@
+// Auto reconstructed from vtable block @ 0x109DF05C
+// from "client.dll", by ida_vtables.idc
+0	sub_1036E7D0
+1	sub_100166E0
+2	public: void near * thiscall Concurrency::details::UMSSchedulerProxy::GetCompletionList(void)const
+3	sub_10377990
+4	sub_10376550
+5	const CShadowDepthView::`RTTI Complete Object Locator'

@@ -1,0 +1,4 @@
+// ___7_$C_EntityClassList@VC_PointCamera@@@@6B@
+// Auto reconstructed from vtable block @ 0x109A9034
+// from "client.dll", by ida_vtables.idc
+0	sub_1026A920

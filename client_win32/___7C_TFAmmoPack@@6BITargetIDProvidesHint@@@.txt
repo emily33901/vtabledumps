@@ -1,0 +1,4 @@
+// ___7C_TFAmmoPack@@6BITargetIDProvidesHint@@@
+// Auto reconstructed from vtable block @ 0x10A3F2E4
+// from "client.dll", by ida_vtables.idc
+0	sub_104BF350

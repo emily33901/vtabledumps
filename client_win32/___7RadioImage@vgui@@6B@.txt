@@ -1,0 +1,44 @@
+// ___7RadioImage@vgui@@6B@
+// Auto reconstructed from vtable block @ 0x10BCA30C
+// from "client.dll", by ida_vtables.idc
+0	sub_1086E8D0
+1	sub_1074B8B0
+2	sub_1084D4C0
+3	sub_10860030
+4	sub_1084E0F0
+5	sub_1086EA00
+6	sub_1086E0D0
+7	sub_10017FE0
+8	sub_10091570
+9	nullsub_4
+10	sub_10091570
+11	nullsub_4
+12	sub_10860010
+13	sub_1035F960
+14	sub_1085FFF0
+15	sub_1085FED0
+16	sub_1085FEE0
+17	sub_1085FD00
+18	sub_1085FD80
+19	sub_1085FD40
+20	sub_1085FDC0
+21	sub_1085FF70
+22	sub_1085FF20
+23	sub_1085FF30
+24	sub_1085FF80
+25	sub_1085FE70
+26	sub_1085FEB0
+27	sub_1085FE10
+28	sub_1085FE50
+29	sub_1085FFB0
+30	sub_1085FFD0
+31	sub_1084E190
+32	sub_1084E110
+33	sub_1084D530
+34	sub_1084D4E0
+35	sub_1084D700
+36	sub_10824810
+37	sub_1084E0D0
+38	sub_1084D4D0
+39	sub_1084D590
+40	const vgui::RadioButton::`RTTI Complete Object Locator'

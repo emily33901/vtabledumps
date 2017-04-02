@@ -1,0 +1,14 @@
+// ___7CQuestTooltip@@6B@
+// Auto reconstructed from vtable block @ 0x10ACAC34
+// from "client.dll", by ida_vtables.idc
+0	sub_104FE2A0
+1	sub_10091570
+2	sub_1060E3D0
+3	sub_1053C820
+4	sub_10624FA0
+5	sub_1060DEF0
+6	nullsub_4
+7	sub_1060CDB0
+8	sub_1060CCD0
+9	sub_1060CD20
+10	sub_1060C4E0

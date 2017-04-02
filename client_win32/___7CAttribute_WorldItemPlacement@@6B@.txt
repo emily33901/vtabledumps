@@ -1,0 +1,23 @@
+// ___7CAttribute_WorldItemPlacement@@6B@
+// Auto reconstructed from vtable block @ 0x1095F0BC
+// from "client.dll", by ida_vtables.idc
+0	sub_1013CC00
+1	sub_106FA390
+2	sub_10165C60
+3	sub_10145180
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10156EB0
+8	sub_1013F740
+9	sub_10168590
+10	sub_1016C400
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10149E10
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10147300
+19	const CGCMsg_WorldItemPlacement_Update::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7C_TFMinigun@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B03F84
+// from "client.dll", by ida_vtables.idc
+0	sub_10670DD5
+1	sub_10670F80

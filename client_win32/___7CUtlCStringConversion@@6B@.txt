@@ -1,0 +1,5 @@
+// ___7CUtlCStringConversion@@6B@
+// Auto reconstructed from vtable block @ 0x10BB9B24
+// from "client.dll", by ida_vtables.idc
+0	sub_1080C300
+1	const CUtlNoEscConversion::`RTTI Complete Object Locator'

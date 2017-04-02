@@ -1,0 +1,4 @@
+// ___7_$CPanelFactory@VCPDAPanel_Engineer_Destroy@@UVGuiScreenInitData_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10AE9F24
+// from "client.dll", by ida_vtables.idc
+0	sub_1065A980

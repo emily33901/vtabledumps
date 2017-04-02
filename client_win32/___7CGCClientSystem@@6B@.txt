@@ -1,0 +1,25 @@
+// ___7CGCClientSystem@@6B@
+// Auto reconstructed from vtable block @ 0x109EBCF0
+// from "client.dll", by ida_vtables.idc
+0	sub_10234800
+1	sub_100166E0
+2	sub_103DFA70
+3	sub_103DFB30
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	nullsub_1
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	sub_103DF5E0
+14	nullsub_1
+15	sub_103DFC80
+16	nullsub_1
+17	sub_103DF9B0
+18	nullsub_1
+19	nullsub_1
+20	sub_103DFB00
+21	sub_103DFAA0

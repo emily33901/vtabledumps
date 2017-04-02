@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgApplyStrangeRestriction@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A0D0DC
+// from "client.dll", by ida_vtables.idc
+0	sub_1044A030
+1	sub_1044BCD0
+2	sub_1044BF10
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgApplyToolToItem>::`RTTI Complete Object Locator'

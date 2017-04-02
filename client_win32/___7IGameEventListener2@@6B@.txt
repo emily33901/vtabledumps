@@ -1,0 +1,6 @@
+// ___7IGameEventListener2@@6B@
+// Auto reconstructed from vtable block @ 0x10973230
+// from "client.dll", by ida_vtables.idc
+0	sub_101D2A50
+1	sub_108A465B
+2	const CGameEventListener::`RTTI Complete Object Locator'

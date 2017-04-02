@@ -1,0 +1,5 @@
+// ___7CControlPointIconSwoop@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109C1EAC
+// from "client.dll", by ida_vtables.idc
+0	sub_102E6D59
+1	sub_102E7640

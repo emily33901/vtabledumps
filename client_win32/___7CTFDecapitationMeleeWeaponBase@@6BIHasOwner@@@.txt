@@ -1,0 +1,5 @@
+// ___7CTFDecapitationMeleeWeaponBase@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B19F18
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const CTFDecapitationMeleeWeaponBase::`RTTI Complete Object Locator'{for `CGameEventListener'}

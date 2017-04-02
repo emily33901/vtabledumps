@@ -1,0 +1,13 @@
+// ___7CLayeredMapToolTip@@6B@
+// Auto reconstructed from vtable block @ 0x10AD5220
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	sub_10091570
+2	sub_10628260
+3	sub_106280C0
+4	sub_106281A0
+5	sub_108768C0
+6	nullsub_4
+7	sub_10627D30
+8	sub_10627C70
+9	sub_10627CA0

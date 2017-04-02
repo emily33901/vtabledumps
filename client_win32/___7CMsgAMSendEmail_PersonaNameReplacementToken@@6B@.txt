@@ -1,0 +1,23 @@
+// ___7CMsgAMSendEmail_PersonaNameReplacementToken@@6B@
+// Auto reconstructed from vtable block @ 0x1096F74C
+// from "client.dll", by ida_vtables.idc
+0	sub_101B0B90
+1	sub_106FA390
+2	sub_101C6530
+3	sub_101B4CE0
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101C16B0
+8	sub_10142F70
+9	sub_10197EE0
+10	sub_101CA6E0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101B9F80
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101B61D0
+19	const CMsgAMSendEmail::`RTTI Complete Object Locator'

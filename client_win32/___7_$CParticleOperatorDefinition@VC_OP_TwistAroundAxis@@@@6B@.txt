@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_TwistAroundAxis@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB89AC
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107FD7F0
+2	sub_107FD850
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107DBB20

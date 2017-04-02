@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgReplayUploadedToYouTube@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109838BC
+// from "client.dll", by ida_vtables.idc
+0	sub_101F6070
+1	sub_103E0260

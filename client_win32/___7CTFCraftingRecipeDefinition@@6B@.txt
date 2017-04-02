@@ -1,0 +1,7 @@
+// ___7CTFCraftingRecipeDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109ECBD4
+// from "client.dll", by ida_vtables.idc
+0	sub_103A49C0
+1	sub_103B0D60
+2	sub_103EE200
+3	const CTFQuestObjectiveConditionsDefinition::`RTTI Complete Object Locator'

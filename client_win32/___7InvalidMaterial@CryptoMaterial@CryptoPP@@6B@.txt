@@ -1,0 +1,5 @@
+// ___7InvalidMaterial@CryptoMaterial@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD262C
+// from "client.dll", by ida_vtables.idc
+0	sub_10886E40
+1	sub_10888310

@@ -1,0 +1,5 @@
+// ___7C_TFStunBall@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10AF2180
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFBat_Giftwrap::`RTTI Complete Object Locator'

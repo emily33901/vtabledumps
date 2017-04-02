@@ -1,0 +1,11 @@
+// ___7CCenterPrint@@6B@
+// Auto reconstructed from vtable block @ 0x109D9304
+// from "client.dll", by ida_vtables.idc
+0	sub_103604C0
+1	sub_10360410
+2	sub_103603E0
+3	sub_103600F0
+4	sub_103600D0
+5	sub_103600B0
+6	sub_103601E0
+7	sub_10360230

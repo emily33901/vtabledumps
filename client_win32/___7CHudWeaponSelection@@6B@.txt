@@ -1,0 +1,44 @@
+// ___7CHudWeaponSelection@@6B@
+// Auto reconstructed from vtable block @ 0x10A92F40
+// from "client.dll", by ida_vtables.idc
+0	sub_10579850
+1	sub_1057A660
+2	nullsub_1
+3	sub_103847B0
+4	sub_1057ACC0
+5	sub_1057AD20
+6	sub_1057B460
+7	sub_103844A0
+8	sub_103E0260
+9	sub_1057B6D0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	sub_1057AD50
+16	sub_1057ADF0
+17	sub_1057AC60
+18	sub_103840A0
+19	sub_10579C60
+20	sub_10579D70
+21	sub_1057B860
+22	sub_1057ABE0
+23	sub_1057B520
+24	sub_10384110
+25	sub_103841D0
+26	sub_103846B0
+27	sub_10384620
+28	sub_1057A7E0
+29	sub_1057ADC0
+30	sub_103843A0
+31	sub_1057B480
+32	sub_10384370
+33	sub_10384340
+34	nullsub_15
+35	sub_1091F590
+36	sub_103843C0
+37	sub_1057ACB0
+38	sub_1057B6A0
+39	sub_1057B690
+40	const CHudWeaponSelection::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

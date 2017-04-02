@@ -1,0 +1,14 @@
+// ___7CSharedObject@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109E1E18
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C2F0
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	sub_108A465B
+7	sub_108A465B
+8	sub_100166E0
+9	sub_1038D1D0
+10	const IEconLootList::`RTTI Complete Object Locator'

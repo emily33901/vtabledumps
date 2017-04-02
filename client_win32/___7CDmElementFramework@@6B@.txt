@@ -1,0 +1,13 @@
+// ___7CDmElementFramework@@6B@
+// Auto reconstructed from vtable block @ 0x10BE5850
+// from "client.dll", by ida_vtables.idc
+0	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+1	nullsub_1
+2	sub_10926820
+3	sub_10073060
+4	sub_10926950
+5	sub_10926710
+6	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_8
+7	sub_109266A0
+8	sub_10926720
+9	sub_109268D0

@@ -1,0 +1,9 @@
+// ___7CHudMessage@@6BITextMessage@@@
+// Auto reconstructed from vtable block @ 0x109CC1C8
+// from "client.dll", by ida_vtables.idc
+0	sub_1030C3A0
+1	sub_1030AD40
+2	sub_1030B000
+3	sub_1030AF40
+4	sub_1030C370
+5	sub_1030C360

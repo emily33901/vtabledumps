@@ -1,0 +1,12 @@
+// ___7CEntitySaveRestoreBlockHandler@@6B@
+// Auto reconstructed from vtable block @ 0x109D35DC
+// from "client.dll", by ida_vtables.idc
+0	sub_10345BB0
+1	sub_10345F60
+2	sub_103477B0
+3	sub_10349270
+4	sub_10345EB0
+5	nullsub_1
+6	sub_10346E00
+7	sub_10347500
+8	nullsub_1

@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgGCStorePurchaseInitResponse@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A03F1C
+// from "client.dll", by ida_vtables.idc
+0	sub_104373E0
+1	sub_103E0260

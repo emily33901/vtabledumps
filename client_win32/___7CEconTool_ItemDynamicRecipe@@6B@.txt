@@ -1,0 +1,18 @@
+// ___7CEconTool_ItemDynamicRecipe@@6B@
+// Auto reconstructed from vtable block @ 0x109E9C28
+// from "client.dll", by ida_vtables.idc
+0	sub_103CF970
+1	sub_103D0270
+2	sub_103D1730
+3	sub_10017FE0
+4	sub_103CFB00
+5	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+6	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+7	sub_10017FE0
+8	sub_103871B0
+9	sub_103B6140
+10	sub_10387090
+11	nullsub_2
+12	nullsub_5
+13	sub_103CFE20
+14	const CEconTool_GiftWrap::`RTTI Complete Object Locator'

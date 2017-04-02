@@ -1,0 +1,4 @@
+// ___7_$CCopyableUtlVector@MV_$CUtlMemory@MH@@@@6B@
+// Auto reconstructed from vtable block @ 0x10ACC1C4
+// from "client.dll", by ida_vtables.idc
+0	sub_1060F300

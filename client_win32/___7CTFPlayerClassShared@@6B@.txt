@@ -1,0 +1,5 @@
+// ___7CTFPlayerClassShared@@6B@
+// Auto reconstructed from vtable block @ 0x10A9BF08
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1

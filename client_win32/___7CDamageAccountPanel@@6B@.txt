@@ -1,0 +1,19 @@
+// ___7CDamageAccountPanel@@6B@
+// Auto reconstructed from vtable block @ 0x10A5B9D8
+// from "client.dll", by ida_vtables.idc
+0	sub_1050FE70
+1	sub_10510770
+2	nullsub_1
+3	nullsub_1
+4	sub_10511790
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_10512000
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CDamageAccountPanel::`RTTI Complete Object Locator'{for `CAccountPanel'}

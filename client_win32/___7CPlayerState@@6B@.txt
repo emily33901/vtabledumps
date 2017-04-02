@@ -1,0 +1,8 @@
+// ___7CPlayerState@@6B@
+// Auto reconstructed from vtable block @ 0x1099C630
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1
+2	sub_1024EA60
+3	sub_10251740
+4	const C_BasePlayer::NetworkVar_m_Local::`RTTI Complete Object Locator'

@@ -1,0 +1,6 @@
+// ___7_$CManagedDataCacheClient@UAsyncCaptionData_t@@Uasynccaptionparams_t@@PAU1@@@6B@
+// Auto reconstructed from vtable block @ 0x109C0DFC
+// from "client.dll", by ida_vtables.idc
+0	sub_102E1B30
+1	sub_102E1850
+2	const CAsyncCaptionResourceManager::`RTTI Complete Object Locator'

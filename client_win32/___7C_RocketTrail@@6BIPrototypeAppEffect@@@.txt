@@ -1,0 +1,7 @@
+// ___7C_RocketTrail@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x10A1AF94
+// from "client.dll", by ida_vtables.idc
+0	sub_10472851
+1	sub_104746C0
+2	sub_10887630
+3	const SporeEffect::`RTTI Complete Object Locator'

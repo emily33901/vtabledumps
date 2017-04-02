@@ -1,0 +1,6 @@
+// ___7C_TFCompoundBow@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AF66DC
+// from "client.dll", by ida_vtables.idc
+0	sub_1066228B
+1	sub_10683170
+2	const C_TFCompoundBow::`RTTI Complete Object Locator'{for `ITFChargeUpWeapon'}

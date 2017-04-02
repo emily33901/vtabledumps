@@ -1,0 +1,10 @@
+// ___7CEntityOriginMaterialProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109B7FBC
+// from "client.dll", by ida_vtables.idc
+0	sub_102B1C50
+1	sub_1033A4B0
+2	sub_1059A8D0
+3	sub_10007190
+4	sub_102B1C20
+5	sub_102B1D10
+6	nullsub_4

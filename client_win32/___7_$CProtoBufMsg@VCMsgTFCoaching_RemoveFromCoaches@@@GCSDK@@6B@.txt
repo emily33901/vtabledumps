@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgTFCoaching_RemoveFromCoaches@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4D4BC
+// from "client.dll", by ida_vtables.idc
+0	sub_104F4670
+1	sub_103E0260
+2	const CSelectPlayerForCoachDialog::`RTTI Complete Object Locator'

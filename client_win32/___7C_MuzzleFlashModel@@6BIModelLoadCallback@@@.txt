@@ -1,0 +1,5 @@
+// ___7C_MuzzleFlashModel@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10A524EC
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const PrecacheEffect_TF_MuzzleFlash::ClientEffectRegister::`RTTI Complete Object Locator'

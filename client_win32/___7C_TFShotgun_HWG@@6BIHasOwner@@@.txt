@@ -1,0 +1,5 @@
+// ___7C_TFShotgun_HWG@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B136B8
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFShotgun_HWG::`RTTI Complete Object Locator'{for `CGameEventListener'}

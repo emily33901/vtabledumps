@@ -1,0 +1,18 @@
+// ___7C_FuncRespawnRoom@@6BIClientNetworkable@@@
+// Auto reconstructed from vtable block @ 0x10A3AF08
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F504
+1	sub_10245550
+2	sub_104BA6F0
+3	sub_102442C0
+4	sub_10244620
+5	sub_102443B0
+6	sub_10244EE0
+7	sub_10244930
+8	sub_10243D10
+9	sub_10784470
+10	sub_10245230
+11	sub_10241BB0
+12	sub_10246160
+13	sub_102443E0
+14	const C_FuncRespawnRoom::`RTTI Complete Object Locator'{for `IClientThinkable'}

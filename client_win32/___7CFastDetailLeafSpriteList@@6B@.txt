@@ -1,0 +1,5 @@
+// ___7CFastDetailLeafSpriteList@@6B@
+// Auto reconstructed from vtable block @ 0x109B6898
+// from "client.dll", by ida_vtables.idc
+0	sub_102AA170
+1	const CDetailObjectSystem::`RTTI Complete Object Locator'

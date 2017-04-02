@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgGCRemoveStrangePart@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F3314
+// from "client.dll", by ida_vtables.idc
+0	loc_103FC690
+1	sub_103E0260
+2	const GCSDK::CProtoBufMsg<class CMsgGCResetStrangeScores>::`RTTI Complete Object Locator'

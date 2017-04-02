@@ -1,0 +1,10 @@
+// ___7CLampHaloProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109CAA74
+// from "client.dll", by ida_vtables.idc
+0	sub_103072A0
+1	sub_1033A4B0
+2	sub_1059A8D0
+3	sub_102088F0
+4	sub_102B1C20
+5	sub_103072D0
+6	nullsub_4

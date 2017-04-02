@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgFulfillDynamicRecipeComponent@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC63AC
+// from "client.dll", by ida_vtables.idc
+0	loc_105FC9A0
+1	sub_105FDCC0
+2	sub_105FE920
+3	sub_1039C610
+4	const CHalloweenOfferingSelectionPanel::`RTTI Complete Object Locator'

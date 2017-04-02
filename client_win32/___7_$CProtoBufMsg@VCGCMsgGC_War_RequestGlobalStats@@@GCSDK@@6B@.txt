@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCGCMsgGC_War_RequestGlobalStats@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109F0478
+// from "client.dll", by ida_vtables.idc
+0	sub_103F86E0
+1	sub_103E0260
+2	const CGC_War_GlobalStatsResponse::`RTTI Complete Object Locator'

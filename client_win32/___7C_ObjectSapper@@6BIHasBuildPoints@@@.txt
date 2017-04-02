@@ -1,0 +1,15 @@
+// ___7C_ObjectSapper@@6BIHasBuildPoints@@@
+// Auto reconstructed from vtable block @ 0x10A3D0FC
+// from "client.dll", by ida_vtables.idc
+0	sub_104EC960
+1	sub_104B7150
+2	sub_104B71D0
+3	sub_104B6F40
+4	sub_104B7560
+5	sub_104B7240
+6	sub_104B72B0
+7	nullsub_1
+8	sub_104B7230
+9	sub_100166E0
+10	sub_104B70E0
+11	const C_ObjectSapper::`RTTI Complete Object Locator'{for `ITargetIDProvidesHint'}

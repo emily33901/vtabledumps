@@ -1,0 +1,23 @@
+// ___7CMsgGCTFSpecificItemBroadcast@@6B@
+// Auto reconstructed from vtable block @ 0x1095CB3C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013D2F0
+1	sub_106FA390
+2	sub_101663A0
+3	sub_10145570
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10158F50
+8	sub_101B2ED0
+9	sub_101C8380
+10	sub_101CA8E0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1014BD10
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10147900
+19	const CMsgTFWorldStatus::`RTTI Complete Object Locator'

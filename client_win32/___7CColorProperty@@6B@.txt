@@ -1,0 +1,7 @@
+// ___7CColorProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBDC8
+// from "client.dll", by ida_vtables.idc
+0	sub_10824540
+1	sub_1082EE80
+2	sub_108265D0
+3	const CBoolProperty::`RTTI Complete Object Locator'

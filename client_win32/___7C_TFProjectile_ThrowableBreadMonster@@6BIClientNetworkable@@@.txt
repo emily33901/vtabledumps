@@ -1,0 +1,18 @@
+// ___7C_TFProjectile_ThrowableBreadMonster@@6BIClientNetworkable@@@
+// Auto reconstructed from vtable block @ 0x10B1D56C
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F504
+1	sub_102360C0
+2	sub_1067ED50
+3	sub_10234C20
+4	sub_10235510
+5	sub_106680A0
+6	sub_10235A60
+7	sub_102357E0
+8	sub_10243D10
+9	sub_10784470
+10	sub_10245230
+11	sub_10241BB0
+12	sub_10246160
+13	sub_102443E0
+14	const C_TFProjectile_ThrowableBreadMonster::`RTTI Complete Object Locator'{for `IClientThinkable'}

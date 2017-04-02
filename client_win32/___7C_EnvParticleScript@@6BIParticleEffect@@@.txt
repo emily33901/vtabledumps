@@ -1,0 +1,15 @@
+// ___7C_EnvParticleScript@@6BIParticleEffect@@@
+// Auto reconstructed from vtable block @ 0x1099FEE0
+// from "client.dll", by ida_vtables.idc
+0	sub_10258971
+1	nullsub_4
+2	nullsub_4
+3	sub_10258F10
+4	sub_10258F00
+5	sub_10258F20
+6	sub_10258DB0
+7	nullsub_1
+8	nullsub_4
+9	sub_10258D20
+10	sub_10215860
+11	sub_10215850

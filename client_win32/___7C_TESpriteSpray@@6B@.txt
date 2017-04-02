@@ -1,0 +1,19 @@
+// ___7C_TESpriteSpray@@6B@
+// Auto reconstructed from vtable block @ 0x10A1FE80
+// from "client.dll", by ida_vtables.idc
+0	sub_1048BBE0
+1	nullsub_4
+2	sub_10091570
+3	sub_10091570
+4	sub_102AB7A0
+5	sub_10091570
+6	sub_10091570
+7	sub_10091570
+8	sub_10091570
+9	sub_10091570
+10	nullsub_4
+11	sub_10464D70
+12	nullsub_1
+13	sub_10017FE0
+14	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+15	const C_TESpriteSpray::`RTTI Complete Object Locator'{for `IClientNetworkable'}

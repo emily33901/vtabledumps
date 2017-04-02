@@ -1,0 +1,16 @@
+// ___7CGenericClassBasedReplay@@6BIQueryableReplayItem@@@
+// Auto reconstructed from vtable block @ 0x1097334C
+// from "client.dll", by ida_vtables.idc
+0	sub_101D2999
+1	sub_10802520
+2	sub_10802660
+3	sub_10802540
+4	sub_10802550
+5	sub_10802550
+6	sub_103E3000
+7	sub_108029A0
+8	sub_10802530
+9	sub_103B59E0
+10	sub_108029C0
+11	sub_10017FE0
+12	const CGenericClassBasedReplay::`RTTI Complete Object Locator'{for `CGameEventListener'}

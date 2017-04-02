@@ -1,0 +1,4 @@
+// ___7CDmFbxSerializer@@6B@
+// Auto reconstructed from vtable block @ 0x10BE6F94
+// from "client.dll", by ida_vtables.idc
+0	sub_10937F60

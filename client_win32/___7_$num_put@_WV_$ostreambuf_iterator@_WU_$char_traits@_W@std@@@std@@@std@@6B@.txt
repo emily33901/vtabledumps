@@ -1,0 +1,5 @@
+// ___7_$num_put@_WV_$ostreambuf_iterator@_WU_$char_traits@_W@std@@@std@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x109EAB64
+// from "client.dll", by ida_vtables.idc
+0	sub_103D6100
+1	sub_103DAF70

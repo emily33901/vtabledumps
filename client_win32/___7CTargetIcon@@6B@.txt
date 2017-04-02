@@ -1,0 +1,27 @@
+// ___7CTargetIcon@@6B@
+// Auto reconstructed from vtable block @ 0x10B6FCC8
+// from "client.dll", by ida_vtables.idc
+0	sub_106EF4A0
+1	sub_106E6870
+2	sub_106EEDA0
+3	sub_10017FE0
+4	sub_10017FE0
+5	sub_106EC360
+6	sub_106ED660
+7	sub_106E94D0
+8	sub_106EBC30
+9	sub_106EC150
+10	sub_106EBA50
+11	sub_106ECCF0
+12	sub_106EC540
+13	sub_105DA020
+14	sub_105D3030
+15	sub_105D8F50
+16	sub_105D29C0
+17	sub_106EAD10
+18	sub_106F36B0
+19	sub_106E7070
+20	sub_106EB410
+21	sub_106EC380
+22	sub_106ED3A0
+23	const CTargetDMX::`RTTI Complete Object Locator'

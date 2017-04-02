@@ -1,0 +1,5 @@
+// ___7CReplayBrowserPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x1097B9BC
+// from "client.dll", by ida_vtables.idc
+0	sub_101E8E78
+1	sub_101E9090

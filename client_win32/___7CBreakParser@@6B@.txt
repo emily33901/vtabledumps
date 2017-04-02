@@ -1,0 +1,5 @@
+// ___7CBreakParser@@6B@
+// Auto reconstructed from vtable block @ 0x109D1180
+// from "client.dll", by ida_vtables.idc
+0	sub_10338BD0
+1	sub_1033A3E0

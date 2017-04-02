@@ -1,0 +1,13 @@
+// ___7CRagdoll@@6B@
+// Auto reconstructed from vtable block @ 0x109D15E4
+// from "client.dll", by ida_vtables.idc
+0	sub_1033EA20
+1	sub_10340980
+2	sub_1033FF30
+3	sub_1033FEE0
+4	sub_10007190
+5	sub_1033FC00
+6	sub_1033FA10
+7	sub_103411C0
+8	sub_10341070
+9	sub_103B59E0

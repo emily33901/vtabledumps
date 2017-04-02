@@ -1,0 +1,6 @@
+// ___7C_PasstimeGun@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AA9820
+// from "client.dll", by ida_vtables.idc
+0	sub_105AECF8
+1	sub_10683170
+2	const C_PasstimeGun::`RTTI Complete Object Locator'{for `ITFChargeUpWeapon'}

@@ -1,0 +1,29 @@
+// ___7_$CHudItemEffectMeter_Weapon@VC_TFSniperRifle@@@@6B@
+// Auto reconstructed from vtable block @ 0x10A705D0
+// from "client.dll", by ida_vtables.idc
+0	sub_105335F0
+1	nullsub_4
+2	nullsub_1
+3	nullsub_1
+4	nullsub_1
+5	nullsub_1
+6	nullsub_1
+7	nullsub_1
+8	sub_103E0260
+9	sub_10538180
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	sub_10538EF0
+16	sub_10534DB0
+17	sub_10534D50
+18	sub_10535240
+19	sub_10538010
+20	sub_105354D0
+21	sub_10534B20
+22	sub_10538470
+23	sub_10017FE0
+24	sub_10017FE0
+25	const CHudItemEffectMeter_Weapon<class C_TFSniperRifle>::`RTTI Complete Object Locator'{for `vgui::EditablePanel'}

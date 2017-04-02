@@ -1,0 +1,24 @@
+// ___7CDmeMaterialOverlayFXClip@@6B@
+// Auto reconstructed from vtable block @ 0x10BB17D4
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	sub_1075F1E0
+3	sub_1075F250
+4	sub_107C7AD0
+5	sub_107C7850
+6	sub_107C77C0
+7	nullsub_1
+8	sub_107C6ED0
+9	sub_107C6E70
+10	sub_107C7A90
+11	sub_107C7AB0
+12	sub_100187C0
+13	sub_1075EA80
+14	sub_1075E8D0
+15	sub_1075E9A0
+16	sub_10091570
+17	sub_10091570
+18	sub_10073060
+19	sub_107C6EE0
+20	const CDmFXClipFactory<class CDmeMaterialOverlayFXClip>::`RTTI Complete Object Locator'

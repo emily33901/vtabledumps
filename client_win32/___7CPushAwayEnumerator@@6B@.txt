@@ -1,0 +1,4 @@
+// ___7CPushAwayEnumerator@@6B@
+// Auto reconstructed from vtable block @ 0x109CCB6C
+// from "client.dll", by ida_vtables.idc
+0	sub_1030DF70

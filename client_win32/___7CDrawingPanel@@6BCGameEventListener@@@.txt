@@ -1,0 +1,5 @@
+// ___7CDrawingPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AC4EB4
+// from "client.dll", by ida_vtables.idc
+0	sub_105FB3A5
+1	sub_105FB500

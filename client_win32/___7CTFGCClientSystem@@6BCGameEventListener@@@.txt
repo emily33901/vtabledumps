@@ -1,0 +1,6 @@
+// ___7CTFGCClientSystem@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AB292C
+// from "client.dll", by ida_vtables.idc
+0	sub_105B8BA9
+1	sub_105BBA10
+2	const GCSDK::IPlayerGroupInvite::`RTTI Complete Object Locator'

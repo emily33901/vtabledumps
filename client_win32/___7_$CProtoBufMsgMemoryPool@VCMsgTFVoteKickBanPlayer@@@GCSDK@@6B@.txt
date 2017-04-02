@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFVoteKickBanPlayer@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x109C80EC
+// from "client.dll", by ida_vtables.idc
+0	loc_102F6BA0
+1	sub_102F7AC0
+2	sub_102F8150
+3	sub_1039C610

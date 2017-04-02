@@ -1,0 +1,9 @@
+// ___7C_RecipientFilter@@6B@
+// Auto reconstructed from vtable block @ 0x10A1A7B8
+// from "client.dll", by ida_vtables.idc
+0	sub_104711A0
+1	sub_101D8A70
+2	sub_10017FE0
+3	sub_1034EAB0
+4	sub_10471350
+5	const CLocalPlayerFilter::`RTTI Complete Object Locator'

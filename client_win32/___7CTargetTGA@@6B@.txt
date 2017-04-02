@@ -1,0 +1,24 @@
+// ___7CTargetTGA@@6B@
+// Auto reconstructed from vtable block @ 0x10B6FB68
+// from "client.dll", by ida_vtables.idc
+0	sub_106EF4A0
+1	sub_106E6940
+2	sub_106EECB0
+3	sub_100166E0
+4	sub_106EE910
+5	sub_106EC2E0
+6	sub_106ED640
+7	sub_106E8970
+8	sub_106EBD90
+9	??8_ContextCallback@details@Concurrency@@QBE_NABV012@@Z_6
+10	sub_106EB8E0
+11	sub_106ECC70
+12	sub_106EC510
+13	sub_105DA020
+14	sub_105D3030
+15	sub_105D8F50
+16	sub_105D29C0
+17	sub_106EAD10
+18	sub_106F3590
+19	sub_106E7070
+20	sub_106EB410

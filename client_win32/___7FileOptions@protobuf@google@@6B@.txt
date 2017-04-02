@@ -1,0 +1,23 @@
+// ___7FileOptions@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA7400
+// from "client.dll", by ida_vtables.idc
+0	sub_107214F0
+1	sub_106FA390
+2	sub_10729CF0
+3	sub_10722D10
+4	sub_10723950
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10728090
+8	sub_10722120
+9	sub_1072A760
+10	sub_1072B530
+11	sub_103E0260
+12	sub_10147180
+13	sub_10725080
+14	sub_106FA0E0
+15	sub_106FAA20
+16	unknown_libname_41
+17	sub_10149680
+18	sub_10723390
+19	const google::protobuf::MessageOptions::`RTTI Complete Object Locator'

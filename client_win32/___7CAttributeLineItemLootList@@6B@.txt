@@ -1,0 +1,10 @@
+// ___7CAttributeLineItemLootList@@6B@
+// Auto reconstructed from vtable block @ 0x109E1E60
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C290
+1	sub_100166E0
+2	sub_103B59F0
+3	sub_103B5960
+4	sub_10091570
+5	sub_103B16D0
+6	const CAttributeIterator_GetTypedAttributeValue<class CAttribute_String,char const near *>::`RTTI Complete Object Locator'

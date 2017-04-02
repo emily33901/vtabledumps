@@ -1,0 +1,10 @@
+// ___7CGCClientSharedObjectTypeCache@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6DBD4
+// from "client.dll", by ida_vtables.idc
+0	sub_106D5B30
+1	sub_106C4E20
+2	sub_106C4E60
+3	sub_106C5E00
+4	?_Do_call@?$_Func_impl@U?$_Callable_obj@V_lambda_61710bb2f65fa5c843243e2ef45f5091_@@$0A@@std@@V?$allocator@V?$_Func_class@XABIU_Nil@std@@U12@U12@U12@U12@U12@@std@@@2@XABIU_Nil@2@U42@U42@U42@U42@U42@@std@@UAEXABI@Z_0
+5	sub_106C5080
+6	const GCSDK::CGCClientSharedObjectCache::`RTTI Complete Object Locator'

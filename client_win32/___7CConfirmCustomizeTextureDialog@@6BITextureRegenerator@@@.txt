@@ -1,0 +1,5 @@
+// ___7CConfirmCustomizeTextureDialog@@6BITextureRegenerator@@@
+// Auto reconstructed from vtable block @ 0x10A06AA0
+// from "client.dll", by ida_vtables.idc
+0	sub_10444D60
+1	sub_104452E0

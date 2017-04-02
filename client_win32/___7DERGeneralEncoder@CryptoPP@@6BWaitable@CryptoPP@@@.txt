@@ -1,0 +1,6 @@
+// ___7DERGeneralEncoder@CryptoPP@@6BWaitable@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BE2F1C
+// from "client.dll", by ida_vtables.idc
+0	sub_108EFD86
+1	sub_108D5C30
+2	sub_108D5CA0

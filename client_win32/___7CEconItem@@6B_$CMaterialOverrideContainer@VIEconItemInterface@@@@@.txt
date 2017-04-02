@@ -1,0 +1,26 @@
+// ___7CEconItem@@6B_$CMaterialOverrideContainer@VIEconItemInterface@@@@@
+// Auto reconstructed from vtable block @ 0x109E1F8C
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C24E
+1	sub_1038D180
+2	sub_10397960
+3	sub_1038D760
+4	sub_10397D20
+5	sub_1038D670
+6	sub_1038D780
+7	sub_1038D740
+8	sub_1038D2E0
+9	sub_1038D290
+10	sub_10015E10
+11	sub_1038D360
+12	sub_1038D390
+13	sub_103B02C0
+14	sub_1038D320
+15	sub_1038D370
+16	sub_1038D310
+17	sub_1038D2A0
+18	sub_1038D0D0
+19	sub_1038D020
+20	sub_1038D7E0
+21	sub_1038D2C0
+22	sub_10388D00

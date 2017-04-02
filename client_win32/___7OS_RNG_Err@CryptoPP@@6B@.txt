@@ -1,0 +1,6 @@
+// ___7OS_RNG_Err@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BE32A8
+// from "client.dll", by ida_vtables.idc
+0	sub_108EF630
+1	sub_10888310
+2	const CryptoPP::NonblockingRng::`RTTI Complete Object Locator'

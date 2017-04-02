@@ -1,0 +1,23 @@
+// ___7CGCSystemMsg_GetPurchaseTrust_Response@@6B@
+// Auto reconstructed from vtable block @ 0x1096FDDC
+// from "client.dll", by ida_vtables.idc
+0	sub_101B0740
+1	sub_106FA390
+2	sub_101C6080
+3	sub_101B4930
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_101C0150
+8	sub_101B2400
+9	sub_101C7BE0
+10	sub_101C9C40
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101B8A80
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_101B5DD0
+19	const CMsgGCHAccountVacStatusChange::`RTTI Complete Object Locator'

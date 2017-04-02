@@ -1,0 +1,9 @@
+// ___7C_LightGlowOverlay@@6B@
+// Auto reconstructed from vtable block @ 0x109A602C
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A920
+1	sub_100166E0
+2	sub_10264730
+3	sub_102CB550
+4	sub_102CB990
+5	const C_LightGlow::`RTTI Complete Object Locator'

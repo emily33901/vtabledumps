@@ -1,0 +1,7 @@
+// ___7_$CDmElementFactory@V_$CDmeTypedLogLayer@VVector@@@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BAFD60
+// from "client.dll", by ida_vtables.idc
+0	sub_107706E0
+1	sub_107CB520
+2	sub_107B5490
+3	sub_10017FE0

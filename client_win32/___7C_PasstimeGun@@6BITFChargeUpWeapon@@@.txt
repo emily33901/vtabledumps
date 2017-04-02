@@ -1,0 +1,7 @@
+// ___7C_PasstimeGun@@6BITFChargeUpWeapon@@@
+// Auto reconstructed from vtable block @ 0x10AA982C
+// from "client.dll", by ida_vtables.idc
+0	sub_105AF070
+1	sub_105AF250
+2	sub_105AF260
+3	sub_105AF2A0

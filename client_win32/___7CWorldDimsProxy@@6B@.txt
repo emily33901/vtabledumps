@@ -1,0 +1,8 @@
+// ___7CWorldDimsProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109E01FC
+// from "client.dll", by ida_vtables.idc
+0	sub_10385100
+1	sub_10385140
+2	sub_1059A8D0
+3	sub_103850F0
+4	sub_102B1C20

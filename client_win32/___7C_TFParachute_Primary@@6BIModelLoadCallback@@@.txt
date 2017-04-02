@@ -1,0 +1,5 @@
+// ___7C_TFParachute_Primary@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10B05228
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFParachute_Primary::`RTTI Complete Object Locator'{for `IHasAttributes'}

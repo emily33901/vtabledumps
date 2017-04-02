@@ -1,0 +1,14 @@
+// ___7CTFParty@@6BIParty@GCSDK@@@
+// Auto reconstructed from vtable block @ 0x10AB4E14
+// from "client.dll", by ida_vtables.idc
+0	sub_105C1026
+1	sub_105C10F0
+2	sub_105C12E0
+3	sub_105C1160
+4	sub_105C1250
+5	sub_105C1400
+6	sub_105C1100
+7	sub_105C12F0
+8	sub_105C1300
+9	sub_105C1360
+10	sub_10017FE0

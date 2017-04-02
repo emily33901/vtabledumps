@@ -1,0 +1,23 @@
+// ___7DescriptorProto@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA7220
+// from "client.dll", by ida_vtables.idc
+0	sub_10721280
+1	sub_106FA390
+2	private: static void cdecl Concurrency::details::SchedulerBase::CheckStaticConstruction(void)
+3	sub_10722810
+4	sub_10723590
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10725EB0
+8	sub_107216C0
+9	sub_1072A0C0
+10	sub_1072ABF0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10723CA0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10723110
+19	const google::protobuf::FieldDescriptorProto::`RTTI Complete Object Locator'

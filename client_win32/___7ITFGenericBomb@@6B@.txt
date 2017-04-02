@@ -1,0 +1,5 @@
+// ___7ITFGenericBomb@@6B@
+// Auto reconstructed from vtable block @ 0x10A59318
+// from "client.dll", by ida_vtables.idc
+0	sub_1050EA40
+1	const C_TFGenericBomb::`RTTI Complete Object Locator'

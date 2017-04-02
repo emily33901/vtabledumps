@@ -1,0 +1,12 @@
+// ___7IInventoryUpdateListener@@6B@
+// Auto reconstructed from vtable block @ 0x10A42CF0
+// from "client.dll", by ida_vtables.idc
+0	sub_104DB310
+1	nullsub_2
+2	nullsub_5
+3	sub_104DB300
+4	sub_104DB310
+5	sub_104DB300
+6	sub_104DB300
+7	sub_108A465B
+8	const C_TFMvMBossProgressUser::`RTTI Complete Object Locator'

@@ -1,0 +1,17 @@
+// ___7_$CInterpolatedVarArrayBase@VC_AnimationLayer@@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x10999A04
+// from "client.dll", by ida_vtables.idc
+0	sub_10239B90
+1	sub_10340B80
+2	sub_10236D50
+3	sub_1023B520
+4	sub_1023B500
+5	sub_1023B710
+6	sub_1023B2F0
+7	sub_10232DA0
+8	sub_1023B890
+9	sub_1023A520
+10	sub_10231A40
+11	sub_10236CF0
+12	sub_10340AC0
+13	const CInterpolatedVar<class C_AnimationLayer>::`RTTI Complete Object Locator'

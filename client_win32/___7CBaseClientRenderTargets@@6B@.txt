@@ -1,0 +1,7 @@
+// ___7CBaseClientRenderTargets@@6B@
+// Auto reconstructed from vtable block @ 0x10AA1604
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_1020BCB0
+2	sub_1020BC10
+3	const CTFRenderTargets::`RTTI Complete Object Locator'

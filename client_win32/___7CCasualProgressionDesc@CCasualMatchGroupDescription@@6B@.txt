@@ -1,0 +1,8 @@
+// ___7CCasualProgressionDesc@CCasualMatchGroupDescription@@6B@
+// Auto reconstructed from vtable block @ 0x10AB48CC
+// from "client.dll", by ida_vtables.idc
+0	sub_105C0AA0
+1	sub_105C0D50
+2	sub_105C0710
+3	sub_105C0820
+4	const CCasualMatchGroupDescription::`RTTI Complete Object Locator'

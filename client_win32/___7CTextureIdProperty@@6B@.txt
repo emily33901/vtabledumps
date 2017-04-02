@@ -1,0 +1,6 @@
+// ___7CTextureIdProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBE08
+// from "client.dll", by ida_vtables.idc
+0	sub_108246F0
+1	sub_1082F190
+2	sub_10826870

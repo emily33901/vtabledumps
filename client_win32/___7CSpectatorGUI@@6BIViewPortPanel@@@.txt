@@ -1,0 +1,15 @@
+// ___7CSpectatorGUI@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x10A1219C
+// from "client.dll", by ida_vtables.idc
+0	sub_10459609
+1	sub_10459B96
+2	nullsub_4
+3	nullsub_1
+4	sub_1045A0F0
+5	sub_10017FE0
+6	sub_10017FE0
+7	sub_10459F90
+8	sub_1001DBD0
+9	sub_10456608
+10	sub_1060CF90
+11	sub_10457625

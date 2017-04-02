@@ -1,0 +1,10 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_CreateAlongPath@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB76B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1610
+2	sub_107F2220
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_1074F240
+6	const C_INIT_MoveBetweenPoints::`RTTI Complete Object Locator'

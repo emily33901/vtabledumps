@@ -1,0 +1,5 @@
+// ___7CTraceFilterSkipPlayerAndViewModel@@6B@
+// Auto reconstructed from vtable block @ 0x109B8B08
+// from "client.dll", by ida_vtables.idc
+0	sub_102B2FC0
+1	sub_10091570

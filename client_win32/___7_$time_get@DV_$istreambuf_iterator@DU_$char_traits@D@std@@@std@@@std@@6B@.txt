@@ -1,0 +1,5 @@
+// ___7_$time_get@DV_$istreambuf_iterator@DU_$char_traits@D@std@@@std@@@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD4E44
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_111
+1	sub_103DAF70

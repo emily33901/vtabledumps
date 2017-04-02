@@ -1,0 +1,5 @@
+// ___7C_TFRocketLauncher_Mortar@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10B100CC
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFRocketLauncher_Mortar::`RTTI Complete Object Locator'{for `CGameEventListener'}

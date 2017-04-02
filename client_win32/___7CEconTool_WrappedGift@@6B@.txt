@@ -1,0 +1,17 @@
+// ___7CEconTool_WrappedGift@@6B@
+// Auto reconstructed from vtable block @ 0x109E9B50
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4AB0
+1	sub_1038D8D0
+2	sub_103D1730
+3	sub_10017FE0
+4	sub_103CFC30
+5	sub_10386EB0
+6	sub_103872F0
+7	sub_100166E0
+8	sub_10387180
+9	sub_103870C0
+10	sub_10387060
+11	sub_104FB610
+12	nullsub_5
+13	const CEconTool_StrangeCountTransfer::`RTTI Complete Object Locator'

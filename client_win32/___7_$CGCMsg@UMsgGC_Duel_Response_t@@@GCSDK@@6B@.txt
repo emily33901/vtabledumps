@@ -1,0 +1,5 @@
+// ___7_$CGCMsg@UMsgGC_Duel_Response_t@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4F9B0
+// from "client.dll", by ida_vtables.idc
+0	sub_10446820
+1	const CDuelMiniGameEventListener::`RTTI Complete Object Locator'

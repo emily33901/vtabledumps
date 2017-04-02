@@ -1,0 +1,24 @@
+// ___7CBaseGameStats@@6B@
+// Auto reconstructed from vtable block @ 0x109BA8D0
+// from "client.dll", by ida_vtables.idc
+0	sub_10017FE0
+1	sub_10887630
+2	sub_10017FE0
+3	sub_100166E0
+4	nullsub_1
+5	nullsub_1
+6	sub_102C8A00
+7	nullsub_1
+8	nullsub_4
+9	sub_102C8A20
+10	nullsub_1
+11	sub_102C8E50
+12	nullsub_1
+13	sub_10017FE0
+14	sub_100166E0
+15	sub_100166E0
+16	sub_102C8B30
+17	sub_102C8B40
+18	sub_10017FE0
+19	nullsub_2
+20	const CBaseGameStats_Driver::`RTTI Complete Object Locator'

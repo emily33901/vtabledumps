@@ -1,0 +1,18 @@
+// ___7C_PlayerResource@@6BIGameResources@@@
+// Auto reconstructed from vtable block @ 0x109A8A80
+// from "client.dll", by ida_vtables.idc
+0	sub_10269ED4
+1	sub_1026A2D0
+2	sub_1026A300
+3	sub_1026A290
+4	sub_1026A350
+5	sub_1026A330
+6	sub_1026A370
+7	sub_1026A440
+8	sub_1026A1A0
+9	sub_1026A220
+10	sub_1026A160
+11	sub_1026A0D0
+12	sub_1026A110
+13	sub_1026A270
+14	sub_1026A120

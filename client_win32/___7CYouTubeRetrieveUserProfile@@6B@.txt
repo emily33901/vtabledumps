@@ -1,0 +1,11 @@
+// ___7CYouTubeRetrieveUserProfile@@6B@
+// Auto reconstructed from vtable block @ 0x109742A0
+// from "client.dll", by ida_vtables.idc
+0	sub_101DA250
+1	sub_101DBF20
+2	sub_101DA5A0
+3	sub_101DD030
+4	sub_101DA880
+5	sub_101DA5B0
+6	nullsub_1
+7	const CYouTubeRetrieveUserProfile::`RTTI Complete Object Locator'{for `CRefCountServiceBase<1,class CRefMT>'}

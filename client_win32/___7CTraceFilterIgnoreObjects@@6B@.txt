@@ -1,0 +1,7 @@
+// ___7CTraceFilterIgnoreObjects@@6B@
+// Auto reconstructed from vtable block @ 0x10AF887C
+// from "client.dll", by ida_vtables.idc
+0	sub_106653A0
+1	sub_10091570
+2	unknown_libname_9
+3	sub_1019C4F0

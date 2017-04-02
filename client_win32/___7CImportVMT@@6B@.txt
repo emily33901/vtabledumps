@@ -1,0 +1,11 @@
+// ___7CImportVMT@@6B@
+// Auto reconstructed from vtable block @ 0x10BE6610
+// from "client.dll", by ida_vtables.idc
+0	sub_109310A0
+1	sub_10931090
+2	sub_10017FE0
+3	sub_10017FE0
+4	sub_10091570
+5	sub_10931370
+6	sub_10937910
+7	sub_10931BE0

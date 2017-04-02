@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@PrecacheEffectsTest@@6B@
+// Auto reconstructed from vtable block @ 0x109B4E50
+// from "client.dll", by ida_vtables.idc
+0	sub_102A0890

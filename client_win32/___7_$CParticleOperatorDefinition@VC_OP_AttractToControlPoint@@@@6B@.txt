@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_OP_AttractToControlPoint@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB8A94
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107FD770
+2	sub_107FD830
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107DBAF0

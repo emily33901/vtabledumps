@@ -1,0 +1,5 @@
+// ___7_Locimp@locale@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD43CC
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_65
+1	sub_103DAF70

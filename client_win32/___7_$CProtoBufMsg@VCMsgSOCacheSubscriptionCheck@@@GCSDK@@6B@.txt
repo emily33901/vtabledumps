@@ -1,0 +1,6 @@
+// ___7_$CProtoBufMsg@VCMsgSOCacheSubscriptionCheck@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6D1DC
+// from "client.dll", by ida_vtables.idc
+0	sub_106BEF60
+1	sub_103E0260
+2	const GCSDK::CProtoBufMsg<class CMsgSOCacheSubscriptionRefresh>::`RTTI Complete Object Locator'

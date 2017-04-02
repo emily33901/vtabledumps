@@ -1,0 +1,4 @@
+// ___7C_CaptureFlag@@6BICaptureFlagAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A492A8
+// from "client.dll", by ida_vtables.idc
+0	sub_104E6AE9

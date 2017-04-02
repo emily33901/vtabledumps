@@ -1,0 +1,4 @@
+// ___7CBulletPenetrateEnum@@6B@
+// Auto reconstructed from vtable block @ 0x10A9B534
+// from "client.dll", by ida_vtables.idc
+0	sub_1058A800

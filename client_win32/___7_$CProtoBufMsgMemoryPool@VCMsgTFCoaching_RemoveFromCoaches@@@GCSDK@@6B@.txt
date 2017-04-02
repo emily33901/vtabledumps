@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFCoaching_RemoveFromCoaches@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4E574
+// from "client.dll", by ida_vtables.idc
+0	sub_104F4840
+1	sub_104F5B10
+2	sub_104F5D10
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgTFCoaching_FindCoach>::`RTTI Complete Object Locator'

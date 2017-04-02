@@ -1,0 +1,7 @@
+// ___7_$CDmElementFactory@VCDmeAnimationList@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB128C
+// from "client.dll", by ida_vtables.idc
+0	sub_107C2EE0
+1	sub_107CB520
+2	sub_107C2FF0
+3	sub_10017FE0

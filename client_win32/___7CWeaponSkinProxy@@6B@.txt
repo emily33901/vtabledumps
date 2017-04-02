@@ -1,0 +1,8 @@
+// ___7CWeaponSkinProxy@@6B@
+// Auto reconstructed from vtable block @ 0x10A44A3C
+// from "client.dll", by ida_vtables.idc
+0	sub_104D5360
+1	sub_104D8500
+2	sub_1059A8D0
+3	sub_10007190
+4	sub_104CAD20

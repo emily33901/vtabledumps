@@ -1,0 +1,6 @@
+// ___7CPhysicsDelegate@C_RopeKeyframe@@6B@
+// Auto reconstructed from vtable block @ 0x109AB1C0
+// from "client.dll", by ida_vtables.idc
+0	sub_10270CB0
+1	dword_1026DE80
+2	const CRopePhysics<10>::`RTTI Complete Object Locator'

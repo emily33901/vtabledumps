@@ -1,0 +1,5 @@
+// ___7CBaseLoadoutPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109F3DD8
+// from "client.dll", by ida_vtables.idc
+0	sub_10409C81
+1	sub_1040A0E0

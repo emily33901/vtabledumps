@@ -1,0 +1,21 @@
+// ___7CCharacterInfoPanel@@6BIEconRootUI@@@
+// Auto reconstructed from vtable block @ 0x10ABEE3C
+// from "client.dll", by ida_vtables.idc
+0	sub_105E7290
+1	sub_105E6B00
+2	sub_105E6EE0
+3	sub_105E7720
+4	sub_105E6D30
+5	sub_105E6D40
+6	sub_105E6CF0
+7	sub_105E6D00
+8	sub_105E7700
+9	sub_105E73C0
+10	sub_105E7330
+11	sub_105E6B40
+12	sub_105E7540
+13	sub_105E6E30
+14	sub_105E6970
+15	public: void thiscall Concurrency::details::ExecutionResource::MarkAsVirtualProcessorRoot(class Concurrency::details::VirtualProcessorRoot near *)
+16	sub_10876B70
+17	const CCharacterInfoPanel::`RTTI Complete Object Locator'{for `CGameEventListener'}

@@ -1,0 +1,19 @@
+// ___7CHudControlPointIcons@@6B@
+// Auto reconstructed from vtable block @ 0x109C2DD0
+// from "client.dll", by ida_vtables.idc
+0	sub_102E6E00
+1	sub_102E7690
+2	sub_102E80E0
+3	nullsub_1
+4	nullsub_1
+5	sub_102E8550
+6	sub_102E9D30
+7	nullsub_1
+8	sub_103E0260
+9	sub_10576B90
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	const CHudControlPointIcons::`RTTI Complete Object Locator'{for `vgui::Panel'}

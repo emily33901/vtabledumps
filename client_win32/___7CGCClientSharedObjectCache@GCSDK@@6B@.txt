@@ -1,0 +1,8 @@
+// ___7CGCClientSharedObjectCache@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10B6DBF0
+// from "client.dll", by ida_vtables.idc
+0	sub_106D5AF0
+1	sub_106EAD00
+2	nullsub_1
+3	sub_106C5010
+4	sub_106D5C80

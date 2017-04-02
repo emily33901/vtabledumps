@@ -1,0 +1,7 @@
+// ___7IEconItemDescription@@6B@
+// Auto reconstructed from vtable block @ 0x109E32E0
+// from "client.dll", by ida_vtables.idc
+0	sub_10390040
+1	nullsub_2
+2	sub_108A465B
+3	const IAccountPersonaLocalizer::`RTTI Complete Object Locator'

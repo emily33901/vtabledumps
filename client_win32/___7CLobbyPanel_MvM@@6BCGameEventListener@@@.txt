@@ -1,0 +1,5 @@
+// ___7CLobbyPanel_MvM@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10ADBDD8
+// from "client.dll", by ida_vtables.idc
+0	sub_10635DBD
+1	sub_10636370

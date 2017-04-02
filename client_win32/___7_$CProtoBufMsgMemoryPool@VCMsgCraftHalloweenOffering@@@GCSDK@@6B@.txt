@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgCraftHalloweenOffering@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC6CB4
+// from "client.dll", by ida_vtables.idc
+0	loc_10600F80
+1	sub_106011C0
+2	sub_10601260
+3	sub_1039C610
+4	const CBaseAdPanel::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7CTFClientScoreBoardDialog@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AD1664
+// from "client.dll", by ida_vtables.idc
+0	loc_1061DD11
+1	sub_1061E920

@@ -1,0 +1,5 @@
+// ___7bad_alloc@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD3650
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_63
+1	public: virtual char const near * thiscall exception::what(void)const

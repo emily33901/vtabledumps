@@ -1,0 +1,24 @@
+// ___7CTargetMDL@@6B@
+// Auto reconstructed from vtable block @ 0x10B6FE5C
+// from "client.dll", by ida_vtables.idc
+0	sub_106EF4A0
+1	sub_106E68A0
+2	sub_106EEC10
+3	sub_10017FE0
+4	sub_100166E0
+5	sub_106EC2E0
+6	sub_106ED620
+7	sub_106E7C90
+8	sub_106EBC30
+9	sub_106EBFA0
+10	sub_106EB7E0
+11	sub_10091570
+12	sub_106EC450
+13	sub_105DA020
+14	sub_105D3030
+15	sub_105D8F50
+16	sub_105D29C0
+17	sub_106EAD10
+18	sub_106F3510
+19	sub_106E7070
+20	sub_106EB410

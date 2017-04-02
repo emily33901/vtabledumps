@@ -1,0 +1,4 @@
+// ___7_$CFmtStrN@$0CAAA@$0A@@@6B@
+// Auto reconstructed from vtable block @ 0x10A0DB84
+// from "client.dll", by ida_vtables.idc
+0	sub_1044D390

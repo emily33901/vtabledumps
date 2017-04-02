@@ -1,0 +1,7 @@
+// ___7_$SourceTemplate@VStringStore@CryptoPP@@@CryptoPP@@6BWaitable@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BD29E4
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C15
+1	sub_108D5C30
+2	sub_108D5CA0
+3	const CryptoPP::StringSource::`RTTI Complete Object Locator'

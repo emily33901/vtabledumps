@@ -1,0 +1,6 @@
+// ___7C_TFSMG@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10B16C2C
+// from "client.dll", by ida_vtables.idc
+0	sub_1067A03F
+1	sub_10683170
+2	const C_TFChargedSMG::`RTTI Complete Object Locator'

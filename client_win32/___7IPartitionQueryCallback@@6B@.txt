@@ -1,0 +1,7 @@
+// ___7IPartitionQueryCallback@@6B@
+// Auto reconstructed from vtable block @ 0x109B53A8
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	sub_108A465B
+3	const CCollisionProperty::`RTTI Complete Object Locator'

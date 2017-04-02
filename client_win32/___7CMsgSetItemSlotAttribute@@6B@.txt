@@ -1,0 +1,23 @@
+// ___7CMsgSetItemSlotAttribute@@6B@
+// Auto reconstructed from vtable block @ 0x1095EE3C
+// from "client.dll", by ida_vtables.idc
+0	sub_1013E4D0
+1	sub_106FA390
+2	sub_10167470
+3	sub_101462B0
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_1018EBF0
+8	sub_10142A60
+9	sub_10197D60
+10	sub_1016F1B0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_101516B0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10148900
+19	const CSOWarData::`RTTI Complete Object Locator'

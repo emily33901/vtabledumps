@@ -1,0 +1,5 @@
+// ___7ClientEffectRegister@PrecachePlayerDecal@@6B@
+// Auto reconstructed from vtable block @ 0x10A1FA38
+// from "client.dll", by ida_vtables.idc
+0	sub_1048A600
+1	const C_TEPlayerDecal::`RTTI Complete Object Locator'

@@ -1,0 +1,14 @@
+// ___7RSAFunction@CryptoPP@@6BCryptoMaterial@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BD2CA8
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C2D
+1	sub_108F15D0
+2	sub_108F1290
+3	sub_108F1690
+4	loc_108880A0
+5	sub_10887E9C
+6	sub_1088768C
+7	sub_10017FE0
+8	loc_108878F0
+9	loc_108878F0
+10	loc_108878F0

@@ -1,0 +1,29 @@
+// ___7CHapticsStubbed@@6B@
+// Auto reconstructed from vtable block @ 0x109BB578
+// from "client.dll", by ida_vtables.idc
+0	sub_102CD520
+1	sub_10017FE0
+2	nullsub_1
+3	nullsub_5
+4	nullsub_1
+5	nullsub_4
+6	sub_10091570
+7	nullsub_1
+8	nullsub_1
+9	nullsub_1
+10	nullsub_2
+11	nullsub_2
+12	nullsub_5
+13	nullsub_4
+14	nullsub_1
+15	nullsub_4
+16	sub_10914970
+17	nullsub_4
+18	nullsub_2
+19	nullsub_4
+20	nullsub_4
+21	sub_10091570
+22	nullsub_4
+23	nullsub_1
+24	nullsub_4
+25	nullsub_1

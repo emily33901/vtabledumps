@@ -1,0 +1,6 @@
+// ___7system_error@std@@6B@
+// Auto reconstructed from vtable block @ 0x109EA70C
+// from "client.dll", by ida_vtables.idc
+0	sub_103D61B0
+1	public: virtual char const near * thiscall exception::what(void)const
+2	const std::ios_base::failure::`RTTI Complete Object Locator'

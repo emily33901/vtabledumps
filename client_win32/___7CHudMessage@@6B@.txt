@@ -1,0 +1,20 @@
+// ___7CHudMessage@@6B@
+// Auto reconstructed from vtable block @ 0x109CBE34
+// from "client.dll", by ida_vtables.idc
+0	sub_1030ACE0
+1	nullsub_4
+2	sub_1030B0A0
+3	sub_1030C400
+4	nullsub_1
+5	nullsub_1
+6	sub_1030C310
+7	nullsub_1
+8	sub_103E0260
+9	sub_1030C3D0
+10	sub_102A0800
+11	sub_102D5170
+12	sub_10534B20
+13	sub_108029C0
+14	sub_10091570
+15	sub_1030B050
+16	const CHudMessage::`RTTI Complete Object Locator'{for `vgui::Panel'}

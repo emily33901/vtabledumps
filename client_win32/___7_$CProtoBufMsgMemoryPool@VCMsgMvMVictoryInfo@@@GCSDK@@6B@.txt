@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgMvMVictoryInfo@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AB3F90
+// from "client.dll", by ida_vtables.idc
+0	loc_105B92B0
+1	sub_105BCA50
+2	sub_105BD0B0
+3	sub_1039C610
+4	const GCSDK::CProtoBufMsgMemoryPool<class CMsgLeaveGameAndPrepareToJoinParty>::`RTTI Complete Object Locator'

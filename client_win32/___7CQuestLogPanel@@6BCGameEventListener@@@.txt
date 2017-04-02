@@ -1,0 +1,5 @@
+// ___7CQuestLogPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10ACB488
+// from "client.dll", by ida_vtables.idc
+0	loc_1060C41D
+1	sub_1060CB60

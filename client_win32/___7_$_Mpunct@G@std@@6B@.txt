@@ -1,0 +1,5 @@
+// ___7_$_Mpunct@G@std@@6B@
+// Auto reconstructed from vtable block @ 0x10BD4A74
+// from "client.dll", by ida_vtables.idc
+0	unknown_libname_78
+1	sub_103DAF70

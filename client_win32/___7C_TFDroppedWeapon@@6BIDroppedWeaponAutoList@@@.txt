@@ -1,0 +1,4 @@
+// ___7C_TFDroppedWeapon@@6BIDroppedWeaponAutoList@@@
+// Auto reconstructed from vtable block @ 0x10AEFC74
+// from "client.dll", by ida_vtables.idc
+0	sub_1065E01C

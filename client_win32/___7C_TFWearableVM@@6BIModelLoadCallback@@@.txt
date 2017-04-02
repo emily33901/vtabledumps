@@ -1,0 +1,5 @@
+// ___7C_TFWearableVM@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109EE930
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFWearableVM::`RTTI Complete Object Locator'{for `IHasAttributes'}

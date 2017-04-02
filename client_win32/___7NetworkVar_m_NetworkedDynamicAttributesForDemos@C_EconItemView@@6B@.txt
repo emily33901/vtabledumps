@@ -1,0 +1,7 @@
+// ___7NetworkVar_m_NetworkedDynamicAttributesForDemos@C_EconItemView@@6B@
+// Auto reconstructed from vtable block @ 0x109EA138
+// from "client.dll", by ida_vtables.idc
+0	sub_103D4300
+1	sub_103D4310
+2	sub_103D2D40
+3	const C_EconItemView::`RTTI Complete Object Locator'

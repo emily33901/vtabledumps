@@ -1,0 +1,9 @@
+// ___7CExplosionOverlay@@6B@
+// Auto reconstructed from vtable block @ 0x10A1BB60
+// from "client.dll", by ida_vtables.idc
+0	sub_1027A920
+1	sub_104801C0
+2	sub_102CB7E0
+3	sub_102CB550
+4	sub_10381F10
+5	const CRocketTrailParticle::`RTTI Complete Object Locator'

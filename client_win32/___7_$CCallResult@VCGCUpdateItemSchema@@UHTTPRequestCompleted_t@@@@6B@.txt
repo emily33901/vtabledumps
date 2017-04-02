@@ -1,0 +1,7 @@
+// ___7_$CCallResult@VCGCUpdateItemSchema@@UHTTPRequestCompleted_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x109E98BC
+// from "client.dll", by ida_vtables.idc
+0	sub_105E4B50
+1	sub_105E4B20
+2	sub_10017040
+3	const CGCUpdateItemSchema::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7CPanelMetaClassMgrImp@@6B@
+// Auto reconstructed from vtable block @ 0x109CCE98
+// from "client.dll", by ida_vtables.idc
+0	sub_103102A0
+1	sub_1030FB70
+2	sub_1030E530
+3	sub_1030E5D0
+4	sub_1030E340

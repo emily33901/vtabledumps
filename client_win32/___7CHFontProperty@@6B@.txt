@@ -1,0 +1,7 @@
+// ___7CHFontProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBDF8
+// from "client.dll", by ida_vtables.idc
+0	sub_108245A0
+1	sub_1082EF40
+2	sub_10826660
+3	const CTextureIdProperty::`RTTI Complete Object Locator'

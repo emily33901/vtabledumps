@@ -1,0 +1,15 @@
+// ___7CCommentaryModelViewer@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x109B5F0C
+// from "client.dll", by ida_vtables.idc
+0	loc_102A686F
+1	sub_102A6B66
+2	nullsub_4
+3	nullsub_1
+4	nullsub_1
+5	sub_10017FE0
+6	sub_100166E0
+7	sub_102A7130
+8	sub_10091570
+9	sub_1045AC26
+10	sub_104552E5
+11	sub_1045B119

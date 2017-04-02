@@ -1,0 +1,9 @@
+// ___7CParticleCollision@@6B@
+// Auto reconstructed from vtable block @ 0x109CCFAC
+// from "client.dll", by ida_vtables.idc
+0	sub_103138B0
+1	sub_10313E40
+2	sub_10313C10
+3	sub_103134F0
+4	sub_103139F0
+5	sub_10313590

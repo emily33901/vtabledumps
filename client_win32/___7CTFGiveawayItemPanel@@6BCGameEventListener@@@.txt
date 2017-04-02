@@ -1,0 +1,5 @@
+// ___7CTFGiveawayItemPanel@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AD4A90
+// from "client.dll", by ida_vtables.idc
+0	loc_10625838
+1	sub_10625BE0

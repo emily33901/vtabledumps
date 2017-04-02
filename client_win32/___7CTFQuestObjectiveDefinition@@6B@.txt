@@ -1,0 +1,6 @@
+// ___7CTFQuestObjectiveDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109ECBF0
+// from "client.dll", by ida_vtables.idc
+0	sub_103E6090
+1	sub_103E7230
+2	const CCopyableUtlVector<int,class CUtlMemory<int,int>>::`RTTI Complete Object Locator'

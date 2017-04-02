@@ -1,0 +1,17 @@
+// ___7_$ISchemaAttributeTypeBase@VCAttribute_DynamicRecipeComponent@@@@6B@
+// Auto reconstructed from vtable block @ 0x109E6C40
+// from "client.dll", by ida_vtables.idc
+0	sub_103A4990
+1	sub_103B6050
+2	sub_103C2AA0
+3	sub_103B0A00
+4	sub_108A465B
+5	sub_108A465B
+6	sub_103C2930
+7	sub_103B6300
+8	sub_103CD390
+9	sub_103C39D0
+10	sub_10017FE0
+11	sub_108A465B
+12	sub_108A465B
+13	const CSchemaAttributeType_DynamicRecipeComponentDefinedItem::`RTTI Complete Object Locator'

@@ -1,0 +1,15 @@
+// ___7CTFItemDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109ECB94
+// from "client.dll", by ida_vtables.idc
+0	sub_103E5FE0
+1	sub_103E67F0
+2	sub_103E78E0
+3	sub_103EA7D0
+4	sub_103B4BA0
+5	sub_103E99D0
+6	sub_103B52A0
+7	sub_103B5270
+8	sub_103B5610
+9	sub_103ED950
+10	sub_103EB080
+11	const CTFStyleInfo::`RTTI Complete Object Locator'

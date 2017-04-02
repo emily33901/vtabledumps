@@ -1,0 +1,5 @@
+// ___7C_TFBat_Wood@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10AF1C78
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_TFBat_Wood::`RTTI Complete Object Locator'{for `CGameEventListener'}

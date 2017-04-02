@@ -1,0 +1,23 @@
+// ___7CSOEconItemAttribute@@6B@
+// Auto reconstructed from vtable block @ 0x109676C0
+// from "client.dll", by ida_vtables.idc
+0	sub_10180ED0
+1	sub_106FA390
+2	sub_101976B0
+3	sub_10184B50
+4	sub_100166E0
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_10194030
+8	sub_10183320
+9	sub_101993B0
+10	sub_1019B930
+11	sub_106BCB50
+12	sub_10147180
+13	sub_1018D060
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10186590
+19	const CSOEconItemEquipped::`RTTI Complete Object Locator'

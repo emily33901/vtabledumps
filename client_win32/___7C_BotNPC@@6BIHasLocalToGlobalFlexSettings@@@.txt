@@ -1,0 +1,4 @@
+// ___7C_BotNPC@@6BIHasLocalToGlobalFlexSettings@@@
+// Auto reconstructed from vtable block @ 0x10AA9DC0
+// from "client.dll", by ida_vtables.idc
+0	sub_1024A080

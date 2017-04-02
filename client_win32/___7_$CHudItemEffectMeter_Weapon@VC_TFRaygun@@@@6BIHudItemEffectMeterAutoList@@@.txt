@@ -1,0 +1,4 @@
+// ___7_$CHudItemEffectMeter_Weapon@VC_TFRaygun@@@@6BIHudItemEffectMeterAutoList@@@
+// Auto reconstructed from vtable block @ 0x10A71F58
+// from "client.dll", by ida_vtables.idc
+0	sub_105335D5

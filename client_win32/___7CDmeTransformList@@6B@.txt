@@ -1,0 +1,16 @@
+// ___7CDmeTransformList@@6B@
+// Auto reconstructed from vtable block @ 0x10BB1680
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_107C5FF0
+6	sub_107C5F90
+7	nullsub_1
+8	sub_107C5F30
+9	sub_107C5EF0
+10	sub_107C6020
+11	j_nullsub_1
+12	const CDmElementFactory<class CDmeTransformList>::`RTTI Complete Object Locator'

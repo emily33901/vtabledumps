@@ -1,0 +1,5 @@
+// ___7_$CProtoBufMsg@VCMsgRequestInventoryRefresh@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC0590
+// from "client.dll", by ida_vtables.idc
+0	sub_105EA980
+1	sub_103E0260

@@ -1,0 +1,7 @@
+// ___7C_SmokeTrail@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x10A1ABC4
+// from "client.dll", by ida_vtables.idc
+0	sub_10472867
+1	sub_104747D0
+2	sub_10887630
+3	const C_RocketTrail::`RTTI Complete Object Locator'

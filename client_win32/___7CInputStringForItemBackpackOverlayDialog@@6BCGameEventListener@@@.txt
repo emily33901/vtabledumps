@@ -1,0 +1,5 @@
+// ___7CInputStringForItemBackpackOverlayDialog@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10AC49C0
+// from "client.dll", by ida_vtables.idc
+0	sub_105FA0FC
+1	sub_105FA8B0

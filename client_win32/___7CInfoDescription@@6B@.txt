@@ -1,0 +1,6 @@
+// ___7CInfoDescription@@6B@
+// Auto reconstructed from vtable block @ 0x109D3EC4
+// from "client.dll", by ida_vtables.idc
+0	sub_1034A390
+1	sub_1034B690
+2	sub_1034B5F0

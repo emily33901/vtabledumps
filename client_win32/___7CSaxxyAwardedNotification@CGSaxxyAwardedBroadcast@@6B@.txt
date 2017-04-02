@@ -1,0 +1,20 @@
+// ___7CSaxxyAwardedNotification@CGSaxxyAwardedBroadcast@@6B@
+// Auto reconstructed from vtable block @ 0x10AC4454
+// from "client.dll", by ida_vtables.idc
+0	loc_102F6C00
+1	sub_10418BB0
+2	sub_10415C10
+3	sub_10415C10
+4	sub_100166E0
+5	sub_10416680
+6	sub_100166E0
+7	sub_105F8DA0
+8	sub_10017FE0
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	nullsub_1
+13	nullsub_1
+14	sub_10415EE0
+15	sub_10415880
+16	const CGSaxxyAwardedBroadcast::`RTTI Complete Object Locator'

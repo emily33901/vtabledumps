@@ -1,0 +1,18 @@
+// ___7IGameSystem@@6B@
+// Auto reconstructed from vtable block @ 0x10985080
+// from "client.dll", by ida_vtables.idc
+0	sub_108A465B
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	nullsub_1
+7	sub_108A465B
+8	sub_108A465B
+9	sub_108A465B
+10	sub_108A465B
+11	sub_108A465B
+12	sub_108A465B
+13	sub_1022CAC0
+14	const IGameSystemPerFrame::`RTTI Complete Object Locator'

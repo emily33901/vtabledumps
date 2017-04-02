@@ -1,0 +1,6 @@
+// ___7CReplayPerformanceEditorPanel@@6BIReplayPerformanceEditor@@@
+// Auto reconstructed from vtable block @ 0x1097EA50
+// from "client.dll", by ida_vtables.idc
+0	sub_101EF73F
+1	sub_101F1170
+2	sub_101F2440

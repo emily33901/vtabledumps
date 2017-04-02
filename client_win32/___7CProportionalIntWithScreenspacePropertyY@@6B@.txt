@@ -1,0 +1,9 @@
+// ___7CProportionalIntWithScreenspacePropertyY@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBD88
+// from "client.dll", by ida_vtables.idc
+0	nullsub_5
+1	sub_1082F090
+2	sub_10826790
+3	sub_10825C70
+4	sub_108259C0
+5	const CProportionalWidthProperty::`RTTI Complete Object Locator'

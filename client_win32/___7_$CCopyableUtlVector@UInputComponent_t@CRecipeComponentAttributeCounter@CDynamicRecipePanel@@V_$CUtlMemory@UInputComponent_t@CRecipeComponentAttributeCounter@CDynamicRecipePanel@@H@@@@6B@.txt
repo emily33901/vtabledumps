@@ -1,0 +1,4 @@
+// ___7_$CCopyableUtlVector@UInputComponent_t@CRecipeComponentAttributeCounter@CDynamicRecipePanel@@V_$CUtlMemory@UInputComponent_t@CRecipeComponentAttributeCounter@CDynamicRecipePanel@@H@@@@6B@
+// Auto reconstructed from vtable block @ 0x10AC5C94
+// from "client.dll", by ida_vtables.idc
+0	loc_105FC8F0

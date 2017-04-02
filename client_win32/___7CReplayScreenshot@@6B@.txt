@@ -1,0 +1,18 @@
+// ___7CReplayScreenshot@@6B@
+// Auto reconstructed from vtable block @ 0x10BB914C
+// from "client.dll", by ida_vtables.idc
+0	sub_101E47E0
+1	unknown_libname_9
+2	sub_10007190
+3	sub_10803240
+4	sub_108032A0
+5	sub_10803230
+6	sub_108021F0
+7	sub_10803200
+8	sub_10802210
+9	sub_102D5170
+10	sub_102A0800
+11	nullsub_1
+12	nullsub_1
+13	sub_104D0A90
+14	nullsub_1

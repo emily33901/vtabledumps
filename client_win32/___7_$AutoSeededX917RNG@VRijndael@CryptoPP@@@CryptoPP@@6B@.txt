@@ -1,0 +1,14 @@
+// ___7_$AutoSeededX917RNG@VRijndael@CryptoPP@@@CryptoPP@@6B@
+// Auto reconstructed from vtable block @ 0x10BD2B40
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C80
+1	loc_10887290
+2	sub_10887010
+3	sub_108875B0
+4	sub_100166E0
+5	sub_108D5900
+6	sub_108D5740
+7	sub_108D5A50
+8	sub_108D5810
+9	sub_108D5620
+10	sub_10887480

@@ -1,0 +1,10 @@
+// ___7IEconLootList@@6B@
+// Auto reconstructed from vtable block @ 0x109E1E44
+// from "client.dll", by ida_vtables.idc
+0	sub_1038C290
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	sub_108A465B
+5	sub_108A465B
+6	const CAttributeLineItemLootList::`RTTI Complete Object Locator'

@@ -1,0 +1,5 @@
+// ___7CQuestThemeDefinition@@6B@
+// Auto reconstructed from vtable block @ 0x109ECB8C
+// from "client.dll", by ida_vtables.idc
+0	sub_103E5FB0
+1	const CTFItemDefinition::`RTTI Complete Object Locator'

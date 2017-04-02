@@ -1,0 +1,12 @@
+// ___7CVGUILocalizationProvider@@6B@
+// Auto reconstructed from vtable block @ 0x109EC234
+// from "client.dll", by ida_vtables.idc
+0	sub_103E14D0
+1	sub_103E1340
+2	sub_103E1360
+3	sub_103E13D0
+4	sub_103E13F0
+5	sub_103E14B0
+6	sub_103E1440
+7	sub_10534B20
+8	const CTFPlayerInventory::`RTTI Complete Object Locator'

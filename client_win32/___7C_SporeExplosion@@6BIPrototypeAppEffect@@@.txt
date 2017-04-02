@@ -1,0 +1,7 @@
+// ___7C_SporeExplosion@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x10A1B3B0
+// from "client.dll", by ida_vtables.idc
+0	sub_1047287D
+1	sub_104748C0
+2	sub_10887630
+3	const C_FireTrail::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7CShadowProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109B4C74
+// from "client.dll", by ida_vtables.idc
+0	sub_1025E3F0
+1	sub_1029CF10
+2	sub_1059A8D0
+3	sub_103850F0
+4	sub_102B1C20

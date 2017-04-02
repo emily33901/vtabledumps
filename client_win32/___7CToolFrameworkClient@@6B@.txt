@@ -1,0 +1,20 @@
+// ___7CToolFrameworkClient@@6B@
+// Auto reconstructed from vtable block @ 0x10B28854
+// from "client.dll", by ida_vtables.idc
+0	sub_101F9450
+1	sub_10699570
+2	nullsub_1
+3	nullsub_1
+4	sub_106995B0
+5	sub_106995A0
+6	nullsub_1
+7	sub_106995D0
+8	sub_106995C0
+9	nullsub_1
+10	nullsub_1
+11	nullsub_1
+12	sub_100166E0
+13	sub_104657B0
+14	sub_106995F0
+15	nullsub_4
+16	sub_106995E0

@@ -1,0 +1,4 @@
+// ___7C_BaseViewModel@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x109962EC
+// from "client.dll", by ida_vtables.idc
+0	sub_10218F60

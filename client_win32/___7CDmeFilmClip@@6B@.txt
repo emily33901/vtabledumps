@@ -1,0 +1,22 @@
+// ___7CDmeFilmClip@@6B@
+// Auto reconstructed from vtable block @ 0x10BAEFA8
+// from "client.dll", by ida_vtables.idc
+0	sub_1075F2C0
+1	sub_1075F8F0
+2	sub_1075F1E0
+3	sub_1075F250
+4	sub_1075F940
+5	sub_1075F160
+6	sub_1075EE40
+7	sub_1075F690
+8	sub_1075E710
+9	sub_1075E6E0
+10	sub_1075F830
+11	sub_1075F8C0
+12	sub_1001DBD0
+13	sub_1075EB30
+14	sub_1075E950
+15	sub_1075EA20
+16	sub_1075ECF0
+17	sub_1075ECD0
+18	sub_10017870

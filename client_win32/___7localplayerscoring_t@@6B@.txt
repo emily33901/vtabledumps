@@ -1,0 +1,6 @@
+// ___7localplayerscoring_t@@6B@
+// Auto reconstructed from vtable block @ 0x10A99E20
+// from "client.dll", by ida_vtables.idc
+0	nullsub_4
+1	nullsub_1
+2	const condition_source_t::`RTTI Complete Object Locator'

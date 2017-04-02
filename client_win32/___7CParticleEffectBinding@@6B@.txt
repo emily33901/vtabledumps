@@ -1,0 +1,13 @@
+// ___7CParticleEffectBinding@@6B@
+// Auto reconstructed from vtable block @ 0x109CD578
+// from "client.dll", by ida_vtables.idc
+0	sub_10316EA0
+1	nullsub_4
+2	sub_10091570
+3	sub_10091570
+4	sub_10091570
+5	sub_102AB7A0
+6	sub_10091570
+7	sub_10091570
+8	sub_10091570
+9	const CParticleEffectBinding::`RTTI Complete Object Locator'{for `IClientRenderable'}

@@ -1,0 +1,7 @@
+// ___7CBoolProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBDD8
+// from "client.dll", by ida_vtables.idc
+0	sub_10824510
+1	sub_1082EE50
+2	sub_10826580
+3	const CStringProperty::`RTTI Complete Object Locator'

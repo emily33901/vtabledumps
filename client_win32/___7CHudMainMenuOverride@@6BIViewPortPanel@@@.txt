@@ -1,0 +1,16 @@
+// ___7CHudMainMenuOverride@@6BIViewPortPanel@@@
+// Auto reconstructed from vtable block @ 0x10A75DBC
+// from "client.dll", by ida_vtables.idc
+0	sub_1053A2F3
+1	sub_1053C726
+2	nullsub_4
+3	sub_1060E100
+4	nullsub_1
+5	sub_10017FE0
+6	sub_100166E0
+7	sub_1053F610
+8	sub_10534B20
+9	sub_10456608
+10	sub_1053C97F
+11	sub_10457625
+12	const CHudMainMenuOverride::`RTTI Complete Object Locator'{for `CGameEventListener'}

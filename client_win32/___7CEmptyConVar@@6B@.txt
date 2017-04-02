@@ -1,0 +1,19 @@
+// ___7CEmptyConVar@@6B@
+// Auto reconstructed from vtable block @ 0x10BB960C
+// from "client.dll", by ida_vtables.idc
+0	sub_10806D00
+1	sub_10017FE0
+2	?reserve_message@?$_Order_node_base@W4agent_status@Concurrency@@@Concurrency@@UAE_NH@Z_0
+3	sub_10806D90
+4	sub_10674DE0
+5	sub_10807270
+6	sub_108075F0
+7	sub_10807250
+8	sub_108071C0
+9	sub_10807290
+10	sub_108074F0
+11	sub_10807360
+12	sub_10807430
+13	sub_10806F40
+14	sub_10806E50
+15	const CEmptyConVar::`RTTI Complete Object Locator'{for `IConVar'}

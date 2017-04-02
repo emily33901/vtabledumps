@@ -1,0 +1,10 @@
+// ___7CFXLine@@6B@
+// Auto reconstructed from vtable block @ 0x10A20650
+// from "client.dll", by ida_vtables.idc
+0	sub_10491240
+1	sub_104912A0
+2	sub_10007190
+3	sub_10491800
+4	sub_10491280
+5	unknown_libname_9
+6	sub_10491820

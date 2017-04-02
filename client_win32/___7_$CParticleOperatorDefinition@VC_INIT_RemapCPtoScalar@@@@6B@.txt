@@ -1,0 +1,10 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_RemapCPtoScalar@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB808C
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1D30
+2	sub_107F23E0
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107C5F30
+6	const C_INIT_RemapCPtoVector::`RTTI Complete Object Locator'

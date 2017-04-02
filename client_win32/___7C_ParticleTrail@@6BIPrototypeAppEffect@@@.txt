@@ -1,0 +1,6 @@
+// ___7C_ParticleTrail@@6BIPrototypeAppEffect@@@
+// Auto reconstructed from vtable block @ 0x109B9F14
+// from "client.dll", by ida_vtables.idc
+0	sub_102BDE55
+1	sub_102BDEE0
+2	sub_10887630

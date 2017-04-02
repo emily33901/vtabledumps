@@ -1,0 +1,15 @@
+// ___7X509PublicKey@CryptoPP@@6BCryptoMaterial@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BD2BF0
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C3D
+1	sub_108A465B
+2	sub_108A465B
+3	sub_108A465B
+4	loc_108880A0
+5	sub_10887E90
+6	sub_10887680
+7	sub_10017FE0
+8	loc_108878F0
+9	loc_108878F0
+10	loc_108878F0
+11	const CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::`RTTI Complete Object Locator'

@@ -1,0 +1,14 @@
+// ___7CQuestNotification_CompletedQuest@@6B@
+// Auto reconstructed from vtable block @ 0x10ACBC40
+// from "client.dll", by ida_vtables.idc
+0	sub_1060F390
+1	sub_10610E10
+2	sub_10611780
+3	sub_10610750
+4	sub_10611500
+5	sub_10073060
+6	sub_10610020
+7	sub_10610030
+8	sub_1060FF50
+9	sub_1060FE30
+10	sub_1060FE90

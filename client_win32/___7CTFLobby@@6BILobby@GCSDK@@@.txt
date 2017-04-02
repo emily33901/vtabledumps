@@ -1,0 +1,14 @@
+// ___7CTFLobby@@6BILobby@GCSDK@@@
+// Auto reconstructed from vtable block @ 0x10AB40F4
+// from "client.dll", by ida_vtables.idc
+0	sub_105BF6D3
+1	sub_105BF760
+2	sub_105BF900
+3	sub_105BF7C0
+4	sub_105BF850
+5	sub_105BFA20
+6	sub_105BF770
+7	sub_105BF910
+8	sub_105BF920
+9	sub_105BF980
+10	sub_10017FE0

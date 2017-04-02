@@ -1,0 +1,5 @@
+// ___7CYouTubeUploadJob@@6B_$CRefCountServiceBase@$00VCRefMT@@@@@
+// Auto reconstructed from vtable block @ 0x10974470
+// from "client.dll", by ida_vtables.idc
+0	loc_101DA083
+1	sub_100166E0

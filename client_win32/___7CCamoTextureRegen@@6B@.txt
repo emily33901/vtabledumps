@@ -1,0 +1,6 @@
+// ___7CCamoTextureRegen@@6B@
+// Auto reconstructed from vtable block @ 0x109B1F74
+// from "client.dll", by ida_vtables.idc
+0	sub_102820A0
+1	nullsub_1
+2	const CCamoMaterialProxy::`RTTI Complete Object Locator'

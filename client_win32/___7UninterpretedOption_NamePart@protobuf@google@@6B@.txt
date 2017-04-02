@@ -1,0 +1,23 @@
+// ___7UninterpretedOption_NamePart@protobuf@google@@6B@
+// Auto reconstructed from vtable block @ 0x10BA7630
+// from "client.dll", by ida_vtables.idc
+0	sub_10721690
+1	sub_106FA390
+2	sub_1072A030
+3	sub_10722FF0
+4	sub_10723B50
+5	sub_106FA490
+6	sub_106F9FB0
+7	sub_107296C0
+8	sub_107227A0
+9	sub_1072AB90
+10	sub_1072BAC0
+11	sub_106BCB50
+12	sub_10147180
+13	sub_10725DD0
+14	sub_106FA0E0
+15	sub_106FAA20
+16	sub_1019C4F0
+17	sub_10149680
+18	sub_10723550
+19	const google::protobuf::UninterpretedOption::`RTTI Complete Object Locator'

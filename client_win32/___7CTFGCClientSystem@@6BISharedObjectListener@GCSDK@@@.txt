@@ -1,0 +1,11 @@
+// ___7CTFGCClientSystem@@6BISharedObjectListener@GCSDK@@@
+// Auto reconstructed from vtable block @ 0x10AB290C
+// from "client.dll", by ida_vtables.idc
+0	sub_105BE4B0
+1	nullsub_2
+2	sub_105BE4F0
+3	nullsub_2
+4	sub_105BE4D0
+5	sub_105BDD00
+6	sub_105BDD90
+7	const CTFGCClientSystem::`RTTI Complete Object Locator'{for `CGameEventListener'}

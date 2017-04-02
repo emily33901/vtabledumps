@@ -1,0 +1,5 @@
+// ___7C_TFRocketLauncher_Mortar@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10B100AC
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFRocketLauncher_Mortar::`RTTI Complete Object Locator'{for `IHasAttributes'}

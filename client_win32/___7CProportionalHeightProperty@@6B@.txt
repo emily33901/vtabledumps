@@ -1,0 +1,8 @@
+// ___7CProportionalHeightProperty@@6B@
+// Auto reconstructed from vtable block @ 0x10BBBDB4
+// from "client.dll", by ida_vtables.idc
+0	nullsub_5
+1	sub_1082F110
+2	sub_10826800
+3	sub_10821AC0
+4	const CColorProperty::`RTTI Complete Object Locator'

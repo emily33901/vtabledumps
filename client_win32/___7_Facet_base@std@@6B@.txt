@@ -1,0 +1,6 @@
+// ___7_Facet_base@std@@6B@
+// Auto reconstructed from vtable block @ 0x109EA6A4
+// from "client.dll", by ida_vtables.idc
+0	sub_103D6100
+1	sub_108A465B
+2	sub_108A465B

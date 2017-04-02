@@ -1,0 +1,13 @@
+// ___7CEconItemPerClassPresetData@@6B@
+// Auto reconstructed from vtable block @ 0x109E5318
+// from "client.dll", by ida_vtables.idc
+0	sub_1039F540
+1	sub_1039F760
+2	sub_1039F590
+3	sub_1039F5F0
+4	sub_1039F660
+5	sub_1039F570
+6	sub_1039F680
+7	nullsub_1
+8	sub_100166E0
+9	sub_1038D1D0

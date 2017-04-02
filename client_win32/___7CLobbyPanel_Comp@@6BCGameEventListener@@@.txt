@@ -1,0 +1,6 @@
+// ___7CLobbyPanel_Comp@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x10ADAC90
+// from "client.dll", by ida_vtables.idc
+0	sub_10633993
+1	sub_1062C820
+2	const CLobbyPanel_Comp::`RTTI Complete Object Locator'{for `CLocalSteamSharedObjectListener'}

@@ -1,0 +1,7 @@
+// ___7_$CCallResult@VCMapInfoContainer@@ULeaderboardFindResult_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10A98FA8
+// from "client.dll", by ida_vtables.idc
+0	sub_10584E20
+1	sub_10584DF0
+2	sub_1001AD20
+3	const CCallResult<class CMapInfoContainer,struct LeaderboardScoresDownloaded_t>::`RTTI Complete Object Locator'

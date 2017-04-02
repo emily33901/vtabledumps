@@ -1,0 +1,4 @@
+// ___7C_ServerRagdollAttached@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x109D2DB4
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50

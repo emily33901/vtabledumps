@@ -1,0 +1,5 @@
+// ___7_System_error@std@@6B@
+// Auto reconstructed from vtable block @ 0x109EA6FC
+// from "client.dll", by ida_vtables.idc
+0	sub_103D61B0
+1	public: virtual char const near * thiscall exception::what(void)const

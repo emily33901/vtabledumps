@@ -1,0 +1,4 @@
+// ___7ClientEffectRegister@PrecachePostProcessingEffects@@6B@
+// Auto reconstructed from vtable block @ 0x109DF1DC
+// from "client.dll", by ida_vtables.idc
+0	sub_103764D0

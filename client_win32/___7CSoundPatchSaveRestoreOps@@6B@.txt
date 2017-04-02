@@ -1,0 +1,9 @@
+// ___7CSoundPatchSaveRestoreOps@@6B@
+// Auto reconstructed from vtable block @ 0x109D4EA4
+// from "client.dll", by ida_vtables.idc
+0	sub_1034F490
+1	sub_1034F220
+2	sub_1034ED50
+3	sub_1034EDB0
+4	sub_10887630
+5	const CUtlVectorDataOps<class CUtlVector<int,class CUtlMemory<int,int>>,5>::`RTTI Complete Object Locator'

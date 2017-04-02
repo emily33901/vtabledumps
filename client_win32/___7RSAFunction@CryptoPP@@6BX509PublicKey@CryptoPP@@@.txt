@@ -1,0 +1,13 @@
+// ___7RSAFunction@CryptoPP@@6BX509PublicKey@CryptoPP@@@
+// Auto reconstructed from vtable block @ 0x10BD2C80
+// from "client.dll", by ida_vtables.idc
+0	sub_10886C25
+1	sub_108EFEA0
+2	sub_108F0670
+3	sub_1035DA90
+4	sub_108F15B0
+5	sub_10887110
+6	sub_10887340
+7	sub_108F1450
+8	sub_108F1500
+9	const CryptoPP::RSAFunction::`RTTI Complete Object Locator'{for `CryptoPP::CryptoMaterial'}

@@ -1,0 +1,19 @@
+// ___7CDmeMesh@@6B@
+// Auto reconstructed from vtable block @ 0x10BAE588
+// from "client.dll", by ida_vtables.idc
+0	sub_10755A70
+1	nullsub_4
+2	nullsub_5
+3	nullsub_5
+4	nullsub_1
+5	sub_10755A00
+6	sub_107553E0
+7	nullsub_1
+8	sub_10751AE0
+9	sub_10751860
+10	sub_10755D00
+11	sub_10755D30
+12	sub_10753B80
+13	sub_10755360
+14	sub_107550D0
+15	const CDmElementFactory<class CDmeMesh>::`RTTI Complete Object Locator'

@@ -1,0 +1,8 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgSystemBroadcast@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AC45F8
+// from "client.dll", by ida_vtables.idc
+0	loc_105F5A40
+1	sub_105F7190
+2	sub_105F77C0
+3	sub_1039C610
+4	const CInputStringForItemBackpackOverlayDialog::`RTTI Complete Object Locator'

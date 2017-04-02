@@ -1,0 +1,17 @@
+// ___7_$CInterpolatedVarArray@M$0GA@@@6B@
+// Auto reconstructed from vtable block @ 0x1099B964
+// from "client.dll", by ida_vtables.idc
+0	sub_1022C9B0
+1	sub_10340B80
+2	sub_10236D50
+3	sub_10234B10
+4	sub_102349C0
+5	sub_10236450
+6	sub_10233C20
+7	sub_10232DA0
+8	sub_102366D0
+9	sub_1022ECF0
+10	sub_10231A40
+11	sub_10236CF0
+12	sub_10340AC0
+13	const C_BaseFlex::`RTTI Complete Object Locator'

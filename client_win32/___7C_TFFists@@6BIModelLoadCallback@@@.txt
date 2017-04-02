@@ -1,0 +1,5 @@
+// ___7C_TFFists@@6BIModelLoadCallback@@@
+// Auto reconstructed from vtable block @ 0x10AF781C
+// from "client.dll", by ida_vtables.idc
+0	sub_10234F50
+1	const C_TFFists::`RTTI Complete Object Locator'{for `IHasAttributes'}

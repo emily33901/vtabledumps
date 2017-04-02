@@ -1,0 +1,5 @@
+// ___7_$CCopyableUtlVector@HV_$CUtlMemory@HH@@@@6B@
+// Auto reconstructed from vtable block @ 0x109ECBFC
+// from "client.dll", by ida_vtables.idc
+0	sub_103E5F80
+1	const CTFItemSchema::`RTTI Complete Object Locator'

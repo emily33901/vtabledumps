@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCMsgTFCoaching_RemoveCurrentCoach@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10A4E600
+// from "client.dll", by ida_vtables.idc
+0	sub_104F4810
+1	sub_104F5AC0
+2	sub_104F5CF0
+3	sub_1039C610

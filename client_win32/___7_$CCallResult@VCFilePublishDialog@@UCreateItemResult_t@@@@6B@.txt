@@ -1,0 +1,7 @@
+// ___7_$CCallResult@VCFilePublishDialog@@UCreateItemResult_t@@@@6B@
+// Auto reconstructed from vtable block @ 0x10ABB61C
+// from "client.dll", by ida_vtables.idc
+0	sub_105DE590
+1	sub_105DE550
+2	sub_101FE630
+3	const CCallResult<class CFilePublishDialog,struct SubmitItemUpdateResult_t>::`RTTI Complete Object Locator'

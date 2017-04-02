@@ -1,0 +1,4 @@
+// ___7C_TFPumpkinBomb@@6BITFPumpkinBomb@@@
+// Auto reconstructed from vtable block @ 0x10A9D774
+// from "client.dll", by ida_vtables.idc
+0	sub_1059A9FE

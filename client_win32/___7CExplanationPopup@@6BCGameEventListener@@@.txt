@@ -1,0 +1,5 @@
+// ___7CExplanationPopup@@6BCGameEventListener@@@
+// Auto reconstructed from vtable block @ 0x109F8588
+// from "client.dll", by ida_vtables.idc
+0	sub_1040FBFD
+1	sub_10411B00

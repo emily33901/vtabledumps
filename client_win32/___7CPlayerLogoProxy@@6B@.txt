@@ -1,0 +1,9 @@
+// ___7CPlayerLogoProxy@@6B@
+// Auto reconstructed from vtable block @ 0x109D1468
+// from "client.dll", by ida_vtables.idc
+0	sub_1033A810
+1	sub_1033B0C0
+2	sub_1033B5B0
+3	sub_103850F0
+4	sub_1033A600
+5	sub_1033B450

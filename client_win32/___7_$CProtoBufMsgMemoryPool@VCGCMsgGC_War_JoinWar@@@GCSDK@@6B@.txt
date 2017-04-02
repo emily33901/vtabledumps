@@ -1,0 +1,7 @@
+// ___7_$CProtoBufMsgMemoryPool@VCGCMsgGC_War_JoinWar@@@GCSDK@@6B@
+// Auto reconstructed from vtable block @ 0x10AE92C0
+// from "client.dll", by ida_vtables.idc
+0	loc_10659030
+1	sub_10659540
+2	sub_106595B0
+3	sub_1039C610

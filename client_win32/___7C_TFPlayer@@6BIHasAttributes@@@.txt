@@ -1,0 +1,9 @@
+// ___7C_TFPlayer@@6BIHasAttributes@@@
+// Auto reconstructed from vtable block @ 0x10A4336C
+// from "client.dll", by ida_vtables.idc
+0	sub_1020F360
+1	sub_10091570
+2	sub_10091570
+3	sub_104D2F80
+4	nullsub_1
+5	const C_TFPlayer::`RTTI Complete Object Locator'{for `IInventoryUpdateListener'}

@@ -1,0 +1,9 @@
+// ___7_$CParticleOperatorDefinition@VC_INIT_VelocityRandom@@@@6B@
+// Auto reconstructed from vtable block @ 0x10BB6A24
+// from "client.dll", by ida_vtables.idc
+0	sub_10007190
+1	sub_107F1E70
+2	sub_107F2430
+3	sub_106BCB50
+4	sub_107DC700
+5	sub_107C5F30

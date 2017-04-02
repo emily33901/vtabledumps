@@ -1,0 +1,5 @@
+// ___7C_WeaponIFMBaseCamera@@6BIHasOwner@@@
+// Auto reconstructed from vtable block @ 0x10A14F18
+// from "client.dll", by ida_vtables.idc
+0	sub_1045C260
+1	const C_WeaponIFMBaseCamera::`RTTI Complete Object Locator'{for `CGameEventListener'}

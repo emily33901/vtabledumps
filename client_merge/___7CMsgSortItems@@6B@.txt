@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSortItems
+// Auto reconstructed from vtable block @ 0x00E3A300
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSortItems::~CMsgSortItems()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSortItems::New(void)const
+3	CMsgSortItems::Clear(void)
+4	CMsgSortItems::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSortItems::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSortItems::ByteSize(void)const
+90	CMsgSortItems::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSortItems::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSortItems::GetCachedSize(void)const
+12	CMsgSortItems::CopyFrom(google::protobuf::Message const&)
+13	CMsgSortItems::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgSortItems::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgSortItems::GetMetadata(void)const
+

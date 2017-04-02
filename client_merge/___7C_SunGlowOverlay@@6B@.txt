@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_SunGlowOverlay
+// Auto reconstructed from vtable block @ 0x0109B260
+// from "client.dylib", by ida_vtables.idc
+0	C_SunGlowOverlay::~C_SunGlowOverlay()
+1	CGlowOverlay::Update(void)
+2	C_SunGlowOverlay::CalcSpriteColorAndSize(float,CGlowSprite *,float *,float *,Vector *)
+3	CGlowOverlay::CalcBasis(Vector const&,float,float,Vector&,Vector&,Vector&)
+4	CGlowOverlay::Draw(bool)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHangRope
+// Auto reconstructed from vtable block @ 0x010560E8
+// from "client.dylib", by ida_vtables.idc
+0	CHangRope::GetNodeForces(CSimplePhysics::CNode *,int,Vector *)
+1	CHangRope::ApplyConstraints(CSimplePhysics::CNode *,int)
+

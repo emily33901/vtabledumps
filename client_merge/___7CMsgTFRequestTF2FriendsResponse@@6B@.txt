@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTFRequestTF2FriendsResponse
+// Auto reconstructed from vtable block @ 0x00E51000
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFRequestTF2FriendsResponse::~CMsgTFRequestTF2FriendsResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTFRequestTF2FriendsResponse::New(void)const
+3	CMsgTFRequestTF2FriendsResponse::Clear(void)
+4	CMsgTFRequestTF2FriendsResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTFRequestTF2FriendsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTFRequestTF2FriendsResponse::ByteSize(void)const
+90	CMsgTFRequestTF2FriendsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTFRequestTF2FriendsResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTFRequestTF2FriendsResponse::GetCachedSize(void)const
+12	CMsgTFRequestTF2FriendsResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgTFRequestTF2FriendsResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTFRequestTF2FriendsResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTFRequestTF2FriendsResponse::GetMetadata(void)const
+

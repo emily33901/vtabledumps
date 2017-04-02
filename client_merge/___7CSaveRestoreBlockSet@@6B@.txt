@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSaveRestoreBlockSet
+// Auto reconstructed from vtable block @ 0x01056510
+// from "client.dylib", by ida_vtables.idc
+0	CSaveRestoreBlockSet::GetBlockName(void)
+1	CSaveRestoreBlockSet::PreSave(CSaveRestoreData *)
+2	CSaveRestoreBlockSet::Save(ISave *)
+3	CSaveRestoreBlockSet::WriteSaveHeaders(ISave *)
+4	CSaveRestoreBlockSet::PostSave(void)
+5	CSaveRestoreBlockSet::PreRestore(void)
+6	CSaveRestoreBlockSet::ReadRestoreHeaders(IRestore *)
+7	CSaveRestoreBlockSet::Restore(IRestore *,bool)
+8	CSaveRestoreBlockSet::PostRestore(void)
+9	CSaveRestoreBlockSet::AddBlockHandler(ISaveRestoreBlockHandler *)
+10	CSaveRestoreBlockSet::RemoveBlockHandler(ISaveRestoreBlockHandler *)
+11	CSaveRestoreBlockSet::CallBlockHandlerRestore(ISaveRestoreBlockHandler *,int,IRestore *,bool)
+

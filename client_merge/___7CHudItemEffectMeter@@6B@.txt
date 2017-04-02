@@ -1,0 +1,33 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudItemEffectMeter
+// Auto reconstructed from vtable block @ 0x00F72000
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudItemEffectMeter
+1	CHudItemEffectMeter::~CHudItemEffectMeter()
+2	CHudElement::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudItemEffectMeter::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+16	CHudItemEffectMeter::GetMessageMap(void)
+17	CHudItemEffectMeter::GetAnimMap(void)
+18	CHudItemEffectMeter::GetKBMap(void)
+19	CHudItemEffectMeter::ApplySchemeSettings(vgui::IScheme *)
+20	CHudItemEffectMeter::PerformLayout(void)
+21	CHudItemEffectMeter::Update(C_TFPlayer *,char const*)
+22	CHudItemEffectMeter::IsEnabled(void)
+23	CHudItemEffectMeter::GetLabelText(void)
+24	CHudItemEffectMeter::GetIconName(void)
+25	CHudItemEffectMeter::GetProgress(void)
+

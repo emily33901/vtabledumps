@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CIconRenderReceiver
+// Auto reconstructed from vtable block @ 0x010A8910
+// from "client.dylib", by ida_vtables.idc
+0	CIconRenderReceiver::AddRef(void)
+1	CIconRenderReceiver::Release(void)
+2	CIconRenderReceiver::OnAsyncCreateComplete(ITexture *,void *)
+3	CIconRenderReceiver::OnAsyncFindComplete(ITexture *,void *)
+4	CIconRenderReceiver::OnAsyncMapComplete(ITexture *,void *,void *,int)
+5	CIconRenderReceiver::OnAsyncReadbackBegin(ITexture *,ITexture *,void *)
+6	CIconRenderReceiver::GetRefCount(void)const
+7	CIconRenderReceiver::~CIconRenderReceiver()
+

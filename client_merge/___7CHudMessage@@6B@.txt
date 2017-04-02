@@ -1,0 +1,24 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudMessage
+// Auto reconstructed from vtable block @ 0x00F13690
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudMessage
+1	CHudMessage::~CHudMessage()
+2	CHudElement::FireGameEvent(IGameEvent *)
+3	CHudMessage::Init(void)
+4	CHudMessage::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudMessage::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudMessage::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+16	CHudMessage::GetMessageMap(void)
+

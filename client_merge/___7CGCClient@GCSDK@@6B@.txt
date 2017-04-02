@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CGCClient
+// Auto reconstructed from vtable block @ 0x01018DE0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCClient::~CGCClient()
+1	GCSDK::CGCClient::Test_AddEvent(CTestEvent *)
+2	GCSDK::CGCClient::Test_CacheSubscribed(CSteamID const&)
+3	aCgcsocreatejob
+

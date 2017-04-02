@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconItemAttribute
+// Auto reconstructed from vtable block @ 0x01051408
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemAttribute::NetworkStateChanged(void)
+1	CEconItemAttribute::NetworkStateChanged(void *)
+

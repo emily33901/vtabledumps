@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CShowMannUpLootNotification
+// Auto reconstructed from vtable block @ 0x0110D6F0
+// from "client.dylib", by ida_vtables.idc
+0	CShowMannUpLootNotification::~CShowMannUpLootNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CShowMannUpLootNotification::BShowInGameElements(void)const
+5	CEconNotification::MarkForDeletion(void)
+6	CShowMannUpLootNotification::CanBeTriggered(void)
+7	CShowMannUpLootNotification::Trigger(void)
+8	CShowMannUpLootNotification::CanBeAcceptedOrDeclined(void)
+90	CShowMannUpLootNotification::Accept(void)
+10	CShowMannUpLootNotification::Decline(void)
+11	CShowMannUpLootNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

@@ -1,0 +1,7 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::X509PublicKey
+// Auto reconstructed from vtable block @ 0x01014FA0
+// from "client.dylib", by ida_vtables.idc
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSOTFDuelSummary
+// Auto reconstructed from vtable block @ 0x00E50DC0
+// from "client.dylib", by ida_vtables.idc
+0	CSOTFDuelSummary::~CSOTFDuelSummary()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CSOTFDuelSummary::New(void)const
+3	CSOTFDuelSummary::Clear(void)
+4	CSOTFDuelSummary::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CSOTFDuelSummary::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CSOTFDuelSummary::ByteSize(void)const
+90	CSOTFDuelSummary::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CSOTFDuelSummary::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CSOTFDuelSummary::GetCachedSize(void)const
+12	CSOTFDuelSummary::CopyFrom(google::protobuf::Message const&)
+13	CSOTFDuelSummary::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CSOTFDuelSummary::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CSOTFDuelSummary::GetMetadata(void)const
+

@@ -1,0 +1,30 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFGCClientSystem
+// Auto reconstructed from vtable block @ 0x00E372F0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CTFGCClientSystem::Init(void)
+2	CTFGCClientSystem::PostInit(void)
+3	CTFGCClientSystem::Shutdown(void)
+4	CTFGCClientSystem::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CTFGCClientSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CTFGCClientSystem::~CTFGCClientSystem()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CTFGCClientSystem::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	CGCClientSystem::InitGC(void)
+18	CTFGCClientSystem::PreInitGC(void)
+19	CTFGCClientSystem::PostInitGC(void)
+20	CGCClientSystem::ReceivedClientWelcome(CMsgClientWelcome const&)
+21	CGCClientSystem::ReceivedClientGoodbye(CMsgClientGoodbye const&)
+22	CTFGCClientSystem::SOCreated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+

@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAchievementSaveThread
+// Auto reconstructed from vtable block @ 0x0104A960
+// from "client.dylib", by ida_vtables.idc
+0	CAchievementSaveThread::~CAchievementSaveThread()
+1	CThread::Start(unsigned int)
+2	CThread::Init(void)
+3	CAchievementSaveThread::Run(void)
+4	CThread::OnExit(void)
+5	CThread::GetThreadProc(void)
+6	CThread::IsThreadRunning(void)
+

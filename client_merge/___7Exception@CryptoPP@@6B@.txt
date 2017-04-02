@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::Exception
+// Auto reconstructed from vtable block @ 0x010153C0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::Exception::~Exception()
+1	CryptoPP::Exception::what(void)const
+

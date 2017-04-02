@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconItem
+// Auto reconstructed from vtable block @ 0x00E3E6A0
+// from "client.dylib", by ida_vtables.idc
+0	CEconItem::~CEconItem()
+1	CEconItem::GetTypeID(void)const
+2	CEconItem::BParseFromMessage(CUtlBuffer const&)
+3	CEconItem::BParseFromMessage(std::string const&)
+4	CEconItem::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+5	CEconItem::BIsKeyLess(GCSDK::CSharedObject const&)const
+6	CEconItem::Copy(GCSDK::CSharedObject const&)
+7	CEconItem::Dump(void)const
+8	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+90	CEconItem::GetDebugString(void)const
+10	CEconItem::GetItemDefinition(void)const
+

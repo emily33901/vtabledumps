@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::BERDecodeErr
+// Auto reconstructed from vtable block @ 0x01016DD0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::BERDecodeErr::~BERDecodeErr()
+1	CryptoPP::Exception::what(void)const
+

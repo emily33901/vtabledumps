@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_Hairball::CHairballDelegate
+// Auto reconstructed from vtable block @ 0x00EA8714
+// from "client.dylib", by ida_vtables.idc
+0	C_Hairball::CHairballDelegate::GetNodeForces(CSimplePhysics::CNode *,int,Vector *)
+1	C_Hairball::CHairballDelegate::ApplyConstraints(CSimplePhysics::CNode *,int)
+

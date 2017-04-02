@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCClientMarketData
+// Auto reconstructed from vtable block @ 0x00E3B200
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCClientMarketData::~CMsgGCClientMarketData()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCClientMarketData::New(void)const
+3	CMsgGCClientMarketData::Clear(void)
+4	CMsgGCClientMarketData::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCClientMarketData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCClientMarketData::ByteSize(void)const
+90	CMsgGCClientMarketData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCClientMarketData::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCClientMarketData::GetCachedSize(void)const
+12	CMsgGCClientMarketData::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCClientMarketData::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCClientMarketData::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCClientMarketData::GetMetadata(void)const
+

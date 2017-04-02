@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'EntityParticleTrailInfo_t
+// Auto reconstructed from vtable block @ 0x01054208
+// from "client.dylib", by ida_vtables.idc
+0	EntityParticleTrailInfo_t::NetworkStateChanged(void)
+1	EntityParticleTrailInfo_t::NetworkStateChanged(void *)
+

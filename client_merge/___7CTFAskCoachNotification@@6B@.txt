@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFAskCoachNotification
+// Auto reconstructed from vtable block @ 0x010E4C10
+// from "client.dylib", by ida_vtables.idc
+0	CTFAskCoachNotification::~CTFAskCoachNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEconNotification::BShowInGameElements(void)const
+5	CEconNotification::MarkForDeletion(void)
+6	CTFAskCoachNotification::CanBeTriggered(void)
+7	CTFAskCoachNotification::Trigger(void)
+8	CTFAskCoachNotification::CanBeAcceptedOrDeclined(void)
+90	CTFAskCoachNotification::Accept(void)
+10	CTFAskCoachNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

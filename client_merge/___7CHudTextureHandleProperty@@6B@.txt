@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudTextureHandleProperty
+// Auto reconstructed from vtable block @ 0x0113D550
+// from "client.dylib", by ida_vtables.idc
+0	CHudTextureHandleProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CHudTextureHandleProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CHudTextureHandleProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)
+

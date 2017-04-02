@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVisibleShadowList
+// Auto reconstructed from vtable block @ 0x00E99E60
+// from "client.dylib", by ida_vtables.idc
+0	CVisibleShadowList::EnumShadow(unsigned short)
+

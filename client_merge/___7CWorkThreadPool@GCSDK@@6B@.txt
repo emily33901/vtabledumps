@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CWorkThreadPool
+// Auto reconstructed from vtable block @ 0x01019080
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CWorkThreadPool::~CWorkThreadPool()
+1	GCSDK::CWorkThreadPool::OnWorkItemCompleted(GCSDK::CWorkItem *)
+

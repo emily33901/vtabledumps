@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CChoreoScene
+// Auto reconstructed from vtable block @ 0x01019F80
+// from "client.dylib", by ida_vtables.idc
+0	CChoreoScene::~CChoreoScene()
+1	CChoreoScene::GetDuration(void)
+2	CChoreoScene::CurveHasEndTime(void)
+3	CChoreoScene::GetDefaultCurveType(void)
+

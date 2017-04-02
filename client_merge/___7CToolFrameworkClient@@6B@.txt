@@ -1,0 +1,24 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CToolFrameworkClient
+// Auto reconstructed from vtable block @ 0x01007D90
+// from "client.dylib", by ida_vtables.idc
+0	CBaseGameSystemPerFrame::Name(void)
+1	CToolFrameworkClient::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CToolFrameworkClient::LevelInitPreEntity(void)
+5	CToolFrameworkClient::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CToolFrameworkClient::LevelShutdownPreEntity(void)
+8	CToolFrameworkClient::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CToolFrameworkClient::~CToolFrameworkClient()
+14	CToolFrameworkClient::PreRender(void)
+15	CBaseGameSystemPerFrame::Update(float)
+16	CToolFrameworkClient::PostRender(void)
+

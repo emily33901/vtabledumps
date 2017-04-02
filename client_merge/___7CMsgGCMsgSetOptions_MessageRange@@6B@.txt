@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCMsgSetOptions_MessageRange
+// Auto reconstructed from vtable block @ 0x00E98250
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCMsgSetOptions_MessageRange::~CMsgGCMsgSetOptions_MessageRange()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCMsgSetOptions_MessageRange::New(void)const
+3	CMsgGCMsgSetOptions_MessageRange::Clear(void)
+4	CMsgGCMsgSetOptions_MessageRange::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCMsgSetOptions_MessageRange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCMsgSetOptions_MessageRange::ByteSize(void)const
+90	CMsgGCMsgSetOptions_MessageRange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCMsgSetOptions_MessageRange::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCMsgSetOptions_MessageRange::GetCachedSize(void)const
+12	CMsgGCMsgSetOptions_MessageRange::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCMsgSetOptions_MessageRange::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCMsgSetOptions_MessageRange::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCMsgSetOptions_MessageRange::GetMetadata(void)const
+

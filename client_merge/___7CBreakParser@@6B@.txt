@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBreakParser
+// Auto reconstructed from vtable block @ 0x01056074
+// from "client.dylib", by ida_vtables.idc
+0	CBreakParser::ParseKeyValue(void *,char const*,char const*)
+1	CBreakParser::SetDefaults(void *)
+

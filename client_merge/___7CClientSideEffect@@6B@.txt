@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientSideEffect
+// Auto reconstructed from vtable block @ 0x00E99FB0
+// from "client.dylib", by ida_vtables.idc
+0	CClientSideEffect::~CClientSideEffect()
+1	___cxa_pure_virtual
+2	CClientSideEffect::GetName(void)
+3	CClientSideEffect::IsActive(void)
+4	CClientSideEffect::Destroy(void)
+5	CClientSideEffect::SetEffectName(char const*)
+

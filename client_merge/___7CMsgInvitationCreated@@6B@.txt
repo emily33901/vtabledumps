@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgInvitationCreated
+// Auto reconstructed from vtable block @ 0x00E39A60
+// from "client.dylib", by ida_vtables.idc
+0	CMsgInvitationCreated::~CMsgInvitationCreated()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgInvitationCreated::New(void)const
+3	CMsgInvitationCreated::Clear(void)
+4	CMsgInvitationCreated::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgInvitationCreated::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgInvitationCreated::ByteSize(void)const
+90	CMsgInvitationCreated::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgInvitationCreated::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgInvitationCreated::GetCachedSize(void)const
+12	CMsgInvitationCreated::CopyFrom(google::protobuf::Message const&)
+13	CMsgInvitationCreated::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgInvitationCreated::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgInvitationCreated::GetMetadata(void)const
+

@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPotteryWheelManip
+// Auto reconstructed from vtable block @ 0x01042A30
+// from "client.dylib", by ida_vtables.idc
+0	CPotteryWheelManip::~CPotteryWheelManip()
+1	CPotteryWheelManip::OnBeginManipulation(void)
+2	CPotteryWheelManip::OnAcceptManipulation(void)
+3	CPotteryWheelManip::OnCancelManipulation(void)
+4	CPotteryWheelManip::OnTick(void)
+5	CPotteryWheelManip::OnCursorMoved(int,int)
+6	CPotteryWheelManip::OnMousePressed(ButtonCode_t,int,int)
+7	CPotteryWheelManip::OnMouseReleased(ButtonCode_t,int,int)
+8	CPotteryWheelManip::OnMouseWheeled(int)
+90	CBaseManipulator::SetViewportSize(int,int)
+

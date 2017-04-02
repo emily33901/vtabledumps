@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTFCoaching_CoachJoined
+// Auto reconstructed from vtable block @ 0x00E51660
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFCoaching_CoachJoined::~CMsgTFCoaching_CoachJoined()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTFCoaching_CoachJoined::New(void)const
+3	CMsgTFCoaching_CoachJoined::Clear(void)
+4	CMsgTFCoaching_CoachJoined::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTFCoaching_CoachJoined::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTFCoaching_CoachJoined::ByteSize(void)const
+90	CMsgTFCoaching_CoachJoined::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTFCoaching_CoachJoined::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTFCoaching_CoachJoined::GetCachedSize(void)const
+12	CMsgTFCoaching_CoachJoined::CopyFrom(google::protobuf::Message const&)
+13	CMsgTFCoaching_CoachJoined::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTFCoaching_CoachJoined::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTFCoaching_CoachJoined::GetMetadata(void)const
+

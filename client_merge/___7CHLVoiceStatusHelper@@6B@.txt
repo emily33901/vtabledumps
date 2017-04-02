@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHLVoiceStatusHelper
+// Auto reconstructed from vtable block @ 0x0108AA70
+// from "client.dylib", by ida_vtables.idc
+0	CHLVoiceStatusHelper::~CHLVoiceStatusHelper()
+1	CHLVoiceStatusHelper::GetPlayerTextColor(int,int *)
+2	CHLVoiceStatusHelper::UpdateCursorState(void)
+3	CHLVoiceStatusHelper::CanShowSpeakerLabels(void)
+

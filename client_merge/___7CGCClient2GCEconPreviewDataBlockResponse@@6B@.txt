@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCClient2GCEconPreviewDataBlockResponse
+// Auto reconstructed from vtable block @ 0x01124890
+// from "client.dylib", by ida_vtables.idc
+0	CGCClient2GCEconPreviewDataBlockResponse::~CGCClient2GCEconPreviewDataBlockResponse()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	CGCClient2GCEconPreviewDataBlockResponse::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

@@ -1,0 +1,24 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFTips
+// Auto reconstructed from vtable block @ 0x00FAF800
+// from "client.dylib", by ida_vtables.idc
+0	CTFTips::Name(void)
+1	CTFTips::Init(void)
+2	CBaseGameSystem::PostInit(void)
+3	CBaseGameSystem::Shutdown(void)
+4	CBaseGameSystem::LevelInitPreEntity(void)
+5	CBaseGameSystem::LevelInitPostEntity(void)
+6	CBaseGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystem::LevelShutdownPreEntity(void)
+8	CBaseGameSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystem::OnSave(void)
+10	CBaseGameSystem::OnRestore(void)
+11	CBaseGameSystem::SafeRemoveIfDesired(void)
+12	CBaseGameSystem::IsPerFrame(void)
+13	CTFTips::~CTFTips()
+14	CBaseGameSystem::PreRender(void)
+15	CBaseGameSystem::Update(float)
+16	CBaseGameSystem::PostRender(void)
+

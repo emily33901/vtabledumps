@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDefaultClientRenderable
+// Auto reconstructed from vtable block @ 0x01051AA0
+// from "client.dylib", by ida_vtables.idc
+0	CDefaultClientRenderable::~CDefaultClientRenderable()
+1	CDefaultClientRenderable::SetRefEHandle(CBaseHandle const&)
+2	CDefaultClientRenderable::GetRefEHandle(void)const
+3	CDefaultClientRenderable::GetCollideable(void)
+4	CDefaultClientRenderable::GetClientNetworkable(void)
+5	CDefaultClientRenderable::GetClientRenderable(void)
+6	CDefaultClientRenderable::GetIClientEntity(void)
+7	CDefaultClientRenderable::GetBaseEntity(void)
+8	CDefaultClientRenderable::GetClientThinkable(void)
+90	___cxa_pure_virtual
+

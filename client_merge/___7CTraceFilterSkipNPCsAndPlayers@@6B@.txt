@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTraceFilterSkipNPCsAndPlayers
+// Auto reconstructed from vtable block @ 0x0108D780
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterSkipNPCsAndPlayers::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const
+2	CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+3	CTraceFilterSimple::SetCollisionGroup(int)
+

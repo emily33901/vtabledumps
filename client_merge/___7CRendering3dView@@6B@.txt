@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRendering3dView
+// Auto reconstructed from vtable block @ 0x010114C0
+// from "client.dylib", by ida_vtables.idc
+0	CRendering3dView::~CRendering3dView()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CRendering3dView::GetDrawFlags(void)
+3	CRendering3dView::Draw(void)
+

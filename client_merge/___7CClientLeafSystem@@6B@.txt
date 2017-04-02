@@ -1,0 +1,35 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientLeafSystem
+// Auto reconstructed from vtable block @ 0x00E99C10
+// from "client.dylib", by ida_vtables.idc
+0	CClientLeafSystem::CreateRenderableHandle(IClientRenderable *,bool)
+1	CClientLeafSystem::RemoveRenderable(unsigned short)
+2	CClientLeafSystem::AddRenderableToLeaves(unsigned short,int,unsigned short *)
+3	CClientLeafSystem::ChangeRenderableRenderGroup(unsigned short,RenderGroup_t)
+4	CClientLeafSystem::AddRenderable(IClientRenderable *,RenderGroup_t)
+5	CClientLeafSystem::IsRenderableInPVS(IClientRenderable *)
+6	CClientLeafSystem::SetSubSystemDataInLeaf(int,int,CClientLeafSubSystemData *)
+7	CClientLeafSystem::GetSubSystemDataInLeaf(int,int)
+8	CClientLeafSystem::SetDetailObjectsInLeaf(int,int,int)
+9	CClientLeafSystem::GetDetailObjectsInLeaf(int,int &,int &)
+10	CClientLeafSystem::DrawDetailObjectsInLeaf(int,int,int &,int &)
+11	CClientLeafSystem::ShouldDrawDetailObjectsInLeaf(int,int)
+12	CClientLeafSystem::RenderableChanged(unsigned short)
+13	CClientLeafSystem::SetRenderGroup(unsigned short,RenderGroup_t)
+14	CClientLeafSystem::ComputeTranslucentRenderLeaf(int,unsigned short const*,short const*,int,int)
+15	CClientLeafSystem::BuildRenderablesList(SetupRenderInfo_t const&)
+16	CClientLeafSystem::CollateViewModelRenderables(CUtlVector<IClientRenderable *,CUtlMemory<IClientRenderable *,int>> &,CUtlVector<IClientRenderable *,CUtlMemory<IClientRenderable *,int>> &)
+17	CClientLeafSystem::DrawStaticProps(bool)
+18	CClientLeafSystem::DrawSmallEntities(bool)
+19	CClientLeafSystem::AddShadow(unsigned short,unsigned short)
+20	CClientLeafSystem::RemoveShadow(unsigned short)
+21	CClientLeafSystem::ProjectShadow(unsigned short,int,int const*)
+22	CClientLeafSystem::ProjectFlashlight(unsigned short,int,int const*)
+23	CClientLeafSystem::EnumerateShadowsInLeaves(int,unsigned short *,IClientLeafShadowEnum *)
+24	CClientLeafSystem::GetRenderableLeaves(unsigned short,int *)
+25	CClientLeafSystem::GetRenderableLeaf(unsigned short,int *,int const*,int *)
+26	CClientLeafSystem::EnableAlternateSorting(unsigned short,bool)
+27	CClientLeafSystem::~CClientLeafSystem()
+

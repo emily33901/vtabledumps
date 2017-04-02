@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPlayerState
+// Auto reconstructed from vtable block @ 0x00E9EE50
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerState::NetworkStateChanged(void)
+1	CPlayerState::NetworkStateChanged(void *)
+2	CPlayerState::~CPlayerState()
+3	CPlayerState::GetPredDescMap(void)
+

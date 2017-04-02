@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IPredictionSystem
+// Auto reconstructed from vtable block @ 0x010988C4
+// from "client.dylib", by ida_vtables.idc
+0	IPredictionSystem::~IPredictionSystem()
+

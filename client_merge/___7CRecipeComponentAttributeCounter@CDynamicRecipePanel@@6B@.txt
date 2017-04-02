@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDynamicRecipePanel::CRecipeComponentAttributeCounter
+// Auto reconstructed from vtable block @ 0x00FBC9E0
+// from "client.dylib", by ida_vtables.idc
+0	CDynamicRecipePanel::CRecipeComponentAttributeCounter::~CRecipeComponentAttributeCounter()
+1	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned int)
+2	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,float)
+3	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned long long const&)
+4	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_String const&)
+5	CDynamicRecipePanel::CRecipeComponentAttributeCounter::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_DynamicRecipeComponent const&)
+6	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_ItemSlotCriteria const&)
+7	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_WorldItemPlacement const&)
+

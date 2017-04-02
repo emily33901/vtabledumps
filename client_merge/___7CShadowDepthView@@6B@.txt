@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CShadowDepthView
+// Auto reconstructed from vtable block @ 0x01011570
+// from "client.dylib", by ida_vtables.idc
+0	CShadowDepthView::~CShadowDepthView()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CRendering3dView::GetDrawFlags(void)
+3	CShadowDepthView::Draw(void)
+

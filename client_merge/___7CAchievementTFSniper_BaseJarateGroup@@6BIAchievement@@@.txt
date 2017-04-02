@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAchievementMgr
+// Auto reconstructed from vtable block @ 0x00E374A0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CAchievementMgr::Init(void)
+2	CAchievementMgr::PostInit(void)
+3	CAchievementMgr::Shutdown(void)
+4	CAchievementMgr::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CAchievementMgr::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+

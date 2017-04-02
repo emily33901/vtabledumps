@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEntitySpeedProxy
+// Auto reconstructed from vtable block @ 0x00F15920
+// from "client.dylib", by ida_vtables.idc
+0	CResultProxy::Init(IMaterial *,KeyValues *)
+1	CEntitySpeedProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CEntitySpeedProxy::~CEntitySpeedProxy()
+

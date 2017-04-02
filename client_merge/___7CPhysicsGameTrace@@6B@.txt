@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPhysicsGameTrace
+// Auto reconstructed from vtable block @ 0x00E423C0
+// from "client.dylib", by ida_vtables.idc
+0	CPhysicsGameTrace::VehicleTraceRay(Ray_t const&,void *,CGameTrace *)
+1	CPhysicsGameTrace::VehicleTraceRayWithWater(Ray_t const&,void *,CGameTrace *)
+2	CPhysicsGameTrace::VehiclePointInWater(Vector const&)
+

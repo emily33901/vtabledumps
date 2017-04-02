@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMessageChars
+// Auto reconstructed from vtable block @ 0x0113D5E0
+// from "client.dylib", by ida_vtables.idc
+0	CMessageChars::Create(unsigned int)
+1	CMessageChars::Destroy(void)
+2	CMessageChars::DrawString(unsigned long,int,int,int,int,int,int,char const*,int,...)
+3	CMessageChars::DrawString(unsigned long,int,int,char const*,int,...)
+4	CMessageChars::DrawStringForTime(float,unsigned long,int,int,int,int,int,int,char const*,int,...)
+5	CMessageChars::DrawStringForTime(float,unsigned long,int,int,char const*,int,...)
+6	CMessageChars::RemoveStringsByID(int)
+7	CMessageChars::GetStringLength(unsigned long,int *,int *,char const*,...)
+8	CMessageChars::Clear(void)
+

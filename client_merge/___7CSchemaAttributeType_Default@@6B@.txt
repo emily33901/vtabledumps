@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSchemaAttributeType_Default
+// Auto reconstructed from vtable block @ 0x01050F20
+// from "client.dylib", by ida_vtables.idc
+0	CSchemaAttributeType_Default::~CSchemaAttributeType_Default()
+1	ISchemaAttributeTypeBase<unsigned int>::GetTypeUniqueIdentifier(void)const
+2	ISchemaAttributeTypeBase<unsigned int>::LoadEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+3	ISchemaAttributeTypeBase<unsigned int>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&,std::string *)const
+4	CSchemaAttributeType_Default::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*,char const*,attribute_data_union_t *,bool)const
+5	CSchemaAttributeType_Default::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*,attribute_data_union_t const&,std::string *)const
+6	ISchemaAttributeTypeBase<unsigned int>::LoadByteStreamToEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,std::string const&)const
+7	ISchemaAttributeTypeBase<unsigned int>::InitializeNewEconAttributeValue(attribute_data_union_t *)const
+8	ISchemaAttributeTypeBase<unsigned int>::UnloadEconAttributeValue(attribute_data_union_t *)const
+90	ISchemaAttributeTypeBase<unsigned int>::OnIterateAttributeValue(IEconItemAttributeIterator *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+10	CSchemaAttributeType_Default::BSupportsGameplayModificationAndNetworking(void)const
+11	CSchemaAttributeType_Default::ConvertTypedValueToByteStream(unsigned int const&,std::string *)const
+12	CSchemaAttributeType_Default::ConvertByteStreamToTypedValue(std::string const&,unsigned int *)const
+

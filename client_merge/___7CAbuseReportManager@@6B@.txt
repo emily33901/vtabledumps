@@ -1,0 +1,32 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAbuseReportManager
+// Auto reconstructed from vtable block @ 0x00E32E70
+// from "client.dylib", by ida_vtables.idc
+0	CAbuseReportManager::Name(void)
+1	CAbuseReportManager::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CAbuseReportManager::Shutdown(void)
+4	CBaseGameSystemPerFrame::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CAbuseReportManager::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CAbuseReportManager::~CAbuseReportManager()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CAbuseReportManager::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	CAbuseReportManager::FireGameEvent(IGameEvent *)
+18	CAbuseReportManager::QueueReport(void)
+19	CAbuseReportManager::SubmitReportUIRequested(void)
+20	___cxa_pure_virtual
+21	CAbuseReportManager::DestroyIncidentData(void)
+22	CAbuseReportManager::ShowNoSteamErrorMessage(void)
+23	CAbuseReportManager::CreateReportReadyNotification(bool,float)
+24	CAbuseReportManager::CreateAndPopulateIncident(void)
+

@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CParticleProperty
+// Auto reconstructed from vtable block @ 0x00E42370
+// from "client.dylib", by ida_vtables.idc
+0	CParticleProperty::NetworkStateChanged(void)
+1	CParticleProperty::NetworkStateChanged(void *)
+2	CParticleProperty::GetPredDescMap(void)
+3	CParticleProperty::GetDataDescMap(void)
+

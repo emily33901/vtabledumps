@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFPlayerShared
+// Auto reconstructed from vtable block @ 0x00E5AE30
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerShared::~CTFPlayerShared()
+1	CTFPlayerShared::FireGameEvent(IGameEvent *)
+2	CTFPlayerShared::GetPredDescMap(void)
+3	CTFPlayerShared::NetworkStateChanged(void)
+4	CTFPlayerShared::NetworkStateChanged(void *)
+5	CTFPlayerShared::OnPreDataChanged(void)
+6	CTFPlayerShared::OnDataChanged(void)
+

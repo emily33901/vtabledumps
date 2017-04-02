@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgUpdatePeriodicEvent
+// Auto reconstructed from vtable block @ 0x00E3AC00
+// from "client.dylib", by ida_vtables.idc
+0	CMsgUpdatePeriodicEvent::~CMsgUpdatePeriodicEvent()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgUpdatePeriodicEvent::New(void)const
+3	CMsgUpdatePeriodicEvent::Clear(void)
+4	CMsgUpdatePeriodicEvent::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgUpdatePeriodicEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgUpdatePeriodicEvent::ByteSize(void)const
+90	CMsgUpdatePeriodicEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgUpdatePeriodicEvent::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgUpdatePeriodicEvent::GetCachedSize(void)const
+12	CMsgUpdatePeriodicEvent::CopyFrom(google::protobuf::Message const&)
+13	CMsgUpdatePeriodicEvent::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgUpdatePeriodicEvent::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgUpdatePeriodicEvent::GetMetadata(void)const
+

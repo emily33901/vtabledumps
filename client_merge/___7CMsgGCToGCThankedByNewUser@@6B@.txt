@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCToGCThankedByNewUser
+// Auto reconstructed from vtable block @ 0x00E3DFD0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCToGCThankedByNewUser::~CMsgGCToGCThankedByNewUser()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCToGCThankedByNewUser::New(void)const
+3	CMsgGCToGCThankedByNewUser::Clear(void)
+4	CMsgGCToGCThankedByNewUser::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCToGCThankedByNewUser::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCToGCThankedByNewUser::ByteSize(void)const
+90	CMsgGCToGCThankedByNewUser::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCToGCThankedByNewUser::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCToGCThankedByNewUser::GetCachedSize(void)const
+12	CMsgGCToGCThankedByNewUser::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCToGCThankedByNewUser::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCToGCThankedByNewUser::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCToGCThankedByNewUser::GetMetadata(void)const
+

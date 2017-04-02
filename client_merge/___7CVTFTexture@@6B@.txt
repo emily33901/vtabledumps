@@ -1,0 +1,64 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVTFTexture
+// Auto reconstructed from vtable block @ 0x01019D90
+// from "client.dylib", by ida_vtables.idc
+0	CVTFTexture::~CVTFTexture()
+1	CVTFTexture::Init(int,int,int,ImageFormat,int,int,int)
+2	CVTFTexture::SetBumpScale(float)
+3	CVTFTexture::SetReflectivity(Vector const&)
+4	CVTFTexture::InitLowResImage(int,int,ImageFormat)
+5	CVTFTexture::SetResourceData(unsigned int,void const*,unsigned long)
+6	CVTFTexture::GetResourceData(unsigned int,unsigned long *)const
+7	CVTFTexture::HasResourceEntry(unsigned int)const
+8	CVTFTexture::GetResourceTypes(unsigned int *,int)const
+90	CVTFTexture::Unserialize(CUtlBuffer &,bool,int)
+10	CVTFTexture::Serialize(CUtlBuffer &)
+11	CVTFTexture::LowResFileInfo(int *,int *)const
+12	CVTFTexture::ImageFileInfo(int,int,int,int *,int *)const
+13	CVTFTexture::FileSize(int)const
+14	CVTFTexture::Width(void)const
+15	CVTFTexture::Height(void)const
+16	CVTFTexture::Depth(void)const
+17	CVTFTexture::MipCount(void)const
+18	CVTFTexture::RowSizeInBytes(int)const
+19	CVTFTexture::FaceSizeInBytes(int)const
+20	CVTFTexture::Format(void)const
+21	CVTFTexture::FaceCount(void)const
+22	CVTFTexture::FrameCount(void)const
+23	CVTFTexture::Flags(void)const
+24	CVTFTexture::BumpScale(void)const
+25	CVTFTexture::LowResWidth(void)const
+26	CVTFTexture::LowResHeight(void)const
+27	CVTFTexture::LowResFormat(void)const
+28	CVTFTexture::Reflectivity(void)const
+29	CVTFTexture::IsCubeMap(void)const
+30	CVTFTexture::IsNormalMap(void)const
+31	CVTFTexture::IsVolumeTexture(void)const
+32	CVTFTexture::ComputeMipLevelDimensions(int,int *,int *,int *)const
+33	CVTFTexture::ComputeMipSize(int)const
+34	CVTFTexture::ComputeMipLevelSubRect(Rect_t *,int,Rect_t *)const
+35	CVTFTexture::ComputeFaceSize(int)const
+36	CVTFTexture::ComputeTotalSize(void)const
+37	CVTFTexture::ImageData(void)
+38	CVTFTexture::ImageData(int,int,int)
+39	CVTFTexture::ImageData(int,int,int,int,int,int)
+40	CVTFTexture::LowResImageData(void)
+41	CVTFTexture::ConvertImageFormat(ImageFormat,bool)
+42	CVTFTexture::GenerateSpheremap(LookDir_t)
+43	CVTFTexture::GenerateHemisphereMap(unsigned char *,int,int,LookDir_t,int)
+44	CVTFTexture::FixCubemapFaceOrientation(void)
+45	CVTFTexture::GenerateMipmaps(void)
+46	CVTFTexture::PutOneOverMipLevelInAlpha(void)
+47	CVTFTexture::ComputeReflectivity(void)
+48	CVTFTexture::ComputeAlphaFlags(void)
+49	CVTFTexture::ConstructLowResImage(void)
+50	CVTFTexture::PostProcess(bool,LookDir_t,bool)
+51	CVTFTexture::MatchCubeMapBorders(int,ImageFormat,bool)
+52	CVTFTexture::SetAlphaTestThreshholds(float,float)
+53	CVTFTexture::SetPostProcessingSettings(VtfProcessingOptions const*)
+54	CVTFTexture::UnserializeEx(CUtlBuffer &,bool,int,int)
+55	CVTFTexture::GetMipmapRange(int *,int *)
+56	CVTFTexture::NormalizeTopMipLevel(void)
+

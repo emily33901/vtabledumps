@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgCraftHalloweenOffering
+// Auto reconstructed from vtable block @ 0x00E3E390
+// from "client.dylib", by ida_vtables.idc
+0	CMsgCraftHalloweenOffering::~CMsgCraftHalloweenOffering()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgCraftHalloweenOffering::New(void)const
+3	CMsgCraftHalloweenOffering::Clear(void)
+4	CMsgCraftHalloweenOffering::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgCraftHalloweenOffering::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgCraftHalloweenOffering::ByteSize(void)const
+90	CMsgCraftHalloweenOffering::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgCraftHalloweenOffering::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgCraftHalloweenOffering::GetCachedSize(void)const
+12	CMsgCraftHalloweenOffering::CopyFrom(google::protobuf::Message const&)
+13	CMsgCraftHalloweenOffering::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgCraftHalloweenOffering::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgCraftHalloweenOffering::GetMetadata(void)const
+

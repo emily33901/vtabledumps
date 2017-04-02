@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgApplyUpgradeCard
+// Auto reconstructed from vtable block @ 0x00E3A120
+// from "client.dylib", by ida_vtables.idc
+0	CMsgApplyUpgradeCard::~CMsgApplyUpgradeCard()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgApplyUpgradeCard::New(void)const
+3	CMsgApplyUpgradeCard::Clear(void)
+4	CMsgApplyUpgradeCard::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgApplyUpgradeCard::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgApplyUpgradeCard::ByteSize(void)const
+90	CMsgApplyUpgradeCard::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgApplyUpgradeCard::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgApplyUpgradeCard::GetCachedSize(void)const
+12	CMsgApplyUpgradeCard::CopyFrom(google::protobuf::Message const&)
+13	CMsgApplyUpgradeCard::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgApplyUpgradeCard::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgApplyUpgradeCard::GetMetadata(void)const
+

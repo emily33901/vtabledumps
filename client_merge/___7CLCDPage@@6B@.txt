@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLCDPage
+// Auto reconstructed from vtable block @ 0x010C6B00
+// from "client.dylib", by ida_vtables.idc
+0	CLCDPage::~CLCDPage()
+1	CLCDPage::Create(IG15 *)
+2	CLCDItem::Wipe(IG15 *)
+

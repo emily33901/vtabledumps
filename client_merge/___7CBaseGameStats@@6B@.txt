@@ -1,0 +1,27 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseGameStats
+// Auto reconstructed from vtable block @ 0x00E41F30
+// from "client.dylib", by ida_vtables.idc
+0	CBaseGameStats::UseOldFormat(void)
+1	CBaseGameStats::AddDataForSend(KeyValues *,StatSendType_t)
+2	CBaseGameStats::ShouldSendDataOnLevelShutdown(void)
+3	CBaseGameStats::ShouldSendDataOnAppShutdown(void)
+4	CBaseGameStats::Event_Init(void)
+5	CBaseGameStats::Event_Shutdown(void)
+6	CBaseGameStats::Event_MapChange(char const*,char const*)
+7	CBaseGameStats::Event_LevelInit(void)
+8	CBaseGameStats::Event_LevelShutdown(float)
+9	CBaseGameStats::Event_SaveGame(void)
+10	CBaseGameStats::Event_LoadGame(void)
+11	CBaseGameStats::OnInit(CBaseGameStats*,char const*)
+12	CBaseGameStats::Clear(void)
+13	CBaseGameStats::StatTrackingEnabledForMod(void)
+14	CBaseGameStats::HaveValidData(void)
+15	CBaseGameStats::ShouldTrackStandardStats(void)
+16	CBaseGameStats::GetStatSaveFileName(void)
+17	CBaseGameStats::GetStatUploadRegistryKeyName(void)
+18	CBaseGameStats::UserPlayedAllTheMaps(void)
+19	CBaseGameStats::Event_AchievementProgress(int,char const*)
+

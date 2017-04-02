@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFDuelRequestNotification
+// Auto reconstructed from vtable block @ 0x010E6E50
+// from "client.dylib", by ida_vtables.idc
+0	CTFDuelRequestNotification::~CTFDuelRequestNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEconNotification::BShowInGameElements(void)const
+5	CEconNotification::MarkForDeletion(void)
+6	CTFDuelRequestNotification::CanBeTriggered(void)
+7	CTFDuelRequestNotification::Trigger(void)
+8	CTFDuelRequestNotification::CanBeAcceptedOrDeclined(void)
+90	CTFDuelRequestNotification::Accept(void)
+10	CTFDuelRequestNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

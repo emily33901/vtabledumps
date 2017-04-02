@@ -1,0 +1,37 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGenericClassBasedReplay
+// Auto reconstructed from vtable block @ 0x00F16500
+// from "client.dylib", by ida_vtables.idc
+0	CGenericClassBasedReplay::~CGenericClassBasedReplay()
+1	CBaseReplaySerializeable::SetHandle(unsigned int)
+2	CBaseReplaySerializeable::GetHandle(void)const
+3	CGenericClassBasedReplay::Read(KeyValues *)
+4	CGenericClassBasedReplay::Write(KeyValues *)
+5	CReplay::GetSubKeyTitle(void)const
+6	CBaseReplaySerializeable::GetFilename(void)const
+7	CReplay::GetPath(void)const
+8	CBaseReplaySerializeable::GetFullFilename(void)const
+90	CBaseReplaySerializeable::SetLocked(bool)
+10	CBaseReplaySerializeable::IsLocked(void)const
+11	CGenericClassBasedReplay::OnDelete(void)
+12	CBaseReplaySerializeable::OnUnload(void)
+13	CBaseReplaySerializeable::GetDebugName(void)const
+14	CBaseReplaySerializeable::OnAddedToDirtyList(void)
+15	CGenericClassBasedReplay::DumpGameSpecificData(void)const
+16	CGenericClassBasedReplay::Update(void)
+17	CGenericClassBasedReplay::OnBeginRecording(void)
+18	CGenericClassBasedReplay::OnEndRecording(void)
+19	CGenericClassBasedReplay::OnComplete(void)
+20	CGenericClassBasedReplay::ShouldAllowDelete(void)const
+21	CReplay::GetItemDate(void)const
+22	CReplay::IsItemRendered(void)const
+23	CReplay::GetItemReplay(void)
+24	CReplay::GetItemReplayHandle(void)const
+25	CReplay::GetItemHandle(void)const
+26	CReplay::GetItemTitle(void)const
+27	CReplay::SetItemTitle(wchar_t const*)
+28	CReplay::GetItemLength(void)const
+29	CReplay::GetUserData(void)
+

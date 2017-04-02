@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ITFMvMBossProgressUserAutoList
+// Auto reconstructed from vtable block @ 0x00F3C850
+// from "client.dylib", by ida_vtables.idc
+0	ITFMvMBossProgressUserAutoList::~ITFMvMBossProgressUserAutoList()
+

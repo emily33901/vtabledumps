@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRequestItemPurgatory_FinalizePurchaseResponse
+// Auto reconstructed from vtable block @ 0x00E3D910
+// from "client.dylib", by ida_vtables.idc
+0	CMsgRequestItemPurgatory_FinalizePurchaseResponse::~CMsgRequestItemPurgatory_FinalizePurchaseResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRequestItemPurgatory_FinalizePurchaseResponse::New(void)const
+3	CMsgRequestItemPurgatory_FinalizePurchaseResponse::Clear(void)
+4	CMsgRequestItemPurgatory_FinalizePurchaseResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRequestItemPurgatory_FinalizePurchaseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRequestItemPurgatory_FinalizePurchaseResponse::ByteSize(void)const
+90	CMsgRequestItemPurgatory_FinalizePurchaseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRequestItemPurgatory_FinalizePurchaseResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRequestItemPurgatory_FinalizePurchaseResponse::GetCachedSize(void)const
+12	CMsgRequestItemPurgatory_FinalizePurchaseResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgRequestItemPurgatory_FinalizePurchaseResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRequestItemPurgatory_FinalizePurchaseResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRequestItemPurgatory_FinalizePurchaseResponse::GetMetadata(void)const
+

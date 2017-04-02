@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CJob
+// Auto reconstructed from vtable block @ 0x01018EE0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CJob::~CJob()
+1	GCSDK::CJob::BYieldingRunJob(void *)
+2	GCSDK::CJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CJob::CHeartbeatsBeforeTimeout(void)
+

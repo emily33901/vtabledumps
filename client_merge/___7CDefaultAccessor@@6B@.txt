@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDefaultAccessor
+// Auto reconstructed from vtable block @ 0x0115C0E0
+// from "client.dylib", by ida_vtables.idc
+0	CDefaultAccessor::RegisterConCommandBase(ConCommandBase *)
+

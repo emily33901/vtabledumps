@@ -1,0 +1,62 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_GameRules
+// Auto reconstructed from vtable block @ 0x00E41DC0
+// from "client.dylib", by ida_vtables.idc
+0	C_GameRules::Name(void)
+1	CBaseGameSystemPerFrame::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CBaseGameSystemPerFrame::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	C_GameRules::~C_GameRules()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CBaseGameSystemPerFrame::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	___cxa_pure_virtual
+18	___cxa_pure_virtual
+19	___cxa_pure_virtual
+20	___cxa_pure_virtual
+21	___cxa_pure_virtual
+22	___cxa_pure_virtual
+23	___cxa_pure_virtual
+24	___cxa_pure_virtual
+25	___cxa_pure_virtual
+26	___cxa_pure_virtual
+27	C_GameRules::SwitchToNextBestWeapon(C_BaseCombatCharacter *,C_BaseCombatWeapon *)
+28	C_GameRules::GetNextBestWeapon(C_BaseCombatCharacter *,C_BaseCombatWeapon *)
+29	C_GameRules::ShouldCollide(int,int)
+30	C_GameRules::DefaultFOV(void)
+31	C_GameRules::GetViewVectors(void)const
+32	C_GameRules::GetAmmoDamage(C_BaseEntity *,C_BaseEntity *,int)
+33	C_GameRules::GetDamageMultiplier(void)
+34	___cxa_pure_virtual
+35	C_GameRules::GetEncryptionKey(void)
+36	C_GameRules::InRoundRestart(void)
+37	C_GameRules::AllowThirdPersonCamera(void)
+38	C_GameRules::ClientCommandKeyValues(edict_t *,KeyValues *)
+39	C_GameRules::IsConnectedUserInfoChangeAllowed(C_BasePlayer *)
+40	C_GameRules::IsBonusChallengeTimeBased(void)
+41	C_GameRules::AllowMapParticleEffect(char const*)
+42	C_GameRules::AllowWeatherParticles(void)
+43	C_GameRules::AllowMapVisionFilterShaders(void)
+44	C_GameRules::TranslateEffectForVisionFilter(char const*,char const*)
+45	C_GameRules::IsLocalPlayer(int)
+46	C_GameRules::ModifySentChat(char *,int)
+47	C_GameRules::ShouldWarnOfAbandonOnQuit(void)
+48	C_GameRules::GetGameTypeName(void)
+49	C_GameRules::GetGameType(void)
+50	C_GameRules::ShouldDrawHeadLabels(void)
+51	C_GameRules::ClientSpawned(edict_t *)
+52	C_GameRules::OnFileReceived(char const*,unsigned int)
+53	C_GameRules::IsHolidayActive(int)const
+54	C_GameRules::IsManualMapChangeOkay(char const**)
+

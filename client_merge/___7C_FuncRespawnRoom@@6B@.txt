@@ -1,0 +1,45 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_FuncRespawnRoom
+// Auto reconstructed from vtable block @ 0x00F366F0
+// from "client.dylib", by ida_vtables.idc
+0	C_FuncRespawnRoom::~C_FuncRespawnRoom()
+1	C_BaseEntity::SetRefEHandle(CBaseHandle const&)
+2	C_BaseEntity::GetRefEHandle(void)const
+3	C_BaseEntity::GetCollideable(void)
+4	C_BaseEntity::GetClientNetworkable(void)
+5	C_BaseEntity::GetClientRenderable(void)
+6	C_BaseEntity::GetIClientEntity(void)
+7	C_BaseEntity::GetBaseEntity(void)
+8	C_BaseEntity::GetClientThinkable(void)
+90	C_BaseEntity::Release(void)
+10	C_BaseEntity::GetAbsOrigin(void)const
+11	C_BaseEntity::GetAbsAngles(void)const
+12	C_BaseEntity::GetMouth(void)
+13	C_BaseEntity::GetSoundSpatialization(SpatializationInfo_t &)
+14	C_BaseEntity::GetDataDescMap(void)
+15	C_FuncRespawnRoom::YouForgotToImplementOrDeclareClientClass(void)
+16	C_FuncRespawnRoom::GetClientClass(void)
+17	C_BaseEntity::GetPredDescMap(void)
+18	C_BaseEntity::FireBullets(FireBulletsInfo_t const&)
+19	C_BaseEntity::ModifyFireBulletsDamage(CTakeDamageInfo *)
+20	C_BaseEntity::ShouldDrawUnderwaterBulletBubbles(void)
+21	C_BaseEntity::ShouldDrawWaterImpacts(void)
+22	C_BaseEntity::HandleShotImpactingWater(FireBulletsInfo_t const&,Vector const&,ITraceFilter *,Vector*)
+23	C_BaseEntity::GetBeamTraceFilter(void)
+24	C_BaseEntity::DispatchTraceAttack(CTakeDamageInfo const&,Vector const&,CGameTrace *,CDmgAccumulator *)
+25	C_BaseEntity::TraceAttack(CTakeDamageInfo const&,Vector const&,CGameTrace *,CDmgAccumulator *)
+26	C_BaseEntity::DoImpactEffect(CGameTrace &,int)
+27	C_BaseEntity::MakeTracer(Vector const&,CGameTrace const&,int)
+28	C_BaseEntity::GetTracerAttachment(void)
+29	C_BaseEntity::BloodColor(void)
+30	C_BaseEntity::GetTracerType(void)
+31	C_BaseEntity::Spawn(void)
+32	C_BaseEntity::SpawnClientEntity(void)
+33	C_BaseEntity::Precache(void)
+34	C_BaseEntity::Activate(void)
+35	C_BaseEntity::ParseMapData(CEntityMapData *)
+36	C_BaseEntity::KeyValue(char const*,char const*)
+37	C_BaseEntity::KeyValue(char const*,float)
+

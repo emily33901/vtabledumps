@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSOTFPartyInvite
+// Auto reconstructed from vtable block @ 0x00E52500
+// from "client.dylib", by ida_vtables.idc
+0	CSOTFPartyInvite::~CSOTFPartyInvite()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CSOTFPartyInvite::New(void)const
+3	CSOTFPartyInvite::Clear(void)
+4	CSOTFPartyInvite::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CSOTFPartyInvite::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CSOTFPartyInvite::ByteSize(void)const
+90	CSOTFPartyInvite::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CSOTFPartyInvite::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CSOTFPartyInvite::GetCachedSize(void)const
+12	CSOTFPartyInvite::CopyFrom(google::protobuf::Message const&)
+13	CSOTFPartyInvite::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CSOTFPartyInvite::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CSOTFPartyInvite::GetMetadata(void)const
+

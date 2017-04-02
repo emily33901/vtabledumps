@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFXStaticLine
+// Auto reconstructed from vtable block @ 0x00EF2EC0
+// from "client.dylib", by ida_vtables.idc
+0	CFXStaticLine::~CFXStaticLine()
+1	CFXStaticLine::Draw(double)
+2	CClientSideEffect::GetName(void)
+3	CFXStaticLine::IsActive(void)
+4	CFXStaticLine::Destroy(void)
+5	CClientSideEffect::SetEffectName(char const*)
+6	CFXStaticLine::Update(double)
+

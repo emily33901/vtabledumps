@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSpyInvisProxy
+// Auto reconstructed from vtable block @ 0x00F3DCF0
+// from "client.dylib", by ida_vtables.idc
+0	CSpyInvisProxy::Init(IMaterial *,KeyValues *)
+1	CSpyInvisProxy::OnBind(void *)
+2	CSpyInvisProxy::Release(void)
+3	CSpyInvisProxy::GetMaterial(void)
+4	CSpyInvisProxy::~CSpyInvisProxy()
+

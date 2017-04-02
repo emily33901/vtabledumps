@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CStructNetPacket
+// Auto reconstructed from vtable block @ 0x0114AAD0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CStructNetPacket::~CStructNetPacket()
+1	GCSDK::CRefCount::DestroyThis(void)
+2	GCSDK::CStructNetPacket::GetEMsgFormatType(void)const
+3	GCSDK::CStructNetPacket::GetCNetPacket(void)const
+4	GCSDK::CStructNetPacket::PubData(void)const
+5	GCSDK::CStructNetPacket::CubData(void)const
+6	GCSDK::CStructNetPacket::GetEMsg(void)const
+7	GCSDK::CStructNetPacket::GetSourceJobID(void)const
+8	GCSDK::CStructNetPacket::GetTargetJobID(void)const
+90	GCSDK::CStructNetPacket::SetTargetJobID(unsigned long long)
+10	GCSDK::CStructNetPacket::GetSteamID(void)const
+11	GCSDK::CStructNetPacket::SetSteamID(CSteamID)
+12	GCSDK::CStructNetPacket::GetSourceAppID(void)const
+13	GCSDK::CStructNetPacket::SetSourceAppID(unsigned int)
+14	GCSDK::CStructNetPacket::BHasTargetJobName(void)const
+15	GCSDK::CStructNetPacket::GetTargetJobName(void)const
+

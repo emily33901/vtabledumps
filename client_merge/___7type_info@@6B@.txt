@@ -1,0 +1,7 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'__cxxabiv1::__enum_type_info
+// Auto reconstructed from vtable block @ 0x0239A51C
+// from "client.dylib", by ida_vtables.idc
+

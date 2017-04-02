@@ -1,0 +1,25 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttributeManager
+// Auto reconstructed from vtable block @ 0x00E3C500
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeManager::GetDataDescMap(void)
+1	CAttributeManager::NetworkStateChanged(void)
+2	CAttributeManager::NetworkStateChanged(void *)
+3	CAttributeManager::~CAttributeManager()
+4	CAttributeManager::InitializeAttributes(C_BaseEntity *)
+5	CAttributeManager::ApplyAttributeFloat(float,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+6	CAttributeManager::ApplyAttributeString(char const*,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+7	CAttributeManager::OnPreDataChanged(DataUpdateType_t)
+8	CAttributeManager::OnDataChanged(DataUpdateType_t)
+90	CAttributeManager::NetworkStateChanged_m_iReapplyProvisionParity(void)
+10	CAttributeManager::NetworkStateChanged_m_iReapplyProvisionParity(void *)
+11	CAttributeManager::NetworkStateChanged_m_hOuter(void)
+12	CAttributeManager::NetworkStateChanged_m_hOuter(void *)
+13	CAttributeManager::NetworkStateChanged_m_ProviderType(void)
+14	CAttributeManager::NetworkStateChanged_m_ProviderType(void *)
+15	CAttributeManager::OnAttributeValuesChanged(void)
+16	CAttributeManager::ApplyAttributeFloatWrapper(float,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+17	CAttributeManager::ApplyAttributeStringWrapper(char const*,C_BaseEntity *,char const*,CUtlVector<C_BaseEntity *,CUtlMemory<C_BaseEntity *,int>> *)
+

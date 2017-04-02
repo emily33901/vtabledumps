@@ -1,0 +1,45 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseHudWeaponSelection
+// Auto reconstructed from vtable block @ 0x01011B60
+// from "client.dylib", by ida_vtables.idc
+0	CBaseHudWeaponSelection::~CBaseHudWeaponSelection()
+1	CHudElement::FireGameEvent(IGameEvent *)
+2	CBaseHudWeaponSelection::Init(void)
+3	CBaseHudWeaponSelection::VidInit(void)
+4	CHudElement::LevelInit(void)
+5	CHudElement::LevelShutdown(void)
+6	CBaseHudWeaponSelection::Reset(void)
+7	CBaseHudWeaponSelection::ProcessInput(void)
+8	CHudElement::GetName(void)const
+90	CHudElement::ShouldDraw(void)
+10	CHudElement::IsActive(void)
+11	CHudElement::SetActive(bool)
+12	CHudElement::GetPreferredActionSet(void)
+13	CHudElement::SetHiddenBits(int)
+14	CHudElement::GetRenderGroupPriority(void)
+15	CBaseHudWeaponSelection::OnThink(void)
+16	CBaseHudWeaponSelection::OpenSelection(void)
+17	CBaseHudWeaponSelection::HideSelection(void)
+18	CBaseHudWeaponSelection::CancelWeaponSelection(void)
+19	___cxa_pure_virtual
+20	___cxa_pure_virtual
+21	CBaseHudWeaponSelection::SwitchToLastWeapon(void)
+22	___cxa_pure_virtual
+23	___cxa_pure_virtual
+24	CBaseHudWeaponSelection::GetFirstPos(int)
+25	CBaseHudWeaponSelection::GetNextActivePos(int,int)
+26	CBaseHudWeaponSelection::SetWeaponSelected(void)
+27	CBaseHudWeaponSelection::SelectWeapon(void)
+28	___cxa_pure_virtual
+29	CBaseHudWeaponSelection::OnWeaponPickup(C_BaseCombatWeapon *)
+30	CBaseHudWeaponSelection::IsInSelectionMode(void)
+31	CBaseHudWeaponSelection::SelectSlot(int)
+32	CBaseHudWeaponSelection::IsHudMenuTakingInput(void)
+33	CBaseHudWeaponSelection::IsHudMenuPreventingWeaponSelection(void)
+34	CBaseHudWeaponSelection::DrawWList(C_BasePlayer *,C_BaseCombatWeapon *,bool,int,int,int,int)
+35	CBaseHudWeaponSelection::ComputeRect(C_BasePlayer *,C_BaseCombatWeapon *,wrect_s *)
+36	CBaseHudWeaponSelection::KeyInput(int,ButtonCode_t,char const*)
+37	CBaseHudWeaponSelection::IsWeaponSelectable(void)
+

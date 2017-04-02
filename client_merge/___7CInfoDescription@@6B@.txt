@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInfoDescription
+// Auto reconstructed from vtable block @ 0x00E324B0
+// from "client.dylib", by ida_vtables.idc
+0	CInfoDescription::~CInfoDescription()
+1	CInfoDescription::WriteScriptHeader(void *)
+2	CInfoDescription::WriteFileHeader(void *)
+

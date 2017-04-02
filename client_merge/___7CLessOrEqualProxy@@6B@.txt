@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLessOrEqualProxy
+// Auto reconstructed from vtable block @ 0x00F12E50
+// from "client.dylib", by ida_vtables.idc
+0	CLessOrEqualProxy::Init(IMaterial *,KeyValues *)
+1	CLessOrEqualProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CLessOrEqualProxy::~CLessOrEqualProxy()
+

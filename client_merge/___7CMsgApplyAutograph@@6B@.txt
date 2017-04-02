@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgApplyAutograph
+// Auto reconstructed from vtable block @ 0x00E3D790
+// from "client.dylib", by ida_vtables.idc
+0	CMsgApplyAutograph::~CMsgApplyAutograph()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgApplyAutograph::New(void)const
+3	CMsgApplyAutograph::Clear(void)
+4	CMsgApplyAutograph::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgApplyAutograph::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgApplyAutograph::ByteSize(void)const
+90	CMsgApplyAutograph::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgApplyAutograph::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgApplyAutograph::GetCachedSize(void)const
+12	CMsgApplyAutograph::CopyFrom(google::protobuf::Message const&)
+13	CMsgApplyAutograph::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgApplyAutograph::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgApplyAutograph::GetMetadata(void)const
+

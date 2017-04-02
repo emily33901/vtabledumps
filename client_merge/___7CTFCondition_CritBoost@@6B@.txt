@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFCondition_CritBoost
+// Auto reconstructed from vtable block @ 0x00E4DB00
+// from "client.dylib", by ida_vtables.idc
+0	CTFCondition_CritBoost::~CTFCondition_CritBoost()
+1	CTFCondition::Add(float)
+2	CTFCondition_CritBoost::OnAdded(void)
+3	CTFCondition_CritBoost::OnRemoved(void)
+4	CTFCondition_CritBoost::OnThink(void)
+5	CTFCondition_CritBoost::OnServerThink(void)
+6	CTFCondition_CritBoost::IsHealable(void)
+7	CTFCondition_CritBoost::UsesMinDuration(void)
+

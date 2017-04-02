@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPrepareFileThread
+// Auto reconstructed from vtable block @ 0x010463A0
+// from "client.dylib", by ida_vtables.idc
+0	CPrepareFileThread::~CPrepareFileThread()
+1	CThread::Start(unsigned int)
+2	CThread::Init(void)
+3	CPrepareFileThread::Run(void)
+4	CThread::OnExit(void)
+5	CThread::GetThreadProc(void)
+6	CThread::IsThreadRunning(void)
+

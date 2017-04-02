@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::ClassNullRNG
+// Auto reconstructed from vtable block @ 0x010156A0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::ClassNullRNG::~ClassNullRNG()
+1	CryptoPP::Clonable::Clone(void)const
+2	CryptoPP::ClassNullRNG::AlgorithmName(void)const
+3	CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*,unsigned long)
+4	CryptoPP::RandomNumberGenerator::CanIncorporateEntropy(void)const
+5	CryptoPP::RandomNumberGenerator::GenerateByte(void)
+6	CryptoPP::RandomNumberGenerator::GenerateBit(void)
+7	CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int,unsigned int)
+8	CryptoPP::ClassNullRNG::GenerateBlock(unsigned char *,unsigned long)
+90	CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned long)
+10	CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation &,std::string const&,unsigned long long)
+

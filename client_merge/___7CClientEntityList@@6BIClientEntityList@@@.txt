@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientEntityList
+// Auto reconstructed from vtable block @ 0x00E99B80
+// from "client.dylib", by ida_vtables.idc
+0	CClientEntityList::OnAddEntity(IHandleEntity *,CBaseHandle)
+1	CClientEntityList::OnRemoveEntity(IHandleEntity *,CBaseHandle)
+2	CClientEntityList::~CClientEntityList()
+3	CClientEntityList::GetClientNetworkable(int)
+4	CClientEntityList::GetClientEntity(int)
+5	CClientEntityList::NumberOfEntities(bool)
+6	CClientEntityList::GetClientUnknownFromHandle(CBaseHandle)
+7	CClientEntityList::GetClientNetworkableFromHandle(CBaseHandle)
+8	CClientEntityList::GetClientEntityFromHandle(CBaseHandle)
+

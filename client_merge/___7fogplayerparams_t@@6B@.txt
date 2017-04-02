@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'fogplayerparams_t
+// Auto reconstructed from vtable block @ 0x01091C00
+// from "client.dylib", by ida_vtables.idc
+0	fogplayerparams_t::NetworkStateChanged(void)
+1	fogplayerparams_t::NetworkStateChanged(void *)
+

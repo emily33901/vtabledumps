@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'RealTimeCountdownTimer
+// Auto reconstructed from vtable block @ 0x0111CF70
+// from "client.dylib", by ida_vtables.idc
+0	RealTimeCountdownTimer::Now(void)const
+

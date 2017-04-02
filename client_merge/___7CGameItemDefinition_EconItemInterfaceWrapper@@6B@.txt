@@ -1,0 +1,30 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameItemDefinition_EconItemInterfaceWrapper
+// Auto reconstructed from vtable block @ 0x0104F060
+// from "client.dylib", by ida_vtables.idc
+0	CGameItemDefinition_EconItemInterfaceWrapper::~CGameItemDefinition_EconItemInterfaceWrapper()
+1	CGameItemDefinition_EconItemInterfaceWrapper::GetCustomPainkKitDefinition(void)const
+2	IEconItemInterface::GetCustomPaintKitWear(float &)const
+3	IEconItemInterface::IsTradable(void)const
+4	IEconItemInterface::GetUntradabilityFlags(void)const
+5	IEconItemInterface::IsCommodity(void)const
+6	IEconItemInterface::IsUsableInCrafting(void)const
+7	IEconItemInterface::IsMarketable(void)const
+8	CGameItemDefinition_EconItemInterfaceWrapper::GetItemDefinition(void)const
+90	CGameItemDefinition_EconItemInterfaceWrapper::GetID(void)const
+10	CGameItemDefinition_EconItemInterfaceWrapper::GetAccountID(void)const
+11	CGameItemDefinition_EconItemInterfaceWrapper::GetQuality(void)const
+12	CGameItemDefinition_EconItemInterfaceWrapper::GetStyle(void)const
+13	CGameItemDefinition_EconItemInterfaceWrapper::GetFlags(void)const
+14	CGameItemDefinition_EconItemInterfaceWrapper::GetOrigin(void)const
+15	CGameItemDefinition_EconItemInterfaceWrapper::GetQuantity(void)const
+16	CGameItemDefinition_EconItemInterfaceWrapper::GetItemLevel(void)const
+17	CGameItemDefinition_EconItemInterfaceWrapper::GetInUse(void)const
+18	CGameItemDefinition_EconItemInterfaceWrapper::GetCustomName(void)const
+19	CGameItemDefinition_EconItemInterfaceWrapper::GetCustomDesc(void)const
+20	CGameItemDefinition_EconItemInterfaceWrapper::IterateAttributes(IEconItemAttributeIterator *)const
+21	IEconItemInterface::GetItemDefIndex(void)const
+22	CMaterialOverrideContainer<IEconItemInterface>::GetMaterialOverride(int)
+

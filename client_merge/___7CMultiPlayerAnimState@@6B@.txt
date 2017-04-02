@@ -1,0 +1,40 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMultiPlayerAnimState
+// Auto reconstructed from vtable block @ 0x00E42120
+// from "client.dylib", by ida_vtables.idc
+0	CMultiPlayerAnimState::~CMultiPlayerAnimState()
+1	CMultiPlayerAnimState::ClearAnimationState(void)
+2	CMultiPlayerAnimState::DoAnimationEvent(PlayerAnimEvent_t,int)
+3	CMultiPlayerAnimState::CalcMainActivity(void)
+4	CMultiPlayerAnimState::Update(float,float)
+5	CMultiPlayerAnimState::Release(void)
+6	CMultiPlayerAnimState::TranslateActivity(Activity)
+7	CMultiPlayerAnimState::SetRunSpeed(float)
+8	CMultiPlayerAnimState::SetWalkSpeed(float)
+90	CMultiPlayerAnimState::SetSprintSpeed(float)
+10	CMultiPlayerAnimState::ShowDebugInfo(void)
+11	CMultiPlayerAnimState::DebugShowAnimState(int)
+12	CMultiPlayerAnimState::Init(C_BasePlayer *,MultiPlayerMovementData_t &)
+13	CMultiPlayerAnimState::SelectWeightedSequence(Activity)
+14	CMultiPlayerAnimState::RestartMainSequence(void)
+15	CMultiPlayerAnimState::GetOuterAbsVelocity(Vector &)
+16	CMultiPlayerAnimState::HandleJumping(Activity &)
+17	CMultiPlayerAnimState::HandleDucking(Activity &)
+18	CMultiPlayerAnimState::HandleMoving(Activity &)
+19	CMultiPlayerAnimState::HandleSwimming(Activity &)
+20	CMultiPlayerAnimState::HandleDying(Activity &)
+21	CMultiPlayerAnimState::RestartGesture(int,Activity,bool)
+22	CMultiPlayerAnimState::GetGesturePlaybackRate(void)
+23	CMultiPlayerAnimState::PlayFlinchGesture(Activity)
+24	CMultiPlayerAnimState::CalcMovementSpeed(bool *)
+25	CMultiPlayerAnimState::CalcMovementPlaybackRate(bool *)
+26	CMultiPlayerAnimState::ComputePoseParam_MoveYaw(CStudioHdr *)
+27	CMultiPlayerAnimState::ComputePoseParam_AimPitch(CStudioHdr *)
+28	CMultiPlayerAnimState::ComputePoseParam_AimYaw(CStudioHdr *)
+29	CMultiPlayerAnimState::EstimateYaw(void)
+30	CMultiPlayerAnimState::GetCurrentMaxGroundSpeed(void)
+31	CMultiPlayerAnimState::ComputeSequences(CStudioHdr *)
+32	CMultiPlayerAnimState::ShouldUpdateAnimState(void)
+

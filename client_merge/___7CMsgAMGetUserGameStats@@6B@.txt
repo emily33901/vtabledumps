@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgAMGetUserGameStats
+// Auto reconstructed from vtable block @ 0x00E96DB0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgAMGetUserGameStats::~CMsgAMGetUserGameStats()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgAMGetUserGameStats::New(void)const
+3	CMsgAMGetUserGameStats::Clear(void)
+4	CMsgAMGetUserGameStats::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgAMGetUserGameStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgAMGetUserGameStats::ByteSize(void)const
+90	CMsgAMGetUserGameStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgAMGetUserGameStats::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgAMGetUserGameStats::GetCachedSize(void)const
+12	CMsgAMGetUserGameStats::CopyFrom(google::protobuf::Message const&)
+13	CMsgAMGetUserGameStats::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgAMGetUserGameStats::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgAMGetUserGameStats::GetMetadata(void)const
+

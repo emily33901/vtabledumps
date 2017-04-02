@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBreakableSurfaceProxy
+// Auto reconstructed from vtable block @ 0x00EA5AC0
+// from "client.dylib", by ida_vtables.idc
+0	CBreakableSurfaceProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CBreakableSurfaceProxy::GetMaterial(void)
+4	CBreakableSurfaceProxy::~CBreakableSurfaceProxy()
+5	CBreakableSurfaceProxy::OnBind(C_BaseEntity *)
+

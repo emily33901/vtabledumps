@@ -1,0 +1,30 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFHudDeathNotice
+// Auto reconstructed from vtable block @ 0x00F64F40
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CTFHudDeathNotice
+1	CTFHudDeathNotice::~CTFHudDeathNotice()
+2	CTFHudDeathNotice::FireGameEvent(IGameEvent *)
+3	CTFHudDeathNotice::Init(void)
+4	CHudBaseDeathNotice::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CTFHudDeathNotice::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+16	CTFHudDeathNotice::GetMessageMap(void)
+17	CTFHudDeathNotice::GetAnimMap(void)
+18	CTFHudDeathNotice::GetKBMap(void)
+19	CHudBaseDeathNotice::Paint(void)
+20	CTFHudDeathNotice::ApplySchemeSettings(vgui::IScheme *)
+21	CTFHudDeathNotice::ShouldShowDeathNotice(IGameEvent *)
+22	CTFHudDeathNotice::GetTeamColor(int,bool)
+

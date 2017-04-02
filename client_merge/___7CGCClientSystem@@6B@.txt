@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCClientSystem
+// Auto reconstructed from vtable block @ 0x00E41FA0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CBaseGameSystemPerFrame::Init(void)
+2	CGCClientSystem::PostInit(void)
+3	CGCClientSystem::Shutdown(void)
+4	CGCClientSystem::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CGCClientSystem::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CGCClientSystem::~CGCClientSystem()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CGCClientSystem::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	CGCClientSystem::InitGC(void)
+18	CGCClientSystem::PreInitGC(void)
+19	CGCClientSystem::PostInitGC(void)
+20	CGCClientSystem::ReceivedClientWelcome(CMsgClientWelcome const&)
+21	CGCClientSystem::ReceivedClientGoodbye(CMsgClientGoodbye const&)
+

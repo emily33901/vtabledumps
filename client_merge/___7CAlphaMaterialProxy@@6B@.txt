@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAlphaMaterialProxy
+// Auto reconstructed from vtable block @ 0x00E996B0
+// from "client.dylib", by ida_vtables.idc
+0	CAlphaMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CAlphaMaterialProxy::GetMaterial(void)
+4	CAlphaMaterialProxy::~CAlphaMaterialProxy()
+5	CAlphaMaterialProxy::OnBind(C_BaseEntity *)
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription
+// Auto reconstructed from vtable block @ 0x00E3B560
+// from "client.dylib", by ida_vtables.idc
+0	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::~CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::New(void)const
+3	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::Clear(void)
+4	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::ByteSize(void)const
+90	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::GetCachedSize(void)const
+12	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::CopyFrom(google::protobuf::Message const&)
+13	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription::GetMetadata(void)const
+

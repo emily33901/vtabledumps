@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IDroppedWeaponAutoList
+// Auto reconstructed from vtable block @ 0x00E4DB50
+// from "client.dylib", by ida_vtables.idc
+0	IDroppedWeaponAutoList::~IDroppedWeaponAutoList()
+

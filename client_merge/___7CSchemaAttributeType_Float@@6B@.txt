@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSchemaAttributeType_Float
+// Auto reconstructed from vtable block @ 0x01050E30
+// from "client.dylib", by ida_vtables.idc
+0	CSchemaAttributeType_Float::~CSchemaAttributeType_Float()
+1	ISchemaAttributeTypeBase<float>::GetTypeUniqueIdentifier(void)const
+2	ISchemaAttributeTypeBase<float>::LoadEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+3	ISchemaAttributeTypeBase<float>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&,std::string *)const
+4	CSchemaAttributeType_Float::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*,char const*,attribute_data_union_t *,bool)const
+5	CSchemaAttributeType_Float::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*,attribute_data_union_t const&,std::string *)const
+6	ISchemaAttributeTypeBase<float>::LoadByteStreamToEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,std::string const&)const
+7	ISchemaAttributeTypeBase<float>::InitializeNewEconAttributeValue(attribute_data_union_t *)const
+8	ISchemaAttributeTypeBase<float>::UnloadEconAttributeValue(attribute_data_union_t *)const
+90	ISchemaAttributeTypeBase<float>::OnIterateAttributeValue(IEconItemAttributeIterator *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+10	CSchemaAttributeType_Float::BSupportsGameplayModificationAndNetworking(void)const
+11	CSchemaAttributeType_Float::ConvertTypedValueToByteStream(float const&,std::string *)const
+12	CSchemaAttributeType_Float::ConvertByteStreamToTypedValue(std::string const&,float *)const
+

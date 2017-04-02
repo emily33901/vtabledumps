@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IDecalEmitterSystem
+// Auto reconstructed from vtable block @ 0x0104DC90
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+

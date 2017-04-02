@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgLookupMultipleAccountNamesResponse_Account
+// Auto reconstructed from vtable block @ 0x00E3DEB0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgLookupMultipleAccountNamesResponse_Account::~CMsgLookupMultipleAccountNamesResponse_Account()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgLookupMultipleAccountNamesResponse_Account::New(void)const
+3	CMsgLookupMultipleAccountNamesResponse_Account::Clear(void)
+4	CMsgLookupMultipleAccountNamesResponse_Account::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgLookupMultipleAccountNamesResponse_Account::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgLookupMultipleAccountNamesResponse_Account::ByteSize(void)const
+90	CMsgLookupMultipleAccountNamesResponse_Account::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgLookupMultipleAccountNamesResponse_Account::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgLookupMultipleAccountNamesResponse_Account::GetCachedSize(void)const
+12	CMsgLookupMultipleAccountNamesResponse_Account::CopyFrom(google::protobuf::Message const&)
+13	CMsgLookupMultipleAccountNamesResponse_Account::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgLookupMultipleAccountNamesResponse_Account::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgLookupMultipleAccountNamesResponse_Account::GetMetadata(void)const
+

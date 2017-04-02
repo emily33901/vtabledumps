@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgConnectionStatus
+// Auto reconstructed from vtable block @ 0x01018A30
+// from "client.dylib", by ida_vtables.idc
+0	CMsgConnectionStatus::~CMsgConnectionStatus()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgConnectionStatus::New(void)const
+3	CMsgConnectionStatus::Clear(void)
+4	CMsgConnectionStatus::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgConnectionStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgConnectionStatus::ByteSize(void)const
+90	CMsgConnectionStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgConnectionStatus::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgConnectionStatus::GetCachedSize(void)const
+12	CMsgConnectionStatus::CopyFrom(google::protobuf::Message const&)
+13	CMsgConnectionStatus::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgConnectionStatus::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgConnectionStatus::GetMetadata(void)const
+

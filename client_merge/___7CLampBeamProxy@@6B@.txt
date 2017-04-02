@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLampBeamProxy
+// Auto reconstructed from vtable block @ 0x00F12B30
+// from "client.dylib", by ida_vtables.idc
+0	CLampBeamProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CLampBeamProxy::GetMaterial(void)
+4	CLampBeamProxy::~CLampBeamProxy()
+5	CLampBeamProxy::OnBind(C_BaseEntity *)
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgMatchmakingSearchCountRequest
+// Auto reconstructed from vtable block @ 0x00E52860
+// from "client.dylib", by ida_vtables.idc
+0	CMsgMatchmakingSearchCountRequest::~CMsgMatchmakingSearchCountRequest()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgMatchmakingSearchCountRequest::New(void)const
+3	CMsgMatchmakingSearchCountRequest::Clear(void)
+4	CMsgMatchmakingSearchCountRequest::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgMatchmakingSearchCountRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgMatchmakingSearchCountRequest::ByteSize(void)const
+90	CMsgMatchmakingSearchCountRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgMatchmakingSearchCountRequest::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgMatchmakingSearchCountRequest::GetCachedSize(void)const
+12	CMsgMatchmakingSearchCountRequest::CopyFrom(google::protobuf::Message const&)
+13	CMsgMatchmakingSearchCountRequest::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgMatchmakingSearchCountRequest::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgMatchmakingSearchCountRequest::GetMetadata(void)const
+

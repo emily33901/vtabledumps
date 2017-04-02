@@ -1,0 +1,30 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCollisionProperty
+// Auto reconstructed from vtable block @ 0x00E3C3C0
+// from "client.dylib", by ida_vtables.idc
+0	CCollisionProperty::GetEntityHandle(void)
+1	CCollisionProperty::OBBMinsPreScaled(void)const
+2	CCollisionProperty::OBBMaxsPreScaled(void)const
+3	CCollisionProperty::OBBMins(void)const
+4	CCollisionProperty::OBBMaxs(void)const
+5	CCollisionProperty::WorldSpaceTriggerBounds(Vector *,Vector *)const
+6	CCollisionProperty::TestCollision(Ray_t const&,unsigned int,CGameTrace &)
+7	CCollisionProperty::TestHitboxes(Ray_t const&,unsigned int,CGameTrace &)
+8	CCollisionProperty::GetCollisionModelIndex(void)
+9	CCollisionProperty::GetCollisionModel(void)
+10	CCollisionProperty::GetCollisionOrigin(void)const
+11	CCollisionProperty::GetCollisionAngles(void)const
+12	CCollisionProperty::CollisionToWorldTransform(void)const
+13	CCollisionProperty::GetSolid(void)const
+14	CCollisionProperty::GetSolidFlags(void)const
+15	CCollisionProperty::GetIClientUnknown(void)
+16	CCollisionProperty::GetCollisionGroup(void)const
+17	CCollisionProperty::WorldSpaceSurroundingBounds(Vector *,Vector *)
+18	CCollisionProperty::ShouldTouchTrigger(int)const
+19	CCollisionProperty::GetRootParentToWorldTransform(void)const
+20	CCollisionProperty::NetworkStateChanged(void)
+21	CCollisionProperty::NetworkStateChanged(void *)
+22	CCollisionProperty::GetPredDescMap(void)
+

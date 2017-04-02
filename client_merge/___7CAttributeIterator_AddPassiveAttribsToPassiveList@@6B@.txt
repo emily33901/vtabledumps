@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttributeIterator_AddPassiveAttribsToPassiveList
+// Auto reconstructed from vtable block @ 0x01115DA0
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeIterator_AddPassiveAttribsToPassiveList::~CAttributeIterator_AddPassiveAttribsToPassiveList()
+1	CAttributeIterator_AddPassiveAttribsToPassiveList::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned int)
+2	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,float)
+3	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned long long const&)
+4	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_String const&)
+5	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_DynamicRecipeComponent const&)
+6	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_ItemSlotCriteria const&)
+7	CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_WorldItemPlacement const&)
+

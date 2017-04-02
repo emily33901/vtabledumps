@@ -1,0 +1,25 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFItemSchema
+// Auto reconstructed from vtable block @ 0x00E55F30
+// from "client.dylib", by ida_vtables.idc
+0	CTFItemSchema::~CTFItemSchema()
+1	CEconItemSchema::BInit(char const*,char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+2	CEconItemSchema::GetRarityDefinitionCount(void)const
+3	CEconItemSchema::GetRarityName(unsigned char)
+4	CEconItemSchema::GetRarityLocKey(unsigned char)
+5	CEconItemSchema::GetRarityColor(unsigned char)
+6	CEconItemSchema::GetRarityIndex(char const*)
+7	CEconItemSchema::GetItemSeriesDefinitionCount(void)const
+8	CTFItemSchema::GetCustomExpirationDate(char const*)const
+90	CTFItemSchema::CreateEconItemDefinition(void)
+10	CTFItemSchema::CreateCraftingRecipeDefinition(void)
+11	CTFItemSchema::CreateEconStyleInfo(void)
+12	CTFItemSchema::CreateQuestDefinition(void)
+13	CTFItemSchema::CreateEconToolImpl(char const*,char const*,char const*,item_capabilities_t,KeyValues *)
+14	CTFItemSchema::BCanStrangeFilterApplyToStrangeSlotInItem(unsigned int,unsigned int,IEconItemInterface const*,int,unsigned int *)const
+15	CTFItemSchema::Reset(void)
+16	CTFItemSchema::BInitSchema(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+17	CTFItemSchema::CalculateNumberOfConcreteItems(CEconItemDefinition const*)
+

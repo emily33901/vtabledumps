@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSOCacheSubscriptionCheck
+// Auto reconstructed from vtable block @ 0x01018430
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSOCacheSubscriptionCheck::~CMsgSOCacheSubscriptionCheck()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSOCacheSubscriptionCheck::New(void)const
+3	CMsgSOCacheSubscriptionCheck::Clear(void)
+4	CMsgSOCacheSubscriptionCheck::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSOCacheSubscriptionCheck::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSOCacheSubscriptionCheck::ByteSize(void)const
+90	CMsgSOCacheSubscriptionCheck::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSOCacheSubscriptionCheck::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSOCacheSubscriptionCheck::GetCachedSize(void)const
+12	CMsgSOCacheSubscriptionCheck::CopyFrom(google::protobuf::Message const&)
+13	CMsgSOCacheSubscriptionCheck::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgSOCacheSubscriptionCheck::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgSOCacheSubscriptionCheck::GetMetadata(void)const
+

@@ -1,0 +1,39 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTempEnts
+// Auto reconstructed from vtable block @ 0x00EB7DC0
+// from "client.dylib", by ida_vtables.idc
+0	CTempEnts::~CTempEnts()
+1	CTempEnts::Init(void)
+2	CTempEnts::Shutdown(void)
+3	CTempEnts::LevelInit(void)
+4	CTempEnts::LevelShutdown(void)
+5	CTempEnts::Update(void)
+6	CTempEnts::Clear(void)
+7	CTempEnts::FindTempEntByID(int,int)
+8	CTempEnts::BloodSprite(Vector const&,int,int,int,int,int,int,float)
+90	CTempEnts::RicochetSprite(Vector const&,model_t *,float,float)
+10	CTempEnts::MuzzleFlash(int,CBaseHandle,int,bool)
+11	CTempEnts::MuzzleFlash(Vector const&,QAngle const&,int,CBaseHandle,bool)
+12	CTempEnts::EjectBrass(Vector const&,QAngle const&,QAngle const&,int)
+13	CTempEnts::SpawnTempModel(model_t const*,Vector const&,QAngle const&,Vector const&,float,int)
+14	CTempEnts::BreakModel(Vector const&,QAngle const&,Vector const&,Vector const&,float,float,int,int,char)
+15	CTempEnts::Bubbles(Vector const&,Vector const&,float,int,int,float)
+16	CTempEnts::BubbleTrail(Vector const&,Vector const&,float,int,int,float)
+17	CTempEnts::Sprite_Explode(C_LocalTempEntity *,float,int)
+18	CTempEnts::FizzEffect(C_BaseEntity *,int,int,int)
+19	CTempEnts::DefaultSprite(Vector const&,int,float)
+20	CTempEnts::Sprite_Smoke(C_LocalTempEntity *,float)
+21	CTempEnts::TempSprite(Vector const&,Vector const&,float,int,int,int,float,float,int,Vector const&)
+22	CTempEnts::AttachTentToPlayer(int,int,float,float)
+23	CTempEnts::KillAttachedTents(int)
+24	CTempEnts::Sprite_Spray(Vector const&,Vector const&,int,int,int,int)
+25	CTempEnts::Sprite_Trail(Vector const&,Vector const&,int,int,float,float,float,int,float)
+26	CTempEnts::RocketFlare(Vector const&)
+27	CTempEnts::HL1EjectBrass(Vector const&,QAngle const&,Vector const&,int)
+28	CTempEnts::CSEjectBrass(Vector const&,QAngle const&,int,int,C_BasePlayer *)
+29	CTempEnts::PlaySound(C_LocalTempEntity *,float)
+30	CTempEnts::PhysicsProp(int,int,Vector const&,QAngle const&,Vector const&,int,int)
+31	CTempEnts::ClientProjectile(Vector const&,Vector const&,Vector const&,int,int,C_BaseEntity *,char const*,char const*)
+

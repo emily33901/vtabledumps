@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CInterpolatedVar<float>
+// Auto reconstructed from vtable block @ 0x01054BF0
+// from "client.dylib", by ida_vtables.idc
+0	CInterpolatedVar<float>::~CInterpolatedVar()
+1	CInterpolatedVarArrayBase<float,false>::Setup(void *,int)
+2	CInterpolatedVarArrayBase<float,false>::SetInterpolationAmount(float)
+3	CInterpolatedVarArrayBase<float,false>::NoteLastNetworkedValue(void)
+4	CInterpolatedVarArrayBase<float,false>::NoteChanged(float,bool)
+5	CInterpolatedVarArrayBase<float,false>::Reset(void)
+6	CInterpolatedVarArrayBase<float,false>::Interpolate(float)
+7	CInterpolatedVarArrayBase<float,false>::GetType(void)const
+8	CInterpolatedVarArrayBase<float,false>::RestoreToLastNetworked(void)
+90	CInterpolatedVarArrayBase<float,false>::Copy(IInterpolatedVar *)
+10	CInterpolatedVarArrayBase<float,false>::GetDebugName(void)
+11	CInterpolatedVarArrayBase<float,false>::SetDebugName(char const*)
+12	CInterpolatedVarArrayBase<float,false>::SetDebug(bool)
+

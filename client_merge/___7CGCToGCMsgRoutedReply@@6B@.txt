@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCToGCMsgRoutedReply
+// Auto reconstructed from vtable block @ 0x01018790
+// from "client.dylib", by ida_vtables.idc
+0	CGCToGCMsgRoutedReply::~CGCToGCMsgRoutedReply()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CGCToGCMsgRoutedReply::New(void)const
+3	CGCToGCMsgRoutedReply::Clear(void)
+4	CGCToGCMsgRoutedReply::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CGCToGCMsgRoutedReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CGCToGCMsgRoutedReply::ByteSize(void)const
+90	CGCToGCMsgRoutedReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CGCToGCMsgRoutedReply::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CGCToGCMsgRoutedReply::GetCachedSize(void)const
+12	CGCToGCMsgRoutedReply::CopyFrom(google::protobuf::Message const&)
+13	CGCToGCMsgRoutedReply::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CGCToGCMsgRoutedReply::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CGCToGCMsgRoutedReply::GetMetadata(void)const
+

@@ -1,0 +1,27 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudUpgradePanel
+// Auto reconstructed from vtable block @ 0x00F46ED0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudUpgradePanel
+1	CHudUpgradePanel::~CHudUpgradePanel()
+2	CHudUpgradePanel::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudUpgradePanel::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudUpgradePanel::SetActive(bool)
+13	CHudUpgradePanel::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudUpgradePanel::GetRenderGroupPriority(void)
+16	CHudUpgradePanel::GetMessageMap(void)
+17	CHudUpgradePanel::GetAnimMap(void)
+18	CHudUpgradePanel::GetKBMap(void)
+19	CHudUpgradePanel::ApplySchemeSettings(vgui::IScheme *)
+

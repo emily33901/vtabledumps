@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFPrediction
+// Auto reconstructed from vtable block @ 0x00FADD50
+// from "client.dylib", by ida_vtables.idc
+0	CTFPrediction::~CTFPrediction()
+1	CPrediction::Init(void)
+2	CPrediction::Shutdown(void)
+3	CPrediction::Update(int,bool,int,int)
+4	CPrediction::PreEntityPacketReceived(int,int)
+5	CPrediction::PostEntityPacketReceived(void)
+6	CPrediction::PostNetworkDataReceived(int)
+7	CPrediction::OnReceivedUncompressedPacket(void)
+8	CPrediction::GetViewOrigin(Vector &)
+90	CPrediction::SetViewOrigin(Vector &)
+10	CPrediction::GetViewAngles(QAngle &)
+11	CPrediction::SetViewAngles(QAngle &)
+12	CPrediction::GetLocalViewAngles(QAngle &)
+13	CPrediction::SetLocalViewAngles(QAngle &)
+14	CPrediction::InPrediction(void)const
+15	CPrediction::IsFirstTimePredicted(void)const
+16	CPrediction::GetIncomingPacketNumber(void)const
+17	CPrediction::RunCommand(C_BasePlayer *,CUserCmd *,IMoveHelper *)
+18	CTFPrediction::SetupMove(C_BasePlayer *,CUserCmd *,IMoveHelper *,CMoveData *)
+19	CTFPrediction::FinishMove(C_BasePlayer *,CUserCmd *,CMoveData *)
+20	CPrediction::SetIdealPitch(C_BasePlayer *,Vector const&,QAngle const&,Vector const&)
+21	CPrediction::_Update(bool,bool,int,int)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFlashlightEffect
+// Auto reconstructed from vtable block @ 0x00EF2A30
+// from "client.dylib", by ida_vtables.idc
+0	CFlashlightEffect::~CFlashlightEffect()
+1	CFlashlightEffect::UpdateLight(Vector const&,Vector const&,Vector const&,Vector const&,int)
+

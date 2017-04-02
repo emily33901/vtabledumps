@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSOItemRecipe
+// Auto reconstructed from vtable block @ 0x00E39DC0
+// from "client.dylib", by ida_vtables.idc
+0	CSOItemRecipe::~CSOItemRecipe()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CSOItemRecipe::New(void)const
+3	CSOItemRecipe::Clear(void)
+4	CSOItemRecipe::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CSOItemRecipe::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CSOItemRecipe::ByteSize(void)const
+90	CSOItemRecipe::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CSOItemRecipe::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CSOItemRecipe::GetCachedSize(void)const
+12	CSOItemRecipe::CopyFrom(google::protobuf::Message const&)
+13	CSOItemRecipe::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CSOItemRecipe::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CSOItemRecipe::GetMetadata(void)const
+

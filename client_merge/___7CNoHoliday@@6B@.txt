@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNoHoliday
+// Auto reconstructed from vtable block @ 0x0104EB60
+// from "client.dylib", by ida_vtables.idc
+0	CNoHoliday::~CNoHoliday()
+1	CNoHoliday::IsActive(CRTime const&)
+

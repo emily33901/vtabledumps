@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CViewModelInvisProxy
+// Auto reconstructed from vtable block @ 0x00E5E3D0
+// from "client.dylib", by ida_vtables.idc
+0	CViewModelInvisProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CViewModelInvisProxy::GetMaterial(void)
+4	CViewModelInvisProxy::~CViewModelInvisProxy()
+5	CViewModelInvisProxy::OnBind(C_BaseEntity *)
+

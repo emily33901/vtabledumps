@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDescription
+// Auto reconstructed from vtable block @ 0x00E32490
+// from "client.dylib", by ida_vtables.idc
+0	CDescription::~CDescription()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+

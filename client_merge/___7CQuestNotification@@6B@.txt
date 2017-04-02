@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CQuestNotification
+// Auto reconstructed from vtable block @ 0x00FC8E70
+// from "client.dylib", by ida_vtables.idc
+0	CQuestNotification::~CQuestNotification()
+1	CQuestNotification::Present(CQuestNotificationPanel *)
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+

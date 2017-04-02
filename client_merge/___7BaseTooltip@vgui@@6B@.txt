@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'vgui::BaseTooltip
+// Auto reconstructed from vtable block @ 0x01040160
+// from "client.dylib", by ida_vtables.idc
+0	vgui::BaseTooltip::SetText(char const*)
+1	vgui::BaseTooltip::GetText(void)
+2	vgui::BaseTooltip::ShowTooltip(vgui::Panel *)
+3	vgui::BaseTooltip::HideTooltip(void)
+4	vgui::BaseTooltip::PerformLayout(void)
+5	vgui::BaseTooltip::PositionWindow(vgui::Panel *)
+6	vgui::BaseTooltip::ApplySchemeSettings(vgui::IScheme *)
+

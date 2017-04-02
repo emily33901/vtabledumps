@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCLeaveGameAndPrepareToJoinPartyJob
+// Auto reconstructed from vtable block @ 0x01046580
+// from "client.dylib", by ida_vtables.idc
+0	CGCLeaveGameAndPrepareToJoinPartyJob::~CGCLeaveGameAndPrepareToJoinPartyJob()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	CGCLeaveGameAndPrepareToJoinPartyJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

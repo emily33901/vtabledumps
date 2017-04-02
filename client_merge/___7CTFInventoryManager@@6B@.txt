@@ -1,0 +1,45 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFInventoryManager
+// Auto reconstructed from vtable block @ 0x00E55710
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CInventoryManager::Init(void)
+2	CTFInventoryManager::PostInit(void)
+3	CInventoryManager::Shutdown(void)
+4	CInventoryManager::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CInventoryManager::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CTFInventoryManager::~CTFInventoryManager()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CTFInventoryManager::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	CInventoryManager::GetInventoryForAccount(unsigned int)
+18	CTFInventoryManager::AddBaseItemCriteria(baseitemcriteria_t *,CItemSelectionCriteria *)
+19	CTFInventoryManager::EquipItemInLoadout(int,int,unsigned long long)
+20	CTFInventoryManager::GeneratePlayerInventoryObject(void)const
+21	CInventoryManager::UpdateLocalInventory(void)
+22	CTFInventoryManager::GetLocalInventory(void)
+23	CInventoryManager::PersonaName_Precache(unsigned int)
+24	CInventoryManager::PersonaName_Get(unsigned int)
+25	CInventoryManager::PersonaName_Store(unsigned int,char const*)
+26	CInventoryManager::GetItemByBackpackPosition(int)
+27	CInventoryManager::MoveItemToBackpackPosition(C_EconItemView *,int)
+28	CInventoryManager::SetItemBackpackPosition(C_EconItemView *,unsigned int,bool,bool)
+29	CInventoryManager::SortBackpackBy(unsigned int)
+30	CInventoryManager::UpdateInventoryPosition(CPlayerInventory *,unsigned long long,unsigned int)
+31	CInventoryManager::UpdateInventoryEquippedState(CPlayerInventory *,unsigned long long,unsigned short,unsigned short)
+32	CTFInventoryManager::GetNumItemPickedUpItems(void)
+33	CTFInventoryManager::ShowItemsPickedUp(bool,bool,bool)
+34	CTFInventoryManager::ShowItemsCrafted(CUtlVector<unsigned long long,CUtlMemory<unsigned long long,int>> *)
+35	CTFInventoryManager::CheckForRoomAndForceDiscard(void)
+36	CTFInventoryManager::AcknowledgeItem(C_EconItemView *,bool)
+37	CTFInventoryManager::GetBackpackPositionFromBackend(unsigned int)
+

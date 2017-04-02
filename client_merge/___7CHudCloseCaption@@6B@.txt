@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudCloseCaption
+// Auto reconstructed from vtable block @ 0x00F0A4C0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudCloseCaption
+1	CHudCloseCaption::~CHudCloseCaption()
+2	CHudElement::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudCloseCaption::LevelInit(void)
+6	CHudCloseCaption::LevelShutdown(void)
+7	CHudCloseCaption::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudElement::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+

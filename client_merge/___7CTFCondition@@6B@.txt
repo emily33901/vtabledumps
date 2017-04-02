@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFCondition
+// Auto reconstructed from vtable block @ 0x00E4DAD0
+// from "client.dylib", by ida_vtables.idc
+0	CTFCondition::~CTFCondition()
+1	CTFCondition::Add(float)
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	CTFCondition::IsHealable(void)
+7	CTFCondition::UsesMinDuration(void)
+

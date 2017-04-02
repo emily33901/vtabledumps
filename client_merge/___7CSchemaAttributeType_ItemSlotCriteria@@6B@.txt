@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSchemaAttributeType_ItemSlotCriteria
+// Auto reconstructed from vtable block @ 0x01050AD0
+// from "client.dylib", by ida_vtables.idc
+0	CSchemaAttributeType_ItemSlotCriteria::~CSchemaAttributeType_ItemSlotCriteria()
+1	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::GetTypeUniqueIdentifier(void)const
+2	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::LoadEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+3	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&,std::string *)const
+4	CSchemaAttributeType_ItemSlotCriteria::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*,char const*,attribute_data_union_t *,bool)const
+5	CSchemaAttributeType_ItemSlotCriteria::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*,attribute_data_union_t const&,std::string *)const
+6	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::LoadByteStreamToEconAttributeValue(CEconItem *,CEconItemAttributeDefinition const*,std::string const&)const
+7	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::InitializeNewEconAttributeValue(attribute_data_union_t *)const
+8	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::UnloadEconAttributeValue(attribute_data_union_t *)const
+90	ISchemaAttributeTypeBase<CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(IEconItemAttributeIterator *,CEconItemAttributeDefinition const*,attribute_data_union_t const&)const
+10	ISchemaAttributeType::BSupportsGameplayModificationAndNetworking(void)const
+11	CSchemaAttributeTypeProtobufBase<CAttribute_ItemSlotCriteria>::ConvertTypedValueToByteStream(CAttribute_ItemSlotCriteria const&,std::string *)const
+12	CSchemaAttributeTypeProtobufBase<CAttribute_ItemSlotCriteria>::ConvertByteStreamToTypedValue(std::string const&,CAttribute_ItemSlotCriteria*)const
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRagdollAnimatedFriction
+// Auto reconstructed from vtable block @ 0x010560C4
+// from "client.dylib", by ida_vtables.idc
+0	CRagdollAnimatedFriction::ParseKeyValue(void *,char const*,char const*)
+1	CRagdollAnimatedFriction::SetDefaults(void *)
+

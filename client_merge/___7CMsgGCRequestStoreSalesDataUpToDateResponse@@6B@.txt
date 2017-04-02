@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCRequestStoreSalesDataUpToDateResponse
+// Auto reconstructed from vtable block @ 0x00E3DBB0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCRequestStoreSalesDataUpToDateResponse::~CMsgGCRequestStoreSalesDataUpToDateResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCRequestStoreSalesDataUpToDateResponse::New(void)const
+3	CMsgGCRequestStoreSalesDataUpToDateResponse::Clear(void)
+4	CMsgGCRequestStoreSalesDataUpToDateResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCRequestStoreSalesDataUpToDateResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCRequestStoreSalesDataUpToDateResponse::ByteSize(void)const
+90	CMsgGCRequestStoreSalesDataUpToDateResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCRequestStoreSalesDataUpToDateResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCRequestStoreSalesDataUpToDateResponse::GetCachedSize(void)const
+12	CMsgGCRequestStoreSalesDataUpToDateResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCRequestStoreSalesDataUpToDateResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCRequestStoreSalesDataUpToDateResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCRequestStoreSalesDataUpToDateResponse::GetMetadata(void)const
+

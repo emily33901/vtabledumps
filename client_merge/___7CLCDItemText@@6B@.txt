@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLCDItemText
+// Auto reconstructed from vtable block @ 0x00F0FC10
+// from "client.dylib", by ida_vtables.idc
+0	CLCDItemText::~CLCDItemText()
+1	CLCDItemText::Create(IG15 *)
+2	CLCDItem::Wipe(IG15 *)
+

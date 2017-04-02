@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::io::ArrayOutputStream
+// Auto reconstructed from vtable block @ 0x010191E0
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::io::ArrayOutputStream::~ArrayOutputStream()
+1	google::protobuf::io::ArrayOutputStream::Next(void **,int *)
+2	google::protobuf::io::ArrayOutputStream::BackUp(int)
+3	google::protobuf::io::ArrayOutputStream::ByteCount(void)const
+

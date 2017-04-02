@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgHalloween_Merasmus2012
+// Auto reconstructed from vtable block @ 0x00E53460
+// from "client.dylib", by ida_vtables.idc
+0	CMsgHalloween_Merasmus2012::~CMsgHalloween_Merasmus2012()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgHalloween_Merasmus2012::New(void)const
+3	CMsgHalloween_Merasmus2012::Clear(void)
+4	CMsgHalloween_Merasmus2012::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgHalloween_Merasmus2012::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgHalloween_Merasmus2012::ByteSize(void)const
+90	CMsgHalloween_Merasmus2012::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgHalloween_Merasmus2012::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgHalloween_Merasmus2012::GetCachedSize(void)const
+12	CMsgHalloween_Merasmus2012::CopyFrom(google::protobuf::Message const&)
+13	CMsgHalloween_Merasmus2012::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgHalloween_Merasmus2012::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgHalloween_Merasmus2012::GetMetadata(void)const
+

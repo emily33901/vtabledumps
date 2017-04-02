@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttributeList
+// Auto reconstructed from vtable block @ 0x00E3F480
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeList::NetworkStateChanged(void)
+1	CAttributeList::NetworkStateChanged(void *)
+2	CAttributeList::GetDataDescMap(void)
+

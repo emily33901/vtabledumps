@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT
+// Auto reconstructed from vtable block @ 0x01015980
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::~MultiplicativeGroupT()
+1	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Equal(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+2	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Identity(void)const
+3	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Add(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+

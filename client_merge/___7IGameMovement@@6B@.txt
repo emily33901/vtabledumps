@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameMovement
+// Auto reconstructed from vtable block @ 0x00E41820
+// from "client.dylib", by ida_vtables.idc
+0	CGameMovement::~CGameMovement()
+1	CGameMovement::ProcessMovement(C_BasePlayer *,CMoveData *)
+2	CGameMovement::StartTrackPredictionErrors(C_BasePlayer *)
+3	CGameMovement::FinishTrackPredictionErrors(C_BasePlayer *)
+4	CGameMovement::DiffPrint(char const*,...)
+5	CGameMovement::GetPlayerMins(bool)const
+6	CGameMovement::GetPlayerMaxs(bool)const
+7	CGameMovement::GetPlayerViewOffset(bool)const
+8	CGameMovement::TracePlayerBBox(Vector const&,Vector const&,unsigned int,int,CGameTrace &)
+

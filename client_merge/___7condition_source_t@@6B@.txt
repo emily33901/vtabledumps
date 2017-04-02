@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'condition_source_t
+// Auto reconstructed from vtable block @ 0x0107C914
+// from "client.dylib", by ida_vtables.idc
+0	condition_source_t::NetworkStateChanged(void)
+1	condition_source_t::NetworkStateChanged(void *)
+

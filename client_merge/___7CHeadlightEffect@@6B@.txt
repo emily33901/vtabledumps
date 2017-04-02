@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHeadlightEffect
+// Auto reconstructed from vtable block @ 0x00EF2A50
+// from "client.dylib", by ida_vtables.idc
+0	CHeadlightEffect::~CHeadlightEffect()
+1	CHeadlightEffect::UpdateLight(Vector const&,Vector const&,Vector const&,Vector const&,int)
+

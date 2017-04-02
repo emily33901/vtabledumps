@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_RopeKeyframe::CPhysicsDelegate
+// Auto reconstructed from vtable block @ 0x00EAFC04
+// from "client.dylib", by ida_vtables.idc
+0	C_RopeKeyframe::CPhysicsDelegate::GetNodeForces(CSimplePhysics::CNode *,int,Vector *)
+1	C_RopeKeyframe::CPhysicsDelegate::ApplyConstraints(CSimplePhysics::CNode *,int)
+

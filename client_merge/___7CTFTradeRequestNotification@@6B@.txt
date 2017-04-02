@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFTradeRequestNotification
+// Auto reconstructed from vtable block @ 0x010A77F0
+// from "client.dylib", by ida_vtables.idc
+0	CTFTradeRequestNotification::~CTFTradeRequestNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEconNotification::BShowInGameElements(void)const
+5	CEconNotification::MarkForDeletion(void)
+6	CTFTradeRequestNotification::CanBeTriggered(void)
+7	CTFTradeRequestNotification::Trigger(void)
+8	CTFTradeRequestNotification::CanBeAcceptedOrDeclined(void)
+90	CTFTradeRequestNotification::Accept(void)
+10	CTFTradeRequestNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

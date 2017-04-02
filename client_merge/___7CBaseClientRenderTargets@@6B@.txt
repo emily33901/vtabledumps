@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseClientRenderTargets
+// Auto reconstructed from vtable block @ 0x00E99830
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	CBaseClientRenderTargets::ShutdownClientRenderTargets(void)
+2	CBaseClientRenderTargets::InitClientRenderTargets(IMaterialSystem *,IMaterialSystemHardwareConfig *,int,int)
+

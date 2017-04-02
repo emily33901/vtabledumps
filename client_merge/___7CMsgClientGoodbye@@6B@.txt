@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgClientGoodbye
+// Auto reconstructed from vtable block @ 0x00E39940
+// from "client.dylib", by ida_vtables.idc
+0	CMsgClientGoodbye::~CMsgClientGoodbye()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgClientGoodbye::New(void)const
+3	CMsgClientGoodbye::Clear(void)
+4	CMsgClientGoodbye::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgClientGoodbye::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgClientGoodbye::ByteSize(void)const
+90	CMsgClientGoodbye::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgClientGoodbye::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgClientGoodbye::GetCachedSize(void)const
+12	CMsgClientGoodbye::CopyFrom(google::protobuf::Message const&)
+13	CMsgClientGoodbye::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgClientGoodbye::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgClientGoodbye::GetMetadata(void)const
+

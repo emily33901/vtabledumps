@@ -1,0 +1,79 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_TFDroppedWeapon::NetworkVar_m_Item
+// Auto reconstructed from vtable block @ 0x010773C0
+// from "client.dylib", by ida_vtables.idc
+0	C_TFDroppedWeapon::NetworkVar_m_Item::~NetworkVar_m_Item()
+1	CDefaultClientRenderable::SetRefEHandle(CBaseHandle const&)
+2	CDefaultClientRenderable::GetRefEHandle(void)const
+3	CDefaultClientRenderable::GetCollideable(void)
+4	CDefaultClientRenderable::GetClientNetworkable(void)
+5	CDefaultClientRenderable::GetClientRenderable(void)
+6	CDefaultClientRenderable::GetIClientEntity(void)
+7	CDefaultClientRenderable::GetBaseEntity(void)
+8	CDefaultClientRenderable::GetClientThinkable(void)
+90	C_EconItemView::GetRenderOrigin(void)
+10	C_EconItemView::GetRenderAngles(void)
+11	C_EconItemView::RenderableToWorldTransform(void)
+12	C_EconItemView::ShouldDraw(void)
+13	C_EconItemView::IsTransparent(void)
+14	CDefaultClientRenderable::IsTwoPass(void)
+15	CDefaultClientRenderable::OnThreadedDrawSetup(void)
+16	CDefaultClientRenderable::UsesPowerOfTwoFrameBufferTexture(void)
+17	CDefaultClientRenderable::UsesFullFrameBufferTexture(void)
+18	CDefaultClientRenderable::GetShadowHandle(void)const
+19	CDefaultClientRenderable::RenderHandle(void)
+20	CDefaultClientRenderable::GetBody(void)
+21	CDefaultClientRenderable::GetSkin(void)
+22	CDefaultClientRenderable::UsesFlexDelayedWeights(void)
+23	CDefaultClientRenderable::GetModel(void)const
+24	CDefaultClientRenderable::DrawModel(int)
+25	CDefaultClientRenderable::ComputeFxBlend(void)
+26	CDefaultClientRenderable::GetFxBlend(void)
+27	CDefaultClientRenderable::LODTest(void)
+28	CDefaultClientRenderable::SetupBones(matrix3x4_t *,int,int,float)
+29	CDefaultClientRenderable::SetupWeights(matrix3x4_t const*,int,float *,float *)
+30	CDefaultClientRenderable::DoAnimationEvents(void)
+31	CDefaultClientRenderable::GetPVSNotifyInterface(void)
+32	CDefaultClientRenderable::GetRenderBoundsWorldspace(Vector &,Vector &)
+33	CDefaultClientRenderable::GetColorModulation(float *)
+34	CDefaultClientRenderable::ShouldReceiveProjectedTextures(int)
+35	CDefaultClientRenderable::GetShadowCastDistance(float *,ShadowType_t)const
+36	CDefaultClientRenderable::GetShadowCastDirection(Vector *,ShadowType_t)const
+37	CDefaultClientRenderable::GetShadowRenderBounds(Vector &,Vector &,ShadowType_t)
+38	CDefaultClientRenderable::IsShadowDirty(void)
+39	CDefaultClientRenderable::MarkShadowDirty(bool)
+40	CDefaultClientRenderable::GetShadowParent(void)
+41	CDefaultClientRenderable::FirstShadowChild(void)
+42	CDefaultClientRenderable::NextShadowPeer(void)
+43	CDefaultClientRenderable::ShadowCastType(void)
+44	CDefaultClientRenderable::CreateModelInstance(void)
+45	CDefaultClientRenderable::GetModelInstance(void)
+46	CDefaultClientRenderable::LookupAttachment(char const*)
+47	CDefaultClientRenderable::GetAttachment(int,Vector &,QAngle &)
+48	CDefaultClientRenderable::GetAttachment(int,matrix3x4_t &)
+49	CDefaultClientRenderable::GetRenderClipPlane(void)
+50	CDefaultClientRenderable::RecordToolMessage(void)
+51	CDefaultClientRenderable::IgnoresZBuffer(void)const
+52	CDefaultClientRenderable::GetIClientUnknown(void)
+53	C_TFDroppedWeapon::NetworkVar_m_Item::NetworkStateChanged(void)
+54	C_TFDroppedWeapon::NetworkVar_m_Item::NetworkStateChanged(void *)
+55	C_EconItemView::GetDataDescMap(void)
+56	C_EconItemView::GetItemDefinition(void)const
+57	C_EconItemView::GetID(void)const
+58	C_EconItemView::GetQuality(void)const
+59	C_EconItemView::GetStyle(void)const
+60	C_EconItemView::GetFlags(void)const
+61	C_EconItemView::GetOrigin(void)const
+62	C_EconItemView::GetQuantity(void)const
+63	C_EconItemView::GetCustomName(void)const
+64	C_EconItemView::GetCustomDesc(void)const
+65	C_EconItemView::GetInUse(void)const
+66	C_EconItemView::IterateAttributes(IEconItemAttributeIterator *)const
+67	C_EconItemView::GetItemDefIndex(void)const
+68	C_EconItemView::GetItemLevel(void)const
+69	C_EconItemView::GetAccountID(void)const
+70	C_EconItemView::GetCustomPainkKitDefinition(void)const
+71	C_EconItemView::GetRenderBounds(Vector &,Vector &)
+

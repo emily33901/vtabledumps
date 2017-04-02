@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttributeLineItemLootList
+// Auto reconstructed from vtable block @ 0x00E3ED10
+// from "client.dylib", by ida_vtables.idc
+0	CAttributeLineItemLootList::~CAttributeLineItemLootList()
+1	CAttributeLineItemLootList::BPublicListContents(void)const
+2	CAttributeLineItemLootList::GetLootListHeaderLocalizationKey(void)const
+3	CAttributeLineItemLootList::GetLootListFooterLocalizationKey(void)const
+4	CAttributeLineItemLootList::GetLootListCollectionReference(void)const
+5	CAttributeLineItemLootList::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator *)const
+

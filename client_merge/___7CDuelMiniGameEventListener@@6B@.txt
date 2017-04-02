@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDuelMiniGameEventListener
+// Auto reconstructed from vtable block @ 0x010E6DC0
+// from "client.dylib", by ida_vtables.idc
+0	CDuelMiniGameEventListener::~CDuelMiniGameEventListener()
+1	CDuelMiniGameEventListener::FireGameEvent(IGameEvent *)
+

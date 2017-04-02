@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPupilProxy
+// Auto reconstructed from vtable block @ 0x00F15990
+// from "client.dylib", by ida_vtables.idc
+0	CPupilProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CPupilProxy::GetMaterial(void)
+4	CPupilProxy::~CPupilProxy()
+5	CPupilProxy::OnBind(C_BaseEntity *)
+

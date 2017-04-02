@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgApplyToolToBaseItem
+// Auto reconstructed from vtable block @ 0x00E3B2C0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgApplyToolToBaseItem::~CMsgApplyToolToBaseItem()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgApplyToolToBaseItem::New(void)const
+3	CMsgApplyToolToBaseItem::Clear(void)
+4	CMsgApplyToolToBaseItem::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgApplyToolToBaseItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgApplyToolToBaseItem::ByteSize(void)const
+90	CMsgApplyToolToBaseItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgApplyToolToBaseItem::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgApplyToolToBaseItem::GetCachedSize(void)const
+12	CMsgApplyToolToBaseItem::CopyFrom(google::protobuf::Message const&)
+13	CMsgApplyToolToBaseItem::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgApplyToolToBaseItem::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgApplyToolToBaseItem::GetMetadata(void)const
+

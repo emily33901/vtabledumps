@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScreenSpaceEffectManager
+// Auto reconstructed from vtable block @ 0x00F32300
+// from "client.dylib", by ida_vtables.idc
+0	CScreenSpaceEffectManager::InitScreenSpaceEffects(void)
+1	CScreenSpaceEffectManager::ShutdownScreenSpaceEffects(void)
+2	CScreenSpaceEffectManager::GetScreenSpaceEffect(char const*)
+3	CScreenSpaceEffectManager::SetScreenSpaceEffectParams(char const*,KeyValues *)
+4	CScreenSpaceEffectManager::SetScreenSpaceEffectParams(IScreenSpaceEffect *,KeyValues *)
+5	CScreenSpaceEffectManager::EnableScreenSpaceEffect(char const*)
+6	CScreenSpaceEffectManager::EnableScreenSpaceEffect(IScreenSpaceEffect *)
+7	CScreenSpaceEffectManager::DisableScreenSpaceEffect(char const*)
+8	CScreenSpaceEffectManager::DisableScreenSpaceEffect(IScreenSpaceEffect *)
+9	CScreenSpaceEffectManager::DisableAllScreenSpaceEffects(void)
+10	CScreenSpaceEffectManager::RenderEffects(int,int,int,int)
+

@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSoundControllerImp
+// Auto reconstructed from vtable block @ 0x00E42C60
+// from "client.dylib", by ida_vtables.idc
+0	CSoundControllerImp::SystemReset(void)
+1	CSoundControllerImp::SystemUpdate(void)
+2	CSoundControllerImp::Play(CSoundPatch *,float,float,float)
+3	CSoundControllerImp::CommandAdd(CSoundPatch *,float,soundcommands_t,float,float)
+4	CSoundControllerImp::CommandClear(CSoundPatch *)
+5	CSoundControllerImp::Shutdown(CSoundPatch *)
+6	CSoundControllerImp::SoundCreate(IRecipientFilter &,int,char const*)
+7	CSoundControllerImp::SoundCreate(IRecipientFilter &,int,int,char const*,float)
+8	CSoundControllerImp::SoundCreate(IRecipientFilter &,int,int,char const*,soundlevel_t)
+9	CSoundControllerImp::SoundCreate(IRecipientFilter &,int,EmitSound_t const&)
+10	CSoundControllerImp::SoundDestroy(CSoundPatch *)
+11	CSoundControllerImp::SoundChangePitch(CSoundPatch *,float,float)
+12	CSoundControllerImp::SoundChangeVolume(CSoundPatch *,float,float)
+13	CSoundControllerImp::SoundFadeOut(CSoundPatch *,float,bool)
+14	CSoundControllerImp::SoundGetPitch(CSoundPatch *)
+15	CSoundControllerImp::SoundGetVolume(CSoundPatch *)
+16	CSoundControllerImp::SoundPlayEnvelope(CSoundPatch *,soundcommands_t,envelopePoint_t *,int)
+17	CSoundControllerImp::SoundPlayEnvelope(CSoundPatch *,soundcommands_t,envelopeDescription_t *)
+18	CSoundControllerImp::CheckLoopingSoundsForPlayer(C_BasePlayer *)
+19	CSoundControllerImp::SoundGetName(CSoundPatch *)
+20	CSoundControllerImp::SoundSetCloseCaptionDuration(CSoundPatch *,float)
+21	CSoundControllerImp::OnRestore(void)
+

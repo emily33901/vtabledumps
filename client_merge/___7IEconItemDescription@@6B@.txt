@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IEconItemDescription
+// Auto reconstructed from vtable block @ 0x01046520
+// from "client.dylib", by ida_vtables.idc
+0	IEconItemDescription::~IEconItemDescription()
+1	IEconItemDescription::YieldingCacheDescriptionData(CLocalizationProvider const*,IEconItemInterface const*)
+2	___cxa_pure_virtual
+

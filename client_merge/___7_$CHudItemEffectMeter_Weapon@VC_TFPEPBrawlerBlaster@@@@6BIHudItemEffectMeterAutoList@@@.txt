@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IHudItemEffectMeterAutoList
+// Auto reconstructed from vtable block @ 0x00F71FD0
+// from "client.dylib", by ida_vtables.idc
+0	IHudItemEffectMeterAutoList::~IHudItemEffectMeterAutoList()
+

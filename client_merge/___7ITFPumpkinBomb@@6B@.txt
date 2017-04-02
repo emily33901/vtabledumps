@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ITFPumpkinBomb
+// Auto reconstructed from vtable block @ 0x00E5C050
+// from "client.dylib", by ida_vtables.idc
+0	ITFPumpkinBomb::~ITFPumpkinBomb()
+

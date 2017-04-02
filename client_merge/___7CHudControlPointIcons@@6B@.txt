@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudControlPointIcons
+// Auto reconstructed from vtable block @ 0x00F0B030
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudControlPointIcons
+1	CHudControlPointIcons::~CHudControlPointIcons()
+2	CHudControlPointIcons::FireGameEvent(IGameEvent *)
+3	CHudControlPointIcons::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudControlPointIcons::LevelShutdown(void)
+7	CHudControlPointIcons::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudControlPointIcons::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+

@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFXLine
+// Auto reconstructed from vtable block @ 0x00EF2D50
+// from "client.dylib", by ida_vtables.idc
+0	CFXLine::~CFXLine()
+1	CFXLine::Draw(double)
+2	CClientSideEffect::GetName(void)
+3	CFXLine::IsActive(void)
+4	CFXLine::Destroy(void)
+5	CClientSideEffect::SetEffectName(char const*)
+6	CFXLine::Update(double)
+

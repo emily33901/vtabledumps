@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CItemSelectionCriteria::CSetCondition
+// Auto reconstructed from vtable block @ 0x00E40980
+// from "client.dylib", by ida_vtables.idc
+0	CItemSelectionCriteria::CSetCondition::~CSetCondition()
+1	CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*)const
+2	CItemSelectionCriteria::CCondition::GetEOp(void)const
+3	CItemSelectionCriteria::CCondition::GetField(void)const
+4	CItemSelectionCriteria::CCondition::GetValue(void)const
+5	CItemSelectionCriteria::CSetCondition::BSerializeToMsg(CSOItemCriteriaCondition &)const
+6	CItemSelectionCriteria::CSetCondition::BInternalEvaluate(KeyValues *)const
+

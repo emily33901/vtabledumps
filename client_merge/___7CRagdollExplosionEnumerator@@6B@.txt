@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRagdollExplosionEnumerator
+// Auto reconstructed from vtable block @ 0x00EB7130
+// from "client.dylib", by ida_vtables.idc
+0	CRagdollExplosionEnumerator::EnumElement(IHandleEntity *)
+

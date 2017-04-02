@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPoseDebuggerImpl
+// Auto reconstructed from vtable block @ 0x00E989F8
+// from "client.dylib", by ida_vtables.idc
+0	CPoseDebuggerImpl::StartBlending(IClientNetworkable *,CStudioHdr const*)
+1	CPoseDebuggerImpl::AccumulatePose(CStudioHdr const*,CIKContext *,Vector *,Quaternion *,int,float,float const*,int,float,float)
+

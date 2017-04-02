@@ -1,0 +1,24 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CClientThinkList
+// Auto reconstructed from vtable block @ 0x00E9A040
+// from "client.dylib", by ida_vtables.idc
+0	CClientThinkList::Name(void)
+1	CClientThinkList::Init(void)
+2	CClientThinkList::PostInit(void)
+3	CClientThinkList::Shutdown(void)
+4	CClientThinkList::LevelInitPreEntity(void)
+5	CClientThinkList::LevelInitPostEntity(void)
+6	IGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	CClientThinkList::LevelShutdownPreEntity(void)
+8	CClientThinkList::LevelShutdownPostEntity(void)
+9	CClientThinkList::OnSave(void)
+10	CClientThinkList::OnRestore(void)
+11	CClientThinkList::SafeRemoveIfDesired(void)
+12	CClientThinkList::IsPerFrame(void)
+13	CClientThinkList::~CClientThinkList()
+14	CClientThinkList::PreRender(void)
+15	CClientThinkList::Update(float)
+16	CClientThinkList::PostRender(void)
+

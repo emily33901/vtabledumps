@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRopeManager
+// Auto reconstructed from vtable block @ 0x00EAF720
+// from "client.dylib", by ida_vtables.idc
+0	CRopeManager::~CRopeManager()
+1	CRopeManager::ResetRenderCache(void)
+2	CRopeManager::AddToRenderCache(C_RopeKeyframe *)
+3	CRopeManager::DrawRenderCache(bool)
+4	CRopeManager::OnRenderStart(void)
+5	CRopeManager::SetHolidayLightMode(bool)
+6	CRopeManager::IsHolidayLightMode(void)
+7	CRopeManager::GetHolidayLightStyle(void)
+

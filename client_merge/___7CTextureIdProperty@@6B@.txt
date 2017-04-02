@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTextureIdProperty
+// Auto reconstructed from vtable block @ 0x01156490
+// from "client.dylib", by ida_vtables.idc
+0	CTextureIdProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CTextureIdProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CTextureIdProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)
+

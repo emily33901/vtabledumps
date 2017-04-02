@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTranslationManipulator
+// Auto reconstructed from vtable block @ 0x01043990
+// from "client.dylib", by ida_vtables.idc
+0	CTranslationManipulator::~CTranslationManipulator()
+1	CBaseManipulator::OnBeginManipulation(void)
+2	CBaseManipulator::OnAcceptManipulation(void)
+3	CBaseManipulator::OnCancelManipulation(void)
+4	CBaseManipulator::OnTick(void)
+5	CTranslationManipulator::OnCursorMoved(int,int)
+6	CTranslationManipulator::OnMousePressed(ButtonCode_t,int,int)
+7	CBaseManipulator::OnMouseReleased(ButtonCode_t,int,int)
+8	CBaseManipulator::OnMouseWheeled(int)
+90	CBaseManipulator::SetViewportSize(int,int)
+

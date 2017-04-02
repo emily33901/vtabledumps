@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgRequestItemPurgatory_RefundPurchase
+// Auto reconstructed from vtable block @ 0x00E3D970
+// from "client.dylib", by ida_vtables.idc
+0	CMsgRequestItemPurgatory_RefundPurchase::~CMsgRequestItemPurgatory_RefundPurchase()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgRequestItemPurgatory_RefundPurchase::New(void)const
+3	CMsgRequestItemPurgatory_RefundPurchase::Clear(void)
+4	CMsgRequestItemPurgatory_RefundPurchase::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgRequestItemPurgatory_RefundPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgRequestItemPurgatory_RefundPurchase::ByteSize(void)const
+90	CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgRequestItemPurgatory_RefundPurchase::GetCachedSize(void)const
+12	CMsgRequestItemPurgatory_RefundPurchase::CopyFrom(google::protobuf::Message const&)
+13	CMsgRequestItemPurgatory_RefundPurchase::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgRequestItemPurgatory_RefundPurchase::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgRequestItemPurgatory_RefundPurchase::GetMetadata(void)const
+

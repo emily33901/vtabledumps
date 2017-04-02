@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCReportAbuse
+// Auto reconstructed from vtable block @ 0x00E3AA20
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCReportAbuse::~CMsgGCReportAbuse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCReportAbuse::New(void)const
+3	CMsgGCReportAbuse::Clear(void)
+4	CMsgGCReportAbuse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCReportAbuse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCReportAbuse::ByteSize(void)const
+90	CMsgGCReportAbuse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCReportAbuse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCReportAbuse::GetCachedSize(void)const
+12	CMsgGCReportAbuse::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCReportAbuse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCReportAbuse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCReportAbuse::GetMetadata(void)const
+

@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconTool_StrangePartRestriction
+// Auto reconstructed from vtable block @ 0x00E3EE10
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_StrangePartRestriction::~CEconTool_StrangePartRestriction()
+1	CEconTool_StrangePartRestriction::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+2	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+3	IEconTool::RequiresToolEscrowPeriod(void)const
+4	CEconTool_StrangePartRestriction::BFinishInitialization(void)
+5	IEconTool::CanBeUsedNow(IEconItemInterface const*)const
+6	IEconTool::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+7	CEconTool_StrangePartRestriction::ShouldDisplayAsUseableOnItemsInArmory(void)const
+8	IEconTool::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+90	IEconTool::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+10	CEconTool_StrangePartRestriction::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const
+

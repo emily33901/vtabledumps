@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCallbackImpl<28>
+// Auto reconstructed from vtable block @ 0x01046A00
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	CCallbackImpl<28>::Run(void *,bool,unsigned long long)
+2	CCallbackImpl<28>::GetCallbackSizeBytes(void)
+

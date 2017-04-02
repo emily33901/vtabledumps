@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMotionBlurMaterialProxy
+// Auto reconstructed from vtable block @ 0x01011470
+// from "client.dylib", by ida_vtables.idc
+0	CMotionBlurMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CMotionBlurMaterialProxy::GetMaterial(void)
+4	CMotionBlurMaterialProxy::~CMotionBlurMaterialProxy()
+5	CMotionBlurMaterialProxy::OnBind(C_BaseEntity *)
+

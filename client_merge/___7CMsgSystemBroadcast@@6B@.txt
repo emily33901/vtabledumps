@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSystemBroadcast
+// Auto reconstructed from vtable block @ 0x00E39760
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSystemBroadcast::~CMsgSystemBroadcast()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSystemBroadcast::New(void)const
+3	CMsgSystemBroadcast::Clear(void)
+4	CMsgSystemBroadcast::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSystemBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSystemBroadcast::ByteSize(void)const
+90	CMsgSystemBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSystemBroadcast::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSystemBroadcast::GetCachedSize(void)const
+12	CMsgSystemBroadcast::CopyFrom(google::protobuf::Message const&)
+13	CMsgSystemBroadcast::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgSystemBroadcast::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgSystemBroadcast::GetMetadata(void)const
+

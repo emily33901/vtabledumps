@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::DERGeneralEncoder
+// Auto reconstructed from vtable block @ 0x010151A0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::DERGeneralEncoder::~DERGeneralEncoder()
+1	CryptoPP::Clonable::Clone(void)const
+2	CryptoPP::Algorithm::AlgorithmName(void)const
+3	CryptoPP::ByteQueue::CreatePutSpace(unsigned long &)
+4	CryptoPP::BufferedTransformation::CanModifyInput(void)const
+

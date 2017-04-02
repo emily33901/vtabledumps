@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconPreviewExpiredNotification
+// Auto reconstructed from vtable block @ 0x00ED4580
+// from "client.dylib", by ida_vtables.idc
+0	CEconPreviewExpiredNotification::~CEconPreviewExpiredNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEconNotification::BShowInGameElements(void)const
+5	CEconNotification::MarkForDeletion(void)
+6	CEconPreviewExpiredNotification::CanBeTriggered(void)
+7	CEconPreviewExpiredNotification::Trigger(void)
+8	CEconPreviewNotification::CanBeAcceptedOrDeclined(void)
+90	CEconNotification::Accept(void)
+10	CEconNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

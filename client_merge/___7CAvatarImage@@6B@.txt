@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAvatarImage
+// Auto reconstructed from vtable block @ 0x01008540
+// from "client.dylib", by ida_vtables.idc
+0	CAvatarImage::Paint(void)
+1	CAvatarImage::SetPos(int,int)
+2	CAvatarImage::GetContentSize(int &,int &)
+3	CAvatarImage::GetSize(int &,int &)
+4	CAvatarImage::SetSize(int,int)
+5	CAvatarImage::SetColor(Color)
+6	CAvatarImage::~CAvatarImage()
+7	CAvatarImage::Evict(void)
+8	CAvatarImage::GetNumFrames(void)
+90	CAvatarImage::SetFrame(int)
+10	CAvatarImage::GetID(void)
+11	CAvatarImage::SetRotation(int)
+

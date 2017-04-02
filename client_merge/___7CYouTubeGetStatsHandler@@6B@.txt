@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CYouTubeGetStatsHandler
+// Auto reconstructed from vtable block @ 0x010CEA10
+// from "client.dylib", by ida_vtables.idc
+0	CYouTubeGetStatsHandler::HandleResponse(long,char const*)
+1	CYouTubeGetStatsHandler::~CYouTubeGetStatsHandler()
+

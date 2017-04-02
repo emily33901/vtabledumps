@@ -1,8 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'TagLib::Map<TagLib::ByteVector,TagLib::String>
-// Auto reconstructed from vtable block @ 0x00F26050
-// from "steamclient.dylib", by ida_vtables.idc
-0	TagLib::Map<TagLib::ByteVector,TagLib::String>::~Map()
-

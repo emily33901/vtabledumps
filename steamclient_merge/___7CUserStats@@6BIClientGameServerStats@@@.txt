@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamGameServerStats001
+// Auto reconstructed from vtable block @ 0x00F080D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamGameServerStats001::RequestUserStats(CSteamID)
+1	CAdapterSteamGameServerStats001::GetUserStat(CSteamID,char const*,int *)
+2	CAdapterSteamGameServerStats001::GetUserStat(CSteamID,char const*,float *)
+3	CAdapterSteamGameServerStats001::GetUserAchievement(CSteamID,char const*,bool *)
+4	CAdapterSteamGameServerStats001::SetUserStat(CSteamID,char const*,int)
+5	CAdapterSteamGameServerStats001::SetUserStat(CSteamID,char const*,float)
+6	CAdapterSteamGameServerStats001::UpdateUserAvgRateStat(CSteamID,char const*,float,double)
+7	CAdapterSteamGameServerStats001::SetUserAchievement(CSteamID,char const*)
+8	CAdapterSteamGameServerStats001::ClearUserAchievement(CSteamID,char const*)
+9	CAdapterSteamGameServerStats001::StoreUserStats(CSteamID)
+

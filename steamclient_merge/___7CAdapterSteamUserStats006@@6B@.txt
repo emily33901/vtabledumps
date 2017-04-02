@@ -1,0 +1,35 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUserStats006
+// Auto reconstructed from vtable block @ 0x00F09110
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUserStats006::RequestCurrentStats(void)
+1	CAdapterSteamUserStats006::GetStat(char const*,int *)
+2	CAdapterSteamUserStats006::GetStat(char const*,float *)
+3	CAdapterSteamUserStats006::SetStat(char const*,int)
+4	CAdapterSteamUserStats006::SetStat(char const*,float)
+5	CAdapterSteamUserStats006::UpdateAvgRateStat(char const*,float,double)
+6	CAdapterSteamUserStats006::GetAchievement(char const*,bool *)
+7	CAdapterSteamUserStats006::SetAchievement(char const*)
+8	CAdapterSteamUserStats006::ClearAchievement(char const*)
+9	CAdapterSteamUserStats006::StoreStats(void)
+10	CAdapterSteamUserStats006::GetAchievementIcon(char const*)
+11	CAdapterSteamUserStats006::GetAchievementDisplayAttribute(char const*,char const*)
+12	CAdapterSteamUserStats006::IndicateAchievementProgress(char const*,unsigned int,unsigned int)
+13	CAdapterSteamUserStats006::RequestUserStats(CSteamID)
+14	CAdapterSteamUserStats006::GetUserStat(CSteamID,char const*,int *)
+15	CAdapterSteamUserStats006::GetUserStat(CSteamID,char const*,float *)
+16	CAdapterSteamUserStats006::GetUserAchievement(CSteamID,char const*,bool *)
+17	CAdapterSteamUserStats006::ResetAllStats(bool)
+18	CAdapterSteamUserStats006::FindOrCreateLeaderboard(char const*,ELeaderboardSortMethod,ELeaderboardDisplayType)
+19	CAdapterSteamUserStats006::FindLeaderboard(char const*)
+20	CAdapterSteamUserStats006::GetLeaderboardName(unsigned long long)
+21	CAdapterSteamUserStats006::GetLeaderboardEntryCount(unsigned long long)
+22	CAdapterSteamUserStats006::GetLeaderboardSortMethod(unsigned long long)
+23	CAdapterSteamUserStats006::GetLeaderboardDisplayType(unsigned long long)
+24	CAdapterSteamUserStats006::DownloadLeaderboardEntries(unsigned long long,ELeaderboardDataRequest,int,int)
+25	CAdapterSteamUserStats006::GetDownloadedLeaderboardEntry(unsigned long long,int,LeaderboardEntryOld_t *,int *,int)
+26	CAdapterSteamUserStats006::UploadLeaderboardScore(unsigned long long,ELeaderboardUploadScoreMethod,int,int const*,int)
+27	CAdapterSteamUserStats006::GetNumberOfCurrentPlayers(void)
+

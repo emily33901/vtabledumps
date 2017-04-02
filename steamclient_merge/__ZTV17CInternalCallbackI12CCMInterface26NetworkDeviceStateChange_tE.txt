@@ -1,9 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInternalCallback<CCMInterface,NetworkDeviceStateChange_t>
-// Auto reconstructed from vtable block @ 0x00F013BC
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInternalCallback<CCMInterface,NetworkDeviceStateChange_t>::Run(void *)
-1	CInternalCallbackBase::Validate(CValidator &,char const*)
-

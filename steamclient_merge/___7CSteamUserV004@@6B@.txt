@@ -1,0 +1,33 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV004
+// Auto reconstructed from vtable block @ 0x00F0AFA0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV004::GetHSteamUser(void)
+1	CSteamUserV004::LogOn(CSteamID)
+2	CSteamUserV004::LogOff(void)
+3	CSteamUserV004::BLoggedOn(void)
+4	CSteamUserV004::GetLogonState(void)
+5	CSteamUserV004::BConnected(void)
+6	CSteamUserV004::GetSteamID(void)
+7	CSteamUserV004::IsVACBanned(int)
+8	CSteamUserV004::RequireShowVACBannedMessage(int)
+9	CSteamUserV004::AcknowledgeVACBanning(int)
+10	CSteamUserV004::NClientGameIDAdd(int)
+11	CSteamUserV004::RemoveClientGame(int)
+12	CSteamUserV004::SetClientGameServer(int,unsigned int,unsigned short)
+13	CSteamUserV004::SetSteam2Ticket(unsigned char *,int)
+14	CSteamUserV004::AddServerNetAddress(unsigned int,unsigned short)
+15	CSteamUserV004::SetEmail(char const*)
+16	CSteamUserV004::GetSteamGameConnectToken(void *,int)
+17	CSteamUserV004::SetRegistryString(EConfigSubTree,char const*,char const*)
+18	CSteamUserV004::GetRegistryString(EConfigSubTree,char const*,char *,int)
+19	CSteamUserV004::SetRegistryInt(EConfigSubTree,char const*,int)
+20	CSteamUserV004::GetRegistryInt(EConfigSubTree,char const*,int *)
+21	CSteamUserV004::InitiateGameConnection(void *,int,CSteamID,int,unsigned int,unsigned short,bool)
+22	CSteamUserV004::TerminateGameConnection(unsigned int,unsigned short)
+23	CSteamUserV004::SetSelfAsPrimaryChatDestination(void)
+24	CSteamUserV004::IsPrimaryChatDestination(void)
+25	CSteamUserV004::RequestLegacyCDKey(unsigned int)
+

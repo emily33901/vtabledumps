@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUserStats001
+// Auto reconstructed from vtable block @ 0x00F09320
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUserStats001::GetNumStats(CGameID)
+1	CAdapterSteamUserStats001::GetStatName(CGameID,unsigned int)
+2	CAdapterSteamUserStats001::GetStatType(CGameID,char const*)
+3	CAdapterSteamUserStats001::GetNumAchievements(CGameID)
+4	CAdapterSteamUserStats001::GetAchievementName(CGameID,unsigned int)
+5	CAdapterSteamUserStats001::GetNumGroupAchievements(CGameID)
+6	CAdapterSteamUserStats001::GetGroupAchievementName(CGameID,unsigned int)
+7	CAdapterSteamUserStats001::RequestCurrentStats(CGameID)
+8	CAdapterSteamUserStats001::GetStat(CGameID,char const*,int *)
+9	CAdapterSteamUserStats001::GetStat(CGameID,char const*,float *)
+10	CAdapterSteamUserStats001::SetStat(CGameID,char const*,int)
+11	CAdapterSteamUserStats001::SetStat(CGameID,char const*,float)
+12	CAdapterSteamUserStats001::UpdateAvgRateStat(CGameID,char const*,float,double)
+13	CAdapterSteamUserStats001::GetAchievement(CGameID,char const*,bool *)
+14	CAdapterSteamUserStats001::GetGroupAchievement(CGameID,char const*,bool *)
+15	CAdapterSteamUserStats001::SetAchievement(CGameID,char const*)
+16	CAdapterSteamUserStats001::SetGroupAchievement(CGameID,char const*)
+17	CAdapterSteamUserStats001::StoreStats(CGameID)
+18	CAdapterSteamUserStats001::ClearAchievement(CGameID,char const*)
+19	CAdapterSteamUserStats001::ClearGroupAchievement(CGameID,char const*)
+20	CAdapterSteamUserStats001::GetAchievementIcon(CGameID,char const*)
+21	CAdapterSteamUserStats001::GetAchievementDisplayAttribute(CGameID,char const*,char const*)
+

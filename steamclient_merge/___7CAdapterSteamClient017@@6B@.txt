@@ -1,0 +1,43 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamClient017
+// Auto reconstructed from vtable block @ 0x00F06450
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamClient017::CreateSteamPipe(void)
+1	CAdapterSteamClient017::BReleaseSteamPipe(int)
+2	CAdapterSteamClient017::ConnectToGlobalUser(int)
+3	CAdapterSteamClient017::CreateLocalUser(int *,EAccountType)
+4	CAdapterSteamClient017::ReleaseUser(int,int)
+5	CAdapterSteamClient017::GetISteamUser(int,int,char const*)
+6	CAdapterSteamClient017::GetISteamGameServer(int,int,char const*)
+7	CAdapterSteamClient017::SetLocalIPBinding(unsigned int,unsigned short)
+8	CAdapterSteamClient017::GetISteamFriends(int,int,char const*)
+9	CAdapterSteamClient017::GetISteamUtils(int,char const*)
+10	CAdapterSteamClient017::GetISteamMatchmaking(int,int,char const*)
+11	CAdapterSteamClient017::GetISteamMatchmakingServers(int,int,char const*)
+12	CAdapterSteamClient017::GetISteamGenericInterface(int,int,char const*)
+13	CAdapterSteamClient017::GetISteamUserStats(int,int,char const*)
+14	CAdapterSteamClient017::GetISteamGameServerStats(int,int,char const*)
+15	CAdapterSteamClient017::GetISteamApps(int,int,char const*)
+16	CAdapterSteamClient017::GetISteamNetworking(int,int,char const*)
+17	CAdapterSteamClient017::GetISteamRemoteStorage(int,int,char const*)
+18	CAdapterSteamClient017::GetISteamScreenshots(int,int,char const*)
+19	CAdapterSteamClient017::RunFrame(void)
+20	CAdapterSteamClient017::GetIPCCallCount(void)
+21	CAdapterSteamClient017::SetWarningMessageHook(void (*)(int,char const*))
+22	CAdapterSteamClient017::BShutdownIfAllPipesClosed(void)
+23	CAdapterSteamClient017::GetISteamHTTP(int,int,char const*)
+24	CAdapterSteamClient017::GetISteamUnifiedMessages(int,int,char const*)
+25	CAdapterSteamClient017::GetISteamController(int,int,char const*)
+26	CAdapterSteamClient017::GetISteamUGC(int,int,char const*)
+27	CAdapterSteamClient017::GetISteamAppList(int,int,char const*)
+28	CAdapterSteamClient017::GetISteamMusic(int,int,char const*)
+29	CAdapterSteamClient017::GetISteamMusicRemote(int,int,char const*)
+30	CAdapterSteamClient017::GetISteamHTMLSurface(int,int,char const*)
+31	CAdapterSteamClient017::DEPRECATED_Set_SteamAPI_CPostAPIResultInProcess(void (*)(void))
+32	CAdapterSteamClient017::DEPRECATED_Remove_SteamAPI_CPostAPIResultInProcess(void (*)(void))
+33	CAdapterSteamClient017::Set_SteamAPI_CCheckCallbackRegisteredInProcess(unsigned int (*)(int))
+34	CAdapterSteamClient017::GetISteamInventory(int,int,char const*)
+35	CAdapterSteamClient017::GetISteamVideo(int,int,char const*)
+

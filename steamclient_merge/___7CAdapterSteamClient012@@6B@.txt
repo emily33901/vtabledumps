@@ -1,0 +1,34 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamClient012
+// Auto reconstructed from vtable block @ 0x00F061C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamClient012::CreateSteamPipe(void)
+1	CAdapterSteamClient012::BReleaseSteamPipe(int)
+2	CAdapterSteamClient012::ConnectToGlobalUser(int)
+3	CAdapterSteamClient012::CreateLocalUser(int *,EAccountType)
+4	CAdapterSteamClient012::ReleaseUser(int,int)
+5	CAdapterSteamClient012::GetISteamUser(int,int,char const*)
+6	CAdapterSteamClient012::GetISteamGameServer(int,int,char const*)
+7	CAdapterSteamClient012::SetLocalIPBinding(unsigned int,unsigned short)
+8	CAdapterSteamClient012::GetISteamFriends(int,int,char const*)
+9	CAdapterSteamClient012::GetISteamUtils(int,char const*)
+10	CAdapterSteamClient012::GetISteamMatchmaking(int,int,char const*)
+11	CAdapterSteamClient012::GetISteamMatchmakingServers(int,int,char const*)
+12	CAdapterSteamClient012::GetISteamGenericInterface(int,int,char const*)
+13	CAdapterSteamClient012::GetISteamUserStats(int,int,char const*)
+14	CAdapterSteamClient012::GetISteamGameServerStats(int,int,char const*)
+15	CAdapterSteamClient012::GetISteamApps(int,int,char const*)
+16	CAdapterSteamClient012::GetISteamNetworking(int,int,char const*)
+17	CAdapterSteamClient012::GetISteamRemoteStorage(int,int,char const*)
+18	CAdapterSteamClient012::GetISteamScreenshots(int,int,char const*)
+19	CAdapterSteamClient012::RunFrame(void)
+20	CAdapterSteamClient012::GetIPCCallCount(void)
+21	CAdapterSteamClient012::SetWarningMessageHook(void (*)(int,char const*))
+22	CAdapterSteamClient012::BShutdownIfAllPipesClosed(void)
+23	CAdapterSteamClient012::GetISteamHTTP(int,int,char const*)
+24	CAdapterSteamClient012::GetISteamUnifiedMessages(int,int,char const*)
+25	CAdapterSteamClient012::GetISteamController(int,int,char const*)
+26	CAdapterSteamClient012::GetISteamUGC(int,int,char const*)
+

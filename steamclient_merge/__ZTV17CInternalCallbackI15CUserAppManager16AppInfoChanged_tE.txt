@@ -1,9 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInternalCallback<CUserAppManager,AppInfoChanged_t>
-// Auto reconstructed from vtable block @ 0x00EF3894
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInternalCallback<CUserAppManager,AppInfoChanged_t>::Run(void *)
-1	CInternalCallbackBase::Validate(CValidator &,char const*)
-

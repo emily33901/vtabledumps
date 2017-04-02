@@ -1,0 +1,31 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamInventory001
+// Auto reconstructed from vtable block @ 0x00F073F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamInventory001::GetResultStatus(int)
+1	CAdapterSteamInventory001::GetResultItems(int,SteamItemDetails_t *,unsigned int *)
+2	CAdapterSteamInventory001::GetResultTimestamp(int)
+3	CAdapterSteamInventory001::CheckResultSteamID(int,CSteamID)
+4	CAdapterSteamInventory001::DestroyResult(int)
+5	CAdapterSteamInventory001::GetAllItems(int *)
+6	CAdapterSteamInventory001::GetItemsByID(int *,unsigned long long const*,unsigned int)
+7	CAdapterSteamInventory001::SerializeResult(int,void *,unsigned int *)
+8	CAdapterSteamInventory001::DeserializeResult(int *,void const*,unsigned int,bool)
+9	CAdapterSteamInventory001::GenerateItems(int *,int const*,unsigned int const*,unsigned int)
+10	CAdapterSteamInventory001::GrantPromoItems(int *)
+11	CAdapterSteamInventory001::AddPromoItem(int *,int)
+12	CAdapterSteamInventory001::AddPromoItems(int *,int const*,unsigned int)
+13	CAdapterSteamInventory001::ConsumeItem(int *,unsigned long long,unsigned int)
+14	CAdapterSteamInventory001::ExchangeItems(int *,int const*,unsigned int const*,unsigned int,unsigned long long const*,unsigned int const*,unsigned int)
+15	CAdapterSteamInventory001::TransferItemQuantity(int *,unsigned long long,unsigned int,unsigned long long)
+16	CAdapterSteamInventory001::SendItemDropHeartbeat(void)
+17	CAdapterSteamInventory001::TriggerItemDrop(int *,int)
+18	CAdapterSteamInventory001::TradeItems(int *,CSteamID,unsigned long long const*,unsigned int const*,unsigned int,unsigned long long const*,unsigned int const*,unsigned int)
+19	CAdapterSteamInventory001::LoadItemDefinitions(void)
+20	CAdapterSteamInventory001::GetItemDefinitionIDs(int *,unsigned int *)
+21	CAdapterSteamInventory001::GetItemDefinitionProperty(int,char const*,char *,unsigned int *)
+22	CAdapterSteamInventory001::RequestEligiblePromoItemDefinitionsIDs(CSteamID)
+23	CAdapterSteamInventory001::GetEligiblePromoItemDefinitionIDs(CSteamID,int *,unsigned int *)
+

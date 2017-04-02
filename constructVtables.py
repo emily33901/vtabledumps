@@ -16,11 +16,15 @@ def FindLastNumber(string):
             lastNumber = i;
     return lastNumber + 1;
 
-def TryMatchName(string1, string2):
+def TryMatchName(string1, string2, thresh):
     i = 0;
+    if(len(string2) > len(string1)):
+        return None;
     while(i < len(string1)):
-        if(file.find(string2[:-i]) != -1):
-            return string2[:-i];
+        #print(string2[i:]);
+        if(string1.find(string2[i:]) != -1):
+            if(len(string2[i:]) > thresh):
+                return string2[i:];
         i += 1;
 
 def FindUniqueWindowsName(string):
@@ -35,28 +39,95 @@ def FindUniqueWindowsName(string):
         return n[n.find("`", forindex) + 1:n.find("'", forindex)];
     # otherwise we want to return the first item before the ::
     else:
-        return n[n.find(" ") + 1:n.find("::")];
+        return n[n.find(" ") + 1:n.find("::`vftable'")];
     
 
 def FindUniqueOSXName(string):
-    c = subprocess.run(["__cxa_demangle", string[1:-4]], stdout=subprocess.PIPE, shell=True);
+    c = None;
+    if(os.name == "posix"):
+        c = subprocess.run(["./__cxa_demangle", string[1:-4]], stdout=subprocess.PIPE, shell=False);
+    else:
+        c = subprocess.run(["__cxa_demangle", string[1:-4]], stdout=subprocess.PIPE, shell=True);
+    
+    #print(c.stdout);
+    
     if(c.stdout != None and c.stdout[0] != "-"):
         #print(c.stdout);
         # vtable name is whatever is after the for to the end
         n = str(c.stdout);
-        return n[n.find("for ") + 5:-1];
+        return n[n.find("for ") + 4:-1];
 
-def CreateOSXFileMapping
+OSXFileNameMap = {};
+def LookupUniqueOSXName(string):
+    try:
+        if(OSXFileNameMap[string] != None):
+            return OSXFileNameMap[string]
+    except:
+        OSXFileNameMap[string] = FindUniqueOSXName(string);
+        #print("m " + string + " => " + OSXFileNameMap[string]);
+        return OSXFileNameMap[string];
 
-
-# assumes string is already unique
-def FindMatchingOSXFile(string, folder):
+def NarrowOSXFileDir(string, folder):
+    out = []
     for file in os.listdir(folder):
-        uniqueName = FindUniqueOSXName(file);
+        n = TryMatchName(file, string, 6);
+        if(n != None):
+            #print(file);
+            out.append(file);
+
+    #input(out);
+    return out;
+        
+# assumes string is already unique
+def FindMatchingOSXFileCore(string, folder):
+    oldString = string;
+
+    for file in folder:
+        uniqueName = LookupUniqueOSXName(file);
+        #print(string + " -- " + uniqueName);
         if(uniqueName == string):
-            print(string + " -- " + uniqueName);
+            #input()
             return file;
 
+    if(string[0] == "I"):
+        string = "C" + string[1:];
+
+    for file in folder:
+        uniqueName = LookupUniqueOSXName(file);
+        #print(string + " -- " + uniqueName);
+        if(uniqueName == string):
+            return file;
+
+    if(oldString.find("IClient") != -1):
+        string = "CAdapterSteam" + oldString[7:] + "0";
+
+    for file in folder:
+        uniqueName = LookupUniqueOSXName(file);
+        #print(string + " -- " + uniqueName);
+        if(uniqueName.find(string) != -1):
+            return file;
+
+    
+    if(oldString.find("IClient") != -1):
+        string = "C" + oldString[7:];
+        
+    for file in folder:
+        uniqueName = LookupUniqueOSXName(file);
+        #print(string + " -- " + uniqueName);
+        if(uniqueName == string):
+            return file;
+            
+    print("no vtable match found for " + oldString);
+
+def FindMatchingOSXFile(string, folder):
+    narrowDir = NarrowOSXFileDir(string, folder);
+    if(narrowDir != []):
+        r = FindMatchingOSXFileCore(string, narrowDir);
+        if(r != None):
+            return r;
+
+    return FindMatchingOSXFileCore(string, os.listdir(folder));
+        
 def ProcessContents(osx, win, file):
     win_index_offset = 0;
     first_destructor = True;
@@ -112,14 +183,25 @@ def ProcessVtablePair(osx, win, file):
 def ProcessFolderPair(osx_folder, win_folder, out_folder):
     i = 0
     for file in os.listdir(win_folder):
-        if(file.find("CUser") != -1):
-            print(FindMatchingOSXFile(FindUniqueWindowsName(file), osx_folder));
+        #print(file);
+        try:
+            unique = FindUniqueWindowsName(file);
+        except:
+            continue;
+        print(unique);
+        if(unique == "charNode" or unique.find("virtual") != -1):
+            continue;
+
+        osx_file = FindMatchingOSXFile(unique, osx_folder);
+
+        if(osx_file == None):
+            continue;
 
         #osx_file = FindMatchingWindowsFile(file, win_folder);
 
-        #out_file = out_folder + "/" + file;
+        out_file = out_folder + "/" + file;
         #print(out_file);
-        #ProcessVtablePair(osx_folder + "/" + file, win_folder + "/" + win_file, out_file);
+        ProcessVtablePair(osx_folder + "/" + osx_file, win_folder + "/" + file, out_file);
         
 # main
 for file in os.listdir():

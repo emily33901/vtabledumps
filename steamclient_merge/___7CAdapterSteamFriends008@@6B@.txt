@@ -1,0 +1,41 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamFriends008
+// Auto reconstructed from vtable block @ 0x00F0A590
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamFriends008::GetPersonaName(void)
+1	CAdapterSteamFriends008::SetPersonaName(char const*)
+2	CAdapterSteamFriends008::GetPersonaState(void)
+3	CAdapterSteamFriends008::GetFriendCount(int)
+4	CAdapterSteamFriends008::GetFriendByIndex(int,int)
+5	CAdapterSteamFriends008::GetFriendRelationship(CSteamID)
+6	CAdapterSteamFriends008::GetFriendPersonaState(CSteamID)
+7	CAdapterSteamFriends008::GetFriendPersonaName(CSteamID)
+8	CAdapterSteamFriends008::GetFriendGamePlayed(CSteamID,FriendGameInfo_t *)
+9	CAdapterSteamFriends008::GetFriendPersonaNameHistory(CSteamID,int)
+10	CAdapterSteamFriends008::HasFriend(CSteamID,int)
+11	CAdapterSteamFriends008::GetClanCount(void)
+12	CAdapterSteamFriends008::GetClanByIndex(int)
+13	CAdapterSteamFriends008::GetClanName(CSteamID)
+14	CAdapterSteamFriends008::GetClanTag(CSteamID)
+15	CAdapterSteamFriends008::GetFriendCountFromSource(CSteamID)
+16	CAdapterSteamFriends008::GetFriendFromSourceByIndex(CSteamID,int)
+17	CAdapterSteamFriends008::IsUserInSource(CSteamID,CSteamID)
+18	CAdapterSteamFriends008::SetInGameVoiceSpeaking(CSteamID,bool)
+19	CAdapterSteamFriends008::ActivateGameOverlay(char const*)
+20	CAdapterSteamFriends008::ActivateGameOverlayToUser(char const*,CSteamID)
+21	CAdapterSteamFriends008::ActivateGameOverlayToWebPage(char const*)
+22	CAdapterSteamFriends008::ActivateGameOverlayToStore(unsigned int)
+23	CAdapterSteamFriends008::SetPlayedWith(CSteamID)
+24	CAdapterSteamFriends008::ActivateGameOverlayInviteDialog(CSteamID)
+25	CAdapterSteamFriends008::GetSmallFriendAvatar(CSteamID)
+26	CAdapterSteamFriends008::GetMediumFriendAvatar(CSteamID)
+27	CAdapterSteamFriends008::GetLargeFriendAvatar(CSteamID)
+28	CAdapterSteamFriends008::RequestUserInformation(CSteamID,bool)
+29	CAdapterSteamFriends008::RequestClanOfficerList(CSteamID)
+30	CAdapterSteamFriends008::GetClanOwner(CSteamID)
+31	CAdapterSteamFriends008::GetClanOfficerCount(CSteamID)
+32	CAdapterSteamFriends008::GetClanOfficerByIndex(CSteamID,int)
+33	CAdapterSteamFriends008::GetUserRestrictions(void)
+

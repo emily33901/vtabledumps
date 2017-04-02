@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamBilling002
+// Auto reconstructed from vtable block @ 0x00F09D90
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamBilling002::InitCreditCardPurchase(int,unsigned int,bool)
+1	CAdapterSteamBilling002::InitPayPalPurchase(int)
+2	CAdapterSteamBilling002::GetActivationCodeInfo(char const*)
+3	CAdapterSteamBilling002::PurchaseWithActivationCode(char const*)
+4	CAdapterSteamBilling002::GetFinalPrice(void)
+5	CAdapterSteamBilling002::CancelPurchase(void)
+6	CAdapterSteamBilling002::CompletePurchase(void)
+

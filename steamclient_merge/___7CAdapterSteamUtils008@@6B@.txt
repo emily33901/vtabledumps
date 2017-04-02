@@ -1,0 +1,35 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamUtils008
+// Auto reconstructed from vtable block @ 0x00F072F0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamUtils008::GetSecondsSinceAppActive(void)
+1	CAdapterSteamUtils008::GetSecondsSinceComputerActive(void)
+2	CAdapterSteamUtils008::GetConnectedUniverse(void)
+3	CAdapterSteamUtils008::GetServerRealTime(void)
+4	CAdapterSteamUtils008::GetIPCountry(void)
+5	CAdapterSteamUtils008::GetImageSize(int,unsigned int *,unsigned int *)
+6	CAdapterSteamUtils008::GetImageRGBA(int,unsigned char *,int)
+7	CAdapterSteamUtils008::GetCSERIPPort(unsigned int *,unsigned short *)
+8	CAdapterSteamUtils008::GetCurrentBatteryPower(void)
+9	CAdapterSteamUtils008::GetAppID(void)
+10	CAdapterSteamUtils008::SetOverlayNotificationPosition(ENotificationPosition)
+11	CAdapterSteamUtils008::IsAPICallCompleted(unsigned long long,bool *)
+12	CAdapterSteamUtils008::GetAPICallFailureReason(unsigned long long)
+13	CAdapterSteamUtils008::GetAPICallResult(unsigned long long,void *,int,int,bool *)
+14	CAdapterSteamUtils008::RunFrame(void)
+15	CAdapterSteamUtils008::GetIPCCallCount(void)
+16	CAdapterSteamUtils008::SetWarningMessageHook(void (*)(int,char const*))
+17	CAdapterSteamUtils008::IsOverlayEnabled(void)
+18	CAdapterSteamUtils008::BOverlayNeedsPresent(void)
+19	CAdapterSteamUtils008::CheckFileSignature(char const*)
+20	CAdapterSteamUtils008::ShowGamepadTextInput(EGamepadTextInputMode,EGamepadTextInputLineMode,char const*,unsigned int,char const*)
+21	CAdapterSteamUtils008::GetEnteredGamepadTextLength(void)
+22	CAdapterSteamUtils008::GetEnteredGamepadTextInput(char *,unsigned int)
+23	CAdapterSteamUtils008::GetSteamUILanguage(void)
+24	CAdapterSteamUtils008::IsSteamRunningInVR(void)
+25	CAdapterSteamUtils008::SetOverlayNotificationInset(int,int)
+26	CAdapterSteamUtils008::IsSteamInBigPictureMode(void)
+27	CAdapterSteamUtils008::StartVRDashboard(void)
+

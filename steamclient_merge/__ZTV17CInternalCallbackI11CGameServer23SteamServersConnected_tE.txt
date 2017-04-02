@@ -1,9 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInternalCallback<CGameServer,SteamServersConnected_t>
-// Auto reconstructed from vtable block @ 0x00F04D9C
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInternalCallback<CGameServer,SteamServersConnected_t>::Run(void *)
-1	CInternalCallbackBase::Validate(CValidator &,char const*)
-

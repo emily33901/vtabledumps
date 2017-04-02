@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMixerControls
+// Auto reconstructed from vtable block @ 0x00ECB080
+// from "steamclient.dylib", by ida_vtables.idc
+0	CMixerControls::~CMixerControls()
+1	CMixerControls::Release(void)
+2	CMixerControls::GetValue_Float(IMixerControls::Control,float &)
+3	CMixerControls::SetValue_Float(IMixerControls::Control,float)
+4	CMixerControls::GetMixerName(void)
+5	CMixerControls::Validate(CValidator &,char const*)
+

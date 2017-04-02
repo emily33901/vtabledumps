@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRemoteStorageSyncHelpers
+// Auto reconstructed from vtable block @ 0x00ECF2D0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CRemoteStorageSyncHelpers::ConnectCompleted(unsigned int)
+1	CRemoteStorageSyncHelpers::ConnectFailed(unsigned int,EResult,unsigned long long)
+2	CRemoteStorageSyncHelpers::ConnectionDisconnected(unsigned int,EResult)
+3	CRemoteStorageSyncHelpers::RecvPkt(CNetPacket *)
+4	CRemoteStorageSyncHelpers::BAcceptConnection(netadr_t const&,netadr_t const&)
+5	CRemoteStorageSyncHelpers::ConnectionAccepted(unsigned int,netadr_t const&,netadr_t const&)
+6	IConnectionCallback::NetQOSLevelChanged(unsigned int,ENetQOSLevel,ENetQOSLevel)
+7	IConnectionCallback::ConnectionDataSent(unsigned int,unsigned int)
+8	CRemoteStorageSyncHelpers::~CRemoteStorageSyncHelpers()
+

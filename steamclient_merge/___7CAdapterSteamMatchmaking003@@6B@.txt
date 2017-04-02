@@ -1,0 +1,35 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamMatchmaking003
+// Auto reconstructed from vtable block @ 0x00F097E0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamMatchmaking003::GetFavoriteGameCount(void)
+1	CAdapterSteamMatchmaking003::GetFavoriteGame(int,unsigned int *,unsigned int *,unsigned short *,unsigned short *,unsigned int *,unsigned int *)
+2	CAdapterSteamMatchmaking003::AddFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int,unsigned int)
+3	CAdapterSteamMatchmaking003::RemoveFavoriteGame(unsigned int,unsigned int,unsigned short,unsigned short,unsigned int)
+4	CAdapterSteamMatchmaking003::RequestLobbyList(void)
+5	CAdapterSteamMatchmaking003::AddRequestLobbyListFilter(char const*,char const*)
+6	CAdapterSteamMatchmaking003::AddRequestLobbyListNumericalFilter(char const*,int,int)
+7	CAdapterSteamMatchmaking003::AddRequestLobbyListSlotsAvailableFilter(void)
+8	CAdapterSteamMatchmaking003::GetLobbyByIndex(int)
+9	CAdapterSteamMatchmaking003::CreateLobby(bool)
+10	CAdapterSteamMatchmaking003::JoinLobby(CSteamID)
+11	CAdapterSteamMatchmaking003::LeaveLobby(CSteamID)
+12	CAdapterSteamMatchmaking003::InviteUserToLobby(CSteamID,CSteamID)
+13	CAdapterSteamMatchmaking003::GetNumLobbyMembers(CSteamID)
+14	CAdapterSteamMatchmaking003::GetLobbyMemberByIndex(CSteamID,int)
+15	CAdapterSteamMatchmaking003::GetLobbyData(CSteamID,char const*)
+16	CAdapterSteamMatchmaking003::SetLobbyData(CSteamID,char const*,char const*)
+17	CAdapterSteamMatchmaking003::GetLobbyMemberData(CSteamID,CSteamID,char const*)
+18	CAdapterSteamMatchmaking003::SetLobbyMemberData(CSteamID,char const*,char const*)
+19	CAdapterSteamMatchmaking003::SendLobbyChatMsg(CSteamID,void const*,int)
+20	CAdapterSteamMatchmaking003::GetLobbyChatEntry(CSteamID,int,CSteamID*,void *,int,EChatEntryType *)
+21	CAdapterSteamMatchmaking003::RequestLobbyData(CSteamID)
+22	CAdapterSteamMatchmaking003::SetLobbyGameServer(CSteamID,unsigned int,unsigned short,CSteamID)
+23	CAdapterSteamMatchmaking003::GetLobbyGameServer(CSteamID,unsigned int *,unsigned short *,CSteamID*)
+24	CAdapterSteamMatchmaking003::SetLobbyMemberLimit(CSteamID,int)
+25	CAdapterSteamMatchmaking003::GetLobbyMemberLimit(CSteamID)
+26	CAdapterSteamMatchmaking003::SetLobbyVoiceEnabled(CSteamID,bool)
+27	CAdapterSteamMatchmaking003::RequestFriendsLobbies(void)
+

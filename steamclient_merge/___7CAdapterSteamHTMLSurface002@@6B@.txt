@@ -1,0 +1,42 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamHTMLSurface002
+// Auto reconstructed from vtable block @ 0x00F07C40
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamHTMLSurface002::~CAdapterSteamHTMLSurface002()
+1	CAdapterSteamHTMLSurface002::Init(void)
+2	CAdapterSteamHTMLSurface002::Shutdown(void)
+3	CAdapterSteamHTMLSurface002::CreateBrowser(char const*,char const*)
+4	CAdapterSteamHTMLSurface002::RemoveBrowser(unsigned int)
+5	CAdapterSteamHTMLSurface002::LoadURL(unsigned int,char const*,char const*)
+6	CAdapterSteamHTMLSurface002::SetSize(unsigned int,unsigned int,unsigned int)
+7	CAdapterSteamHTMLSurface002::StopLoad(unsigned int)
+8	CAdapterSteamHTMLSurface002::Reload(unsigned int)
+90	CAdapterSteamHTMLSurface002::GoBack(unsigned int)
+10	CAdapterSteamHTMLSurface002::GoForward(unsigned int)
+11	CAdapterSteamHTMLSurface002::AddHeader(unsigned int,char const*,char const*)
+12	CAdapterSteamHTMLSurface002::ExecuteJavascript(unsigned int,char const*)
+13	CAdapterSteamHTMLSurface002::MouseUp(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+14	CAdapterSteamHTMLSurface002::MouseDown(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+15	CAdapterSteamHTMLSurface002::MouseDoubleClick(unsigned int,ISteamHTMLSurface::EHTMLMouseButton)
+16	CAdapterSteamHTMLSurface002::MouseMove(unsigned int,int,int)
+17	CAdapterSteamHTMLSurface002::MouseWheel(unsigned int,int)
+18	CAdapterSteamHTMLSurface002::KeyDown(unsigned int,unsigned int,ISteamHTMLSurface::EHTMLKeyModifiers)
+19	CAdapterSteamHTMLSurface002::KeyUp(unsigned int,unsigned int,ISteamHTMLSurface::EHTMLKeyModifiers)
+20	CAdapterSteamHTMLSurface002::KeyChar(unsigned int,unsigned int,ISteamHTMLSurface::EHTMLKeyModifiers)
+21	CAdapterSteamHTMLSurface002::SetHorizontalScroll(unsigned int,unsigned int)
+22	CAdapterSteamHTMLSurface002::SetVerticalScroll(unsigned int,unsigned int)
+23	CAdapterSteamHTMLSurface002::SetKeyFocus(unsigned int,bool)
+24	CAdapterSteamHTMLSurface002::ViewSource(unsigned int)
+25	CAdapterSteamHTMLSurface002::CopyToClipboard(unsigned int)
+26	CAdapterSteamHTMLSurface002::PasteFromClipboard(unsigned int)
+27	CAdapterSteamHTMLSurface002::Find(unsigned int,char const*,bool,bool)
+28	CAdapterSteamHTMLSurface002::StopFind(unsigned int)
+29	CAdapterSteamHTMLSurface002::GetLinkAtPosition(unsigned int,int,int)
+30	CAdapterSteamHTMLSurface002::SetCookie(char const*,char const*,char const*,char const*,unsigned int,bool,bool)
+31	CAdapterSteamHTMLSurface002::SetPageScaleFactor(unsigned int,float,int,int)
+32	CAdapterSteamHTMLSurface002::AllowStartRequest(unsigned int,bool)
+33	CAdapterSteamHTMLSurface002::JSDialogResponse(unsigned int,bool)
+34	CAdapterSteamHTMLSurface002::FileLoadDialogResponse(unsigned int,char const**)
+

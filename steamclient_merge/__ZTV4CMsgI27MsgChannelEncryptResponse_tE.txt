@@ -1,8 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CMsg<MsgChannelEncryptResponse_t>
-// Auto reconstructed from vtable block @ 0x00F2CF30
-// from "steamclient.dylib", by ida_vtables.idc
-0	CMsg<MsgChannelEncryptResponse_t>::~CMsg()
-

@@ -1,9 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CInternalCallback<CInGameChat,ChatRoomMsg_t>
-// Auto reconstructed from vtable block @ 0x00F05EE4
-// from "steamclient.dylib", by ida_vtables.idc
-0	CInternalCallback<CInGameChat,ChatRoomMsg_t>::Run(void *)
-1	CInternalCallbackBase::Validate(CValidator &,char const*)
-

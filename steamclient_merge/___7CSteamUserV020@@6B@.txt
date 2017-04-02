@@ -1,0 +1,36 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamUserV020
+// Auto reconstructed from vtable block @ 0x00F0A980
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamUserV020::GetHSteamUser(void)
+1	CSteamUserV020::BLoggedOn(void)
+2	CSteamUserV020::GetSteamID(void)
+3	CSteamUserV020::InitiateGameConnection(void *,int,CSteamID,unsigned int,unsigned short,bool)
+4	CSteamUserV020::TerminateGameConnection(unsigned int,unsigned short)
+5	CSteamUserV020::TrackAppUsageEvent(CGameID,int,char const*)
+6	CSteamUserV020::GetUserDataFolder(char *,int)
+7	CSteamUserV020::StartVoiceRecording(void)
+8	CSteamUserV020::StopVoiceRecording(void)
+9	CSteamUserV020::GetAvailableVoice(unsigned int *,unsigned int *,unsigned int)
+10	CSteamUserV020::GetVoice(bool,void *,unsigned int,unsigned int *,bool,void *,unsigned int,unsigned int *,unsigned int)
+11	CSteamUserV020::DecompressVoice(void const*,unsigned int,void *,unsigned int,unsigned int *,unsigned int)
+12	CSteamUserV020::GetVoiceOptimalSampleRate(void)
+13	CSteamUserV020::GetAuthSessionTicket(void *,int,unsigned int *)
+14	CSteamUserV020::BeginAuthSession(void const*,int,CSteamID)
+15	CSteamUserV020::EndAuthSession(CSteamID)
+16	CSteamUserV020::CancelAuthTicket(unsigned int)
+17	CSteamUserV020::UserHasLicenseForApp(CSteamID,unsigned int)
+18	CSteamUserV020::BIsBehindNAT(void)
+19	CSteamUserV020::AdvertiseGame(CSteamID,unsigned int,unsigned short)
+20	CSteamUserV020::RequestEncryptedAppTicket(void *,int)
+21	CSteamUserV020::GetEncryptedAppTicket(void *,int,unsigned int *)
+22	CSteamUserV020::GetGameBadgeLevel(int,bool)
+23	CSteamUserV020::GetPlayerSteamLevel(void)
+24	CSteamUserV020::RequestStoreAuthURL(char const*)
+25	CSteamUserV020::BIsPhoneVerified(void)
+26	CSteamUserV020::BIsTwoFactorEnabled(void)
+27	CSteamUserV020::BIsPhoneIdentifying(void)
+28	CSteamUserV020::BIsPhoneRequiringVerification(void)
+

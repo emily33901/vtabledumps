@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'talk_base::AsyncHttpsProxySocket
+// Auto reconstructed from vtable block @ 0x00ED63C8
+// from "steamclient.dylib", by ida_vtables.idc
+0	talk_base::AsyncHttpsProxySocket::~AsyncHttpsProxySocket()
+1	talk_base::AsyncSocketAdapter::GetLocalAddress(void)const
+2	talk_base::AsyncHttpsProxySocket::GetRemoteAddress(void)const
+3	talk_base::AsyncSocketAdapter::Bind(talk_base::SocketAddress const&)
+4	talk_base::AsyncHttpsProxySocket::Connect(talk_base::SocketAddress const&)
+5	talk_base::BufferedReadAdapter::Send(void const*,unsigned long)
+6	talk_base::AsyncSocketAdapter::SendTo(void const*,unsigned long,talk_base::SocketAddress const&)
+7	talk_base::BufferedReadAdapter::Recv(void *,unsigned long)
+8	talk_base::AsyncSocketAdapter::RecvFrom(void *,unsigned long,talk_base::SocketAddress *)
+90	talk_base::AsyncSocketAdapter::Listen(int)
+10	talk_base::AsyncSocketAdapter::Accept(talk_base::SocketAddress *)
+11	talk_base::AsyncHttpsProxySocket::Close(void)
+12	talk_base::AsyncSocketAdapter::GetError(void)const
+13	talk_base::AsyncSocketAdapter::SetError(int)
+14	talk_base::AsyncSocketAdapter::GetState(void)const
+15	talk_base::AsyncSocketAdapter::EstimateMTU(unsigned short *)
+16	talk_base::AsyncSocketAdapter::SetOption(talk_base::Socket::Option,int)
+17	talk_base::AsyncHttpsProxySocket::OnConnectEvent(talk_base::AsyncSocket *)
+18	talk_base::BufferedReadAdapter::OnReadEvent(talk_base::AsyncSocket *)
+19	talk_base::AsyncSocketAdapter::OnWriteEvent(talk_base::AsyncSocket *)
+20	talk_base::AsyncHttpsProxySocket::OnCloseEvent(talk_base::AsyncSocket *,int)
+21	talk_base::AsyncHttpsProxySocket::ProcessInput(char *,unsigned long &)
+

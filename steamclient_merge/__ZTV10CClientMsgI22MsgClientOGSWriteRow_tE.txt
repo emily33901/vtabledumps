@@ -1,8 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientOGSWriteRow_t>
-// Auto reconstructed from vtable block @ 0x00EF50FC
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientOGSWriteRow_t>::~CClientMsg()
-

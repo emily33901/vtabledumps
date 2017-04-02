@@ -1,0 +1,34 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamFriendsV001
+// Auto reconstructed from vtable block @ 0x00F0A900
+// from "steamclient.dylib", by ida_vtables.idc
+0	CSteamFriendsV001::GetPersonaName(void)
+1	CSteamFriendsV001::SetPersonaName(char const*)
+2	CSteamFriendsV001::GetPersonaState(void)
+3	CSteamFriendsV001::SetPersonaState(EPersonaState)
+4	CSteamFriendsV001::AddFriend(CSteamID)
+5	CSteamFriendsV001::RemoveFriend(CSteamID)
+6	CSteamFriendsV001::HasFriend(CSteamID)
+7	CSteamFriendsV001::GetFriendRelationship(CSteamID)
+8	CSteamFriendsV001::GetFriendPersonaState(CSteamID)
+9	CSteamFriendsV001::Deprecated_GetFriendGamePlayed(CSteamID,int *,unsigned int *,unsigned short *)
+10	CSteamFriendsV001::GetFriendPersonaName(CSteamID)
+11	CSteamFriendsV001::AddFriendByName(char const*)
+12	CSteamFriendsV001::GetFriendCount(void)
+13	CSteamFriendsV001::GetFriendByIndex(int)
+14	CSteamFriendsV001::SendMsgToFriend(CSteamID,EChatEntryType,char const*)
+15	CSteamFriendsV001::SetFriendRegValue(CSteamID,char const*,char const*)
+16	CSteamFriendsV001::GetFriendRegValue(CSteamID,char const*)
+17	CSteamFriendsV001::GetFriendPersonaNameHistory(CSteamID,int)
+18	CSteamFriendsV001::GetChatMessage(CSteamID,int,void *,int,EChatEntryType *)
+19	CSteamFriendsV001::SendMsgToFriend(CSteamID,EChatEntryType,void const*,int)
+20	CSteamFriendsV001::GetChatIDOfChatHistoryStart(CSteamID)
+21	CSteamFriendsV001::SetChatHistoryStart(CSteamID,int)
+22	CSteamFriendsV001::ClearChatHistory(CSteamID)
+23	CSteamFriendsV001::InviteFriendByEmail(char const*)
+24	CSteamFriendsV001::GetBlockedFriendCount(void)
+25	CSteamFriendsV001::GetFriendGamePlayed(CSteamID,unsigned long long *,unsigned int *,unsigned short *)
+26	CSteamFriendsV001::GetFriendGamePlayed2(CSteamID,unsigned long long *,unsigned int *,unsigned short *,unsigned short *)
+

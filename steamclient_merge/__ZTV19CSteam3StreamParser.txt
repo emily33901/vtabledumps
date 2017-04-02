@@ -1,8 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CSteam3StreamParser
-// Auto reconstructed from vtable block @ 0x00EF1FB0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CSteam3StreamParser::BIsValidMsgType(unsigned char *,int,int *,unsigned char const**)const
-

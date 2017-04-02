@@ -1,9 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CNetIOHelperCallback
-// Auto reconstructed from vtable block @ 0x00F2D230
-// from "steamclient.dylib", by ida_vtables.idc
-0	CNetIOHelperCallback::~CNetIOHelperCallback()
-1	CNetIOHelperCallback::OnDataStateChanged(int,int,bool,bool)
-

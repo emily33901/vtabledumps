@@ -1,8 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CClientMsg<MsgClientAppUsageEvent_t>
-// Auto reconstructed from vtable block @ 0x00EF3AE0
-// from "steamclient.dylib", by ida_vtables.idc
-0	CClientMsg<MsgClientAppUsageEvent_t>::~CClientMsg()
-

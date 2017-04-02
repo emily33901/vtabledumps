@@ -1,8 +1,0 @@
-//=================================
-// Merged Vtable - Errors expected 
-//=================================
-// `vtable for'CHTMLProtoBufMsg<CMsgOpenNewTab>
-// Auto reconstructed from vtable block @ 0x00F05CB8
-// from "steamclient.dylib", by ida_vtables.idc
-0	CHTMLProtoBufMsg<CMsgOpenNewTab>::~CHTMLProtoBufMsg()
-

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::SourceCodeInfo
+// Auto reconstructed from vtable block @ 0x00ED5B70
+// from "steamclient.dylib", by ida_vtables.idc
+0	google::protobuf::SourceCodeInfo::~SourceCodeInfo()
+1	google::protobuf::Message::GetTypeName(void)const
+2	google::protobuf::SourceCodeInfo::New(void)const
+3	google::protobuf::SourceCodeInfo::Clear(void)
+4	google::protobuf::SourceCodeInfo::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	google::protobuf::SourceCodeInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	google::protobuf::SourceCodeInfo::ByteSize(void)const
+90	google::protobuf::SourceCodeInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	google::protobuf::SourceCodeInfo::SerializeWithCachedSizesToArray(unsigned char *)const
+11	google::protobuf::SourceCodeInfo::GetCachedSize(void)const
+12	google::protobuf::SourceCodeInfo::CopyFrom(google::protobuf::Message const&)
+13	google::protobuf::SourceCodeInfo::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	google::protobuf::SourceCodeInfo::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	google::protobuf::SourceCodeInfo::GetMetadata(void)const
+

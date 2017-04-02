@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CScheduledFunction<CAppInfoCache>
+// Auto reconstructed from vtable block @ 0x00EF30C0
+// from "steamclient.dylib", by ida_vtables.idc
+0	CScheduledFunction<CAppInfoCache>::~CScheduledFunction()
+1	CScheduledFunction<CAppInfoCache>::Run(void)
+

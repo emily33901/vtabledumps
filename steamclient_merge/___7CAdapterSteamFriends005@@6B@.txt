@@ -1,0 +1,31 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAdapterSteamFriends005
+// Auto reconstructed from vtable block @ 0x00F0A740
+// from "steamclient.dylib", by ida_vtables.idc
+0	CAdapterSteamFriends005::GetPersonaName(void)
+1	CAdapterSteamFriends005::SetPersonaName(char const*)
+2	CAdapterSteamFriends005::GetPersonaState(void)
+3	CAdapterSteamFriends005::GetFriendCount(int)
+4	CAdapterSteamFriends005::GetFriendByIndex(int,int)
+5	CAdapterSteamFriends005::GetFriendRelationship(CSteamID)
+6	CAdapterSteamFriends005::GetFriendPersonaState(CSteamID)
+7	CAdapterSteamFriends005::GetFriendPersonaName(CSteamID)
+8	CAdapterSteamFriends005::GetFriendAvatar(CSteamID,int)
+9	CAdapterSteamFriends005::GetFriendGamePlayed(CSteamID,FriendGameInfo_t *)
+10	CAdapterSteamFriends005::GetFriendPersonaNameHistory(CSteamID,int)
+11	CAdapterSteamFriends005::HasFriend(CSteamID,int)
+12	CAdapterSteamFriends005::GetClanCount(void)
+13	CAdapterSteamFriends005::GetClanByIndex(int)
+14	CAdapterSteamFriends005::GetClanName(CSteamID)
+15	CAdapterSteamFriends005::GetFriendCountFromSource(CSteamID)
+16	CAdapterSteamFriends005::GetFriendFromSourceByIndex(CSteamID,int)
+17	CAdapterSteamFriends005::IsUserInSource(CSteamID,CSteamID)
+18	CAdapterSteamFriends005::SetInGameVoiceSpeaking(CSteamID,bool)
+19	CAdapterSteamFriends005::ActivateGameOverlay(char const*)
+20	CAdapterSteamFriends005::ActivateGameOverlayToUser(char const*,CSteamID)
+21	CAdapterSteamFriends005::ActivateGameOverlayToWebPage(char const*)
+22	CAdapterSteamFriends005::ActivateGameOverlayToStore(unsigned int)
+23	CAdapterSteamFriends005::SetPlayedWith(CSteamID)
+

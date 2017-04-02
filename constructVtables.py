@@ -3,6 +3,7 @@ import sys
 import re
 import subprocess
 import threading
+import platform
 
 import msvcDemangler
 

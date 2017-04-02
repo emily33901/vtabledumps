@@ -1,4 +1,5 @@
 import os
+import sys
 import re
 import subprocess
 import threading
@@ -185,6 +186,7 @@ def EnumerateOSXNames(folder):
     print("performing osx demangling...");
     threads = [];
     for file in os.listdir(folder):
+        print(".", end="", flush=True);
         t = threading.Thread(target=LookupUniqueOSXName, args=(file,));
         t.start();
         threads.append(t);
@@ -218,9 +220,8 @@ def ProcessFolderPair(osx_folder, win_folder, out_folder):
         out_file = out_folder + "/" + file;
         #print(out_file);
         ProcessVtablePair(osx_folder + "/" + osx_file, win_folder + "/" + file, out_file);
-        
-# main
-for file in os.listdir():
+
+def ProcessFileSplit(file):
     fileSplit = file.split("_");
     #print(fileSplit);
     
@@ -231,7 +232,7 @@ for file in os.listdir():
         if(fileSplit[1] == "osx"):
             fileExension = "win32";
         else:
-            continue;   # we dont want to do from windows to osx
+            return;   # we dont want to do from windows to osx
                         # that would be pointless
         
         newFile = fileSplit[0] + "_" + fileExension;
@@ -240,4 +241,13 @@ for file in os.listdir():
 
         if(exists):
             output = fileSplit[0] + "_" + "merge";
+            print("merging " + file + " + " + newFile + " => " + output);
             ProcessFolderPair("." + "/" + file, "." + "/" + newFile, "." + "/" + output);
+        
+# main
+if(len(sys.argv) > 0):
+    for a in sys.argv:
+        ProcessFileSplit(a);
+else:
+    for file in os.listdir():
+        ProcessFileSplit(file);

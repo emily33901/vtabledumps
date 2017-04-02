@@ -47,8 +47,9 @@ def FindUniqueWindowsName(string):
 
 def FindUniqueOSXName(string):
     c = None;
+    p = platform.machine();
     if(os.name == "posix"):
-        c = subprocess.run(["./__cxa_demangle", string[1:-4]], stdout=subprocess.PIPE, shell=False);
+        c = subprocess.run(["./__cxa_demangle_" + p, string[1:-4]], stdout=subprocess.PIPE, shell=False);
     else:
         c = subprocess.run(["__cxa_demangle", string[1:-4]], stdout=subprocess.PIPE, shell=True);
     

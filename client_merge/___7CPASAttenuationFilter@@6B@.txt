@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPASAttenuationFilter
+// Auto reconstructed from vtable block @ 0x0104B7E0
+// from "client.dylib", by ida_vtables.idc
+0	CPASAttenuationFilter::~CPASAttenuationFilter()
+1	C_RecipientFilter::IsReliable(void)const
+2	C_RecipientFilter::IsInitMessage(void)const
+3	C_RecipientFilter::GetRecipientCount(void)const
+4	C_RecipientFilter::GetRecipientIndex(int)const
+

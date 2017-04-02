@@ -1,0 +1,62 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFGameMovement
+// Auto reconstructed from vtable block @ 0x00E4FEF0
+// from "client.dylib", by ida_vtables.idc
+0	CTFGameMovement::~CTFGameMovement()
+1	CTFGameMovement::ProcessMovement(C_BasePlayer *,CMoveData *)
+2	CGameMovement::StartTrackPredictionErrors(C_BasePlayer *)
+3	CGameMovement::FinishTrackPredictionErrors(C_BasePlayer *)
+4	CGameMovement::DiffPrint(char const*,...)
+5	CGameMovement::GetPlayerMins(bool)const
+6	CGameMovement::GetPlayerMaxs(bool)const
+7	CTFGameMovement::GetPlayerViewOffset(bool)const
+8	CTFGameMovement::TracePlayerBBox(Vector const&,Vector const&,unsigned int,int,CGameTrace &)
+90	CGameMovement::TryTouchGround(Vector const&,Vector const&,Vector const&,Vector const&,unsigned int,int,CGameTrace &)
+10	CTFGameMovement::PlayerSolidMask(bool)
+11	CTFGameMovement::PlayerMove(void)
+12	CGameMovement::CalcRoll(QAngle const&,Vector const&,float,float)
+13	CGameMovement::DecayPunchAngle(void)
+14	CTFGameMovement::CheckWaterJump(void)
+15	CTFGameMovement::WaterMove(void)
+16	CGameMovement::AirAccelerate(Vector &,float,float)
+17	CTFGameMovement::AirMove(void)
+18	CTFGameMovement::GetAirSpeedCap(void)
+19	CTFGameMovement::CanAccelerate(void)
+20	CGameMovement::Accelerate(Vector &,float,float)
+21	CTFGameMovement::WalkMove(void)
+22	CTFGameMovement::FullWalkMove(void)
+23	CGameMovement::OnJump(float)
+24	CGameMovement::OnLand(float)
+25	CGameMovement::OnTryPlayerMoveCollision(CGameTrace &)
+26	CGameMovement::GetPlayerMins(void)const
+27	CGameMovement::GetPlayerMaxs(void)const
+28	CGameMovement::GetCheckInterval(CGameMovement::IntervalType_t)
+29	CTFGameMovement::CheckJumpButton(void)
+30	CTFGameMovement::FullTossMove(void)
+31	CGameMovement::FullLadderMove(void)
+32	CGameMovement::TryPlayerMove(Vector *,CGameTrace *)
+33	CGameMovement::LadderMove(void)
+34	CGameMovement::OnLadder(CGameTrace &)
+35	CGameMovement::LadderDistance(void)const
+36	CGameMovement::LadderMask(void)const
+37	CGameMovement::ClimbSpeed(void)const
+38	CGameMovement::LadderLateralMultiplier(void)const
+39	CTFGameMovement::CheckStuck(void)
+40	CTFGameMovement::CheckWater(void)
+41	CTFGameMovement::CategorizePosition(void)
+42	CGameMovement::CheckParameters(void)
+43	CGameMovement::ReduceTimers(void)
+44	CTFGameMovement::CheckFalling(void)
+45	CTFGameMovement::PlayerRoughLandingEffects(float)
+46	CTFGameMovement::Duck(void)
+47	CTFGameMovement::HandleDuckingSpeedCrop(void)
+48	CGameMovement::FinishUnDuck(void)
+49	CGameMovement::FinishDuck(void)
+50	CGameMovement::CanUnduck(void)
+51	CTFGameMovement::TestPlayerPosition(Vector const&,int,CGameTrace &)
+52	CTFGameMovement::SetGroundEntity(CGameTrace *)
+53	CTFGameMovement::StepMove(Vector &,CGameTrace &)
+54	CTFGameMovement::GameHasLadders(void)const
+

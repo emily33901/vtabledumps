@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEffectsList
+// Auto reconstructed from vtable block @ 0x00E99FE0
+// from "client.dylib", by ida_vtables.idc
+0	CEffectsList::~CEffectsList()
+1	CEffectsList::AddEffect(CClientSideEffect *)
+2	CEffectsList::RemoveEffect(CClientSideEffect *)
+3	CEffectsList::DrawEffects(double)
+4	CEffectsList::Flush(void)
+

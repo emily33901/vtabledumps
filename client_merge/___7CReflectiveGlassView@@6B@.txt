@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CReflectiveGlassView
+// Auto reconstructed from vtable block @ 0x010117F0
+// from "client.dylib", by ida_vtables.idc
+0	CReflectiveGlassView::~CReflectiveGlassView()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CRendering3dView::GetDrawFlags(void)
+3	CReflectiveGlassView::Draw(void)
+4	CReflectiveGlassView::AdjustView(float)
+5	CReflectiveGlassView::PushView(float)
+6	CReflectiveGlassView::PopView(void)
+

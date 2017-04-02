@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRecordingList
+// Auto reconstructed from vtable block @ 0x00E9E080
+// from "client.dylib", by ida_vtables.idc
+0	CRecordingList::~CRecordingList()
+1	CRecordingList::AddToList(CBaseHandle)
+2	CRecordingList::RemoveFromList(CBaseHandle)
+3	CRecordingList::Count(void)
+4	CRecordingList::Get(int)
+

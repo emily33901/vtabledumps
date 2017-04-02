@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAboveWaterView::CRefractionView
+// Auto reconstructed from vtable block @ 0x010116B0
+// from "client.dylib", by ida_vtables.idc
+0	CAboveWaterView::CRefractionView::~CRefractionView()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CRendering3dView::GetDrawFlags(void)
+3	CAboveWaterView::CRefractionView::Draw(void)
+4	CBaseWorldView::AdjustView(float)
+5	CBaseWorldView::PushView(float)
+6	CBaseWorldView::PopView(void)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_PasstimePassReticle
+// Auto reconstructed from vtable block @ 0x00F96C20
+// from "client.dylib", by ida_vtables.idc
+0	C_PasstimePassReticle::~C_PasstimePassReticle()
+1	C_PasstimePassReticle::Update(void)
+

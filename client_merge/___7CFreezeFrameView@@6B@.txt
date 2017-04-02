@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFreezeFrameView
+// Auto reconstructed from vtable block @ 0x010115A0
+// from "client.dylib", by ida_vtables.idc
+0	CFreezeFrameView::~CFreezeFrameView()
+1	CRefCountServiceBase<true,CRefMT>::OnFinalRelease(void)
+2	CRendering3dView::GetDrawFlags(void)
+3	CFreezeFrameView::Draw(void)
+

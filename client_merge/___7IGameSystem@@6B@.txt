@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IGameSystem
+// Auto reconstructed from vtable block @ 0x00E42060
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	IGameSystem::LevelShutdownPreClearSteamAPIContext(void)
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+9	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	IGameSystem::~IGameSystem()
+

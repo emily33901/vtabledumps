@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::InvalidArgument
+// Auto reconstructed from vtable block @ 0x01017F00
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::InvalidArgument::~InvalidArgument()
+1	CryptoPP::Exception::what(void)const
+2	aBogusMessageCo
+

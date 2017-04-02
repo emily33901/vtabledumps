@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CProtoBufNetPacket
+// Auto reconstructed from vtable block @ 0x01018F30
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufNetPacket::~CProtoBufNetPacket()
+1	GCSDK::CRefCount::DestroyThis(void)
+2	GCSDK::CProtoBufNetPacket::GetEMsgFormatType(void)const
+3	GCSDK::CProtoBufNetPacket::GetCNetPacket(void)const
+4	GCSDK::CProtoBufNetPacket::PubData(void)const
+5	GCSDK::CProtoBufNetPacket::CubData(void)const
+6	GCSDK::CProtoBufNetPacket::GetEMsg(void)const
+7	GCSDK::CProtoBufNetPacket::GetSourceJobID(void)const
+8	GCSDK::CProtoBufNetPacket::GetTargetJobID(void)const
+90	GCSDK::CProtoBufNetPacket::SetTargetJobID(unsigned long long)
+10	GCSDK::CProtoBufNetPacket::GetSteamID(void)const
+11	GCSDK::CProtoBufNetPacket::SetSteamID(CSteamID)
+12	GCSDK::CProtoBufNetPacket::GetSourceAppID(void)const
+13	GCSDK::CProtoBufNetPacket::SetSourceAppID(unsigned int)
+14	GCSDK::CProtoBufNetPacket::BHasTargetJobName(void)const
+15	GCSDK::CProtoBufNetPacket::GetTargetJobName(void)const
+

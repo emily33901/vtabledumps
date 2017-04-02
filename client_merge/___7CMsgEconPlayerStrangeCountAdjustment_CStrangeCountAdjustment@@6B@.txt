@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment
+// Auto reconstructed from vtable block @ 0x00E3D7F0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::~CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::New(void)const
+3	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::Clear(void)
+4	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::ByteSize(void)const
+90	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::GetCachedSize(void)const
+12	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::CopyFrom(google::protobuf::Message const&)
+13	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::GetMetadata(void)const
+

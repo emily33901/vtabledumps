@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttribute_DynamicRecipeComponent
+// Auto reconstructed from vtable block @ 0x00E535E0
+// from "client.dylib", by ida_vtables.idc
+0	CAttribute_DynamicRecipeComponent::~CAttribute_DynamicRecipeComponent()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CAttribute_DynamicRecipeComponent::New(void)const
+3	CAttribute_DynamicRecipeComponent::Clear(void)
+4	CAttribute_DynamicRecipeComponent::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CAttribute_DynamicRecipeComponent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CAttribute_DynamicRecipeComponent::ByteSize(void)const
+90	CAttribute_DynamicRecipeComponent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CAttribute_DynamicRecipeComponent::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CAttribute_DynamicRecipeComponent::GetCachedSize(void)const
+12	CAttribute_DynamicRecipeComponent::CopyFrom(google::protobuf::Message const&)
+13	CAttribute_DynamicRecipeComponent::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CAttribute_DynamicRecipeComponent::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CAttribute_DynamicRecipeComponent::GetMetadata(void)const
+

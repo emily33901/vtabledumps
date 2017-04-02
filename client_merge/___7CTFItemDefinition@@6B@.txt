@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFItemDefinition
+// Auto reconstructed from vtable block @ 0x00E55F90
+// from "client.dylib", by ida_vtables.idc
+0	CTFItemDefinition::~CTFItemDefinition()
+1	CTFItemDefinition::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+2	CTFItemDefinition::BInitFromTestItemKVs(int,KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+3	CTFItemDefinition::GeneratePrecacheModelStrings(bool,CUtlVector<char const*,CUtlMemory<char const*,int>> *)const
+4	CEconItemDefinition::GeneratePrecacheSoundStrings(bool,CUtlVector<char const*,CUtlMemory<char const*,int>> *)const
+5	CTFItemDefinition::CopyPolymorphic(CEconItemDefinition const*)
+6	CEconItemDefinition::GetBundleItemCount(void)const
+7	CEconItemDefinition::GetBundleItem(int)const
+8	CEconItemDefinition::GetIconDisplayModel(void)const
+90	CTFItemDefinition::IsContentStreamable(void)const
+10	CTFItemDefinition::GetPlayerDisplayModelAlt(int)const
+

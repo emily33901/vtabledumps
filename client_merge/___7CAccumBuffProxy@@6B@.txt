@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAccumBuffProxy
+// Auto reconstructed from vtable block @ 0x00F16670
+// from "client.dylib", by ida_vtables.idc
+0	CAccumBuffProxy::Init(IMaterial *,KeyValues *)
+1	CAccumBuffProxy::OnBind(void *)
+2	CAccumBuffProxy::Release(void)
+3	CAccumBuffProxy::GetMaterial(void)
+4	CAccumBuffProxy::~CAccumBuffProxy()
+

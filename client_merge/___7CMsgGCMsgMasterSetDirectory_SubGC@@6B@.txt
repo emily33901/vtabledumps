@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCMsgMasterSetDirectory_SubGC
+// Auto reconstructed from vtable block @ 0x00E97C50
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCMsgMasterSetDirectory_SubGC::~CMsgGCMsgMasterSetDirectory_SubGC()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCMsgMasterSetDirectory_SubGC::New(void)const
+3	CMsgGCMsgMasterSetDirectory_SubGC::Clear(void)
+4	CMsgGCMsgMasterSetDirectory_SubGC::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCMsgMasterSetDirectory_SubGC::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCMsgMasterSetDirectory_SubGC::ByteSize(void)const
+90	CMsgGCMsgMasterSetDirectory_SubGC::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCMsgMasterSetDirectory_SubGC::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCMsgMasterSetDirectory_SubGC::GetCachedSize(void)const
+12	CMsgGCMsgMasterSetDirectory_SubGC::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCMsgMasterSetDirectory_SubGC::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCMsgMasterSetDirectory_SubGC::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCMsgMasterSetDirectory_SubGC::GetMetadata(void)const
+

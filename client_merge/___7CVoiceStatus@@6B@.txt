@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CVoiceStatus
+// Auto reconstructed from vtable block @ 0x00E94BC0
+// from "client.dylib", by ida_vtables.idc
+0	CVoiceStatus::~CVoiceStatus()
+1	CVoiceStatus::Init(IVoiceStatusHelper *,unsigned int)
+2	CVoiceStatus::VidInit(void)
+

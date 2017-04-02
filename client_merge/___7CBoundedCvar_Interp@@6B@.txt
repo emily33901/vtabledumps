@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBoundedCvar_Interp
+// Auto reconstructed from vtable block @ 0x0108A560
+// from "client.dylib", by ida_vtables.idc
+0	CBoundedCvar_Interp::~CBoundedCvar_Interp()
+1	ConVar::IsCommand(void)const
+2	ConVar::IsFlagSet(int)const
+3	ConVar::AddFlags(int)
+4	ConVar::GetName(void)const
+5	ConVar::GetHelpText(void)const
+6	ConVar::IsRegistered(void)const
+7	ConCommandBase::GetDLLIdentifier(void)const
+8	ConCommandBase::CreateBase(char const*,char const*,int)
+90	ConVar::Init(void)
+10	ConVar::SetValue(char const*)
+11	ConVar::SetValue(float)
+12	ConVar::SetValue(int)
+13	ConVar::InternalSetValue(char const*)
+14	ConVar::InternalSetFloatValue(float,bool)
+15	ConVar::InternalSetIntValue(int)
+16	ConVar::ClampValue(float &)
+17	ConVar::ChangeStringValue(char const*,float)
+18	CBoundedCvar_Interp::GetFloat(void)const
+

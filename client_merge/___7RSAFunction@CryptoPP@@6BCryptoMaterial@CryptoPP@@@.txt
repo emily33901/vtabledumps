@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::CryptoMaterial
+// Auto reconstructed from vtable block @ 0x01015AA0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::CryptoMaterial::~CryptoMaterial()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator &,unsigned int)const
+5	CryptoPP::CryptoMaterial::Save(CryptoPP::BufferedTransformation &)const
+6	CryptoPP::CryptoMaterial::Load(CryptoPP::BufferedTransformation &)
+7	CryptoPP::CryptoMaterial::SupportsPrecomputation(void)const
+8	CryptoPP::CryptoMaterial::Precompute(unsigned int)
+90	CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation &)
+10	CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation &)const
+

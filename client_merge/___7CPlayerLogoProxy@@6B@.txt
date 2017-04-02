@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPlayerLogoProxy
+// Auto reconstructed from vtable block @ 0x00F15800
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerLogoProxy::Init(IMaterial *,KeyValues *)
+1	CPlayerLogoProxy::OnBind(void *)
+2	CPlayerLogoProxy::Release(void)
+3	CPlayerLogoProxy::GetMaterial(void)
+4	CPlayerLogoProxy::~CPlayerLogoProxy()
+5	CPlayerLogoProxy::OnLogoBindInternal(int)
+

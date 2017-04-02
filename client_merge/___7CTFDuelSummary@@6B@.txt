@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFDuelSummary
+// Auto reconstructed from vtable block @ 0x0104F670
+// from "client.dylib", by ida_vtables.idc
+0	CTFDuelSummary::~CTFDuelSummary()
+1	GCSDK::CProtoBufSharedObject<CSOTFDuelSummary,19>::GetTypeID(void)const
+2	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+4	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+5	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+6	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+7	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+8	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+90	GCSDK::CSharedObject::GetDebugString(void)const
+10	GCSDK::CProtoBufSharedObject<CSOTFDuelSummary,19>::GetPObject(void)
+

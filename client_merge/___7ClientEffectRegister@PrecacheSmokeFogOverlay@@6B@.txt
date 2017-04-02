@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'PrecacheSmokeFogOverlay::ClientEffectRegister
+// Auto reconstructed from vtable block @ 0x00F333D0
+// from "client.dylib", by ida_vtables.idc
+0	PrecacheSmokeFogOverlay::ClientEffectRegister::Cache(bool)
+

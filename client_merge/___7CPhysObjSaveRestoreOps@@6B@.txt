@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPhysObjSaveRestoreOps
+// Auto reconstructed from vtable block @ 0x01055330
+// from "client.dylib", by ida_vtables.idc
+0	CPhysObjSaveRestoreOps::Save(SaveRestoreFieldInfo_t const&,ISave *)
+1	CPhysObjSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&,IRestore *)
+2	CPhysObjSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+3	CPhysObjSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+4	CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&,char const*)
+

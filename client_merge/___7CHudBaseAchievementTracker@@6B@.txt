@@ -1,0 +1,28 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudBaseAchievementTracker
+// Auto reconstructed from vtable block @ 0x00F03FA0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudBaseAchievementTracker
+1	CHudBaseAchievementTracker::~CHudBaseAchievementTracker()
+2	CHudElement::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudBaseAchievementTracker::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudBaseAchievementTracker::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudBaseAchievementTracker::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+16	CHudBaseAchievementTracker::GetMessageMap(void)
+17	CHudBaseAchievementTracker::GetAnimMap(void)
+18	CHudBaseAchievementTracker::GetKBMap(void)
+19	CHudBaseAchievementTracker::ApplySchemeSettings(vgui::IScheme *)
+20	CHudBaseAchievementTracker::OnThink(void)
+

@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFPlayerShared::NetworkVar_m_ConditionList
+// Auto reconstructed from vtable block @ 0x0107C9C0
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerShared::NetworkVar_m_ConditionList::NetworkStateChanged(void)
+1	CTFPlayerShared::NetworkVar_m_ConditionList::NetworkStateChanged(void *)
+2	CTFConditionList::GetPredDescMap(void)
+3	CTFConditionList::OnPreDataChanged(void)
+4	CTFConditionList::OnDataChanged(C_TFPlayer *)
+

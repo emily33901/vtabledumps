@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CQuestNotification_NewQuest
+// Auto reconstructed from vtable block @ 0x00FC9330
+// from "client.dylib", by ida_vtables.idc
+0	CQuestNotification_NewQuest::~CQuestNotification_NewQuest()
+1	CQuestNotification_Speaking::Present(CQuestNotificationPanel *)
+2	CQuestNotification_Speaking::Update(CQuestNotificationPanel *)
+3	CQuestNotification_Speaking::IsDone(void)const
+4	CQuestNotification_NewQuest::ShouldPresent(void)const
+5	CQuestNotification_NewQuest::GetType(void)const
+6	CQuestNotification_NewQuest::GetReplayTime(void)const
+7	CQuestNotification_NewQuest::GetSoundEntry(CQuestThemeDefinition const*,int)
+8	CQuestNotification_NewQuest::GetMessageMap(void)
+90	CQuestNotification_NewQuest::GetAnimMap(void)
+10	CQuestNotification_NewQuest::GetKBMap(void)
+

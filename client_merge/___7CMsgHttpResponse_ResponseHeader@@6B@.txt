@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgHttpResponse_ResponseHeader
+// Auto reconstructed from vtable block @ 0x00E96AB0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgHttpResponse_ResponseHeader::~CMsgHttpResponse_ResponseHeader()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgHttpResponse_ResponseHeader::New(void)const
+3	CMsgHttpResponse_ResponseHeader::Clear(void)
+4	CMsgHttpResponse_ResponseHeader::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgHttpResponse_ResponseHeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgHttpResponse_ResponseHeader::ByteSize(void)const
+90	CMsgHttpResponse_ResponseHeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgHttpResponse_ResponseHeader::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgHttpResponse_ResponseHeader::GetCachedSize(void)const
+12	CMsgHttpResponse_ResponseHeader::CopyFrom(google::protobuf::Message const&)
+13	CMsgHttpResponse_ResponseHeader::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgHttpResponse_ResponseHeader::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgHttpResponse_ResponseHeader::GetMetadata(void)const
+

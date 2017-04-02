@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'BlankImage
+// Auto reconstructed from vtable block @ 0x01154DA0
+// from "client.dylib", by ida_vtables.idc
+0	BlankImage::Paint(void)
+1	BlankImage::SetPos(int,int)
+2	BlankImage::GetContentSize(int &,int &)
+3	BlankImage::GetSize(int &,int &)
+4	BlankImage::SetSize(int,int)
+5	BlankImage::SetColor(Color)
+6	BlankImage::~BlankImage()
+7	BlankImage::Evict(void)
+8	BlankImage::GetNumFrames(void)
+90	BlankImage::SetFrame(int)
+10	BlankImage::GetID(void)
+11	BlankImage::SetRotation(int)
+

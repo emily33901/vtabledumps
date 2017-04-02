@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CExplosionOverlay
+// Auto reconstructed from vtable block @ 0x00EB7230
+// from "client.dylib", by ida_vtables.idc
+0	CExplosionOverlay::~CExplosionOverlay()
+1	CExplosionOverlay::Update(void)
+2	CGlowOverlay::CalcSpriteColorAndSize(float,CGlowSprite *,float *,float *,Vector *)
+3	CGlowOverlay::CalcBasis(Vector const&,float,float,Vector&,Vector&,Vector&)
+4	CWarpOverlay::Draw(bool)
+

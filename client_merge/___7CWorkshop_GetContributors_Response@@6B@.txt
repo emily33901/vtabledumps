@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkshop_GetContributors_Response
+// Auto reconstructed from vtable block @ 0x00E3B6E0
+// from "client.dylib", by ida_vtables.idc
+0	CWorkshop_GetContributors_Response::~CWorkshop_GetContributors_Response()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CWorkshop_GetContributors_Response::New(void)const
+3	CWorkshop_GetContributors_Response::Clear(void)
+4	CWorkshop_GetContributors_Response::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CWorkshop_GetContributors_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CWorkshop_GetContributors_Response::ByteSize(void)const
+90	CWorkshop_GetContributors_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CWorkshop_GetContributors_Response::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CWorkshop_GetContributors_Response::GetCachedSize(void)const
+12	CWorkshop_GetContributors_Response::CopyFrom(google::protobuf::Message const&)
+13	CWorkshop_GetContributors_Response::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CWorkshop_GetContributors_Response::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CWorkshop_GetContributors_Response::GetMetadata(void)const
+

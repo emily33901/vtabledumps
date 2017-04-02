@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgFulfillDynamicRecipeComponent
+// Auto reconstructed from vtable block @ 0x00E3B380
+// from "client.dylib", by ida_vtables.idc
+0	CMsgFulfillDynamicRecipeComponent::~CMsgFulfillDynamicRecipeComponent()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgFulfillDynamicRecipeComponent::New(void)const
+3	CMsgFulfillDynamicRecipeComponent::Clear(void)
+4	CMsgFulfillDynamicRecipeComponent::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgFulfillDynamicRecipeComponent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgFulfillDynamicRecipeComponent::ByteSize(void)const
+90	CMsgFulfillDynamicRecipeComponent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgFulfillDynamicRecipeComponent::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgFulfillDynamicRecipeComponent::GetCachedSize(void)const
+12	CMsgFulfillDynamicRecipeComponent::CopyFrom(google::protobuf::Message const&)
+13	CMsgFulfillDynamicRecipeComponent::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgFulfillDynamicRecipeComponent::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgFulfillDynamicRecipeComponent::GetMetadata(void)const
+

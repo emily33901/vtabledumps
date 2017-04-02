@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_EconItemView
+// Auto reconstructed from vtable block @ 0x00E3F230
+// from "client.dylib", by ida_vtables.idc
+0	C_EconItemView::~C_EconItemView()
+1	CDefaultClientRenderable::SetRefEHandle(CBaseHandle const&)
+2	CDefaultClientRenderable::GetRefEHandle(void)const
+3	CDefaultClientRenderable::GetCollideable(void)
+4	CDefaultClientRenderable::GetClientNetworkable(void)
+5	CDefaultClientRenderable::GetClientRenderable(void)
+6	CDefaultClientRenderable::GetIClientEntity(void)
+7	CDefaultClientRenderable::GetBaseEntity(void)
+8	CDefaultClientRenderable::GetClientThinkable(void)
+90	C_EconItemView::GetRenderOrigin(void)
+10	C_EconItemView::GetRenderAngles(void)
+11	C_EconItemView::RenderableToWorldTransform(void)
+12	C_EconItemView::ShouldDraw(void)
+

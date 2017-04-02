@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgCraftCollectionUpgrade
+// Auto reconstructed from vtable block @ 0x00E3E330
+// from "client.dylib", by ida_vtables.idc
+0	CMsgCraftCollectionUpgrade::~CMsgCraftCollectionUpgrade()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgCraftCollectionUpgrade::New(void)const
+3	CMsgCraftCollectionUpgrade::Clear(void)
+4	CMsgCraftCollectionUpgrade::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgCraftCollectionUpgrade::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgCraftCollectionUpgrade::ByteSize(void)const
+90	CMsgCraftCollectionUpgrade::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgCraftCollectionUpgrade::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgCraftCollectionUpgrade::GetCachedSize(void)const
+12	CMsgCraftCollectionUpgrade::CopyFrom(google::protobuf::Message const&)
+13	CMsgCraftCollectionUpgrade::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgCraftCollectionUpgrade::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgCraftCollectionUpgrade::GetMetadata(void)const
+

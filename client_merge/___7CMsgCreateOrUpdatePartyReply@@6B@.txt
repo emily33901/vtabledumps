@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgCreateOrUpdatePartyReply
+// Auto reconstructed from vtable block @ 0x00E523E0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgCreateOrUpdatePartyReply::~CMsgCreateOrUpdatePartyReply()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgCreateOrUpdatePartyReply::New(void)const
+3	CMsgCreateOrUpdatePartyReply::Clear(void)
+4	CMsgCreateOrUpdatePartyReply::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgCreateOrUpdatePartyReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgCreateOrUpdatePartyReply::ByteSize(void)const
+90	CMsgCreateOrUpdatePartyReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgCreateOrUpdatePartyReply::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgCreateOrUpdatePartyReply::GetCachedSize(void)const
+12	CMsgCreateOrUpdatePartyReply::CopyFrom(google::protobuf::Message const&)
+13	CMsgCreateOrUpdatePartyReply::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgCreateOrUpdatePartyReply::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgCreateOrUpdatePartyReply::GetMetadata(void)const
+

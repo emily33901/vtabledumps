@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgIncrementKillCountAttribute_Multiple
+// Auto reconstructed from vtable block @ 0x00E39F40
+// from "client.dylib", by ida_vtables.idc
+0	CMsgIncrementKillCountAttribute_Multiple::~CMsgIncrementKillCountAttribute_Multiple()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgIncrementKillCountAttribute_Multiple::New(void)const
+3	CMsgIncrementKillCountAttribute_Multiple::Clear(void)
+4	CMsgIncrementKillCountAttribute_Multiple::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgIncrementKillCountAttribute_Multiple::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgIncrementKillCountAttribute_Multiple::ByteSize(void)const
+90	CMsgIncrementKillCountAttribute_Multiple::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgIncrementKillCountAttribute_Multiple::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgIncrementKillCountAttribute_Multiple::GetCachedSize(void)const
+12	CMsgIncrementKillCountAttribute_Multiple::CopyFrom(google::protobuf::Message const&)
+13	CMsgIncrementKillCountAttribute_Multiple::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgIncrementKillCountAttribute_Multiple::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgIncrementKillCountAttribute_Multiple::GetMetadata(void)const
+

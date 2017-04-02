@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IParticleEffect
+// Auto reconstructed from vtable block @ 0x010C7180
+// from "client.dylib", by ida_vtables.idc
+0	IParticleEffect::~IParticleEffect()
+1	IParticleEffect::Update(float)
+2	IParticleEffect::StartRender(VMatrix &)
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	IParticleEffect::NotifyRemove(void)
+8	IParticleEffect::NotifyDestroyParticle(Particle *)
+90	___cxa_pure_virtual
+10	IParticleEffect::GetParticlePosition(Particle *)
+11	IParticleEffect::GetEffectName(void)
+

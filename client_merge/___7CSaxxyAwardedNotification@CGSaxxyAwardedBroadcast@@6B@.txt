@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGSaxxyAwardedBroadcast::CSaxxyAwardedNotification
+// Auto reconstructed from vtable block @ 0x011178B0
+// from "client.dylib", by ida_vtables.idc
+0	CGSaxxyAwardedBroadcast::CSaxxyAwardedNotification::~CSaxxyAwardedNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEconNotification::BShowInGameElements(void)const
+5	CEconNotification::MarkForDeletion(void)
+6	CGSaxxyAwardedBroadcast::CSaxxyAwardedNotification::CanBeTriggered(void)
+7	CGSaxxyAwardedBroadcast::CSaxxyAwardedNotification::Trigger(void)
+8	CEconNotification::CanBeAcceptedOrDeclined(void)
+90	CEconNotification::Accept(void)
+10	CEconNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

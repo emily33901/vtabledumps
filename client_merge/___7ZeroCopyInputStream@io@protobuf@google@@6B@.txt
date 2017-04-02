@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::io::ZeroCopyInputStream
+// Auto reconstructed from vtable block @ 0x01019188
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::io::ZeroCopyInputStream::~ZeroCopyInputStream()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+

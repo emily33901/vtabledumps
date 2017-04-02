@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSteamWorksGameStatsUploader
+// Auto reconstructed from vtable block @ 0x00E43B90
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CSteamWorksGameStatsUploader::Init(void)
+2	CSteamWorksGameStatsUploader::PostInit(void)
+3	CSteamWorksGameStatsUploader::Shutdown(void)
+4	CSteamWorksGameStatsUploader::LevelInitPreEntity(void)
+5	CSteamWorksGameStatsUploader::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CSteamWorksGameStatsUploader::OnSave(void)
+10	CSteamWorksGameStatsUploader::OnRestore(void)
+11	CSteamWorksGameStatsUploader::SafeRemoveIfDesired(void)
+12	CSteamWorksGameStatsUploader::IsPerFrame(void)
+13	CSteamWorksGameStatsUploader::~CSteamWorksGameStatsUploader()
+14	CSteamWorksGameStatsUploader::PreRender(void)
+15	CSteamWorksGameStatsUploader::Update(float)
+16	CSteamWorksGameStatsUploader::PostRender(void)
+17	CSteamWorksGameStatsUploader::FrameUpdatePreEntityThink(void)
+18	CSteamWorksGameStatsUploader::FrameUpdatePostEntityThink(void)
+19	CSteamWorksGameStatsUploader::PreClientUpdate(void)
+20	CSteamWorksGameStatsUploader::LevelShutdown(void)
+21	CSteamWorksGameStatsUploader::FireGameEvent(IGameEvent *)
+

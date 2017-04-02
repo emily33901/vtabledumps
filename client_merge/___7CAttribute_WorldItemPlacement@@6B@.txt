@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttribute_WorldItemPlacement
+// Auto reconstructed from vtable block @ 0x00E53AC0
+// from "client.dylib", by ida_vtables.idc
+0	CAttribute_WorldItemPlacement::~CAttribute_WorldItemPlacement()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CAttribute_WorldItemPlacement::New(void)const
+3	CAttribute_WorldItemPlacement::Clear(void)
+4	CAttribute_WorldItemPlacement::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CAttribute_WorldItemPlacement::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CAttribute_WorldItemPlacement::ByteSize(void)const
+90	CAttribute_WorldItemPlacement::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CAttribute_WorldItemPlacement::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CAttribute_WorldItemPlacement::GetCachedSize(void)const
+12	CAttribute_WorldItemPlacement::CopyFrom(google::protobuf::Message const&)
+13	CAttribute_WorldItemPlacement::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CAttribute_WorldItemPlacement::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CAttribute_WorldItemPlacement::GetMetadata(void)const
+

@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMovieItemManager
+// Auto reconstructed from vtable block @ 0x010CEA90
+// from "client.dylib", by ida_vtables.idc
+0	CMovieItemManager::~CMovieItemManager()
+1	CMovieItemManager::GetItemCount(void)
+2	CMovieItemManager::GetItems(CUtlLinkedList<IQueryableReplayItem *,int,false,int,CUtlMemory<UtlLinkedListElem_t<IQueryableReplayItem *,int>,int>> &)
+3	CMovieItemManager::GetItem(int)
+4	CMovieItemManager::AreItemsMovies(void)
+5	CMovieItemManager::DeleteItem(vgui::Panel *,int,bool)
+

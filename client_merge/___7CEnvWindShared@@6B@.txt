@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEnvWindShared
+// Auto reconstructed from vtable block @ 0x010543D8
+// from "client.dylib", by ida_vtables.idc
+0	CEnvWindShared::NetworkStateChanged(void)
+1	CEnvWindShared::NetworkStateChanged(void *)
+

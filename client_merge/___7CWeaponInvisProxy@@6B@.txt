@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWeaponInvisProxy
+// Auto reconstructed from vtable block @ 0x00E5EDF0
+// from "client.dylib", by ida_vtables.idc
+0	CWeaponInvisProxy::Init(IMaterial *,KeyValues *)
+1	CWeaponInvisProxy::OnBind(void *)
+2	CWeaponInvisProxy::Release(void)
+3	CWeaponInvisProxy::GetMaterial(void)
+4	CWeaponInvisProxy::~CWeaponInvisProxy()
+5	aCgcplayerkille
+

@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPlayerLocalData
+// Auto reconstructed from vtable block @ 0x00E9EE30
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerLocalData::GetPredDescMap(void)
+1	CPlayerLocalData::NetworkStateChanged(void)
+2	CPlayerLocalData::NetworkStateChanged(void *)
+

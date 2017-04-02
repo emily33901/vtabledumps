@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCGetEmailTemplate
+// Auto reconstructed from vtable block @ 0x00E97830
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCGetEmailTemplate::~CMsgGCGetEmailTemplate()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCGetEmailTemplate::New(void)const
+3	CMsgGCGetEmailTemplate::Clear(void)
+4	CMsgGCGetEmailTemplate::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCGetEmailTemplate::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCGetEmailTemplate::ByteSize(void)const
+90	CMsgGCGetEmailTemplate::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCGetEmailTemplate::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCGetEmailTemplate::GetCachedSize(void)const
+12	CMsgGCGetEmailTemplate::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCGetEmailTemplate::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCGetEmailTemplate::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCGetEmailTemplate::GetMetadata(void)const
+

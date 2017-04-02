@@ -1,0 +1,38 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_OP_DistanceBetweenCPs
+// Auto reconstructed from vtable block @ 0x010140B0
+// from "client.dylib", by ida_vtables.idc
+0	C_OP_DistanceBetweenCPs::InitParams(CParticleSystemDefinition *,CDmxElement *)
+1	CParticleOperatorInstance::GetRequiredContextBytes(void)const
+2	CParticleOperatorInstance::InitializeContextData(CParticleCollection *,void *)const
+3	C_OP_DistanceBetweenCPs::GetWrittenAttributes(void)const
+4	C_OP_DistanceBetweenCPs::GetReadAttributes(void)const
+5	C_OP_DistanceBetweenCPs::GetReadControlPointMask(void)const
+6	C_OP_DistanceBetweenCPs::GetReadInitialAttributes(void)const
+7	C_OP_DistanceBetweenCPs::Operate(CParticleCollection *,float,void *)const
+8	CParticleOperatorInstance::Render(IMatRenderContext *,CParticleCollection *,void *)const
+9	CParticleOperatorInstance::IsBatchable(void)const
+10	CParticleOperatorInstance::RenderUnsorted(CParticleCollection *,void *,IMatRenderContext *,CMeshBuilder &,int,int,int)const
+11	CParticleOperatorInstance::GetParticlesToRender(CParticleCollection *,void *,int,int,int,int *,int *)const
+12	CParticleOperatorInstance::Emit(CParticleCollection *,float,void *)const
+13	CParticleOperatorInstance::StopEmission(CParticleCollection *,void *,bool)const
+14	CParticleOperatorInstance::StartEmission(CParticleCollection *,void *,bool)const
+15	CParticleOperatorInstance::Restart(CParticleCollection *,void *)
+16	CParticleOperatorInstance::InitParticleSystem(CParticleCollection *,void *)const
+17	CParticleOperatorInstance::AddForces(FourVectors *,CParticleCollection *,int,float,void *)const
+18	CParticleOperatorInstance::SetupConstraintPerFrameData(CParticleCollection *,void *)const
+19	CParticleOperatorInstance::EnforceConstraint(int,int,CParticleCollection *,void *,int)const
+20	CParticleOperatorInstance::IsFinalConstraint(void)const
+21	CParticleOperatorInstance::InitMultipleOverride(void)
+22	CParticleOperatorInstance::IsScrubSafe(void)
+23	CParticleOperatorInstance::InitNewParticlesScalar(CParticleCollection *,int,int,int,void *)const
+24	CParticleOperatorInstance::InitNewParticlesBlock(CParticleCollection *,int,int,int,void *)const
+25	CParticleOperatorInstance::MayCreateMoreParticles(CParticleCollection *,void *)const
+26	CParticleOperatorInstance::ShouldRunBeforeEmitters(void)const
+27	CParticleOperatorInstance::RequiresOrderInvariance(void)const
+28	CParticleOperatorInstance::SkipToTime(float,CParticleCollection *,void *)const
+29	CParticleOperatorInstance::Render(CParticleCollection *)const
+30	C_OP_DistanceBetweenCPs::~C_OP_DistanceBetweenCPs()
+

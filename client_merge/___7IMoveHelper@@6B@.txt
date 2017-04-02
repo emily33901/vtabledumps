@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMoveHelperClient
+// Auto reconstructed from vtable block @ 0x00F13E40
+// from "client.dylib", by ida_vtables.idc
+0	CMoveHelperClient::GetName(CBaseHandle)const
+1	CMoveHelperClient::ResetTouchList(void)
+2	CMoveHelperClient::AddToTouched(CGameTrace const&,Vector const&)
+3	CMoveHelperClient::ProcessImpacts(void)
+4	CMoveHelperClient::Con_NPrintf(int,char const*,...)
+5	CMoveHelperClient::StartSound(Vector const&,int,char const*,float,soundlevel_t,int,int)
+6	CMoveHelperClient::StartSound(Vector const&,char const*)
+7	CMoveHelperClient::PlaybackEventFull(int,int,unsigned short,float,Vector &,Vector &,float,float,int,int,int,int)
+8	CMoveHelperClient::PlayerFallingDamage(void)
+9	CMoveHelperClient::PlayerSetAnimation(PLAYER_ANIM)
+10	CMoveHelperClient::GetSurfaceProps(void)
+11	CMoveHelperClient::IsWorldEntity(CBaseHandle const&)
+12	CMoveHelperClient::~CMoveHelperClient()
+

@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCustomizeTextureJobDialog
+// Auto reconstructed from vtable block @ 0x010ADB20
+// from "client.dylib", by ida_vtables.idc
+0	CCustomizeTextureJobDialog::~CCustomizeTextureJobDialog()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	CApplyCustomTextureJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+7	CCustomizeTextureJobDialog::YieldingRunJob(void)
+8	CApplyCustomTextureJob::YieldingFindFileIncacheOrUploadFileToCDN(void)
+90	CApplyCustomTextureJob::YieldingApplyTool(void)
+

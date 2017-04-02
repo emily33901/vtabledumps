@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconLootListDefinition
+// Auto reconstructed from vtable block @ 0x00E3EBC0
+// from "client.dylib", by ida_vtables.idc
+0	CEconLootListDefinition::~CEconLootListDefinition()
+1	CEconLootListDefinition::BPublicListContents(void)const
+2	CEconLootListDefinition::GetLootListHeaderLocalizationKey(void)const
+3	CEconLootListDefinition::GetLootListFooterLocalizationKey(void)const
+4	CEconLootListDefinition::GetLootListCollectionReference(void)const
+5	CEconLootListDefinition::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator *)const
+

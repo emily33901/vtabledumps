@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseToggleTextureProxy
+// Auto reconstructed from vtable block @ 0x01007D60
+// from "client.dylib", by ida_vtables.idc
+0	CBaseToggleTextureProxy::Init(IMaterial *,KeyValues *)
+1	CBaseToggleTextureProxy::OnBind(void *)
+2	CBaseToggleTextureProxy::Release(void)
+3	CBaseToggleTextureProxy::GetMaterial(void)
+4	CBaseToggleTextureProxy::~CBaseToggleTextureProxy()
+

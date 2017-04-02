@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CProtoBufMsgBase
+// Auto reconstructed from vtable block @ 0x01018FA0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CProtoBufMsgBase::~CProtoBufMsgBase()
+1	___cxa_pure_virtual
+

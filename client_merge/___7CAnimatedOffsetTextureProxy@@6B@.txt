@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAnimatedOffsetTextureProxy
+// Auto reconstructed from vtable block @ 0x00E99730
+// from "client.dylib", by ida_vtables.idc
+0	CBaseAnimatedTextureProxy::Init(IMaterial *,KeyValues *)
+1	CAnimatedOffsetTextureProxy::OnBind(void *)
+2	CBaseAnimatedTextureProxy::Release(void)
+3	CBaseAnimatedTextureProxy::GetMaterial(void)
+4	CAnimatedOffsetTextureProxy::~CAnimatedOffsetTextureProxy()
+5	CAnimatedOffsetTextureProxy::GetAnimationStartTime(void *)
+6	CBaseAnimatedTextureProxy::AnimationWrapped(void *)
+

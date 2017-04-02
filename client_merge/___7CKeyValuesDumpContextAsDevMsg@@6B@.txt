@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CKeyValuesDumpContextAsDevMsg
+// Auto reconstructed from vtable block @ 0x01044700
+// from "client.dylib", by ida_vtables.idc
+0	CKeyValuesDumpContextAsDevMsg::KvBeginKey(KeyValues *,int)
+1	IKeyValuesDumpContextAsText::KvWriteValue(KeyValues *,int)
+2	IKeyValuesDumpContextAsText::KvEndKey(KeyValues *,int)
+3	IKeyValuesDumpContextAsText::KvWriteIndent(int)
+4	CKeyValuesDumpContextAsDevMsg::KvWriteText(char const*)
+

@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CQuestThemeDefinition
+// Auto reconstructed from vtable block @ 0x00E55EE0
+// from "client.dylib", by ida_vtables.idc
+0	CQuestThemeDefinition::~CQuestThemeDefinition()
+

@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEffectsClient
+// Auto reconstructed from vtable block @ 0x00EF28E0
+// from "client.dylib", by ida_vtables.idc
+0	CEffectsClient::~CEffectsClient()
+1	CEffectsClient::Beam(Vector const&,Vector const&,int,int,unsigned char,unsigned char,float,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char,unsigned char)
+2	CEffectsClient::Smoke(Vector const&,int,float,float)
+3	CEffectsClient::Sparks(Vector const&,int,int,Vector const*)
+4	CEffectsClient::Dust(Vector const&,Vector const&,float,float)
+5	CEffectsClient::MuzzleFlash(Vector const&,QAngle const&,float,int)
+6	CEffectsClient::MetalSparks(Vector const&,Vector const&)
+7	CEffectsClient::EnergySplash(Vector const&,Vector const&,bool)
+8	CEffectsClient::Ricochet(Vector const&,Vector const&)
+90	CEffectsClient::Time(void)
+10	CEffectsClient::IsServer(void)
+11	CEffectsClient::SuppressEffectsSounds(bool)
+

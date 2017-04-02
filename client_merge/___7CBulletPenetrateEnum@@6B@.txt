@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBulletPenetrateEnum
+// Auto reconstructed from vtable block @ 0x0107C930
+// from "client.dylib", by ida_vtables.idc
+0	CBulletPenetrateEnum::EnumEntity(IHandleEntity *)
+

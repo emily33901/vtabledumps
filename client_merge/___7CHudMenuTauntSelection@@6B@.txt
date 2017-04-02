@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudMenuTauntSelection
+// Auto reconstructed from vtable block @ 0x00F8ADB0
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudMenuTauntSelection
+1	CHudMenuTauntSelection::~CHudMenuTauntSelection()
+2	CHudMenuTauntSelection::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudMenuTauntSelection::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudMenuTauntSelection::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudMenuTauntSelection::GetRenderGroupPriority(void)
+

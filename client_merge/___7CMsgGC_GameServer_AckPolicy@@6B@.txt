@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGC_GameServer_AckPolicy
+// Auto reconstructed from vtable block @ 0x00E51D80
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGC_GameServer_AckPolicy::~CMsgGC_GameServer_AckPolicy()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGC_GameServer_AckPolicy::New(void)const
+3	CMsgGC_GameServer_AckPolicy::Clear(void)
+4	CMsgGC_GameServer_AckPolicy::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGC_GameServer_AckPolicy::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGC_GameServer_AckPolicy::ByteSize(void)const
+90	CMsgGC_GameServer_AckPolicy::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGC_GameServer_AckPolicy::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGC_GameServer_AckPolicy::GetCachedSize(void)const
+12	CMsgGC_GameServer_AckPolicy::CopyFrom(google::protobuf::Message const&)
+13	CMsgGC_GameServer_AckPolicy::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGC_GameServer_AckPolicy::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGC_GameServer_AckPolicy::GetMetadata(void)const
+

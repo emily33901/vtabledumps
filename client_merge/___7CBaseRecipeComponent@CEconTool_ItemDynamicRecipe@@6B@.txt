@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconTool_ItemDynamicRecipe::CBaseRecipeComponent
+// Auto reconstructed from vtable block @ 0x00E3EE90
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::~CBaseRecipeComponent()
+1	CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::ParseKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+2	CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::BFinishInitialization_Internal(CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *,CUtlVector*<CEconItemAttributeDefinition const*,CUtlMemory<CEconItemAttributeDefinition const,int>>)
+

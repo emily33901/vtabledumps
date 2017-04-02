@@ -1,0 +1,29 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CReplay
+// Auto reconstructed from vtable block @ 0x01042350
+// from "client.dylib", by ida_vtables.idc
+0	CReplay::~CReplay()
+1	CBaseReplaySerializeable::SetHandle(unsigned int)
+2	CBaseReplaySerializeable::GetHandle(void)const
+3	CReplay::Read(KeyValues *)
+4	CReplay::Write(KeyValues *)
+5	CReplay::GetSubKeyTitle(void)const
+6	CBaseReplaySerializeable::GetFilename(void)const
+7	CReplay::GetPath(void)const
+8	CBaseReplaySerializeable::GetFullFilename(void)const
+90	CBaseReplaySerializeable::SetLocked(bool)
+10	CBaseReplaySerializeable::IsLocked(void)const
+11	CReplay::OnDelete(void)
+12	CBaseReplaySerializeable::OnUnload(void)
+13	CBaseReplaySerializeable::GetDebugName(void)const
+14	CBaseReplaySerializeable::OnAddedToDirtyList(void)
+15	CReplay::DumpGameSpecificData(void)const
+16	CReplay::Update(void)
+17	CReplay::OnBeginRecording(void)
+18	CReplay::OnEndRecording(void)
+19	CReplay::OnComplete(void)
+20	CReplay::ShouldAllowDelete(void)const
+21	CReplay::GetItemDate(void)const
+

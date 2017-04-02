@@ -1,0 +1,32 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CPlayerInventory
+// Auto reconstructed from vtable block @ 0x00E3EA90
+// from "client.dylib", by ida_vtables.idc
+0	CPlayerInventory::SOCreated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+1	CPlayerInventory::PreSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+2	CPlayerInventory::SOUpdated(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+3	CPlayerInventory::PostSOUpdate(CSteamID const&,GCSDK::ESOCacheEvent)
+4	CPlayerInventory::SODestroyed(CSteamID const&,GCSDK::CSharedObject const*,GCSDK::ESOCacheEvent)
+5	CPlayerInventory::SOCacheSubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+6	CPlayerInventory::SOCacheUnsubscribed(CSteamID const&,GCSDK::ESOCacheEvent)
+7	CPlayerInventory::~CPlayerInventory()
+8	CPlayerInventory::CanPurchaseItems(int)const
+90	CPlayerInventory::GetMaxItemCount(void)const
+10	CPlayerInventory::GetItemInLoadout(int,int)
+11	CPlayerInventory::ItemShouldBeIncluded(int)
+12	CPlayerInventory::DumpInventoryToConsole(bool)
+13	CPlayerInventory::ExtractInventorySortPosition(unsigned int)
+14	CPlayerInventory::GetPreviewItemDef(void)const
+15	CPlayerInventory::SOClear(void)
+16	CPlayerInventory::NotifyHasNewItems(void)
+17	CPlayerInventory::GetWeaponSkinBaseLowRes(unsigned long long,int)const
+18	CPlayerInventory::AddEconItem(CEconItem *,bool,bool,bool)
+19	CPlayerInventory::RemoveItem(unsigned long long)
+20	CPlayerInventory::OnHasNewItems(void)
+21	CPlayerInventory::OnItemChangedPosition(C_EconItemView *,unsigned int)
+22	CPlayerInventory::ValidateInventoryPositions(void)
+23	CPlayerInventory::ItemHasBeenUpdated(C_EconItemView *,bool,bool)
+24	CPlayerInventory::ItemIsBeingRemoved(C_EconItemView *)
+

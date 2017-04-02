@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CProxyHealth
+// Auto reconstructed from vtable block @ 0x00F157D0
+// from "client.dylib", by ida_vtables.idc
+0	CProxyHealth::Init(IMaterial *,KeyValues *)
+1	CProxyHealth::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CProxyHealth::~CProxyHealth()
+

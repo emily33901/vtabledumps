@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CStringProperty
+// Auto reconstructed from vtable block @ 0x01156450
+// from "client.dylib", by ida_vtables.idc
+0	CStringProperty::GetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+1	CStringProperty::SetData(vgui::Panel *,KeyValues *,PanelAnimationMapEntry *)
+2	CStringProperty::InitFromDefault(vgui::Panel *,PanelAnimationMapEntry *)
+

@@ -1,0 +1,20 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'ConCommand
+// Auto reconstructed from vtable block @ 0x010445B0
+// from "client.dylib", by ida_vtables.idc
+0	ConCommand::~ConCommand()
+1	ConCommand::IsCommand(void)const
+2	ConCommandBase::IsFlagSet(int)const
+3	ConCommandBase::AddFlags(int)
+4	ConCommandBase::GetName(void)const
+5	ConCommandBase::GetHelpText(void)const
+6	ConCommandBase::IsRegistered(void)const
+7	ConCommandBase::GetDLLIdentifier(void)const
+8	ConCommandBase::CreateBase(char const*,char const*,int)
+90	ConCommandBase::Init(void)
+10	ConCommand::AutoCompleteSuggest(char const*,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> &)
+11	ConCommand::CanAutoComplete(void)
+12	ConCommand::Dispatch(CCommand const&)
+

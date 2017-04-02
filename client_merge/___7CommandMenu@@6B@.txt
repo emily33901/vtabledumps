@@ -1,0 +1,40 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CommandMenu
+// Auto reconstructed from vtable block @ 0x00EF7B70
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CommandMenu
+1	vgui::Panel::GetVPanel(void)
+2	vgui::Panel::Think(void)
+3	vgui::Panel::PerformApplySchemeSettings(void)
+4	vgui::Panel::PaintTraverse(bool,bool)
+5	vgui::Panel::Repaint(void)
+6	vgui::Panel::IsWithinTraverse(int,int,bool)
+7	vgui::Panel::GetInset(int &,int &,int &,int &)
+8	vgui::Panel::GetClipRect(int &,int &,int &,int &)
+9	vgui::Panel::OnChildAdded(unsigned int)
+10	vgui::Panel::OnSizeChanged(int,int)
+11	vgui::Panel::InternalFocusChanged(bool)
+12	vgui::Panel::RequestInfo(KeyValues *)
+13	vgui::Panel::RequestFocus(int)
+14	vgui::Panel::RequestFocusPrev(unsigned int)
+15	vgui::Panel::RequestFocusNext(unsigned int)
+16	CommandMenu::OnMessage(KeyValues const*,unsigned int)
+17	vgui::Panel::GetCurrentKeyFocus(void)
+18	vgui::Panel::GetTabPosition(void)
+19	vgui::Panel::GetName(void)
+20	vgui::Panel::GetClassName(void)
+21	vgui::Panel::GetScheme(void)
+22	vgui::Panel::IsProportional(void)
+23	vgui::Panel::IsAutoDeleteSet(void)
+24	vgui::Panel::DeletePanel(void)
+25	vgui::Panel::QueryInterface(vgui::EInterfaceID)
+26	vgui::Panel::GetPanel(void)
+27	vgui::Panel::GetModuleName(void)
+28	vgui::Panel::OnTick(void)
+29	CommandMenu::GetMessageMap(void)
+30	CommandMenu::GetAnimMap(void)
+31	CommandMenu::GetKBMap(void)
+32	CommandMenu::~CommandMenu()
+

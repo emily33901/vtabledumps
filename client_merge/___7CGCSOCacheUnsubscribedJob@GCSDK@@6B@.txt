@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CGCSOCacheUnsubscribedJob
+// Auto reconstructed from vtable block @ 0x0114A740
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCSOCacheUnsubscribedJob::~CGCSOCacheUnsubscribedJob()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCSOCacheUnsubscribedJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CNewParticleEffect
+// Auto reconstructed from vtable block @ 0x010C6F00
+// from "client.dylib", by ida_vtables.idc
+0	CNewParticleEffect::~CNewParticleEffect()
+1	CNewParticleEffect::Update(float)
+2	IParticleEffect::StartRender(VMatrix &)
+3	CNewParticleEffect::ShouldSimulate(void)const
+4	CNewParticleEffect::SetShouldSimulate(bool)
+5	CNewParticleEffect::SimulateParticles(CParticleSimulateIterator *)
+6	CNewParticleEffect::RenderParticles(CParticleRenderIterator *)
+7	CNewParticleEffect::NotifyRemove(void)
+8	IParticleEffect::NotifyDestroyParticle(Particle *)
+90	CNewParticleEffect::GetSortOrigin(void)
+10	IParticleEffect::GetParticlePosition(Particle *)
+11	CNewParticleEffect::GetEffectName(void)
+12	CNewParticleEffect::ShouldDraw(void)
+13	CNewParticleEffect::IsTransparent(void)
+

@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCMsgMasterSetClientMsgRouting_Entry
+// Auto reconstructed from vtable block @ 0x00E980D0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCMsgMasterSetClientMsgRouting_Entry::~CMsgGCMsgMasterSetClientMsgRouting_Entry()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCMsgMasterSetClientMsgRouting_Entry::New(void)const
+3	CMsgGCMsgMasterSetClientMsgRouting_Entry::Clear(void)
+4	CMsgGCMsgMasterSetClientMsgRouting_Entry::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCMsgMasterSetClientMsgRouting_Entry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCMsgMasterSetClientMsgRouting_Entry::ByteSize(void)const
+90	CMsgGCMsgMasterSetClientMsgRouting_Entry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCMsgMasterSetClientMsgRouting_Entry::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCMsgMasterSetClientMsgRouting_Entry::GetCachedSize(void)const
+12	CMsgGCMsgMasterSetClientMsgRouting_Entry::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCMsgMasterSetClientMsgRouting_Entry::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCMsgMasterSetClientMsgRouting_Entry::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCMsgMasterSetClientMsgRouting_Entry::GetMetadata(void)const
+

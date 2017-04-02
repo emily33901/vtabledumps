@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTFJoinChatChannelResponse_ChatMember
+// Auto reconstructed from vtable block @ 0x00E52AA0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFJoinChatChannelResponse_ChatMember::~CMsgTFJoinChatChannelResponse_ChatMember()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTFJoinChatChannelResponse_ChatMember::New(void)const
+3	CMsgTFJoinChatChannelResponse_ChatMember::Clear(void)
+4	CMsgTFJoinChatChannelResponse_ChatMember::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTFJoinChatChannelResponse_ChatMember::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTFJoinChatChannelResponse_ChatMember::ByteSize(void)const
+90	CMsgTFJoinChatChannelResponse_ChatMember::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTFJoinChatChannelResponse_ChatMember::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTFJoinChatChannelResponse_ChatMember::GetCachedSize(void)const
+12	CMsgTFJoinChatChannelResponse_ChatMember::CopyFrom(google::protobuf::Message const&)
+13	CMsgTFJoinChatChannelResponse_ChatMember::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTFJoinChatChannelResponse_ChatMember::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTFJoinChatChannelResponse_ChatMember::GetMetadata(void)const
+

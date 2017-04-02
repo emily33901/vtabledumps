@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFParty
+// Auto reconstructed from vtable block @ 0x00E5AC20
+// from "client.dylib", by ida_vtables.idc
+0	CTFParty::~CTFParty()
+1	GCSDK::CProtoBufSharedObject<CSOTFParty,2003>::GetTypeID(void)const
+2	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+4	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+5	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+6	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+7	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+8	CTFParty::BShouldDeleteByCache(void)const
+90	GCSDK::CSharedObject::GetDebugString(void)const
+10	GCSDK::CProtoBufSharedObject<CSOTFParty,2003>::GetPObject(void)
+11	CTFParty::GetGroupID(void)const
+

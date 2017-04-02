@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCHUpdateSession
+// Auto reconstructed from vtable block @ 0x00E98370
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCHUpdateSession::~CMsgGCHUpdateSession()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCHUpdateSession::New(void)const
+3	CMsgGCHUpdateSession::Clear(void)
+4	CMsgGCHUpdateSession::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCHUpdateSession::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCHUpdateSession::ByteSize(void)const
+90	CMsgGCHUpdateSession::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCHUpdateSession::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCHUpdateSession::GetCachedSize(void)const
+12	CMsgGCHUpdateSession::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCHUpdateSession::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCHUpdateSession::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCHUpdateSession::GetMetadata(void)const
+

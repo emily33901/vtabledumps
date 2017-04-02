@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGameClientExports
+// Auto reconstructed from vtable block @ 0x0108AAE0
+// from "client.dylib", by ida_vtables.idc
+0	CGameClientExports::~CGameClientExports()
+1	CGameClientExports::IsPlayerGameVoiceMuted(int)
+2	CGameClientExports::MutePlayerGameVoice(int)
+3	CGameClientExports::UnmutePlayerGameVoice(int)
+4	CGameClientExports::OnGameUIActivated(void)
+5	CGameClientExports::OnGameUIHidden(void)
+6	CGameClientExports::CreateAchievementsPanel(vgui::Panel *)
+7	CGameClientExports::DisplayAchievementPanel(void)
+8	CGameClientExports::ShutdownAchievementPanel(void)
+90	CGameClientExports::GetAchievementsPanelMinWidth(void)const
+10	CGameClientExports::GetHolidayString(void)
+

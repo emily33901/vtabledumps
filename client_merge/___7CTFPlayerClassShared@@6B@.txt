@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFPlayerClassShared
+// Auto reconstructed from vtable block @ 0x0107AA00
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerClassShared::NetworkStateChanged(void)
+1	CTFPlayerClassShared::NetworkStateChanged(void *)
+

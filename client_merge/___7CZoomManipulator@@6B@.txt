@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CZoomManipulator
+// Auto reconstructed from vtable block @ 0x010439D0
+// from "client.dylib", by ida_vtables.idc
+0	CZoomManipulator::~CZoomManipulator()
+1	CBaseManipulator::OnBeginManipulation(void)
+2	CBaseManipulator::OnAcceptManipulation(void)
+3	CBaseManipulator::OnCancelManipulation(void)
+4	CBaseManipulator::OnTick(void)
+5	CZoomManipulator::OnCursorMoved(int,int)
+6	CZoomManipulator::OnMousePressed(ButtonCode_t,int,int)
+7	CBaseManipulator::OnMouseReleased(ButtonCode_t,int,int)
+8	CBaseManipulator::OnMouseWheeled(int)
+90	CBaseManipulator::SetViewportSize(int,int)
+

@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'PrecacheEffectImpacts::ClientEffectRegister
+// Auto reconstructed from vtable block @ 0x00EA8814
+// from "client.dylib", by ida_vtables.idc
+0	PrecacheEffectImpacts::ClientEffectRegister::Cache(bool)
+

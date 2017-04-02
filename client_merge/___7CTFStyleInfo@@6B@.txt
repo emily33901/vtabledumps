@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFStyleInfo
+// Auto reconstructed from vtable block @ 0x00E55FE0
+// from "client.dylib", by ida_vtables.idc
+0	CTFStyleInfo::~CTFStyleInfo()
+1	CTFStyleInfo::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+2	CTFStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*,CUtlMemory<char const*,int>> *)const
+

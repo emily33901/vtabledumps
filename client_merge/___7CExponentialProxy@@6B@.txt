@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CExponentialProxy
+// Auto reconstructed from vtable block @ 0x00F12DF0
+// from "client.dylib", by ida_vtables.idc
+0	CExponentialProxy::Init(IMaterial *,KeyValues *)
+1	CExponentialProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CExponentialProxy::~CExponentialProxy()
+

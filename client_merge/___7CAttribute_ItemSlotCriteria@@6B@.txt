@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAttribute_ItemSlotCriteria
+// Auto reconstructed from vtable block @ 0x00E536A0
+// from "client.dylib", by ida_vtables.idc
+0	CAttribute_ItemSlotCriteria::~CAttribute_ItemSlotCriteria()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CAttribute_ItemSlotCriteria::New(void)const
+3	CAttribute_ItemSlotCriteria::Clear(void)
+4	CAttribute_ItemSlotCriteria::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CAttribute_ItemSlotCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CAttribute_ItemSlotCriteria::ByteSize(void)const
+90	CAttribute_ItemSlotCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CAttribute_ItemSlotCriteria::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CAttribute_ItemSlotCriteria::GetCachedSize(void)const
+12	CAttribute_ItemSlotCriteria::CopyFrom(google::protobuf::Message const&)
+13	CAttribute_ItemSlotCriteria::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CAttribute_ItemSlotCriteria::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CAttribute_ItemSlotCriteria::GetMetadata(void)const
+

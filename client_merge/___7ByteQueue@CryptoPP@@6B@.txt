@@ -1,0 +1,42 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::ByteQueue
+// Auto reconstructed from vtable block @ 0x01017660
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::ByteQueue::~ByteQueue()
+1	CryptoPP::Clonable::Clone(void)const
+2	CryptoPP::Algorithm::AlgorithmName(void)const
+3	CryptoPP::ByteQueue::CreatePutSpace(unsigned long &)
+4	CryptoPP::BufferedTransformation::CanModifyInput(void)const
+5	CryptoPP::ByteQueue::Put2(unsigned char const*,unsigned long,int,bool)
+6	CryptoPP::BufferedTransformation::PutModifiable2(unsigned char *,unsigned long,int,bool)
+7	CryptoPP::BufferedTransformation::GetMaxWaitObjectCount(void)const
+8	CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer &,CryptoPP::CallStack const&)
+90	CryptoPP::ByteQueue::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+10	CryptoPP::Bufferless<CryptoPP::BufferedTransformation>::IsolatedFlush(bool,bool)
+11	CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
+12	CryptoPP::BufferedTransformation::Initialize(CryptoPP::NameValuePairs const&,int)
+13	CryptoPP::BufferedTransformation::Flush(bool,int,bool)
+14	CryptoPP::BufferedTransformation::MessageSeriesEnd(int,bool)
+15	CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
+16	CryptoPP::BufferedTransformation::GetAutoSignalPropagation(void)const
+17	CryptoPP::ByteQueue::MaxRetrievable(void)const
+18	CryptoPP::ByteQueue::AnyRetrievable(void)const
+19	CryptoPP::ByteQueue::Get(unsigned char &)
+20	CryptoPP::ByteQueue::Get(unsigned char *,unsigned long)
+21	CryptoPP::ByteQueue::Peek(unsigned char &)const
+22	CryptoPP::ByteQueue::Peek(unsigned char *,unsigned long)const
+23	CryptoPP::BufferedTransformation::Skip(unsigned long long)
+24	CryptoPP::BufferedTransformation::TotalBytesRetrievable(void)const
+25	CryptoPP::BufferedTransformation::NumberOfMessages(void)const
+26	CryptoPP::BufferedTransformation::AnyMessages(void)const
+27	CryptoPP::BufferedTransformation::GetNextMessage(void)
+28	CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+29	CryptoPP::BufferedTransformation::SkipAll(void)
+30	CryptoPP::BufferedTransformation::GetNextMessageSeries(void)
+31	CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries(void)const
+32	CryptoPP::BufferedTransformation::NumberOfMessageSeries(void)const
+33	CryptoPP::ByteQueue::TransferTo2(CryptoPP::BufferedTransformation &,unsigned long long &,std::string const&,bool)
+34	CryptoPP::ByteQueue::CopyRangeTo2(CryptoPP::BufferedTransformation &,unsigned long long &,unsigned long long,std::string const&,bool)const
+

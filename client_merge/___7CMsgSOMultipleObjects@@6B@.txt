@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgSOMultipleObjects
+// Auto reconstructed from vtable block @ 0x01018250
+// from "client.dylib", by ida_vtables.idc
+0	CMsgSOMultipleObjects::~CMsgSOMultipleObjects()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgSOMultipleObjects::New(void)const
+3	CMsgSOMultipleObjects::Clear(void)
+4	CMsgSOMultipleObjects::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgSOMultipleObjects::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgSOMultipleObjects::ByteSize(void)const
+90	CMsgSOMultipleObjects::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgSOMultipleObjects::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgSOMultipleObjects::GetCachedSize(void)const
+12	CMsgSOMultipleObjects::CopyFrom(google::protobuf::Message const&)
+13	CMsgSOMultipleObjects::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgSOMultipleObjects::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgSOMultipleObjects::GetMetadata(void)const
+

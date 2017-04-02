@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCollisionEvent
+// Auto reconstructed from vtable block @ 0x00F14A90
+// from "client.dylib", by ida_vtables.idc
+0	CCollisionEvent::PreCollision(vcollisionevent_t *)
+1	CCollisionEvent::PostCollision(vcollisionevent_t *)
+2	CCollisionEvent::Friction(IPhysicsObject *,float,int,int,IPhysicsCollisionData *)
+3	CCollisionEvent::StartTouch(IPhysicsObject *,IPhysicsObject *,IPhysicsCollisionData *)
+4	CCollisionEvent::EndTouch(IPhysicsObject *,IPhysicsObject *,IPhysicsCollisionData *)
+5	CCollisionEvent::FluidStartTouch(IPhysicsObject *,IPhysicsFluidController *)
+6	CCollisionEvent::FluidEndTouch(IPhysicsObject *,IPhysicsFluidController *)
+7	CCollisionEvent::PostSimulationFrame(void)
+8	CCollisionEvent::ObjectEnterTrigger(IPhysicsObject *,IPhysicsObject *)
+9	CCollisionEvent::ObjectLeaveTrigger(IPhysicsObject *,IPhysicsObject *)
+10	CCollisionEvent::ShouldCollide(IPhysicsObject *,IPhysicsObject *,void *,void *)
+

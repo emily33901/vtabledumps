@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFPS
+// Auto reconstructed from vtable block @ 0x0113D4C8
+// from "client.dylib", by ida_vtables.idc
+0	CFPS::Create(unsigned int)
+1	CFPS::Destroy(void)
+

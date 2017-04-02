@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule
+// Auto reconstructed from vtable block @ 0x00E3B740
+// from "client.dylib", by ida_vtables.idc
+0	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::~CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::New(void)const
+3	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::Clear(void)
+4	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::ByteSize(void)const
+90	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetCachedSize(void)const
+12	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::CopyFrom(google::protobuf::Message const&)
+13	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetMetadata(void)const
+

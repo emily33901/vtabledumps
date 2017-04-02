@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CRefCount
+// Auto reconstructed from vtable block @ 0x0114AB50
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CRefCount::~CRefCount()
+1	GCSDK::CRefCount::DestroyThis(void)
+

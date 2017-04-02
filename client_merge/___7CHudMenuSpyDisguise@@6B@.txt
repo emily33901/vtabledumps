@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudMenuSpyDisguise
+// Auto reconstructed from vtable block @ 0x00F89E20
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudMenuSpyDisguise
+1	CHudMenuSpyDisguise::~CHudMenuSpyDisguise()
+2	CHudMenuSpyDisguise::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudMenuSpyDisguise::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudMenuSpyDisguise::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudMenuSpyDisguise::GetRenderGroupPriority(void)
+

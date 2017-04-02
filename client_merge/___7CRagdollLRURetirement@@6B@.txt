@@ -1,0 +1,25 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRagdollLRURetirement
+// Auto reconstructed from vtable block @ 0x00E429B0
+// from "client.dylib", by ida_vtables.idc
+0	CAutoGameSystemPerFrame::Name(void)
+1	CBaseGameSystemPerFrame::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CRagdollLRURetirement::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CRagdollLRURetirement::~CRagdollLRURetirement()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CRagdollLRURetirement::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	CRagdollLRURetirement::FrameUpdatePostEntityThink(void)
+

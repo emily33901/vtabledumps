@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CItemSelectionCriteria::CStringCondition
+// Auto reconstructed from vtable block @ 0x00E40900
+// from "client.dylib", by ida_vtables.idc
+0	CItemSelectionCriteria::CStringCondition::~CStringCondition()
+1	CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*)const
+2	CItemSelectionCriteria::CCondition::GetEOp(void)const
+3	CItemSelectionCriteria::CCondition::GetField(void)const
+4	CItemSelectionCriteria::CStringCondition::GetValue(void)const
+5	CItemSelectionCriteria::CStringCondition::BSerializeToMsg(CSOItemCriteriaCondition &)const
+6	CItemSelectionCriteria::CStringCondition::BInternalEvaluate(KeyValues *)const
+

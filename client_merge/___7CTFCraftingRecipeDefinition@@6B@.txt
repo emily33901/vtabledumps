@@ -1,0 +1,10 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFCraftingRecipeDefinition
+// Auto reconstructed from vtable block @ 0x00E56010
+// from "client.dylib", by ida_vtables.idc
+0	CTFCraftingRecipeDefinition::~CTFCraftingRecipeDefinition()
+1	CEconCraftingRecipeDefinition::CopyPolymorphic(CEconCraftingRecipeDefinition const*)
+2	CTFCraftingRecipeDefinition::ItemListMatchesInputs(CUtlVector<CEconItem *,CUtlMemory<CEconItem *,int>> *,KeyValues *,bool,CUtlVector*<unsigned long long,CUtlMemory<unsigned long long,int>>)const
+

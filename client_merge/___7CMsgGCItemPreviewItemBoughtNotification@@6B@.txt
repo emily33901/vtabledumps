@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCItemPreviewItemBoughtNotification
+// Auto reconstructed from vtable block @ 0x00E3AE40
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCItemPreviewItemBoughtNotification::~CMsgGCItemPreviewItemBoughtNotification()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCItemPreviewItemBoughtNotification::New(void)const
+3	CMsgGCItemPreviewItemBoughtNotification::Clear(void)
+4	CMsgGCItemPreviewItemBoughtNotification::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCItemPreviewItemBoughtNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCItemPreviewItemBoughtNotification::ByteSize(void)const
+90	CMsgGCItemPreviewItemBoughtNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCItemPreviewItemBoughtNotification::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCItemPreviewItemBoughtNotification::GetCachedSize(void)const
+12	CMsgGCItemPreviewItemBoughtNotification::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCItemPreviewItemBoughtNotification::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCItemPreviewItemBoughtNotification::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCItemPreviewItemBoughtNotification::GetMetadata(void)const
+

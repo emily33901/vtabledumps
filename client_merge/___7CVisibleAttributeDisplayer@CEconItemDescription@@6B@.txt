@@ -1,0 +1,15 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconItemDescription::CVisibleAttributeDisplayer
+// Auto reconstructed from vtable block @ 0x00E3E8F0
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemDescription::CVisibleAttributeDisplayer::~CVisibleAttributeDisplayer()
+1	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned int)
+2	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,float)
+3	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,unsigned long long const&)
+4	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_String const&)
+5	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_DynamicRecipeComponent const&)
+6	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_ItemSlotCriteria const&)
+7	CEconItemDescription::CVisibleAttributeDisplayer::OnIterateAttributeValue(CEconItemAttributeDefinition const*,CAttribute_WorldItemPlacement const&)
+

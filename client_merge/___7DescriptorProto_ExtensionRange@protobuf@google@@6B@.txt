@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::DescriptorProto_ExtensionRange
+// Auto reconstructed from vtable block @ 0x010194F0
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::DescriptorProto_ExtensionRange::~DescriptorProto_ExtensionRange()
+1	google::protobuf::Message::GetTypeName(void)const
+2	google::protobuf::DescriptorProto_ExtensionRange::New(void)const
+3	google::protobuf::DescriptorProto_ExtensionRange::Clear(void)
+4	google::protobuf::DescriptorProto_ExtensionRange::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	google::protobuf::DescriptorProto_ExtensionRange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	google::protobuf::DescriptorProto_ExtensionRange::ByteSize(void)const
+90	google::protobuf::DescriptorProto_ExtensionRange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	google::protobuf::DescriptorProto_ExtensionRange::SerializeWithCachedSizesToArray(unsigned char *)const
+11	google::protobuf::DescriptorProto_ExtensionRange::GetCachedSize(void)const
+12	google::protobuf::DescriptorProto_ExtensionRange::CopyFrom(google::protobuf::Message const&)
+13	google::protobuf::DescriptorProto_ExtensionRange::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	google::protobuf::DescriptorProto_ExtensionRange::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	google::protobuf::DescriptorProto_ExtensionRange::GetMetadata(void)const
+

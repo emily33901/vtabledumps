@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_BaseExplosionEffect
+// Auto reconstructed from vtable block @ 0x00EF2B40
+// from "client.dylib", by ida_vtables.idc
+0	C_BaseExplosionEffect::Create(Vector const&,float,float,int)
+1	C_BaseExplosionEffect::PlaySound(void)
+2	C_BaseExplosionEffect::CreateCore(void)
+3	C_BaseExplosionEffect::CreateDebris(void)
+4	C_BaseExplosionEffect::CreateMisc(void)
+5	C_BaseExplosionEffect::CreateDynamicLight(void)
+

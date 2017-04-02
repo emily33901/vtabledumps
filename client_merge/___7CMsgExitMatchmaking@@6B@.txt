@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgExitMatchmaking
+// Auto reconstructed from vtable block @ 0x00E526E0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgExitMatchmaking::~CMsgExitMatchmaking()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgExitMatchmaking::New(void)const
+3	CMsgExitMatchmaking::Clear(void)
+4	CMsgExitMatchmaking::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgExitMatchmaking::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgExitMatchmaking::ByteSize(void)const
+90	CMsgExitMatchmaking::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgExitMatchmaking::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgExitMatchmaking::GetCachedSize(void)const
+12	CMsgExitMatchmaking::CopyFrom(google::protobuf::Message const&)
+13	CMsgExitMatchmaking::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgExitMatchmaking::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgExitMatchmaking::GetMetadata(void)const
+

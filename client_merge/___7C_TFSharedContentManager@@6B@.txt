@@ -1,0 +1,24 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_TFSharedContentManager
+// Auto reconstructed from vtable block @ 0x00FAF710
+// from "client.dylib", by ida_vtables.idc
+0	C_TFSharedContentManager::Name(void)
+1	C_TFSharedContentManager::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CBaseGameSystemPerFrame::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CBaseGameSystemPerFrame::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	C_TFSharedContentManager::~C_TFSharedContentManager()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	C_TFSharedContentManager::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+

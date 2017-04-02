@@ -1,0 +1,28 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFQuestAndOperatorRestriction
+// Auto reconstructed from vtable block @ 0x0107DCA0
+// from "client.dylib", by ida_vtables.idc
+0	CTFQuestAndOperatorRestriction::~CTFQuestAndOperatorRestriction()
+1	CTFQuestRestriction::GetBaseName(void)const
+2	CTFQuestCondition::GetConditionName(void)const
+3	CTFQuestCondition::GetValueString(void)const
+4	CTFQuestOperatorRestriction::BInitFromKV(KeyValues *,CUtlVector<CUtlString,CUtlMemory<CUtlString,int>> *)
+5	CTFQuestOperatorRestriction::PrintDebugText(void)const
+6	CTFQuestCondition::GetQuestOwner(void)const
+7	CTFQuestAndOperatorRestriction::IsValidForPlayer(C_TFPlayer const*,InvalidReason &)const
+8	CTFQuestOperatorRestriction::IsOperator(void)const
+90	CTFQuestCondition::IsEvaluator(void)const
+10	CTFQuestOperatorRestriction::AddChildByName(char const*)
+11	CTFQuestOperatorRestriction::GetChildren(CUtlVector<CTFQuestCondition *,CUtlMemory<CTFQuestCondition *,int>> &)
+12	CTFQuestOperatorRestriction::RemoveAndDeleteChild(CTFQuestCondition *)
+13	CTFQuestCondition::GetRequiredParamKeys(KeyValues *)
+14	CTFQuestCondition::GetOutputKeyValues(KeyValues *)
+15	CTFQuestRestriction::GetValidTypes(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+16	CTFQuestRestriction::GetValidChildren(CUtlVector<char const*,CUtlMemory<char const*,int>> &)const
+17	CTFQuestOperatorRestriction::GetMaxInputCount(void)const
+18	CTFQuestRestriction::GetEventName(void)const
+19	CTFQuestRestriction::SetEventName(char const*)
+20	CTFQuestAndOperatorRestriction::PassesRestrictions(IGameEvent *)const
+

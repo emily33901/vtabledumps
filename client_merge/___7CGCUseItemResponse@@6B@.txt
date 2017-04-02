@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCUseItemResponse
+// Auto reconstructed from vtable block @ 0x010E7010
+// from "client.dylib", by ida_vtables.idc
+0	CGCUseItemResponse::~CGCUseItemResponse()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	CGCUseItemResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

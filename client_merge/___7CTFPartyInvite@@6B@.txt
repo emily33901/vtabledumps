@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFPartyInvite
+// Auto reconstructed from vtable block @ 0x00E5ACE0
+// from "client.dylib", by ida_vtables.idc
+0	CTFPartyInvite::~CTFPartyInvite()
+1	GCSDK::CProtoBufSharedObject<CSOTFPartyInvite,2006>::GetTypeID(void)const
+2	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+4	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+5	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+6	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+7	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+8	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+90	GCSDK::CSharedObject::GetDebugString(void)const
+10	GCSDK::CProtoBufSharedObject<CSOTFPartyInvite,2006>::GetPObject(void)
+11	CTFPartyInvite::GetSenderID(void)const
+12	CTFPartyInvite::GetGroupID(void)const
+13	CTFPartyInvite::GetSenderName(void)const
+14	CTFPartyInvite::GetNumMembers(void)const
+15	CTFPartyInvite::GetMember(int)const
+

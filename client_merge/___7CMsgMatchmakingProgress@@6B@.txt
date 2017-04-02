@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgMatchmakingProgress
+// Auto reconstructed from vtable block @ 0x00E52EC0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgMatchmakingProgress::~CMsgMatchmakingProgress()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgMatchmakingProgress::New(void)const
+3	CMsgMatchmakingProgress::Clear(void)
+4	CMsgMatchmakingProgress::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgMatchmakingProgress::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgMatchmakingProgress::ByteSize(void)const
+90	CMsgMatchmakingProgress::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgMatchmakingProgress::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgMatchmakingProgress::GetCachedSize(void)const
+12	CMsgMatchmakingProgress::CopyFrom(google::protobuf::Message const&)
+13	CMsgMatchmakingProgress::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgMatchmakingProgress::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgMatchmakingProgress::GetMetadata(void)const
+

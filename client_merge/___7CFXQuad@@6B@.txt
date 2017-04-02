@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFXQuad
+// Auto reconstructed from vtable block @ 0x00EF2D90
+// from "client.dylib", by ida_vtables.idc
+0	CFXQuad::~CFXQuad()
+1	CFXQuad::Draw(double)
+2	CClientSideEffect::GetName(void)
+3	CFXQuad::IsActive(void)
+4	CFXQuad::Destroy(void)
+

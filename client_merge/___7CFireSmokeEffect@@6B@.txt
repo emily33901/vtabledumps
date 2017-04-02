@@ -1,0 +1,25 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFireSmokeEffect
+// Auto reconstructed from vtable block @ 0x00F14870
+// from "client.dylib", by ida_vtables.idc
+0	CFireSmokeEffect::~CFireSmokeEffect()
+1	CParticleEffect::Update(float)
+2	IParticleEffect::StartRender(VMatrix &)
+3	CParticleEffect::ShouldSimulate(void)const
+4	CParticleEffect::SetShouldSimulate(bool)
+5	CSimpleEmitter::SimulateParticles(CParticleSimulateIterator *)
+6	CSimpleEmitter::RenderParticles(CParticleRenderIterator *)
+7	CParticleEffect::NotifyRemove(void)
+8	CParticleEffect::NotifyDestroyParticle(Particle *)
+90	CParticleEffect::GetSortOrigin(void)
+10	IParticleEffect::GetParticlePosition(Particle *)
+11	CParticleEffect::GetEffectName(void)
+12	CParticleEffect::SetParticleCullRadius(float)
+13	CFireSmokeEffect::UpdateAlpha(SimpleParticle const*)
+14	CSimpleEmitter::UpdateScale(SimpleParticle const*)
+15	CSimpleEmitter::UpdateRoll(SimpleParticle *,float)
+16	CFireSmokeEffect::UpdateVelocity(SimpleParticle *,float)
+17	CSimpleEmitter::UpdateColor(SimpleParticle const*)
+

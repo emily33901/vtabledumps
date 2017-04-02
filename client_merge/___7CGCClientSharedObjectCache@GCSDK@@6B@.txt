@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CGCClientSharedObjectCache
+// Auto reconstructed from vtable block @ 0x01018EA0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CGCClientSharedObjectCache::~CGCClientSharedObjectCache()
+1	GCSDK::CGCClientSharedObjectCache::GetOwner(void)const
+2	GCSDK::CSharedObjectCache::MarkDirty(void)
+3	GCSDK::CSharedObjectCache::Dump(void)const
+4	GCSDK::CGCClientSharedObjectCache::AllocateTypeCache(int)const
+

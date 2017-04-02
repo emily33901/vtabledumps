@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CExampleEffect
+// Auto reconstructed from vtable block @ 0x00F32340
+// from "client.dylib", by ida_vtables.idc
+0	CExampleEffect::Init(void)
+1	CExampleEffect::Shutdown(void)
+2	CExampleEffect::SetParameters(KeyValues *)
+3	CExampleEffect::Render(int,int,int,int)
+4	CExampleEffect::Enable(bool)
+5	CExampleEffect::IsEnabled(void)
+

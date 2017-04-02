@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CLocalPlayerFilter
+// Auto reconstructed from vtable block @ 0x01098890
+// from "client.dylib", by ida_vtables.idc
+0	CLocalPlayerFilter::~CLocalPlayerFilter()
+1	C_RecipientFilter::IsReliable(void)const
+2	C_RecipientFilter::IsInitMessage(void)const
+3	C_RecipientFilter::GetRecipientCount(void)const
+4	C_RecipientFilter::GetRecipientIndex(int)const
+

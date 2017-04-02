@@ -1,0 +1,31 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CViewRenderBeams
+// Auto reconstructed from vtable block @ 0x01011A20
+// from "client.dylib", by ida_vtables.idc
+0	CViewRenderBeams::InitBeams(void)
+1	CViewRenderBeams::ShutdownBeams(void)
+2	CViewRenderBeams::ClearBeams(void)
+3	CViewRenderBeams::UpdateTempEntBeams(void)
+4	CViewRenderBeams::DrawBeam(C_Beam *,ITraceFilter *)
+5	CViewRenderBeams::DrawBeam(Beam_t *)
+6	CViewRenderBeams::KillDeadBeams(C_BaseEntity *)
+7	CViewRenderBeams::CreateBeamEnts(BeamInfo_t &)
+8	CViewRenderBeams::CreateBeamEntPoint(BeamInfo_t &)
+9	CViewRenderBeams::CreateBeamPoints(BeamInfo_t &)
+10	CViewRenderBeams::CreateBeamRing(BeamInfo_t &)
+11	CViewRenderBeams::CreateBeamRingPoint(BeamInfo_t &)
+12	CViewRenderBeams::CreateBeamCirclePoints(BeamInfo_t &)
+13	CViewRenderBeams::CreateBeamFollow(BeamInfo_t &)
+14	CViewRenderBeams::FreeBeam(Beam_t *)
+15	CViewRenderBeams::UpdateBeamInfo(Beam_t *,BeamInfo_t &)
+16	CViewRenderBeams::CreateBeamEnts(int,int,int,int,float,float,float,float,float,float,float,float,int,float,float,float,float,int)
+17	CViewRenderBeams::CreateBeamEntPoint(int,Vector const*,int,Vector const*,int,int,float,float,float,float,float,float,float,float,int,float,float,float,float)
+18	CViewRenderBeams::CreateBeamPoints(Vector &,Vector &,int,int,float,float,float,float,float,float,float,float,int,float,float,float,float)
+19	CViewRenderBeams::CreateBeamRing(int,int,int,int,float,float,float,float,float,float,float,float,int,float,float,float,float,int)
+20	CViewRenderBeams::CreateBeamRingPoint(Vector const&,float,float,int,int,float,float,float,float,float,float,float,float,int,float,float,float,float,int)
+21	CViewRenderBeams::CreateBeamCirclePoints(int,Vector &,Vector &,int,int,float,float,float,float,float,float,float,float,int,float,float,float,float)
+22	CViewRenderBeams::CreateBeamFollow(int,int,int,float,float,float,float,float,float,float,float,float)
+23	CViewRenderBeams::~CViewRenderBeams()
+

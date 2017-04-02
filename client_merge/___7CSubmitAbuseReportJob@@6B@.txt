@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSubmitAbuseReportJob
+// Auto reconstructed from vtable block @ 0x01044CD0
+// from "client.dylib", by ida_vtables.idc
+0	CSubmitAbuseReportJob::~CSubmitAbuseReportJob()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	CSubmitAbuseReportJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

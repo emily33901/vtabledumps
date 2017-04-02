@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFReplayFactory
+// Auto reconstructed from vtable block @ 0x01115850
+// from "client.dylib", by ida_vtables.idc
+0	CTFReplayFactory::~CTFReplayFactory()
+1	CTFReplayFactory::Create(void)
+

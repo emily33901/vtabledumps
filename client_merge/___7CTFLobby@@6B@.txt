@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFLobby
+// Auto reconstructed from vtable block @ 0x00E56D20
+// from "client.dylib", by ida_vtables.idc
+0	CTFLobby::~CTFLobby()
+1	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::GetTypeID(void)const
+2	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+3	GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+4	GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+5	GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&)const
+6	GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+7	GCSDK::CProtoBufSharedObjectBase::Dump(void)const
+8	CTFLobby::BShouldDeleteByCache(void)const
+90	GCSDK::CSharedObject::GetDebugString(void)const
+10	GCSDK::CProtoBufSharedObject<CSOTFLobby,2004>::GetPObject(void)
+11	CTFLobby::GetGroupID(void)const
+12	CTFLobby::GetNumMembers(void)const
+13	CTFLobby::GetMember(int)const
+14	CTFLobby::GetMemberIndexBySteamID(CSteamID const&)const
+15	CTFLobby::GetMemberDetails(int)const
+

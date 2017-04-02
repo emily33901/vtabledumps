@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCCoaching_FindCoachResponse
+// Auto reconstructed from vtable block @ 0x010E4D00
+// from "client.dylib", by ida_vtables.idc
+0	CGCCoaching_FindCoachResponse::~CGCCoaching_FindCoachResponse()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	CGCCoaching_FindCoachResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

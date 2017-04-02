@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconNotification_AbuseReportReady
+// Auto reconstructed from vtable block @ 0x01044BF0
+// from "client.dylib", by ida_vtables.idc
+0	CEconNotification_AbuseReportReady::~CEconNotification_AbuseReportReady()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEconNotification_AbuseReportReady::BShowInGameElements(void)const
+5	CEconNotification_AbuseReportReady::MarkForDeletion(void)
+6	CEconNotification_AbuseReportReady::CanBeTriggered(void)
+7	CEconNotification_AbuseReportReady::Trigger(void)
+8	CEconNotification::CanBeAcceptedOrDeclined(void)
+90	CEconNotification::Accept(void)
+10	CEconNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification_AbuseReportReady::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

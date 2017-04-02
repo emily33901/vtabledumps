@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CWaterLODMaterialProxy
+// Auto reconstructed from vtable block @ 0x01011B30
+// from "client.dylib", by ida_vtables.idc
+0	CWaterLODMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CWaterLODMaterialProxy::OnBind(void *)
+2	CWaterLODMaterialProxy::Release(void)
+3	CWaterLODMaterialProxy::GetMaterial(void)
+4	CWaterLODMaterialProxy::~CWaterLODMaterialProxy()
+

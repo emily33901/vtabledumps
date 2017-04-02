@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMaterialModifyProxy
+// Auto reconstructed from vtable block @ 0x00EA9640
+// from "client.dylib", by ida_vtables.idc
+0	CMaterialModifyProxy::Init(IMaterial *,KeyValues *)
+1	CMaterialModifyProxy::OnBind(void *)
+2	CBaseAnimatedTextureProxy::Release(void)
+3	CMaterialModifyProxy::GetMaterial(void)
+4	CMaterialModifyProxy::~CMaterialModifyProxy()
+5	CMaterialModifyProxy::GetAnimationStartTime(void *)
+6	CMaterialModifyProxy::AnimationWrapped(void *)
+

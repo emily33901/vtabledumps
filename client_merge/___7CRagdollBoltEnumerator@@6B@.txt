@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRagdollBoltEnumerator
+// Auto reconstructed from vtable block @ 0x0109AFD0
+// from "client.dylib", by ida_vtables.idc
+0	CRagdollBoltEnumerator::EnumElement(IHandleEntity *)
+

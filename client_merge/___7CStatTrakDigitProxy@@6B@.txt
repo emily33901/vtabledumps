@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CStatTrakDigitProxy
+// Auto reconstructed from vtable block @ 0x00F3E640
+// from "client.dylib", by ida_vtables.idc
+0	CStatTrakDigitProxy::Init(IMaterial *,KeyValues *)
+1	CStatTrakDigitProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CStatTrakDigitProxy::~CStatTrakDigitProxy()
+5	CStatTrakDigitProxy::HelperOnBindGetStatTrakScore(void *,int *)
+

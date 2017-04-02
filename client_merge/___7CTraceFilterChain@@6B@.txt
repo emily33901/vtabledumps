@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTraceFilterChain
+// Auto reconstructed from vtable block @ 0x00E94AF8
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterChain::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const
+

@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'IViewPort
+// Auto reconstructed from vtable block @ 0x010BE6B0
+// from "client.dylib", by ida_vtables.idc
+0	___cxa_pure_virtual
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+

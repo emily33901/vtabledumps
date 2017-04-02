@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudDamageIndicator
+// Auto reconstructed from vtable block @ 0x00F63C70
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudDamageIndicator
+1	CHudDamageIndicator::~CHudDamageIndicator()
+2	CHudElement::FireGameEvent(IGameEvent *)
+3	CHudDamageIndicator::Init(void)
+4	CHudDamageIndicator::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudDamageIndicator::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudDamageIndicator::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+

@@ -1,0 +1,19 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::MessageLite
+// Auto reconstructed from vtable block @ 0x01019110
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::MessageLite::~MessageLite()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	google::protobuf::MessageLite::InitializationErrorString(void)const
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	___cxa_pure_virtual
+90	___cxa_pure_virtual
+10	google::protobuf::MessageLite::SerializeWithCachedSizesToArray(unsigned char *)const
+11	___cxa_pure_virtual
+

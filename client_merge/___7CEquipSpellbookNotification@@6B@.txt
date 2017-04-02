@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEquipSpellbookNotification
+// Auto reconstructed from vtable block @ 0x00E486A0
+// from "client.dylib", by ida_vtables.idc
+0	CEquipSpellbookNotification::~CEquipSpellbookNotification()
+1	CEconNotification::SetLifetime(float)
+2	CEconNotification::GetExpireTime(void)const
+3	CEconNotification::GetInGameLifeTime(void)const
+4	CEquipSpellbookNotification::BShowInGameElements(void)const
+5	CEquipSpellbookNotification::MarkForDeletion(void)
+6	CEquipSpellbookNotification::CanBeTriggered(void)
+7	CEquipSpellbookNotification::Trigger(void)
+8	CEquipSpellbookNotification::CanBeAcceptedOrDeclined(void)
+90	CEquipSpellbookNotification::Accept(void)
+10	CEquipSpellbookNotification::Decline(void)
+11	CEquipSpellbookNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

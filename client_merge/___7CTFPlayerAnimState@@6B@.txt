@@ -1,0 +1,41 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFPlayerAnimState
+// Auto reconstructed from vtable block @ 0x00E5AD80
+// from "client.dylib", by ida_vtables.idc
+0	CTFPlayerAnimState::~CTFPlayerAnimState()
+1	CTFPlayerAnimState::ClearAnimationState(void)
+2	CTFPlayerAnimState::DoAnimationEvent(PlayerAnimEvent_t,int)
+3	CTFPlayerAnimState::CalcMainActivity(void)
+4	CTFPlayerAnimState::Update(float,float)
+5	CMultiPlayerAnimState::Release(void)
+6	CTFPlayerAnimState::TranslateActivity(Activity)
+7	CMultiPlayerAnimState::SetRunSpeed(float)
+8	CMultiPlayerAnimState::SetWalkSpeed(float)
+90	CMultiPlayerAnimState::SetSprintSpeed(float)
+10	CMultiPlayerAnimState::ShowDebugInfo(void)
+11	CMultiPlayerAnimState::DebugShowAnimState(int)
+12	CMultiPlayerAnimState::Init(C_BasePlayer *,MultiPlayerMovementData_t &)
+13	CMultiPlayerAnimState::SelectWeightedSequence(Activity)
+14	CMultiPlayerAnimState::RestartMainSequence(void)
+15	CTFPlayerAnimState::GetOuterAbsVelocity(Vector &)
+16	CTFPlayerAnimState::HandleJumping(Activity &)
+17	CTFPlayerAnimState::HandleDucking(Activity &)
+18	CTFPlayerAnimState::HandleMoving(Activity &)
+19	CTFPlayerAnimState::HandleSwimming(Activity &)
+20	CMultiPlayerAnimState::HandleDying(Activity &)
+21	CTFPlayerAnimState::RestartGesture(int,Activity,bool)
+22	CTFPlayerAnimState::GetGesturePlaybackRate(void)
+23	CMultiPlayerAnimState::PlayFlinchGesture(Activity)
+24	CMultiPlayerAnimState::CalcMovementSpeed(bool *)
+25	CMultiPlayerAnimState::CalcMovementPlaybackRate(bool *)
+26	CMultiPlayerAnimState::ComputePoseParam_MoveYaw(CStudioHdr *)
+27	CMultiPlayerAnimState::ComputePoseParam_AimPitch(CStudioHdr *)
+28	CTFPlayerAnimState::ComputePoseParam_AimYaw(CStudioHdr *)
+29	CMultiPlayerAnimState::EstimateYaw(void)
+30	CTFPlayerAnimState::GetCurrentMaxGroundSpeed(void)
+31	CMultiPlayerAnimState::ComputeSequences(CStudioHdr *)
+32	CTFPlayerAnimState::ShouldUpdateAnimState(void)
+33	CTFPlayerAnimState::CheckStunAnimation(void)
+

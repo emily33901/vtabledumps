@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTFQuickplay_ScoreServersResponse
+// Auto reconstructed from vtable block @ 0x00E518A0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFQuickplay_ScoreServersResponse::~CMsgTFQuickplay_ScoreServersResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTFQuickplay_ScoreServersResponse::New(void)const
+3	CMsgTFQuickplay_ScoreServersResponse::Clear(void)
+4	CMsgTFQuickplay_ScoreServersResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTFQuickplay_ScoreServersResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTFQuickplay_ScoreServersResponse::ByteSize(void)const
+90	CMsgTFQuickplay_ScoreServersResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTFQuickplay_ScoreServersResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTFQuickplay_ScoreServersResponse::GetCachedSize(void)const
+12	CMsgTFQuickplay_ScoreServersResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgTFQuickplay_ScoreServersResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTFQuickplay_ScoreServersResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTFQuickplay_ScoreServersResponse::GetMetadata(void)const
+

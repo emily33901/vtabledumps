@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCClientMatchmakingProgress
+// Auto reconstructed from vtable block @ 0x010467C0
+// from "client.dylib", by ida_vtables.idc
+0	CGCClientMatchmakingProgress::~CGCClientMatchmakingProgress()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	CGCClientMatchmakingProgress::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

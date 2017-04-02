@@ -1,0 +1,25 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMapInfoContainer
+// Auto reconstructed from vtable block @ 0x0107A540
+// from "client.dylib", by ida_vtables.idc
+0	CMapInfoContainer::Name(void)
+1	CMapInfoContainer::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CBaseGameSystemPerFrame::LevelInitPreEntity(void)
+5	CBaseGameSystemPerFrame::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CMapInfoContainer::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CMapInfoContainer::~CMapInfoContainer()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CMapInfoContainer::Update(float)
+16	CBaseGameSystemPerFrame::PostRender(void)
+17	CMapInfoContainer::FireGameEvent(IGameEvent *)
+

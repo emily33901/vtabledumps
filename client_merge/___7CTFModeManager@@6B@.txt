@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFModeManager
+// Auto reconstructed from vtable block @ 0x00F344C0
+// from "client.dylib", by ida_vtables.idc
+0	CTFModeManager::Init(void)
+1	CTFModeManager::SwitchMode(bool,bool)
+2	CTFModeManager::LevelInit(char const*)
+3	CTFModeManager::LevelShutdown(void)
+4	CTFModeManager::ActivateMouse(bool)
+

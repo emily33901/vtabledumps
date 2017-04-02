@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudBuildingStatusContainer_Engineer
+// Auto reconstructed from vtable block @ 0x00F59B00
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudBuildingStatusContainer_Engineer
+1	CHudBuildingStatusContainer_Engineer::~CHudBuildingStatusContainer_Engineer()
+2	CHudBuildingStatusContainer::FireGameEvent(IGameEvent *)
+3	CHudElement::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudBuildingStatusContainer::LevelInit(void)
+6	CHudElement::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudBuildingStatusContainer_Engineer::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+

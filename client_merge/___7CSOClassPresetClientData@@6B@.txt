@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSOClassPresetClientData
+// Auto reconstructed from vtable block @ 0x00E3A9C0
+// from "client.dylib", by ida_vtables.idc
+0	CSOClassPresetClientData::~CSOClassPresetClientData()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CSOClassPresetClientData::New(void)const
+3	CSOClassPresetClientData::Clear(void)
+4	CSOClassPresetClientData::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CSOClassPresetClientData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CSOClassPresetClientData::ByteSize(void)const
+90	CSOClassPresetClientData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CSOClassPresetClientData::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CSOClassPresetClientData::GetCachedSize(void)const
+12	CSOClassPresetClientData::CopyFrom(google::protobuf::Message const&)
+13	CSOClassPresetClientData::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CSOClassPresetClientData::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CSOClassPresetClientData::GetMetadata(void)const
+

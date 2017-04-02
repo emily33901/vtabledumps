@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconItemPerClassPresetData
+// Auto reconstructed from vtable block @ 0x00E3EB70
+// from "client.dylib", by ida_vtables.idc
+0	CEconItemPerClassPresetData::~CEconItemPerClassPresetData()
+1	CEconItemPerClassPresetData::GetTypeID(void)const
+2	CEconItemPerClassPresetData::BParseFromMessage(CUtlBuffer const&)
+3	CEconItemPerClassPresetData::BParseFromMessage(std::string const&)
+4	CEconItemPerClassPresetData::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+5	CEconItemPerClassPresetData::BIsKeyLess(GCSDK::CSharedObject const&)const
+6	CEconItemPerClassPresetData::Copy(GCSDK::CSharedObject const&)
+7	CEconItemPerClassPresetData::Dump(void)const
+8	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+90	GCSDK::CSharedObject::GetDebugString(void)const
+

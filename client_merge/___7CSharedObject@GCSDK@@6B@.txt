@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'GCSDK::CSharedObject
+// Auto reconstructed from vtable block @ 0x0104ECA0
+// from "client.dylib", by ida_vtables.idc
+0	GCSDK::CSharedObject::~CSharedObject()
+1	___cxa_pure_virtual
+2	___cxa_pure_virtual
+3	___cxa_pure_virtual
+4	___cxa_pure_virtual
+5	___cxa_pure_virtual
+6	___cxa_pure_virtual
+7	___cxa_pure_virtual
+8	GCSDK::CSharedObject::BShouldDeleteByCache(void)const
+90	GCSDK::CSharedObject::GetDebugString(void)const
+10	aNormal
+

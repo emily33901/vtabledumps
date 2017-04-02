@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCStorePurchaseCancelResponse
+// Auto reconstructed from vtable block @ 0x00E3AF00
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCStorePurchaseCancelResponse::~CMsgGCStorePurchaseCancelResponse()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCStorePurchaseCancelResponse::New(void)const
+3	CMsgGCStorePurchaseCancelResponse::Clear(void)
+4	CMsgGCStorePurchaseCancelResponse::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCStorePurchaseCancelResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCStorePurchaseCancelResponse::ByteSize(void)const
+90	CMsgGCStorePurchaseCancelResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCStorePurchaseCancelResponse::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCStorePurchaseCancelResponse::GetCachedSize(void)const
+12	CMsgGCStorePurchaseCancelResponse::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCStorePurchaseCancelResponse::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCStorePurchaseCancelResponse::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCStorePurchaseCancelResponse::GetMetadata(void)const
+

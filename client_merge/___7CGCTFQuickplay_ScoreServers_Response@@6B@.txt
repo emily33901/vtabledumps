@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CGCTFQuickplay_ScoreServers_Response
+// Auto reconstructed from vtable block @ 0x011123E0
+// from "client.dylib", by ida_vtables.idc
+0	CGCTFQuickplay_ScoreServers_Response::~CGCTFQuickplay_ScoreServers_Response()
+1	GCSDK::CGCClientJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	CGCTFQuickplay_ScoreServers_Response::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

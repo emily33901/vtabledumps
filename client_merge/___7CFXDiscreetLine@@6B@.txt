@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFXDiscreetLine
+// Auto reconstructed from vtable block @ 0x00EF2B00
+// from "client.dylib", by ida_vtables.idc
+0	CFXDiscreetLine::~CFXDiscreetLine()
+1	CFXDiscreetLine::Draw(double)
+2	CClientSideEffect::GetName(void)
+3	CFXDiscreetLine::IsActive(void)
+4	CFXDiscreetLine::Destroy(void)
+5	CClientSideEffect::SetEffectName(char const*)
+6	CFXDiscreetLine::Update(double)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'google::protobuf::internal::GeneratedExtensionFinder
+// Auto reconstructed from vtable block @ 0x010190E8
+// from "client.dylib", by ida_vtables.idc
+0	google::protobuf::internal::GeneratedExtensionFinder::~GeneratedExtensionFinder()
+1	google::protobuf::internal::GeneratedExtensionFinder::Find(int,google::protobuf::internal::ExtensionInfo *)
+

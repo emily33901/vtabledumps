@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CBaseAnimatedTextureProxy
+// Auto reconstructed from vtable block @ 0x00E997F0
+// from "client.dylib", by ida_vtables.idc
+0	CBaseAnimatedTextureProxy::Init(IMaterial *,KeyValues *)
+1	CBaseAnimatedTextureProxy::OnBind(void *)
+2	CBaseAnimatedTextureProxy::Release(void)
+3	CBaseAnimatedTextureProxy::GetMaterial(void)
+4	CBaseAnimatedTextureProxy::~CBaseAnimatedTextureProxy()
+5	___cxa_pure_virtual
+6	CBaseAnimatedTextureProxy::AnimationWrapped(void *)
+

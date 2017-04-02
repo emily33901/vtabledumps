@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgGCHUpdateSession_ExtraField
+// Auto reconstructed from vtable block @ 0x00E98310
+// from "client.dylib", by ida_vtables.idc
+0	CMsgGCHUpdateSession_ExtraField::~CMsgGCHUpdateSession_ExtraField()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgGCHUpdateSession_ExtraField::New(void)const
+3	CMsgGCHUpdateSession_ExtraField::Clear(void)
+4	CMsgGCHUpdateSession_ExtraField::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgGCHUpdateSession_ExtraField::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgGCHUpdateSession_ExtraField::ByteSize(void)const
+90	CMsgGCHUpdateSession_ExtraField::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgGCHUpdateSession_ExtraField::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgGCHUpdateSession_ExtraField::GetCachedSize(void)const
+12	CMsgGCHUpdateSession_ExtraField::CopyFrom(google::protobuf::Message const&)
+13	CMsgGCHUpdateSession_ExtraField::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgGCHUpdateSession_ExtraField::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgGCHUpdateSession_ExtraField::GetMetadata(void)const
+

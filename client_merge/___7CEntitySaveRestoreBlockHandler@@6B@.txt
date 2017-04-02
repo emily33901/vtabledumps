@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEntitySaveRestoreBlockHandler
+// Auto reconstructed from vtable block @ 0x00E42BF0
+// from "client.dylib", by ida_vtables.idc
+0	CEntitySaveRestoreBlockHandler::GetBlockName(void)
+1	CEntitySaveRestoreBlockHandler::PreSave(CSaveRestoreData *)
+2	CEntitySaveRestoreBlockHandler::Save(ISave *)
+3	CEntitySaveRestoreBlockHandler::WriteSaveHeaders(ISave *)
+4	CEntitySaveRestoreBlockHandler::PostSave(void)
+5	CEntitySaveRestoreBlockHandler::PreRestore(void)
+6	CEntitySaveRestoreBlockHandler::ReadRestoreHeaders(IRestore *)
+7	CEntitySaveRestoreBlockHandler::Restore(IRestore *,bool)
+8	CEntitySaveRestoreBlockHandler::PostRestore(void)
+

@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'DelayedSchemaData_HTTPResponseData
+// Auto reconstructed from vtable block @ 0x01051030
+// from "client.dylib", by ida_vtables.idc
+0	DelayedSchemaData_HTTPResponseData::~DelayedSchemaData_HTTPResponseData()
+1	DelayedSchemaData_HTTPResponseData::InitializeSchema(CEconItemSchema *)
+

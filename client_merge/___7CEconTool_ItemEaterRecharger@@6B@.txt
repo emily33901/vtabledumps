@@ -1,0 +1,18 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconTool_ItemEaterRecharger
+// Auto reconstructed from vtable block @ 0x00E3F090
+// from "client.dylib", by ida_vtables.idc
+0	CEconTool_ItemEaterRecharger::~CEconTool_ItemEaterRecharger()
+1	CEconTool_ItemEaterRecharger::CanApplyTo(IEconItemInterface const*,IEconItemInterface const*)const
+2	IEconTool::ShouldDisplayQuantity(IEconItemInterface const*)const
+3	IEconTool::RequiresToolEscrowPeriod(void)const
+4	IEconTool::BFinishInitialization(void)
+5	IEconTool::CanBeUsedNow(IEconItemInterface const*)const
+6	IEconTool::ShouldShowContainedItemPanel(IEconItemInterface const*)const
+7	CEconTool_ItemEaterRecharger::ShouldDisplayAsUseableOnItemsInArmory(void)const
+8	IEconTool::GetUseCommandLocalizationToken(IEconItemInterface const*)const
+90	CEconTool_ItemEaterRecharger::OnClientUseConsumable(C_EconItemView *,vgui::Panel *)const
+10	CEconTool_ItemEaterRecharger::OnClientApplyTool(C_EconItemView *,C_EconItemView *,vgui::Panel *)const
+

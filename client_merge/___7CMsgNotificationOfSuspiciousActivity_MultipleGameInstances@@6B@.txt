@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgNotificationOfSuspiciousActivity_MultipleGameInstances
+// Auto reconstructed from vtable block @ 0x00E983D0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::~CMsgNotificationOfSuspiciousActivity_MultipleGameInstances()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::New(void)const
+3	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::Clear(void)
+4	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::ByteSize(void)const
+90	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::GetCachedSize(void)const
+12	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::CopyFrom(google::protobuf::Message const&)
+13	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::GetMetadata(void)const
+

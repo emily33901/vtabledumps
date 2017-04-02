@@ -1,0 +1,48 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudWeaponSelection
+// Auto reconstructed from vtable block @ 0x00FAC500
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudWeaponSelection
+1	CHudWeaponSelection::~CHudWeaponSelection()
+2	CHudWeaponSelection::FireGameEvent(IGameEvent *)
+3	CHudWeaponSelection::Init(void)
+4	CBaseHudWeaponSelection::VidInit(void)
+5	CHudWeaponSelection::LevelInit(void)
+6	CHudWeaponSelection::LevelShutdown(void)
+7	CHudWeaponSelection::Reset(void)
+8	CBaseHudWeaponSelection::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudWeaponSelection::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+16	CHudWeaponSelection::OnThink(void)
+17	CHudWeaponSelection::OpenSelection(void)
+18	CHudWeaponSelection::HideSelection(void)
+19	CBaseHudWeaponSelection::CancelWeaponSelection(void)
+20	CHudWeaponSelection::CycleToNextWeapon(void)
+21	CHudWeaponSelection::CycleToPrevWeapon(void)
+22	CHudWeaponSelection::SwitchToLastWeapon(void)
+23	CHudWeaponSelection::GetWeaponInSlot(int,int)
+24	CHudWeaponSelection::SelectWeaponSlot(int)
+25	CBaseHudWeaponSelection::GetFirstPos(int)
+26	CBaseHudWeaponSelection::GetNextActivePos(int,int)
+27	CBaseHudWeaponSelection::SetWeaponSelected(void)
+28	CBaseHudWeaponSelection::SelectWeapon(void)
+29	CHudWeaponSelection::GetSelectedWeapon(void)
+30	CHudWeaponSelection::OnWeaponPickup(C_BaseCombatWeapon *)
+31	CBaseHudWeaponSelection::IsInSelectionMode(void)
+32	CHudWeaponSelection::SelectSlot(int)
+33	CBaseHudWeaponSelection::IsHudMenuTakingInput(void)
+34	CBaseHudWeaponSelection::IsHudMenuPreventingWeaponSelection(void)
+35	CBaseHudWeaponSelection::DrawWList(C_BasePlayer *,C_BaseCombatWeapon *,bool,int,int,int,int)
+36	CBaseHudWeaponSelection::ComputeRect(C_BasePlayer *,C_BaseCombatWeapon *,wrect_s *)
+37	CBaseHudWeaponSelection::KeyInput(int,ButtonCode_t,char const*)
+38	CHudWeaponSelection::IsWeaponSelectable(void)
+39	CHudWeaponSelection::GetMessageMap(void)
+40	CHudWeaponSelection::GetAnimMap(void)
+

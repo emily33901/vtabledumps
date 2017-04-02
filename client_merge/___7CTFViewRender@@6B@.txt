@@ -1,0 +1,48 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTFViewRender
+// Auto reconstructed from vtable block @ 0x00FAF860
+// from "client.dylib", by ida_vtables.idc
+0	CTFViewRender::Init(void)
+1	CViewRender::LevelInit(void)
+2	CViewRender::LevelShutdown(void)
+3	CViewRender::Shutdown(void)
+4	CViewRender::OnRenderStart(void)
+5	CViewRender::Render(vrect_t *)
+6	CViewRender::RenderView(CViewSetup const&,int,int)
+7	CViewRender::GetDrawFlags(void)
+8	CViewRender::StartPitchDrift(void)
+9	CViewRender::StopPitchDrift(void)
+10	CViewRender::GetFrustum(void)
+11	CViewRender::ShouldDrawBrushModels(void)
+12	CViewRender::GetPlayerViewSetup(void)const
+13	CViewRender::GetViewSetup(void)const
+14	CViewRender::DisableVis(void)
+15	CViewRender::BuildWorldListsNumber(void)const
+16	CViewRender::SetCheapWaterStartDistance(float)
+17	CViewRender::SetCheapWaterEndDistance(float)
+18	CViewRender::GetWaterLODParams(float &,float &)
+19	CViewRender::DriftPitch(void)
+20	CViewRender::SetScreenOverlayMaterial(IMaterial *)
+21	CViewRender::GetScreenOverlayMaterial(void)
+22	CViewRender::WriteSaveGameScreenshot(char const*)
+23	CViewRender::WriteSaveGameScreenshotOfSize(char const*,int,int,bool,bool)
+24	CViewRender::WriteReplayScreenshot(WriteReplayScreenshotParams_t &)
+25	CViewRender::UpdateReplayScreenshotCache(void)
+26	CViewRender::QueueOverlayRenderView(CViewSetup const&,int,int)
+27	CViewRender::GetZNear(void)
+28	CViewRender::GetZFar(void)
+29	CViewRender::GetScreenFadeDistances(float *,float *)
+30	CViewRender::GetCurrentlyDrawingEntity(void)
+31	CViewRender::SetCurrentlyDrawingEntity(C_BaseEntity *)
+32	CViewRender::UpdateShadowDepthTexture(ITexture *,ITexture *,CViewSetup const&)
+33	CViewRender::FreezeFrame(float)
+34	CViewRender::GetReplayScreenshotSystem(void)
+35	CTFViewRender::~CTFViewRender()
+36	CViewRender::RenderPlayerSprites(void)
+37	CViewRender::Render2DEffectsPreHUD(CViewSetup const&)
+38	CTFViewRender::Render2DEffectsPostHUD(CViewSetup const&)
+39	CViewRender::ShouldForceNoVis(void)
+40	CViewRender::ViewDrawScene_Intro(CViewSetup const&,int,IntroData_t const&)
+

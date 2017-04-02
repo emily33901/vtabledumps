@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CCyclicalHoliday
+// Auto reconstructed from vtable block @ 0x0104EAD0
+// from "client.dylib", by ida_vtables.idc
+0	CCyclicalHoliday::~CCyclicalHoliday()
+1	CCyclicalHoliday::IsActive(CRTime const&)
+

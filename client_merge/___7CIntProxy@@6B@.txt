@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CIntProxy
+// Auto reconstructed from vtable block @ 0x00F12D30
+// from "client.dylib", by ida_vtables.idc
+0	CFunctionProxy::Init(IMaterial *,KeyValues *)
+1	CIntProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CIntProxy::~CIntProxy()
+

@@ -1,0 +1,8 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMouthInfo
+// Auto reconstructed from vtable block @ 0x0108AA50
+// from "client.dylib", by ida_vtables.idc
+0	CMouthInfo::~CMouthInfo()
+

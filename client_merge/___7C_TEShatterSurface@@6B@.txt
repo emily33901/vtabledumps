@@ -1,0 +1,23 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'C_TEShatterSurface
+// Auto reconstructed from vtable block @ 0x00EB7400
+// from "client.dylib", by ida_vtables.idc
+0	C_TEShatterSurface::~C_TEShatterSurface()
+1	C_BaseTempEntity::SetRefEHandle(CBaseHandle const&)
+2	C_BaseTempEntity::GetRefEHandle(void)const
+3	C_BaseTempEntity::GetCollideable(void)
+4	C_BaseTempEntity::GetClientNetworkable(void)
+5	C_BaseTempEntity::GetClientRenderable(void)
+6	C_BaseTempEntity::GetIClientEntity(void)
+7	C_BaseTempEntity::GetBaseEntity(void)
+8	C_BaseTempEntity::GetClientThinkable(void)
+90	C_TEShatterSurface::YouForgotToImplementOrDeclareClientClass(void)
+10	C_TEShatterSurface::GetClientClass(void)
+11	C_BaseTempEntity::GetIClientUnknown(void)
+12	C_BaseTempEntity::Release(void)
+13	C_BaseTempEntity::NotifyShouldTransmit(ShouldTransmitState_t)
+14	C_BaseTempEntity::PreDataUpdate(DataUpdateType_t)
+15	C_TEShatterSurface::PostDataUpdate(DataUpdateType_t)
+

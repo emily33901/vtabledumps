@@ -1,0 +1,16 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CViewEffectsSaveRestoreBlockHandler
+// Auto reconstructed from vtable block @ 0x0113DDB0
+// from "client.dylib", by ida_vtables.idc
+0	CViewEffectsSaveRestoreBlockHandler::GetBlockName(void)
+1	CViewEffectsSaveRestoreBlockHandler::PreSave(CSaveRestoreData *)
+2	CViewEffectsSaveRestoreBlockHandler::Save(ISave *)
+3	CViewEffectsSaveRestoreBlockHandler::WriteSaveHeaders(ISave *)
+4	CViewEffectsSaveRestoreBlockHandler::PostSave(void)
+5	CViewEffectsSaveRestoreBlockHandler::PreRestore(void)
+6	CViewEffectsSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore *)
+7	CViewEffectsSaveRestoreBlockHandler::Restore(IRestore *,bool)
+8	CViewEffectsSaveRestoreBlockHandler::PostRestore(void)
+

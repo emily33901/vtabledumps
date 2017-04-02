@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgTFVoteKickBanPlayerResult
+// Auto reconstructed from vtable block @ 0x00E50EE0
+// from "client.dylib", by ida_vtables.idc
+0	CMsgTFVoteKickBanPlayerResult::~CMsgTFVoteKickBanPlayerResult()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgTFVoteKickBanPlayerResult::New(void)const
+3	CMsgTFVoteKickBanPlayerResult::Clear(void)
+4	CMsgTFVoteKickBanPlayerResult::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgTFVoteKickBanPlayerResult::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgTFVoteKickBanPlayerResult::ByteSize(void)const
+90	CMsgTFVoteKickBanPlayerResult::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgTFVoteKickBanPlayerResult::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgTFVoteKickBanPlayerResult::GetCachedSize(void)const
+12	CMsgTFVoteKickBanPlayerResult::CopyFrom(google::protobuf::Message const&)
+13	CMsgTFVoteKickBanPlayerResult::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgTFVoteKickBanPlayerResult::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgTFVoteKickBanPlayerResult::GetMetadata(void)const
+

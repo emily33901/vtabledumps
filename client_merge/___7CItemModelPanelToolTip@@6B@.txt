@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CItemModelPanelToolTip
+// Auto reconstructed from vtable block @ 0x00ED0310
+// from "client.dylib", by ida_vtables.idc
+0	CItemModelPanelToolTip::SetText(char const*)
+1	CItemModelPanelToolTip::GetText(void)
+2	CItemModelPanelToolTip::ShowTooltip(vgui::Panel *)
+3	CItemModelPanelToolTip::HideTooltip(void)
+4	CItemModelPanelToolTip::PerformLayout(void)
+5	vgui::BaseTooltip::PositionWindow(vgui::Panel *)
+6	vgui::BaseTooltip::ApplySchemeSettings(vgui::IScheme *)
+7	CItemModelPanelToolTip::GetMessageMap(void)
+8	CItemModelPanelToolTip::GetAnimMap(void)
+9	CItemModelPanelToolTip::GetKBMap(void)
+

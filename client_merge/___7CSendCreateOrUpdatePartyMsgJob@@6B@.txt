@@ -1,0 +1,14 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSendCreateOrUpdatePartyMsgJob
+// Auto reconstructed from vtable block @ 0x01046C10
+// from "client.dylib", by ida_vtables.idc
+0	CSendCreateOrUpdatePartyMsgJob::~CSendCreateOrUpdatePartyMsgJob()
+1	CSendCreateOrUpdatePartyMsgJob::BYieldingRunJob(void *)
+2	GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket *)
+3	GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout(void)
+4	GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket *)
+5	GCSDK::CGCClientJob::BYieldingRunGCJob(void)
+6	GCSDK::CGCClientJob::GetServerType(void)
+

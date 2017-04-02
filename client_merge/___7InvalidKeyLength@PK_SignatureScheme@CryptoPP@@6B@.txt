@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::PK_SignatureScheme::InvalidKeyLength
+// Auto reconstructed from vtable block @ 0x01017568
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::PK_SignatureScheme::InvalidKeyLength::~InvalidKeyLength()
+1	CryptoPP::Exception::what(void)const
+

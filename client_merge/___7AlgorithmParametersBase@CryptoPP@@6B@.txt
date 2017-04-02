@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::AlgorithmParametersBase
+// Auto reconstructed from vtable block @ 0x010170A0
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase()
+1	___cxa_pure_virtual
+

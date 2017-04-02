@@ -1,0 +1,34 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CryptoPP::MontgomeryRepresentation
+// Auto reconstructed from vtable block @ 0x01016E60
+// from "client.dylib", by ida_vtables.idc
+0	CryptoPP::MontgomeryRepresentation::~MontgomeryRepresentation()
+1	CryptoPP::ModularArithmetic::Equal(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+2	CryptoPP::ModularArithmetic::Identity(void)const
+3	CryptoPP::ModularArithmetic::Add(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+4	CryptoPP::ModularArithmetic::Inverse(CryptoPP::Integer const&)const
+5	CryptoPP::AbstractGroup<CryptoPP::Integer>::InversionIsFast(void)const
+6	CryptoPP::ModularArithmetic::Double(CryptoPP::Integer const&)const
+7	CryptoPP::ModularArithmetic::Subtract(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+8	CryptoPP::ModularArithmetic::Accumulate(CryptoPP::Integer &,CryptoPP::Integer const&)const
+90	CryptoPP::ModularArithmetic::Reduce(CryptoPP::Integer &,CryptoPP::Integer const&)const
+10	CryptoPP::AbstractGroup<CryptoPP::Integer>::ScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+11	CryptoPP::AbstractGroup<CryptoPP::Integer>::CascadeScalarMultiply(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+12	CryptoPP::AbstractGroup<CryptoPP::Integer>::SimultaneousMultiply(CryptoPP::Integer*,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const
+13	CryptoPP::ModularArithmetic::IsUnit(CryptoPP::Integer const&)const
+14	CryptoPP::MontgomeryRepresentation::MultiplicativeIdentity(void)const
+15	CryptoPP::MontgomeryRepresentation::Multiply(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+16	CryptoPP::MontgomeryRepresentation::MultiplicativeInverse(CryptoPP::Integer const&)const
+17	CryptoPP::MontgomeryRepresentation::Square(CryptoPP::Integer const&)const
+18	CryptoPP::ModularArithmetic::Divide(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+19	CryptoPP::AbstractRing<CryptoPP::Integer>::Exponentiate(CryptoPP::Integer const&,CryptoPP::Integer const&)const
+20	CryptoPP::MontgomeryRepresentation::CascadeExponentiate(CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&,CryptoPP::Integer const&)const
+21	CryptoPP::MontgomeryRepresentation::SimultaneousExponentiate(CryptoPP::Integer *,CryptoPP::Integer const&,CryptoPP::Integer const*,unsigned int)const
+22	CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroup(void)const
+23	CryptoPP::MontgomeryRepresentation::Clone(void)const
+24	CryptoPP::MontgomeryRepresentation::IsMontgomeryRepresentation(void)const
+25	CryptoPP::MontgomeryRepresentation::ConvertIn(CryptoPP::Integer const&)const
+26	CryptoPP::MontgomeryRepresentation::ConvertOut(CryptoPP::Integer const&)const
+

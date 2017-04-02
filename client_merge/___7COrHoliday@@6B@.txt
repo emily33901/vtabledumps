@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'COrHoliday
+// Auto reconstructed from vtable block @ 0x0104EAA0
+// from "client.dylib", by ida_vtables.idc
+0	COrHoliday::~COrHoliday()
+1	COrHoliday::IsActive(CRTime const&)
+

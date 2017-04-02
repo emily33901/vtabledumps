@@ -1,0 +1,9 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'audioparams_t
+// Auto reconstructed from vtable block @ 0x01091BE4
+// from "client.dylib", by ida_vtables.idc
+0	audioparams_t::NetworkStateChanged(void)
+1	audioparams_t::NetworkStateChanged(void *)
+

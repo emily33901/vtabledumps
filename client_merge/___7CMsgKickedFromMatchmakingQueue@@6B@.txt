@@ -1,0 +1,26 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMsgKickedFromMatchmakingQueue
+// Auto reconstructed from vtable block @ 0x00E52920
+// from "client.dylib", by ida_vtables.idc
+0	CMsgKickedFromMatchmakingQueue::~CMsgKickedFromMatchmakingQueue()
+1	google::protobuf::Message::GetTypeName(void)const
+2	CMsgKickedFromMatchmakingQueue::New(void)const
+3	CMsgKickedFromMatchmakingQueue::Clear(void)
+4	CMsgKickedFromMatchmakingQueue::IsInitialized(void)const
+5	google::protobuf::Message::InitializationErrorString(void)const
+6	google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+7	CMsgKickedFromMatchmakingQueue::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream *)
+8	CMsgKickedFromMatchmakingQueue::ByteSize(void)const
+90	CMsgKickedFromMatchmakingQueue::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream *)const
+10	CMsgKickedFromMatchmakingQueue::SerializeWithCachedSizesToArray(unsigned char *)const
+11	CMsgKickedFromMatchmakingQueue::GetCachedSize(void)const
+12	CMsgKickedFromMatchmakingQueue::CopyFrom(google::protobuf::Message const&)
+13	CMsgKickedFromMatchmakingQueue::MergeFrom(google::protobuf::Message const&)
+14	google::protobuf::Message::DiscardUnknownFields(void)
+15	google::protobuf::Message::SpaceUsed(void)const
+16	CMsgKickedFromMatchmakingQueue::SetCachedSize(int)const
+17	google::protobuf::Message::GetReflection(void)const
+18	CMsgKickedFromMatchmakingQueue::GetMetadata(void)const
+

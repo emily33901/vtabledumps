@@ -1,0 +1,28 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CHudTFCrosshair
+// Auto reconstructed from vtable block @ 0x00F63140
+// from "client.dylib", by ida_vtables.idc
+0	`typeinfo for'CHudTFCrosshair
+1	CHudTFCrosshair::~CHudTFCrosshair()
+2	CHudElement::FireGameEvent(IGameEvent *)
+3	CHudTFCrosshair::Init(void)
+4	CHudElement::VidInit(void)
+5	CHudElement::LevelInit(void)
+6	CHudTFCrosshair::LevelShutdown(void)
+7	CHudElement::Reset(void)
+8	CHudElement::ProcessInput(void)
+90	CHudElement::GetName(void)const
+10	CHudTFCrosshair::ShouldDraw(void)
+11	CHudElement::IsActive(void)
+12	CHudElement::SetActive(bool)
+13	CHudElement::GetPreferredActionSet(void)
+14	CHudElement::SetHiddenBits(int)
+15	CHudElement::GetRenderGroupPriority(void)
+16	CHudTFCrosshair::GetMessageMap(void)
+17	CHudTFCrosshair::GetAnimMap(void)
+18	CHudTFCrosshair::GetKBMap(void)
+19	CHudCrosshair::SetCrosshairAngle(QAngle const&)
+20	CHudCrosshair::SetCrosshair(CHudTexture *,Color const&)
+

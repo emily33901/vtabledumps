@@ -1,0 +1,17 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CRagdoll
+// Auto reconstructed from vtable block @ 0x00F159D0
+// from "client.dylib", by ida_vtables.idc
+0	CRagdoll::~CRagdoll()
+1	CRagdoll::RagdollBone(C_BaseEntity *,mstudiobone_t *,int,bool *,CBoneAccessor &)
+2	CRagdoll::GetRagdollOrigin(void)
+3	CRagdoll::GetRagdollBounds(Vector &,Vector &)
+4	CRagdoll::RagdollBoneCount(void)const
+5	CRagdoll::GetElement(int)
+6	CRagdoll::DrawWireframe(void)
+7	CRagdoll::VPhysicsUpdate(IPhysicsObject *)
+8	CRagdoll::TransformVectorToWorld(int,Vector const*,Vector*)
+90	CRagdoll::GetConstraintGroup(void)
+

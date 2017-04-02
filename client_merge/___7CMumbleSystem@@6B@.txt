@@ -1,0 +1,25 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CMumbleSystem
+// Auto reconstructed from vtable block @ 0x00F13E90
+// from "client.dylib", by ida_vtables.idc
+0	CBaseGameSystemPerFrame::Name(void)
+1	CMumbleSystem::Init(void)
+2	CBaseGameSystemPerFrame::PostInit(void)
+3	CBaseGameSystemPerFrame::Shutdown(void)
+4	CBaseGameSystemPerFrame::LevelInitPreEntity(void)
+5	CMumbleSystem::LevelInitPostEntity(void)
+6	CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext(void)
+7	CMumbleSystem::LevelShutdownPreEntity(void)
+8	CBaseGameSystemPerFrame::LevelShutdownPostEntity(void)
+9	CBaseGameSystemPerFrame::OnSave(void)
+10	CBaseGameSystemPerFrame::OnRestore(void)
+11	CBaseGameSystemPerFrame::SafeRemoveIfDesired(void)
+12	CBaseGameSystemPerFrame::IsPerFrame(void)
+13	CMumbleSystem::~CMumbleSystem()
+14	CBaseGameSystemPerFrame::PreRender(void)
+15	CBaseGameSystemPerFrame::Update(float)
+16	CMumbleSystem::PostRender(void)
+17	CMumbleSystem::FireGameEvent(IGameEvent *)
+

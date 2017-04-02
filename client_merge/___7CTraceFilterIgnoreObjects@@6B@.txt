@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTraceFilterIgnoreObjects
+// Auto reconstructed from vtable block @ 0x010823A0
+// from "client.dylib", by ida_vtables.idc
+0	CTraceFilterIgnoreObjects::ShouldHitEntity(IHandleEntity *,int)
+1	CTraceFilter::GetTraceType(void)const
+2	CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+3	CTraceFilterSimple::SetCollisionGroup(int)
+

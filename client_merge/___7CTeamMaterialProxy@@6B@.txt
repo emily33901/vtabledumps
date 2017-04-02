@@ -1,0 +1,13 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CTeamMaterialProxy
+// Auto reconstructed from vtable block @ 0x00F48190
+// from "client.dylib", by ida_vtables.idc
+0	CTeamMaterialProxy::Init(IMaterial *,KeyValues *)
+1	CEntityMaterialProxy::OnBind(void *)
+2	CEntityMaterialProxy::Release(void)
+3	CTeamMaterialProxy::GetMaterial(void)
+4	CTeamMaterialProxy::~CTeamMaterialProxy()
+5	CTeamMaterialProxy::OnBind(C_BaseEntity *)
+

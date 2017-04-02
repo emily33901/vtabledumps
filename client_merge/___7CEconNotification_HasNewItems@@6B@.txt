@@ -1,0 +1,21 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CEconNotification_HasNewItems
+// Auto reconstructed from vtable block @ 0x00E556C0
+// from "client.dylib", by ida_vtables.idc
+0	CEconNotification_HasNewItems::~CEconNotification_HasNewItems()
+1	CEconNotification_HasNewItems::SetLifetime(float)
+2	CEconNotification_HasNewItems::GetExpireTime(void)const
+3	CEconNotification_HasNewItems::GetInGameLifeTime(void)const
+4	CEconNotification_HasNewItems::BShowInGameElements(void)const
+5	CEconNotification_HasNewItems::MarkForDeletion(void)
+6	CEconNotification_HasNewItems::CanBeTriggered(void)
+7	CEconNotification_HasNewItems::Trigger(void)
+8	CEconNotification::CanBeAcceptedOrDeclined(void)
+90	CEconNotification::Accept(void)
+10	CEconNotification::Decline(void)
+11	CEconNotification::UpdateTick(void)
+12	CEconNotification::GetUnlocalizedHelpText(void)
+13	CEconNotification::CreateUIElement(bool)const
+

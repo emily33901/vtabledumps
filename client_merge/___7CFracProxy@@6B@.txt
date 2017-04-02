@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CFracProxy
+// Auto reconstructed from vtable block @ 0x00F12D00
+// from "client.dylib", by ida_vtables.idc
+0	CFunctionProxy::Init(IMaterial *,KeyValues *)
+1	CFracProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CFracProxy::~CFracProxy()
+

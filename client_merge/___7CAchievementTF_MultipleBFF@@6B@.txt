@@ -1,0 +1,33 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CAchievementTF_MultipleBFF
+// Auto reconstructed from vtable block @ 0x01059A70
+// from "client.dylib", by ida_vtables.idc
+0	CAchievementTF_MultipleBFF::~CAchievementTF_MultipleBFF()
+1	CBaseTFAchievementSimple::FireGameEvent(IGameEvent *)
+2	CAchievementTF_MultipleBFF::Init(void)
+3	CAchievementTF_MultipleBFF::ListenForEvents(void)
+4	CAchievementTF_MultipleBFF::Event_EntityKilled(C_BaseEntity *,C_BaseEntity *,C_BaseEntity *,IGameEvent *)
+5	CBaseAchievement::GetAchievementID(void)
+6	CBaseAchievement::GetName(void)
+7	CBaseAchievement::GetFlags(void)
+8	CBaseAchievement::GetGoal(void)
+90	CBaseAchievement::GetPointValue(void)
+10	CBaseAchievement::ShouldHideUntilAchieved(void)
+11	CBaseAchievement::ShouldShowProgressNotification(void)
+12	CBaseAchievement::OnPlayerStatsUpdate(void)
+13	CBaseAchievement::ShouldSaveWithGame(void)
+14	CBaseAchievement::PreRestoreSavedGame(void)
+15	CBaseAchievement::PostRestoreSavedGame(void)
+16	CBaseAchievement::GetCount(void)
+17	CBaseAchievement::IsAchieved(void)
+18	CBaseAchievement::IsActive(void)
+19	CBaseTFAchievement::LocalPlayerCanEarn(void)
+20	CBaseAchievement::IsMetaAchievement(void)
+21	CBaseAchievement::AlwaysListen(void)
+22	CBaseAchievement::AlwaysEnabled(void)
+23	CBaseAchievement::OnAchieved(void)
+24	CBaseAchievement::OnMapEvent(char const*)
+25	CBaseAchievement::PrintAdditionalStatus(void)
+

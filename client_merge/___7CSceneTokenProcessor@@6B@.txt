@@ -1,0 +1,11 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CSceneTokenProcessor
+// Auto reconstructed from vtable block @ 0x00E42C30
+// from "client.dylib", by ida_vtables.idc
+0	CSceneTokenProcessor::CurrentToken(void)
+1	CSceneTokenProcessor::GetToken(bool)
+2	CSceneTokenProcessor::TokenAvailable(void)
+3	CSceneTokenProcessor::Error(char const*,...)
+

@@ -1,0 +1,12 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CStatTrakIconProxy
+// Auto reconstructed from vtable block @ 0x00F3E680
+// from "client.dylib", by ida_vtables.idc
+0	CStatTrakIconProxy::Init(IMaterial *,KeyValues *)
+1	CStatTrakIconProxy::OnBind(void *)
+2	CResultProxy::Release(void)
+3	CResultProxy::GetMaterial(void)
+4	CStatTrakIconProxy::~CStatTrakIconProxy()
+

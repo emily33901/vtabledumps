@@ -185,7 +185,7 @@ def ProcessVtablePair(osx, win, file):
         ProcessContents(osx_file.read().split("\n"), win_file.read().split("\n"), file);
 
 def EnumerateOSXNames(folder):
-    print("performing osx demangling...");
+    print("performing osx demangling", end="");
     threads = [];
     for file in os.listdir(folder):
         print(".", end="", flush=True);
@@ -247,7 +247,9 @@ def ProcessFileSplit(file):
             ProcessFolderPair("." + "/" + file, "." + "/" + newFile, "." + "/" + output);
         
 # main
-if(len(sys.argv) > 0):
+print("platform " + platform.machine());
+print("argv " + str(sys.argv));
+if(len(sys.argv) > 1):
     for a in sys.argv:
         ProcessFileSplit(a);
 else:

@@ -1,6 +1,8 @@
 import os
 import re
 import subprocess
+import threading
+
 import msvcDemangler
 
 def FileExists(filename):
@@ -179,9 +181,23 @@ def ProcessVtablePair(osx, win, file):
     with open(osx) as osx_file, open(win) as win_file:
         ProcessContents(osx_file.read().split("\n"), win_file.read().split("\n"), file);
 
+def EnumerateOSXNames(folder):
+    print("performing osx demangling...");
+    threads = [];
+    for file in os.listdir(folder):
+        t = threading.Thread(target=LookupUniqueOSXName, args=(file,));
+        t.start();
+        threads.append(t);
+
+    for t in threads:
+        t.join();
+
+    print("done");
+
 # process everything windows first
 def ProcessFolderPair(osx_folder, win_folder, out_folder):
     i = 0
+    EnumerateOSXNames(osx_folder);
     for file in os.listdir(win_folder):
         #print(file);
         try:

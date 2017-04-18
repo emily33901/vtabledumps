@@ -1,0 +1,2 @@
+replace IClient* CClient
+replace IClient* CAdapterSteam*

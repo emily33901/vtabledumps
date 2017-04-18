@@ -4,21 +4,16 @@ import re
 import subprocess
 import threading
 import platform
+import fnmatch
 
 import msvcDemangler
+import merge_subs
 
 def FileExists(filename):
     for file in os.listdir():
         if(file == filename):
             return True;
     return False;
-
-def FindLastNumber(string):
-    lastNumber = -1;
-    for i in range(len(string)):
-        if(string[i].isdigit()):
-            lastNumber = i;
-    return lastNumber + 1;
 
 def TryMatchName(string1, string2, thresh):
     i = 0;
@@ -31,6 +26,17 @@ def TryMatchName(string1, string2, thresh):
                 return string2[i:];
         i += 1;
 
+MergeSubs = [];
+def EnumerateMergeSubsForFolder(folder):
+    print("enumerating merge subs...");
+    global MergeSubs;
+    MergeSubs = [];
+    for file in os.listdir(folder):
+        if(fnmatch.fnmatch(file, "*merge_subs.txt")):
+            MergeSubs = merge_subs.ParseMergeSub(folder + "/" + file);
+
+    print("done " + str(MergeSubs));
+            
 def FindUniqueWindowsName(string):
     if(string.find("___7_") != -1):
         string = string[3:]; # only remove 3 as the next 2 will be removed next
@@ -39,7 +45,6 @@ def FindUniqueWindowsName(string):
     # if the demangled name contains a for then that is what is unique for this vtable
     forindex = n.find("for");
     if(forindex != -1):
-        #print(n[n.find("`", forindex) + 1:n.find("'", forindex)]);
         return n[n.find("`", forindex) + 1:n.find("'", forindex)];
     # otherwise we want to return the first item before the ::
     else:
@@ -64,6 +69,7 @@ def FindUniqueOSXName(string):
 
 OSXFileNameMap = {};
 def LookupUniqueOSXName(string):
+    global OSXFileNameMap;
     try:
         if(OSXFileNameMap[string] != None):
             return OSXFileNameMap[string]
@@ -82,47 +88,20 @@ def NarrowOSXFileDir(string, folder):
 
     #input(out);
     return out;
-        
+
 # assumes string is already unique
 def FindMatchingOSXFileCore(string, folder):
-    oldString = string;
+    subs = [string] + merge_subs.TryMerge(string, MergeSubs);
 
     for file in folder:
         uniqueName = LookupUniqueOSXName(file);
-        #print(string + " -- " + uniqueName);
-        if(uniqueName == string):
-            #input()
-            return file;
-
-    if(string[0] == "I"):
-        string = "C" + string[1:];
-
-    for file in folder:
-        uniqueName = LookupUniqueOSXName(file);
-        #print(string + " -- " + uniqueName);
-        if(uniqueName == string):
-            return file;
-
-    if(oldString.find("IClient") != -1):
-        string = "CAdapterSteam" + oldString[7:] + "0";
-
-    for file in folder:
-        uniqueName = LookupUniqueOSXName(file);
-        #print(string + " -- " + uniqueName);
-        if(uniqueName.find(string) != -1):
-            return file;
-
-    
-    if(oldString.find("IClient") != -1):
-        string = "C" + oldString[7:];
-        
-    for file in folder:
-        uniqueName = LookupUniqueOSXName(file);
-        #print(string + " -- " + uniqueName);
-        if(uniqueName == string):
-            return file;
+        for string in subs:
+            #print(string + " -- " + uniqueName);
+            if(uniqueName == string):
+                #input()
+                return file;
             
-    print("no vtable match found for " + oldString);
+    print("no vtable match found for " + string);
 
 def FindMatchingOSXFile(string, folder):
     narrowDir = NarrowOSXFileDir(string, folder);
@@ -182,7 +161,7 @@ def ProcessContents(osx, win, file):
 
 def ProcessVtablePair(osx, win, file):
     with open(osx) as osx_file, open(win) as win_file:
-        ProcessContents(osx_file.read().split("\n"), win_file.read().split("\n"), file);
+        threading.Thread(target=ProcessContents, args=(osx_file.read().split("\n"), win_file.read().split("\n"), file)).start();
 
 def EnumerateOSXNames(folder):
     print("performing osx demangling", end="");
@@ -200,8 +179,15 @@ def EnumerateOSXNames(folder):
 
 # process everything windows first
 def ProcessFolderPair(osx_folder, win_folder, out_folder):
-    i = 0
+    i = 0;
+    global OSXFileNameMap;
+    OSXFileNameMap = {};
     EnumerateOSXNames(osx_folder);
+
+    global MergeSubs;
+    MergeSubs = [];
+    EnumerateMergeSubsForFolder(win_folder);
+    
     for file in os.listdir(win_folder):
         #print(file);
         try:
@@ -250,8 +236,7 @@ def ProcessFileSplit(file):
 print("platform " + platform.machine());
 print("argv " + str(sys.argv));
 if(len(sys.argv) > 1):
-    for a in sys.argv:
-        ProcessFileSplit(a);
+    ProcessFileSplit(sys.argv[1]);
 else:
     for file in os.listdir():
         ProcessFileSplit(file);

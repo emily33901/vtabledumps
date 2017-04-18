@@ -1,0 +1,6 @@
+# comments begin with # and must be at the start of the line
+# * signals what is to be transfered from string to sub
+# command pattern substitute
+replace IClient* CClient*
+replace IClient* CAdapterSteam*0
+replace IClientRemote* CRemote*

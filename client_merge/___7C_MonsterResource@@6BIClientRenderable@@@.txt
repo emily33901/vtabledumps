@@ -1,0 +1,53 @@
+//=================================
+// Merged Vtable - Errors expected 
+//=================================
+// `vtable for'CDefaultClientRenderable
+// Auto reconstructed from vtable block @ 0x01051AA0
+// from "client.dylib", by ida_vtables.idc
+0	CDefaultClientRenderable::~CDefaultClientRenderable()
+1	CDefaultClientRenderable::SetRefEHandle(CBaseHandle const&)
+2	CDefaultClientRenderable::GetRefEHandle(void)const
+3	CDefaultClientRenderable::GetCollideable(void)
+4	CDefaultClientRenderable::GetClientNetworkable(void)
+5	CDefaultClientRenderable::GetClientRenderable(void)
+6	CDefaultClientRenderable::GetIClientEntity(void)
+7	CDefaultClientRenderable::GetBaseEntity(void)
+8	CDefaultClientRenderable::GetClientThinkable(void)
+90	___cxa_pure_virtual
+10	___cxa_pure_virtual
+11	___cxa_pure_virtual
+12	___cxa_pure_virtual
+13	___cxa_pure_virtual
+14	CDefaultClientRenderable::IsTwoPass(void)
+15	CDefaultClientRenderable::OnThreadedDrawSetup(void)
+16	CDefaultClientRenderable::UsesPowerOfTwoFrameBufferTexture(void)
+17	CDefaultClientRenderable::UsesFullFrameBufferTexture(void)
+18	CDefaultClientRenderable::GetShadowHandle(void)const
+19	CDefaultClientRenderable::RenderHandle(void)
+20	CDefaultClientRenderable::GetBody(void)
+21	CDefaultClientRenderable::GetSkin(void)
+22	CDefaultClientRenderable::UsesFlexDelayedWeights(void)
+23	CDefaultClientRenderable::GetModel(void)const
+24	CDefaultClientRenderable::DrawModel(int)
+25	CDefaultClientRenderable::ComputeFxBlend(void)
+26	CDefaultClientRenderable::GetFxBlend(void)
+27	CDefaultClientRenderable::LODTest(void)
+28	CDefaultClientRenderable::SetupBones(matrix3x4_t *,int,int,float)
+29	CDefaultClientRenderable::SetupWeights(matrix3x4_t const*,int,float *,float *)
+30	CDefaultClientRenderable::DoAnimationEvents(void)
+31	CDefaultClientRenderable::GetPVSNotifyInterface(void)
+32	CDefaultClientRenderable::GetRenderBoundsWorldspace(Vector &,Vector &)
+33	CDefaultClientRenderable::GetColorModulation(float *)
+34	CDefaultClientRenderable::ShouldReceiveProjectedTextures(int)
+35	CDefaultClientRenderable::GetShadowCastDistance(float *,ShadowType_t)const
+36	CDefaultClientRenderable::GetShadowCastDirection(Vector *,ShadowType_t)const
+37	CDefaultClientRenderable::GetShadowRenderBounds(Vector &,Vector &,ShadowType_t)
+38	CDefaultClientRenderable::IsShadowDirty(void)
+39	CDefaultClientRenderable::MarkShadowDirty(bool)
+40	CDefaultClientRenderable::GetShadowParent(void)
+41	CDefaultClientRenderable::FirstShadowChild(void)
+42	CDefaultClientRenderable::NextShadowPeer(void)
+43	CDefaultClientRenderable::ShadowCastType(void)
+44	CDefaultClientRenderable::CreateModelInstance(void)
+45	CDefaultClientRenderable::GetModelInstance(void)
+

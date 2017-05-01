@@ -1,0 +1,205 @@
+constructing vtable for C_TFKnife
+enumerating merge subs...
+done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+finding siblings...
+C_TFKnife (const C_TFKnife::`vftable')
+CGameEventListener (const C_TFKnife::`vftable'{for `CGameEventListener'})
+IClientNetworkable (const C_TFKnife::`vftable'{for `IClientNetworkable'})
+IClientRenderable (const C_TFKnife::`vftable'{for `IClientRenderable'})
+IClientThinkable (const C_TFKnife::`vftable'{for `IClientThinkable'})
+IHasAttributes (const C_TFKnife::`vftable'{for `IHasAttributes'})
+IHasOwner (const C_TFKnife::`vftable'{for `IHasOwner'})
+IModelLoadCallback (const C_TFKnife::`vftable'{for `IModelLoadCallback'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
+match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt) MI
+match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match C_TFKnife => C_TFKnife (__ZTV9C_TFKnife.txt)
+unable to match: 
+	IClientNetworkable
+	IClientRenderable
+	IClientThinkable
+	IHasOwner
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['', 'IClientNetworkable', []]
+['', 'IClientRenderable', []]
+['', 'IClientThinkable', []]
+['', 'IHasOwner', []]
+found 2 classes: ['C_TFKnife', 'CGameEventListener']
+finding child vtables...
+constructing vtable for CGameEventListener
+enumerating merge subs...
+done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+finding siblings...
+CGameEventListener (const CGameEventListener::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt)
+unable to match: 
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+no children
+done.
+finished constructing vtable CGameEventListener
+
+
+done.
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV9C_TFKnife.txt', 'C_TFKnife', []]
+found 7 classes: ['C_TFKnife', 'C_BaseEntity', 'C_EconEntity', 'C_BaseAnimating', 'C_BaseCombatWeapon', 'C_TFWeaponBase', 'C_TFWeaponBaseMelee']
+finding child vtables...
+constructing vtable for C_BaseEntity
+enumerating merge subs...
+done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+finding siblings...
+C_BaseEntity (const C_BaseEntity::`vftable')
+IClientNetworkable (const C_BaseEntity::`vftable'{for `IClientNetworkable'})
+IClientRenderable (const C_BaseEntity::`vftable'{for `IClientRenderable'})
+IClientThinkable (const C_BaseEntity::`vftable'{for `IClientThinkable'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match C_BaseEntity => C_BaseEntity (__ZTV12C_BaseEntity.txt)
+unable to match: 
+	IClientNetworkable
+	IClientRenderable
+	IClientThinkable
+done.
+processing osx table for mi...
+processing...
+['', 'IClientNetworkable', []]
+['', 'IClientRenderable', []]
+['', 'IClientThinkable', []]
+no children
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV12C_BaseEntity.txt', 'C_BaseEntity', []]
+no children
+done.
+finished constructing vtable C_BaseEntity
+
+
+constructing vtable for C_BaseAnimating
+enumerating merge subs...
+done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+finding siblings...
+C_BaseAnimating (const C_BaseAnimating::`vftable')
+IClientNetworkable (const C_BaseAnimating::`vftable'{for `IClientNetworkable'})
+IClientRenderable (const C_BaseAnimating::`vftable'{for `IClientRenderable'})
+IClientThinkable (const C_BaseAnimating::`vftable'{for `IClientThinkable'})
+IModelLoadCallback (const C_BaseAnimating::`vftable'{for `IModelLoadCallback'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match C_BaseAnimating => C_BaseAnimating (__ZTV15C_BaseAnimating.txt)
+match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+unable to match: 
+	IClientNetworkable
+	IClientRenderable
+	IClientThinkable
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['', 'IClientNetworkable', []]
+['', 'IClientRenderable', []]
+['', 'IClientThinkable', []]
+no children
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV15C_BaseAnimating.txt', 'C_BaseAnimating', []]
+found 2 classes: ['C_BaseAnimating', 'C_BaseEntity']
+finding child vtables...
+using enumerated values for vtable C_BaseEntity...
+done.
+done.
+finished constructing vtable C_BaseAnimating
+
+
+constructing vtable for C_TFWeaponBase
+enumerating merge subs...
+done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+finding siblings...
+C_TFWeaponBase (const C_TFWeaponBase::`vftable')
+CGameEventListener (const C_TFWeaponBase::`vftable'{for `CGameEventListener'})
+IClientNetworkable (const C_TFWeaponBase::`vftable'{for `IClientNetworkable'})
+IClientRenderable (const C_TFWeaponBase::`vftable'{for `IClientRenderable'})
+IClientThinkable (const C_TFWeaponBase::`vftable'{for `IClientThinkable'})
+IHasAttributes (const C_TFWeaponBase::`vftable'{for `IHasAttributes'})
+IHasOwner (const C_TFWeaponBase::`vftable'{for `IHasOwner'})
+IModelLoadCallback (const C_TFWeaponBase::`vftable'{for `IModelLoadCallback'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match C_TFWeaponBase => C_TFWeaponBase (__ZTV14C_TFWeaponBase.txt)
+match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
+match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt) MI
+match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+unable to match: 
+	IClientNetworkable
+	IClientRenderable
+	IClientThinkable
+	IHasOwner
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['', 'IClientNetworkable', []]
+['', 'IClientRenderable', []]
+['', 'IClientThinkable', []]
+['', 'IHasOwner', []]
+found 2 classes: ['C_TFWeaponBase', 'CGameEventListener']
+finding child vtables...
+using enumerated values for vtable CGameEventListener...
+done.
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV14C_TFWeaponBase.txt', 'C_TFWeaponBase', []]
+found 5 classes: ['C_TFWeaponBase', 'C_BaseEntity', 'C_EconEntity', 'C_BaseAnimating', 'C_BaseCombatWeapon']
+finding child vtables...
+using enumerated values for vtable C_BaseEntity...
+using enumerated values for vtable C_BaseAnimating...
+done.
+done.
+finished constructing vtable C_TFWeaponBase
+
+
+done.
+done.
+finished constructing vtable C_TFKnife
+
+
+CGameEventListener
+C_BaseEntity
+C_BaseAnimating
+	C_BaseEntity
+C_TFWeaponBase
+	CGameEventListener
+	C_BaseEntity
+	C_BaseAnimating

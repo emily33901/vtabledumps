@@ -119,19 +119,46 @@ class vtable:
         #print("functions:");
         #print(self.functions);
     
-    def PrintHierarchy(self, l = 0):
+    def RecursePrintHierarchy(self, l = 0):
         for v in self.hierarchy:
             print(('\t' * l) + v.win_vtable);
-            v.PrintHierarchy(l + 1);
+            v.RecursePrintHierarchy(l + 1);
 
-    @staticmethod
-    def RecurseCorrectHierarchy(v, rv):
-        for v in v.hierarchy:
-            for r in rv:
-                if(v.win_vtable == r):
-                    v.hierarchy.remove(v);
-                    break;
+    def PrintHierarchy(self):
+        print(self.win_vtable);
+        self.RecursePrintHierarchy(1);
+
             
+    @staticmethod
+    def RecurseCorrectHierarchy(v):
+        contains = []
+        ret = [];
+        for nv in v.hierarchy:
+            contains = contains + vtable.RecurseCorrectHierarchy(nv);
+            #print("contains " + str(contains));
+        for nv in v.hierarchy:
+            for c in contains:
+                if(c == nv.win_vtable):
+                    try:
+                        v.hierarchy.remove(nv);
+                        #ret.append(c);
+                        #print("removing " + c + " from " + v.win_vtable);
+                        break;
+                    except:
+                        pass;
+            else:
+                ret.append(nv.win_vtable);
+
+        return ret + contains;
+                
+    def CorrectHierarchy(self):
+        oldR = [];
+        while True:
+            r = vtable.RecurseCorrectHierarchy(self.top);
+            if(r == oldR):
+                return;
+            #print(str(r) + " | " + str(oldR));
+            oldR = r;
 
     def FileToVtableName(self, string, osx):
         if(osx):
@@ -367,6 +394,7 @@ class vtable:
 
 def main():
     v = vtable("___7C_TFKnife@@6B@.txt", "client_win32", "client_osx");
+    v.CorrectHierarchy();
     v.PrintHierarchy();
     return;
 

@@ -1,15 +1,15 @@
 constructing vtable for C_TFKnife
 enumerating merge subs...
-done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+done []
 finding siblings...
-C_TFKnife (const C_TFKnife::`vftable')
-CGameEventListener (const C_TFKnife::`vftable'{for `CGameEventListener'})
-IClientNetworkable (const C_TFKnife::`vftable'{for `IClientNetworkable'})
-IClientRenderable (const C_TFKnife::`vftable'{for `IClientRenderable'})
-IClientThinkable (const C_TFKnife::`vftable'{for `IClientThinkable'})
-IHasAttributes (const C_TFKnife::`vftable'{for `IHasAttributes'})
-IHasOwner (const C_TFKnife::`vftable'{for `IHasOwner'})
-IModelLoadCallback (const C_TFKnife::`vftable'{for `IModelLoadCallback'})
+sibling C_TFKnife (const C_TFKnife::`vftable')
+sibling CGameEventListener (const C_TFKnife::`vftable'{for `CGameEventListener'})
+sibling IClientNetworkable (const C_TFKnife::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_TFKnife::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_TFKnife::`vftable'{for `IClientThinkable'})
+sibling IHasAttributes (const C_TFKnife::`vftable'{for `IHasAttributes'})
+sibling IHasOwner (const C_TFKnife::`vftable'{for `IHasOwner'})
+sibling IModelLoadCallback (const C_TFKnife::`vftable'{for `IModelLoadCallback'})
 done.
 performing osx demangling
 done - loaded from file
@@ -17,49 +17,12 @@ finding osx tables...
 match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
 match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt) MI
 match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
+match IHasOwner => IHasOwner (__ZTV3IHasOwner.txt) MI
 match C_TFKnife => C_TFKnife (__ZTV9C_TFKnife.txt)
 unable to match: 
-	IClientNetworkable
-	IClientRenderable
-	IClientThinkable
-	IHasOwner
-done.
-processing osx table for mi...
-processing...
-['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
-['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
-['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
-['', 'IClientNetworkable', []]
-['', 'IClientRenderable', []]
-['', 'IClientThinkable', []]
-['', 'IHasOwner', []]
-found 2 classes: ['C_TFKnife', 'CGameEventListener']
-finding child vtables...
-constructing vtable for CGameEventListener
-enumerating merge subs...
-done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
-finding siblings...
-CGameEventListener (const CGameEventListener::`vftable')
-done.
-performing osx demangling
-done - loaded from file
-finding osx tables...
-match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt)
-unable to match: 
-done.
-processing osx table for mi...
-processing...
-no children
-done.
-processing osx table...
-processing...
-['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
-no children
-done.
-finished constructing vtable CGameEventListener
-
-
-done.
 done.
 processing osx table...
 processing...
@@ -68,64 +31,224 @@ found 7 classes: ['C_TFKnife', 'C_BaseEntity', 'C_EconEntity', 'C_BaseAnimating'
 finding child vtables...
 constructing vtable for C_BaseEntity
 enumerating merge subs...
-done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+done []
 finding siblings...
-C_BaseEntity (const C_BaseEntity::`vftable')
-IClientNetworkable (const C_BaseEntity::`vftable'{for `IClientNetworkable'})
-IClientRenderable (const C_BaseEntity::`vftable'{for `IClientRenderable'})
-IClientThinkable (const C_BaseEntity::`vftable'{for `IClientThinkable'})
+sibling C_BaseEntity (const C_BaseEntity::`vftable')
+sibling IClientNetworkable (const C_BaseEntity::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_BaseEntity::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_BaseEntity::`vftable'{for `IClientThinkable'})
 done.
 performing osx demangling
 done - loaded from file
 finding osx tables...
 match C_BaseEntity => C_BaseEntity (__ZTV12C_BaseEntity.txt)
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
 unable to match: 
-	IClientNetworkable
-	IClientRenderable
-	IClientThinkable
-done.
-processing osx table for mi...
-processing...
-['', 'IClientNetworkable', []]
-['', 'IClientRenderable', []]
-['', 'IClientThinkable', []]
-no children
 done.
 processing osx table...
 processing...
 ['client_osx/__ZTV12C_BaseEntity.txt', 'C_BaseEntity', []]
+found 2 classes: ['C_BaseEntity', 'IClientEntity']
+finding child vtables...
+constructing vtable for IClientEntity
+enumerating merge subs...
+done []
+finding siblings...
+sibling IClientEntity (const IClientEntity::`vftable')
+sibling IClientNetworkable (const IClientEntity::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const IClientEntity::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const IClientEntity::`vftable'{for `IClientThinkable'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IClientEntity => IClientEntity (__ZTV3IClientEntity.txt)
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV3IClientEntity.txt', 'IClientEntity', []]
+found 2 classes: ['IClientEntity', 'IClientUnknown']
+finding child vtables...
+constructing vtable for IClientUnknown
+enumerating merge subs...
+done []
+finding siblings...
+sibling IClientUnknown (const IClientUnknown::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+unable to match: 
+	IClientUnknown
+done.
+processing osx table...
+processing...
+['', 'IClientUnknown', []]
 no children
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+finished constructing vtable IClientUnknown
+
+
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+found 3 classes: ['IClientNetworkable', 'IClientRenderable', 'IClientThinkable']
+finding child vtables...
+constructing vtable for IClientNetworkable
+enumerating merge subs...
+done []
+finding siblings...
+sibling IClientNetworkable (const IClientNetworkable::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt)
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+no children
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+finished constructing vtable IClientNetworkable
+
+
+constructing vtable for IClientRenderable
+enumerating merge subs...
+done []
+finding siblings...
+sibling IClientRenderable (const IClientRenderable::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt)
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+no children
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+finished constructing vtable IClientRenderable
+
+
+constructing vtable for IClientThinkable
+enumerating merge subs...
+done []
+finding siblings...
+sibling IClientThinkable (const IClientThinkable::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt)
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+no children
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+finished constructing vtable IClientThinkable
+
+
+done.
+done.
+finished constructing vtable IClientEntity
+
+
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+found 3 classes: ['IClientNetworkable', 'IClientRenderable', 'IClientThinkable']
+finding child vtables...
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+done.
 done.
 finished constructing vtable C_BaseEntity
 
 
+constructing vtable for C_EconEntity
+enumerating merge subs...
+done []
+finding siblings...
+sibling C_EconEntity (const C_EconEntity::`vftable')
+sibling IClientNetworkable (const C_EconEntity::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_EconEntity::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_EconEntity::`vftable'{for `IClientThinkable'})
+sibling IHasAttributes (const C_EconEntity::`vftable'{for `IHasAttributes'})
+sibling IModelLoadCallback (const C_EconEntity::`vftable'{for `IModelLoadCallback'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match C_EconEntity => C_EconEntity (__ZTV12C_EconEntity.txt)
+match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
+match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV12C_EconEntity.txt', 'C_EconEntity', []]
+found 3 classes: ['C_EconEntity', 'C_BaseEntity', 'C_BaseAnimating']
+finding child vtables...
+using enumerated values for vtable C_BaseEntity...
 constructing vtable for C_BaseAnimating
 enumerating merge subs...
-done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+done []
 finding siblings...
-C_BaseAnimating (const C_BaseAnimating::`vftable')
-IClientNetworkable (const C_BaseAnimating::`vftable'{for `IClientNetworkable'})
-IClientRenderable (const C_BaseAnimating::`vftable'{for `IClientRenderable'})
-IClientThinkable (const C_BaseAnimating::`vftable'{for `IClientThinkable'})
-IModelLoadCallback (const C_BaseAnimating::`vftable'{for `IModelLoadCallback'})
+sibling C_BaseAnimating (const C_BaseAnimating::`vftable')
+sibling IClientNetworkable (const C_BaseAnimating::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_BaseAnimating::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_BaseAnimating::`vftable'{for `IClientThinkable'})
+sibling IModelLoadCallback (const C_BaseAnimating::`vftable'{for `IModelLoadCallback'})
 done.
 performing osx demangling
 done - loaded from file
 finding osx tables...
 match C_BaseAnimating => C_BaseAnimating (__ZTV15C_BaseAnimating.txt)
 match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
 unable to match: 
-	IClientNetworkable
-	IClientRenderable
-	IClientThinkable
-done.
-processing osx table for mi...
-processing...
-['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
-['', 'IClientNetworkable', []]
-['', 'IClientRenderable', []]
-['', 'IClientThinkable', []]
-no children
 done.
 processing osx table...
 processing...
@@ -135,21 +258,103 @@ finding child vtables...
 using enumerated values for vtable C_BaseEntity...
 done.
 done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+found 4 classes: ['C_BaseAnimating', 'IClientNetworkable', 'IClientRenderable', 'IClientThinkable']
+finding child vtables...
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+done.
+done.
 finished constructing vtable C_BaseAnimating
+
+
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+found 4 classes: ['C_EconEntity', 'IClientNetworkable', 'IClientRenderable', 'IClientThinkable']
+finding child vtables...
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+done.
+done.
+finished constructing vtable C_EconEntity
+
+
+using enumerated values for vtable C_BaseAnimating...
+constructing vtable for C_BaseCombatWeapon
+enumerating merge subs...
+done []
+finding siblings...
+sibling C_BaseCombatWeapon (const C_BaseCombatWeapon::`vftable')
+sibling IClientNetworkable (const C_BaseCombatWeapon::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_BaseCombatWeapon::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_BaseCombatWeapon::`vftable'{for `IClientThinkable'})
+sibling IHasAttributes (const C_BaseCombatWeapon::`vftable'{for `IHasAttributes'})
+sibling IModelLoadCallback (const C_BaseCombatWeapon::`vftable'{for `IModelLoadCallback'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
+match C_BaseCombatWeapon => C_BaseCombatWeapon (__ZTV18C_BaseCombatWeapon.txt)
+match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV18C_BaseCombatWeapon.txt', 'C_BaseCombatWeapon', []]
+found 4 classes: ['C_BaseCombatWeapon', 'C_BaseEntity', 'C_EconEntity', 'C_BaseAnimating']
+finding child vtables...
+using enumerated values for vtable C_BaseEntity...
+using enumerated values for vtable C_EconEntity...
+using enumerated values for vtable C_BaseAnimating...
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+found 4 classes: ['C_BaseCombatWeapon', 'IClientNetworkable', 'IClientRenderable', 'IClientThinkable']
+finding child vtables...
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+done.
+done.
+finished constructing vtable C_BaseCombatWeapon
 
 
 constructing vtable for C_TFWeaponBase
 enumerating merge subs...
-done [['replace', 'IClientRenderable', 'CDefaultClientRenderable']]
+done []
 finding siblings...
-C_TFWeaponBase (const C_TFWeaponBase::`vftable')
-CGameEventListener (const C_TFWeaponBase::`vftable'{for `CGameEventListener'})
-IClientNetworkable (const C_TFWeaponBase::`vftable'{for `IClientNetworkable'})
-IClientRenderable (const C_TFWeaponBase::`vftable'{for `IClientRenderable'})
-IClientThinkable (const C_TFWeaponBase::`vftable'{for `IClientThinkable'})
-IHasAttributes (const C_TFWeaponBase::`vftable'{for `IHasAttributes'})
-IHasOwner (const C_TFWeaponBase::`vftable'{for `IHasOwner'})
-IModelLoadCallback (const C_TFWeaponBase::`vftable'{for `IModelLoadCallback'})
+sibling C_TFWeaponBase (const C_TFWeaponBase::`vftable')
+sibling CGameEventListener (const C_TFWeaponBase::`vftable'{for `CGameEventListener'})
+sibling IClientNetworkable (const C_TFWeaponBase::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_TFWeaponBase::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_TFWeaponBase::`vftable'{for `IClientThinkable'})
+sibling IHasAttributes (const C_TFWeaponBase::`vftable'{for `IHasAttributes'})
+sibling IHasOwner (const C_TFWeaponBase::`vftable'{for `IHasOwner'})
+sibling IModelLoadCallback (const C_TFWeaponBase::`vftable'{for `IModelLoadCallback'})
 done.
 performing osx demangling
 done - loaded from file
@@ -158,25 +363,11 @@ match C_TFWeaponBase => C_TFWeaponBase (__ZTV14C_TFWeaponBase.txt)
 match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
 match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt) MI
 match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
+match IHasOwner => IHasOwner (__ZTV3IHasOwner.txt) MI
 unable to match: 
-	IClientNetworkable
-	IClientRenderable
-	IClientThinkable
-	IHasOwner
-done.
-processing osx table for mi...
-processing...
-['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
-['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
-['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
-['', 'IClientNetworkable', []]
-['', 'IClientRenderable', []]
-['', 'IClientThinkable', []]
-['', 'IHasOwner', []]
-found 2 classes: ['C_TFWeaponBase', 'CGameEventListener']
-finding child vtables...
-using enumerated values for vtable CGameEventListener...
-done.
 done.
 processing osx table...
 processing...
@@ -184,22 +375,847 @@ processing...
 found 5 classes: ['C_TFWeaponBase', 'C_BaseEntity', 'C_EconEntity', 'C_BaseAnimating', 'C_BaseCombatWeapon']
 finding child vtables...
 using enumerated values for vtable C_BaseEntity...
+using enumerated values for vtable C_EconEntity...
 using enumerated values for vtable C_BaseAnimating...
+using enumerated values for vtable C_BaseCombatWeapon...
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+['client_osx/__ZTV3IHasOwner.txt', 'IHasOwner', []]
+found 6 classes: ['C_TFWeaponBase', 'CGameEventListener', 'IClientNetworkable', 'IClientRenderable', 'IClientThinkable', 'IHasOwner']
+finding child vtables...
+constructing vtable for CGameEventListener
+enumerating merge subs...
+done []
+finding siblings...
+sibling CGameEventListener (const CGameEventListener::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt)
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+no children
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+finished constructing vtable CGameEventListener
+
+
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+constructing vtable for IHasOwner
+enumerating merge subs...
+done []
+finding siblings...
+sibling IHasOwner (const IHasOwner::`vftable')
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IHasOwner => IHasOwner (__ZTV3IHasOwner.txt)
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV3IHasOwner.txt', 'IHasOwner', []]
+no children
+done.
+processing osx table for mi...
+processing...
+no children
+done.
+finished constructing vtable IHasOwner
+
+
 done.
 done.
 finished constructing vtable C_TFWeaponBase
 
 
+constructing vtable for C_TFWeaponBaseMelee
+enumerating merge subs...
+done []
+finding siblings...
+sibling C_TFWeaponBaseMelee (const C_TFWeaponBaseMelee::`vftable')
+sibling CGameEventListener (const C_TFWeaponBaseMelee::`vftable'{for `CGameEventListener'})
+sibling IClientNetworkable (const C_TFWeaponBaseMelee::`vftable'{for `IClientNetworkable'})
+sibling IClientRenderable (const C_TFWeaponBaseMelee::`vftable'{for `IClientRenderable'})
+sibling IClientThinkable (const C_TFWeaponBaseMelee::`vftable'{for `IClientThinkable'})
+sibling IHasAttributes (const C_TFWeaponBaseMelee::`vftable'{for `IHasAttributes'})
+sibling IHasOwner (const C_TFWeaponBaseMelee::`vftable'{for `IHasOwner'})
+sibling IModelLoadCallback (const C_TFWeaponBaseMelee::`vftable'{for `IModelLoadCallback'})
+done.
+performing osx demangling
+done - loaded from file
+finding osx tables...
+match IHasAttributes => IHasAttributes (__ZTV14IHasAttributes.txt) MI
+match CGameEventListener => CGameEventListener (__ZTV18CGameEventListener.txt) MI
+match IModelLoadCallback => IModelLoadCallback (__ZTV18IModelLoadCallback.txt) MI
+match C_TFWeaponBaseMelee => C_TFWeaponBaseMelee (__ZTV19C_TFWeaponBaseMelee.txt)
+match IClientNetworkable => IClientNetworkable (__ZTV3IClientNetworkable.txt) MI
+match IClientRenderable => IClientRenderable (__ZTV3IClientRenderable.txt) MI
+match IClientThinkable => IClientThinkable (__ZTV3IClientThinkable.txt) MI
+match IHasOwner => IHasOwner (__ZTV3IHasOwner.txt) MI
+unable to match: 
+done.
+processing osx table...
+processing...
+['client_osx/__ZTV19C_TFWeaponBaseMelee.txt', 'C_TFWeaponBaseMelee', []]
+found 6 classes: ['C_TFWeaponBaseMelee', 'C_BaseEntity', 'C_EconEntity', 'C_BaseAnimating', 'C_BaseCombatWeapon', 'C_TFWeaponBase']
+finding child vtables...
+using enumerated values for vtable C_BaseEntity...
+using enumerated values for vtable C_EconEntity...
+using enumerated values for vtable C_BaseAnimating...
+using enumerated values for vtable C_BaseCombatWeapon...
+using enumerated values for vtable C_TFWeaponBase...
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+['client_osx/__ZTV3IHasOwner.txt', 'IHasOwner', []]
+found 6 classes: ['C_TFWeaponBaseMelee', 'CGameEventListener', 'IClientNetworkable', 'IClientRenderable', 'IClientThinkable', 'IHasOwner']
+finding child vtables...
+using enumerated values for vtable CGameEventListener MI...
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+using enumerated values for vtable IHasOwner MI...
+done.
+done.
+finished constructing vtable C_TFWeaponBaseMelee
+
+
+done.
+done.
+processing osx table for mi...
+processing...
+['client_osx/__ZTV14IHasAttributes.txt', 'IHasAttributes', []]
+['client_osx/__ZTV18CGameEventListener.txt', 'CGameEventListener', []]
+['client_osx/__ZTV18IModelLoadCallback.txt', 'IModelLoadCallback', []]
+['client_osx/__ZTV3IClientNetworkable.txt', 'IClientNetworkable', []]
+['client_osx/__ZTV3IClientRenderable.txt', 'IClientRenderable', []]
+['client_osx/__ZTV3IClientThinkable.txt', 'IClientThinkable', []]
+['client_osx/__ZTV3IHasOwner.txt', 'IHasOwner', []]
+found 6 classes: ['C_TFKnife', 'CGameEventListener', 'IClientNetworkable', 'IClientRenderable', 'IClientThinkable', 'IHasOwner']
+finding child vtables...
+using enumerated values for vtable CGameEventListener MI...
+using enumerated values for vtable IClientNetworkable MI...
+using enumerated values for vtable IClientRenderable MI...
+using enumerated values for vtable IClientThinkable MI...
+using enumerated values for vtable IHasOwner MI...
 done.
 done.
 finished constructing vtable C_TFKnife
 
 
-CGameEventListener
-C_BaseEntity
-C_BaseAnimating
-	C_BaseEntity
-C_TFWeaponBase
-	CGameEventListener
-	C_BaseEntity
-	C_BaseAnimating
+
+class IClientUnknown { // Not MI
+} // IClientUnknown
+
+
+
+class IClientNetworkable { // MI
+	/*0*/ virtual DWORD GetIClientUnknown() = 0;
+	/*1*/ virtual DWORD Release() = 0;
+	/*2*/ virtual DWORD GetClientClass() = 0;
+	/*3*/ virtual DWORD NotifyShouldTransmit(ShouldTransmitState_t) = 0;
+	/*4*/ virtual DWORD OnPreDataChanged(DataUpdateType_t) = 0;
+	/*5*/ virtual DWORD OnDataChanged(DataUpdateType_t) = 0;
+	/*6*/ virtual DWORD PreDataUpdate(DataUpdateType_t) = 0;
+	/*7*/ virtual DWORD PostDataUpdate(DataUpdateType_t) = 0;
+	/*8*/ virtual DWORD IsDormant(void) = 0;
+	/*9*/ virtual DWORD entindex(void) const = 0;
+	/*10*/ virtual DWORD ReceiveMessage(int, bf_read &) = 0;
+	/*11*/ virtual DWORD GetDataTableBasePtr() = 0;
+	/*12*/ virtual DWORD SetDestroyedOnRecreateEntities(void) = 0;
+	/*13*/ virtual DWORD OnDataUnchangedInPVS() = 0;
+} // IClientNetworkable
+
+
+
+class IClientRenderable { // MI
+	/*0*/ virtual DWORD GetRenderOrigin( void ) = 0;
+	/*1*/ virtual DWORD GetRenderAngles( void ) = 0;
+	/*2*/ virtual DWORD ShouldDraw( void ) = 0;
+	/*3*/ virtual DWORD IsTransparent( void ) = 0;
+	/*4*/ virtual DWORD UsesPowerOfTwoFrameBufferTexture() = 0;
+	/*5*/ virtual DWORD UsesFullFrameBufferTexture() = 0;
+	/*6*/ virtual DWORD GetShadowHandle() const = 0;
+	/*7*/ virtual DWORD RenderHandle() = 0;
+	/*8*/ virtual DWORD GetModel( ) const = 0;
+	/*9*/ virtual DWORD DrawModel( int flags ) = 0;
+	/*10*/ virtual DWORD GetBody() = 0;
+	/*11*/ virtual DWORD ComputeFxBlend( ) = 0;
+	/*12*/ virtual DWORD GetFxBlend( void ) = 0;
+	/*13*/ virtual DWORD GetColorModulation( float* color ) = 0;
+	/*14*/ virtual DWORD LODTest() = 0;
+	/*15*/ virtual DWORD SetupBones( matrix3x4_t *pBoneToWorldOut, int nMaxBones, int boneMask, float currentTime ) = 0;
+	/*16*/ virtual DWORD SetupWeights( const matrix3x4_t *pBoneToWorld, int nFlexWeightCount, float *pFlexWeights, float *pFlexDelayedWeights ) = 0;
+	/*17*/ virtual DWORD DoAnimationEvents( void ) = 0;
+	/*18*/ virtual DWORD GetPVSNotifyInterface() = 0;
+	/*19*/ virtual DWORD GetRenderBounds( Vector& mins, Vector& maxs ) = 0;
+	/*20*/ virtual DWORD GetRenderBoundsWorldspace( Vector& mins, Vector& maxs ) = 0;
+	/*21*/ virtual DWORD GetShadowRenderBounds( Vector &mins, Vector &maxs, ShadowType_t shadowType ) = 0;
+	/*22*/ virtual DWORD ShouldReceiveProjectedTextures( int flags ) = 0;
+	/*23*/ virtual DWORD GetShadowCastDistance( float *pDist, ShadowType_t shadowType ) const = 0;
+	/*24*/ virtual DWORD GetShadowCastDirection( Vector *pDirection, ShadowType_t shadowType ) const = 0;
+	/*25*/ virtual DWORD IsShadowDirty( ) = 0;
+	/*26*/ virtual DWORD MarkShadowDirty( bool bDirty ) = 0;
+	/*27*/ virtual DWORD GetShadowParent() = 0;
+	/*28*/ virtual DWORD FirstShadowChild() = 0;
+	/*29*/ virtual DWORD NextShadowPeer() = 0;
+	/*30*/ virtual DWORD ShadowCastType() = 0;
+	/*31*/ virtual DWORD CreateModelInstance() = 0;
+	/*32*/ virtual DWORD GetModelInstance() = 0;
+	/*33*/ virtual DWORD &RenderableToWorldTransform() = 0;
+	/*34*/ virtual DWORD LookupAttachment( const char *pAttachmentName ) = 0;
+	/*35*/ virtual DWORD GetAttachment( int number, Vector &origin, QAngle &angles ) = 0;
+	/*36*/ virtual DWORD GetAttachment( int number, matrix3x4_t &matrix ) = 0;
+	/*37*/ virtual DWORD GetRenderClipPlane( void ) = 0;
+	/*38*/ virtual DWORD GetSkin() = 0;
+	/*39*/ virtual DWORD IsTwoPass( void ) = 0;
+	/*40*/ virtual DWORD OnThreadedDrawSetup() = 0;
+	/*41*/ virtual DWORD UsesFlexDelayedWeights() = 0;
+	/*42*/ virtual DWORD RecordToolMessage() = 0;
+	/*43*/ virtual DWORD IgnoresZBuffer( void ) const = 0;
+} // IClientRenderable
+
+
+
+class IClientThinkable { // MI
+	/*0*/ virtual DWORD ClientThink() = 0;
+	/*1*/ virtual DWORD GetThinkHandle() = 0;
+	/*2*/ virtual DWORD SetThinkHandle(ClientThinkHandle_t) = 0;
+} // IClientThinkable
+
+
+
+class IClientEntity : IClientUnknown, IClientNetworkable, IClientRenderable, IClientThinkable { // Not MI
+	/*0*/ virtual DWORD Release( void ) = 0;
+	/*1*/ virtual DWORD GetAbsOrigin( void ) const = 0;
+	/*2*/ virtual DWORD GetAbsAngles( void ) const = 0;
+	/*3*/ virtual DWORD GetMouth( void ) = 0;
+	/*4*/ virtual DWORD GetSoundSpatialization( SpatializationInfo_t& info ) = 0;
+	/*5*/ virtual DWORD IClientUnknown_DUMMY_INCLUDE_ME_1 = 0;
+} // IClientEntity
+
+
+
+class C_BaseEntity : IClientEntity { // Not MI
+	/*0*/ virtual DWORD SetRefEHandle(CBaseHandle const&) = 0;
+	/*1*/ virtual DWORD GetRefEHandle(void)const = 0;
+	/*2*/ virtual DWORD GetCollideable(void) = 0;
+	/*3*/ virtual DWORD GetClientNetworkable(void) = 0;
+	/*4*/ virtual DWORD GetClientRenderable(void) = 0;
+	/*5*/ virtual DWORD GetIClientEntity(void) = 0;
+	/*6*/ virtual DWORD GetBaseEntity(void) = 0;
+	/*7*/ virtual DWORD GetClientThinkable(void) = 0;
+	/*8*/ virtual DWORD Release(void) = 0;
+	/*9*/ virtual DWORD GetAbsOrigin(void)const = 0;
+	/*10*/ virtual DWORD GetAbsAngles(void)const = 0;
+	/*11*/ virtual DWORD GetMouth(void) = 0;
+	/*12*/ virtual DWORD GetSoundSpatialization(SpatializationInfo_t &) = 0;
+	/*13*/ virtual DWORD GetDataDescMap(void) = 0;
+	/*14*/ virtual DWORD YouForgotToImplementOrDeclareClientClass(void) = 0;
+	/*15*/ virtual DWORD GetClientClass(void) = 0;
+	/*16*/ virtual DWORD GetPredDescMap(void) = 0;
+	/*17*/ virtual DWORD FireBullets(FireBulletsInfo_t const&) = 0;
+	/*18*/ virtual DWORD ModifyFireBulletsDamage(CTakeDamageInfo *) = 0;
+	/*19*/ virtual DWORD ShouldDrawUnderwaterBulletBubbles(void) = 0;
+	/*20*/ virtual DWORD ShouldDrawWaterImpacts(void) = 0;
+	/*21*/ virtual DWORD HandleShotImpactingWater(FireBulletsInfo_t const&,Vector const&,ITraceFilter *,Vector*) = 0;
+	/*22*/ virtual DWORD GetBeamTraceFilter(void) = 0;
+	/*23*/ virtual DWORD DispatchTraceAttack(CTakeDamageInfo const&,Vector const&,CGameTrace *,CDmgAccumulator *) = 0;
+	/*24*/ virtual DWORD TraceAttack(CTakeDamageInfo const&,Vector const&,CGameTrace *,CDmgAccumulator *) = 0;
+	/*25*/ virtual DWORD DoImpactEffect(CGameTrace &,int) = 0;
+	/*26*/ virtual DWORD MakeTracer(Vector const&,CGameTrace const&,int) = 0;
+	/*27*/ virtual DWORD GetTracerAttachment(void) = 0;
+	/*28*/ virtual DWORD BloodColor(void) = 0;
+	/*29*/ virtual DWORD GetTracerType(void) = 0;
+	/*30*/ virtual DWORD Spawn(void) = 0;
+	/*31*/ virtual DWORD SpawnClientEntity(void) = 0;
+	/*32*/ virtual DWORD Precache(void) = 0;
+	/*33*/ virtual DWORD Activate(void) = 0;
+	/*34*/ virtual DWORD ParseMapData(CEntityMapData *) = 0;
+	/*35*/ virtual DWORD KeyValue(char const*,char const*) = 0;
+	/*36*/ virtual DWORD KeyValue(char const*,float) = 0;
+	/*37*/ virtual DWORD KeyValue(char const*,Vector const&) = 0;
+	/*38*/ virtual DWORD GetKeyValue(char const*,char *,int) = 0;
+	/*39*/ virtual DWORD Init(int,int) = 0;
+	/*40*/ virtual DWORD GetIClientUnknown(void) = 0;
+	/*41*/ virtual DWORD GetBaseAnimating(void) = 0;
+	/*42*/ virtual DWORD SetClassname(char const*) = 0;
+	/*43*/ virtual DWORD RecordToolMessage(void) = 0;
+	/*44*/ virtual DWORD GetRenderOrigin(void) = 0;
+	/*45*/ virtual DWORD GetRenderAngles(void) = 0;
+	/*46*/ virtual DWORD GetObserverCamOrigin(void) = 0;
+	/*47*/ virtual DWORD RenderableToWorldTransform(void) = 0;
+	/*48*/ virtual DWORD IsTransparent(void) = 0;
+	/*49*/ virtual DWORD IsTwoPass(void) = 0;
+	/*50*/ virtual DWORD UsesPowerOfTwoFrameBufferTexture(void) = 0;
+	/*51*/ virtual DWORD UsesFullFrameBufferTexture(void) = 0;
+	/*52*/ virtual DWORD IgnoresZBuffer(void)const = 0;
+	/*53*/ virtual DWORD GetModel(void)const = 0;
+	/*54*/ virtual DWORD DrawModel(int) = 0;
+	/*55*/ virtual DWORD ComputeFxBlend(void) = 0;
+	/*56*/ virtual DWORD GetFxBlend(void) = 0;
+	/*57*/ virtual DWORD LODTest(void) = 0;
+	/*58*/ virtual DWORD GetRenderBounds(Vector &,Vector &) = 0;
+	/*59*/ virtual DWORD GetPVSNotifyInterface(void) = 0;
+	/*60*/ virtual DWORD GetRenderBoundsWorldspace(Vector &,Vector &) = 0;
+	/*61*/ virtual DWORD GetShadowRenderBounds(Vector &,Vector &,ShadowType_t) = 0;
+	/*62*/ virtual DWORD GetColorModulation(float *) = 0;
+	/*63*/ virtual DWORD OnThreadedDrawSetup(void) = 0;
+	/*64*/ virtual DWORD TestCollision(Ray_t const&,unsigned int,CGameTrace &) = 0;
+	/*65*/ virtual DWORD TestHitboxes(Ray_t const&,unsigned int,CGameTrace &) = 0;
+	/*66*/ virtual DWORD GetAttackDamageScale(void) = 0;
+	/*67*/ virtual DWORD OnDataUnchangedInPVS(void) = 0;
+	/*68*/ virtual DWORD ValidateModelIndex(void) = 0;
+	/*69*/ virtual DWORD SetDormant(bool) = 0;
+	/*70*/ virtual DWORD GetEFlags(void)const = 0;
+	/*71*/ virtual DWORD SetEFlags(int) = 0;
+	/*72*/ virtual DWORD entindex(void)const = 0;
+	/*73*/ virtual DWORD ReceiveMessage(int,bf_read &) = 0;
+	/*74*/ virtual DWORD GetDataTableBasePtr(void) = 0;
+	/*75*/ virtual DWORD ClientThink(void) = 0;
+	/*76*/ virtual DWORD GetThinkHandle(void) = 0;
+	/*77*/ virtual DWORD SetThinkHandle(CClientThinkHandlePtr *) = 0;
+	/*78*/ virtual DWORD ShouldSavePhysics(void) = 0;
+	/*79*/ virtual DWORD OnSave(void) = 0;
+	/*80*/ virtual DWORD OnRestore(void) = 0;
+	/*81*/ virtual DWORD ObjectCaps(void) = 0;
+	/*82*/ virtual DWORD Save(ISave &) = 0;
+	/*83*/ virtual DWORD Restore(IRestore &) = 0;
+	/*84*/ virtual DWORD CreateVPhysics(void) = 0;
+	/*85*/ virtual DWORD VPhysicsDestroyObject(void) = 0;
+	/*86*/ virtual DWORD VPhysicsUpdate(IPhysicsObject *) = 0;
+	/*87*/ virtual DWORD VPhysicsGetObjectList(IPhysicsObject **,int) = 0;
+	/*88*/ virtual DWORD VPhysicsIsFlesh(void) = 0;
+	/*89*/ virtual DWORD SetupBones(matrix3x4_t *,int,int,float) = 0;
+	/*90*/ virtual DWORD SetupWeights(matrix3x4_t const*,int,float *,float *) = 0;
+	/*91*/ virtual DWORD UsesFlexDelayedWeights(void) = 0;
+	/*92*/ virtual DWORD DoAnimationEvents(void) = 0;
+	/*93*/ virtual DWORD AddEntity(void) = 0;
+	/*94*/ virtual DWORD GetPrevLocalOrigin(void)const = 0;
+	/*95*/ virtual DWORD GetPrevLocalAngles(void)const = 0;
+	/*96*/ virtual DWORD CalcOverrideModelIndex(void) = 0;
+	/*97*/ virtual DWORD WorldAlignMins(void)const = 0;
+	/*98*/ virtual DWORD WorldAlignMaxs(void)const = 0;
+	/*99*/ virtual DWORD WorldSpaceCenter(void)const = 0;
+	/*100*/ virtual DWORD ComputeWorldSpaceSurroundingBox(Vector *,Vector *) = 0;
+	/*101*/ virtual DWORD GetHealthBarHeightOffset(void)const = 0;
+	/*102*/ virtual DWORD GetSolid(void)const = 0;
+	/*103*/ virtual DWORD GetSolidFlags(void)const = 0;
+	/*104*/ virtual DWORD LookupAttachment(char const*) = 0;
+	/*105*/ virtual DWORD GetAttachment(int,matrix3x4_t &) = 0;
+	/*106*/ virtual DWORD GetAttachment(int,Vector &) = 0;
+	/*107*/ virtual DWORD GetAttachment(int,Vector &,QAngle &) = 0;
+	/*108*/ virtual DWORD GetAttachmentVelocity(int,Vector &,Quaternion &) = 0;
+	/*109*/ virtual DWORD GetTeam(void) = 0;
+	/*110*/ virtual DWORD GetTeamNumber(void)const = 0;
+	/*111*/ virtual DWORD ChangeTeam(int) = 0;
+	/*112*/ virtual DWORD GetRenderTeamNumber(void) = 0;
+	/*113*/ virtual DWORD InSameTeam(C_BaseEntity*) = 0;
+	/*114*/ virtual DWORD InLocalTeam(void) = 0;
+	/*115*/ virtual DWORD IsValidIDTarget(void) = 0;
+	/*116*/ virtual DWORD GetIDString(void) = 0;
+	/*117*/ virtual DWORD ModifyEmitSoundParams(EmitSound_t &) = 0;
+	/*118*/ virtual DWORD InitializeAsClientEntity(char const*,RenderGroup_t) = 0;
+	/*119*/ virtual DWORD Simulate(void) = 0;
+	/*120*/ virtual DWORD GetClientVehicle(void) = 0;
+	/*121*/ virtual DWORD GetAimEntOrigin(IClientEntity *,Vector *,QAngle *) = 0;
+	/*122*/ virtual DWORD GetOldOrigin(void) = 0;
+	/*123*/ virtual DWORD GetRenderGroup(void) = 0;
+	/*124*/ virtual DWORD GetToolRecordingState(KeyValues *) = 0;
+	/*125*/ virtual DWORD CleanupToolRecordingState(KeyValues *) = 0;
+	/*126*/ virtual DWORD GetCollideType(void) = 0;
+	/*127*/ virtual DWORD ShouldDraw(void) = 0;
+	/*128*/ virtual DWORD UpdateVisibility(void) = 0;
+	/*129*/ virtual DWORD IsSelfAnimating(void) = 0;
+	/*130*/ virtual DWORD OnLatchInterpolatedVariables(int) = 0;
+	/*131*/ virtual DWORD OnNewModel(void) = 0;
+	/*132*/ virtual DWORD OnNewParticleEffect(char const*,CNewParticleEffect *) = 0;
+	/*133*/ virtual DWORD ResetLatched(void) = 0;
+	/*134*/ virtual DWORD Interpolate(float) = 0;
+	/*135*/ virtual DWORD IsSubModel(void) = 0;
+	/*136*/ virtual DWORD CreateLightEffects(void) = 0;
+	/*137*/ virtual DWORD Clear(void) = 0;
+	/*138*/ virtual DWORD DrawBrushModel(bool,int,bool) = 0;
+	/*139*/ virtual DWORD GetTextureAnimationStartTime(void) = 0;
+	/*140*/ virtual DWORD TextureAnimationWrapped(void) = 0;
+	/*141*/ virtual DWORD SetNextClientThink(float) = 0;
+	/*142*/ virtual DWORD SetHealth(int) = 0;
+	/*143*/ virtual DWORD GetHealth(void)const = 0;
+	/*144*/ virtual DWORD GetMaxHealth(void)const = 0;
+	/*145*/ virtual DWORD IsVisibleToTargetID(void)const = 0;
+	/*146*/ virtual DWORD IsHealthBarVisible(void)const = 0;
+	/*147*/ virtual DWORD ShadowCastType(void) = 0;
+	/*148*/ virtual DWORD ShouldReceiveProjectedTextures(int) = 0;
+	/*149*/ virtual DWORD IsShadowDirty(void) = 0;
+	/*150*/ virtual DWORD MarkShadowDirty(bool) = 0;
+	/*151*/ virtual DWORD GetShadowParent(void) = 0;
+	/*152*/ virtual DWORD FirstShadowChild(void) = 0;
+	/*153*/ virtual DWORD NextShadowPeer(void) = 0;
+	/*154*/ virtual DWORD AddDecal(Vector const&,Vector const&,Vector const&,int,int,bool,CGameTrace &,int) = 0;
+	/*155*/ virtual DWORD AddColoredDecal(Vector const&,Vector const&,Vector const&,int,int,bool,CGameTrace &,Color,int) = 0;
+	/*156*/ virtual DWORD IsClientCreated(void)const = 0;
+	/*157*/ virtual DWORD UpdateOnRemove(void) = 0;
+	/*158*/ virtual DWORD SUB_Remove(void) = 0;
+	/*159*/ virtual DWORD SetPredictable(bool) = 0;
+	/*160*/ virtual DWORD RestoreData(char const*,int,int) = 0;
+	/*161*/ virtual DWORD DamageDecal(int,int) = 0;
+	/*162*/ virtual DWORD DecalTrace(CGameTrace *,char const*) = 0;
+	/*163*/ virtual DWORD ImpactTrace(CGameTrace *,int,char const*) = 0;
+	/*164*/ virtual DWORD ShouldPredict(void) = 0;
+	/*165*/ virtual DWORD Think(void) = 0;
+	/*166*/ virtual DWORD CanBePoweredUp(void) = 0;
+	/*167*/ virtual DWORD AttemptToPowerup(int,float,float,C_BaseEntity*,CDamageModifier *) = 0;
+	/*168*/ virtual DWORD IsCurrentlyTouching(void)const = 0;
+	/*169*/ virtual DWORD StartTouch(C_BaseEntity*) = 0;
+	/*170*/ virtual DWORD Touch(C_BaseEntity*) = 0;
+	/*171*/ virtual DWORD EndTouch(C_BaseEntity*) = 0;
+	/*172*/ virtual DWORD PhysicsSolidMaskForEntity(void)const = 0;
+	/*173*/ virtual DWORD PhysicsSimulate(void) = 0;
+	/*174*/ virtual DWORD IsAlive(void) = 0;
+	/*175*/ virtual DWORD IsPlayer(void)const = 0;
+	/*176*/ virtual DWORD IsBaseCombatCharacter(void) = 0;
+	/*177*/ virtual DWORD MyCombatCharacterPointer(void) = 0;
+	/*178*/ virtual DWORD IsNPC(void) = 0;
+	/*179*/ virtual DWORD IsNextBot(void) = 0;
+	/*180*/ virtual DWORD IsBaseObject(void)const = 0;
+	/*181*/ virtual DWORD IsBaseCombatWeapon(void)const = 0;
+	/*182*/ virtual DWORD MyCombatWeaponPointer(void) = 0;
+	/*183*/ virtual DWORD IsCombatItem(void)const = 0;
+	/*184*/ virtual DWORD IsBaseTrain(void)const = 0;
+	/*185*/ virtual DWORD EyePosition(void) = 0;
+	/*186*/ virtual DWORD EyeAngles(void) = 0;
+	/*187*/ virtual DWORD LocalEyeAngles(void) = 0;
+	/*188*/ virtual DWORD EarPosition(void) = 0;
+	/*189*/ virtual DWORD ShouldCollide(int,int)const = 0;
+	/*190*/ virtual DWORD GetViewOffset(void)const = 0;
+	/*191*/ virtual DWORD SetViewOffset(Vector const&) = 0;
+	/*192*/ virtual DWORD GetBody(void) = 0;
+	/*193*/ virtual DWORD GetSkin(void) = 0;
+	/*194*/ virtual DWORD GetModelInstance(void) = 0;
+	/*195*/ virtual DWORD GetShadowHandle(void)const = 0;
+	/*196*/ virtual DWORD RenderHandle(void) = 0;
+	/*197*/ virtual DWORD CreateModelInstance(void) = 0;
+	/*198*/ virtual DWORD ShouldInterpolate(void) = 0;
+	/*199*/ virtual DWORD GetClientSideFade(void) = 0;
+	/*200*/ virtual DWORD BoneMergeFastCullBloat(Vector &,Vector &,Vector const&,Vector const&)const = 0;
+	/*201*/ virtual DWORD OnPredictedEntityRemove(bool,C_BaseEntity*) = 0;
+	/*202*/ virtual DWORD GetShadowCastDistance(float *,ShadowType_t)const = 0;
+	/*203*/ virtual DWORD GetShadowCastDirection(Vector *,ShadowType_t)const = 0;
+	/*204*/ virtual DWORD GetShadowUseOtherEntity(void)const = 0;
+	/*205*/ virtual DWORD SetShadowUseOtherEntity(C_BaseEntity*) = 0;
+	/*206*/ virtual DWORD AddRagdollToFadeQueue(void) = 0;
+	/*207*/ virtual DWORD IsDeflectable(void) = 0;
+	/*208*/ virtual DWORD GetStudioBody(void) = 0;
+	/*209*/ virtual DWORD PerformCustomPhysics(Vector *,Vector *,QAngle *,QAngle *) = 0;
+	/*210*/ virtual DWORD GetRenderClipPlane(void) = 0;
+	/*211*/ virtual DWORD ValidateEntityAttachedToPlayer(bool &) = 0;
+	/*212*/ virtual DWORD IClientEntity_DUMMY_INCLUDE_ME_1() = 0;
+} // C_BaseEntity
+
+
+
+class C_BaseAnimating : C_BaseEntity { // Not MI
+	/*0*/ virtual DWORD ~C_BaseAnimating() = 0;
+	/*1*/ virtual DWORD GetBoneControllers(float *) = 0;
+	/*2*/ virtual DWORD SetBoneController(int,float) = 0;
+	/*3*/ virtual DWORD GetPoseParameters(CStudioHdr *,float *) = 0;
+	/*4*/ virtual DWORD BuildTransformations(CStudioHdr *,Vector *,Quaternion *,matrix3x4_t const&,int,CBoneBitList &) = 0;
+	/*5*/ virtual DWORD ApplyBoneMatrixTransform(matrix3x4_t &) = 0;
+	/*6*/ virtual DWORD UpdateIKLocks(float) = 0;
+	/*7*/ virtual DWORD CalculateIKLocks(float) = 0;
+	/*8*/ virtual DWORD InternalDrawModel(int) = 0;
+	/*9*/ virtual DWORD OnInternalDrawModel(ClientModelRenderInfo_t *) = 0;
+	/*10*/ virtual DWORD OnPostInternalDrawModel(ClientModelRenderInfo_t *) = 0;
+	/*11*/ virtual DWORD GetEconWeaponMaterialOverride(int) = 0;
+	/*12*/ virtual DWORD ControlMouth(CStudioHdr *) = 0;
+	/*13*/ virtual DWORD DoAnimationEvents(CStudioHdr *) = 0;
+	/*14*/ virtual DWORD FireEvent(Vector const&,QAngle const&,int,char const*) = 0;
+	/*15*/ virtual DWORD FireObsoleteEvent(Vector const&,QAngle const&,int,char const*) = 0;
+	/*16*/ virtual DWORD ModifyEventParticles(char const*) = 0;
+	/*17*/ virtual DWORD DispatchMuzzleEffect(char const*,bool) = 0;
+	/*18*/ virtual DWORD StandardBlendingRules(CStudioHdr *,Vector *,Quaternion *,float,int) = 0;
+	/*19*/ virtual DWORD AccumulateLayers(IBoneSetup &,Vector *,Quaternion *,float) = 0;
+	/*20*/ virtual DWORD ChildLayerBlend(Vector *,Quaternion *,float,int) = 0;
+	/*21*/ virtual DWORD AttachEntityToBone(C_BaseAnimating*,int,Vector,QAngle) = 0;
+	/*22*/ virtual DWORD NotifyBoneAttached(C_BaseAnimating*) = 0;
+	/*23*/ virtual DWORD UpdateBoneAttachments(void) = 0;
+	/*24*/ virtual DWORD BecomeRagdollOnClient(void) = 0;
+	/*25*/ virtual DWORD SaveRagdollInfo(int,matrix3x4_t const&,CBoneAccessor &) = 0;
+	/*26*/ virtual DWORD RetrieveRagdollInfo(Vector *,Quaternion *) = 0;
+	/*27*/ virtual DWORD GetRagdollInitBoneArrays(matrix3x4_t *,matrix3x4_t *,matrix3x4_t *,float) = 0;
+	/*28*/ virtual DWORD RefreshCollisionBounds(void) = 0;
+	/*29*/ virtual DWORD SetSequence(int) = 0;
+	/*30*/ virtual DWORD StudioFrameAdvance(void) = 0;
+	/*31*/ virtual DWORD FrameAdvance(float) = 0;
+	/*32*/ virtual DWORD GetSequenceCycleRate(CStudioHdr *,int) = 0;
+	/*33*/ virtual DWORD UpdateClientSideAnimation(void) = 0;
+	/*34*/ virtual DWORD ComputeClientSideAnimationFlags(void) = 0;
+	/*35*/ virtual DWORD ResetClientsideFrame(void) = 0;
+	/*36*/ virtual DWORD IsActivityFinished(void) = 0;
+	/*37*/ virtual DWORD UncorrectViewModelAttachment(Vector &) = 0;
+	/*38*/ virtual DWORD DoMuzzleFlash(void) = 0;
+	/*39*/ virtual DWORD ProcessMuzzleFlashEvent(void) = 0;
+	/*40*/ virtual DWORD SetServerIntendedCycle(float) = 0;
+	/*41*/ virtual DWORD GetServerIntendedCycle(void) = 0;
+	/*42*/ virtual DWORD ShouldResetSequenceOnNewModel(void) = 0;
+	/*43*/ virtual DWORD IsViewModel(void)const = 0;
+	/*44*/ virtual DWORD FormatViewModelAttachment(int,matrix3x4_t &) = 0;
+	/*45*/ virtual DWORD IsMenuModel(void)const = 0;
+	/*46*/ virtual DWORD CalcAttachments(void) = 0;
+	/*47*/ virtual DWORD LastBoneChangedTime(void) = 0;
+	/*48*/ virtual DWORD OnModelLoadComplete(model_t const*) = 0;
+	/*49*/ virtual DWORD __cxa_pure_virtual_C_BaseAnimating_0 = 0;
+} // C_BaseAnimating
+
+
+
+class C_EconEntity : C_BaseAnimating { // Not MI
+	/*0*/ virtual DWORD ~C_EconEntity() = 0;
+	/*1*/ virtual DWORD ShouldShowToolTip(void) = 0;
+	/*2*/ virtual DWORD OnFireEvent(C_BaseViewModel *,Vector const&,QAngle const&,int,char const*) = 0;
+	/*3*/ virtual DWORD ShouldDrawParticleSystems(void) = 0;
+	/*4*/ virtual DWORD UpdateAttachmentModels(void) = 0;
+	/*5*/ virtual DWORD AttachmentModelsShouldBeVisible(void) = 0;
+	/*6*/ virtual DWORD ViewModel_IsTransparent(void) = 0;
+	/*7*/ virtual DWORD ViewModel_IsUsingFBTexture(void) = 0;
+	/*8*/ virtual DWORD IsOverridingViewmodel(void) = 0;
+	/*9*/ virtual DWORD DrawOverriddenViewmodel(C_BaseViewModel *,int) = 0;
+	/*10*/ virtual DWORD GetAttachment(char const*,Vector &) = 0;
+	/*11*/ virtual DWORD GetAttachment(char const*,Vector &,QAngle &) = 0;
+	/*12*/ virtual DWORD ViewModelAttachmentBlending(CStudioHdr *,Vector *,Quaternion *,float,int) = 0;
+	/*13*/ virtual DWORD SetMaterialOverride(int,char const*) = 0;
+	/*14*/ virtual DWORD SetMaterialOverride(int,CMaterialReference &) = 0;
+	/*15*/ virtual DWORD GetAttributeManager(void) = 0;
+	/*16*/ virtual DWORD GetAttributeContainer(void) = 0;
+	/*17*/ virtual DWORD GetAttributeOwner(void) = 0;
+	/*18*/ virtual DWORD GetAttributeList(void) = 0;
+	/*19*/ virtual DWORD ReapplyProvision(void) = 0;
+	/*20*/ virtual DWORD UpdateBodygroups(C_BaseCombatCharacter *,int) = 0;
+	/*21*/ virtual DWORD TranslateViewmodelHandActivityInternal(Activity) = 0;
+	/*22*/ virtual DWORD __cxa_pure_virtual_C_EconEntity_1 = 0;
+	/*23*/ virtual DWORD __cxa_pure_virtual_C_EconEntity_2 = 0;
+	/*24*/ virtual DWORD __cxa_pure_virtual_C_EconEntity_3 = 0;
+	/*25*/ virtual DWORD __cxa_pure_virtual_C_EconEntity_4 = 0;
+	/*26*/ virtual DWORD __cxa_pure_virtual_C_EconEntity_5 = 0;
+	/*27*/ virtual DWORD __cxa_pure_virtual_C_EconEntity_6 = 0;
+} // C_EconEntity
+
+
+
+class C_BaseCombatWeapon : C_EconEntity { // Not MI
+	/*0*/ virtual DWORD ~C_BaseCombatWeapon() = 0;
+	/*1*/ virtual DWORD IsPredicted(void)const = 0;
+	/*2*/ virtual DWORD GetSubType(void) = 0;
+	/*3*/ virtual DWORD SetSubType(int) = 0;
+	/*4*/ virtual DWORD Equip(C_BaseCombatCharacter *) = 0;
+	/*5*/ virtual DWORD Drop(Vector const&) = 0;
+	/*6*/ virtual DWORD UpdateClientData(C_BasePlayer *) = 0;
+	/*7*/ virtual DWORD IsAllowedToSwitch(void) = 0;
+	/*8*/ virtual DWORD CanBeSelected(void) = 0;
+	/*9*/ virtual DWORD VisibleInWeaponSelection(void) = 0;
+	/*10*/ virtual DWORD HasAmmo(void) = 0;
+	/*11*/ virtual DWORD SetPickupTouch(void) = 0;
+	/*12*/ virtual DWORD DefaultTouch(C_BaseEntity *) = 0;
+	/*13*/ virtual DWORD GiveTo(C_BaseEntity *) = 0;
+	/*14*/ virtual DWORD ShouldDisplayAltFireHUDHint(void) = 0;
+	/*15*/ virtual DWORD DisplayAltFireHudHint(void) = 0;
+	/*16*/ virtual DWORD RescindAltFireHudHint(void) = 0;
+	/*17*/ virtual DWORD ShouldDisplayReloadHUDHint(void) = 0;
+	/*18*/ virtual DWORD DisplayReloadHudHint(void) = 0;
+	/*19*/ virtual DWORD RescindReloadHudHint(void) = 0;
+	/*20*/ virtual DWORD SetViewModelIndex(int) = 0;
+	/*21*/ virtual DWORD SendWeaponAnim(int) = 0;
+	/*22*/ virtual DWORD SendViewModelAnim(int) = 0;
+	/*23*/ virtual DWORD SetViewModel(void) = 0;
+	/*24*/ virtual DWORD HasWeaponIdleTimeElapsed(void) = 0;
+	/*25*/ virtual DWORD SetWeaponIdleTime(float) = 0;
+	/*26*/ virtual DWORD GetWeaponIdleTime(void) = 0;
+	/*27*/ virtual DWORD HasAnyAmmo(void) = 0;
+	/*28*/ virtual DWORD HasPrimaryAmmo(void) = 0;
+	/*29*/ virtual DWORD HasSecondaryAmmo(void) = 0;
+	/*30*/ virtual DWORD CanHolster(void)const = 0;
+	/*31*/ virtual DWORD DefaultDeploy(char *,char *,int,char *) = 0;
+	/*32*/ virtual DWORD CanDeploy(void) = 0;
+	/*33*/ virtual DWORD Deploy(void) = 0;
+	/*34*/ virtual DWORD Holster(C_BaseCombatWeapon*) = 0;
+	/*35*/ virtual DWORD GetLastWeapon(void) = 0;
+	/*36*/ virtual DWORD SetWeaponVisible(bool) = 0;
+	/*37*/ virtual DWORD IsWeaponVisible(void) = 0;
+	/*38*/ virtual DWORD ReloadOrSwitchWeapons(void) = 0;
+	/*39*/ virtual DWORD OnActiveStateChanged(int) = 0;
+	/*40*/ virtual DWORD HolsterOnDetach(void) = 0;
+	/*41*/ virtual DWORD IsHolstered(void) = 0;
+	/*42*/ virtual DWORD Detach(void) = 0;
+	/*43*/ virtual DWORD ItemPreFrame(void) = 0;
+	/*44*/ virtual DWORD ItemPostFrame(void) = 0;
+	/*45*/ virtual DWORD ItemBusyFrame(void) = 0;
+	/*46*/ virtual DWORD ItemHolsterFrame(void) = 0;
+	/*47*/ virtual DWORD WeaponIdle(void) = 0;
+	/*48*/ virtual DWORD HandleFireOnEmpty(void) = 0;
+	/*49*/ virtual DWORD CanPerformSecondaryAttack(void)const = 0;
+	/*50*/ virtual DWORD ShouldBlockPrimaryFire(void) = 0;
+	/*51*/ virtual DWORD CreateMove(float,CUserCmd *,QAngle const&) = 0;
+	/*52*/ virtual DWORD IsWeaponZoomed(void) = 0;
+	/*53*/ virtual DWORD CheckReload(void) = 0;
+	/*54*/ virtual DWORD FinishReload(void) = 0;
+	/*55*/ virtual DWORD AbortReload(void) = 0;
+	/*56*/ virtual DWORD Reload(void) = 0;
+	/*57*/ virtual DWORD AutoFiresFullClip(void)const = 0;
+	/*58*/ virtual DWORD UpdateAutoFire(void) = 0;
+	/*59*/ virtual DWORD PrimaryAttack(void) = 0;
+	/*60*/ virtual DWORD SecondaryAttack(void) = 0;
+	/*61*/ virtual DWORD GetPrimaryAttackActivity(void) = 0;
+	/*62*/ virtual DWORD GetSecondaryAttackActivity(void) = 0;
+	/*63*/ virtual DWORD GetDrawActivity(void) = 0;
+	/*64*/ virtual DWORD GetDefaultAnimSpeed(void) = 0;
+	/*65*/ virtual DWORD GetBulletType(void) = 0;
+	/*66*/ virtual DWORD GetBulletSpread(void) = 0;
+	/*67*/ virtual DWORD GetBulletSpread(WeaponProficiency_t) = 0;
+	/*68*/ virtual DWORD GetSpreadBias(WeaponProficiency_t) = 0;
+	/*69*/ virtual DWORD GetFireRate(void) = 0;
+	/*70*/ virtual DWORD GetMinBurst(void) = 0;
+	/*71*/ virtual DWORD GetMaxBurst(void) = 0;
+	/*72*/ virtual DWORD GetMinRestTime(void) = 0;
+	/*73*/ virtual DWORD GetMaxRestTime(void) = 0;
+	/*74*/ virtual DWORD GetRandomBurst(void) = 0;
+	/*75*/ virtual DWORD WeaponSound(WeaponSound_t,float) = 0;
+	/*76*/ virtual DWORD StopWeaponSound(WeaponSound_t) = 0;
+	/*77*/ virtual DWORD GetProficiencyValues(void) = 0;
+	/*78*/ virtual DWORD GetMaxAutoAimDeflection(void) = 0;
+	/*79*/ virtual DWORD WeaponAutoAimScale(void) = 0;
+	/*80*/ virtual DWORD StartSprinting(void) = 0;
+	/*81*/ virtual DWORD StopSprinting(void) = 0;
+	/*82*/ virtual DWORD GetDamage(float,int) = 0;
+	/*83*/ virtual DWORD SetActivity(Activity,float) = 0;
+	/*84*/ virtual DWORD AddViewKick(void) = 0;
+	/*85*/ virtual DWORD GetDeathNoticeName(void) = 0;
+	/*86*/ virtual DWORD OnPickedUp(C_BaseCombatCharacter *) = 0;
+	/*87*/ virtual DWORD AddViewmodelBob(C_BaseViewModel *,Vector &,QAngle &) = 0;
+	/*88*/ virtual DWORD CalcViewmodelBob(void) = 0;
+	/*89*/ virtual DWORD GetControlPanelInfo(int,char const*&) = 0;
+	/*90*/ virtual DWORD GetControlPanelClassName(int,char const*&) = 0;
+	/*91*/ virtual DWORD ShouldShowControlPanels(void) = 0;
+	/*92*/ virtual DWORD CanBePickedUpByNPCs(void) = 0;
+	/*93*/ virtual DWORD GetSkinOverride(void)const = 0;
+	/*94*/ virtual DWORD GetViewModel(int)const = 0;
+	/*95*/ virtual DWORD GetWorldModel(void)const = 0;
+	/*96*/ virtual DWORD GetAnimPrefix(void)const = 0;
+	/*97*/ virtual DWORD GetMaxClip1(void)const = 0;
+	/*98*/ virtual DWORD GetMaxClip2(void)const = 0;
+	/*99*/ virtual DWORD GetDefaultClip1(void)const = 0;
+	/*100*/ virtual DWORD GetDefaultClip2(void)const = 0;
+	/*101*/ virtual DWORD GetWeight(void)const = 0;
+	/*102*/ virtual DWORD AllowsAutoSwitchTo(void)const = 0;
+	/*103*/ virtual DWORD AllowsAutoSwitchFrom(void)const = 0;
+	/*104*/ virtual DWORD ForceWeaponSwitch(void)const = 0;
+	/*105*/ virtual DWORD GetWeaponFlags(void)const = 0;
+	/*106*/ virtual DWORD GetSlot(void)const = 0;
+	/*107*/ virtual DWORD GetPosition(void)const = 0;
+	/*108*/ virtual DWORD GetName(void)const = 0;
+	/*109*/ virtual DWORD GetPrintName(void)const = 0;
+	/*110*/ virtual DWORD GetShootSound(int)const = 0;
+	/*111*/ virtual DWORD GetRumbleEffect(void)const = 0;
+	/*112*/ virtual DWORD UsesClipsForAmmo1(void)const = 0;
+	/*113*/ virtual DWORD UsesClipsForAmmo2(void)const = 0;
+	/*114*/ virtual DWORD GetEncryptionKey(void) = 0;
+	/*115*/ virtual DWORD GetPrimaryAmmoType(void)const = 0;
+	/*116*/ virtual DWORD GetSecondaryAmmoType(void)const = 0;
+	/*117*/ virtual DWORD Clip1(void) = 0;
+	/*118*/ virtual DWORD Clip2(void) = 0;
+	/*119*/ virtual DWORD GetSpriteActive(void)const = 0;
+	/*120*/ virtual DWORD GetSpriteInactive(void)const = 0;
+	/*121*/ virtual DWORD GetSpriteAmmo(void)const = 0;
+	/*122*/ virtual DWORD GetSpriteAmmo2(void)const = 0;
+	/*123*/ virtual DWORD GetSpriteCrosshair(void)const = 0;
+	/*124*/ virtual DWORD GetSpriteAutoaim(void)const = 0;
+	/*125*/ virtual DWORD GetSpriteZoomedCrosshair(void)const = 0;
+	/*126*/ virtual DWORD GetSpriteZoomedAutoaim(void)const = 0;
+	/*127*/ virtual DWORD ActivityOverride(Activity,bool *) = 0;
+	/*128*/ virtual DWORD ActivityList(int &) = 0;
+	/*129*/ virtual DWORD PoseParameterOverride(bool) = 0;
+	/*130*/ virtual DWORD PoseParamList(int &) = 0;
+	/*131*/ virtual DWORD ShouldUseLargeViewModelVROverride(void) = 0;
+	/*132*/ virtual DWORD RestartParticleEffect(void) = 0;
+	/*133*/ virtual DWORD Redraw(void) = 0;
+	/*134*/ virtual DWORD ViewModelDrawn(C_BaseViewModel *) = 0;
+	/*135*/ virtual DWORD DrawCrosshair(void) = 0;
+	/*136*/ virtual DWORD ShouldDrawCrosshair(void) = 0;
+	/*137*/ virtual DWORD IsCarriedByLocalPlayer(void) = 0;
+	/*138*/ virtual DWORD ShouldDrawUsingViewModel(void) = 0;
+	/*139*/ virtual DWORD IsActiveByLocalPlayer(void) = 0;
+	/*140*/ virtual DWORD ShouldDrawPickup(void) = 0;
+	/*141*/ virtual DWORD HandleInput(void) = 0;
+	/*142*/ virtual DWORD OverrideMouseInput(float *,float *) = 0;
+	/*143*/ virtual DWORD KeyInput(int,ButtonCode_t,char const*) = 0;
+	/*144*/ virtual DWORD AddLookShift(void) = 0;
+	/*145*/ virtual DWORD GetViewmodelBoneControllers(C_BaseViewModel *,float *) = 0;
+	/*146*/ virtual DWORD GetWorldModelIndex(void) = 0;
+	/*147*/ virtual DWORD GetWeaponCrosshairScale(float &) = 0;
+	/*148*/ virtual DWORD CanLower(void) = 0;
+	/*149*/ virtual DWORD Ready(void) = 0;
+	/*150*/ virtual DWORD Lower(void) = 0;
+	/*151*/ virtual DWORD HideThink(void) = 0;
+	/*152*/ virtual DWORD CanReload(void) = 0;
+	/*153*/ virtual DWORD NetworkStateChanged_m_nNextThinkTick(void) = 0;
+	/*154*/ virtual DWORD NetworkStateChanged_m_nNextThinkTick(void *) = 0;
+	/*155*/ virtual DWORD __cxa_pure_virtual_C_BaseCombatWeapon_7 = 0;
+	/*156*/ virtual DWORD __cxa_pure_virtual_C_BaseCombatWeapon_8 = 0;
+	/*157*/ virtual DWORD __cxa_pure_virtual_C_BaseCombatWeapon_9 = 0;
+	/*158*/ virtual DWORD __cxa_pure_virtual_C_BaseCombatWeapon_10 = 0;
+	/*159*/ virtual DWORD __cxa_pure_virtual_C_BaseCombatWeapon_11 = 0;
+	/*160*/ virtual DWORD __cxa_pure_virtual_C_BaseCombatWeapon_12 = 0;
+} // C_BaseCombatWeapon
+
+
+
+class CGameEventListener { // MI
+	/*0*/ virtual DWORD ~CGameEventListener() = 0;
+	/*1*/ virtual DWORD __cxa_pure_virtual_CGameEventListener_20 = 0;
+} // CGameEventListener
+
+
+
+class IHasOwner { // MI
+	/*0*/ virtual DWORD GetOwnerViaInterface(void) = 0;
+} // IHasOwner
+
+
+
+class C_TFWeaponBase : C_BaseCombatWeapon, CGameEventListener, IHasOwner { // Not MI
+	/*0*/ virtual DWORD ~C_TFWeaponBase() = 0;
+	/*1*/ virtual DWORD Holster(C_BaseCombatWeapon *) = 0;
+	/*2*/ virtual DWORD FallInit(void) = 0;
+	/*3*/ virtual DWORD GetWeaponID(void)const = 0;
+	/*4*/ virtual DWORD GetDamageType(void)const = 0;
+	/*5*/ virtual DWORD GetCustomDamageType(void)const = 0;
+	/*6*/ virtual DWORD UsesPrimaryAmmo(void) = 0;
+	/*7*/ virtual DWORD UberChargeAmmoPerShot(void) = 0;
+	/*8*/ virtual DWORD OwnerCanJump(void) = 0;
+	/*9*/ virtual DWORD UpdateHands(void) = 0;
+	/*10*/ virtual DWORD OwnerCanTaunt(void) = 0;
+	/*11*/ virtual DWORD CanBeCritBoosted(void) = 0;
+	/*12*/ virtual DWORD UpdateExtraWearablesVisibility(void) = 0;
+	/*13*/ virtual DWORD RemoveExtraWearables(void) = 0;
+	/*14*/ virtual DWORD Misfire(void) = 0;
+	/*15*/ virtual DWORD FireFullClipAtOnce(void) = 0;
+	/*16*/ virtual DWORD CalcIsAttackCriticalHelper(void) = 0;
+	/*17*/ virtual DWORD CalcIsAttackCriticalHelperNoCrits(void) = 0;
+	/*18*/ virtual DWORD GetPenetrateType(void)const = 0;
+	/*19*/ virtual DWORD GetProjectileFireSetup(C_TFPlayer *,Vector,Vector*,QAngle *,bool,float) = 0;
+	/*20*/ virtual DWORD GetSpreadAngles(void) = 0;
+	/*21*/ virtual DWORD IsFiring(void)const = 0;
+	/*22*/ virtual DWORD AreRandomCritsEnabled(void) = 0;
+	/*23*/ virtual DWORD DefaultReload(int,int,int) = 0;
+	/*24*/ virtual DWORD IsReloading(void)const = 0;
+	/*25*/ virtual DWORD CheckReloadMisfire(void) = 0;
+	/*26*/ virtual DWORD CanDrop(void) = 0;
+	/*27*/ virtual DWORD AllowTaunts(void) = 0;
+	/*28*/ virtual DWORD GetActivityWeaponRole(void)const = 0;
+	/*29*/ virtual DWORD GetViewModelWeaponRole(void) = 0;
+	/*30*/ virtual DWORD ShouldPlayClientReloadSound(void) = 0;
+	/*31*/ virtual DWORD CanAttack(void) = 0;
+	/*32*/ virtual DWORD GetCanAttackFlags(void)const = 0;
+	/*33*/ virtual DWORD WeaponReset(void) = 0;
+	/*34*/ virtual DWORD WeaponRegenerate(void) = 0;
+	/*35*/ virtual DWORD GetMuzzleFlashEffectName_3rd(void) = 0;
+	/*36*/ virtual DWORD GetMuzzleFlashEffectName_1st(void) = 0;
+	/*37*/ virtual DWORD GetMuzzleFlashModel(void) = 0;
+	/*38*/ virtual DWORD GetMuzzleFlashModelLifetime(void) = 0;
+	/*39*/ virtual DWORD GetMuzzleFlashParticleEffect(void) = 0;
+	/*40*/ virtual DWORD Operator_HandleAnimEvent(animevent_t *,C_BaseCombatCharacter *) = 0;
+	/*41*/ virtual DWORD GetInventoryModel(void) = 0;
+	/*42*/ virtual DWORD GetSpeedMod(void) = 0;
+	/*43*/ virtual DWORD CanFireCriticalShot(bool) = 0;
+	/*44*/ virtual DWORD CanFireRandomCriticalShot(float) = 0;
+	/*45*/ virtual DWORD OnControlStunned(void) = 0;
+	/*46*/ virtual DWORD HideWhileStunned(void) = 0;
+	/*47*/ virtual DWORD IsViewModelFlipped(void) = 0;
+	/*48*/ virtual DWORD GetMaxHealthMod(void) = 0;
+	/*49*/ virtual DWORD GetLastDeployTime(void) = 0;
+	/*50*/ virtual DWORD IsEnergyWeapon(void)const = 0;
+	/*51*/ virtual DWORD IsBlastImpactWeapon(void)const = 0;
+	/*52*/ virtual DWORD Energy_GetShotCost(void)const = 0;
+	/*53*/ virtual DWORD Energy_GetRechargeCost(void)const = 0;
+	/*54*/ virtual DWORD GetParticleColor(int) = 0;
+	/*55*/ virtual DWORD HasLastShotCritical(void) = 0;
+	/*56*/ virtual DWORD UseServerRandomSeed(void)const = 0;
+	/*57*/ virtual DWORD DispatchMuzzleFlash(char const*,C_BaseEntity *) = 0;
+	/*58*/ virtual DWORD FireGameEvent(IGameEvent *) = 0;
+	/*59*/ virtual DWORD ShouldEjectBrass(void) = 0;
+	/*60*/ virtual DWORD GetEffectLabelText(void) = 0;
+	/*61*/ virtual DWORD GetProgress(void) = 0;
+	/*62*/ virtual DWORD GetEffectBarProgress(void) = 0;
+	/*63*/ virtual DWORD CanPickupOtherWeapon(void)const = 0;
+	/*64*/ virtual DWORD GetEffectBarAmmo(void) = 0;
+	/*65*/ virtual DWORD InternalGetEffectBarRechargeTime(void) = 0;
+	/*66*/ virtual DWORD CreateMuzzleFlashEffects(C_BaseEntity *,int) = 0;
+	/*67*/ virtual DWORD CanInspect(void)const = 0;
+	/*68*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_13 = 0;
+	/*69*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_14 = 0;
+	/*70*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_15 = 0;
+	/*71*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_16 = 0;
+	/*72*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_17 = 0;
+	/*73*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_18 = 0;
+	/*74*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBase_19 = 0;
+} // C_TFWeaponBase
+
+
+
+class C_TFWeaponBaseMelee : C_TFWeaponBase { // Not MI
+	/*0*/ virtual DWORD ~C_TFWeaponBaseMelee() = 0;
+	/*1*/ virtual DWORD GetSwingRange(void) = 0;
+	/*2*/ virtual DWORD DoViewModelAnimation(void) = 0;
+	/*3*/ virtual DWORD DoSwingTrace(CGameTrace &) = 0;
+	/*4*/ virtual DWORD Smack(void) = 0;
+	/*5*/ virtual DWORD DoMeleeDamage(C_BaseEntity *,CGameTrace &) = 0;
+	/*6*/ virtual DWORD DoMeleeDamage(C_BaseEntity *,CGameTrace &,float) = 0;
+	/*7*/ virtual DWORD GetMeleeDamage(C_BaseEntity *,int *,int *) = 0;
+	/*8*/ virtual DWORD OnEntityHit(C_BaseEntity *,CTakeDamageInfo *) = 0;
+	/*9*/ virtual DWORD SendPlayerAnimEvent(C_TFPlayer *) = 0;
+	/*10*/ virtual DWORD Swing(C_TFPlayer *) = 0;
+	/*11*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_21 = 0;
+	/*12*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_22 = 0;
+	/*13*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_23 = 0;
+	/*14*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_24 = 0;
+	/*15*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_25 = 0;
+	/*16*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_26 = 0;
+	/*17*/ virtual DWORD __cxa_pure_virtual_C_TFWeaponBaseMelee_27 = 0;
+} // C_TFWeaponBaseMelee
+
+
+class C_TFKnife : C_TFWeaponBaseMelee {
+	/*0*/virtual DWORD ~C_TFKnife() = 0;
+	/*1*/virtual DWORD __cxa_pure_virtual_C_TFKnife_28 = 0;
+	/*2*/virtual DWORD __cxa_pure_virtual_C_TFKnife_29 = 0;
+	/*3*/virtual DWORD __cxa_pure_virtual_C_TFKnife_30 = 0;
+	/*4*/virtual DWORD __cxa_pure_virtual_C_TFKnife_31 = 0;
+	/*5*/virtual DWORD __cxa_pure_virtual_C_TFKnife_32 = 0;
+	/*6*/virtual DWORD __cxa_pure_virtual_C_TFKnife_33 = 0;
+	/*7*/virtual DWORD __cxa_pure_virtual_C_TFKnife_34 = 0;
+} // C_TFKnife

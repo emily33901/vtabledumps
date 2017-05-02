@@ -1,0 +1,6 @@
+0	IClientEntity::Release( void )
+1	IClientEntity::GetAbsOrigin( void ) const
+2	IClientEntity::GetAbsAngles( void ) const
+3	IClientEntity::GetMouth( void )
+4	IClientEntity::GetSoundSpatialization( SpatializationInfo_t& info )
+5	IClientUnknown::IClientUnknown_DUMMY_INCLUDE_ME_1

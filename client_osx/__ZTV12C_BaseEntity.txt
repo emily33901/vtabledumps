@@ -1,8 +1,6 @@
 // `vtable for'C_BaseEntity
 // Auto reconstructed from vtable block @ 0x00E9DBB0
 // from "client.dylib", by ida_vtables.idc
-0	C_BaseEntity::~C_BaseEntity()
-1	C_BaseEntity::~C_BaseEntity()
 2	C_BaseEntity::SetRefEHandle(CBaseHandle const&)
 3	C_BaseEntity::GetRefEHandle(void)const
 4	C_BaseEntity::GetCollideable(void)
@@ -222,3 +220,4 @@
 218	C_BaseEntity::PerformCustomPhysics(Vector *,Vector *,QAngle *,QAngle *)
 219	C_BaseEntity::GetRenderClipPlane(void)
 220	C_BaseEntity::ValidateEntityAttachedToPlayer(bool &)
+221	IClientEntity::IClientEntity_DUMMY_INCLUDE_ME_1()

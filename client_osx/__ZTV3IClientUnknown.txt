@@ -1,0 +1,7 @@
+0	IClientUnknown::GetCollideable()
+1	IClientUnknown::GetClientNetworkable()
+2	IClientUnknown::GetClientRenderable()
+3	IClientUnknown::GetIClientEntity()
+4	IClientUnknown::GetBaseEntity()
+5	IClientUnknown::GetClientThinkable()
+6	IHandleEntity::IHandleEntity_DUMMY_INCLUDE_ME_1

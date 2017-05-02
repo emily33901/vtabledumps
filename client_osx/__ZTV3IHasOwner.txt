@@ -1,0 +1,1 @@
+0	IHasOwner::GetOwnerViaInterface(void)

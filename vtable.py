@@ -11,12 +11,16 @@ import subprocess
 
 # TODO list:
 #   vtable dumper needs to include as much info as possible about each function
+#       UPDATE THE IDA FUNCTION TO INCLUDE RTTI: THIS WILL INCLUDE THE CLASS HIERARCHY
+#       WE NEED TO TRY TO INCLUDE RETURN TYPE
 #       strings, argument number, (maybe control flow)
 #       should probably include whether it is an mi class
 #           (i have a feeling its alot easier for ida to figure out)
 #   or we could just save the type info to a the typeinfo_vtable.txt file (this would help alot) 
 #
 #   windows filename map
+#
+#
 
 
 class vtable:
@@ -56,11 +60,11 @@ class vtable:
         self.parent = parent;
 
         self.top = parent.top if parent != None else self;
-
         # check to see if we are already enumerated 
         try:
             self = vtable.enumeratedStructures[self.win_vtable];
-            print("using enumerated values for vtable " + self.win_vtable + "...");
+            miString = " MI" if is_mi == True else "";
+            print("using enumerated values for vtable " + self.win_vtable + miString + "...");
             return;
         except:
             pass; # carry on setup if this fails
@@ -72,7 +76,7 @@ class vtable:
 
         print("finding siblings...");
         
-        self.possibleWindowsVtables, self.is_mi = self.FindSiblings();
+        self.possibleWindowsVtables, _ = self.FindSiblings();
 
         print("done.");
 
@@ -89,6 +93,13 @@ class vtable:
 
         print("done.");
 
+        print("processing osx table...");
+
+        # then process the real vtables
+        self.ProcessOSX(False);
+
+        print("done.");
+
         # once we have those, we need to recurse down the mi tables first
         # we do it in this order because the mi tables tend to not inherit anything
         # (or they dont exist)
@@ -100,33 +111,57 @@ class vtable:
 
         print("done.");        
 
-        print("processing osx table...");
 
-        # then process the real vtables
-        self.ProcessOSX(False);
-
-        print("done.");
-    
         # copy to enumeratedStructures list
         vtable.enumeratedStructures[self.win_vtable] = self;
 
         #self.ProcessOSX();
 
         print("finished constructing vtable " + self.win_vtable + "\n\n");
-#        print("processed vtable: " + self.win_vtable);
-#        print("classes: ");
-#        print(self.classnames);
+        #print("processed vtable: " + self.win_vtable);
+        #print("classes: ");
+        #print(self.classnames);
         #print("functions:");
         #print(self.functions);
     
+    alreadyPrinted = [];
     def RecursePrintHierarchy(self, l = 0):
         for v in self.hierarchy:
-            print(('\t' * l) + v.win_vtable);
-            v.RecursePrintHierarchy(l + 1);
+
+            # do base classes first
+            # TODO: we also need to do MI classes firster
+            
+            v.RecursePrintHierarchy(l);
+            
+            miString = "MI" if v.is_mi == True else "Not MI";
+            inheritString = " : " + ", ".join(map(lambda v: v.win_vtable, v.hierarchy)) if len(v.hierarchy) >= 1 else "";
+
+            # begin class
+            print("\n" + ('\t' * l) + "class " + v.win_vtable + inheritString + " { // " + miString);
+
+            index = 0;
+            for f in map(lambda l: l[0], v.functions):
+                if f not in vtable.alreadyPrinted:
+                    print(('\t' * (l + 1)) + "/*" + str(index) + "*/ virtual DWORD " + f + " = 0;");
+                    index += 1;
+                    vtable.alreadyPrinted.append(f);
+
+            # end class
+            print(('\t' * l) + "} // " + v.win_vtable + "\n\n");
 
     def PrintHierarchy(self):
-        print(self.win_vtable);
-        self.RecursePrintHierarchy(1);
+        self.RecursePrintHierarchy(0);        
+        print("class " + self.win_vtable + " : " + ", ".join(map(lambda v: v.win_vtable, self.hierarchy)) + " {");
+
+        # TODO: DRY PRICIPLES
+        index = 0
+        for f in map(lambda l: l[0], self.functions):
+            if f not in vtable.alreadyPrinted:
+                print("\t/*" + str(index) + "*/virtual DWORD " + f + " = 0;");
+                index += 1;
+                vtable.alreadyPrinted.append(f);
+
+        print("} // " + self.win_vtable);
 
             
     @staticmethod
@@ -171,9 +206,9 @@ class vtable:
         self.MergeSubs = [];
         for file in os.listdir(folder):
             if(fnmatch.fnmatch(file, "*merge_subs.txt")):
-                MergeSubs = merge_subs.ParseMergeSub(folder + "/" + file);
+                self.MergeSubs = merge_subs.ParseMergeSub(folder + "/" + file);
 
-        print("done " + str(MergeSubs));
+        print("done " + str(self.MergeSubs));
 
     # processes a line and returns:
     #   the osx index
@@ -181,10 +216,22 @@ class vtable:
     #   the function prototype (that being the function)
     # example:
     # 6 CGame::SetGameWindow(void *)
+    unclassedFunctionCounter = 0;
     def processFunctionLine(self, line):
         split = line.split("\t");
-        classname = split[1][:split[1].find("::")] if(split[1].find("::") != -1) else self.win_vtable;
+        noClass = False;
+        classname = "";
+        if(split[1].find("::") != -1):
+            classname = split[1][:split[1].find("::")];
+        else:
+             classname = self.win_vtable;
+             noClass = True;
         functionname = split[1][split[1].find("::") + 2:-1]; # strip \n
+
+        if(noClass == True):
+            # make this unique (it is probably __cxa_pure_virtual)
+            functionname = functionname + "_" + classname + "_" + str(vtable.unclassedFunctionCounter);
+            vtable.unclassedFunctionCounter += 1;
 
         if(functionname[0] == "~"):
             self.hasDestructor = 1;
@@ -319,10 +366,13 @@ class vtable:
                     if(vtableName == demangledName):
                         continue;
                 
-                out.append([isMi, self.win_folder + "/" + file, vtableName]);
-                print(vtableName + " (" + df + ")");
+                subs = [vtableName] + merge_subs.TryMerge(vtableName, self.MergeSubs);
 
-        return out, mi;
+                for s in subs:
+                    out.append([isMi, self.win_folder + "/" + file, s]);
+                    print("sibling " + s + " (" + df + ")");
+
+        return out, False;
 
     def FindUniqueWinName(self, string):
         if(string.find("___7_") != -1):

@@ -1,0 +1,5 @@
+0	IClientThinkable::GetIClientUnknown()
+1	IClientThinkable::ClientThink()
+2	IClientThinkable::GetThinkHandle()
+3	IClientThinkable::SetThinkHandle(ClientThinkHandle_t)
+4	IClientThinkable::Release()

@@ -1,0 +1,3 @@
+0	IHandleEntity::SetRefEHandle( const CBaseHandle &handle )
+1	IHandleEntity::SetRefEHandle( const CBaseHandle &handle )
+2	IHandleEntity::GetRefEHandle() const

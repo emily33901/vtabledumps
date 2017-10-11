@@ -1,0 +1,67 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280851520, 
+    "hierarchy_descriptor": {
+        "ea": 280851540, 
+        "base_classes": [
+            {
+                "ea": 280851572, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281327392, 
+                    "name": ".?AVCMsgGCRequestSubGCSessionInfo@@", 
+                    "demangled_name": "CMsgGCRequestSubGCSessionInfo"
+                }
+            }, 
+            {
+                "ea": 280488956, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281166976, 
+                    "name": ".?AVMessage@protobuf@google@@", 
+                    "demangled_name": "google::protobuf::Message"
+                }
+            }, 
+            {
+                "ea": 280488880, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281174348, 
+                    "name": ".?AVMessageLite@protobuf@google@@", 
+                    "demangled_name": "google::protobuf::MessageLite"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 3
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281327392, 
+        "name": ".?AVCMsgGCRequestSubGCSessionInfo@@", 
+        "demangled_name": "CMsgGCRequestSubGCSessionInfo"
+    }
+}

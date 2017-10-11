@@ -1,0 +1,82 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280733752, 
+    "hierarchy_descriptor": {
+        "ea": 280733772, 
+        "base_classes": [
+            {
+                "ea": 280733808, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281282368, 
+                    "name": ".?AV?$CCallbackManual@VCSteamWorksGameStatsUploader@@UGameStatsSessionClosed_t@@$0A@@@", 
+                    "demangled_name": "CCallbackManual<CSteamWorksGameStatsUploader,GameStatsSessionClosed_t,0>"
+                }
+            }, 
+            {
+                "ea": 280733836, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281282464, 
+                    "name": ".?AV?$CCallback@VCSteamWorksGameStatsUploader@@UGameStatsSessionClosed_t@@$0A@@@", 
+                    "demangled_name": "CCallback<CSteamWorksGameStatsUploader,GameStatsSessionClosed_t,0>"
+                }
+            }, 
+            {
+                "ea": 280532724, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281190896, 
+                    "name": ".?AV?$CCallbackImpl@$0BA@@@", 
+                    "demangled_name": "CCallbackImpl<16>"
+                }
+            }, 
+            {
+                "ea": 280523408, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 77, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185988, 
+                    "name": ".?AVCCallbackBase@@", 
+                    "demangled_name": "CCallbackBase"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 4
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281282368, 
+        "name": ".?AV?$CCallbackManual@VCSteamWorksGameStatsUploader@@UGameStatsSessionClosed_t@@$0A@@@", 
+        "demangled_name": "CCallbackManual<CSteamWorksGameStatsUploader,GameStatsSessionClosed_t,0>"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280685152, 
+    "hierarchy_descriptor": {
+        "ea": 280685072, 
+        "base_classes": [
+            {
+                "ea": 280685124, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 7, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281261784, 
+                    "name": ".?AVCAchievementTFMedic_AssistChargeDemoman@@", 
+                    "demangled_name": "CAchievementTFMedic_AssistChargeDemoman"
+                }
+            }, 
+            {
+                "ea": 280684784, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 6, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281261616, 
+                    "name": ".?AVCAchievementTFMedic_BaseAssistWhileCharged@@", 
+                    "demangled_name": "CAchievementTFMedic_BaseAssistWhileCharged"
+                }
+            }, 
+            {
+                "ea": 280658016, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281248884, 
+                    "name": ".?AVCBaseTFAchievement@@", 
+                    "demangled_name": "CBaseTFAchievement"
+                }
+            }, 
+            {
+                "ea": 280657944, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281248844, 
+                    "name": ".?AVCBaseTFAchievementSimple@@", 
+                    "demangled_name": "CBaseTFAchievementSimple"
+                }
+            }, 
+            {
+                "ea": 280533548, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281190508, 
+                    "name": ".?AVCBaseAchievement@@", 
+                    "demangled_name": "CBaseAchievement"
+                }
+            }, 
+            {
+                "ea": 280520992, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185208, 
+                    "name": ".?AVCGameEventListener@@", 
+                    "demangled_name": "CGameEventListener"
+                }
+            }, 
+            {
+                "ea": 280520916, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185172, 
+                    "name": ".?AVIGameEventListener2@@", 
+                    "demangled_name": "IGameEventListener2"
+                }
+            }, 
+            {
+                "ea": 280533576, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191300, 
+                    "name": ".?AVIAchievement@@", 
+                    "demangled_name": "IAchievement"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 8
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 8, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281261784, 
+        "name": ".?AVCAchievementTFMedic_AssistChargeDemoman@@", 
+        "demangled_name": "CAchievementTFMedic_AssistChargeDemoman"
+    }
+}

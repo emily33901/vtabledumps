@@ -1,0 +1,82 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280846256, 
+    "hierarchy_descriptor": {
+        "ea": 280846276, 
+        "base_classes": [
+            {
+                "ea": 280846312, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281324056, 
+                    "name": ".?AV?$EuclideanDomainOf@VInteger@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::EuclideanDomainOf<CryptoPP::Integer>"
+                }
+            }, 
+            {
+                "ea": 280845828, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281323808, 
+                    "name": ".?AV?$AbstractEuclideanDomain@VInteger@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>"
+                }
+            }, 
+            {
+                "ea": 280845528, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281323556, 
+                    "name": ".?AV?$AbstractRing@VInteger@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::AbstractRing<CryptoPP::Integer>"
+                }
+            }, 
+            {
+                "ea": 280845584, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281323616, 
+                    "name": ".?AV?$AbstractGroup@VInteger@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::AbstractGroup<CryptoPP::Integer>"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 4
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281324056, 
+        "name": ".?AV?$EuclideanDomainOf@VInteger@CryptoPP@@@CryptoPP@@", 
+        "demangled_name": "CryptoPP::EuclideanDomainOf<CryptoPP::Integer>"
+    }
+}

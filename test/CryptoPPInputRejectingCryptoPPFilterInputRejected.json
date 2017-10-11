@@ -1,0 +1,82 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280567368, 
+    "hierarchy_descriptor": {
+        "ea": 280567388, 
+        "base_classes": [
+            {
+                "ea": 280567424, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202368, 
+                    "name": ".?AUInputRejected@?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::InputRejecting<CryptoPP::Filter>::InputRejected"
+                }
+            }, 
+            {
+                "ea": 280564936, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202160, 
+                    "name": ".?AVNotImplemented@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::NotImplemented"
+                }
+            }, 
+            {
+                "ea": 280564696, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202124, 
+                    "name": ".?AVException@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::Exception"
+                }
+            }, 
+            {
+                "ea": 280564308, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202000, 
+                    "name": ".?AVexception@std@@", 
+                    "demangled_name": "std::exception"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 4
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281202368, 
+        "name": ".?AUInputRejected@?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@", 
+        "demangled_name": "CryptoPP::InputRejecting<CryptoPP::Filter>::InputRejected"
+    }
+}

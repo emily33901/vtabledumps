@@ -1,0 +1,52 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280853456, 
+    "hierarchy_descriptor": {
+        "ea": 280853476, 
+        "base_classes": [
+            {
+                "ea": 280853504, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281328252, 
+                    "name": ".?AVCZip@@", 
+                    "demangled_name": "CZip"
+                }
+            }, 
+            {
+                "ea": 280853224, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281328148, 
+                    "name": ".?AVIZip@@", 
+                    "demangled_name": "IZip"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 2
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281328252, 
+        "name": ".?AVCZip@@", 
+        "demangled_name": "CZip"
+    }
+}

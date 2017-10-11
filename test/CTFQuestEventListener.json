@@ -1,0 +1,97 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280625180, 
+    "hierarchy_descriptor": {
+        "ea": 280625056, 
+        "base_classes": [
+            {
+                "ea": 280625096, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281234492, 
+                    "name": ".?AVCTFQuestEventListener@@", 
+                    "demangled_name": "CTFQuestEventListener"
+                }
+            }, 
+            {
+                "ea": 280624988, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281234420, 
+                    "name": ".?AVCTFQuestEvaluator@@", 
+                    "demangled_name": "CTFQuestEvaluator"
+                }
+            }, 
+            {
+                "ea": 280622788, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281233796, 
+                    "name": ".?AVCTFQuestCondition@@", 
+                    "demangled_name": "CTFQuestCondition"
+                }
+            }, 
+            {
+                "ea": 280625124, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 20, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185208, 
+                    "name": ".?AVCGameEventListener@@", 
+                    "demangled_name": "CGameEventListener"
+                }
+            }, 
+            {
+                "ea": 280625152, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 20, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185172, 
+                    "name": ".?AVIGameEventListener2@@", 
+                    "demangled_name": "IGameEventListener2"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 5
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 20, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281234492, 
+        "name": ".?AVCTFQuestEventListener@@", 
+        "demangled_name": "CTFQuestEventListener"
+    }
+}

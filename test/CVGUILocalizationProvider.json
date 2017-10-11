@@ -1,0 +1,52 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280620828, 
+    "hierarchy_descriptor": {
+        "ea": 280620848, 
+        "base_classes": [
+            {
+                "ea": 280620876, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281232360, 
+                    "name": ".?AVCVGUILocalizationProvider@@", 
+                    "demangled_name": "CVGUILocalizationProvider"
+                }
+            }, 
+            {
+                "ea": 280620800, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281232324, 
+                    "name": ".?AVCLocalizationProvider@@", 
+                    "demangled_name": "CLocalizationProvider"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 2
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281232360, 
+        "name": ".?AVCVGUILocalizationProvider@@", 
+        "demangled_name": "CVGUILocalizationProvider"
+    }
+}

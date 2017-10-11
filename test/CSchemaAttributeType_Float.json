@@ -1,0 +1,82 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280613668, 
+    "hierarchy_descriptor": {
+        "ea": 280613688, 
+        "base_classes": [
+            {
+                "ea": 280613724, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281227972, 
+                    "name": ".?AVCSchemaAttributeType_Float@@", 
+                    "demangled_name": "CSchemaAttributeType_Float"
+                }
+            }, 
+            {
+                "ea": 280613752, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281228016, 
+                    "name": ".?AV?$CSchemaAttributeTypeBase@M@@", 
+                    "demangled_name": "CSchemaAttributeTypeBase<float>"
+                }
+            }, 
+            {
+                "ea": 280613812, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281226108, 
+                    "name": ".?AV?$ISchemaAttributeTypeBase@M@@", 
+                    "demangled_name": "ISchemaAttributeTypeBase<float>"
+                }
+            }, 
+            {
+                "ea": 280610264, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281221240, 
+                    "name": ".?AVISchemaAttributeType@@", 
+                    "demangled_name": "ISchemaAttributeType"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 4
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281227972, 
+        "name": ".?AVCSchemaAttributeType_Float@@", 
+        "demangled_name": "CSchemaAttributeType_Float"
+    }
+}

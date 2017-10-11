@@ -1,0 +1,82 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280880188, 
+    "hierarchy_descriptor": {
+        "ea": 280880208, 
+        "base_classes": [
+            {
+                "ea": 280880244, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281344908, 
+                    "name": ".?AVC_OP_RenderSprites@@", 
+                    "demangled_name": "C_OP_RenderSprites"
+                }
+            }, 
+            {
+                "ea": 280880160, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281344876, 
+                    "name": ".?AVC_OP_RenderPoints@@", 
+                    "demangled_name": "C_OP_RenderPoints"
+                }
+            }, 
+            {
+                "ea": 280880100, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281344828, 
+                    "name": ".?AVCParticleRenderOperatorInstance@@", 
+                    "demangled_name": "CParticleRenderOperatorInstance"
+                }
+            }, 
+            {
+                "ea": 280874144, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281340736, 
+                    "name": ".?AVCParticleOperatorInstance@@", 
+                    "demangled_name": "CParticleOperatorInstance"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 4
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281344908, 
+        "name": ".?AVC_OP_RenderSprites@@", 
+        "demangled_name": "C_OP_RenderSprites"
+    }
+}

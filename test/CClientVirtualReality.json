@@ -1,0 +1,142 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280560744, 
+    "hierarchy_descriptor": {
+        "ea": 280560764, 
+        "base_classes": [
+            {
+                "ea": 280560816, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 7, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200056, 
+                    "name": ".?AVCClientVirtualReality@@", 
+                    "demangled_name": "CClientVirtualReality"
+                }
+            }, 
+            {
+                "ea": 280560844, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 6, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200092, 
+                    "name": ".?AV?$CTier3AppSystem@VIClientVirtualReality@@$0A@@@", 
+                    "demangled_name": "CTier3AppSystem<IClientVirtualReality,0>"
+                }
+            }, 
+            {
+                "ea": 280560920, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200156, 
+                    "name": ".?AV?$CTier2AppSystem@VIClientVirtualReality@@$0A@@@", 
+                    "demangled_name": "CTier2AppSystem<IClientVirtualReality,0>"
+                }
+            }, 
+            {
+                "ea": 280560992, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200220, 
+                    "name": ".?AV?$CTier1AppSystem@VIClientVirtualReality@@$0A@@@", 
+                    "demangled_name": "CTier1AppSystem<IClientVirtualReality,0>"
+                }
+            }, 
+            {
+                "ea": 280561060, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200284, 
+                    "name": ".?AV?$CTier0AppSystem@VIClientVirtualReality@@@@", 
+                    "demangled_name": "CTier0AppSystem<IClientVirtualReality>"
+                }
+            }, 
+            {
+                "ea": 280561124, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200344, 
+                    "name": ".?AV?$CBaseAppSystem@VIClientVirtualReality@@@@", 
+                    "demangled_name": "CBaseAppSystem<IClientVirtualReality>"
+                }
+            }, 
+            {
+                "ea": 280560716, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281200020, 
+                    "name": ".?AVIClientVirtualReality@@", 
+                    "demangled_name": "IClientVirtualReality"
+                }
+            }, 
+            {
+                "ea": 280560640, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281199992, 
+                    "name": ".?AVIAppSystem@@", 
+                    "demangled_name": "IAppSystem"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 8
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281200056, 
+        "name": ".?AVCClientVirtualReality@@", 
+        "demangled_name": "CClientVirtualReality"
+    }
+}

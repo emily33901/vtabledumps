@@ -1,0 +1,112 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280760036, 
+    "hierarchy_descriptor": {
+        "ea": 280760056, 
+        "base_classes": [
+            {
+                "ea": 280760100, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281295820, 
+                    "name": ".?AVCTFHudPasstimePassNotify@@", 
+                    "demangled_name": "CTFHudPasstimePassNotify"
+                }
+            }, 
+            {
+                "ea": 280759916, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281295752, 
+                    "name": ".?AVCTFHudPasstimePanel@@", 
+                    "demangled_name": "CTFHudPasstimePanel"
+                }
+            }, 
+            {
+                "ea": 280523932, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186520, 
+                    "name": ".?AVEditablePanel@vgui@@", 
+                    "demangled_name": "vgui::EditablePanel"
+                }
+            }, 
+            {
+                "ea": 280523996, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186556, 
+                    "name": ".?AVPanel@vgui@@", 
+                    "demangled_name": "vgui::Panel"
+                }
+            }, 
+            {
+                "ea": 280524056, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186584, 
+                    "name": ".?AVIClientPanel@vgui@@", 
+                    "demangled_name": "vgui::IClientPanel"
+                }
+            }, 
+            {
+                "ea": 280524108, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 4, 
+                "member_displacement": 0, 
+                "attributes": 80, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186616, 
+                    "name": ".?AVIForceVirtualInheritancePanel@vgui@@", 
+                    "demangled_name": "vgui::IForceVirtualInheritancePanel"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 3, 
+        "num_base_classes": 6
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281295820, 
+        "name": ".?AVCTFHudPasstimePassNotify@@", 
+        "demangled_name": "CTFHudPasstimePassNotify"
+    }
+}

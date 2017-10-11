@@ -1,0 +1,112 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280902836, 
+    "hierarchy_descriptor": {
+        "ea": 280902856, 
+        "base_classes": [
+            {
+                "ea": 280902900, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281359092, 
+                    "name": ".?AV?$moneypunct@D$00@std@@", 
+                    "demangled_name": "std::moneypunct<char,1>"
+                }
+            }, 
+            {
+                "ea": 280902768, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281359060, 
+                    "name": ".?AV?$_Mpunct@D@std@@", 
+                    "demangled_name": "std::_Mpunct<char>"
+                }
+            }, 
+            {
+                "ea": 280900340, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281357376, 
+                    "name": ".?AUmoney_base@std@@", 
+                    "demangled_name": "std::money_base"
+                }
+            }, 
+            {
+                "ea": 280616920, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281230160, 
+                    "name": ".?AVfacet@locale@std@@", 
+                    "demangled_name": "std::locale::facet"
+                }
+            }, 
+            {
+                "ea": 280616892, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281230128, 
+                    "name": ".?AV_Facet_base@std@@", 
+                    "demangled_name": "std::_Facet_base"
+                }
+            }, 
+            {
+                "ea": 280616980, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281230192, 
+                    "name": ".?AU_Crt_new_delete@std@@", 
+                    "demangled_name": "std::_Crt_new_delete"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 6
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281359092, 
+        "name": ".?AV?$moneypunct@D$00@std@@", 
+        "demangled_name": "std::moneypunct<char,1>"
+    }
+}

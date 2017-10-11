@@ -1,0 +1,82 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280622976, 
+    "hierarchy_descriptor": {
+        "ea": 280622996, 
+        "base_classes": [
+            {
+                "ea": 280623032, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281233288, 
+                    "name": ".?AVCTFQuestAndOperatorRestriction@@", 
+                    "demangled_name": "CTFQuestAndOperatorRestriction"
+                }
+            }, 
+            {
+                "ea": 280622948, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281233244, 
+                    "name": ".?AVCTFQuestOperatorRestriction@@", 
+                    "demangled_name": "CTFQuestOperatorRestriction"
+                }
+            }, 
+            {
+                "ea": 280622868, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281233208, 
+                    "name": ".?AVCTFQuestRestriction@@", 
+                    "demangled_name": "CTFQuestRestriction"
+                }
+            }, 
+            {
+                "ea": 280622788, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281233796, 
+                    "name": ".?AVCTFQuestCondition@@", 
+                    "demangled_name": "CTFQuestCondition"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 4
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281233288, 
+        "name": ".?AVCTFQuestAndOperatorRestriction@@", 
+        "demangled_name": "CTFQuestAndOperatorRestriction"
+    }
+}

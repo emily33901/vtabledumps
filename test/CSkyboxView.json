@@ -1,0 +1,112 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280601012, 
+    "hierarchy_descriptor": {
+        "ea": 280601032, 
+        "base_classes": [
+            {
+                "ea": 280601076, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281219892, 
+                    "name": ".?AVCSkyboxView@@", 
+                    "demangled_name": "CSkyboxView"
+                }
+            }, 
+            {
+                "ea": 280599948, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281219236, 
+                    "name": ".?AVCRendering3dView@@", 
+                    "demangled_name": "CRendering3dView"
+                }
+            }, 
+            {
+                "ea": 280599976, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281219268, 
+                    "name": ".?AVCBase3dView@@", 
+                    "demangled_name": "CBase3dView"
+                }
+            }, 
+            {
+                "ea": 280599860, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281219168, 
+                    "name": ".?AV?$CRefCounted@V?$CRefCountServiceBase@$00VCRefMT@@@@@@", 
+                    "demangled_name": "CRefCounted<CRefCountServiceBase<1,CRefMT>>"
+                }
+            }, 
+            {
+                "ea": 280522520, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185832, 
+                    "name": ".?AV?$CRefCountServiceBase@$00VCRefMT@@@@", 
+                    "demangled_name": "CRefCountServiceBase<1,CRefMT>"
+                }
+            }, 
+            {
+                "ea": 280600040, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 77, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281219296, 
+                    "name": ".?AVCViewSetup@@", 
+                    "demangled_name": "CViewSetup"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 6
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281219892, 
+        "name": ".?AVCSkyboxView@@", 
+        "demangled_name": "CSkyboxView"
+    }
+}

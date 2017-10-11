@@ -1,0 +1,292 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280836532, 
+    "hierarchy_descriptor": {
+        "ea": 280835824, 
+        "base_classes": [
+            {
+                "ea": 280835916, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 17, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281245556, 
+                    "name": ".?AVC_TFSniperRifle@@", 
+                    "demangled_name": "C_TFSniperRifle"
+                }
+            }, 
+            {
+                "ea": 280779832, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 16, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281287232, 
+                    "name": ".?AVC_TFWeaponBaseGun@@", 
+                    "demangled_name": "C_TFWeaponBaseGun"
+                }
+            }, 
+            {
+                "ea": 280645348, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 15, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281194996, 
+                    "name": ".?AVC_TFWeaponBase@@", 
+                    "demangled_name": "C_TFWeaponBase"
+                }
+            }, 
+            {
+                "ea": 280534736, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 11, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191804, 
+                    "name": ".?AVC_BaseCombatWeapon@@", 
+                    "demangled_name": "C_BaseCombatWeapon"
+                }
+            }, 
+            {
+                "ea": 280534764, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 10, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191840, 
+                    "name": ".?AVC_EconEntity@@", 
+                    "demangled_name": "C_EconEntity"
+                }
+            }, 
+            {
+                "ea": 280534856, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 8, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281190676, 
+                    "name": ".?AVC_BaseAnimating@@", 
+                    "demangled_name": "C_BaseAnimating"
+                }
+            }, 
+            {
+                "ea": 280534940, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 6, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281190648, 
+                    "name": ".?AVC_BaseEntity@@", 
+                    "demangled_name": "C_BaseEntity"
+                }
+            }, 
+            {
+                "ea": 280535016, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191868, 
+                    "name": ".?AVIClientEntity@@", 
+                    "demangled_name": "IClientEntity"
+                }
+            }, 
+            {
+                "ea": 280534188, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191564, 
+                    "name": ".?AVIClientUnknown@@", 
+                    "demangled_name": "IClientUnknown"
+                }
+            }, 
+            {
+                "ea": 280534080, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191504, 
+                    "name": ".?AVIHandleEntity@@", 
+                    "demangled_name": "IHandleEntity"
+                }
+            }, 
+            {
+                "ea": 280534320, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191532, 
+                    "name": ".?AVIClientRenderable@@", 
+                    "demangled_name": "IClientRenderable"
+                }
+            }, 
+            {
+                "ea": 280535088, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191896, 
+                    "name": ".?AVIClientNetworkable@@", 
+                    "demangled_name": "IClientNetworkable"
+                }
+            }, 
+            {
+                "ea": 280535168, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 12, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191932, 
+                    "name": ".?AVIClientThinkable@@", 
+                    "demangled_name": "IClientThinkable"
+                }
+            }, 
+            {
+                "ea": 280535248, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 1360, 
+                "attributes": 77, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191596, 
+                    "name": ".?AVIModelLoadCallback@@", 
+                    "demangled_name": "IModelLoadCallback"
+                }
+            }, 
+            {
+                "ea": 280535276, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 2216, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191964, 
+                    "name": ".?AVIHasAttributes@@", 
+                    "demangled_name": "IHasAttributes"
+                }
+            }, 
+            {
+                "ea": 280645460, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 2816, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281192532, 
+                    "name": ".?AVIHasOwner@@", 
+                    "demangled_name": "IHasOwner"
+                }
+            }, 
+            {
+                "ea": 280645488, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 2820, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185208, 
+                    "name": ".?AVCGameEventListener@@", 
+                    "demangled_name": "CGameEventListener"
+                }
+            }, 
+            {
+                "ea": 280645516, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 2820, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185172, 
+                    "name": ".?AVIGameEventListener2@@", 
+                    "demangled_name": "IGameEventListener2"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 18
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 2820, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281245556, 
+        "name": ".?AVC_TFSniperRifle@@", 
+        "demangled_name": "C_TFSniperRifle"
+    }
+}

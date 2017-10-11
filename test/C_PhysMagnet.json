@@ -1,0 +1,172 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280551264, 
+    "hierarchy_descriptor": {
+        "ea": 280551116, 
+        "base_classes": [
+            {
+                "ea": 280551176, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 9, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281197040, 
+                    "name": ".?AVC_PhysMagnet@@", 
+                    "demangled_name": "C_PhysMagnet"
+                }
+            }, 
+            {
+                "ea": 280534856, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 8, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281190676, 
+                    "name": ".?AVC_BaseAnimating@@", 
+                    "demangled_name": "C_BaseAnimating"
+                }
+            }, 
+            {
+                "ea": 280534940, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 6, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281190648, 
+                    "name": ".?AVC_BaseEntity@@", 
+                    "demangled_name": "C_BaseEntity"
+                }
+            }, 
+            {
+                "ea": 280535016, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191868, 
+                    "name": ".?AVIClientEntity@@", 
+                    "demangled_name": "IClientEntity"
+                }
+            }, 
+            {
+                "ea": 280534188, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191564, 
+                    "name": ".?AVIClientUnknown@@", 
+                    "demangled_name": "IClientUnknown"
+                }
+            }, 
+            {
+                "ea": 280534080, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191504, 
+                    "name": ".?AVIHandleEntity@@", 
+                    "demangled_name": "IHandleEntity"
+                }
+            }, 
+            {
+                "ea": 280534320, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191532, 
+                    "name": ".?AVIClientRenderable@@", 
+                    "demangled_name": "IClientRenderable"
+                }
+            }, 
+            {
+                "ea": 280535088, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191896, 
+                    "name": ".?AVIClientNetworkable@@", 
+                    "demangled_name": "IClientNetworkable"
+                }
+            }, 
+            {
+                "ea": 280535168, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 12, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191932, 
+                    "name": ".?AVIClientThinkable@@", 
+                    "demangled_name": "IClientThinkable"
+                }
+            }, 
+            {
+                "ea": 280535248, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 1360, 
+                "attributes": 77, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191596, 
+                    "name": ".?AVIModelLoadCallback@@", 
+                    "demangled_name": "IModelLoadCallback"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 10
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 1360, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281197040, 
+        "name": ".?AVC_PhysMagnet@@", 
+        "demangled_name": "C_PhysMagnet"
+    }
+}

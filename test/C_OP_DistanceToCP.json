@@ -1,0 +1,52 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280877792, 
+    "hierarchy_descriptor": {
+        "ea": 280877812, 
+        "base_classes": [
+            {
+                "ea": 280877840, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281343160, 
+                    "name": ".?AVC_OP_DistanceToCP@@", 
+                    "demangled_name": "C_OP_DistanceToCP"
+                }
+            }, 
+            {
+                "ea": 280874144, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281340736, 
+                    "name": ".?AVCParticleOperatorInstance@@", 
+                    "demangled_name": "CParticleOperatorInstance"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 2
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281343160, 
+        "name": ".?AVC_OP_DistanceToCP@@", 
+        "demangled_name": "C_OP_DistanceToCP"
+    }
+}

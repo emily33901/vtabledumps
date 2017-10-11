@@ -1,0 +1,172 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280842460, 
+    "hierarchy_descriptor": {
+        "ea": 280634472, 
+        "base_classes": [
+            {
+                "ea": 280634444, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 9, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281239336, 
+                    "name": ".?AVCTFStorePage1@@", 
+                    "demangled_name": "CTFStorePage1"
+                }
+            }, 
+            {
+                "ea": 280634532, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 8, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281239364, 
+                    "name": ".?AVCTFStorePageBase@@", 
+                    "demangled_name": "CTFStorePageBase"
+                }
+            }, 
+            {
+                "ea": 280634152, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 7, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281232492, 
+                    "name": ".?AVCStorePage@@", 
+                    "demangled_name": "CStorePage"
+                }
+            }, 
+            {
+                "ea": 280523864, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186488, 
+                    "name": ".?AVPropertyPage@vgui@@", 
+                    "demangled_name": "vgui::PropertyPage"
+                }
+            }, 
+            {
+                "ea": 280523932, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186520, 
+                    "name": ".?AVEditablePanel@vgui@@", 
+                    "demangled_name": "vgui::EditablePanel"
+                }
+            }, 
+            {
+                "ea": 280523996, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186556, 
+                    "name": ".?AVPanel@vgui@@", 
+                    "demangled_name": "vgui::Panel"
+                }
+            }, 
+            {
+                "ea": 280524056, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186584, 
+                    "name": ".?AVIClientPanel@vgui@@", 
+                    "demangled_name": "vgui::IClientPanel"
+                }
+            }, 
+            {
+                "ea": 280524108, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 4, 
+                "member_displacement": 0, 
+                "attributes": 80, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186616, 
+                    "name": ".?AVIForceVirtualInheritancePanel@vgui@@", 
+                    "demangled_name": "vgui::IForceVirtualInheritancePanel"
+                }
+            }, 
+            {
+                "ea": 280634180, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 408, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185208, 
+                    "name": ".?AVCGameEventListener@@", 
+                    "demangled_name": "CGameEventListener"
+                }
+            }, 
+            {
+                "ea": 280634208, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 408, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185172, 
+                    "name": ".?AVIGameEventListener2@@", 
+                    "demangled_name": "IGameEventListener2"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 3, 
+        "num_base_classes": 10
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 408, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281239336, 
+        "name": ".?AVCTFStorePage1@@", 
+        "demangled_name": "CTFStorePage1"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280570560, 
+    "hierarchy_descriptor": {
+        "ea": 280570340, 
+        "base_classes": [
+            {
+                "ea": 280570400, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 9, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281206564, 
+                    "name": ".?AVRSAFunction@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::RSAFunction"
+                }
+            }, 
+            {
+                "ea": 280569528, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281205868, 
+                    "name": ".?AVTrapdoorFunction@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::TrapdoorFunction"
+                }
+            }, 
+            {
+                "ea": 280569468, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281205816, 
+                    "name": ".?AVRandomizedTrapdoorFunction@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::RandomizedTrapdoorFunction"
+                }
+            }, 
+            {
+                "ea": 280569412, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281205768, 
+                    "name": ".?AVTrapdoorFunctionBounds@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::TrapdoorFunctionBounds"
+                }
+            }, 
+            {
+                "ea": 280570428, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281206388, 
+                    "name": ".?AVX509PublicKey@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::X509PublicKey"
+                }
+            }, 
+            {
+                "ea": 280570456, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281206432, 
+                    "name": ".?AV?$ASN1CryptoMaterial@VPublicKey@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>"
+                }
+            }, 
+            {
+                "ea": 280570484, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281203296, 
+                    "name": ".?AVASN1Object@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::ASN1Object"
+                }
+            }, 
+            {
+                "ea": 280570512, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281203044, 
+                    "name": ".?AVPublicKey@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::PublicKey"
+                }
+            }, 
+            {
+                "ea": 280570184, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 4, 
+                "member_displacement": 0, 
+                "attributes": 80, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 8, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281203004, 
+                    "name": ".?AVCryptoMaterial@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::CryptoMaterial"
+                }
+            }, 
+            {
+                "ea": 280570212, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 4, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 8, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202792, 
+                    "name": ".?AVNameValuePairs@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::NameValuePairs"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 3, 
+        "num_base_classes": 10
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 52, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281206564, 
+        "name": ".?AVRSAFunction@CryptoPP@@", 
+        "demangled_name": "CryptoPP::RSAFunction"
+    }
+}

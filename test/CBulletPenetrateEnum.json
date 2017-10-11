@@ -1,0 +1,52 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280770000, 
+    "hierarchy_descriptor": {
+        "ea": 280770020, 
+        "base_classes": [
+            {
+                "ea": 280770048, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281299724, 
+                    "name": ".?AVCBulletPenetrateEnum@@", 
+                    "demangled_name": "CBulletPenetrateEnum"
+                }
+            }, 
+            {
+                "ea": 280769352, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281299328, 
+                    "name": ".?AVIEntityEnumerator@@", 
+                    "demangled_name": "IEntityEnumerator"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 2
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281299724, 
+        "name": ".?AVCBulletPenetrateEnum@@", 
+        "demangled_name": "CBulletPenetrateEnum"
+    }
+}

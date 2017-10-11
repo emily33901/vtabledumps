@@ -1,0 +1,127 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280586236, 
+    "hierarchy_descriptor": {
+        "ea": 280585948, 
+        "base_classes": [
+            {
+                "ea": 280585996, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 6, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281213168, 
+                    "name": ".?AVCNewParticleEffect@@", 
+                    "demangled_name": "CNewParticleEffect"
+                }
+            }, 
+            {
+                "ea": 280535940, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281192160, 
+                    "name": ".?AVIParticleEffect@@", 
+                    "demangled_name": "IParticleEffect"
+                }
+            }, 
+            {
+                "ea": 280586024, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 16, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281213204, 
+                    "name": ".?AVCParticleCollection@@", 
+                    "demangled_name": "CParticleCollection"
+                }
+            }, 
+            {
+                "ea": 280586104, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281212752, 
+                    "name": ".?AVCDefaultClientRenderable@@", 
+                    "demangled_name": "CDefaultClientRenderable"
+                }
+            }, 
+            {
+                "ea": 280586132, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191564, 
+                    "name": ".?AVIClientUnknown@@", 
+                    "demangled_name": "IClientUnknown"
+                }
+            }, 
+            {
+                "ea": 280586160, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191504, 
+                    "name": ".?AVIHandleEntity@@", 
+                    "demangled_name": "IHandleEntity"
+                }
+            }, 
+            {
+                "ea": 280586188, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281191532, 
+                    "name": ".?AVIClientRenderable@@", 
+                    "demangled_name": "IClientRenderable"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 7
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 8, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281213168, 
+        "name": ".?AVCNewParticleEffect@@", 
+        "demangled_name": "CNewParticleEffect"
+    }
+}

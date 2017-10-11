@@ -1,0 +1,187 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280741664, 
+    "hierarchy_descriptor": {
+        "ea": 280741572, 
+        "base_classes": [
+            {
+                "ea": 280741636, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 10, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281287340, 
+                    "name": ".?AVC_TFGameRules@@", 
+                    "demangled_name": "C_TFGameRules"
+                }
+            }, 
+            {
+                "ea": 280595104, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 9, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281217152, 
+                    "name": ".?AVC_TeamplayRoundBasedRules@@", 
+                    "demangled_name": "C_TeamplayRoundBasedRules"
+                }
+            }, 
+            {
+                "ea": 280594996, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 6, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281217192, 
+                    "name": ".?AVC_TeamplayRules@@", 
+                    "demangled_name": "C_TeamplayRules"
+                }
+            }, 
+            {
+                "ea": 280584676, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 5, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281209808, 
+                    "name": ".?AVC_MultiplayRules@@", 
+                    "demangled_name": "C_MultiplayRules"
+                }
+            }, 
+            {
+                "ea": 280575408, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281209156, 
+                    "name": ".?AVC_GameRules@@", 
+                    "demangled_name": "C_GameRules"
+                }
+            }, 
+            {
+                "ea": 280523060, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 3, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186128, 
+                    "name": ".?AVCAutoGameSystemPerFrame@@", 
+                    "demangled_name": "CAutoGameSystemPerFrame"
+                }
+            }, 
+            {
+                "ea": 280523124, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186168, 
+                    "name": ".?AVCBaseGameSystemPerFrame@@", 
+                    "demangled_name": "CBaseGameSystemPerFrame"
+                }
+            }, 
+            {
+                "ea": 280523184, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186208, 
+                    "name": ".?AVIGameSystemPerFrame@@", 
+                    "demangled_name": "IGameSystemPerFrame"
+                }
+            }, 
+            {
+                "ea": 280523240, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281186244, 
+                    "name": ".?AVIGameSystem@@", 
+                    "demangled_name": "IGameSystem"
+                }
+            }, 
+            {
+                "ea": 280595132, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 32, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185208, 
+                    "name": ".?AVCGameEventListener@@", 
+                    "demangled_name": "CGameEventListener"
+                }
+            }, 
+            {
+                "ea": 280595160, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 32, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281185172, 
+                    "name": ".?AVIGameEventListener2@@", 
+                    "demangled_name": "IGameEventListener2"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 11
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 32, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281287340, 
+        "name": ".?AVC_TFGameRules@@", 
+        "demangled_name": "C_TFGameRules"
+    }
+}

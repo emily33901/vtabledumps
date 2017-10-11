@@ -1,0 +1,262 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280568788, 
+    "hierarchy_descriptor": {
+        "ea": 280568564, 
+        "base_classes": [
+            {
+                "ea": 280568652, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 15, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204784, 
+                    "name": ".?AV?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::BlockCipherFinal<0,CryptoPP::Rijndael::Enc>"
+                }
+            }, 
+            {
+                "ea": 280568680, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 14, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204856, 
+                    "name": ".?AV?$ClonableImpl@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VEnc@Rijndael@2@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::ClonableImpl<CryptoPP::BlockCipherFinal<0,CryptoPP::Rijndael::Enc>,CryptoPP::Rijndael::Enc>"
+                }
+            }, 
+            {
+                "ea": 280568516, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 13, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204744, 
+                    "name": ".?AVEnc@Rijndael@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::Rijndael::Enc"
+                }
+            }, 
+            {
+                "ea": 280567776, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 12, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204104, 
+                    "name": ".?AVBase@Rijndael@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::Rijndael::Base"
+                }
+            }, 
+            {
+                "ea": 280567804, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 11, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204144, 
+                    "name": ".?AV?$BlockCipherImpl@URijndael_Info@CryptoPP@@VBlockCipher@2@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::BlockCipherImpl<CryptoPP::Rijndael_Info,CryptoPP::BlockCipher>"
+                }
+            }, 
+            {
+                "ea": 280567900, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 10, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204232, 
+                    "name": ".?AV?$AlgorithmImpl@V?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@V12@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>,CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>>"
+                }
+            }, 
+            {
+                "ea": 280567992, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 9, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204384, 
+                    "name": ".?AV?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>,CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>>"
+                }
+            }, 
+            {
+                "ea": 280568080, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 8, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204504, 
+                    "name": ".?AV?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::TwoBases<CryptoPP::BlockCipher,CryptoPP::Rijndael_Info>"
+                }
+            }, 
+            {
+                "ea": 280565312, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 4, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202968, 
+                    "name": ".?AVBlockCipher@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::BlockCipher"
+                }
+            }, 
+            {
+                "ea": 280565124, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202832, 
+                    "name": ".?AVSimpleKeyingInterface@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::SimpleKeyingInterface"
+                }
+            }, 
+            {
+                "ea": 280565340, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202880, 
+                    "name": ".?AVBlockTransformation@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::BlockTransformation"
+                }
+            }, 
+            {
+                "ea": 280565368, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202644, 
+                    "name": ".?AVAlgorithm@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::Algorithm"
+                }
+            }, 
+            {
+                "ea": 280565396, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 4, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281202680, 
+                    "name": ".?AVClonable@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::Clonable"
+                }
+            }, 
+            {
+                "ea": 280568164, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 2, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204580, 
+                    "name": ".?AURijndael_Info@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::Rijndael_Info"
+                }
+            }, 
+            {
+                "ea": 280568384, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 8, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204620, 
+                    "name": ".?AV?$FixedBlockSize@$0BA@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::FixedBlockSize<16>"
+                }
+            }, 
+            {
+                "ea": 280568412, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 9, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281204672, 
+                    "name": ".?AV?$VariableKeyLength@$0BA@$0BA@$0CA@$07$03$0A@@CryptoPP@@", 
+                    "demangled_name": "CryptoPP::VariableKeyLength<16,16,32,8,4,0>"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 1, 
+        "num_base_classes": 16
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 4, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281204784, 
+        "name": ".?AV?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@", 
+        "demangled_name": "CryptoPP::BlockCipherFinal<0,CryptoPP::Rijndael::Enc>"
+    }
+}

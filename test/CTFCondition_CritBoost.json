@@ -1,0 +1,52 @@
+{
+    "constructor_offset": 0, 
+    "signature": 0, 
+    "ea": 280736596, 
+    "hierarchy_descriptor": {
+        "ea": 280736616, 
+        "base_classes": [
+            {
+                "ea": 280736644, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 1, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281284544, 
+                    "name": ".?AVCTFCondition_CritBoost@@", 
+                    "demangled_name": "CTFCondition_CritBoost"
+                }
+            }, 
+            {
+                "ea": 280736496, 
+                "__class": "BaseClassDescriptor", 
+                "internal_displacement": 0, 
+                "member_displacement": 0, 
+                "attributes": 64, 
+                "num_contained_bases": 0, 
+                "vtable_displacement": 4294967295, 
+                "type_descriptor": {
+                    "__class": "TypeDescriptor", 
+                    "ea": 281284484, 
+                    "name": ".?AVCTFCondition@@", 
+                    "demangled_name": "CTFCondition"
+                }
+            }
+        ], 
+        "__class": "ClassHierarchyDescriptor", 
+        "signature": 0, 
+        "attributes": 0, 
+        "num_base_classes": 2
+    }, 
+    "__class": "CompleteObjectLocator", 
+    "offset": 0, 
+    "type_descriptor": {
+        "__class": "TypeDescriptor", 
+        "ea": 281284544, 
+        "name": ".?AVCTFCondition_CritBoost@@", 
+        "demangled_name": "CTFCondition_CritBoost"
+    }
+}
